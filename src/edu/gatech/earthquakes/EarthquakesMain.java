@@ -4,6 +4,8 @@ import processing.core.PApplet;
 
 public class EarthquakesMain extends PApplet{
 
+	private static final long serialVersionUID = 1L;
+
 	public static void main(String[] args) {
 		PApplet.main(new String[] { "--present", "EarthquakesMain" });
 	}
