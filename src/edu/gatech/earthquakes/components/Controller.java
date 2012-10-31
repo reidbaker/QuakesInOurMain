@@ -21,6 +21,7 @@ public class Controller {
 	private List<Interactable> interactableVises;
 	private final DataSet MasterData;
 
+
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
 		this.MasterData = Importer.importData();
