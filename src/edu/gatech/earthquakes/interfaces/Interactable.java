@@ -1,6 +1,6 @@
 package edu.gatech.earthquakes.interfaces;
 
-public interface Interractable {
+public interface Interactable {
 
 	public void handleInput();
 	

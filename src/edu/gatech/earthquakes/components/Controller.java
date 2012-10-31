@@ -6,7 +6,7 @@ import processing.core.PApplet;
 import edu.gatech.earthquakes.interfaces.Brushable;
 import edu.gatech.earthquakes.interfaces.Drawable;
 import edu.gatech.earthquakes.interfaces.Filterable;
-import edu.gatech.earthquakes.interfaces.Interractable;
+import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 
 public class Controller {
@@ -16,7 +16,7 @@ public class Controller {
 	private List<Brushable> brushableVises;
 	private List<Drawable> drawableVises;
 	private List<Filterable> filterableVises;
-	private List<Interractable> interractableVises;
+	private List<Interactable> interractableVises;
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
@@ -29,7 +29,7 @@ public class Controller {
 			drawableVises.add(av);
 		if(av instanceof Filterable)
 			filterableVises.add(av);
-		if(av instanceof Interractable)
+		if(av instanceof Interactable)
 			interractableVises.add(av);
 	}
 }
