@@ -16,7 +16,7 @@ public class Controller {
 	private List<Brushable> brushableVises;
 	private List<Drawable> drawableVises;
 	private List<Filterable> filterableVises;
-	private List<Interactable> interractableVises;
+	private List<Interactable> interactableVises;
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
@@ -30,6 +30,6 @@ public class Controller {
 		if(av instanceof Filterable)
 			filterableVises.add(av);
 		if(av instanceof Interactable)
-			interractableVises.add(av);
+			interactableVises.add(av);
 	}
 }

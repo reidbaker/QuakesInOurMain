@@ -5,7 +5,11 @@ import java.util.Collection;
 public class DataSet {
 
 	private Collection<DataRow> datum;
-	
+
+	public DataSet(Collection<DataRow> datum){
+        this.datum = datum;
+    }
+
 	public Collection<DataRow> getDatum() {
 		return datum;
 	}
@@ -14,8 +18,6 @@ public class DataSet {
 		this.datum = datum;
 	}
 
-	public DataSet(Collection<DataRow> datum){
-		this.datum = datum;
-	}
-	
+
+
 }
