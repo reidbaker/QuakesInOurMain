@@ -29,12 +29,12 @@ public class Controller {
 
 	public void registerVisualization(AbstractVisualization av){
 		if(av instanceof Brushable)
-			brushableVises.add(av);
+			brushableVises.add((Brushable)av);
 		if(av instanceof Drawable)
-			drawableVises.add(av);
+			drawableVises.add((Drawable)av);
 		if(av instanceof Filterable)
-			filterableVises.add(av);
+			filterableVises.add((Filterable)av);
 		if(av instanceof Interactable)
-			interactableVises.add(av);
+			interactableVises.add((Interactable)av);
 	}
 }

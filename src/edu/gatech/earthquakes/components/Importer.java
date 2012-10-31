@@ -60,7 +60,7 @@ public class Importer {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        System.out.println(date.getYear());
+        System.out.println(date);//.getYear());
         System.out.println(yearMonthDay);
         return date;
     }
