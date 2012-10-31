@@ -7,7 +7,9 @@ import edu.gatech.earthquakes.interfaces.Brushable;
 import edu.gatech.earthquakes.interfaces.Drawable;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
+import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
+import edu.gatech.earthquakes.components.Importer;
 
 public class Controller {
 
@@ -17,9 +19,11 @@ public class Controller {
 	private List<Drawable> drawableVises;
 	private List<Filterable> filterableVises;
 	private List<Interactable> interactableVises;
+	private final DataSet MasterData;
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
+		this.MasterData = Importer.importData();
 	}
 
 	public void registerVisualization(AbstractVisualization av){
