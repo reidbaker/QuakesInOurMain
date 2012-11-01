@@ -33,7 +33,7 @@ public class NominalBarGraph extends BarGraph
 		int barX = x+buffer;
 		
 		for(Object key : bars.keySet()){
-			parent.rect(barX, y+(h-buffer-bars.get(key)*10), barW, bars.get(key)*10);
+			parent.rect(barX, y+(h-buffer-bars.get(key)), barW, bars.get(key));
 			barX += barW+2;
 			//parent.fill(255);
 			parent.textAlign(PApplet.CENTER);
@@ -45,19 +45,14 @@ public class NominalBarGraph extends BarGraph
 		HashSet<DataRow> currentData = (HashSet<DataRow>)displayData.getDatum();
 		
 		for(DataRow row: currentData){
-			System.out.println(row.getValue(dataType));
-			if(bars.containsKey(row.getValue(dataType)))
-				bars.put(row.getValue(dataType), bars.get(row.getValue(dataType))+1);
-			else
-				bars.put(row.getValue(dataType), 1);
+			if(row.getValue(dataType)!=null)
+				if(bars.containsKey(row.getValue(dataType)))
+					bars.put(row.getValue(dataType), bars.get(row.getValue(dataType))+1);
+				else
+					bars.put(row.getValue(dataType), 1);
 		}
 		
 		numDivisions = bars.size();
-	}
-	
-	public static void main(String[] args) {
-		NominalBarGraph n = new NominalBarGraph(0, 0, 0, 0,Importer.importData(), DataRow.CONTINENT);
-		System.out.println(n.numDivisions);
 	}
 
 }
