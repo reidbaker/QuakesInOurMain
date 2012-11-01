@@ -42,5 +42,9 @@ public class DataRow {
 	public void setVariables(Map<String, Object> variables) {
 		this.variables = variables;
 	}
+	
+	public Object getValue(String dataType){
+		return variables.get(dataType);
+	}
 
 }
