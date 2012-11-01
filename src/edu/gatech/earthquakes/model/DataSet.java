@@ -1,20 +1,20 @@
 package edu.gatech.earthquakes.model;
 
-import java.util.Collection;
+import java.util.Set;
 
 public class DataSet {
 
-	private Collection<DataRow> datum;
+	private Set<DataRow> datum;
 
-	public DataSet(Collection<DataRow> datum){
+	public DataSet(Set<DataRow> datum){
         this.datum = datum;
     }
 
-	public Collection<DataRow> getDatum() {
+	public Set<DataRow> getDatum() {
 		return datum;
 	}
 
-	public void setDatum(Collection<DataRow> datum) {
+	public void setDatum(Set<DataRow> datum) {
 		this.datum = datum;
 	}
 
