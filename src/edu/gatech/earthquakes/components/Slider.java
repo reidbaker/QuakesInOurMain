@@ -151,7 +151,7 @@ public class Slider extends AbstractVisualization implements Interactable{
 	@Override
 	public void drawComponent(PApplet parent) {
 		PApplet p = parent;
-		p.stroke(127, 127, 127);
+		p.stroke(Theme.getBaseUIColor());
 		p.strokeWeight(2);
 		p.noFill();
 		p.strokeJoin(PApplet.ROUND);
@@ -163,9 +163,9 @@ public class Slider extends AbstractVisualization implements Interactable{
 		p.endShape();
 
 		// Draw underlying data
-		p.fill(0, 0, 0);
-		p.strokeWeight(1);
-		p.stroke(0);
+		p.fill(Theme.getDarkUIColor());
+		p.strokeWeight(2);
+		p.stroke(Theme.getBaseUIColor());
 		p.line(x, y + h, x + w, y + h);
 		for (int i = 0; i < values.length; i++) {
 			int xpos = x + (i) * w / (values.length) + w / (2 * values.length);
