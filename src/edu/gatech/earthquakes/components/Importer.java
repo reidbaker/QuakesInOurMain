@@ -23,8 +23,15 @@ public class Importer {
     public static DataSet importData(){
         try {
             BufferedReader reader = new BufferedReader(new FileReader(new File(dataLocation + fileName)));
-            while(reader.){
-                readQuake(reader);
+            String[] yearRecord = reader.readLine().split("\\s");
+            // Most of the data
+            String [] data = reader.readLine().split("\\s");
+
+            while(yearRecord != null){
+                readQuake(yearRecord, data);
+                yearRecord = reader.readLine().split("\\s");
+                // Most of the data
+                data = reader.readLine().split("\\s");
             }
             reader.close();
         } catch (FileNotFoundException e) {
@@ -37,10 +44,9 @@ public class Importer {
         return null;
     }
 
-    private static DataRow readQuake(BufferedReader reader) throws IOException{
+    private static DataRow readQuake(String [] yearRecord, String [] data) throws IOException{
         Map<String, Object> curQuake = Maps.newHashMap();
 
-        String[] yearRecord = reader.readLine().split("\\s");
 
         String date = yearRecord[0];
         curQuake.put(DataRow.DATE, createDate(date));
@@ -48,8 +54,6 @@ public class Importer {
         String record = yearRecord[1];
         curQuake.put(DataRow.RECORD, record);
 
-        // Most of the data
-        String [] data = reader.readLine().split("\\s");
         double lat = parseDoubleMissing(data[1]);
         curQuake.put(DataRow.LATTITUDE, lat);
 
@@ -114,11 +118,11 @@ public class Importer {
 
     private static DataRow.type findType(String type){
         //the input --- is what is passed when data is not there
-        switch (type){
+/*(        switch (type){
         case "deep min": return DataRow.type.DEEP_MINING;
         case "-": return null;
         }
-        return DataRow.type.TECT;
+*/        return DataRow.type.TECT;
     }
 
     private static Double parseDoubleMissing(String num){
