@@ -22,7 +22,7 @@ public class Controller {
 	private List<Filterable> filterableVises;
 	private List<Interactable> interactableVises;
 
-	private final DataSet MasterData;
+	private final DataSet masterData;
 
 	private static Controller controllerInstance;
 
@@ -30,7 +30,7 @@ public class Controller {
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
-		this.MasterData = Importer.importData();
+		this.masterData = Importer.importData();
 		controllerInstance = this;
 
 		brushableVises = Lists.newArrayList();
@@ -38,8 +38,15 @@ public class Controller {
 		filterableVises = Lists.newArrayList();
 		interactableVises = Lists.newArrayList();
 
-		dataslider = new Slider(50, 768 - 100 - 50, 924, 100, new int[] { 1, 2,
-				3, 4, 5 });
+		int[] test = new int[2012-495];
+		for(int i = 0; i < test.length; i++){
+			test[i] = i+495;
+		}
+		
+		Workspace workspace = new Workspace(10, 10, parent.getWidth() - 20, parent.getHeight() - 120);
+		registerVisualization(workspace);
+		
+		dataslider = new Slider(50, 768 - 100, 924, 50, masterData);
 		registerVisualization(dataslider);
 	}
 
