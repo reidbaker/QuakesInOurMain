@@ -21,8 +21,8 @@ public class Importer {
     private final static String dataLocation = "../data/";
     private final static String fileName = "Catalog.txt";
 
-    private final static String DATE = "Date";
-    private final static String RECORD = "Record";
+    public final static String DATE = "Date";
+    public final static String RECORD = "Record";
     public static DataSet importData(){
         try {
             BufferedReader reader = new BufferedReader(new FileReader(new File(dataLocation + fileName)));
@@ -49,8 +49,6 @@ public class Importer {
         String record = yearRecord[1];
         curQuake.put(RECORD, record);
 
-        //System.out.println(reader.readLine());
-
         return new DataRow(curQuake);
     }
 
@@ -62,9 +60,6 @@ public class Importer {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        Calendar cal = Calendar.getInstance();
-        System.out.println(cal.get(Calendar.YEAR));
-        System.out.println(yearMonthDay);
         return date;
     }
 
