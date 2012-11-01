@@ -24,7 +24,7 @@ public class EarthquakesMain extends PApplet{
 		cont.refresh();
 	}
 	
-	public void handleInput(){
-		
+	public void mouseReleased() {
+		cont.releasedMouse();
 	}
 }

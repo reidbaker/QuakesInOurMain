@@ -1,10 +1,10 @@
 package edu.gatech.earthquakes.components;
 
 import processing.core.PApplet;
-import edu.gatech.earthquakes.interfaces.Drawable;
+import edu.gatech.earthquakes.interfaces.Interactable;
+import edu.gatech.earthquakes.vises.AbstractVisualization;
 
-public class Slider implements Drawable{
-	int x, y, w, h;
+public class Slider extends AbstractVisualization implements Interactable{
 	float left, right;
 	int goalLeft, goalRight;
 	int snappedLeft, snappedRight;
@@ -13,15 +13,15 @@ public class Slider implements Drawable{
 	int drawInterval;
 
 	int[] values;
+	
+	boolean moveLeft, moveRight, moveAll;
 
 	public static final int OUTSIDE = 0, INSIDE = 1, LEFTHANDLE = 2,
 			RIGHTHANDLE = 3;
 
 	public Slider(int x, int y, int w, int h, int[] values) {
-		this.left = this.x = x;
-		this.y = y;
-		this.w = w;
-		this.h = h;
+		super(x, y, w, h);
+		this.left = x;
 		this.right = w + x;
 		goalLeft = (int) (left + 0.5f);
 		goalRight = (int) (right + 0.5f);
@@ -31,6 +31,8 @@ public class Slider implements Drawable{
 		this.values = values;
 		rangeMin = values[0];
 		rangeMax = values[values.length - 1];
+		
+		moveLeft = moveRight = moveAll = false;
 	}
 
 	public void changeWidthTo(int newWidth) {
@@ -225,10 +227,47 @@ public class Slider implements Drawable{
 		p.ellipse(right + 5, y + (h / 2) - 5, 4, 4);
 		p.ellipse(right + 5, y + (h / 2), 4, 4);
 		p.ellipse(right + 5, y + (h / 2) + 5, 4, 4);
+		
+		updateAnim(4);
 	}
 
 	private int rgba(int rgb, int a){
 		return rgb & ((a << 24) | 0xFFFFFF);
+	}
+
+	@Override
+	public void handleInput(boolean pressed, boolean dragged, boolean released,
+			PApplet parent) {
+		if (pressed) {
+			int location = whereIs(parent.mouseX, parent.mouseY);
+			switch (location) {
+			case LEFTHANDLE:
+				moveLeft = true;
+				break;
+			case RIGHTHANDLE:
+				moveRight = true;
+				break;
+			case INSIDE:
+				moveAll = true;
+				break;
+			}
+		} else if (dragged) {
+			if(moveLeft){
+				dragLH(parent.mouseX, parent.pmouseX);
+				snapGoals();
+			}
+			if(moveRight){
+				dragRH(parent.mouseX, parent.pmouseX);
+				snapGoals();
+			}
+			if(moveAll){
+				dragAll(parent.mouseX, parent.pmouseX);
+				snapGoals();
+			}
+		} else if(released){
+			updateGoals();
+			moveLeft = moveRight = moveAll = false;
+		}
 	}
 
 }

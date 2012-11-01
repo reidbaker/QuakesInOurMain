@@ -2,6 +2,8 @@ package edu.gatech.earthquakes.components;
 
 import java.util.List;
 
+import com.google.common.collect.Lists;
+
 import processing.core.PApplet;
 import edu.gatech.earthquakes.interfaces.Brushable;
 import edu.gatech.earthquakes.interfaces.Drawable;
@@ -28,11 +30,18 @@ public class Controller {
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
-		this.MasterData = Importer.importData();
+//		this.MasterData = Importer.importData();
+		this.MasterData = new DataSet(null);
 		
 		controllerInstance = this;
 		
+		brushableVises = Lists.newArrayList();
+		drawableVises = Lists.newArrayList();
+		filterableVises = Lists.newArrayList();
+		interactableVises = Lists.newArrayList();
+		
 		dataslider = new Slider(50, 768-100-50, 924, 100, new int[]{1,2,3,4,5});
+		registerVisualization(dataslider);
 	}
 
 	public void registerVisualization(AbstractVisualization av){
@@ -47,12 +56,34 @@ public class Controller {
 	}
 	
 	public void redrawAll(){
-		dataslider.drawComponent(parentApplet);
+		for(Drawable d : drawableVises){
+			d.drawComponent(parentApplet);
+		}
 	}
 	
+	private boolean alreadyPressed;
+	
 	public void handleInput(){
+		boolean firstPress = false;
+		boolean drag = false;
+		boolean released = false;
 		if(parentApplet.mousePressed){
-			
+			if(!alreadyPressed){
+				firstPress = true;
+			} else {
+				drag = true;
+			}
+			alreadyPressed = true;
+		}
+		else{
+			if(alreadyPressed == true){
+				released = true;
+			}
+			alreadyPressed = false;
+		}
+		
+		for(Interactable i : interactableVises){
+			i.handleInput(firstPress, drag, released, parentApplet);
 		}
 	}
 	
@@ -68,6 +99,10 @@ public class Controller {
 	public void refresh(){
 		handleInput();
 		redrawAll();
+	}
+	
+	public void releasedMouse(){
+		
 	}
 	
 	public List<Brushable> getBrushableVises() {
