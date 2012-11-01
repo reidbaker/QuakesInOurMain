@@ -13,8 +13,11 @@ public abstract class Multi extends AbstractVisualization {
 
 	protected DataSet displayData;
 
-	public Multi(int x, int y, int w, int h) {
+	public Multi(int x, int y, int w, int h, DataSet displayData) {
 		super(x, y, w, h);
+		
+		this.displayData = displayData;
+		
 	}
 
 	protected final void applyFilterGlobally() {

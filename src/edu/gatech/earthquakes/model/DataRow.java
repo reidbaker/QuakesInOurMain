@@ -9,7 +9,7 @@ public class DataRow {
     public final static String LONGITUDE = "Longitude";
     public final static String TIME = "Time";
     public final static String CONTINENT = "Continent";
-    public enum continent {
+    public enum Continent {
         AFRICA,
         AUSTRALIA,
         CHINA,
@@ -25,13 +25,13 @@ public class DataRow {
     public final static String SURFACE_WAVE_MAGNITUDE = "Surface Wave Magnitude";
     public final static String LOCAL_WAVE_MAGNITUDE = "Local Wave Magnitude";
     public final static String DEPENDENCY = "Dependency";
-    public enum dependency{
+    public enum Dependency{
         INDEPENDENT,
         DEPENDENT,
         POSSIBLY,
     }
     public final static String TYPE = "Type";
-    public enum type{
+    public enum Type{
         TECT,
         DEEP_MINING,
         MINING,

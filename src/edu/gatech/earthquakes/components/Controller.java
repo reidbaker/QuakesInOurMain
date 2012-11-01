@@ -9,8 +9,10 @@ import edu.gatech.earthquakes.interfaces.Brushable;
 import edu.gatech.earthquakes.interfaces.Drawable;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
+import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
+import edu.gatech.earthquakes.vises.NominalBarGraph;
 import edu.gatech.earthquakes.components.Importer;
 
 public class Controller {
@@ -48,6 +50,9 @@ public class Controller {
 		
 		dataslider = new Slider(50, 768 - 100, 924, 50, masterData);
 		registerVisualization(dataslider);
+		
+		NominalBarGraph n = new NominalBarGraph(20, 20, 200, 400,Importer.importData(), DataRow.CONTINENT);
+		registerVisualization(n);
 	}
 
 	public void registerVisualization(AbstractVisualization av) {

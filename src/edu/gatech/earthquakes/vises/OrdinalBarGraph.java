@@ -10,8 +10,8 @@ public class OrdinalBarGraph extends BarGraph{
 	
 	private Double min, max;
 	
-	public OrdinalBarGraph(int x, int y, int w, int h, String dataType) {
-		super(x, y, w, h, dataType);
+	public OrdinalBarGraph(int x, int y, int w, int h, DataSet displayData, String dataType) {
+		super(x, y, w, h,displayData,dataType);
 		calculateDataRange();
 	}
 

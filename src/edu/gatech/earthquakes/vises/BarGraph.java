@@ -11,8 +11,8 @@ public abstract class BarGraph extends Aggregate implements Filterable{
 	protected int numDivisions;
 	
 
-	public BarGraph(int x, int y, int w, int h, String dataType) {
-		super(x, y, w, h);
+	public BarGraph(int x, int y, int w, int h, DataSet displayData, String dataType) {
+		super(x, y, w, h, displayData);
 		
 		this.dataType = dataType;
 	}

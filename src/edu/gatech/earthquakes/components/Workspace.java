@@ -6,7 +6,9 @@ import processing.core.PApplet;
 
 import com.google.common.collect.Lists;
 
+import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
+import edu.gatech.earthquakes.vises.NominalBarGraph;
 
 public class Workspace extends AbstractVisualization {
 
