@@ -75,7 +75,7 @@ public class Importer {
         return date;
     }
 
-    private String timeConvert(String time){
+    private static String timeConvert(String time){
         return time;
     }
 }
