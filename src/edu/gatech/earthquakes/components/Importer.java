@@ -79,7 +79,7 @@ public class Importer {
         curQuake.put(DataRow.DEPENDENCY, findDependancy(eventDep));
 
         String eventType = data[30];
-        curQuake.put(DataRow.DEPENDENCY, findType(eventType));
+        curQuake.put(DataRow.TYPE, findType(eventType));
 
         return new DataRow(curQuake);
     }
