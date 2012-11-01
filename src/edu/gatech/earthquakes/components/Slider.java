@@ -1,7 +1,17 @@
 package edu.gatech.earthquakes.components;
 
+import java.util.Calendar;
+import java.util.Date;
+import java.util.Iterator;
+import java.util.Set;
+
 import processing.core.PApplet;
+
+import com.google.common.collect.Sets;
+
 import edu.gatech.earthquakes.interfaces.Interactable;
+import edu.gatech.earthquakes.model.DataRow;
+import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 
 public class Slider extends AbstractVisualization implements Interactable{
@@ -12,14 +22,16 @@ public class Slider extends AbstractVisualization implements Interactable{
 
 	int drawInterval;
 
-	int[] values;
+	DataSet data;
+	int[] years;
+	int[] fullYears;
 	
 	boolean moveLeft, moveRight, moveAll;
 
 	public static final int OUTSIDE = 0, INSIDE = 1, LEFTHANDLE = 2,
 			RIGHTHANDLE = 3;
 
-	public Slider(int x, int y, int w, int h, int[] values) {
+	public Slider(int x, int y, int w, int h, DataSet data) {
 		super(x, y, w, h);
 		this.left = x;
 		this.right = w + x;
@@ -27,12 +39,33 @@ public class Slider extends AbstractVisualization implements Interactable{
 		goalRight = (int) (right + 0.5f);
 		snappedLeft = goalLeft;
 		snappedRight = goalRight;
-		drawInterval = 1;
-		this.values = values;
-		rangeMin = values[0];
-		rangeMax = values[values.length - 1];
+		drawInterval = 100;
+		this.data = data;
 		
+		grabDates();
+
+		rangeMin = years[0];
+		rangeMax = years[years.length - 1];
+		fullYears = new int[rangeMax - rangeMin];
+		for(int i = 0; i < fullYears.length; i++){
+			fullYears[i] = i + years[0];
+		}
+
 		moveLeft = moveRight = moveAll = false;
+	}
+
+	public void grabDates() {
+		Set<Date> dates = Sets.newTreeSet();
+		for (DataRow dr : data.getDatum()) {
+			dates.add((Date) dr.getVariables().get(DataRow.DATE));
+		}
+		Date[] dateArray = dates.toArray(new Date[] {});
+		years = new int[dateArray.length];
+		Calendar cal = Calendar.getInstance();
+		for (int i = 0; i < years.length; i++) {
+			cal.setTime(dateArray[i]);
+			years[i] = cal.get(Calendar.YEAR);
+		}
 	}
 
 	public void changeWidthTo(int newWidth) {
@@ -81,8 +114,8 @@ public class Slider extends AbstractVisualization implements Interactable{
 		goalLeft += nx - px;
 		if (goalLeft < x) {
 			goalLeft += x - goalLeft;
-		} else if (goalLeft > goalRight - w / values.length) {
-			goalLeft = goalRight - w / values.length;
+		} else if (goalLeft > goalRight - w / fullYears.length) {
+			goalLeft = goalRight - w / fullYears.length;
 		}
 	}
 
@@ -90,42 +123,42 @@ public class Slider extends AbstractVisualization implements Interactable{
 		goalRight += nx - px;
 		if (goalRight > x + w) {
 			goalRight -= (goalRight - (x + w));
-		} else if (goalLeft > goalRight - w / values.length) {
-			goalRight = goalLeft + w / values.length;
+		} else if (goalLeft > goalRight - w / fullYears.length) {
+			goalRight = goalLeft + w / fullYears.length;
 		}
 	}
 
 	public void snapGoals() {
 		int leftX = goalLeft - x;
 		float ratioL = leftX / (float) w;
-		int index = (int) (ratioL * values.length + 0.5);
-		snappedLeft = x + w * index / values.length;
+		int index = (int) (ratioL * fullYears.length + 0.5);
+		snappedLeft = x + w * index / fullYears.length;
 		if (index == 0)
 			snappedLeft = x;
-		rangeMin = values[index];
+		rangeMin = fullYears[index];
 
 		int rightX = goalRight - x;
 		float ratioR = rightX / (float) w;
-		index = (int) (ratioR * values.length + 0.5);
-		if (index == values.length)
+		index = (int) (ratioR * fullYears.length + 0.5);
+		if (index == fullYears.length)
 			snappedRight = x + w;
-		snappedRight = x + w * index / values.length;
+		snappedRight = x + w * index / fullYears.length;
 		if (index != 0)
-			rangeMax = values[index - 1];
+			rangeMax = fullYears[index - 1];
 	}
 
 	public int getLeftBound() {
 		int leftX = (int) (left + 0.5) - x;
 		float ratioL = leftX / (float) w;
-		int index = (int) (ratioL * values.length + 0.5);
-		return values[index];
+		int index = (int) (ratioL * fullYears.length + 0.5);
+		return fullYears[index];
 	}
 
 	public int getRightBound() {
 		int rightX = (int) (right + 0.5) - x;
 		float ratioR = rightX / (float) w;
-		int index = (int) (ratioR * values.length + 0.5);
-		return values[index - 1];
+		int index = (int) (ratioR * fullYears.length + 0.5);
+		return fullYears[index - 1];
 	}
 
 	public void updateGoals() {
@@ -167,21 +200,21 @@ public class Slider extends AbstractVisualization implements Interactable{
 		p.strokeWeight(2);
 		p.stroke(Theme.getBaseUIColor());
 		p.line(x, y + h, x + w, y + h);
-		for (int i = 0; i < values.length; i++) {
-			int xpos = x + (i) * w / (values.length) + w / (2 * values.length);
-			if (values[i] % drawInterval == 0 || i == 0
-					|| i == values.length - 1) {
+		for (int i = 0; i < fullYears.length; i++) {
+			int xpos = x + (i) * w / (fullYears.length) + w / (2 * fullYears.length);
+			if (fullYears[i] % drawInterval == 0 || i == 0
+					|| i == fullYears.length - 1) {
 				p.textAlign(PApplet.CENTER);
-				p.text(values[i], xpos, y + h + 24);
+				p.text(fullYears[i], xpos, y + h + 24);
 			}
 
 			// Draw ruler ticks
-			if (values[i] % 100 == 0) {
+			if (fullYears[i] % 100 == 0) {
 				p.line(xpos, y + h, xpos, y + h - 15);
-			} else if (values[i] % 10 == 0) {
+			} else if (fullYears[i] % 10 == 0) {
 				p.line(xpos, y + h, xpos, y + h - 10);
 			} else {
-				p.line(xpos, y + h, xpos, y + h - 5);
+//				p.line(xpos, y + h, xpos, y + h - 5);
 			}
 		}
 
