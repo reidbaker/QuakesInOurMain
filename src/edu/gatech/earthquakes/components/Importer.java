@@ -48,18 +48,38 @@ public class Importer {
 
         // Most of the data
         String [] data = reader.readLine().split("\\s");
-
-        int lat = Integer.parseInt(data[0]);
+        double lat = parseDoubleMissing(data[1]);
         curQuake.put(DataRow.LATTITUDE, lat);
-        System.out.println(data[0]);
 
-        int lon = Integer.parseInt(data[1]);
+        double lon = parseDoubleMissing(data[2]);
         curQuake.put(DataRow.LONGITUDE, lon);
-        System.out.println(data[1]);
 
-        String time = data[2];
+        String time = data[3];
         curQuake.put(DataRow.TIME, timeConvert(time));
-        System.out.println(data[0]);
+
+        String continent = data[4];
+        curQuake.put(DataRow.DEPTH, continentConvert(time));
+
+        String depth = data[5];
+        curQuake.put(DataRow.MOMENT_MAGNITUDE, parseDoubleMissing(depth));
+
+        String momentMagnitude = data[6];
+        curQuake.put(DataRow.MOMENT_MAGNITUDE_UNCERTAINTY, parseDoubleMissing(momentMagnitude));
+
+        String bodyWaveMagnitude = data[7];
+        curQuake.put(DataRow.BODY_WAVE_MAGNITUDE, parseDoubleMissing(bodyWaveMagnitude));
+
+        String surfaceWaveMagnitude = data[8];
+        curQuake.put(DataRow.SURFACE_WAVE_MAGNITUDE, parseDoubleMissing(surfaceWaveMagnitude));
+
+        String localWaveMagnitude = data[9];
+        curQuake.put(DataRow.LOCAL_WAVE_MAGNITUDE, parseDoubleMissing(localWaveMagnitude));
+
+        String eventDep = data[29];
+        curQuake.put(DataRow.DEPENDENCY, findDependancy(eventDep));
+
+        String eventType = data[30];
+        curQuake.put(DataRow.DEPENDENCY, findType(eventType));
 
         return new DataRow(curQuake);
     }
@@ -76,6 +96,32 @@ public class Importer {
     }
 
     private static String timeConvert(String time){
+        //the input --- is what is passed when data is not there
         return time;
+    }
+
+    private static String continentConvert(String continent){
+        //the input --- is what is passed when data is not there
+        return continent;
+    }
+
+    private static String findDependancy(String dep){
+        //the input --- is what is passed when data is not there
+        return dep;
+    }
+
+    private static String findType(String type){
+        //the input --- is what is passed when data is not there
+        return type;
+    }
+
+    private static Double parseDoubleMissing(String num){
+        Double parsedNumber = null;
+        try{
+            parsedNumber = Double.parseDouble(num);
+        }catch(Exception e){
+           parsedNumber = null;
+        }
+        return parsedNumber;
     }
 }

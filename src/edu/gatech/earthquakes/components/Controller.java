@@ -30,8 +30,8 @@ public class Controller {
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
-//		this.MasterData = Importer.importData();
-		this.MasterData = new DataSet(null);
+		this.MasterData = Importer.importData();
+
 		
 		controllerInstance = this;
 		
