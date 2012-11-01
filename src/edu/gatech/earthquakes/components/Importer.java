@@ -7,7 +7,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.Locale;
 import java.util.Map;
@@ -57,11 +56,7 @@ public class Importer {
         int lon = Integer.parseInt(data[1]);
         curQuake.put(DataRow.LONGITUDE, lon);
         System.out.println(data[1]);
-
-        String time = data[2];
-        curQuake.put(DataRow.TIME, timeConvert(time));
-        System.out.println(data[0]);
-
+        
         return new DataRow(curQuake);
     }
 
