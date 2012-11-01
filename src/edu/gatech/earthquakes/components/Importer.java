@@ -7,9 +7,12 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Arrays;
 import java.util.Date;
+import java.util.HashSet;
 import java.util.Locale;
 import java.util.Map;
+import java.util.Set;
 
 import com.google.common.collect.Maps;
 
@@ -21,17 +24,19 @@ public class Importer {
     private final static String fileName = "Catalog.txt";
 
     public static DataSet importData(){
-        try {
+    	Set<DataRow> dataRows = new HashSet<DataRow>();
+    	try {
             BufferedReader reader = new BufferedReader(new FileReader(new File(dataLocation + fileName)));
             String[] yearRecord = reader.readLine().split("\\s");
             // Most of the data
             String [] data = reader.readLine().split("\\s");
-
+            
             while(yearRecord != null){
-                readQuake(yearRecord, data);
+            	dataRows.add(readQuake(yearRecord, data));
                 yearRecord = reader.readLine().split("\\s");
                 // Most of the data
-                data = reader.readLine().split("\\s");
+                data =  reader.readLine().split("\\s");
+                
             }
             reader.close();
         } catch (FileNotFoundException e) {
@@ -41,7 +46,7 @@ public class Importer {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        return null;
+        return new DataSet(dataRows);
     }
 
     private static DataRow readQuake(String [] yearRecord, String [] data) throws IOException{
@@ -53,11 +58,11 @@ public class Importer {
 
         String record = yearRecord[1];
         curQuake.put(DataRow.RECORD, record);
-
-        double lat = parseDoubleMissing(data[1]);
+        System.out.println(Arrays.toString(data));
+        Double lat = parseDoubleMissing(data[1]);
         curQuake.put(DataRow.LATTITUDE, lat);
 
-        double lon = parseDoubleMissing(data[2]);
+        Double lon = parseDoubleMissing(data[2]);
         curQuake.put(DataRow.LONGITUDE, lon);
 
         String time = data[3];
@@ -118,11 +123,11 @@ public class Importer {
 
     private static DataRow.type findType(String type){
         //the input --- is what is passed when data is not there
-/*(        switch (type){
+        switch (type){
         case "deep min": return DataRow.type.DEEP_MINING;
         case "-": return null;
         }
-*/        return DataRow.type.TECT;
+        return DataRow.type.TECT;
     }
 
     private static Double parseDoubleMissing(String num){
