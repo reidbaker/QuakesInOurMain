@@ -47,6 +47,21 @@ public class Importer {
         String record = yearRecord[1];
         curQuake.put(DataRow.RECORD, record);
 
+        // Most of the data
+        String [] data = reader.readLine().split("\\s");
+
+        int lat = Integer.parseInt(data[0]);
+        curQuake.put(DataRow.LATTITUDE, lat);
+        System.out.println(data[0]);
+
+        int lon = Integer.parseInt(data[1]);
+        curQuake.put(DataRow.LONGITUDE, lon);
+        System.out.println(data[1]);
+
+        String time = data[2];
+        curQuake.put(DataRow.TIME, timeConvert(time));
+        System.out.println(data[0]);
+
         return new DataRow(curQuake);
     }
 
@@ -61,4 +76,7 @@ public class Importer {
         return date;
     }
 
+    private String timeConvert(String time){
+        return time;
+    }
 }
