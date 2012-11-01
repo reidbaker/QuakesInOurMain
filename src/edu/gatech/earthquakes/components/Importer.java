@@ -23,7 +23,9 @@ public class Importer {
     public static DataSet importData(){
         try {
             BufferedReader reader = new BufferedReader(new FileReader(new File(dataLocation + fileName)));
-            readQuake(reader);
+            while(reader.){
+                readQuake(reader);
+            }
             reader.close();
         } catch (FileNotFoundException e) {
             // TODO Auto-generated catch block
@@ -110,9 +112,13 @@ public class Importer {
         return dep;
     }
 
-    private static String findType(String type){
+    private static DataRow.type findType(String type){
         //the input --- is what is passed when data is not there
-        return type;
+        switch (type){
+        case "deep min": return DataRow.type.DEEP_MINING;
+        case "-": return null;
+        }
+        return DataRow.type.TECT;
     }
 
     private static Double parseDoubleMissing(String num){
