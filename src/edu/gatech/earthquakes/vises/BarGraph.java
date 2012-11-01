@@ -1,23 +1,25 @@
 package edu.gatech.earthquakes.vises;
 
+import edu.gatech.earthquakes.interfaces.Filterable;
+import edu.gatech.earthquakes.model.DataRow;
+import edu.gatech.earthquakes.model.DataSet;
 import processing.core.PApplet;
 
-public class BarGraph extends Aggregate {
-	private String xDataName;
-	private String yDataName;
+public abstract class BarGraph extends Aggregate implements Filterable{
+	protected String dataType;
+	protected int buffer = 10;
+	protected int numDivisions;
 	
-	
-	public BarGraph(int x, int y, int w, int h, String xDataName, String yDataName) {
+
+	public BarGraph(int x, int y, int w, int h, String dataType) {
 		super(x, y, w, h);
 		
-		this.xDataName = xDataName;
-		this.yDataName = yDataName;
+		this.dataType = dataType;
 	}
 
 	@Override
-	public void drawComponent(PApplet parent) {
-		// TODO Auto-generated method stub
-
+	public void filterBy(DataSet filteredData) {
+		displayData = filteredData;	
 	}
 
 }
