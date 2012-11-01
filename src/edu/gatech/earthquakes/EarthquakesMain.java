@@ -23,8 +23,4 @@ public class EarthquakesMain extends PApplet{
 		background(Theme.getBackgroundColor());
 		cont.refresh();
 	}
-	
-	public void mouseReleased() {
-		cont.releasedMouse();
-	}
 }
