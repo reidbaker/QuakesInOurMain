@@ -63,6 +63,7 @@ public class Importer {
             e.printStackTrace();
         }
         Calendar cal = Calendar.getInstance();
+        cal.setTime(date);
         System.out.println(cal.get(Calendar.YEAR));
         System.out.println(yearMonthDay);
         return date;

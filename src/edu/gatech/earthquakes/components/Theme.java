@@ -6,7 +6,7 @@ public class Theme {
 
 	private static final int baseUIColor = 0xFF00678B;
 	private static final int baseDataColor = getRGB(new float[]{0,1,1});
-	private static final int backgroundColor = 0xFF333344;
+	private static final int backgroundColor = 0xFFEEEEEE;
 
 	/**
 	 * The change applied to values for highlight and darkened compliments, as
