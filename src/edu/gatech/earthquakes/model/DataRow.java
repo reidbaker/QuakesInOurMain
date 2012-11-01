@@ -30,7 +30,16 @@ public class DataRow {
         DEPENDENT,
         POSSIBLY,
     }
-	private Map<String, Object> variables;
+    public final static String TYPE = "Type";
+    public enum type{
+        TECT,
+        DEEP_MINING,
+        MINING,
+        RESERVOIR,
+        OIL_FEILD,
+    }
+
+    private Map<String, Object> variables;
 
 	public DataRow(Map<String, Object> variables){
 		this.variables = variables;
