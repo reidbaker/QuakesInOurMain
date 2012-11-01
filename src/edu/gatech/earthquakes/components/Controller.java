@@ -22,89 +22,96 @@ public class Controller {
 	private List<Filterable> filterableVises;
 	private List<Interactable> interactableVises;
 
-	private final DataSet MasterData;
-	
+	private final DataSet masterData;
+
 	private static Controller controllerInstance;
 
 	private final Slider dataslider;
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
-//		this.MasterData = Importer.importData();
-		this.MasterData = new DataSet(null);
-		
+		this.masterData = Importer.importData();
 		controllerInstance = this;
-		
+
 		brushableVises = Lists.newArrayList();
 		drawableVises = Lists.newArrayList();
 		filterableVises = Lists.newArrayList();
 		interactableVises = Lists.newArrayList();
+
+		int[] test = new int[2012-495];
+		for(int i = 0; i < test.length; i++){
+			test[i] = i+495;
+		}
 		
-		dataslider = new Slider(50, 768-100-50, 924, 100, new int[]{1,2,3,4,5});
+		Workspace workspace = new Workspace(10, 10, parent.getWidth() - 20, parent.getHeight() - 120);
+		registerVisualization(workspace);
+		
+		dataslider = new Slider(50, 768 - 100, 924, 50, masterData);
 		registerVisualization(dataslider);
 	}
 
-	public void registerVisualization(AbstractVisualization av){
-		if(av instanceof Brushable)
-			brushableVises.add((Brushable)av);
-		if(av instanceof Drawable)
-			drawableVises.add((Drawable)av);
-		if(av instanceof Filterable)
-			filterableVises.add((Filterable)av);
-		if(av instanceof Interactable)
-			interactableVises.add((Interactable)av);
+	public void registerVisualization(AbstractVisualization av) {
+		if (av instanceof Brushable)
+			brushableVises.add((Brushable) av);
+		if (av instanceof Drawable)
+			drawableVises.add((Drawable) av);
+		if (av instanceof Filterable)
+			filterableVises.add((Filterable) av);
+		if (av instanceof Interactable)
+			interactableVises.add((Interactable) av);
 	}
-	
-	public void redrawAll(){
-		for(Drawable d : drawableVises){
+
+	/**
+	 * Called at each loop of the animation thread
+	 */
+	public void refresh() {
+		handleInput();
+		redrawAll();
+	}
+
+	public void redrawAll() {
+		for (Drawable d : drawableVises) {
 			d.drawComponent(parentApplet);
 		}
 	}
-	
+
 	private boolean alreadyPressed;
-	
-	public void handleInput(){
+
+	public void handleInput() {
 		boolean firstPress = false;
 		boolean drag = false;
 		boolean released = false;
-		if(parentApplet.mousePressed){
-			if(!alreadyPressed){
+		if (parentApplet.mousePressed) {
+			if (!alreadyPressed) {
 				firstPress = true;
 			} else {
 				drag = true;
 			}
 			alreadyPressed = true;
-		}
-		else{
-			if(alreadyPressed == true){
+		} else {
+			if (alreadyPressed == true) {
 				released = true;
 			}
 			alreadyPressed = false;
 		}
-		
-		for(Interactable i : interactableVises){
+
+		for (Interactable i : interactableVises) {
 			i.handleInput(firstPress, drag, released, parentApplet);
 		}
 	}
-	
-	public static void applyFilter(DataSet ds){
-		for(Filterable f : controllerInstance.getFilterableVises()){
+
+	public static void applyFilter(DataSet ds) {
+		for (Filterable f : controllerInstance.getFilterableVises()) {
 			f.filterBy(ds);
 		}
 	}
-	
-	/**
-	 * Called at each loop of the animation thread
-	 */
-	public void refresh(){
-		handleInput();
-		redrawAll();
+
+	public static void applyBrushing(DataSet ds) {
+		for (Brushable b : controllerInstance.getBrushableVises()) {
+			b.brushData(ds);
+		}
 	}
-	
-	public void releasedMouse(){
-		
-	}
-	
+
 	public List<Brushable> getBrushableVises() {
 		return brushableVises;
 	}
