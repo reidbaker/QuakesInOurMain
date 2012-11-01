@@ -56,7 +56,11 @@ public class Importer {
         int lon = Integer.parseInt(data[1]);
         curQuake.put(DataRow.LONGITUDE, lon);
         System.out.println(data[1]);
-        
+
+        String time = data[2];
+        curQuake.put(DataRow.TIME, timeConvert(time));
+        System.out.println(data[0]);
+
         return new DataRow(curQuake);
     }
 
