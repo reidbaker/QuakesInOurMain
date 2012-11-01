@@ -9,11 +9,11 @@ import edu.gatech.earthquakes.model.DataSet;
  * @author Elizabeth
  * 
  */
-public abstract class MultiVisualization extends AbstractVisualization {
+public abstract class Multi extends AbstractVisualization {
 
 	private DataSet displayData;
 
-	public MultiVisualization(int x, int y, int w, int h) {
+	public Multi(int x, int y, int w, int h) {
 		super(x, y, w, h);
 	}
 
