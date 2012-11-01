@@ -147,7 +147,7 @@ public class Slider implements Drawable{
 	}
 
 	@Override
-	public void drawInBounds(int x, int y, int w, int h, PApplet parent) {
+	public void drawComponent(PApplet parent) {
 		PApplet p = parent;
 		p.stroke(127, 127, 127);
 		p.strokeWeight(2);
@@ -188,14 +188,19 @@ public class Slider implements Drawable{
 		// Draw main bar
 		p.fill(0, 0, 0, 0);
 		for (int i = 0; i < h; i++) {
-			p.stroke(rgba(Theme.getDarkUIColor(), i * 127 / h));
+			p.stroke(rgba(Theme.getBaseUIColor(), i * 127 / h));
 			p.line(left, y + i, right, y + i);
 		}
+		p.stroke(Theme.getBaseUIColor());
 		p.rect(left, y, right - left, h);
 
 		// Draw left handle
 		p.stroke(0, 0, 0, 0);
-		p.fill(rgba(Theme.getDarkUIColor(), 127));
+		if(whereIs(p.mouseX, p.mouseY) == LEFTHANDLE){
+			p.fill(rgba(Theme.getBrightUIColor(), 127));
+		} else {
+			p.fill(rgba(Theme.getBaseUIColor(), 127));
+		}
 		p.arc(left, y + 10, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
 		p.arc(left, y + h - 10, 20, 20, PApplet.PI / 2, PApplet.PI);
 		p.rect(left + 0.5f - 10, y + 10, 10, h - 20);
@@ -207,7 +212,11 @@ public class Slider implements Drawable{
 
 		// Draw right handle
 		p.stroke(0, 0, 0, 0);
-		p.fill(rgba(Theme.getDarkUIColor(), 127));
+		if(whereIs(p.mouseX, p.mouseY) == RIGHTHANDLE){
+			p.fill(rgba(Theme.getBrightUIColor(), 127));
+		} else {
+			p.fill(rgba(Theme.getBaseUIColor(), 127));
+		}
 		p.arc(right, y + 10, 20, 20, 3 * PApplet.PI / 2, 2 * PApplet.PI);
 		p.arc(right, y + h - 10, 20, 20, 0, PApplet.PI / 2);
 		p.rect(right + 0.5f, y + 10, 10, h - 20);

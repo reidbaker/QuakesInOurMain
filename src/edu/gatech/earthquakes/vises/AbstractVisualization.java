@@ -1,8 +1,12 @@
 package edu.gatech.earthquakes.vises;
 
 import edu.gatech.earthquakes.interfaces.Drawable;
-import processing.core.PApplet;
 
 public abstract class AbstractVisualization implements Drawable{
 
+	protected int x, y, w, h;
+	
+	public AbstractVisualization(int x, int y, int w, int h){
+		this.x = x; this.y = y; this.w = w; this.h = h;
+	}
 }

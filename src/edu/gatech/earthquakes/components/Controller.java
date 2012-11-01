@@ -21,10 +21,13 @@ public class Controller {
 	private List<Interactable> interactableVises;
 	private final DataSet MasterData;
 
+	private final Slider dataslider;
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
 		this.MasterData = Importer.importData();
+		
+		dataslider = new Slider(50, 768-100-50, 924, 100, new int[]{1,2,3,4,5});
 	}
 
 	public void registerVisualization(AbstractVisualization av){
@@ -36,5 +39,16 @@ public class Controller {
 			filterableVises.add((Filterable)av);
 		if(av instanceof Interactable)
 			interactableVises.add((Interactable)av);
+	}
+	
+	public void redrawAll(){
+		dataslider.drawComponent(parentApplet);
+	}
+	
+	/**
+	 * Called at each loop of the animation thread
+	 */
+	public void refresh(){
+		redrawAll();
 	}
 }

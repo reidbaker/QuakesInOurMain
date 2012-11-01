@@ -7,10 +7,12 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
-import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
+
+import com.google.common.collect.Maps;
 
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
@@ -37,7 +39,7 @@ public class Importer {
     }
 
     private static DataRow readQuake(BufferedReader reader) throws IOException{
-        Map<String, Object> curQuake = new HashMap<String, Object>();
+        Map<String, Object> curQuake = Maps.newHashMap();
 
         String[] yearRecord = reader.readLine().split("\\s");
 
@@ -60,7 +62,8 @@ public class Importer {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        System.out.println(date);//.getYear());
+        Calendar cal = Calendar.getInstance();
+        System.out.println(cal.get(Calendar.YEAR));
         System.out.println(yearMonthDay);
         return date;
     }

@@ -5,9 +5,8 @@ import java.awt.Color;
 public class Theme {
 
 	private static final int baseUIColor = 0xFF00678B;
-//	private static final int baseDataColor = 0xFF4499bb;
-
 	private static final int baseDataColor = getRGB(new float[]{0,1,1});
+	private static final int backgroundColor = 0xFF333344;
 
 	/**
 	 * The change applied to values for highlight and darkened compliments, as
@@ -28,9 +27,13 @@ public class Theme {
 		Color converted = Color.getHSBColor(hsb[0], hsb[1], hsb[2]);
 		return converted.getRGB();
 	}
+	
+	public static int getBackgroundColor() {
+		return backgroundColor;
+	}
 
 	public static int getBaseUIColor() {
-		return getRGB(getHSB(baseUIColor));
+		return baseUIColor;
 	}
 
 	public static int getDarkUIColor() {
