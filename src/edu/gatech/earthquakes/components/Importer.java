@@ -21,8 +21,6 @@ public class Importer {
     private final static String dataLocation = "../data/";
     private final static String fileName = "Catalog.txt";
 
-    public final static String DATE = "Date";
-    public final static String RECORD = "Record";
     public static DataSet importData(){
         try {
             BufferedReader reader = new BufferedReader(new FileReader(new File(dataLocation + fileName)));
@@ -44,10 +42,10 @@ public class Importer {
         String[] yearRecord = reader.readLine().split("\\s");
 
         String date = yearRecord[0];
-        curQuake.put(DATE, createDate(date));
+        curQuake.put(DataRow.DATE, createDate(date));
 
         String record = yearRecord[1];
-        curQuake.put(RECORD, record);
+        curQuake.put(DataRow.RECORD, record);
 
         return new DataRow(curQuake);
     }
