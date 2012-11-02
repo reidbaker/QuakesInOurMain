@@ -31,9 +31,10 @@ public class NominalBarGraph extends BarGraph
 		parent.fill(Theme.getDarkUIColor());
 		int barW = (w - buffer*2 - 2*numDivisions)/numDivisions;
 		int barX = x+buffer;
+		float heightScale = (h-buffer*2.0f)/calcMax();
 		
 		for(Object key : bars.keySet()){
-			parent.rect(barX, y+(h-buffer-bars.get(key)), barW, bars.get(key));
+			parent.rect(barX, y+(h-buffer-bars.get(key)*heightScale), barW, bars.get(key)*heightScale);
 			barX += barW+2;
 			//parent.fill(255);
 			parent.textAlign(PApplet.CENTER);
@@ -41,7 +42,16 @@ public class NominalBarGraph extends BarGraph
 		}
 	}
 	
-	public void createBars(){
+	private int calcMax(){
+		int max = 0;
+		for(Object key : bars.keySet()){
+			if(max < bars.get(key))
+				max = bars.get(key);
+		}
+		return max;
+	}
+	
+	private void createBars(){
 		HashSet<DataRow> currentData = (HashSet<DataRow>)displayData.getDatum();
 		
 		for(DataRow row: currentData){
