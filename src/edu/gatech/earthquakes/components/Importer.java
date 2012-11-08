@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
@@ -20,7 +21,7 @@ import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 
 public class Importer {
-	private final static String dataLocation = "../data/";
+	private final static String dataLocation = ".." + File.separator + "data" + File.separator;
 	private final static String fileName = "Catalog.csv";
 
 	public static DataSet importData() {
@@ -28,12 +29,18 @@ public class Importer {
 		try {
 			File f = new File(dataLocation + fileName);
 			System.out.println(f.getCanonicalPath());
-			BufferedReader reader = new BufferedReader(new FileReader(new File(
-					fileName)));// dataLocation + fileName)));
+			BufferedReader reader = new BufferedReader(
+					new FileReader(new File(dataLocation
+									+ fileName)));// dataLocation + fileName)));
 
 			while (reader.ready()) {
-				String[] data = reader.readLine().split(",");
+				String line = reader.readLine();
+				String[] data = line.split(",");
+				try{
 				dataRows.add(readQuake(data));
+				} catch(ArrayIndexOutOfBoundsException aiobe){
+					System.out.println(line);
+				}
 			}
 
 			reader.close();
@@ -55,7 +62,6 @@ public class Importer {
 
 		String record = data[1];
 		curQuake.put(DataRow.RECORD, record);
-		
 
 		Double lat = parseDoubleMissing(data[2]);
 		curQuake.put(DataRow.LATTITUDE, lat);
@@ -135,10 +141,13 @@ public class Importer {
 
 	private static DataRow.Dependency findDependancy(String dep) {
 		// the input --- is what is passed when data is not there
-		switch(dep){
-		case "I" : return DataRow.Dependency.INDEPENDENT;
-		case "D" : return DataRow.Dependency.DEPENDENT;
-		case "P" : return DataRow.Dependency.POSSIBLY;
+		switch (dep) {
+		case "I":
+			return DataRow.Dependency.INDEPENDENT;
+		case "D":
+			return DataRow.Dependency.DEPENDENT;
+		case "P":
+			return DataRow.Dependency.POSSIBLY;
 		}
 		return null;
 	}
