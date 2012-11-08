@@ -2,7 +2,6 @@ package edu.gatech.earthquakes.components;
 
 import java.util.Calendar;
 import java.util.Date;
-import java.util.Iterator;
 import java.util.Set;
 
 import processing.core.PApplet;

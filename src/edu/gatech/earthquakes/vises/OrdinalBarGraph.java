@@ -25,7 +25,7 @@ public class OrdinalBarGraph extends BarGraph{
 	 * 
 	 */
 	public void calculateDataRange(){
-		ArrayList<DataRow> currentData = (ArrayList<DataRow>)displayData.getDatum();
+		ArrayList<DataRow> currentData = new ArrayList<>(displayData.getDatum());
 		
 		for(DataRow row: currentData){
 			if(row.getValue(dataType) != null)
