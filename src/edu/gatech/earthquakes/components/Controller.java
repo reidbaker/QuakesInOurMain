@@ -54,6 +54,7 @@ public class Controller {
 		registerVisualization(workspace);
 		
 		dataslider = new Slider(50, 768 - 100, 924, 50, masterData);
+		dataslider.setDrawInterval(250);
 		registerVisualization(dataslider);
 		
 		//NominalBarGraph n = new NominalBarGraph(20, 20, 500, 500,Importer.importData(), DataRow.CONTINENT);
