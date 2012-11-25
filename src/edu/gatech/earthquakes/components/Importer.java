@@ -25,8 +25,8 @@ public class Importer {
 	public static DataSet importData() {
 		Set<DataRow> dataRows = new HashSet<DataRow>();
 		try {
-			File f = new File(dataLocation + fileName);
-			System.out.println(f.getCanonicalPath());
+			//File f = new File(dataLocation + fileName);
+			//System.out.println(f.getCanonicalPath());
 			BufferedReader reader = new BufferedReader(
 					new FileReader(new File(dataLocation
 									+ fileName)));// dataLocation + fileName)));
@@ -94,7 +94,10 @@ public class Importer {
 
 		String eventDep = data[31];
 		curQuake.put(DataRow.DEPENDENCY, findDependancy(eventDep));
-
+		
+		String mainEventDate = data[32];
+		curQuake.put(DataRow.MAIN_DATE, createDate(mainEventDate));
+		
 		String eventType = data[33];
 		curQuake.put(DataRow.TYPE, findType(eventType));
 
@@ -103,6 +106,8 @@ public class Importer {
 
 	private static Date createDate(String yearMonthDay) {
 		Date date = null;
+		if(yearMonthDay.equals("-"))
+			return date;
 		try {
 			date = new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH)
 					.parse(yearMonthDay);

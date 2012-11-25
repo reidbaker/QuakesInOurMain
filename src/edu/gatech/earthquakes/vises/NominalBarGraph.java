@@ -20,9 +20,8 @@ public class NominalBarGraph extends BarGraph
 
 	@Override
 	public void drawComponent(PApplet parent) {
-		parent.noFill();
-		parent.stroke(Theme.getBaseUIColor());
-		parent.rect(x, y, w, h);
+		super.drawComponent(parent);
+		
 		parent.noStroke();
 		//parent.stroke(Theme.getBrightUIColor());
 		parent.fill(Theme.getDarkUIColor());
