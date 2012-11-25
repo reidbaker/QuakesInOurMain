@@ -1,28 +1,26 @@
 package edu.gatech.earthquakes.vises;
 
+import java.text.DecimalFormat;
 import java.util.*;
 
 import processing.core.PApplet;
 
+import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 
 public class AftershockMap extends Multi {
 
-	private DataRow mainQuake;
-	private int sizeOfDegree;
 	private double[] latRange;
 	private double[] lonRange;
+	private int buffer = 20;
+	private DecimalFormat df;
 	
 	public AftershockMap(int x, int y, int w, int h, DataSet displayData) {
 		super(x, y, w, h, displayData);
-		// TODO Auto-generated constructor stub
-		for(DataRow quake : displayData.getDatum()){
-			System.out.println(quake.getValue(DataRow.DEPENDENCY));
-			if(quake.getValue(DataRow.DEPENDENCY).equals(DataRow.Dependency.INDEPENDENT))
-				mainQuake = quake;
-		}
-		calculateSizeOfDegree();
+		
+		calculateRanges();
+		df = new DecimalFormat("0.00");
 	}
 	
 	public static DataSet findAftershocks(DataRow mainQuake, DataSet allQuakes){
@@ -51,19 +49,56 @@ public class AftershockMap extends Multi {
 		 * 
 		 * where [min,max] maps to [a,b]
 		 */
+		
+		double minSize = 5;
+		double maxSize = 30;
+		
 		for(int i=0; i< c.length; i++){
-			double x = (w*(c[i][0]-latRange[0]))/(latRange[1]-latRange[0]);
-			double y = (h*(c[i][1]-lonRange[0]))/(lonRange[1]-lonRange[0]);
-			double minSize = 5;
-			double maxSize = 30;
+			double qx = ((w-buffer*2)*(c[i][0]-latRange[0]))/(latRange[1]-latRange[0]);
+			double qy = ((h-buffer*2)*(c[i][1]-lonRange[0]))/(lonRange[1]-lonRange[0]);
 			
 			//for magnitude, min and max are assumed to be 3 and 7 based on moment magnitude numbers
 			double size = (maxSize-minSize)*(m[i]-3)/4 + minSize;
 			
-			parent.ellipse((float)x, (float)y, (float)size, (float)size);
+			parent.fill(Theme.getColorPallette(1)[0]-0xAA000000);
+			parent.stroke(Theme.getColorPallette(1)[0]-0x66000000);
+			parent.ellipse(x +(float)qx+buffer, y + h-(float)qy-buffer, (float)size, (float)size);
 			//System.out.println("Lat: " + c[i][0] + " X: " + x + ", Lon: " + c[i][1]);
 		}
 		
+		drawAxes(parent);
+		
+		
+	}
+	
+	private void drawAxes(PApplet parent){
+		parent.stroke(Theme.getDarkUIColor());
+		parent.fill(Theme.getDarkUIColor());
+		parent.textSize(8);
+		parent.line(x+buffer, y+buffer, x+ w-buffer, y+buffer); //top
+		parent.line(x+buffer, y+h-buffer, x+ w-buffer, y+h-buffer); //bottom
+		parent.line(x+buffer, y+buffer, x+ buffer, y+h-buffer); //left
+		parent.line(x+w-buffer, y+buffer, x+ w-buffer, y+h-buffer); //right
+		
+		parent.text(df.format(latRange[0]), x+buffer, y+h);
+		parent.text(df.format(latRange[1]), x+w-buffer, y+h);
+		parent.text(df.format(lonRange[0]), x+buffer, y+h-buffer);
+		parent.text(df.format(lonRange[1]), x+buffer, y+buffer);
+		
+		double lat = 0; 
+		
+		for(int i=0; i<(w-buffer*2); i+=50){
+			lat = (((latRange[1]-latRange[0])*i)/(w-buffer*2)) + latRange[0];
+			parent.line(x+buffer+i, y+h-buffer-2, x+buffer+i, y+h-buffer+2);
+			parent.text(df.format(lat),x+buffer+i , y+h);
+		}
+		
+		double lon = 0;
+		for(int i=0; i<(h-buffer*2); i+=50){
+			lon = (((lonRange[1]-lonRange[0])*i)/(h-buffer*2)) + lonRange[0];
+			parent.line(x+buffer-2, y+h-buffer-i, x+buffer+2, y+h-buffer-i);
+			parent.text(df.format(lon),x+buffer/2 , y+h-buffer-i);
+		}
 	}
 	
 	private double[][] getCoordinates(){
@@ -88,7 +123,7 @@ public class AftershockMap extends Multi {
 		return mag;
 	}
 	
-	private void calculateSizeOfDegree(){
+	private void calculateRanges(){
 		double[][] coords = getCoordinates();
 		
 		double[] lat = new double[coords.length];
@@ -106,14 +141,12 @@ public class AftershockMap extends Multi {
 		double buffer = .1;
 		if(lat[lat.length-1]-lat[0] > lon[lon.length-1]-lon[0] ){
 			dif = lat[lat.length-1]-lat[0];
-			sizeOfDegree = w/(((int)dif) + 1);
 			
 			latRange = new double[]{lat[0]-buffer, lat[lat.length-1]+buffer};
 			lonRange = new double[]{lon[0]-buffer, lon[0]+dif+buffer};
 		}
 		else{
 			dif = lon[lon.length-1]-lon[0];
-			sizeOfDegree = h/(((int)dif) + 1);
 			
 			lonRange = new double[]{lon[0]-buffer, lon[lon.length-1]+buffer};
 			latRange = new double[]{lat[0]-buffer, lat[0]+dif+buffer};
