@@ -1,0 +1,24 @@
+Things we need to decide on:
+	- how are we selecting things?
+		- draggable selections?
+		- filter bars?
+		- ctrl click functionality?
+		
+	- how exactly are we representing data?
+		- Do we want to store a list of all the variable names somewhere?? Because 
+		at this point I have no idea what variables we are keeping track of without 
+		getting the map in DataRow and going through them individually.
+		- possibly use enums?
+		
+	- aggregate vis's -> do we want to have a generic bar graph that does the same thing for mag as it
+		does for things like depth? or do we want this vis to be fundamentally different depending on 
+		what we are actually graphing?
+		
+	- how do we want to represent date?
+		- we could just make our own Date object since Java killed theirs. 
+	
+	- are we going to allow for filtering based on different types of parameters?
+		- amount of a particular variable? (mag > x)
+		- by a specific variable?
+	
+	

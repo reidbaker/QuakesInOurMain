@@ -11,6 +11,7 @@ import com.google.common.collect.Sets;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
+import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 
 public class Slider extends AbstractVisualization implements Interactable{
@@ -55,7 +56,7 @@ public class Slider extends AbstractVisualization implements Interactable{
 
 	public void grabDates() {
 		Set<Date> dates = Sets.newTreeSet();
-		for (DataRow dr : data.getDatum()) {
+		for (DataRow dr : data) {
 			dates.add((Date) dr.getVariables().get(DataRow.DATE));
 		}
 		Date[] dateArray = dates.toArray(new Date[] {});
@@ -218,6 +219,9 @@ public class Slider extends AbstractVisualization implements Interactable{
 		}
 
 		// Draw mini graph
+		for(DataRow dr : data){
+			
+		}
 
 		// Draw main bar
 		p.fill(0, 0, 0, 0);
@@ -268,10 +272,9 @@ public class Slider extends AbstractVisualization implements Interactable{
 	}
 
 	@Override
-	public void handleInput(boolean pressed, boolean dragged, boolean released,
-			PApplet parent) {
-		if (pressed) {
-			int location = whereIs(parent.mouseX, parent.mouseY);
+	public void handleInput(Interaction interaction) {
+		if (interaction.isFirstPress()) {
+			int location = whereIs(interaction.getParentApplet().mouseX, interaction.getParentApplet().mouseY);
 			switch (location) {
 			case LEFTHANDLE:
 				moveLeft = true;
@@ -283,20 +286,20 @@ public class Slider extends AbstractVisualization implements Interactable{
 				moveAll = true;
 				break;
 			}
-		} else if (dragged) {
+		} else if (interaction.isDragged()) {
 			if(moveLeft){
-				dragLH(parent.mouseX, parent.pmouseX);
+				dragLH(interaction.getParentApplet().mouseX, interaction.getParentApplet().pmouseX);
 				snapGoals();
 			}
 			if(moveRight){
-				dragRH(parent.mouseX, parent.pmouseX);
+				dragRH(interaction.getParentApplet().mouseX, interaction.getParentApplet().pmouseX);
 				snapGoals();
 			}
 			if(moveAll){
-				dragAll(parent.mouseX, parent.pmouseX);
+				dragAll(interaction.getParentApplet().mouseX, interaction.getParentApplet().pmouseX);
 				snapGoals();
 			}
-		} else if(released){
+		} else if(interaction.isReleased()){
 			updateGoals();
 			moveLeft = moveRight = moveAll = false;
 		}

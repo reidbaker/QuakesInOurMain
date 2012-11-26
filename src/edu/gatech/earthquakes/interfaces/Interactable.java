@@ -1,9 +1,12 @@
 package edu.gatech.earthquakes.interfaces;
 
-import processing.core.PApplet;
+import com.google.common.eventbus.Subscribe;
+
+import edu.gatech.earthquakes.model.Interaction;
 
 public interface Interactable {
 
-	public void handleInput(boolean pressed, boolean dragged, boolean released, PApplet parent);
+	@Subscribe
+	public void handleInput(Interaction interaction);
 	
 }
