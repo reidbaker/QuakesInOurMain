@@ -1,7 +1,7 @@
 package edu.gatech.earthquakes.vises;
 
 import java.util.HashMap;
-import java.util.HashSet;
+import java.util.Set;
 
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Theme;
@@ -49,9 +49,7 @@ public class NominalBarGraph extends BarGraph
 	}
 	
 	private void createBars(){
-		HashSet<DataRow> currentData = (HashSet<DataRow>)displayData.getDatum();
-		
-		for(DataRow row: currentData){
+		for(DataRow row: displayData){
 			if(row.getValue(dataType)!=null)
 				if(bars.containsKey(row.getValue(dataType)))
 					bars.put(row.getValue(dataType), bars.get(row.getValue(dataType))+1);
