@@ -119,7 +119,7 @@ public class CustomSearch {
         return new String(writeableChars);
     }
 
-    public int getTotalCount(final String jsonLine){
+    public static int getTotalCount(final String jsonLine){
         //jsonline['queries']['request'][0]['totalResults']
         JsonElement jelement = new JsonParser().parse(jsonLine);
         String result = jelement.

@@ -90,9 +90,9 @@ public class Slider extends AbstractVisualization implements Interactable {
 
 	public int whereIs(int x, int y) {
 		int ret = OUTSIDE;
-		if (x >= left && x <= right && y > this.y && y < this.y + h) {
+		if (x >= fuzzLeft(left, x) && x <= right && y > this.y && y < this.y + h) {
 			ret = INSIDE;
-		} else if (x > left - 10 && x < left && y > this.y && y < this.y + h) {
+		} else if (x > fuzzLeft(left, x) - 10 && x < left && y > this.y && y < this.y + h) {
 			ret = LEFTHANDLE;
 		} else if (x > right && x < right + 10 && y > this.y && y < this.y + h) {
 			ret = RIGHTHANDLE;
@@ -227,18 +227,17 @@ public class Slider extends AbstractVisualization implements Interactable {
 			cal.setTime(date);
 			int year = cal.get(Calendar.YEAR);
 			double mag = (double)r.getVariables().get(DataRow.MOMENT_MAGNITUDE);
-			float xLocation = PApplet.map(year, fullYears[0], fullYears[fullYears.length-1], x, x+w);
+			float xLocation = xLocationMap(year, fullYears[0], fullYears[fullYears.length-1], x, x+w, left, right);
 			float height = PApplet.map((float)mag, 4.0f, 8.0f, 0f, (float)h);
 			p.line(xLocation, y + h, xLocation, y+h-height);
 		}
-		
+
 		p.fill(Theme.getDarkUIColor());
 		p.strokeWeight(2);
 		p.stroke(Theme.getDarkUIColor());
 		p.line(x, y + h, x + w, y + h);
 		for (int i = 0; i < fullYears.length; i++) {
-			int xpos = x + (i) * w / (fullYears.length) + w
-					/ (2 * fullYears.length);
+		    int xpos = (int) xLocationMap(i, 0, fullYears.length, x, x+w, left, right);
 			if (fullYears[i] % drawInterval == 0) {
 				p.textAlign(PApplet.CENTER);
 				p.textSize(12);
@@ -262,10 +261,10 @@ public class Slider extends AbstractVisualization implements Interactable {
 		p.fill(0, 0, 0, 0);
 		for (int i = 0; i < h; i++) {
 			p.stroke(Theme.rgba(Theme.getBaseUIColor(), i * 127 / h));
-			p.line(left, y + i, right, y + i);
+			p.line(fuzzLeft(left, x), y + i, right, y + i);
 		}
 		p.stroke(Theme.getBaseUIColor());
-		p.rect(left, y, right - left, h);
+		p.rect(fuzzLeft(left, x), y, right - fuzzLeft(left, x), h);
 
 		// Draw left handle
 		p.stroke(0, 0, 0, 0);
@@ -274,14 +273,14 @@ public class Slider extends AbstractVisualization implements Interactable {
 		} else {
 			p.fill(Theme.rgba(Theme.getBaseUIColor(), 127));
 		}
-		p.arc(left, y + 10, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
-		p.arc(left, y + h - 10, 20, 20, PApplet.PI / 2, PApplet.PI);
-		p.rect(left + 0.5f - 10, y + 10, 10, h - 20);
+		p.arc(fuzzLeft(left, x), y + 10, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
+		p.arc(fuzzLeft(left, x), y + h - 10, 20, 20, PApplet.PI / 2, PApplet.PI);
+		p.rect(fuzzLeft(left, x) + 0.5f - 10, y + 10, 10, h - 20);
 
 		p.fill(Theme.getDarkUIColor());
-		p.ellipse(left - 5, y + (h / 2) - 5, 4, 4);
-		p.ellipse(left - 5, y + (h / 2), 4, 4);
-		p.ellipse(left - 5, y + (h / 2) + 5, 4, 4);
+		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2) - 5, 4, 4);
+		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2), 4, 4);
+		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2) + 5, 4, 4);
 
 		// Draw right handle
 		p.stroke(0, 0, 0, 0);
@@ -302,6 +301,32 @@ public class Slider extends AbstractVisualization implements Interactable {
 		updateAnim(4);
 	}
 
+	private int rgba(int rgb, int a) {
+		return rgb & ((a << 24) | 0xFFFFFF);
+	}
+
+    private static float xLocationMap(int datm, int dataMin, int dataMax,
+            float leftEdge, float rightEdge,
+            float sliderLeft, float sliderRight){
+        float calcuated = 0;
+        float linear = PApplet.map(datm, dataMin, dataMax, leftEdge, rightEdge);
+        if(linear < sliderLeft){
+            calcuated = fuzzLeft(linear, leftEdge);
+        } else if(linear > sliderRight){
+            calcuated = (rightEdge - ((rightEdge-linear) * 0.5f));
+        }
+        else{
+            float sliderLeftOffset = fuzzLeft(sliderLeft, leftEdge);
+            float sliderRightOffset = ((rightEdge-sliderRight)/2) + sliderRight;
+            calcuated = PApplet.map(linear, sliderLeft, sliderRight, sliderLeftOffset, sliderRightOffset);
+        }
+        return calcuated;
+    }
+
+    private static float fuzzLeft(float point, float leftEdge){
+        float factor = .5f;
+        return ((point-leftEdge) * factor) + leftEdge;
+    }
 	@Override
 	public void handleInput(Interaction interaction) {
 		if (interaction.isFirstPress()) {
