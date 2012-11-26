@@ -2,48 +2,39 @@ package edu.gatech.earthquakes.components;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.Collections;
-import java.util.List;
 import java.util.Locale;
 
-import com.google.common.collect.Lists;
-
 import processing.core.PApplet;
+
+import com.google.common.eventbus.EventBus;
+
 import edu.gatech.earthquakes.interfaces.Brushable;
 import edu.gatech.earthquakes.interfaces.Drawable;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
+import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 import edu.gatech.earthquakes.vises.AftershockMap;
 import edu.gatech.earthquakes.vises.NominalBarGraph;
-import edu.gatech.earthquakes.components.Importer;
 
 public class Controller {
 
 	private final PApplet parentApplet;
 
-	private List<Brushable> brushableVises;
-	private List<Drawable> drawableVises;
-	private List<Filterable> filterableVises;
-	private List<Interactable> interactableVises;
-
 	private final DataSet masterData;
 
-	private static Controller controllerInstance;
-
 	private final Slider dataslider;
+	
+	public static final EventBus BRUSH_BUS = new EventBus("Brushing Bus");
+	public static final EventBus DRAW_BUS = new EventBus("Drawing Bus");
+	public static final EventBus FILTER_BUS = new EventBus("Filtering Bus");
+	public static final EventBus INTERACT_BUS = new EventBus("Interacting Bus");
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
 		this.masterData = Importer.importData();
-		controllerInstance = this;
-
-		brushableVises = Lists.newArrayList();
-		drawableVises = Lists.newArrayList();
-		filterableVises = Lists.newArrayList();
-		interactableVises = Lists.newArrayList();
 
 		int[] test = new int[2012-495];
 		for(int i = 0; i < test.length; i++){
@@ -57,12 +48,12 @@ public class Controller {
 		dataslider.setDrawInterval(250);
 		registerVisualization(dataslider);
 		
-		//NominalBarGraph n = new NominalBarGraph(20, 20, 500, 500,Importer.importData(), DataRow.CONTINENT);
-		//registerVisualization(n);
+		NominalBarGraph n = new NominalBarGraph(20, 20, 500, 500,Importer.importData(), DataRow.CONTINENT);
+		registerVisualization(n);
 		
 		//Elizabeth's testing things
 		DataRow mainQuake = null;
-		boolean found = false;
+//		boolean found = false;
 		for(DataRow quake: masterData.getDatum())
 			try {
 				if(quake.getValue(DataRow.DATE).equals(new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH).parse("20010126")) && quake.getValue(DataRow.DEPENDENCY).equals(DataRow.Dependency.INDEPENDENT)){
@@ -72,20 +63,20 @@ public class Controller {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-		AftershockMap m = new AftershockMap(20, 20, 500, 500, AftershockMap.findAftershocks(mainQuake, masterData));
+		AftershockMap m = new AftershockMap(525, 20, 450, 500, AftershockMap.findAftershocks(mainQuake, masterData));
 		registerVisualization(m);
-		//System.out.println((AftershockMap.findAftershocks(mainQuake, masterData)));
+//		System.out.println((AftershockMap.findAftershocks(mainQuake, masterData)));
 	}
 
 	public void registerVisualization(AbstractVisualization av) {
 		if (av instanceof Brushable)
-			brushableVises.add((Brushable) av);
+			BRUSH_BUS.register(av);
 		if (av instanceof Drawable)
-			drawableVises.add((Drawable) av);
+			DRAW_BUS.register(av);
 		if (av instanceof Filterable)
-			filterableVises.add((Filterable) av);
+			FILTER_BUS.register(av);
 		if (av instanceof Interactable)
-			interactableVises.add((Interactable) av);
+			INTERACT_BUS.register(av);
 	}
 
 	/**
@@ -97,9 +88,7 @@ public class Controller {
 	}
 
 	public void redrawAll() {
-		for (Drawable d : drawableVises) {
-			d.drawComponent(parentApplet);
-		}
+		DRAW_BUS.post(parentApplet);
 	}
 
 	private boolean alreadyPressed;
@@ -122,29 +111,16 @@ public class Controller {
 			alreadyPressed = false;
 		}
 
-		for (Interactable i : interactableVises) {
-			i.handleInput(firstPress, drag, released, parentApplet);
-		}
+		Interaction i = new Interaction(firstPress, drag, released, parentApplet);
+		INTERACT_BUS.post(i);
 	}
 
 	public static void applyFilter(DataSet ds) {
-		for (Filterable f : controllerInstance.getFilterableVises()) {
-			f.filterBy(ds);
-		}
+		FILTER_BUS.post(ds);
 	}
 
 	public static void applyBrushing(DataSet ds) {
-		for (Brushable b : controllerInstance.getBrushableVises()) {
-			b.brushData(ds);
-		}
-	}
-
-	public List<Brushable> getBrushableVises() {
-		return brushableVises;
-	}
-
-	public List<Filterable> getFilterableVises() {
-		return filterableVises;
+		BRUSH_BUS.post(ds);
 	}
 }
 

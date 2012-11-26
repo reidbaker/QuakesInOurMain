@@ -1,8 +1,9 @@
 package edu.gatech.earthquakes.model;
 
+import java.util.Iterator;
 import java.util.Set;
 
-public class DataSet {
+public class DataSet implements Iterable<DataRow>{
 
 	private Set<DataRow> datum;
 
@@ -16,6 +17,11 @@ public class DataSet {
 
 	public void setDatum(Set<DataRow> datum) {
 		this.datum = datum;
+	}
+
+	@Override
+	public Iterator<DataRow> iterator() {
+		return datum.iterator();
 	}
 
 

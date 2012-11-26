@@ -2,6 +2,7 @@ package edu.gatech.earthquakes.components;
 
 import java.util.Calendar;
 import java.util.Date;
+import java.util.HashSet;
 import java.util.Set;
 
 import processing.core.PApplet;
@@ -11,9 +12,10 @@ import com.google.common.collect.Sets;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
+import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 
-public class Slider extends AbstractVisualization implements Interactable{
+public class Slider extends AbstractVisualization implements Interactable {
 	float left, right;
 	int goalLeft, goalRight;
 	int snappedLeft, snappedRight;
@@ -24,7 +26,7 @@ public class Slider extends AbstractVisualization implements Interactable{
 	DataSet data;
 	int[] years;
 	int[] fullYears;
-	
+
 	boolean moveLeft, moveRight, moveAll;
 
 	public static final int OUTSIDE = 0, INSIDE = 1, LEFTHANDLE = 2,
@@ -40,13 +42,13 @@ public class Slider extends AbstractVisualization implements Interactable{
 		snappedRight = goalRight;
 		drawInterval = 100;
 		this.data = data;
-		
+
 		grabDates();
 
 		rangeMin = years[0];
 		rangeMax = years[years.length - 1];
 		fullYears = new int[rangeMax - rangeMin];
-		for(int i = 0; i < fullYears.length; i++){
+		for (int i = 0; i < fullYears.length; i++) {
 			fullYears[i] = i + years[0];
 		}
 
@@ -55,7 +57,7 @@ public class Slider extends AbstractVisualization implements Interactable{
 
 	public void grabDates() {
 		Set<Date> dates = Sets.newTreeSet();
-		for (DataRow dr : data.getDatum()) {
+		for (DataRow dr : data) {
 			dates.add((Date) dr.getVariables().get(DataRow.DATE));
 		}
 		Date[] dateArray = dates.toArray(new Date[] {});
@@ -64,6 +66,8 @@ public class Slider extends AbstractVisualization implements Interactable{
 		for (int i = 0; i < years.length; i++) {
 			cal.setTime(dateArray[i]);
 			years[i] = cal.get(Calendar.YEAR);
+			if(i == 0)
+				System.out.println(years[i]);
 		}
 	}
 
@@ -86,9 +90,9 @@ public class Slider extends AbstractVisualization implements Interactable{
 
 	public int whereIs(int x, int y) {
 		int ret = OUTSIDE;
-		if (x >= left && x <= right && y > this.y && y < this.y + h) {
+		if (x >= fuzzLeft(left, x) && x <= right && y > this.y && y < this.y + h) {
 			ret = INSIDE;
-		} else if (x > left - 10 && x < left && y > this.y && y < this.y + h) {
+		} else if (x > fuzzLeft(left, x) - 10 && x < left && y > this.y && y < this.y + h) {
 			ret = LEFTHANDLE;
 		} else if (x > right && x < right + 10 && y > this.y && y < this.y + h) {
 			ret = RIGHTHANDLE;
@@ -130,7 +134,8 @@ public class Slider extends AbstractVisualization implements Interactable{
 	public void snapGoals() {
 		int leftX = goalLeft - x;
 		float ratioL = leftX / (float) w;
-		int index = (int) (ratioL * fullYears.length + 0.5);
+		int index = (int) Math.min(ratioL * fullYears.length + 0.5,
+				fullYears.length - 1);
 		snappedLeft = x + w * index / fullYears.length;
 		if (index == 0)
 			snappedLeft = x;
@@ -138,7 +143,7 @@ public class Slider extends AbstractVisualization implements Interactable{
 
 		int rightX = goalRight - x;
 		float ratioR = rightX / (float) w;
-		index = (int) (ratioR * fullYears.length + 0.5);
+		index = (int) Math.max(ratioR * fullYears.length + 0.5, 0);
 		if (index == fullYears.length)
 			snappedRight = x + w;
 		snappedRight = x + w * index / fullYears.length;
@@ -166,17 +171,33 @@ public class Slider extends AbstractVisualization implements Interactable{
 	}
 
 	public void updateAnim(int slowness) {
+		boolean changed = false;
 		if (Math.abs(snappedLeft - left) > 0) {
 			left += (snappedLeft - left) / slowness;
 			if (Math.abs(snappedLeft - left) == 1) {
 				left = snappedLeft;
 			}
+			changed = true;
 		}
 		if (Math.abs(snappedRight - right) > 0) {
 			right += (snappedRight - right) / slowness;
 			if (Math.abs(snappedRight - right) == 1) {
 				right = snappedRight;
 			}
+			changed = true;
+		}
+		if(changed){
+			HashSet<DataRow> filtered = new HashSet<>();
+			Calendar cal = Calendar.getInstance();
+			for(DataRow dr : data){
+				Date d = (Date) dr.getVariables().get(DataRow.DATE);
+				cal.setTime(d);
+				if(cal.get(Calendar.YEAR) >= getLeftBound() && cal.get(Calendar.YEAR) <= getRightBound()){
+					filtered.add(dr);
+				}
+			}
+			DataSet ds = new DataSet(filtered);
+			Controller.FILTER_BUS.post(ds);
 		}
 	}
 
@@ -195,16 +216,32 @@ public class Slider extends AbstractVisualization implements Interactable{
 		p.endShape();
 
 		// Draw underlying data
+
+		// Draw mini graph
+		p.stroke(Theme.getColorPallette(1)[0]);
+		p.strokeWeight(2);
+		p.strokeCap(PApplet.ROUND);
+		for(DataRow r : data){
+			Date date = (Date)r.getVariables().get(DataRow.DATE);
+			Calendar cal = Calendar.getInstance();
+			cal.setTime(date);
+			int year = cal.get(Calendar.YEAR);
+			double mag = (double)r.getVariables().get(DataRow.MOMENT_MAGNITUDE);
+			float xLocation = xLocationMap(year, fullYears[0], fullYears[fullYears.length-1], x, x+w, left, right);
+			float height = PApplet.map((float)mag, 4.0f, 8.0f, 0f, (float)h);
+			p.line(xLocation, y + h, xLocation, y+h-height);
+		}
+
 		p.fill(Theme.getDarkUIColor());
 		p.strokeWeight(2);
-		p.stroke(Theme.getBaseUIColor());
+		p.stroke(Theme.getDarkUIColor());
 		p.line(x, y + h, x + w, y + h);
 		for (int i = 0; i < fullYears.length; i++) {
-			int xpos = x + (i) * w / (fullYears.length) + w / (2 * fullYears.length);
-			if (fullYears[i] % drawInterval == 0 || i == 0
-					|| i == fullYears.length - 1) {
+		    int xpos = (int) xLocationMap(i, 0, fullYears.length, x, x+w, left, right);
+			if (fullYears[i] % drawInterval == 0) {
 				p.textAlign(PApplet.CENTER);
-				p.text(fullYears[i], xpos, y + h + 24);
+				p.textSize(12);
+				p.text(fullYears[i], xpos, y + h + 12);
 			}
 
 			// Draw ruler ticks
@@ -213,43 +250,44 @@ public class Slider extends AbstractVisualization implements Interactable{
 			} else if (fullYears[i] % 10 == 0) {
 				p.line(xpos, y + h, xpos, y + h - 10);
 			} else {
-//				p.line(xpos, y + h, xpos, y + h - 5);
+				// p.line(xpos, y + h, xpos, y + h - 5);
 			}
 		}
-
-		// Draw mini graph
+		
+		p.textSize(24);
+		p.text("" + getLeftBound() + " - " + getRightBound(), x + w/2, y + h + 36);
 
 		// Draw main bar
 		p.fill(0, 0, 0, 0);
 		for (int i = 0; i < h; i++) {
-			p.stroke(rgba(Theme.getBaseUIColor(), i * 127 / h));
-			p.line(left, y + i, right, y + i);
+			p.stroke(Theme.rgba(Theme.getBaseUIColor(), i * 127 / h));
+			p.line(fuzzLeft(left, x), y + i, right, y + i);
 		}
 		p.stroke(Theme.getBaseUIColor());
-		p.rect(left, y, right - left, h);
+		p.rect(fuzzLeft(left, x), y, right - fuzzLeft(left, x), h);
 
 		// Draw left handle
 		p.stroke(0, 0, 0, 0);
-		if(whereIs(p.mouseX, p.mouseY) == LEFTHANDLE){
-			p.fill(rgba(Theme.getBrightUIColor(), 127));
+		if (whereIs(p.mouseX, p.mouseY) == LEFTHANDLE) {
+			p.fill(Theme.rgba(Theme.getBrightUIColor(), 127));
 		} else {
-			p.fill(rgba(Theme.getBaseUIColor(), 127));
+			p.fill(Theme.rgba(Theme.getBaseUIColor(), 127));
 		}
-		p.arc(left, y + 10, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
-		p.arc(left, y + h - 10, 20, 20, PApplet.PI / 2, PApplet.PI);
-		p.rect(left + 0.5f - 10, y + 10, 10, h - 20);
+		p.arc(fuzzLeft(left, x), y + 10, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
+		p.arc(fuzzLeft(left, x), y + h - 10, 20, 20, PApplet.PI / 2, PApplet.PI);
+		p.rect(fuzzLeft(left, x) + 0.5f - 10, y + 10, 10, h - 20);
 
 		p.fill(Theme.getDarkUIColor());
-		p.ellipse(left - 5, y + (h / 2) - 5, 4, 4);
-		p.ellipse(left - 5, y + (h / 2), 4, 4);
-		p.ellipse(left - 5, y + (h / 2) + 5, 4, 4);
+		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2) - 5, 4, 4);
+		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2), 4, 4);
+		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2) + 5, 4, 4);
 
 		// Draw right handle
 		p.stroke(0, 0, 0, 0);
-		if(whereIs(p.mouseX, p.mouseY) == RIGHTHANDLE){
-			p.fill(rgba(Theme.getBrightUIColor(), 127));
+		if (whereIs(p.mouseX, p.mouseY) == RIGHTHANDLE) {
+			p.fill(Theme.rgba(Theme.getBrightUIColor(), 127));
 		} else {
-			p.fill(rgba(Theme.getBaseUIColor(), 127));
+			p.fill(Theme.rgba(Theme.getBaseUIColor(), 127));
 		}
 		p.arc(right, y + 10, 20, 20, 3 * PApplet.PI / 2, 2 * PApplet.PI);
 		p.arc(right, y + h - 10, 20, 20, 0, PApplet.PI / 2);
@@ -259,19 +297,41 @@ public class Slider extends AbstractVisualization implements Interactable{
 		p.ellipse(right + 5, y + (h / 2) - 5, 4, 4);
 		p.ellipse(right + 5, y + (h / 2), 4, 4);
 		p.ellipse(right + 5, y + (h / 2) + 5, 4, 4);
-		
+
 		updateAnim(4);
 	}
 
-	private int rgba(int rgb, int a){
+	private int rgba(int rgb, int a) {
 		return rgb & ((a << 24) | 0xFFFFFF);
 	}
 
+    private static float xLocationMap(int datm, int dataMin, int dataMax,
+            float leftEdge, float rightEdge,
+            float sliderLeft, float sliderRight){
+        float calcuated = 0;
+        float linear = PApplet.map(datm, dataMin, dataMax, leftEdge, rightEdge);
+        if(linear < sliderLeft){
+            calcuated = fuzzLeft(linear, leftEdge);
+        } else if(linear > sliderRight){
+            calcuated = (rightEdge - ((rightEdge-linear) * 0.5f));
+        }
+        else{
+            float sliderLeftOffset = fuzzLeft(sliderLeft, leftEdge);
+            float sliderRightOffset = ((rightEdge-sliderRight)/2) + sliderRight;
+            calcuated = PApplet.map(linear, sliderLeft, sliderRight, sliderLeftOffset, sliderRightOffset);
+        }
+        return calcuated;
+    }
+
+    private static float fuzzLeft(float point, float leftEdge){
+        float factor = .5f;
+        return ((point-leftEdge) * factor) + leftEdge;
+    }
 	@Override
-	public void handleInput(boolean pressed, boolean dragged, boolean released,
-			PApplet parent) {
-		if (pressed) {
-			int location = whereIs(parent.mouseX, parent.mouseY);
+	public void handleInput(Interaction interaction) {
+		if (interaction.isFirstPress()) {
+			int location = whereIs(interaction.getParentApplet().mouseX,
+					interaction.getParentApplet().mouseY);
 			switch (location) {
 			case LEFTHANDLE:
 				moveLeft = true;
@@ -283,20 +343,23 @@ public class Slider extends AbstractVisualization implements Interactable{
 				moveAll = true;
 				break;
 			}
-		} else if (dragged) {
-			if(moveLeft){
-				dragLH(parent.mouseX, parent.pmouseX);
+		} else if (interaction.isDragged()) {
+			if (moveLeft) {
+				dragLH(interaction.getParentApplet().mouseX,
+						interaction.getParentApplet().pmouseX);
 				snapGoals();
 			}
-			if(moveRight){
-				dragRH(parent.mouseX, parent.pmouseX);
+			if (moveRight) {
+				dragRH(interaction.getParentApplet().mouseX,
+						interaction.getParentApplet().pmouseX);
 				snapGoals();
 			}
-			if(moveAll){
-				dragAll(parent.mouseX, parent.pmouseX);
+			if (moveAll) {
+				dragAll(interaction.getParentApplet().mouseX,
+						interaction.getParentApplet().pmouseX);
 				snapGoals();
 			}
-		} else if(released){
+		} else if (interaction.isReleased()) {
 			updateGoals();
 			moveLeft = moveRight = moveAll = false;
 		}

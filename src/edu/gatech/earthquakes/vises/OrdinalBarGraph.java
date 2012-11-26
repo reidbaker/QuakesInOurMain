@@ -1,10 +1,8 @@
 package edu.gatech.earthquakes.vises;
 
-import java.util.ArrayList;
-
+import processing.core.PApplet;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
-import processing.core.PApplet;
 
 public class OrdinalBarGraph extends BarGraph{
 	
@@ -25,9 +23,8 @@ public class OrdinalBarGraph extends BarGraph{
 	 * 
 	 */
 	public void calculateDataRange(){
-		ArrayList<DataRow> currentData = new ArrayList<>(displayData.getDatum());
 		
-		for(DataRow row: currentData){
+		for(DataRow row: displayData){
 			if(row.getValue(dataType) != null)
 				if(min == null || (Double)row.getValue(dataType) < min)
 					min = (Double)row.getValue(dataType);

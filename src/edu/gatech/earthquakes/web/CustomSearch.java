@@ -15,16 +15,14 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Properties;
 import java.util.Scanner;
 
-import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
-import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 public class CustomSearch {
     private final static String SEARCH_BASE = "https://www.googleapis.com/customsearch/v1";
-    private final static String dataLocation = ".." + File.separator + "data" + File.separator;
-    private final static String fileName = "config.properties";
-    private final static String cacheFolder = dataLocation + "cache" + File.separator;
+    private final static String DATA_LOCATION = ".." + File.separator + "data" + File.separator;
+    private final static String PROPERTIES_FILENAME = "config.properties";
+    private final static String CACHE_LOCATION = DATA_LOCATION + "cache" + File.separator;
     //custom search api key
     private String key;
     //custom search engine key
@@ -32,11 +30,11 @@ public class CustomSearch {
 
     //usage is CustomSearch cs = new CustomSearch(); cs.getQuery("some_query");
     public CustomSearch(){
-        this(dataLocation + fileName);
+        this(DATA_LOCATION + PROPERTIES_FILENAME);
     }
 
-    public CustomSearch(String filepath_name) {
-        Properties prop = new Properties();
+    public CustomSearch(final String filepath_name) {
+        final Properties prop = new Properties();
         try {
             //load a properties file
             prop.load(new FileInputStream(filepath_name));
@@ -47,7 +45,7 @@ public class CustomSearch {
         }
     }
 
-    private URL getUrl(String query) throws MalformedURLException{
+    private URL getUrl(final String query) throws MalformedURLException{
         String escaped_q = query;
         try {
             escaped_q = URLEncoder.encode(query, "UTF-8");
@@ -55,7 +53,7 @@ public class CustomSearch {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-        String attempted_url = SEARCH_BASE + "?" + "key=" + key + "&cx=" + cx + "&q=" + escaped_q;
+        final String attempted_url = SEARCH_BASE + "?" + "key=" + key + "&cx=" + cx + "&q=" + escaped_q;
         //System.out.println(attempted_url);
         return new URL(attempted_url);
     }
@@ -68,7 +66,7 @@ public class CustomSearch {
         final byte [] buffer = new byte[256];
 
         while(true){
-            int byteRead = in.read(buffer);
+            final int byteRead = in.read(buffer);
             if(byteRead == -1){
                 break;
             }
@@ -83,11 +81,12 @@ public class CustomSearch {
     public String getQuery(String query) throws NoSuchAlgorithmException, MalformedURLException, IOException{
         //this checks to see if the file is in the cache then returns the results as a string
         String result;
-        byte[] bytesOfMessage = query.getBytes("UTF-8");
-        MessageDigest md = MessageDigest.getInstance("MD5");
+        final byte[] bytesOfMessage = query.getBytes("UTF-8");
+        final MessageDigest md = MessageDigest.getInstance("MD5");
         byte[] thedigest = md.digest(bytesOfMessage);
-        String filename = new String(thedigest);
-        File f = new File(cacheFolder + filename);
+        String filename = bytesToPrintableString(thedigest);
+        System.out.println(filename);
+        File f = new File(CACHE_LOCATION + filename);
 
         //TODO handle if query happens to be a directory
         if(f.exists() && !f.isDirectory()){
@@ -108,7 +107,19 @@ public class CustomSearch {
         return result;
     }
 
-    public int getTotalCount(String jsonLine){
+    private String bytesToPrintableString(byte[] thedigest) {
+        char[] possibleChars = {'0','1','2','3','4','5','6','7','8','9',
+                'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',
+                'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z',
+                };
+        char[] writeableChars = new char[thedigest.length];
+        for(int i=0; i< thedigest.length; i++){
+            writeableChars[i] =  possibleChars[Math.abs(thedigest[i]) % possibleChars.length];
+        }
+        return new String(writeableChars);
+    }
+
+    public static int getTotalCount(final String jsonLine){
         //jsonline['queries']['request'][0]['totalResults']
         JsonElement jelement = new JsonParser().parse(jsonLine);
         String result = jelement.
