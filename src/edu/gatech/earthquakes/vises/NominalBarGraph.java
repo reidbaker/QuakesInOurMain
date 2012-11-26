@@ -13,7 +13,6 @@ public class NominalBarGraph extends BarGraph
 	
 	public NominalBarGraph(int x, int y, int w, int h, DataSet displayData, String dataType) {
 		super(x, y, w, h, displayData, dataType);
-		bars = new HashMap<Object, Integer>();
 		createBars();
 	}
 
@@ -47,6 +46,7 @@ public class NominalBarGraph extends BarGraph
 	}
 	
 	private void createBars(){
+		bars = new HashMap<Object, Integer>();
 		for(DataRow row: displayData){
 			if(row.getValue(dataType)!=null)
 				if(bars.containsKey(row.getValue(dataType)))
@@ -56,6 +56,12 @@ public class NominalBarGraph extends BarGraph
 		}
 		
 		numDivisions = bars.size();
+	}
+	
+	@Override
+	public void filterBy(DataSet ds){
+		super.filterBy(ds);
+		createBars();
 	}
 
 }

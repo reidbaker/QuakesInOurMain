@@ -2,6 +2,7 @@ package edu.gatech.earthquakes.components;
 
 import java.util.Calendar;
 import java.util.Date;
+import java.util.HashSet;
 import java.util.Set;
 
 import processing.core.PApplet;
@@ -142,7 +143,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 
 		int rightX = goalRight - x;
 		float ratioR = rightX / (float) w;
-		index = (int) (ratioR * fullYears.length + 0.5);
+		index = (int) Math.max(ratioR * fullYears.length + 0.5, 0);
 		if (index == fullYears.length)
 			snappedRight = x + w;
 		snappedRight = x + w * index / fullYears.length;
@@ -170,17 +171,33 @@ public class Slider extends AbstractVisualization implements Interactable {
 	}
 
 	public void updateAnim(int slowness) {
+		boolean changed = false;
 		if (Math.abs(snappedLeft - left) > 0) {
 			left += (snappedLeft - left) / slowness;
 			if (Math.abs(snappedLeft - left) == 1) {
 				left = snappedLeft;
 			}
+			changed = true;
 		}
 		if (Math.abs(snappedRight - right) > 0) {
 			right += (snappedRight - right) / slowness;
 			if (Math.abs(snappedRight - right) == 1) {
 				right = snappedRight;
 			}
+			changed = true;
+		}
+		if(changed){
+			HashSet<DataRow> filtered = new HashSet<>();
+			Calendar cal = Calendar.getInstance();
+			for(DataRow dr : data){
+				Date d = (Date) dr.getVariables().get(DataRow.DATE);
+				cal.setTime(d);
+				if(cal.get(Calendar.YEAR) >= getLeftBound() && cal.get(Calendar.YEAR) <= getRightBound()){
+					filtered.add(dr);
+				}
+			}
+			DataSet ds = new DataSet(filtered);
+			Controller.FILTER_BUS.post(ds);
 		}
 	}
 
@@ -217,14 +234,15 @@ public class Slider extends AbstractVisualization implements Interactable {
 		
 		p.fill(Theme.getDarkUIColor());
 		p.strokeWeight(2);
-		p.stroke(Theme.getBaseUIColor());
+		p.stroke(Theme.getDarkUIColor());
 		p.line(x, y + h, x + w, y + h);
 		for (int i = 0; i < fullYears.length; i++) {
 			int xpos = x + (i) * w / (fullYears.length) + w
 					/ (2 * fullYears.length);
 			if (fullYears[i] % drawInterval == 0) {
 				p.textAlign(PApplet.CENTER);
-				p.text(fullYears[i], xpos, y + h + 24);
+				p.textSize(12);
+				p.text(fullYears[i], xpos, y + h + 12);
 			}
 
 			// Draw ruler ticks
@@ -236,11 +254,14 @@ public class Slider extends AbstractVisualization implements Interactable {
 				// p.line(xpos, y + h, xpos, y + h - 5);
 			}
 		}
+		
+		p.textSize(24);
+		p.text("" + getLeftBound() + " - " + getRightBound(), x + w/2, y + h + 36);
 
 		// Draw main bar
 		p.fill(0, 0, 0, 0);
 		for (int i = 0; i < h; i++) {
-			p.stroke(rgba(Theme.getBaseUIColor(), i * 127 / h));
+			p.stroke(Theme.rgba(Theme.getBaseUIColor(), i * 127 / h));
 			p.line(left, y + i, right, y + i);
 		}
 		p.stroke(Theme.getBaseUIColor());
@@ -249,9 +270,9 @@ public class Slider extends AbstractVisualization implements Interactable {
 		// Draw left handle
 		p.stroke(0, 0, 0, 0);
 		if (whereIs(p.mouseX, p.mouseY) == LEFTHANDLE) {
-			p.fill(rgba(Theme.getBrightUIColor(), 127));
+			p.fill(Theme.rgba(Theme.getBrightUIColor(), 127));
 		} else {
-			p.fill(rgba(Theme.getBaseUIColor(), 127));
+			p.fill(Theme.rgba(Theme.getBaseUIColor(), 127));
 		}
 		p.arc(left, y + 10, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
 		p.arc(left, y + h - 10, 20, 20, PApplet.PI / 2, PApplet.PI);
@@ -265,9 +286,9 @@ public class Slider extends AbstractVisualization implements Interactable {
 		// Draw right handle
 		p.stroke(0, 0, 0, 0);
 		if (whereIs(p.mouseX, p.mouseY) == RIGHTHANDLE) {
-			p.fill(rgba(Theme.getBrightUIColor(), 127));
+			p.fill(Theme.rgba(Theme.getBrightUIColor(), 127));
 		} else {
-			p.fill(rgba(Theme.getBaseUIColor(), 127));
+			p.fill(Theme.rgba(Theme.getBaseUIColor(), 127));
 		}
 		p.arc(right, y + 10, 20, 20, 3 * PApplet.PI / 2, 2 * PApplet.PI);
 		p.arc(right, y + h - 10, 20, 20, 0, PApplet.PI / 2);
@@ -279,10 +300,6 @@ public class Slider extends AbstractVisualization implements Interactable {
 		p.ellipse(right + 5, y + (h / 2) + 5, 4, 4);
 
 		updateAnim(4);
-	}
-
-	private int rgba(int rgb, int a) {
-		return rgb & ((a << 24) | 0xFFFFFF);
 	}
 
 	@Override

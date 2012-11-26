@@ -17,6 +17,7 @@ import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 import edu.gatech.earthquakes.vises.AftershockMap;
+import edu.gatech.earthquakes.vises.NominalBarGraph;
 
 public class Controller {
 
@@ -47,8 +48,8 @@ public class Controller {
 		dataslider.setDrawInterval(250);
 		registerVisualization(dataslider);
 		
-		//NominalBarGraph n = new NominalBarGraph(20, 20, 500, 500,Importer.importData(), DataRow.CONTINENT);
-		//registerVisualization(n);
+		NominalBarGraph n = new NominalBarGraph(20, 20, 500, 500,Importer.importData(), DataRow.CONTINENT);
+		registerVisualization(n);
 		
 		//Elizabeth's testing things
 		DataRow mainQuake = null;
@@ -62,9 +63,9 @@ public class Controller {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-		AftershockMap m = new AftershockMap(20, 20, 500, 500, AftershockMap.findAftershocks(mainQuake, masterData));
+		AftershockMap m = new AftershockMap(525, 20, 450, 500, AftershockMap.findAftershocks(mainQuake, masterData));
 		registerVisualization(m);
-		//System.out.println((AftershockMap.findAftershocks(mainQuake, masterData)));
+//		System.out.println((AftershockMap.findAftershocks(mainQuake, masterData)));
 	}
 
 	public void registerVisualization(AbstractVisualization av) {

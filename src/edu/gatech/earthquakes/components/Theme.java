@@ -95,4 +95,8 @@ public class Theme {
 		}
 		return colors;
 	}
+	
+	public static int rgba(int rgb, int a) {
+		return rgb & ((a << 24) | 0xFFFFFF);
+	}
 }
