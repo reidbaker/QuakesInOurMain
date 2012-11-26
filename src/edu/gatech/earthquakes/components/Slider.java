@@ -66,7 +66,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 		for (int i = 0; i < years.length; i++) {
 			cal.setTime(dateArray[i]);
 			years[i] = cal.get(Calendar.YEAR);
-			if(i == 0)
+			if (i == 0)
 				System.out.println(years[i]);
 		}
 	}
@@ -90,9 +90,14 @@ public class Slider extends AbstractVisualization implements Interactable {
 
 	public int whereIs(int x, int y) {
 		int ret = OUTSIDE;
-		if (x >= fuzzLeft(left, x) && x <= right && y > this.y && y < this.y + h) {
+		if (x >= fuzzLeft(left, x) && x <= right && y > this.y
+				&& y < this.y + h) {
 			ret = INSIDE;
-		} else if (x > fuzzLeft(left, x) - 10 && x < left && y > this.y && y < this.y + h) {
+		} else if (x > fuzzLeft(left, x) - 10 && x < left && y > this.y
+				&& y < this.y + h) {
+			// FIXME: Ried, the left handle no longer is correctly selected if
+			// it is moved in. In order to select it you need to highlight a
+			// random place inside of the bar.
 			ret = LEFTHANDLE;
 		} else if (x > right && x < right + 10 && y > this.y && y < this.y + h) {
 			ret = RIGHTHANDLE;
@@ -186,13 +191,14 @@ public class Slider extends AbstractVisualization implements Interactable {
 			}
 			changed = true;
 		}
-		if(changed){
+		if (changed) {
 			HashSet<DataRow> filtered = new HashSet<>();
 			Calendar cal = Calendar.getInstance();
-			for(DataRow dr : data){
+			for (DataRow dr : data) {
 				Date d = (Date) dr.getVariables().get(DataRow.DATE);
 				cal.setTime(d);
-				if(cal.get(Calendar.YEAR) >= getLeftBound() && cal.get(Calendar.YEAR) <= getRightBound()){
+				if (cal.get(Calendar.YEAR) >= getLeftBound()
+						&& cal.get(Calendar.YEAR) <= getRightBound()) {
 					filtered.add(dr);
 				}
 			}
@@ -221,15 +227,17 @@ public class Slider extends AbstractVisualization implements Interactable {
 		p.stroke(Theme.getColorPallette(1)[0]);
 		p.strokeWeight(2);
 		p.strokeCap(PApplet.ROUND);
-		for(DataRow r : data){
-			Date date = (Date)r.getVariables().get(DataRow.DATE);
+		for (DataRow r : data) {
+			Date date = (Date) r.getVariables().get(DataRow.DATE);
 			Calendar cal = Calendar.getInstance();
 			cal.setTime(date);
 			int year = cal.get(Calendar.YEAR);
-			double mag = (double)r.getVariables().get(DataRow.MOMENT_MAGNITUDE);
-			float xLocation = xLocationMap(year, fullYears[0], fullYears[fullYears.length-1], x, x+w, left, right);
-			float height = PApplet.map((float)mag, 4.0f, 8.0f, 0f, (float)h);
-			p.line(xLocation, y + h, xLocation, y+h-height);
+			double mag = (double) r.getVariables()
+					.get(DataRow.MOMENT_MAGNITUDE);
+			float xLocation = xLocationMap(year, fullYears[0],
+					fullYears[fullYears.length - 1], x, x + w, left, right);
+			float height = PApplet.map((float) mag, 4.0f, 8.0f, 0f, (float) h);
+			p.line(xLocation, y + h, xLocation, y + h - height);
 		}
 
 		p.fill(Theme.getDarkUIColor());
@@ -237,7 +245,8 @@ public class Slider extends AbstractVisualization implements Interactable {
 		p.stroke(Theme.getDarkUIColor());
 		p.line(x, y + h, x + w, y + h);
 		for (int i = 0; i < fullYears.length; i++) {
-		    int xpos = (int) xLocationMap(i, 0, fullYears.length, x, x+w, left, right);
+			int xpos = (int) xLocationMap(i, 0, fullYears.length, x, x + w,
+					left, right);
 			if (fullYears[i] % drawInterval == 0) {
 				p.textAlign(PApplet.CENTER);
 				p.textSize(12);
@@ -253,9 +262,10 @@ public class Slider extends AbstractVisualization implements Interactable {
 				// p.line(xpos, y + h, xpos, y + h - 5);
 			}
 		}
-		
+
 		p.textSize(24);
-		p.text("" + getLeftBound() + " - " + getRightBound(), x + w/2, y + h + 36);
+		p.text("" + getLeftBound() + " - " + getRightBound(), x + w / 2, y + h
+				+ 36);
 
 		// Draw main bar
 		p.fill(0, 0, 0, 0);
@@ -305,28 +315,29 @@ public class Slider extends AbstractVisualization implements Interactable {
 		return rgb & ((a << 24) | 0xFFFFFF);
 	}
 
-    private static float xLocationMap(int datm, int dataMin, int dataMax,
-            float leftEdge, float rightEdge,
-            float sliderLeft, float sliderRight){
-        float calcuated = 0;
-        float linear = PApplet.map(datm, dataMin, dataMax, leftEdge, rightEdge);
-        if(linear < sliderLeft){
-            calcuated = fuzzLeft(linear, leftEdge);
-        } else if(linear > sliderRight){
-            calcuated = (rightEdge - ((rightEdge-linear) * 0.5f));
-        }
-        else{
-            float sliderLeftOffset = fuzzLeft(sliderLeft, leftEdge);
-            float sliderRightOffset = ((rightEdge-sliderRight)/2) + sliderRight;
-            calcuated = PApplet.map(linear, sliderLeft, sliderRight, sliderLeftOffset, sliderRightOffset);
-        }
-        return calcuated;
-    }
+	private static float xLocationMap(int datm, int dataMin, int dataMax,
+			float leftEdge, float rightEdge, float sliderLeft, float sliderRight) {
+		float calcuated = 0;
+		float linear = PApplet.map(datm, dataMin, dataMax, leftEdge, rightEdge);
+		if (linear < sliderLeft) {
+			calcuated = fuzzLeft(linear, leftEdge);
+		} else if (linear > sliderRight) {
+			calcuated = (rightEdge - ((rightEdge - linear) * 0.5f));
+		} else {
+			float sliderLeftOffset = fuzzLeft(sliderLeft, leftEdge);
+			float sliderRightOffset = ((rightEdge - sliderRight) / 2)
+					+ sliderRight;
+			calcuated = PApplet.map(linear, sliderLeft, sliderRight,
+					sliderLeftOffset, sliderRightOffset);
+		}
+		return calcuated;
+	}
 
-    private static float fuzzLeft(float point, float leftEdge){
-        float factor = .5f;
-        return ((point-leftEdge) * factor) + leftEdge;
-    }
+	private static float fuzzLeft(float point, float leftEdge) {
+		float factor = .5f;
+		return ((point - leftEdge) * factor) + leftEdge;
+	}
+
 	@Override
 	public void handleInput(Interaction interaction) {
 		if (interaction.isFirstPress()) {
