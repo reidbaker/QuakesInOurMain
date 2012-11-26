@@ -1,5 +1,9 @@
 package edu.gatech.earthquakes.components;
 
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Locale;
+
 import processing.core.PApplet;
 
 import com.google.common.eventbus.EventBus;
@@ -12,7 +16,7 @@ import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
-import edu.gatech.earthquakes.vises.NominalBarGraph;
+import edu.gatech.earthquakes.vises.AftershockMap;
 
 public class Controller {
 
@@ -40,10 +44,27 @@ public class Controller {
 		registerVisualization(workspace);
 		
 		dataslider = new Slider(50, 768 - 100, 924, 50, masterData);
+		dataslider.setDrawInterval(250);
 		registerVisualization(dataslider);
 		
-		NominalBarGraph n = new NominalBarGraph(20, 20, 500, 500,Importer.importData(), DataRow.CONTINENT);
-		registerVisualization(n);
+		//NominalBarGraph n = new NominalBarGraph(20, 20, 500, 500,Importer.importData(), DataRow.CONTINENT);
+		//registerVisualization(n);
+		
+		//Elizabeth's testing things
+		DataRow mainQuake = null;
+		boolean found = false;
+		for(DataRow quake: masterData.getDatum())
+			try {
+				if(quake.getValue(DataRow.DATE).equals(new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH).parse("20010126")) && quake.getValue(DataRow.DEPENDENCY).equals(DataRow.Dependency.INDEPENDENT)){
+					mainQuake = quake;
+				}
+			} catch (ParseException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		AftershockMap m = new AftershockMap(20, 20, 500, 500, AftershockMap.findAftershocks(mainQuake, masterData));
+		registerVisualization(m);
+		//System.out.println((AftershockMap.findAftershocks(mainQuake, masterData)));
 	}
 
 	public void registerVisualization(AbstractVisualization av) {
@@ -101,3 +122,5 @@ public class Controller {
 		brushBus.post(ds);
 	}
 }
+
+

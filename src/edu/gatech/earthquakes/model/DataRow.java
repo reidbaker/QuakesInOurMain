@@ -25,6 +25,7 @@ public class DataRow {
     public final static String SURFACE_WAVE_MAGNITUDE = "Surface Wave Magnitude";
     public final static String LOCAL_WAVE_MAGNITUDE = "Local Wave Magnitude";
     public final static String DEPENDENCY = "Dependency";
+    public final static String MAIN_DATE = "Main Date";
     public enum Dependency{
         INDEPENDENT,
         DEPENDENT,
