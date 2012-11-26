@@ -15,6 +15,10 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Properties;
 import java.util.Scanner;
 
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 
 public class CustomSearch {
     private final static String SEARCH_BASE = "https://www.googleapis.com/customsearch/v1";
@@ -94,6 +98,7 @@ public class CustomSearch {
             System.out.println("From cache: " + query);
         }
         else{
+            //get content and write it to a file the return it
             BufferedWriter out = new BufferedWriter(new FileWriter(f));
             result = getOnlineContent(getUrl(query));
             out.write(result);
@@ -101,6 +106,19 @@ public class CustomSearch {
             System.out.println("From web: " + query);
         }
         return result;
+    }
+
+    public int getTotalCount(String jsonLine){
+        //jsonline['queries']['request'][0]['totalResults']
+        JsonElement jelement = new JsonParser().parse(jsonLine);
+        JsonObject jobject = jelement.getAsJsonObject();
+        JsonObject queries = jobject.getAsJsonObject("queries");
+        JsonArray requests = queries.getAsJsonArray("request");
+        JsonElement request = requests.get(0);
+        String result = request.getAsJsonObject().get("totalResults").toString();
+        //strips leading and trailing quotes
+        result = result.replace('"', ' ').trim();
+        return Integer.parseInt(result);
     }
 
 }
