@@ -75,6 +75,7 @@ public class CustomSearch {
         return sb.toString();
     }
 
+    //TODO catch appropriate errors
     public String getQuery(String query) throws NoSuchAlgorithmException, MalformedURLException, IOException{
         //this checks to see if the file is in the cache then returns the results as a string
         String result;
@@ -84,6 +85,7 @@ public class CustomSearch {
         String filename = new String(thedigest);
         File f = new File(cacheFolder + filename);
 
+        //TODO handle if query happens to be a directory
         if(f.exists() && !f.isDirectory()){
             //file is in cache
             Scanner s = new Scanner(f);
