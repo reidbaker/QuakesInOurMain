@@ -10,6 +10,7 @@ import edu.gatech.earthquakes.interfaces.Brushable;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
+import edu.gatech.earthquakes.model.Interaction;
 
 public class AftershockMap extends Multi implements Interactable{
 
@@ -187,8 +188,7 @@ public class AftershockMap extends Multi implements Interactable{
 	}
 
 	@Override
-	public void handleInput(boolean pressed, boolean dragged, boolean released,
-			PApplet parent) {
+	public void handleInput(Interaction interaction) {
 		
 		double[][] coords = getCoordinates();
 		double[] mag = getMagnitudes();
@@ -202,7 +202,7 @@ public class AftershockMap extends Multi implements Interactable{
 			
 			
 			
-			if(Math.abs(parent.mouseX-qx)< getCircleSize(mag[i])/2 && Math.abs(parent.mouseY-qy)< getCircleSize(mag[i])/2){
+			if(Math.abs(interaction.getParentApplet().mouseX-qx)< getCircleSize(mag[i])/2 && Math.abs(interaction.getParentApplet().mouseY-qy)< getCircleSize(mag[i])/2){
 				highlightedPos = new double[]{coords[i][0], coords[i][1]};
 				found = true;
 			}
