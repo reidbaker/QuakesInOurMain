@@ -4,5 +4,8 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="lib/guava-13.0.1.jar"/>
 	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/google-gson-2.2.2/gson-2.2.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/google-gson-2.2.2/gson-2.2.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/google-gson-2.2.2/gson-2.2.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
