@@ -84,7 +84,8 @@ public class CustomSearch {
         final byte[] bytesOfMessage = query.getBytes("UTF-8");
         final MessageDigest md = MessageDigest.getInstance("MD5");
         byte[] thedigest = md.digest(bytesOfMessage);
-        String filename = new String(thedigest);
+        String filename = bytesToPrintableString(thedigest);
+        System.out.println(filename);
         File f = new File(CACHE_LOCATION + filename);
 
         //TODO handle if query happens to be a directory
@@ -104,6 +105,18 @@ public class CustomSearch {
             System.out.println("From web: " + query);
         }
         return result;
+    }
+
+    private String bytesToPrintableString(byte[] thedigest) {
+        char[] possibleChars = {'0','1','2','3','4','5','6','7','8','9',
+                'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',
+                'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z',
+                };
+        char[] writeableChars = new char[thedigest.length];
+        for(int i=0; i< thedigest.length; i++){
+            writeableChars[i] =  possibleChars[Math.abs(thedigest[i]) % possibleChars.length];
+        }
+        return new String(writeableChars);
     }
 
     public int getTotalCount(final String jsonLine){
