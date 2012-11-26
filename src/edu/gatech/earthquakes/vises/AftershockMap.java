@@ -6,15 +6,18 @@ import java.util.*;
 import processing.core.PApplet;
 
 import edu.gatech.earthquakes.components.Theme;
+import edu.gatech.earthquakes.interfaces.Brushable;
+import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 
-public class AftershockMap extends Multi {
+public class AftershockMap extends Multi implements Interactable{
 
 	private double[] latRange;
 	private double[] lonRange;
 	private int buffer = 20;
 	private DecimalFormat df;
+	private double[] highlightedPos;
 	
 	public AftershockMap(int x, int y, int w, int h, DataSet displayData) {
 		super(x, y, w, h, displayData);
@@ -23,18 +26,27 @@ public class AftershockMap extends Multi {
 		df = new DecimalFormat("0.00");
 	}
 	
+	/**
+	 * Static method that searches through the set of quakes that is being considered and finds all of the quakes
+	 * that are dependent upon the main quake. The set of quakes is then returned so that a new aftershock map can 
+	 * be created with that particular set
+	 * 
+	 * @param mainQuake
+	 * @param allQuakes
+	 * @return
+	 */
 	public static DataSet findAftershocks(DataRow mainQuake, DataSet allQuakes){
 		Date date = (Date)mainQuake.getValue(DataRow.DATE);
-		Set<DataRow> dep = new HashSet<DataRow>();
+		
+		Set<DataRow> aftershocks = new HashSet<DataRow>();
+		aftershocks.add(mainQuake);
 		
 		for(DataRow quake : allQuakes.getDatum()){
 			if(quake.getValue(DataRow.DEPENDENCY).equals(DataRow.Dependency.DEPENDENT) && quake.getValue(DataRow.MAIN_DATE).equals(date))
-				dep.add(quake);
+				aftershocks.add(quake);
 		}
 		
-		dep.add(mainQuake);
-
-		return new DataSet(dep);
+		return new DataSet(aftershocks);
 	}
 	
 	public void drawComponent(PApplet parent){
@@ -48,21 +60,26 @@ public class AftershockMap extends Multi {
 		 * f(x) = (b-a)(x-min)/(max-min) + a
 		 * 
 		 * where [min,max] maps to [a,b]
-		 */
-		
-		double minSize = 5;
-		double maxSize = 30;
-		
+		 */		
 		for(int i=0; i< c.length; i++){
 			double qx = ((w-buffer*2)*(c[i][0]-latRange[0]))/(latRange[1]-latRange[0]);
 			double qy = ((h-buffer*2)*(c[i][1]-lonRange[0]))/(lonRange[1]-lonRange[0]);
 			
 			//for magnitude, min and max are assumed to be 3 and 7 based on moment magnitude numbers
-			double size = (maxSize-minSize)*(m[i]-3)/4 + minSize;
 			
-			parent.fill(Theme.getColorPallette(1)[0]-0xAA000000);
-			parent.stroke(Theme.getColorPallette(1)[0]-0x66000000);
-			parent.ellipse(x +(float)qx+buffer, y + h-(float)qy-buffer, (float)size, (float)size);
+			
+			if(highlightedPos!=null && c[i][0] == highlightedPos[0] && c[i][1] == highlightedPos[1]){
+				parent.fill(Theme.getColorPallette(2)[1]-0x99000000);
+				parent.stroke(Theme.getColorPallette(2)[1]-0x33000000);
+				//parent.text(c[i][0] + "," + c[i][1], x +(float)qx+buffer, y + h-(float)qy-buffer);
+			}
+			else{
+				parent.fill(Theme.getColorPallette(1)[0]-0xAA000000);
+				parent.stroke(Theme.getColorPallette(1)[0]-0x66000000);
+			}
+			parent.ellipseMode(PApplet.CENTER);
+			parent.ellipse(x +(float)qx+buffer, y + h-(float)qy-buffer, (float)getCircleSize(m[i]), (float)getCircleSize(m[i]));
+			//parent.text(c[i][0] + "," + c[i][1], x +(float)qx+buffer, y + h-(float)qy-buffer);
 			//System.out.println("Lat: " + c[i][0] + " X: " + x + ", Lon: " + c[i][1]);
 		}
 		
@@ -73,26 +90,36 @@ public class AftershockMap extends Multi {
 	
 	private void drawAxes(PApplet parent){
 		parent.stroke(Theme.getDarkUIColor());
-		parent.fill(Theme.getDarkUIColor());
-		parent.textSize(8);
+		parent.noFill();
+		
+		
+		/*if we want to only have some of the lines
 		parent.line(x+buffer, y+buffer, x+ w-buffer, y+buffer); //top
 		parent.line(x+buffer, y+h-buffer, x+ w-buffer, y+h-buffer); //bottom
 		parent.line(x+buffer, y+buffer, x+ buffer, y+h-buffer); //left
 		parent.line(x+w-buffer, y+buffer, x+ w-buffer, y+h-buffer); //right
+		*/
 		
+		parent.rect(x+buffer, y+buffer, w-buffer*2, h-buffer*2);
+		
+		parent.fill(Theme.getDarkUIColor());
+		parent.textSize(8);
+		
+		//label the edges
 		parent.text(df.format(latRange[0]), x+buffer, y+h);
 		parent.text(df.format(latRange[1]), x+w-buffer, y+h);
 		parent.text(df.format(lonRange[0]), x+buffer, y+h-buffer);
 		parent.text(df.format(lonRange[1]), x+buffer, y+buffer);
 		
+		// make and label the latitude tick marks
 		double lat = 0; 
-		
 		for(int i=0; i<(w-buffer*2); i+=50){
 			lat = (((latRange[1]-latRange[0])*i)/(w-buffer*2)) + latRange[0];
 			parent.line(x+buffer+i, y+h-buffer-2, x+buffer+i, y+h-buffer+2);
 			parent.text(df.format(lat),x+buffer+i , y+h);
 		}
 		
+		// make and label the longitude tick marks
 		double lon = 0;
 		for(int i=0; i<(h-buffer*2); i+=50){
 			lon = (((lonRange[1]-lonRange[0])*i)/(h-buffer*2)) + lonRange[0];
@@ -103,6 +130,7 @@ public class AftershockMap extends Multi {
 	
 	private double[][] getCoordinates(){
 		double[][] coords = new double[displayData.getDatum().size()][2];
+		
 		int i = 0;
 		for(DataRow quake: displayData.getDatum()){
 			coords[i][0] = (Double)quake.getValue(DataRow.LATTITUDE);
@@ -156,5 +184,41 @@ public class AftershockMap extends Multi {
 		System.out.println(Arrays.toString(lonRange));
 		System.out.println(Arrays.toString(latRange));
 		
+	}
+
+	@Override
+	public void handleInput(boolean pressed, boolean dragged, boolean released,
+			PApplet parent) {
+		
+		double[][] coords = getCoordinates();
+		double[] mag = getMagnitudes();
+		double qx = 0;
+		double qy = 0;
+		boolean found = false;
+		
+		for(int i=0; i< coords.length && !found; i++){
+			qx = ((w-buffer*2)*(coords[i][0]-latRange[0]))/(latRange[1]-latRange[0]) + x+buffer;
+			qy = y+h-((h-buffer*2)*(coords[i][1]-lonRange[0]))/(lonRange[1]-lonRange[0]) -buffer;
+			
+			
+			
+			if(Math.abs(parent.mouseX-qx)< getCircleSize(mag[i])/2 && Math.abs(parent.mouseY-qy)< getCircleSize(mag[i])/2){
+				highlightedPos = new double[]{coords[i][0], coords[i][1]};
+				found = true;
+			}
+		
+		
+		if(!found)
+			highlightedPos = null;
+		
+		}
+		
+	}
+	
+	private double getCircleSize(double mag){
+		double minSize = 5;
+		double maxSize = 30;
+		
+		return (maxSize-minSize)*(mag-3)/4 + minSize;
 	}
 }
