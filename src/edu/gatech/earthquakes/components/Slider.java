@@ -210,11 +210,11 @@ public class Slider extends AbstractVisualization implements Interactable {
 			cal.setTime(date);
 			int year = cal.get(Calendar.YEAR);
 			double mag = (double)r.getVariables().get(DataRow.MOMENT_MAGNITUDE);
-			float xLocation = PApplet.map(year, fullYears[0], fullYears[fullYears.length-1], x, x+w);
+			float xLocation = xLocationMap(year, fullYears[0], fullYears[fullYears.length-1], x, x+w, left, right);
 			float height = PApplet.map((float)mag, 4.0f, 8.0f, 0f, (float)h);
 			p.line(xLocation, y + h, xLocation, y+h-height);
 		}
-		
+
 		p.fill(Theme.getDarkUIColor());
 		p.strokeWeight(2);
 		p.stroke(Theme.getBaseUIColor());
@@ -284,6 +284,23 @@ public class Slider extends AbstractVisualization implements Interactable {
 	private int rgba(int rgb, int a) {
 		return rgb & ((a << 24) | 0xFFFFFF);
 	}
+
+    private static float xLocationMap(int datm, int dataMin, int dataMax,
+            float leftEdge, float rightEdge,
+            float sliderLeft, float sliderRight){
+        float calcuated = 0;
+        float linear = PApplet.map(datm, dataMin, dataMax, leftEdge, rightEdge);
+        if(linear < sliderLeft){
+            calcuated = ((linear-leftEdge)/2) + leftEdge;
+        } else if(linear > sliderRight){
+            calcuated = rightEdge + (rightEdge-linear)/2;
+        }
+        else{
+            calcuated = linear;
+        }
+        return calcuated;
+    }
+
 
 	@Override
 	public void handleInput(Interaction interaction) {
