@@ -14,7 +14,7 @@ import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 
-public class Slider extends AbstractVisualization implements Interactable{
+public class Slider extends AbstractVisualization implements Interactable {
 	float left, right;
 	int goalLeft, goalRight;
 	int snappedLeft, snappedRight;
@@ -25,7 +25,7 @@ public class Slider extends AbstractVisualization implements Interactable{
 	DataSet data;
 	int[] years;
 	int[] fullYears;
-	
+
 	boolean moveLeft, moveRight, moveAll;
 
 	public static final int OUTSIDE = 0, INSIDE = 1, LEFTHANDLE = 2,
@@ -41,13 +41,13 @@ public class Slider extends AbstractVisualization implements Interactable{
 		snappedRight = goalRight;
 		drawInterval = 100;
 		this.data = data;
-		
+
 		grabDates();
 
 		rangeMin = years[0];
 		rangeMax = years[years.length - 1];
 		fullYears = new int[rangeMax - rangeMin];
-		for(int i = 0; i < fullYears.length; i++){
+		for (int i = 0; i < fullYears.length; i++) {
 			fullYears[i] = i + years[0];
 		}
 
@@ -65,6 +65,8 @@ public class Slider extends AbstractVisualization implements Interactable{
 		for (int i = 0; i < years.length; i++) {
 			cal.setTime(dateArray[i]);
 			years[i] = cal.get(Calendar.YEAR);
+			if(i == 0)
+				System.out.println(years[i]);
 		}
 	}
 
@@ -131,7 +133,8 @@ public class Slider extends AbstractVisualization implements Interactable{
 	public void snapGoals() {
 		int leftX = goalLeft - x;
 		float ratioL = leftX / (float) w;
-		int index = (int) (ratioL * fullYears.length + 0.5);
+		int index = (int) Math.min(ratioL * fullYears.length + 0.5,
+				fullYears.length - 1);
 		snappedLeft = x + w * index / fullYears.length;
 		if (index == 0)
 			snappedLeft = x;
@@ -196,14 +199,30 @@ public class Slider extends AbstractVisualization implements Interactable{
 		p.endShape();
 
 		// Draw underlying data
+
+		// Draw mini graph
+		p.stroke(Theme.getColorPallette(1)[0]);
+		p.strokeWeight(2);
+		p.strokeCap(PApplet.ROUND);
+		for(DataRow r : data){
+			Date date = (Date)r.getVariables().get(DataRow.DATE);
+			Calendar cal = Calendar.getInstance();
+			cal.setTime(date);
+			int year = cal.get(Calendar.YEAR);
+			double mag = (double)r.getVariables().get(DataRow.MOMENT_MAGNITUDE);
+			float xLocation = PApplet.map(year, fullYears[0], fullYears[fullYears.length-1], x, x+w);
+			float height = PApplet.map((float)mag, 4.0f, 8.0f, 0f, (float)h);
+			p.line(xLocation, y + h, xLocation, y+h-height);
+		}
+		
 		p.fill(Theme.getDarkUIColor());
 		p.strokeWeight(2);
 		p.stroke(Theme.getBaseUIColor());
 		p.line(x, y + h, x + w, y + h);
 		for (int i = 0; i < fullYears.length; i++) {
-			int xpos = x + (i) * w / (fullYears.length) + w / (2 * fullYears.length);
-			if (fullYears[i] % drawInterval == 0 || i == 0
-					|| i == fullYears.length - 1) {
+			int xpos = x + (i) * w / (fullYears.length) + w
+					/ (2 * fullYears.length);
+			if (fullYears[i] % drawInterval == 0) {
 				p.textAlign(PApplet.CENTER);
 				p.text(fullYears[i], xpos, y + h + 24);
 			}
@@ -214,13 +233,8 @@ public class Slider extends AbstractVisualization implements Interactable{
 			} else if (fullYears[i] % 10 == 0) {
 				p.line(xpos, y + h, xpos, y + h - 10);
 			} else {
-//				p.line(xpos, y + h, xpos, y + h - 5);
+				// p.line(xpos, y + h, xpos, y + h - 5);
 			}
-		}
-
-		// Draw mini graph
-		for(DataRow dr : data){
-			
 		}
 
 		// Draw main bar
@@ -234,7 +248,7 @@ public class Slider extends AbstractVisualization implements Interactable{
 
 		// Draw left handle
 		p.stroke(0, 0, 0, 0);
-		if(whereIs(p.mouseX, p.mouseY) == LEFTHANDLE){
+		if (whereIs(p.mouseX, p.mouseY) == LEFTHANDLE) {
 			p.fill(rgba(Theme.getBrightUIColor(), 127));
 		} else {
 			p.fill(rgba(Theme.getBaseUIColor(), 127));
@@ -250,7 +264,7 @@ public class Slider extends AbstractVisualization implements Interactable{
 
 		// Draw right handle
 		p.stroke(0, 0, 0, 0);
-		if(whereIs(p.mouseX, p.mouseY) == RIGHTHANDLE){
+		if (whereIs(p.mouseX, p.mouseY) == RIGHTHANDLE) {
 			p.fill(rgba(Theme.getBrightUIColor(), 127));
 		} else {
 			p.fill(rgba(Theme.getBaseUIColor(), 127));
@@ -263,18 +277,19 @@ public class Slider extends AbstractVisualization implements Interactable{
 		p.ellipse(right + 5, y + (h / 2) - 5, 4, 4);
 		p.ellipse(right + 5, y + (h / 2), 4, 4);
 		p.ellipse(right + 5, y + (h / 2) + 5, 4, 4);
-		
+
 		updateAnim(4);
 	}
 
-	private int rgba(int rgb, int a){
+	private int rgba(int rgb, int a) {
 		return rgb & ((a << 24) | 0xFFFFFF);
 	}
 
 	@Override
 	public void handleInput(Interaction interaction) {
 		if (interaction.isFirstPress()) {
-			int location = whereIs(interaction.getParentApplet().mouseX, interaction.getParentApplet().mouseY);
+			int location = whereIs(interaction.getParentApplet().mouseX,
+					interaction.getParentApplet().mouseY);
 			switch (location) {
 			case LEFTHANDLE:
 				moveLeft = true;
@@ -287,19 +302,22 @@ public class Slider extends AbstractVisualization implements Interactable{
 				break;
 			}
 		} else if (interaction.isDragged()) {
-			if(moveLeft){
-				dragLH(interaction.getParentApplet().mouseX, interaction.getParentApplet().pmouseX);
+			if (moveLeft) {
+				dragLH(interaction.getParentApplet().mouseX,
+						interaction.getParentApplet().pmouseX);
 				snapGoals();
 			}
-			if(moveRight){
-				dragRH(interaction.getParentApplet().mouseX, interaction.getParentApplet().pmouseX);
+			if (moveRight) {
+				dragRH(interaction.getParentApplet().mouseX,
+						interaction.getParentApplet().pmouseX);
 				snapGoals();
 			}
-			if(moveAll){
-				dragAll(interaction.getParentApplet().mouseX, interaction.getParentApplet().pmouseX);
+			if (moveAll) {
+				dragAll(interaction.getParentApplet().mouseX,
+						interaction.getParentApplet().pmouseX);
 				snapGoals();
 			}
-		} else if(interaction.isReleased()){
+		} else if (interaction.isReleased()) {
 			updateGoals();
 			moveLeft = moveRight = moveAll = false;
 		}

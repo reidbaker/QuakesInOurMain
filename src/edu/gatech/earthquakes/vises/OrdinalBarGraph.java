@@ -1,10 +1,8 @@
 package edu.gatech.earthquakes.vises;
 
-import java.util.ArrayList;
-
+import processing.core.PApplet;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
-import processing.core.PApplet;
 
 public class OrdinalBarGraph extends BarGraph{
 	

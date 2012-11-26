@@ -4,7 +4,7 @@ import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
 
-public class EarthquakesMain extends PApplet{
+public class EarthquakesMain extends PApplet {
 
 	private static final long serialVersionUID = 1L;
 	private Controller cont;
@@ -14,9 +14,9 @@ public class EarthquakesMain extends PApplet{
 	}
 
 	public void setup() {
-	    smooth();
-	    size(1024, 768);
-	    cont = new Controller(this);
+		smooth();
+		size(1024, 768);
+		cont = new Controller(this);
 	}
 
 	public void draw() {

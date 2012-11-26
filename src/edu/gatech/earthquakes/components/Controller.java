@@ -26,10 +26,10 @@ public class Controller {
 
 	private final Slider dataslider;
 	
-	public static final EventBus brushBus = new EventBus("Brushing Bus");
-	public static final EventBus drawBus = new EventBus("Drawing Bus");
-	public static final EventBus filterBus = new EventBus("Filtering Bus");
-	public static final EventBus interactBus = new EventBus("Interacting Bus");
+	public static final EventBus BRUSH_BUS = new EventBus("Brushing Bus");
+	public static final EventBus DRAW_BUS = new EventBus("Drawing Bus");
+	public static final EventBus FILTER_BUS = new EventBus("Filtering Bus");
+	public static final EventBus INTERACT_BUS = new EventBus("Interacting Bus");
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
@@ -52,7 +52,7 @@ public class Controller {
 		
 		//Elizabeth's testing things
 		DataRow mainQuake = null;
-		boolean found = false;
+//		boolean found = false;
 		for(DataRow quake: masterData.getDatum())
 			try {
 				if(quake.getValue(DataRow.DATE).equals(new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH).parse("20010126")) && quake.getValue(DataRow.DEPENDENCY).equals(DataRow.Dependency.INDEPENDENT)){
@@ -69,13 +69,13 @@ public class Controller {
 
 	public void registerVisualization(AbstractVisualization av) {
 		if (av instanceof Brushable)
-			brushBus.register(av);
+			BRUSH_BUS.register(av);
 		if (av instanceof Drawable)
-			drawBus.register(av);
+			DRAW_BUS.register(av);
 		if (av instanceof Filterable)
-			filterBus.register(av);
+			FILTER_BUS.register(av);
 		if (av instanceof Interactable)
-			interactBus.register(av);
+			INTERACT_BUS.register(av);
 	}
 
 	/**
@@ -87,7 +87,7 @@ public class Controller {
 	}
 
 	public void redrawAll() {
-		drawBus.post(parentApplet);
+		DRAW_BUS.post(parentApplet);
 	}
 
 	private boolean alreadyPressed;
@@ -111,15 +111,15 @@ public class Controller {
 		}
 
 		Interaction i = new Interaction(firstPress, drag, released, parentApplet);
-		interactBus.post(i);
+		INTERACT_BUS.post(i);
 	}
 
 	public static void applyFilter(DataSet ds) {
-		filterBus.post(ds);
+		FILTER_BUS.post(ds);
 	}
 
 	public static void applyBrushing(DataSet ds) {
-		brushBus.post(ds);
+		BRUSH_BUS.post(ds);
 	}
 }
 
