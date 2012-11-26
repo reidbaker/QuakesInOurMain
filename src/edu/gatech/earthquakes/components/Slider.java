@@ -220,8 +220,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 		p.stroke(Theme.getBaseUIColor());
 		p.line(x, y + h, x + w, y + h);
 		for (int i = 0; i < fullYears.length; i++) {
-			int xpos = x + (i) * w / (fullYears.length) + w
-					/ (2 * fullYears.length);
+		    int xpos = (int) xLocationMap(i, 0, fullYears.length, x, x+w, left, right);
 			if (fullYears[i] % drawInterval == 0) {
 				p.textAlign(PApplet.CENTER);
 				p.text(fullYears[i], xpos, y + h + 24);
@@ -293,10 +292,12 @@ public class Slider extends AbstractVisualization implements Interactable {
         if(linear < sliderLeft){
             calcuated = ((linear-leftEdge)/2) + leftEdge;
         } else if(linear > sliderRight){
-            calcuated = rightEdge + (rightEdge-linear)/2;
+            calcuated = (rightEdge - (rightEdge-linear)/2);
         }
         else{
-            calcuated = linear;
+            float sliderLeftOffset = ((sliderLeft-leftEdge)/2) + leftEdge;
+            float sliderRightOffset = ((rightEdge-sliderRight)/2) + sliderRight;
+            calcuated = PApplet.map(linear, sliderLeft, sliderRight, sliderLeftOffset, sliderRightOffset);
         }
         return calcuated;
     }
