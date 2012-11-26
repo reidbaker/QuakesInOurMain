@@ -6,9 +6,10 @@ public abstract class Individual extends AbstractVisualization {
 	
 	// the current quake that is displayed by this particular individual vis
 	@SuppressWarnings("unused")
-	private DataRow displayData;
+	protected DataRow displayData;
 	
-	public Individual(int x, int y, int w, int h) {
+	public Individual(int x, int y, int w, int h, DataRow displayData) {
 		super(x, y, w, h);
+		this.displayData = displayData;
 	}
 }

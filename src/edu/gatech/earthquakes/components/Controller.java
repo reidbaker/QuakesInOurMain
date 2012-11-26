@@ -63,7 +63,8 @@ public class Controller {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-		AftershockMap m = new AftershockMap(525, 20, 450, 500, AftershockMap.findAftershocks(mainQuake, masterData));
+		AftershockMap m = new AftershockMap(525, 20, 450, 500,mainQuake);
+		m.filterBy(masterData);
 		registerVisualization(m);
 //		System.out.println((AftershockMap.findAftershocks(mainQuake, masterData)));
 	}

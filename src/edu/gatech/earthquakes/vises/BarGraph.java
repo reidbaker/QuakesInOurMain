@@ -5,7 +5,7 @@ import edu.gatech.earthquakes.model.DataSet;
 
 public abstract class BarGraph extends Aggregate implements Filterable{
 	protected String dataType;
-	protected int buffer = 10;
+	protected int buffer = 20;
 	protected int numDivisions;
 	
 
