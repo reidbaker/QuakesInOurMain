@@ -243,7 +243,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 			p.line(fuzzLeft(left, x), y + i, right, y + i);
 		}
 		p.stroke(Theme.getBaseUIColor());
-		p.rect(fuzzLeft(left, x), y, fuzzRight(right - left, (x + w)), h);
+		p.rect(fuzzLeft(left, x), y, right - fuzzLeft(left, x), h);
 
 		// Draw left handle
 		p.stroke(0, 0, 0, 0);
@@ -296,15 +296,10 @@ public class Slider extends AbstractVisualization implements Interactable {
         }
         else{
             float sliderLeftOffset = fuzzLeft(sliderLeft, leftEdge);
-            float sliderRightOffset = fuzzRight(rightEdge, sliderRight);
+            float sliderRightOffset = ((rightEdge-sliderRight)/2) + sliderRight;
             calcuated = PApplet.map(linear, sliderLeft, sliderRight, sliderLeftOffset, sliderRightOffset);
         }
         return calcuated;
-    }
-
-    private static float fuzzRight(float rightEdge, float sliderRight) {
-        float factor = 0.5f;
-        return ((rightEdge-sliderRight) * factor) + sliderRight;
     }
 
     private static float fuzzLeft(float point, float leftEdge){
