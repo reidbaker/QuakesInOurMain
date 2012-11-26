@@ -111,11 +111,14 @@ public class CustomSearch {
     public int getTotalCount(String jsonLine){
         //jsonline['queries']['request'][0]['totalResults']
         JsonElement jelement = new JsonParser().parse(jsonLine);
-        JsonObject jobject = jelement.getAsJsonObject();
-        JsonObject queries = jobject.getAsJsonObject("queries");
-        JsonArray requests = queries.getAsJsonArray("request");
-        JsonElement request = requests.get(0);
-        String result = request.getAsJsonObject().get("totalResults").toString();
+        String result = jelement.
+                getAsJsonObject().
+                getAsJsonObject("queries").
+                getAsJsonArray("request").
+                get(0).
+                getAsJsonObject().
+                get("totalResults").
+                toString();
         //strips leading and trailing quotes
         result = result.replace('"', ' ').trim();
         return Integer.parseInt(result);
