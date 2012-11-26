@@ -89,9 +89,9 @@ public class Slider extends AbstractVisualization implements Interactable {
 
 	public int whereIs(int x, int y) {
 		int ret = OUTSIDE;
-		if (x >= left && x <= right && y > this.y && y < this.y + h) {
+		if (x >= fuzzLeft(left, x) && x <= right && y > this.y && y < this.y + h) {
 			ret = INSIDE;
-		} else if (x > left - 10 && x < left && y > this.y && y < this.y + h) {
+		} else if (x > fuzzLeft(left, x) - 10 && x < left && y > this.y && y < this.y + h) {
 			ret = LEFTHANDLE;
 		} else if (x > right && x < right + 10 && y > this.y && y < this.y + h) {
 			ret = RIGHTHANDLE;
@@ -240,10 +240,10 @@ public class Slider extends AbstractVisualization implements Interactable {
 		p.fill(0, 0, 0, 0);
 		for (int i = 0; i < h; i++) {
 			p.stroke(rgba(Theme.getBaseUIColor(), i * 127 / h));
-			p.line(left, y + i, right, y + i);
+			p.line(fuzzLeft(left, x), y + i, right, y + i);
 		}
 		p.stroke(Theme.getBaseUIColor());
-		p.rect(left, y, right - left, h);
+		p.rect(fuzzLeft(left, x), y, right - fuzzLeft(left, x), h);
 
 		// Draw left handle
 		p.stroke(0, 0, 0, 0);
@@ -252,14 +252,14 @@ public class Slider extends AbstractVisualization implements Interactable {
 		} else {
 			p.fill(rgba(Theme.getBaseUIColor(), 127));
 		}
-		p.arc(left, y + 10, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
-		p.arc(left, y + h - 10, 20, 20, PApplet.PI / 2, PApplet.PI);
-		p.rect(left + 0.5f - 10, y + 10, 10, h - 20);
+		p.arc(fuzzLeft(left, x), y + 10, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
+		p.arc(fuzzLeft(left, x), y + h - 10, 20, 20, PApplet.PI / 2, PApplet.PI);
+		p.rect(fuzzLeft(left, x) + 0.5f - 10, y + 10, 10, h - 20);
 
 		p.fill(Theme.getDarkUIColor());
-		p.ellipse(left - 5, y + (h / 2) - 5, 4, 4);
-		p.ellipse(left - 5, y + (h / 2), 4, 4);
-		p.ellipse(left - 5, y + (h / 2) + 5, 4, 4);
+		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2) - 5, 4, 4);
+		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2), 4, 4);
+		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2) + 5, 4, 4);
 
 		// Draw right handle
 		p.stroke(0, 0, 0, 0);
@@ -290,18 +290,22 @@ public class Slider extends AbstractVisualization implements Interactable {
         float calcuated = 0;
         float linear = PApplet.map(datm, dataMin, dataMax, leftEdge, rightEdge);
         if(linear < sliderLeft){
-            calcuated = ((linear-leftEdge)/2) + leftEdge;
+            calcuated = fuzzLeft(linear, leftEdge);
         } else if(linear > sliderRight){
-            calcuated = (rightEdge - (rightEdge-linear)/2);
+            calcuated = (rightEdge - ((rightEdge-linear) * 0.5f));
         }
         else{
-            float sliderLeftOffset = ((sliderLeft-leftEdge)/2) + leftEdge;
+            float sliderLeftOffset = fuzzLeft(sliderLeft, leftEdge);
             float sliderRightOffset = ((rightEdge-sliderRight)/2) + sliderRight;
             calcuated = PApplet.map(linear, sliderLeft, sliderRight, sliderLeftOffset, sliderRightOffset);
         }
         return calcuated;
     }
 
+    private static float fuzzLeft(float point, float leftEdge){
+        float factor = .5f;
+        return ((point-leftEdge) * factor) + leftEdge;
+    }
 
 	@Override
 	public void handleInput(Interaction interaction) {
