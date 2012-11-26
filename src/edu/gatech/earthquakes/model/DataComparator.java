@@ -6,8 +6,8 @@ import java.util.Date;
 public class DataComparator implements Comparator<DataRow> {
 
 	public enum CompareCategories {
-		DATE(true), DATE_REVERSE(false), MAGNITUDE(true), MAGNITUDE_REVERSE(
-				false);
+		DATE(false), DATE_REVERSE(true), MAGNITUDE(false), MAGNITUDE_REVERSE(
+				true);
 
 		private boolean reversed;
 
@@ -35,6 +35,8 @@ public class DataComparator implements Comparator<DataRow> {
 		if (index >= categories.length)
 			return 0;
 		switch (categories[index]) {
+		// The enum contains a boolean as for when it's reversed. Otherwise,
+		// logic is the same.
 		case DATE:
 		case DATE_REVERSE:
 			Date d0 = (Date) arg0.getVariables().get(DataRow.DATE);

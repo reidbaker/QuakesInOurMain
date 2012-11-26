@@ -1,7 +1,6 @@
 package edu.gatech.earthquakes.vises;
 
 import java.util.HashMap;
-import java.util.Set;
 
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Theme;
