@@ -90,14 +90,11 @@ public class Slider extends AbstractVisualization implements Interactable {
 
 	public int whereIs(int x, int y) {
 		int ret = OUTSIDE;
-		if (x >= fuzzLeft(left, x) && x <= right && y > this.y
-				&& y < this.y + h) {
+		if (x >= fuzzLeft(left, x) && x <= right
+		        && y > this.y && y < this.y + h) {
 			ret = INSIDE;
-		} else if (x > fuzzLeft(left, x) - 10 && x < left && y > this.y
+		} else if (x > fuzzLeft(left, x - 10) && x < fuzzLeft(left, x) && y > this.y
 				&& y < this.y + h) {
-			// FIXME: Ried, the left handle no longer is correctly selected if
-			// it is moved in. In order to select it you need to highlight a
-			// random place inside of the bar.
 			ret = LEFTHANDLE;
 		} else if (x > right && x < right + 10 && y > this.y && y < this.y + h) {
 			ret = RIGHTHANDLE;
