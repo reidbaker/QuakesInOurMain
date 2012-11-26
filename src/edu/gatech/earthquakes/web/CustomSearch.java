@@ -26,6 +26,7 @@ public class CustomSearch {
     //custom search engine key
     private String cx;
 
+    //usage is CustomSearch cs = new CustomSearch(); cs.getQuery("some_query");
     public CustomSearch(){
         this(dataLocation + fileName);
     }
@@ -75,6 +76,7 @@ public class CustomSearch {
     }
 
     public String getQuery(String query) throws NoSuchAlgorithmException, MalformedURLException, IOException{
+        //this checks to see if the file is in the cache then returns the results as a string
         String result;
         byte[] bytesOfMessage = query.getBytes("UTF-8");
         MessageDigest md = MessageDigest.getInstance("MD5");
