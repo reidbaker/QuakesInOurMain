@@ -17,6 +17,8 @@ import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 import edu.gatech.earthquakes.vises.AftershockMap;
+import edu.gatech.earthquakes.vises.DetailedInfo;
+import edu.gatech.earthquakes.vises.Individual;
 import edu.gatech.earthquakes.vises.NominalBarGraph;
 
 public class Controller {
@@ -63,10 +65,8 @@ public class Controller {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-		AftershockMap m = new AftershockMap(525, 20, 450, 500,mainQuake);
-		m.filterBy(masterData);
+		Individual m = new DetailedInfo(525, 20, 450, 500, mainQuake);
 		registerVisualization(m);
-//		System.out.println((AftershockMap.findAftershocks(mainQuake, masterData)));
 	}
 
 	public void registerVisualization(AbstractVisualization av) {
