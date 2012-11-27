@@ -66,11 +66,6 @@ public class DetailedInfo extends Individual implements Brushable {
     private String getDisplayString() {
         StringBuilder sb = new StringBuilder();
 
-        sb.append(NUMBER_OF_RESULTS);
-        sb.append(": ");
-        sb.append(numRestults);
-        sb.append('\n');
-
         sb.append(DataRow.MOMENT_MAGNITUDE);
         sb.append(": ");
         sb.append(displayData.getValue(displayData.MOMENT_MAGNITUDE));
@@ -94,6 +89,11 @@ public class DetailedInfo extends Individual implements Brushable {
         sb.append(DataRow.DEPTH);
         sb.append(": ");
         sb.append(displayData.getValue(displayData.DEPTH));
+        sb.append('\n');
+
+        sb.append(NUMBER_OF_RESULTS);
+        sb.append(": ");
+        sb.append(numRestults);
         sb.append('\n');
 
         return sb.toString();
