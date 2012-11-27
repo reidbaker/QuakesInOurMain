@@ -88,19 +88,22 @@ public class Slider extends AbstractVisualization implements Interactable {
 		this.drawInterval = drawInterval;
 	}
 
-	public int whereIs(int x, int y) {
-		int ret = OUTSIDE;
-		if (x >= fuzzLeft(left, x) && x <= right
-		        && y > this.y && y < this.y + h) {
-			ret = INSIDE;
-		} else if (x > fuzzLeft(left, x - 10) && x < fuzzLeft(left, x) && y > this.y
-				&& y < this.y + h) {
-			ret = LEFTHANDLE;
-		} else if (x > right && x < right + 10 && y > this.y && y < this.y + h) {
-			ret = RIGHTHANDLE;
-		}
-		return ret;
-	}
+    public int whereIs(int mX, int mY) {
+        int ret = OUTSIDE;
+        int handleWidth = 10;
+        if (mX >= fuzzLeft(left, this.x) && this.x <= right && mY > this.y
+                && mY < this.y + h) {
+            ret = INSIDE;
+        } else if (mX > fuzzLeft(left, this.x) - handleWidth
+                && mX < fuzzLeft(left, this.x) && mY > this.y
+                && mY < this.y + h) {
+            ret = LEFTHANDLE;
+        } else if (mX > right && mX < right + handleWidth && mY > this.y
+                && mY < this.y + h) {
+            ret = RIGHTHANDLE;
+        }
+        return ret;
+    }
 
 	public void dragAll(int nx, int px) {
 		goalLeft += nx - px;
@@ -274,15 +277,16 @@ public class Slider extends AbstractVisualization implements Interactable {
 		p.rect(fuzzLeft(left, x), y, right - fuzzLeft(left, x), h);
 
 		// Draw left handle
+		int handleWidth = 10;
 		p.stroke(0, 0, 0, 0);
 		if (whereIs(p.mouseX, p.mouseY) == LEFTHANDLE) {
 			p.fill(Theme.rgba(Theme.getBrightUIColor(), 127));
 		} else {
 			p.fill(Theme.rgba(Theme.getBaseUIColor(), 127));
 		}
-		p.arc(fuzzLeft(left, x), y + 10, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
-		p.arc(fuzzLeft(left, x), y + h - 10, 20, 20, PApplet.PI / 2, PApplet.PI);
-		p.rect(fuzzLeft(left, x) + 0.5f - 10, y + 10, 10, h - 20);
+		p.arc(fuzzLeft(left, x), y + handleWidth, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
+		p.arc(fuzzLeft(left, x), y + h - handleWidth, 20, 20, PApplet.PI / 2, PApplet.PI);
+		p.rect(fuzzLeft(left, x) + 0.5f - handleWidth, y + handleWidth, handleWidth, h - 20);
 
 		p.fill(Theme.getDarkUIColor());
 		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2) - 5, 4, 4);
