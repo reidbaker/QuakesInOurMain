@@ -1,8 +1,8 @@
 package edu.gatech.earthquakes.vises;
 
-import java.util.HashMap;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Hashtable;
-import java.util.Set;
 
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Theme;
@@ -12,7 +12,6 @@ import edu.gatech.earthquakes.model.DataSet;
 public class NominalBarGraph extends BarGraph
 {
 	private Hashtable<String, Integer> bars;
-	private ArrayList<String> labels;
 	
 	public NominalBarGraph(int x, int y, int w, int h, DataSet displayData, String dataType) {
 		super(x, y, w, h, displayData, dataType);
@@ -38,7 +37,7 @@ public class NominalBarGraph extends BarGraph
 		parent.textAlign(PApplet.CENTER);
 		parent.textSize(12);
 		
-		ArrayList<String> sortedKeys = new ArrayList(bars.keySet());
+		ArrayList<String> sortedKeys = new ArrayList<>(bars.keySet());
 		Collections.sort(sortedKeys);
 		int i=0;
 		for(String key : sortedKeys){
