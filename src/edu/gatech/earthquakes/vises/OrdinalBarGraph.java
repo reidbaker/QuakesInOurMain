@@ -15,6 +15,7 @@ public class OrdinalBarGraph extends BarGraph{
 
 	@Override
 	public void drawComponent(PApplet parent) {
+	    super.drawComponent(parent);
 		
 	}
 	
