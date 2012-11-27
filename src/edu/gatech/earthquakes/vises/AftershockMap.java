@@ -145,18 +145,30 @@ public class AftershockMap extends Individual implements Interactable,
 
 		double dif = 0;
 		double buffer = .1;
-		if (lat[lat.length - 1] - lat[0] > lon[lon.length - 1] - lon[0]) {
-			dif = lat[lat.length - 1] - lat[0];
 
-			latRange = new double[] { lat[0] - buffer,
-					lat[lat.length - 1] + buffer };
-			lonRange = new double[] { lon[0] - buffer, lon[0] + dif + buffer };
-		} else {
-			dif = lon[lon.length - 1] - lon[0];
+		if (aftershocks.getDatum().size() > 2) {
+			if (lat[lat.length - 1] - lat[0] > lon[lon.length - 1] - lon[0]) {
+				dif = lat[lat.length - 1] - lat[0];
 
-			lonRange = new double[] { lon[0] - buffer,
-					lon[lon.length - 1] + buffer };
-			latRange = new double[] { lat[0] - buffer, lat[0] + dif + buffer };
+				latRange = new double[] { lat[0] - buffer,
+						lat[lat.length - 1] + buffer };
+				lonRange = new double[] { lon[0] - buffer,
+						lon[0] + dif + buffer };
+			} else {
+				dif = lon[lon.length - 1] - lon[0];
+
+				lonRange = new double[] { lon[0] - buffer,
+						lon[lon.length - 1] + buffer };
+				latRange = new double[] { lat[0] - buffer,
+						lat[0] + dif + buffer };
+			}
+		}
+		else {
+			double mainLat = (Double)displayData.getValue(DataRow.LATTITUDE);
+			double mainLon = (Double)displayData.getValue(DataRow.LONGITUDE);
+			
+			latRange = new double[] { mainLat-1-buffer, mainLat+1+buffer };
+			lonRange = new double[] { mainLon-1-buffer, mainLon+1+buffer };
 		}
 
 		// System.out.println(dif);
@@ -218,14 +230,13 @@ public class AftershockMap extends Individual implements Interactable,
 		Date date = (Date) displayData.getValue(DataRow.DATE);
 
 		Set<DataRow> shocks = new HashSet<DataRow>();
-		
 
 		for (DataRow quake : filteredData) {
 			if (quake.getValue(DataRow.DEPENDENCY).equals(
 					DataRow.Dependency.DEPENDENT)
 					&& quake.getValue(DataRow.MAIN_DATE).equals(date))
 				shocks.add(quake);
-			if(quake.equals(displayData))
+			if (quake.equals(displayData))
 				shocks.add(displayData);
 		}
 
