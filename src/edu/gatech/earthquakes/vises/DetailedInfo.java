@@ -64,21 +64,39 @@ public class DetailedInfo extends Individual implements Brushable {
     }
 
     private String getDisplayString() {
-        String resultsOutput = NUMBER_OF_RESULTS + ": " + numRestults;
-        String magnitudeOutput = DataRow.MOMENT_MAGNITUDE + ": " + displayData.getValue(displayData.MOMENT_MAGNITUDE);
-        //String magnitudeUncertaintyOutput = DataRow.MOMENT_MAGNITUDE_UNCERTAINTY + ": " + displayData.getValue(displayData.MOMENT_MAGNITUDE_UNCERTAINTY);
-        String lattitudeOutput =  DataRow.LATTITUDE + ": " + displayData.getValue(displayData.LATTITUDE);
-        String longitudeOutput = DataRow.LONGITUDE + ": " + displayData.getValue(displayData.LONGITUDE);
-        String continentOutput = DataRow.CONTINENT + ": " + displayData.getValue(displayData.CONTINENT);
-        String depthOutput = DataRow.DEPTH + ": " + displayData.getValue(displayData.DEPTH);
+        StringBuilder sb = new StringBuilder();
 
-        String displayOutput = resultsOutput +  '\n' +
-                magnitudeOutput + '\n' +
-                lattitudeOutput + '\n' +
-                longitudeOutput + '\n' +
-                continentOutput + '\n' +
-                depthOutput;
-        return displayOutput;
+        sb.append(NUMBER_OF_RESULTS);
+        sb.append(": ");
+        sb.append(numRestults);
+        sb.append('\n');
+
+        sb.append(DataRow.MOMENT_MAGNITUDE);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.MOMENT_MAGNITUDE));
+        sb.append('\n');
+
+        sb.append(DataRow.LATTITUDE);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.LATTITUDE));
+        sb.append('\n');
+
+        sb.append(DataRow.LONGITUDE);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.LONGITUDE));
+        sb.append('\n');
+
+        sb.append(DataRow.CONTINENT);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.CONTINENT));
+        sb.append('\n');
+
+        sb.append(DataRow.DEPTH);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.DEPTH));
+        sb.append('\n');
+
+        return sb.toString();
     }
 
     private String getWebQuery(){
