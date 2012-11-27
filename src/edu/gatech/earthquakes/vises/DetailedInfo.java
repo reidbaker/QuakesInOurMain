@@ -56,16 +56,21 @@ public class DetailedInfo extends Individual implements Brushable {
         p.textSize(textSize);
         String resultsOutput = NUMBER_OF_RESULTS + ": " + numRestults;
         String magnitudeOutput = DataRow.MOMENT_MAGNITUDE + ": " + displayData.getValue(displayData.MOMENT_MAGNITUDE);
+        //String magnitudeUncertaintyOutput = DataRow.MOMENT_MAGNITUDE_UNCERTAINTY + ": " + displayData.getValue(displayData.MOMENT_MAGNITUDE_UNCERTAINTY);
         String lattitudeOutput =  DataRow.LATTITUDE + ": " + displayData.getValue(displayData.LATTITUDE);
         String longitudeOutput = DataRow.LONGITUDE + ": " + displayData.getValue(displayData.LONGITUDE);
         String continentOutput = DataRow.CONTINENT + ": " + displayData.getValue(displayData.CONTINENT);
+        String depthOutput = DataRow.DEPTH + ": " + displayData.getValue(displayData.DEPTH);
 
         String[] displayOutput = {
                 resultsOutput,
                 magnitudeOutput,
+                //magnitudeUncertaintyOutput,
                 lattitudeOutput,
                 longitudeOutput,
-                continentOutput};
+                continentOutput,
+                depthOutput,
+        };
         for(int i=0; i<displayOutput.length; i++){
             p.text(displayOutput[i], x + xPadding, y + yPadding + ((textSize + 1) * i), x + w, y + h);
         }
