@@ -1,5 +1,6 @@
 package edu.gatech.earthquakes.vises;
 
+import java.awt.Rectangle;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.security.NoSuchAlgorithmException;
@@ -30,15 +31,19 @@ public class DetailedInfo extends Individual implements Brushable {
 
     public DetailedInfo(int x, int y, int w, int h, DataRow displayData) {
         super(x, y, w, h, displayData);
-        xPadding = 5;
-        yPadding = 5;
-        textSize = 19;
+        setFormatting(w);
         try {
             numRestults = recalculateNumResults();
         } catch (NoSuchAlgorithmException | IOException e) {
             numRestults = 0;
             e.printStackTrace();
         }
+    }
+
+    private void setFormatting(int w) {
+        xPadding = w/50;
+        yPadding = w/50;
+        textSize = w / 15;
     }
 
     private int recalculateNumResults() throws NoSuchAlgorithmException,
@@ -54,6 +59,11 @@ public class DetailedInfo extends Individual implements Brushable {
 
         p.textAlign(PApplet.LEFT);
         p.textSize(textSize);
+        String displayOutput = getDisplayString();
+        p.text(displayOutput, x + xPadding, y + yPadding, x + w, y + h);
+    }
+
+    private String getDisplayString() {
         String resultsOutput = NUMBER_OF_RESULTS + ": " + numRestults;
         String magnitudeOutput = DataRow.MOMENT_MAGNITUDE + ": " + displayData.getValue(displayData.MOMENT_MAGNITUDE);
         //String magnitudeUncertaintyOutput = DataRow.MOMENT_MAGNITUDE_UNCERTAINTY + ": " + displayData.getValue(displayData.MOMENT_MAGNITUDE_UNCERTAINTY);
@@ -62,19 +72,13 @@ public class DetailedInfo extends Individual implements Brushable {
         String continentOutput = DataRow.CONTINENT + ": " + displayData.getValue(displayData.CONTINENT);
         String depthOutput = DataRow.DEPTH + ": " + displayData.getValue(displayData.DEPTH);
 
-        String[] displayOutput = {
-                resultsOutput,
-                magnitudeOutput,
-                //magnitudeUncertaintyOutput,
-                lattitudeOutput,
-                longitudeOutput,
-                continentOutput,
-                depthOutput,
-        };
-        for(int i=0; i<displayOutput.length; i++){
-            p.text(displayOutput[i], x + xPadding, y + yPadding + ((textSize + 1) * i), x + w, y + h);
-        }
-
+        String displayOutput = resultsOutput +  '\n' +
+                magnitudeOutput + '\n' +
+                lattitudeOutput + '\n' +
+                longitudeOutput + '\n' +
+                continentOutput + '\n' +
+                depthOutput;
+        return displayOutput;
     }
 
     private String getWebQuery(){
@@ -109,5 +113,10 @@ public class DetailedInfo extends Individual implements Brushable {
         }
     }
 
+    @Override
+    public void resizeTo(Rectangle bounds) {
+        super.resizeTo(bounds);
+        setFormatting(bounds.width);
+    }
 
 }
