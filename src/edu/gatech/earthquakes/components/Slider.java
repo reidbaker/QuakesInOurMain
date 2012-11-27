@@ -1,5 +1,6 @@
 package edu.gatech.earthquakes.components;
 
+import java.awt.Rectangle;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.HashSet;
@@ -16,7 +17,8 @@ import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 
-public class Slider extends AbstractVisualization implements Interactable, Resizable {
+public class Slider extends AbstractVisualization implements Interactable,
+		Resizable {
 	float left, right;
 	int goalLeft, goalRight;
 	int snappedLeft, snappedRight;
@@ -89,29 +91,26 @@ public class Slider extends AbstractVisualization implements Interactable, Resiz
 		this.drawInterval = drawInterval;
 	}
 
-    public int whereIs(int mX, int mY) {
-        int ret = OUTSIDE;
-        int handleWidth = 10;
-        if (mX >= fuzzLeft(left, this.x)
-                && mX <= fuzzRight(right, this.x + this.w)
-                && mY > this.y
-                && mY < this.y + h) {
-            ret = INSIDE;
-        } else if (mX > fuzzLeft(left, this.x) - handleWidth
-                && mX < fuzzLeft(left, this.x)
-                && mY > this.y
-                && mY < this.y + h) {
-            ret = LEFTHANDLE;
-        } else if (mX > fuzzRight(right, this.x + this.w)
-                && mX < fuzzRight(right, this.x + this.w) + handleWidth
-                && mY > this.y
-                && mY < this.y + h) {
-            ret = RIGHTHANDLE;
-        }
-        return ret;
-    }
+	public int whereIs(int mX, int mY) {
+		int ret = OUTSIDE;
+		int handleWidth = 10;
+		if (mX >= fuzzLeft(left, this.x)
+				&& mX <= fuzzRight(right, this.x + this.w) && mY > this.y
+				&& mY < this.y + h) {
+			ret = INSIDE;
+		} else if (mX > fuzzLeft(left, this.x) - handleWidth
+				&& mX < fuzzLeft(left, this.x) && mY > this.y
+				&& mY < this.y + h) {
+			ret = LEFTHANDLE;
+		} else if (mX > fuzzRight(right, this.x + this.w)
+				&& mX < fuzzRight(right, this.x + this.w) + handleWidth
+				&& mY > this.y && mY < this.y + h) {
+			ret = RIGHTHANDLE;
+		}
+		return ret;
+	}
 
-    public void dragAll(int nx, int px) {
+	public void dragAll(int nx, int px) {
 		goalLeft += nx - px;
 		goalRight += nx - px;
 		if (goalLeft < x) {
@@ -280,7 +279,8 @@ public class Slider extends AbstractVisualization implements Interactable, Resiz
 			p.line(fuzzLeft(left, x), y + i, fuzzRight(right, x + w), y + i);
 		}
 		p.stroke(Theme.getBaseUIColor());
-		p.rect(fuzzLeft(left, x), y, fuzzRight(right, x + w) - fuzzLeft(left, x), h);
+		p.rect(fuzzLeft(left, x), y, fuzzRight(right, x + w)
+				- fuzzLeft(left, x), h);
 
 		// Draw left handle
 		int handleWidth = 10;
@@ -290,9 +290,12 @@ public class Slider extends AbstractVisualization implements Interactable, Resiz
 		} else {
 			p.fill(Theme.rgba(Theme.getBaseUIColor(), 127));
 		}
-		p.arc(fuzzLeft(left, x), y + handleWidth, 20, 20, PApplet.PI, 3 * PApplet.PI / 2);
-		p.arc(fuzzLeft(left, x), y + h - handleWidth, 20, 20, PApplet.PI / 2, PApplet.PI);
-		p.rect(fuzzLeft(left, x) + 0.5f - handleWidth, y + handleWidth, handleWidth, h - 20);
+		p.arc(fuzzLeft(left, x), y + handleWidth, 20, 20, PApplet.PI,
+				3 * PApplet.PI / 2);
+		p.arc(fuzzLeft(left, x), y + h - handleWidth, 20, 20, PApplet.PI / 2,
+				PApplet.PI);
+		p.rect(fuzzLeft(left, x) + 0.5f - handleWidth, y + handleWidth,
+				handleWidth, h - 20);
 
 		p.fill(Theme.getDarkUIColor());
 		p.ellipse(fuzzLeft(left, x) - 5, y + (h / 2) - 5, 4, 4);
@@ -306,7 +309,8 @@ public class Slider extends AbstractVisualization implements Interactable, Resiz
 		} else {
 			p.fill(Theme.rgba(Theme.getBaseUIColor(), 127));
 		}
-		p.arc(fuzzRight(right, x + w), y + 10, 20, 20, 3 * PApplet.PI / 2, 2 * PApplet.PI);
+		p.arc(fuzzRight(right, x + w), y + 10, 20, 20, 3 * PApplet.PI / 2,
+				2 * PApplet.PI);
 		p.arc(fuzzRight(right, x + w), y + h - 10, 20, 20, 0, PApplet.PI / 2);
 		p.rect(fuzzRight(right, x + w) + 0.5f, y + 10, 10, h - 20);
 
@@ -337,14 +341,14 @@ public class Slider extends AbstractVisualization implements Interactable, Resiz
 	}
 
 	private static float fuzzLeft(float point, float leftEdge) {
-        float factor = .5f;
-        return ((point - leftEdge) * factor) + leftEdge;
+		float factor = .5f;
+		return ((point - leftEdge) * factor) + leftEdge;
 	}
 
-    private static float fuzzRight(float point, float rightEdge) {
-        float factor = .5f;
-        return rightEdge - ((rightEdge - point) * factor);
-    }
+	private static float fuzzRight(float point, float rightEdge) {
+		float factor = .5f;
+		return rightEdge - ((rightEdge - point) * factor);
+	}
 
 	@Override
 	public void handleInput(Interaction interaction) {
@@ -382,5 +386,27 @@ public class Slider extends AbstractVisualization implements Interactable, Resiz
 			updateGoals();
 			moveLeft = moveRight = moveAll = false;
 		}
+	}
+
+	@Override
+	public void resizeTo(Rectangle bounds) {
+		// This approach makes the date range scale closely enough, though due
+		// to integer division the dates can change. Ideally this will be
+		// changed in the future, to have the location determined by the
+		// selected dates, not the other way around.
+		double goalLeftRatio = (goalLeft - x) / (double) w;
+		double goalRightRatio = (goalRight - x) / (double) w;
+		double leftRatio = (left - x) / (double) w;
+		double rightRatio = (right - x) / (double) w;
+		double snapLeftRatio = (snappedLeft - x) / (double) w;
+		double snapRightRatio = (snappedRight - x) / (double) w;
+		super.resizeTo(bounds);
+		goalLeft = (int) (x + goalLeftRatio * w);
+		goalRight = (int) (x + goalRightRatio * w);
+		left = (float) (x + leftRatio * w);
+		right = (float) (x + rightRatio * w);
+		snapLeftRatio = (int) (x + snapLeftRatio * w);
+		snapRightRatio = (int) (x + snapRightRatio * w);
+		snapGoals();
 	}
 }
