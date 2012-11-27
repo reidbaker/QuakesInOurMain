@@ -28,8 +28,16 @@ public class CustomSearch {
     //custom search engine key
     private String cx;
 
+    private static CustomSearch instance;
+    static{
+        instance = new CustomSearch();
+    }
+    public static CustomSearch getInstance(){
+        return instance;
+    }
+
     //usage is CustomSearch cs = new CustomSearch(); cs.getQuery("some_query");
-    public CustomSearch(){
+    private CustomSearch(){
         this(DATA_LOCATION + PROPERTIES_FILENAME);
     }
 

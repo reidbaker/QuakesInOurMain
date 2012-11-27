@@ -15,8 +15,8 @@ import edu.gatech.earthquakes.model.DataSet;
  * The idea is that this is a set of circles that can show two different types of groupings.
  * Right now, its being done for location and then by quake type
  */
+
 public class NestedCirclePlot extends Aggregate implements Filterable {
-	
 	//the thing that will be grouped by after location
 	private String dataType;
 	private DataComparator dataComp;
@@ -107,9 +107,9 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 		
 		
 	}
-	
-	
-	
-	
+
+
+
+
 
 }
