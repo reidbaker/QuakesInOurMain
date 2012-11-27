@@ -1,7 +1,10 @@
 package edu.gatech.earthquakes.model;
 
 import com.google.common.eventbus.DeadEvent;
+import com.google.common.eventbus.EventBus;
 import com.google.common.eventbus.Subscribe;
+
+import edu.gatech.earthquakes.components.Controller;
 
 public class DeadEventCanary {
 
@@ -17,6 +20,16 @@ public class DeadEventCanary {
 	
 	@Subscribe
 	public void respondToDeadEvent(DeadEvent de){
-		System.err.println("Dead Event Dispatched on bus " + de.getSource());
+		String busName = "";
+		if(de.getSource().equals(Controller.BRUSH_BUS))
+			busName = "brushing";
+		else if(de.getSource().equals(Controller.DRAW_BUS))
+			busName = "drawing";
+		else if(de.getSource().equals(Controller.FILTER_BUS))
+			busName = "filering";
+		else if(de.getSource().equals(Controller.INTERACT_BUS))
+			busName = "interaction";
+			
+		System.err.println("Dead Event " + de.getEvent() + " Dispatched on " + busName + " bus.");
 	}
 }
