@@ -1,16 +1,11 @@
 package edu.gatech.earthquakes.vises;
 
-import java.awt.Color;
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
 
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Theme;
-import edu.gatech.earthquakes.model.DataComparator;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
-import edu.gatech.earthquakes.model.DataComparator.CompareCategories;
 
 public class NominalBarGraph extends BarGraph
 {
