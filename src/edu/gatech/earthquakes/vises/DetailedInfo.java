@@ -27,11 +27,16 @@ public class DetailedInfo extends Individual implements Brushable {
         xPadding = 5;
         yPadding = 5;
         try {
-            numRestults = CustomSearch.getTotalCount(CustomSearch.getInstance().getQuery(getWebQuery()));
+            numRestults = recalculateNumResults();
         } catch (NoSuchAlgorithmException | IOException e) {
             numRestults = 0;
             e.printStackTrace();
         }
+    }
+
+    private int recalculateNumResults() throws NoSuchAlgorithmException,
+            MalformedURLException, IOException {
+        return CustomSearch.getTotalCount(CustomSearch.getInstance().getQuery(getWebQuery()));
     }
 
     public void drawComponent(PApplet parent){
@@ -69,14 +74,17 @@ public class DetailedInfo extends Individual implements Brushable {
     @Override
     @Subscribe
     public void brushData(DataSet ds) {
-        if(ds != null && ds.getDatum().size() == 1){
+        if(!ds.getDatum().isEmpty() && ds.getDatum().size() == 1){
             //do my things
             displayData = ds.getDatum().iterator().next();
+            try {
+                numRestults = recalculateNumResults();
+            } catch (NoSuchAlgorithmException | IOException e) {
+                numRestults = 0;
+                e.printStackTrace();
+            }
         }
     }
-
-
-
 
 
 }

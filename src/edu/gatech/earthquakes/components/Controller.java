@@ -17,6 +17,7 @@ import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.DeadEventCanary;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
+import edu.gatech.earthquakes.vises.AftershockMap;
 import edu.gatech.earthquakes.vises.DetailedInfo;
 import edu.gatech.earthquakes.vises.Individual;
 import edu.gatech.earthquakes.vises.NominalBarGraph;
@@ -52,12 +53,7 @@ public class Controller {
 		dataslider.setDrawInterval(250);
 		registerVisualization(dataslider);
 
-		NominalBarGraph n = new NominalBarGraph(20, 20, 500, 500,Importer.importData(), DataRow.CONTINENT);
-		registerVisualization(n);
-
-		//Elizabeth's testing things
 		DataRow mainQuake = null;
-//		boolean found = false;
 		for(DataRow quake: masterData.getDatum())
 			try {
 				if(quake.getValue(DataRow.DATE).equals(new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH).parse("20010126")) && quake.getValue(DataRow.DEPENDENCY).equals(DataRow.Dependency.INDEPENDENT)){
@@ -67,8 +63,12 @@ public class Controller {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-		Individual m = new DetailedInfo(525, 20, 450, 500, mainQuake);
-		registerVisualization(m);
+
+        Individual detail = new DetailedInfo(20, 20, 500, 500, mainQuake);
+        registerVisualization(detail);
+
+        Individual aftershock = new AftershockMap(525, 20, 450, 500, mainQuake, masterData);
+        registerVisualization(aftershock);
 	}
 
 	private void setUpCanary(){

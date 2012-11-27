@@ -204,7 +204,9 @@ public class AftershockMap extends Individual implements Interactable,
 						&& Math.abs(interaction.getParentApplet().mouseY - c[1]) < getCircleSize(mag[i]) / 2) {
 					highlightedPos = new double[] { coords[i][0], coords[i][1] };
 					ArrayList<DataRow> rowList = new ArrayList<>(aftershocks.getDatum());
-					Controller.BRUSH_BUS.post(rowList.get(i));
+					HashSet<DataRow> toBus = new HashSet<DataRow>();
+					toBus.add(rowList.get(i));
+					Controller.BRUSH_BUS.post(new DataSet(toBus));
 					found = true;
 				}
 
