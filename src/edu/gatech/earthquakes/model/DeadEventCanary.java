@@ -1,7 +1,6 @@
 package edu.gatech.earthquakes.model;
 
 import com.google.common.eventbus.DeadEvent;
-import com.google.common.eventbus.EventBus;
 import com.google.common.eventbus.Subscribe;
 
 import edu.gatech.earthquakes.components.Controller;

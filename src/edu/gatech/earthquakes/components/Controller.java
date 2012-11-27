@@ -1,5 +1,6 @@
 package edu.gatech.earthquakes.components;
 
+import java.awt.Rectangle;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Locale;
@@ -30,6 +31,10 @@ public class Controller {
 
 	private final Slider dataslider;
 
+	private final Workspace workspace;
+
+	private int lastWidth, lastHeight;
+
 	public static final EventBus BRUSH_BUS = new EventBus("Brushing Bus");
 	public static final EventBus DRAW_BUS = new EventBus("Drawing Bus");
 	public static final EventBus FILTER_BUS = new EventBus("Filtering Bus");
@@ -38,15 +43,17 @@ public class Controller {
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
 		this.masterData = Importer.importData();
+		lastWidth = lastHeight = 0;
 
 		setUpCanary();
 
-		int[] test = new int[2012-495];
-		for(int i = 0; i < test.length; i++){
-			test[i] = i+495;
+		int[] test = new int[2012 - 495];
+		for (int i = 0; i < test.length; i++) {
+			test[i] = i + 495;
 		}
 
-		Workspace workspace = new Workspace(10, 10, parent.getWidth() - 20, parent.getHeight() - 120);
+		workspace = new Workspace(10, 10, parent.getWidth() - 20,
+				parent.getHeight() - 120);
 		registerVisualization(workspace);
 
 		dataslider = new Slider(50, 768 - 100, 924, 50, masterData);
@@ -56,7 +63,11 @@ public class Controller {
 		DataRow mainQuake = null;
 		for(DataRow quake: masterData.getDatum())
 			try {
-				if(quake.getValue(DataRow.DATE).equals(new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH).parse("20010126")) && quake.getValue(DataRow.DEPENDENCY).equals(DataRow.Dependency.INDEPENDENT)){
+				if (quake.getValue(DataRow.DATE).equals(
+						new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH)
+								.parse("20010126"))
+						&& quake.getValue(DataRow.DEPENDENCY).equals(
+								DataRow.Dependency.INDEPENDENT)) {
 					mainQuake = quake;
 				}
 			} catch (ParseException e) {
@@ -99,6 +110,12 @@ public class Controller {
 	}
 
 	public void redrawAll() {
+		if (parentApplet.width != lastWidth
+				|| parentApplet.height != lastHeight) {
+			lastWidth = parentApplet.width;
+			lastHeight = parentApplet.height;
+			windowResized(lastWidth, lastHeight);
+		}
 		DRAW_BUS.post(parentApplet);
 	}
 
@@ -122,7 +139,8 @@ public class Controller {
 			alreadyPressed = false;
 		}
 
-		Interaction i = new Interaction(firstPress, drag, released, parentApplet);
+		Interaction i = new Interaction(firstPress, drag, released,
+				parentApplet);
 		INTERACT_BUS.post(i);
 	}
 
@@ -132,5 +150,10 @@ public class Controller {
 
 	public static void applyBrushing(DataSet ds) {
 		BRUSH_BUS.post(ds);
+	}
+
+	public void windowResized(int width, int height) {
+		dataslider.resizeTo(new Rectangle(50, height - 100, width - 100, 50));
+		workspace.resizeTo(new Rectangle(10, 10, width - 20, height - 120));
 	}
 }

@@ -10,12 +10,13 @@ import processing.core.PApplet;
 import com.google.common.collect.Sets;
 
 import edu.gatech.earthquakes.interfaces.Interactable;
+import edu.gatech.earthquakes.interfaces.Resizable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 
-public class Slider extends AbstractVisualization implements Interactable {
+public class Slider extends AbstractVisualization implements Interactable, Resizable {
 	float left, right;
 	int goalLeft, goalRight;
 	int snappedLeft, snappedRight;
@@ -382,5 +383,4 @@ public class Slider extends AbstractVisualization implements Interactable {
 			moveLeft = moveRight = moveAll = false;
 		}
 	}
-
 }
