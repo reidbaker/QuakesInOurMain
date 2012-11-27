@@ -14,6 +14,8 @@ import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.DeadEventCanary;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
+import edu.gatech.earthquakes.vises.Slider;
+import edu.gatech.earthquakes.vises.Workspace;
 
 public class Controller {
 

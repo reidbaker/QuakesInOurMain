@@ -184,7 +184,6 @@ public class AftershockMap extends Individual implements Interactable,
 		Arrays.sort(mags);
 		magRange = new double[]{mags[0]-.5, mags[mags.length-1]-.5};
 		System.out.println(Arrays.toString(magRange));
-
 	}
 
 	@Override
@@ -208,9 +207,7 @@ public class AftershockMap extends Individual implements Interactable,
 						&& Math.abs(interaction.getParentApplet().mouseY - c[1]) < getCircleRadius(mag[i])) {
 					highlightedPos = new double[] { coords[i][0], coords[i][1] };
 					ArrayList<DataRow> rowList = new ArrayList<>(aftershocks.getDatum());
-					HashSet<DataRow> toBus = new HashSet<DataRow>();
-					toBus.add(rowList.get(i));
-					Controller.BRUSH_BUS.post(new DataSet(toBus));
+					Controller.BRUSH_BUS.post(new DataSet(rowList.get(i)));
 					found = true;
 				}
 

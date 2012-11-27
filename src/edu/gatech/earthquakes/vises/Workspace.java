@@ -1,4 +1,4 @@
-package edu.gatech.earthquakes.components;
+package edu.gatech.earthquakes.vises;
 
 import java.awt.Rectangle;
 import java.text.ParseException;
@@ -10,15 +10,10 @@ import processing.core.PApplet;
 
 import com.google.common.collect.Lists;
 
+import edu.gatech.earthquakes.components.Controller;
+import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
-import edu.gatech.earthquakes.vises.AbstractVisualization;
-import edu.gatech.earthquakes.vises.AftershockMap;
-import edu.gatech.earthquakes.vises.Aggregate;
-import edu.gatech.earthquakes.vises.DetailedInfo;
-import edu.gatech.earthquakes.vises.Individual;
-import edu.gatech.earthquakes.vises.NestedCirclePlot;
-import edu.gatech.earthquakes.vises.NominalBarGraph;
 
 public class Workspace extends AbstractVisualization {
 
