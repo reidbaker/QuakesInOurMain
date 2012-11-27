@@ -23,9 +23,10 @@ public class AftershockMap extends Individual implements Interactable,
 	private double[] highlightedPos;
 	private DataSet aftershocks;
 
-	public AftershockMap(int x, int y, int w, int h, DataRow displayData) {
+	public AftershockMap(int x, int y, int w, int h, DataRow displayData, DataSet filterData) {
 		super(x, y, w, h, displayData);
 		df = new DecimalFormat("0.00");
+		filterBy(filterData);
 	}
 
 	public void drawComponent(PApplet parent) {
