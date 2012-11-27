@@ -214,7 +214,8 @@ public class Slider extends AbstractVisualization implements Interactable,
 
 	@Override
 	public void drawComponent(PApplet parent) {
-		PApplet p = parent;
+	    //FIXME only draw largest line on a year
+	    PApplet p = parent;
 		p.stroke(Theme.getBaseUIColor());
 		p.strokeWeight(2);
 		p.noFill();
@@ -352,6 +353,7 @@ public class Slider extends AbstractVisualization implements Interactable,
 
 	@Override
 	public void handleInput(Interaction interaction) {
+	    //FIXME allow user to select a single earthquakes
 		if (interaction.isFirstPress()) {
 			int location = whereIs(interaction.getParentApplet().mouseX,
 					interaction.getParentApplet().mouseY);
