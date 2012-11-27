@@ -2,9 +2,18 @@ package edu.gatech.earthquakes.model;
 
 import java.util.Comparator;
 import java.util.Date;
+import java.util.HashMap;
 
 public class DataComparator implements Comparator<DataRow> {
 
+	public static final HashMap<String, CompareCategories> categoryMap;
+	static{
+		categoryMap = new HashMap<>();
+		categoryMap.put(DataRow.CONTINENT, CompareCategories.CONTINENT);
+		categoryMap.put(DataRow.DEPENDENCY, CompareCategories.DEPENDENCY);
+		categoryMap.put(DataRow.TYPE, CompareCategories.TYPE);
+	}
+	
 	public enum CompareCategories {
 		DATE(false), DATE_REVERSE(true), MAGNITUDE(false), MAGNITUDE_REVERSE(
 				true), CONTINENT(false), DEPENDENCY(false), TYPE(false), DEPTH(
