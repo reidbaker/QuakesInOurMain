@@ -1,4 +1,4 @@
-package edu.gatech.earthquakes.components;
+package edu.gatech.earthquakes.vises;
 
 import java.awt.Rectangle;
 import java.util.Calendar;
@@ -10,12 +10,13 @@ import processing.core.PApplet;
 
 import com.google.common.collect.Sets;
 
+import edu.gatech.earthquakes.components.Controller;
+import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.interfaces.Resizable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
-import edu.gatech.earthquakes.vises.AbstractVisualization;
 
 public class Slider extends AbstractVisualization implements Interactable,
 		Resizable {
