@@ -1,9 +1,6 @@
 package edu.gatech.earthquakes.components;
 
 import java.awt.Rectangle;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Locale;
 
 import processing.core.PApplet;
 
@@ -13,20 +10,15 @@ import edu.gatech.earthquakes.interfaces.Brushable;
 import edu.gatech.earthquakes.interfaces.Drawable;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
-import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.DeadEventCanary;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
-import edu.gatech.earthquakes.vises.AftershockMap;
-import edu.gatech.earthquakes.vises.DetailedInfo;
-import edu.gatech.earthquakes.vises.Individual;
 
 public class Controller {
 
 	private final PApplet parentApplet;
 
-	private final DataSet masterData;
 
 	private final Slider dataslider;
 
@@ -41,7 +33,7 @@ public class Controller {
 
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
-		this.masterData = Importer.importData();
+		DataSet masterData = Importer.importData();
 		lastWidth = lastHeight = 0;
 
 		setUpCanary();
@@ -52,33 +44,12 @@ public class Controller {
 		}
 
 		workspace = new Workspace(10, 10, parent.getWidth() - 20,
-				parent.getHeight() - 120);
+				parent.getHeight() - 120, masterData);
 		registerVisualization(workspace);
 
 		dataslider = new Slider(50, 768 - 100, 924, 50, masterData);
 		dataslider.setDrawInterval(250);
 		registerVisualization(dataslider);
-
-		DataRow mainQuake = null;
-		for(DataRow quake: masterData.getDatum())
-			try {
-				if (quake.getValue(DataRow.DATE).equals(
-						new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH)
-								.parse("20010126"))
-						&& quake.getValue(DataRow.DEPENDENCY).equals(
-								DataRow.Dependency.INDEPENDENT)) {
-					mainQuake = quake;
-				}
-			} catch (ParseException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-
-        Individual detail = new DetailedInfo(20, 20, 500, 500, mainQuake);
-        registerVisualization(detail);
-
-        Individual aftershock = new AftershockMap(525, 20, 450, 500, mainQuake, masterData);
-        registerVisualization(aftershock);
 	}
 
 	private void setUpCanary(){
@@ -89,7 +60,7 @@ public class Controller {
 		INTERACT_BUS.register(dec);
 	}
 
-	public void registerVisualization(AbstractVisualization av) {
+	public static void registerVisualization(AbstractVisualization av) {
 		if (av instanceof Brushable)
 			BRUSH_BUS.register(av);
 		if (av instanceof Drawable)
