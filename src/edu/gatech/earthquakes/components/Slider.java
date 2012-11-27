@@ -314,7 +314,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 		p.ellipse(fuzzRight(right, x + w) + 5, y + (h / 2), 4, 4);
 		p.ellipse(fuzzRight(right, x + w) + 5, y + (h / 2) + 5, 4, 4);
 
-		updateAnim(4);
+		updateAnim(2);
 	}
 
 	private static float xLocationMap(int datm, int dataMin, int dataMax,
