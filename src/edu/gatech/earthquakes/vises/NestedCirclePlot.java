@@ -93,8 +93,8 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 	 */
 	private float getCircleSize(double count) {
 		float minSize = 0;
-		float maxSize = (h-buffer*2) / (computedGrid.length/2);
-		
+		float maxSize = Math.min( (float) ((h-buffer*2) / (Math.ceil(computedGrid.length/2.0))), (w-buffer*2)/2 );
+		//System.out.println(Math.ceil(computedGrid.length/2));
 		return (float)((maxSize - minSize) * count /maxVal + minSize);
 	}
 	
