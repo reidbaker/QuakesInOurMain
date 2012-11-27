@@ -47,13 +47,13 @@ public class AftershockMap extends Individual implements Interactable,
 
 			if (highlightedPos != null && coords[i][0] == highlightedPos[0]
 					&& coords[i][1] == highlightedPos[1]) {
-				parent.fill(Theme.getColorPallette(2)[1] - 0x99000000);
-				parent.stroke(Theme.getColorPallette(2)[1] - 0x33000000);
+				parent.fill(Theme.getPalletteColor(1) - 0x99000000);
+				parent.stroke(Theme.getPalletteColor(1) - 0x33000000);
 				// parent.text(c[i][0] + "," + c[i][1], x +(float)qx+buffer,
 				// y + h-(float)qy-buffer);
 			} else {
-				parent.fill(Theme.getColorPallette(1)[0] - 0xAA000000);
-				parent.stroke(Theme.getColorPallette(1)[0] - 0x66000000);
+				parent.fill(Theme.getPalletteColor(0) - 0xAA000000);
+				parent.stroke(Theme.getPalletteColor(0) - 0x66000000);
 			}
 
 			parent.ellipse((float) c[0], (float) c[1],

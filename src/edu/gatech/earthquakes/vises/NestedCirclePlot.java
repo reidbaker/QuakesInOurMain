@@ -3,10 +3,8 @@ package edu.gatech.earthquakes.vises;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Enumeration;
 
 import processing.core.PApplet;
-
 import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.model.DataComparator;
@@ -57,7 +55,11 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 		
 		float drawY = y + h - buffer;
 		float maxCircleSize = getCircleSize(maxVal);
-		int[] colors = Theme.getColorPallette(computedGrid[0].length);
+		// FIXME: Need to find a way to get the colors from the enum type.
+		int[] colors = new int[computedGrid[0].length];
+		for(int i = 0; i < colors.length; i++){
+			colors[i] = Theme.getPalletteColor(i);
+		}
 		boolean right = false;
 		
 		for(double[] values: computedGrid){

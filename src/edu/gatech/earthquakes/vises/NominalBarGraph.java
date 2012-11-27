@@ -24,7 +24,6 @@ public class NominalBarGraph extends BarGraph
 
 
 		parent.noStroke();
-		int[] colors = Theme.getColorPallette(bars.size());
 
 		//parent.fill(Theme.getDarkUIColor());
 
@@ -39,13 +38,17 @@ public class NominalBarGraph extends BarGraph
 
 		ArrayList<String> sortedKeys = new ArrayList<>(bars.keySet());
 		Collections.sort(sortedKeys);
-		int i=0;
 		for(String key : sortedKeys){
-			parent.fill(colors[i++]);
+			parent.fill(DataRow.getColorFor(key));
 			parent.rect(barX, y+(h-buffer-bars.get(key)*heightScale), barW, bars.get(key)*heightScale);
 			barX += barW+2;
 			parent.fill(Theme.getDarkUIColor());
-			parent.text(key.toString(),barX-barW/2, y+h-(buffer/4));
+			parent.textAlign(PApplet.LEFT);
+			parent.pushMatrix();
+			parent.translate(barX-barW/2, y+h-(buffer) - 5);
+			parent.rotate(-1 * PApplet.HALF_PI);
+			parent.text(key.toString(),0,0);
+			parent.popMatrix();
 		}
 
 		drawAxes(parent);

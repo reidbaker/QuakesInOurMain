@@ -1,11 +1,11 @@
 package edu.gatech.earthquakes.components;
 
 import java.awt.Color;
+import java.util.Arrays;
 
 public class Theme {
 
 	private static final int baseUIColor = 0xFF00678B;
-	private static final int baseDataColor = getRGB(new float[]{0,1,1});
 	private static final int backgroundColor = 0xFFEEEEEE;
 
 	/**
@@ -13,8 +13,42 @@ public class Theme {
 	 * well as pallette generation.
 	 */
 	private static final float deltaV = 0.3f;
-
-	private static final int numHues = 7, numBrightSat = 4;
+	
+	/**
+	 * Color pallette for drawing all the data.
+	 */
+	private static final int[] pallette = new int[]{
+		0xFFF23535,
+		0xFFF2762E,
+		0xFFF2AC29,
+		0xFFC9D94E,
+		0xFF03A688,
+		 
+		0xFF79C7D9,
+		0xFF58838C,
+		0xFFBF996B,
+		0xFFF2BC79,
+		0xFFF28972,
+		
+		0xFF9BF2EA,
+		0xFF497358,
+		0xFFCE1A53,
+		0xFF79637E,
+		0xFF0071BC,
+		
+		0xFFBC6F00,
+		0xFF1D8F49,
+		0xFFD62BD9,
+		0xFFFFE800,
+		0xFFD96AA3,
+	};
+	
+	static{
+		Arrays.sort(pallette, 0 , 5);
+		Arrays.sort(pallette, 5, 10);
+		Arrays.sort(pallette, 10, 15);
+		Arrays.sort(pallette, 15, 20);
+	}
 
 	private static float[] getHSB(int rgbColor) {
 		float[] hsb = new float[3];
@@ -52,48 +86,11 @@ public class Theme {
 		return getRGB(hsb);
 	}
 
-	public static int[] getColorPallette(int n) {
-		int[] colors = new int[n];
-		float[] currHSB = getHSB(baseDataColor);
-		float[] initHSB = getHSB(baseDataColor);
-		colors[0] = getRGB(currHSB);
-		for (int i = 1; i < n; i++) {
-			currHSB[0] += 1.0f / numHues;
-			if (currHSB[0] > 1.0f)
-				currHSB[0] -= 1.0f;
-			// Handle that circle around hue is done
-			if (i % numHues == 0) {
-				currHSB[0] += 1.0f / (numHues * 2);
-				if (currHSB[0] > 1.0f)
-					currHSB[0] -= 1.0f;
-//				currHSB[1] -= deltaV*2/3;
-				currHSB[2] -= deltaV*2/3;
-
-				if (i % (numHues * numBrightSat) == 0) {
-					currHSB[0] = initHSB[0];
-					currHSB[1] = initHSB[1];
-					currHSB[2] = initHSB[2];
-				}
-			}
-
-			// Sanitize data
-			if (currHSB[0] < 0.0f)
-				currHSB[0] = 0.0f;
-			if (currHSB[0] > 1.0f)
-				currHSB[0] = 1.0f;
-			if (currHSB[1] < 0.0f)
-				currHSB[1] = 0.0f;
-			if (currHSB[1] > 1.0f)
-				currHSB[1] = 1.0f;
-			if (currHSB[2] < 0.0f)
-				currHSB[2] = 0.0f;
-			if (currHSB[2] > 1.0f)
-				currHSB[2] = 1.0f;
-
-			// Add color
-			colors[i] = getRGB(currHSB);
-		}
-		return colors;
+	public synchronized static int getPalletteColor(int n) {
+		if(n < 0)
+			throw new IllegalArgumentException("Can't have negative index.");
+		int index = n % pallette.length;
+		return pallette[index];
 	}
 	
 	public static int rgba(int rgb, int a) {

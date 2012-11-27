@@ -230,7 +230,7 @@ public class Slider extends AbstractVisualization implements Interactable,
 		// Draw underlying data
 
 		// Draw mini graph
-		p.stroke(Theme.getColorPallette(1)[0]);
+		p.stroke(Theme.getPalletteColor(2));
 		p.strokeWeight(2);
 		p.strokeCap(PApplet.ROUND);
 		int prevYear = 0;
