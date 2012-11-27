@@ -5,7 +5,6 @@ import java.util.Date;
 
 public class DataComparator implements Comparator<DataRow> {
 
-	// TODO: Taylor add Continental Locaiton, Dependency, Type, Depth
 	public enum CompareCategories {
 		DATE(false), DATE_REVERSE(true), MAGNITUDE(false), MAGNITUDE_REVERSE(
 				true), CONTINENT(false), DEPENDENCY(false), TYPE(false), DEPTH(
