@@ -4,6 +4,8 @@ import java.awt.Color;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.Hashtable;
+import java.util.Set;
 
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Theme;
@@ -14,7 +16,8 @@ import edu.gatech.earthquakes.model.DataComparator.CompareCategories;
 
 public class NominalBarGraph extends BarGraph
 {
-	private HashMap<Object, Integer> bars;
+	private Hashtable<String, Integer> bars;
+	private ArrayList<String> labels;
 	
 	public NominalBarGraph(int x, int y, int w, int h, DataSet displayData, String dataType) {
 		super(x, y, w, h, displayData, dataType);
@@ -40,14 +43,15 @@ public class NominalBarGraph extends BarGraph
 		parent.textAlign(PApplet.CENTER);
 		parent.textSize(12);
 		
+		ArrayList<String> sortedKeys = new ArrayList(bars.keySet());
+		Collections.sort(sortedKeys);
 		int i=0;
-		for(Object key : bars.keySet()){
+		for(String key : sortedKeys){
 			parent.fill(colors[i++]);
 			parent.rect(barX, y+(h-buffer-bars.get(key)*heightScale), barW, bars.get(key)*heightScale);
 			barX += barW+2;			
 			parent.text(key.toString(),barX-barW/2, y+h-(buffer/4));
 		}
-		
 		
 		drawAxes(parent);
 	}
@@ -87,15 +91,15 @@ public class NominalBarGraph extends BarGraph
 	}
 	
 	private void createBars(){		
-		bars = new HashMap<Object, Integer>();
+		bars = new Hashtable<String, Integer>();
+		
 		for(DataRow row: displayData){
 			if(row.getValue(dataType)!=null)
-				if(bars.containsKey(row.getValue(dataType)))
-					bars.put(row.getValue(dataType), bars.get(row.getValue(dataType))+1);
+				if(bars.containsKey(row.getValue(dataType).toString()))
+					bars.put(row.getValue(dataType).toString(), bars.get(row.getValue(dataType).toString()) +1);
 				else
-					bars.put(row.getValue(dataType), 1);
+					bars.put(row.getValue(dataType).toString(), 1);
 		}
-		
 		numDivisions = bars.size();
 	}
 	
