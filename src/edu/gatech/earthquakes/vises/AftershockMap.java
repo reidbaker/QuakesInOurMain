@@ -176,11 +176,6 @@ public class AftershockMap extends Individual implements Interactable,
 			lonRange = new double[] { mainLon - 1 - buffer,
 					mainLon + 1 + buffer };
 		}
-
-		// System.out.println(dif);
-		// System.out.println(Arrays.toString(lonRange));
-		// System.out.println(Arrays.toString(latRange));
-
 	}
 
 	@Override
@@ -204,9 +199,7 @@ public class AftershockMap extends Individual implements Interactable,
 						&& Math.abs(interaction.getParentApplet().mouseY - c[1]) < getCircleSize(mag[i]) / 2) {
 					highlightedPos = new double[] { coords[i][0], coords[i][1] };
 					ArrayList<DataRow> rowList = new ArrayList<>(aftershocks.getDatum());
-					HashSet<DataRow> toBus = new HashSet<DataRow>();
-					toBus.add(rowList.get(i));
-					Controller.BRUSH_BUS.post(new DataSet(toBus));
+					Controller.BRUSH_BUS.post(new DataSet(rowList.get(i)));
 					found = true;
 				}
 
