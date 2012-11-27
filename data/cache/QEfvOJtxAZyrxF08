@@ -1,0 +1,258 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 8 2001 India Earthquake",
+    "totalResults": "7",
+    "searchTerms": "Feb 8 2001 India Earthquake",
+    "count": 7,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.476276,
+  "formattedSearchTime": "0.48",
+  "totalResults": "7",
+  "formattedTotalResults": "7"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Google Zeitgeist",
+   "htmlTitle": "Google Zeitgeist",
+   "link": "http://www.google.com/intl/en/press/zeitgeist/feb.pdf",
+   "displayLink": "www.google.com",
+   "snippet": "Feb. 2001 J \\ Google - Feb. 2001 J. 1. gnutella H;a%llh Madonna. 2. greeting   cards sf'??\"??? \u003e. 3. valentine cards Re??; ... 8' napster 9% $2; Jan-00 May-00 Sep-00   Feb-01. 9. SITIS Business ... 6. earthquake 25;??? y p. 7. india Italian. 8. big brother   2\"' ...",
+   "htmlSnippet": "\u003cb\u003eFeb\u003c/b\u003e. \u003cb\u003e2001\u003c/b\u003e J \\ Google - \u003cb\u003eFeb\u003c/b\u003e. \u003cb\u003e2001\u003c/b\u003e J. 1. gnutella H;a%llh Madonna. 2. greeting \u003cbr\u003e  cards sf&#39;??&quot;??? &gt;. 3. valentine cards Re??; \u003cb\u003e...\u003c/b\u003e \u003cb\u003e8\u003c/b\u003e&#39; napster 9% $2; Jan-00 May-00 Sep-00 \u003cbr\u003e  \u003cb\u003eFeb\u003c/b\u003e-01. 9. SITIS Business \u003cb\u003e...\u003c/b\u003e 6. \u003cb\u003eearthquake\u003c/b\u003e 25;??? y p. 7. \u003cb\u003eindia\u003c/b\u003e Italian. \u003cb\u003e8\u003c/b\u003e. big brother \u003cbr\u003e  2&quot;&#39; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HMvgzfcLabQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.google.com/intl/en/press/zeitgeist/feb.pdf",
+   "htmlFormattedUrl": "www.google.com/intl/en/press/zeitgeist/\u003cb\u003efeb\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Adobe PDF library 4.800",
+      "creator": "Adobe Illustrator 9.0",
+      "creationdate": "Wed May  2 06:15:54 2001"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hot Searches - Google",
+   "htmlTitle": "Hot Searches - Google",
+   "link": "http://www.google.com/trends/hottrends",
+   "displayLink": "www.google.com",
+   "snippet": "United States. India. Japan. Singapore. More... ??2012 Google. Terms of Use ...   searches black friday shopping at toys r us kfmb news 8 san diego cbs 8 a trip ...   in this february 22 2009 file photo the father of halle berry's daughter is headed to ...",
+   "htmlSnippet": "United States. \u003cb\u003eIndia\u003c/b\u003e. Japan. Singapore. More... ??2012 Google. Terms of Use \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  searches black friday shopping at toys r us kfmb news \u003cb\u003e8\u003c/b\u003e san diego cbs \u003cb\u003e8\u003c/b\u003e a trip \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  in this \u003cb\u003efebruary\u003c/b\u003e 22 2009 file photo the father of halle berry&#39;s daughter is headed to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uvKavSff1xUJ",
+   "formattedUrl": "www.google.com/trends/hottrends",
+   "htmlFormattedUrl": "www.google.com/trends/hottrends",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/trends/resources/2327917647-google-icon.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "102",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3yTXNtH_-TAOlH7VN5H-YB12XPPIGpUNtjnutMt3YPxciVY44kh7V"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Google Hot Searches",
+      "og:type": "article",
+      "og:url": "http://www.google.com/trends/hottrends",
+      "og:image": "http://www.google.com/trends/resources/2327917647-google-icon.png",
+      "og:description": "Explore trending search topics with Google Hot Searches."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall ...",
+   "htmlTitle": "Patent US5490655 - Video/data projector and monitor ceiling/wall \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5490655",
+   "displayLink": "www.google.com",
+   "snippet": "Seismic cables may be added for extra support in case of earthquake. ...   US5255884, Jan 8, 1992, Oct 26, 1993, Lucasey Manufacturing Company ...   US6293676, Feb 17, 1999, Sep 25, 2001, Garrett W. Brown, Camera support ...   USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, Ind. Universal   mounting system ...",
+   "htmlSnippet": "Seismic cables may be added for extra support in case of \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5255884, Jan \u003cb\u003e8\u003c/b\u003e, 1992, Oct 26, 1993, Lucasey Manufacturing Company \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6293676, \u003cb\u003eFeb\u003c/b\u003e 17, 1999, Sep 25, \u003cb\u003e2001\u003c/b\u003e, Garrett W. Brown, Camera support \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, \u003cb\u003eInd\u003c/b\u003e. Universal \u003cbr\u003e  mounting system \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5490655",
+   "htmlFormattedUrl": "www.google.com/patents/US5490655",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-w7ogDtwXRdac-ys5vaE2g3t1ewYdc0nYfyhT4RJOnAOVCirfukt9ZzM"
+     }
+    ],
+    "book": [
+     {
+      "description": "A mount than secures a projector or monitor to a ceiling or wall is disclosed. The mount uses struts that form channels which support the projector/monitor and provide alternate channels for...",
+      "url": "http://www.google.com/patents/US5490655?utm_source=gb-gplus-share",
+      "name": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
+      "image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5490655",
+      "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
+      "og:title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6637165 - Raised floor system and support apparatus ...",
+   "htmlTitle": "Patent US6637165 - Raised floor system and support apparatus \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6637165",
+   "displayLink": "www.google.com",
+   "snippet": "Filing date: Mar 27, 2001 ... US4124324, Jan 16, 1978, Nov 7, 1978, Indian Head   Inc. Modular cable trench system. US4372510, Aug 4, 1980, Feb 8, 1983, The   Budd Company, Wire raceway for attachment under the floor of ... US5946867,   Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular earthquake support for raised   floor ...",
+   "htmlSnippet": "Filing date: Mar 27, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US4124324, Jan 16, 1978, Nov 7, 1978, \u003cb\u003eIndian\u003c/b\u003e Head \u003cbr\u003e  Inc. Modular cable trench system. US4372510, Aug 4, 1980, \u003cb\u003eFeb 8\u003c/b\u003e, 1983, The \u003cbr\u003e  Budd Company, Wire raceway for attachment under the floor of \u003cb\u003e...\u003c/b\u003e US5946867, \u003cbr\u003e  Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular \u003cb\u003eearthquake\u003c/b\u003e support for raised \u003cbr\u003e  floor \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6637165",
+   "htmlFormattedUrl": "www.google.com/patents/US6637165",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=B6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT83VrHqP_rF5CVBSaNLSbzFq7V5chm0Bt5Efc2uT6TBEPwUJ-_1g7xCw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An article support apparatus for use with a raised floor system including a plurality of support pedestals, stringer elements and floor panels, the support apparatus includes an article support...",
+      "url": "http://www.google.com/patents/US6637165?utm_source=gb-gplus-share",
+      "name": "Patent US6637165 - Raised floor system and support apparatus",
+      "image": "http://www.google.com/patents?id=B6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6637165",
+      "title": "Patent US6637165 - Raised floor system and support apparatus",
+      "og:title": "Patent US6637165 - Raised floor system and support apparatus",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=B6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7959019 - Suspended cable support system - Google ...",
+   "htmlTitle": "Patent US7959019 - Suspended cable support system - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7959019",
+   "displayLink": "www.google.com",
+   "snippet": "US4124324, Jan 16, 1978, Nov 7, 1978, Indian Head Inc. Modular cable trench   system ... US4372510, Aug 4, 1980, Feb 8, 1983, The Budd Company, Wire   raceway for ... US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular   earthquake ... US6286691, Jul 13, 1998, Sep 11, 2001, Industrial Wire Products,   Inc.",
+   "htmlSnippet": "US4124324, Jan 16, 1978, Nov 7, 1978, \u003cb\u003eIndian\u003c/b\u003e Head Inc. Modular cable trench \u003cbr\u003e  system \u003cb\u003e...\u003c/b\u003e US4372510, Aug 4, 1980, \u003cb\u003eFeb 8\u003c/b\u003e, 1983, The Budd Company, Wire \u003cbr\u003e  raceway for \u003cb\u003e...\u003c/b\u003e US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US6286691, Jul 13, 1998, Sep 11, \u003cb\u003e2001\u003c/b\u003e, Industrial Wire Products, \u003cbr\u003e  Inc.",
+   "formattedUrl": "www.google.com/patents/US7959019",
+   "htmlFormattedUrl": "www.google.com/patents/US7959019",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTjb5x3Eyx4kVZ-ii1sj9_neFf7kqYIaGs9Suu9ZWzHaf7pqvN46tz3N0"
+     }
+    ],
+    "book": [
+     {
+      "description": "According to an aspect of the present disclosure, a suspended cable support system is provided. The suspended cable support system includes a plurality of suspension rods; and at least one...",
+      "url": "http://www.google.com/patents/US7959019?utm_source=gb-gplus-share",
+      "name": "Patent US7959019 - Suspended cable support system",
+      "image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7959019",
+      "title": "Patent US7959019 - Suspended cable support system",
+      "og:title": "Patent US7959019 - Suspended cable support system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/intl/en_uk/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007 ??   2008 ... February. We outgrow our garage office and move to new digs at 165 ....   We spotlight our new engineering offices in Bangalore and Hyderabad, India,   with a ..... Following both the Sichuan earthquake in China and Cyclone Nargis in ...",
+   "htmlSnippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? \u003cb\u003e2001\u003c/b\u003e ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007 ?? \u003cbr\u003e  2008 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFebruary\u003c/b\u003e. We outgrow our garage office and move to new digs at 165 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e, \u003cbr\u003e  with a \u003cb\u003e.....\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone Nargis in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Uz9ka1X37zwJ",
+   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007 ??   2008 ... February. We outgrow our garage office and move to new digs at 165 ....   We spotlight our new engineering offices in Bangalore and Hyderabad, India with   a ..... Following both the Sichuan earthquake in China and Cyclone Nargis in ...",
+   "htmlSnippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? \u003cb\u003e2001\u003c/b\u003e ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007 ?? \u003cbr\u003e  2008 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFebruary\u003c/b\u003e. We outgrow our garage office and move to new digs at 165 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e with \u003cbr\u003e  a \u003cb\u003e.....\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone Nargis in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  }
+ ]
+}

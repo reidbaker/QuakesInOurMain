@@ -21,7 +21,6 @@ import edu.gatech.earthquakes.vises.AbstractVisualization;
 import edu.gatech.earthquakes.vises.AftershockMap;
 import edu.gatech.earthquakes.vises.DetailedInfo;
 import edu.gatech.earthquakes.vises.Individual;
-import edu.gatech.earthquakes.vises.NominalBarGraph;
 
 public class Controller {
 
