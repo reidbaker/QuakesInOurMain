@@ -1,5 +1,11 @@
 package edu.gatech.earthquakes;
 
+import java.awt.GraphicsEnvironment;
+import java.awt.Insets;
+import java.awt.Rectangle;
+
+import javax.swing.JFrame;
+
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
@@ -15,7 +21,15 @@ public class EarthquakesMain extends PApplet {
 
 	public void setup() {
 		smooth();
-		size(1024, 768);
+		
+		Rectangle bounds = GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds();
+		JFrame sample = new JFrame();
+		sample.pack();
+		Insets insets = sample.getInsets();
+		int wwidth = (bounds.width - insets.left - insets.right);
+		int wheight = (bounds.height - insets.top - insets.bottom);
+		sample.dispose();
+		size(wwidth, wheight - 48); // Offset applet bottom and top
 		cont = new Controller(this);
 	}
 
