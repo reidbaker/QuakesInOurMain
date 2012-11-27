@@ -5,6 +5,8 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Enumeration;
 
+import processing.core.PApplet;
+
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.model.DataComparator;
 import edu.gatech.earthquakes.model.DataRow;
@@ -22,18 +24,17 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 	private DataComparator dataComp;
 	private double[][] computedGrid;
 	private boolean nominal;
-	//private HashSet<String, >
+	private double maxVal = 0;
+	
 	public NestedCirclePlot(int x, int y, int w, int h, DataSet displayData, String dataType) {
 		super(x, y, w, h, displayData);
 		this.dataType = dataType;
 		DataComparator.CompareCategories category = null;
 		
-		int numCircles = 0;
 		switch(dataType){
 		case DataRow.MOMENT_MAGNITUDE:
 			category = DataComparator.CompareCategories.MAGNITUDE;
 			nominal = false;
-			numCircles = 7;
 			break;
 		case DataRow.DEPENDENCY:
 			category = DataComparator.CompareCategories.DEPENDENCY;
@@ -48,6 +49,41 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 		
 		
 		computeData();
+	}
+	
+	public void drawComponent(PApplet parent){
+		super.drawComponent(parent);
+		
+		float drawY = y + h - buffer;
+		
+		for(double[] d: computedGrid){
+			float size = getCircleSize(d[0]);
+			//parent.ellipseMode(PApplet.CORNER);
+			parent.ellipse(x+w/2, drawY, size, size);
+			drawY -= (h-buffer*2)/computedGrid.length;
+			parent.line(x, drawY, x+w, drawY);
+		}
+		
+	}
+	
+	/*
+	 * All of th scaling is done with the formula of:
+	 * 
+	 * f(x) = (b-a)(x-min)/(max-min) + a
+	 * 
+	 * where [min,max] maps to [a,b]
+	 */
+	private float getCircleSize(double count) {
+		float minSize = 0;
+		float maxSize = Math.min(w-buffer*2, ((h-buffer*2) / computedGrid.length));
+
+		return (float)((maxSize - minSize) * count /maxVal + minSize);
+	}
+	
+	private void computeMaxVal(){
+		for(double[] d: computedGrid)
+			if(d[0] > maxVal)
+				maxVal = d[0];
 	}
 	
 	private void computeData(){
@@ -99,7 +135,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 			System.out.println(Arrays.toString(d));
 		}
 		
-		
+		computeMaxVal();
 	}
 	
 	@Override

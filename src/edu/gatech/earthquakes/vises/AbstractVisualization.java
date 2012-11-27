@@ -10,6 +10,7 @@ import edu.gatech.earthquakes.interfaces.Resizable;
 public abstract class AbstractVisualization implements Drawable, Resizable{
 
 	protected int x, y, w, h;
+	protected int buffer = 20;
 
 	public AbstractVisualization(int x, int y, int w, int h){
 		this.x = x; this.y = y; this.w = w; this.h = h;
