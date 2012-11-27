@@ -17,15 +17,22 @@ import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.web.CustomSearch;
 
 public class DetailedInfo extends Individual implements Brushable {
+    //Display Strings
     private static final String NUMBER_OF_RESULTS = "Number of Results";
+
+    //Calculated Data
     private int numRestults;
+
+    //Formatting
     private int xPadding;
     private int yPadding;
+    private int textSize;
 
     public DetailedInfo(int x, int y, int w, int h, DataRow displayData) {
         super(x, y, w, h, displayData);
         xPadding = 5;
         yPadding = 5;
+        textSize = 19;
         try {
             numRestults = recalculateNumResults();
         } catch (NoSuchAlgorithmException | IOException e) {
@@ -45,12 +52,28 @@ public class DetailedInfo extends Individual implements Brushable {
         p.stroke(Theme.getBaseUIColor());
         p.strokeWeight(2);
 
-        //Draw number of results
         p.textAlign(PApplet.LEFT);
-        p.textSize(12);
-
+        p.textSize(textSize);
         String resultsOutput = NUMBER_OF_RESULTS + ": " + numRestults;
-        p.text(resultsOutput, x + xPadding, y + yPadding, x + w, y + h);
+        String magnitudeOutput = DataRow.MOMENT_MAGNITUDE + ": " + displayData.getValue(displayData.MOMENT_MAGNITUDE);
+        //String magnitudeUncertaintyOutput = DataRow.MOMENT_MAGNITUDE_UNCERTAINTY + ": " + displayData.getValue(displayData.MOMENT_MAGNITUDE_UNCERTAINTY);
+        String lattitudeOutput =  DataRow.LATTITUDE + ": " + displayData.getValue(displayData.LATTITUDE);
+        String longitudeOutput = DataRow.LONGITUDE + ": " + displayData.getValue(displayData.LONGITUDE);
+        String continentOutput = DataRow.CONTINENT + ": " + displayData.getValue(displayData.CONTINENT);
+        String depthOutput = DataRow.DEPTH + ": " + displayData.getValue(displayData.DEPTH);
+
+        String[] displayOutput = {
+                resultsOutput,
+                magnitudeOutput,
+                //magnitudeUncertaintyOutput,
+                lattitudeOutput,
+                longitudeOutput,
+                continentOutput,
+                depthOutput,
+        };
+        for(int i=0; i<displayOutput.length; i++){
+            p.text(displayOutput[i], x + xPadding, y + yPadding + ((textSize + 1) * i), x + w, y + h);
+        }
 
     }
 
