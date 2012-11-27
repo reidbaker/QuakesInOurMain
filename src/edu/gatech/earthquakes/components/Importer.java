@@ -123,13 +123,16 @@ public class Importer {
 		return time;
 	}
 
+
 	private static DataRow.Continent continentConvert(String continent) {
 		// the input --- is what is passed when data is not there
 		switch (continent) {
 		case "AF":
 			return DataRow.Continent.AFRICA;
-		case "CH":
-			return DataRow.Continent.CHINA;
+		case "AU":
+			return DataRow.Continent.AUSTRALIA;
+		case "AS":
+			return DataRow.Continent.ASIA;
 		case "EU":
 			return DataRow.Continent.EURASIA;
 		case "IN":
