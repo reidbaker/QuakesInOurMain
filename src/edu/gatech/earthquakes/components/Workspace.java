@@ -28,10 +28,10 @@ public class Workspace extends AbstractVisualization {
 		vises = Lists.newArrayList();
 		intantiateVises();
 	}
-	
-	public void intantiateVises(){
+
+	public void intantiateVises() {
 		DataRow mainQuake = null;
-		for(DataRow quake: masterData.getDatum())
+		for (DataRow quake : masterData.getDatum())
 			try {
 				if (quake.getValue(DataRow.DATE).equals(
 						new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH)
@@ -45,13 +45,14 @@ public class Workspace extends AbstractVisualization {
 				e.printStackTrace();
 			}
 
-        Individual detail = new DetailedInfo(20, 20, 500, 500, mainQuake);
-        Controller.registerVisualization(detail);
-        vises.add(detail);
+		Individual detail = new DetailedInfo(20, 20, 500, 500, mainQuake);
+		Controller.registerVisualization(detail);
+		vises.add(detail);
 
-        Individual aftershock = new AftershockMap(525, 20, 450, 500, mainQuake, masterData);
-        Controller.registerVisualization(aftershock);
-        vises.add(aftershock);
+		Individual aftershock = new AftershockMap(525, 20, 450, 500, mainQuake,
+				masterData);
+		Controller.registerVisualization(aftershock);
+		vises.add(aftershock);
 	}
 
 	@Override
@@ -61,10 +62,17 @@ public class Workspace extends AbstractVisualization {
 		parent.strokeWeight(2);
 		parent.rect(x, y, w, h);
 	}
-	
+
 	@Override
-	public void resizeTo(Rectangle bounds){
+	public void resizeTo(Rectangle bounds) {
 		super.resizeTo(bounds);
+		int index = 0;
+		for (AbstractVisualization v : vises) {
+			v.resizeTo(new Rectangle(bounds.x
+					+ (index * bounds.width / vises.size()), bounds.y,
+					bounds.width / vises.size(), bounds.height));
+			index++;
+		}
 	}
 
 }
