@@ -10,18 +10,18 @@ import edu.gatech.earthquakes.interfaces.Resizable;
 public abstract class AbstractVisualization implements Drawable, Resizable{
 
 	protected int x, y, w, h;
-	
+
 	public AbstractVisualization(int x, int y, int w, int h){
 		this.x = x; this.y = y; this.w = w; this.h = h;
 	}
-	
+
 	public void drawComponent(PApplet parent){
 		parent.noFill();
 		parent.stroke(Theme.getBaseUIColor());
 		parent.strokeCap(PApplet.ROUND);
 		parent.rect(x, y, w, h);
 	}
-	
+
 	@Override
 	public void resizeTo(Rectangle bounds) {
 		this.x = bounds.x;

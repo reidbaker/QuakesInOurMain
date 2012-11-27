@@ -5,5 +5,5 @@ import java.awt.Rectangle;
 public interface Resizable {
 
 	public void resizeTo(Rectangle bounds);
-	
+
 }
