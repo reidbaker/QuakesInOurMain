@@ -61,6 +61,7 @@ public class DataComparator implements Comparator<DataRow> {
 					DataRow.CONTINENT);
 			DataRow.Continent c1 = (DataRow.Continent) arg1.getVariables().get(
 					DataRow.CONTINENT);
+			
 			if (c0.compareTo(c1) != 0)
 				return c0.compareTo(c1);
 			break;

@@ -91,6 +91,7 @@ public class NominalBarGraph extends BarGraph
 			if(row.getValue(dataType)!=null)
 				if(bars.containsKey(row.getValue(dataType).toString()))
 					bars.put(row.getValue(dataType).toString(), bars.get(row.getValue(dataType).toString()) +1);
+				
 				else
 					bars.put(row.getValue(dataType).toString(), 1);
 		}

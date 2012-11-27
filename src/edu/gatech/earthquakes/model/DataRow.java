@@ -12,7 +12,7 @@ public class DataRow {
     public enum Continent {
         AFRICA("Africa"),
         AUSTRALIA("Australia"),
-        CHINA("China"),
+        ASIA("Asia"),
         EURASIA("Eurasia"),
         INDIA("India"),
         NORTH_AMERICA("North America"),
