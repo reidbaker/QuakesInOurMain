@@ -35,7 +35,7 @@ public class NominalBarGraph extends BarGraph
 		float heightScale = (h-buffer*2.0f)/calcMax();
 
 		parent.textAlign(PApplet.CENTER);
-		parent.textSize(12);
+		parent.textSize(barW/4);
 
 		ArrayList<String> sortedKeys = new ArrayList<>(bars.keySet());
 		Collections.sort(sortedKeys);
@@ -44,6 +44,7 @@ public class NominalBarGraph extends BarGraph
 			parent.fill(colors[i++]);
 			parent.rect(barX, y+(h-buffer-bars.get(key)*heightScale), barW, bars.get(key)*heightScale);
 			barX += barW+2;
+			parent.fill(Theme.getDarkUIColor());
 			parent.text(key.toString(),barX-barW/2, y+h-(buffer/4));
 		}
 
@@ -62,7 +63,7 @@ public class NominalBarGraph extends BarGraph
 		int tickVal = calcMax()/numTicks;
 		int tickLabel = 0;
 
-		parent.textSize(10);
+		parent.textSize(8);
 		for(int i=0; i<= h-buffer*2; i+= (h-buffer*2)/numTicks){
 			parent.line(x+buffer-2, y+h-buffer-i, x+buffer+2, y+h-buffer-i);
 			parent.text(tickLabel  + "", x+buffer/2, y+h-buffer-i + 4 );

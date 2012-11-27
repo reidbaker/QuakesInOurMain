@@ -14,8 +14,11 @@ import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 import edu.gatech.earthquakes.vises.AftershockMap;
+import edu.gatech.earthquakes.vises.Aggregate;
 import edu.gatech.earthquakes.vises.DetailedInfo;
 import edu.gatech.earthquakes.vises.Individual;
+import edu.gatech.earthquakes.vises.NestedCirclePlot;
+import edu.gatech.earthquakes.vises.NominalBarGraph;
 
 public class Workspace extends AbstractVisualization {
 
@@ -49,10 +52,19 @@ public class Workspace extends AbstractVisualization {
 		Controller.registerVisualization(detail);
 		vises.add(detail);
 
+		Aggregate circles = new NestedCirclePlot(x, y, w, h, masterData, DataRow.TYPE);
+		Controller.registerVisualization(circles);
+		vises.add(circles);
+		
 		Individual aftershock = new AftershockMap(x, y, w, h, mainQuake,
 				masterData);
 		Controller.registerVisualization(aftershock);
 		vises.add(aftershock);
+		
+		Aggregate bars = new NominalBarGraph(x, y, w, h, masterData, DataRow.CONTINENT);
+		Controller.registerVisualization(bars);
+		vises.add(bars);
+		
 	}
 
 	@Override

@@ -7,6 +7,7 @@ import java.util.Enumeration;
 
 import processing.core.PApplet;
 
+import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.model.DataComparator;
 import edu.gatech.earthquakes.model.DataRow;
@@ -55,13 +56,30 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 		super.drawComponent(parent);
 		
 		float drawY = y + h - buffer;
+		float maxCircleSize = getCircleSize(maxVal);
+		int[] colors = Theme.getColorPallette(computedGrid[0].length);
+		boolean right = false;
 		
-		for(double[] d: computedGrid){
-			float size = getCircleSize(d[0]);
-			//parent.ellipseMode(PApplet.CORNER);
-			parent.ellipse(x+w/2, drawY, size, size);
-			drawY -= (h-buffer*2)/computedGrid.length;
-			parent.line(x, drawY, x+w, drawY);
+		for(double[] values: computedGrid){
+			
+			int colorIndex = 0;
+			float firstSize = getCircleSize(values[0]);
+			
+			for(double val: values){
+				int curColor = colors[colorIndex++];
+				
+				parent.fill(Theme.rgba(curColor, 100));
+				parent.stroke(curColor);
+				
+				float size = getCircleSize(val);
+				if(right)
+					parent.ellipse(x+(3*w/4), drawY-(maxCircleSize-firstSize+size)/2, size, size);
+				else
+					parent.ellipse(x+(w/4), drawY-(maxCircleSize-firstSize+size)/2, size, size);
+			}
+			if(right)
+				drawY -= maxCircleSize;	
+			right = !right;
 		}
 		
 	}
@@ -75,8 +93,8 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 	 */
 	private float getCircleSize(double count) {
 		float minSize = 0;
-		float maxSize = Math.min(w-buffer*2, ((h-buffer*2) / computedGrid.length));
-
+		float maxSize = (h-buffer*2) / (computedGrid.length/2);
+		
 		return (float)((maxSize - minSize) * count /maxVal + minSize);
 	}
 	
@@ -132,6 +150,12 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 			}
 		}
 		for(double[] d: computedGrid){
+			Arrays.sort(d);
+			for(int i=0; i<d.length/2; i++){
+				double temp = d[d.length-1 -i];
+				d[d.length-1-i] = d[i];
+				d[i] = temp;
+			}
 			System.out.println(Arrays.toString(d));
 		}
 		

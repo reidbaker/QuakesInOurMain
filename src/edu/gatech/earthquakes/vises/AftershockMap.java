@@ -21,11 +21,10 @@ public class AftershockMap extends Individual implements Interactable,
 
 	private double[] latRange;
 	private double[] lonRange;
-	private int buffer = 20;
 	private DecimalFormat df;
 	private double[] highlightedPos;
 	private DataSet aftershocks;
-
+	private int buffer = 30;
 	public AftershockMap(int x, int y, int w, int h, DataRow displayData,
 			DataSet filterData) {
 		super(x, y, w, h, displayData);
@@ -35,6 +34,7 @@ public class AftershockMap extends Individual implements Interactable,
 
 	public void drawComponent(PApplet parent) {
 		super.drawComponent(parent);
+		parent.textAlign(PApplet.CENTER);
 
 		double[][] coords = getCoordinates();
 		double[] m = getMagnitudes();
@@ -85,11 +85,11 @@ public class AftershockMap extends Individual implements Interactable,
 		parent.textSize(8);
 
 		// label the edges
-		parent.text(df.format(latRange[0]), x + buffer, y + h);
+		/*parent.text(df.format(latRange[0]), x + buffer, y + h);
 		parent.text(df.format(latRange[1]), x + w - buffer, y + h);
 		parent.text(df.format(lonRange[0]), x + buffer, y + h - buffer);
 		parent.text(df.format(lonRange[1]), x + buffer, y + buffer);
-
+		 */
 		// make and label the latitude tick marks
 		double lat = 0;
 		for (int i = 0; i < (w - buffer * 2); i += 50) {
