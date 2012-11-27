@@ -56,14 +56,16 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 		super.drawComponent(parent);
 		
 		float drawY = y + h - buffer;
-		float maxCircleSize = getCircleSize(maxVal);
+		float maxCircleRadius = getCircleRadius(maxVal);
+		
+		
 		int[] colors = Theme.getColorPallette(computedGrid[0].length);
 		boolean right = false;
 		
 		for(double[] values: computedGrid){
 			
 			int colorIndex = 0;
-			float firstSize = getCircleSize(values[0]);
+			float firstRadius = getCircleRadius(values[0]);
 			
 			for(double val: values){
 				int curColor = colors[colorIndex++];
@@ -71,14 +73,15 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 				parent.fill(Theme.rgba(curColor, 100));
 				parent.stroke(curColor);
 				
-				float size = getCircleSize(val);
+				float radius = getCircleRadius(val);
+				//System.out.println(radius);
 				if(right)
-					parent.ellipse(x+(3*w/4), drawY-(maxCircleSize-firstSize+size)/2, size, size);
+					parent.ellipse(x+(3*w/4), drawY-(maxCircleRadius-firstRadius+radius), radius*2, radius*2);
 				else
-					parent.ellipse(x+(w/4), drawY-(maxCircleSize-firstSize+size)/2, size, size);
+					parent.ellipse(x+(w/4), drawY-(maxCircleRadius-firstRadius+radius), radius*2, radius*2);
 			}
 			if(right)
-				drawY -= maxCircleSize;	
+				drawY -= maxCircleRadius*2;	
 			right = !right;
 		}
 		
@@ -91,13 +94,17 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 	 * 
 	 * where [min,max] maps to [a,b]
 	 */
-	private float getCircleSize(double count) {
-		float minSize = 0;
-		float maxSize = Math.min( (float) ((h-buffer*2) / (Math.ceil(computedGrid.length/2.0))), (w-buffer*2)/2 );
-		//System.out.println(Math.ceil(computedGrid.length/2));
-		return (float)((maxSize - minSize) * count /maxVal + minSize);
+	// [min,max] = [0,maxVal] -> [a,b] = [0,maxArea]
+	private float getCircleRadius(double count) {
+		float maxDiameter = Math.min( (float) ((h-buffer*2) / (Math.ceil(computedGrid.length/2.0))), (w-buffer*2)/2 );
+		
+		double maxArea = Math.PI*Math.pow(maxDiameter/2, 2);
+		
+		float area = (float)(maxArea * count/maxVal);
+		return (float)(Math.sqrt(area/Math.PI));
 	}
 	
+	//area = piR2
 	private void computeMaxVal(){
 		for(double[] d: computedGrid)
 			if(d[0] > maxVal)
@@ -134,7 +141,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 					if(!bucketName.equals(curBucketName)){
 						bucketName = curBucketName;
 						bucketIndex++;
-						System.out.println(bucketIndex);
+						//System.out.println(bucketIndex);
 					}
 				}
 				//if we're not on the same continent, increment the continent index and reset the bucket info

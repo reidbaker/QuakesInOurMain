@@ -21,10 +21,13 @@ public class AftershockMap extends Individual implements Interactable,
 
 	private double[] latRange;
 	private double[] lonRange;
+	private double[] magRange;
+	
 	private DecimalFormat df;
 	private double[] highlightedPos;
 	private DataSet aftershocks;
 	private int buffer = 30;
+	
 	public AftershockMap(int x, int y, int w, int h, DataRow displayData,
 			DataSet filterData) {
 		super(x, y, w, h, displayData);
@@ -57,7 +60,7 @@ public class AftershockMap extends Individual implements Interactable,
 			}
 
 			parent.ellipse((float) c[0], (float) c[1],
-					(float) getCircleSize(m[i]), (float) getCircleSize(m[i]));
+					(float) getCircleRadius(m[i])*2, (float) getCircleRadius(m[i])*2);
 			// parent.text(c[i][0] + "," + c[i][1], x +(float)qx+buffer, y +
 			// h-(float)qy-buffer);
 			// System.out.println("Lat: " + c[i][0] + " X: " + x + ", Lon: "
@@ -177,9 +180,10 @@ public class AftershockMap extends Individual implements Interactable,
 					mainLon + 1 + buffer };
 		}
 
-		// System.out.println(dif);
-		// System.out.println(Arrays.toString(lonRange));
-		// System.out.println(Arrays.toString(latRange));
+		double[] mags = getMagnitudes();
+		Arrays.sort(mags);
+		magRange = new double[]{mags[0]-.5, mags[mags.length-1]-.5};
+		System.out.println(Arrays.toString(magRange));
 
 	}
 
@@ -200,8 +204,8 @@ public class AftershockMap extends Individual implements Interactable,
 			for (int i = 0; i < coords.length && !found; i++) {
 				double[] c = getDrawingCoord(coords[i][0], coords[i][1]);
 
-				if (Math.abs(interaction.getParentApplet().mouseX - c[0]) < getCircleSize(mag[i]) / 2
-						&& Math.abs(interaction.getParentApplet().mouseY - c[1]) < getCircleSize(mag[i]) / 2) {
+				if (Math.abs(interaction.getParentApplet().mouseX - c[0]) < getCircleRadius(mag[i])
+						&& Math.abs(interaction.getParentApplet().mouseY - c[1]) < getCircleRadius(mag[i])) {
 					highlightedPos = new double[] { coords[i][0], coords[i][1] };
 					ArrayList<DataRow> rowList = new ArrayList<>(aftershocks.getDatum());
 					HashSet<DataRow> toBus = new HashSet<DataRow>();
@@ -226,11 +230,21 @@ public class AftershockMap extends Individual implements Interactable,
 	 * 
 	 * where [min,max] maps to [a,b]
 	 */
-	private double getCircleSize(double mag) {
-		double minSize = 5;
-		double maxSize = 30;
-
-		return (maxSize - minSize) * (mag - 3) / 4 + minSize;
+//	private double getCircleSize(double mag) {
+//		double minSize = 5;
+//		double maxSize = 30;
+//
+//		return (maxSize - minSize) * (mag - 3) / 4 + minSize;
+//	}
+	
+	private float getCircleRadius(double mag) {
+		float minDiameter = 5;
+		float maxDiameter = 30;
+		double maxArea = Math.PI*Math.pow(maxDiameter/2, 2);
+		double minArea = Math.PI*Math.pow(minDiameter/2, 2);
+		
+		float area = (float) ((maxArea - minArea) * (mag - magRange[0]) / (magRange[1]-magRange[0]) + minArea);
+		return (float)(Math.sqrt(area/Math.PI));
 	}
 
 	private double[] getDrawingCoord(double lat, double lon) {
