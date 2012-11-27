@@ -14,6 +14,7 @@ import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
+import edu.gatech.earthquakes.model.DeadEventCanary;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
 import edu.gatech.earthquakes.vises.AftershockMap;
@@ -35,7 +36,9 @@ public class Controller {
 	public Controller(PApplet parent) {
 		this.parentApplet = parent;
 		this.masterData = Importer.importData();
-
+		
+		setUpCanary();
+		
 		int[] test = new int[2012-495];
 		for(int i = 0; i < test.length; i++){
 			test[i] = i+495;
@@ -67,6 +70,14 @@ public class Controller {
 		m.filterBy(masterData);
 		registerVisualization(m);
 //		System.out.println((AftershockMap.findAftershocks(mainQuake, masterData)));
+	}
+	
+	private void setUpCanary(){
+		DeadEventCanary dec = DeadEventCanary.getInstance();
+		BRUSH_BUS.register(dec);
+		DRAW_BUS.register(dec);
+		FILTER_BUS.register(dec);
+		INTERACT_BUS.register(dec);
 	}
 
 	public void registerVisualization(AbstractVisualization av) {
