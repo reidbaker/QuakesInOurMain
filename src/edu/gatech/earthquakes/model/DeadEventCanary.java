@@ -8,15 +8,15 @@ import edu.gatech.earthquakes.components.Controller;
 public class DeadEventCanary {
 
 	private static DeadEventCanary instance;
-	
+
 	static{
 		instance = new DeadEventCanary();
 	}
-	
+
 	public static DeadEventCanary getInstance(){
 		return instance;
 	}
-	
+
 	@Subscribe
 	public void respondToDeadEvent(DeadEvent de){
 		String busName = "";
@@ -28,7 +28,7 @@ public class DeadEventCanary {
 			busName = "filering";
 		else if(de.getSource().equals(Controller.INTERACT_BUS))
 			busName = "interaction";
-			
+
 		System.err.println("Dead Event " + de.getEvent() + " Dispatched on " + busName + " bus.");
 	}
 }

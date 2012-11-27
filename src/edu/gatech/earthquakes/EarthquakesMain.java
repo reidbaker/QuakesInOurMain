@@ -21,7 +21,7 @@ public class EarthquakesMain extends PApplet {
 
 	public void setup() {
 		smooth();
-		
+
 		Rectangle bounds = GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds();
 		JFrame sample = new JFrame();
 		sample.pack();

@@ -12,7 +12,7 @@ import edu.gatech.earthquakes.model.DataSet;
  * Right now, its being done for location and then by quake type
  */
 public class NestedCirclePlot extends Aggregate {
-	
+
 	//the thing that will be grouped by after location
 	private String dataType;
 	private DataComparator dataComp;
@@ -25,9 +25,9 @@ public class NestedCirclePlot extends Aggregate {
 		}
 		dataComp = new DataComparator(DataComparator.CompareCategories.CONTINENT);
 	}
-	
-	
-	
-	
+
+
+
+
 
 }

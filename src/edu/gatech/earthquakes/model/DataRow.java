@@ -17,13 +17,13 @@ public class DataRow {
         INDIA("India"),
         NORTH_AMERICA("North America"),
         SOUTH_AMERICA("South America");
-        
+
         private String text;
-        
+
         private Continent(String text){
         	this.text = text;
         }
-        
+
         public String toString(){
         	return text;
         }
@@ -40,13 +40,13 @@ public class DataRow {
         INDEPENDENT("Independent"),
         DEPENDENT("Dependent"),
         POSSIBLY("Possibly");
-        
+
         private String text;
-        
+
         private Dependency(String text){
         	this.text = text;
         }
-        
+
         public String toString(){
         	return text;
         }
@@ -58,13 +58,13 @@ public class DataRow {
         MINING("Mining"),
         RESERVOIR("Reservoir"),
         OIL_FEILD("Oil Field");
-        
+
         private String text;
-        
+
         private Type(String text){
         	this.text = text;
         }
-        
+
         public String toString(){
         	return text;
         }
@@ -83,7 +83,7 @@ public class DataRow {
 	public void setVariables(Map<String, Object> variables) {
 		this.variables = variables;
 	}
-	
+
 	public Object getValue(String dataType){
 		return variables.get(dataType);
 	}
