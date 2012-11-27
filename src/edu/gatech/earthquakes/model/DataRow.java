@@ -10,13 +10,23 @@ public class DataRow {
     public final static String TIME = "Time";
     public final static String CONTINENT = "Continent";
     public enum Continent {
-        AFRICA,
-        AUSTRALIA,
-        CHINA,
-        EURASIA,
-        INDIA,
-        NORTH_AMERICA,
-        SOUTH_AMERICA,
+        AFRICA("Africa"),
+        AUSTRALIA("Australia"),
+        CHINA("China"),
+        EURASIA("Eurasia"),
+        INDIA("India"),
+        NORTH_AMERICA("North America"),
+        SOUTH_AMERICA("South America");
+
+        private String text;
+
+        private Continent(String text){
+        	this.text = text;
+        }
+
+        public String toString(){
+        	return text;
+        }
     }
     public final static String DEPTH = "Depth";
     public final static String MOMENT_MAGNITUDE = "Magnitude";
@@ -27,17 +37,37 @@ public class DataRow {
     public final static String DEPENDENCY = "Dependency";
     public final static String MAIN_DATE = "Main Date";
     public enum Dependency{
-        INDEPENDENT,
-        DEPENDENT,
-        POSSIBLY,
+        INDEPENDENT("Independent"),
+        DEPENDENT("Dependent"),
+        POSSIBLY("Possibly");
+
+        private String text;
+
+        private Dependency(String text){
+        	this.text = text;
+        }
+
+        public String toString(){
+        	return text;
+        }
     }
     public final static String TYPE = "Type";
     public enum Type{
-        TECT,
-        DEEP_MINING,
-        MINING,
-        RESERVOIR,
-        OIL_FEILD,
+        TECT("Tectonic"),
+        DEEP_MINING("Deep Mining"),
+        MINING("Mining"),
+        RESERVOIR("Reservoir"),
+        OIL_FEILD("Oil Field");
+
+        private String text;
+
+        private Type(String text){
+        	this.text = text;
+        }
+
+        public String toString(){
+        	return text;
+        }
     }
 
     private Map<String, Object> variables;
@@ -53,7 +83,7 @@ public class DataRow {
 	public void setVariables(Map<String, Object> variables) {
 		this.variables = variables;
 	}
-	
+
 	public Object getValue(String dataType){
 		return variables.get(dataType);
 	}

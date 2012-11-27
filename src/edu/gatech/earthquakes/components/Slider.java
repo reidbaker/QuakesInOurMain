@@ -317,10 +317,6 @@ public class Slider extends AbstractVisualization implements Interactable {
 		updateAnim(4);
 	}
 
-	private int rgba(int rgb, int a) {
-		return rgb & ((a << 24) | 0xFFFFFF);
-	}
-
 	private static float xLocationMap(int datm, int dataMin, int dataMax,
 			float leftEdge, float rightEdge, float sliderLeft, float sliderRight) {
 		float calcuated = 0;

@@ -17,6 +17,5 @@ public abstract class AbstractVisualization implements Drawable{
 		parent.stroke(Theme.getBaseUIColor());
 		parent.strokeCap(PApplet.ROUND);
 		parent.rect(x, y, w, h);
-		//parent.
 	}
 }

@@ -14,9 +14,9 @@ import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
+import edu.gatech.earthquakes.model.DeadEventCanary;
 import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.vises.AbstractVisualization;
-import edu.gatech.earthquakes.vises.AftershockMap;
 import edu.gatech.earthquakes.vises.DetailedInfo;
 import edu.gatech.earthquakes.vises.Individual;
 import edu.gatech.earthquakes.vises.NominalBarGraph;
@@ -28,7 +28,7 @@ public class Controller {
 	private final DataSet masterData;
 
 	private final Slider dataslider;
-	
+
 	public static final EventBus BRUSH_BUS = new EventBus("Brushing Bus");
 	public static final EventBus DRAW_BUS = new EventBus("Drawing Bus");
 	public static final EventBus FILTER_BUS = new EventBus("Filtering Bus");
@@ -38,21 +38,23 @@ public class Controller {
 		this.parentApplet = parent;
 		this.masterData = Importer.importData();
 
+		setUpCanary();
+
 		int[] test = new int[2012-495];
 		for(int i = 0; i < test.length; i++){
 			test[i] = i+495;
 		}
-		
+
 		Workspace workspace = new Workspace(10, 10, parent.getWidth() - 20, parent.getHeight() - 120);
 		registerVisualization(workspace);
-		
+
 		dataslider = new Slider(50, 768 - 100, 924, 50, masterData);
 		dataslider.setDrawInterval(250);
 		registerVisualization(dataslider);
-		
+
 		NominalBarGraph n = new NominalBarGraph(20, 20, 500, 500,Importer.importData(), DataRow.CONTINENT);
 		registerVisualization(n);
-		
+
 		//Elizabeth's testing things
 		DataRow mainQuake = null;
 //		boolean found = false;
@@ -67,6 +69,14 @@ public class Controller {
 			}
 		Individual m = new DetailedInfo(525, 20, 450, 500, mainQuake);
 		registerVisualization(m);
+	}
+
+	private void setUpCanary(){
+		DeadEventCanary dec = DeadEventCanary.getInstance();
+		BRUSH_BUS.register(dec);
+		DRAW_BUS.register(dec);
+		FILTER_BUS.register(dec);
+		INTERACT_BUS.register(dec);
 	}
 
 	public void registerVisualization(AbstractVisualization av) {
@@ -124,5 +134,3 @@ public class Controller {
 		BRUSH_BUS.post(ds);
 	}
 }
-
-

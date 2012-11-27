@@ -1,12 +1,15 @@
 package edu.gatech.earthquakes.vises;
 
 import java.text.DecimalFormat;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Date;
+import java.util.HashSet;
+import java.util.Set;
 
 import processing.core.PApplet;
-
+import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
-import edu.gatech.earthquakes.interfaces.Brushable;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
@@ -23,9 +26,11 @@ public class AftershockMap extends Individual implements Interactable,
 	private double[] highlightedPos;
 	private DataSet aftershocks;
 
-	public AftershockMap(int x, int y, int w, int h, DataRow displayData) {
+	public AftershockMap(int x, int y, int w, int h, DataRow displayData,
+			DataSet filterData) {
 		super(x, y, w, h, displayData);
 		df = new DecimalFormat("0.00");
+		filterBy(filterData);
 	}
 
 	public void drawComponent(PApplet parent) {
@@ -162,13 +167,14 @@ public class AftershockMap extends Individual implements Interactable,
 				latRange = new double[] { lat[0] - buffer,
 						lat[0] + dif + buffer };
 			}
-		}
-		else {
-			double mainLat = (Double)displayData.getValue(DataRow.LATTITUDE);
-			double mainLon = (Double)displayData.getValue(DataRow.LONGITUDE);
-			
-			latRange = new double[] { mainLat-1-buffer, mainLat+1+buffer };
-			lonRange = new double[] { mainLon-1-buffer, mainLon+1+buffer };
+		} else {
+			double mainLat = (Double) displayData.getValue(DataRow.LATTITUDE);
+			double mainLon = (Double) displayData.getValue(DataRow.LONGITUDE);
+
+			latRange = new double[] { mainLat - 1 - buffer,
+					mainLat + 1 + buffer };
+			lonRange = new double[] { mainLon - 1 - buffer,
+					mainLon + 1 + buffer };
 		}
 
 		// System.out.println(dif);
@@ -180,26 +186,35 @@ public class AftershockMap extends Individual implements Interactable,
 	@Override
 	public void handleInput(Interaction interaction) {
 
-		double[][] coords = getCoordinates();
-		double[] mag = getMagnitudes();
-		double qx = 0;
-		double qy = 0;
-		boolean found = false;
+		int mx = interaction.getParentApplet().mouseX;
+		int my = interaction.getParentApplet().mouseY;
 
-		for (int i = 0; i < coords.length && !found; i++) {
-			double[] c = getDrawingCoord(coords[i][0], coords[i][1]);
+		if (mx > x && mx < x + w && my > y && my < y + h) {
 
-			if (Math.abs(interaction.getParentApplet().mouseX - c[0]) < getCircleSize(mag[i]) / 2
-					&& Math.abs(interaction.getParentApplet().mouseY - c[1]) < getCircleSize(mag[i]) / 2) {
-				highlightedPos = new double[] { coords[i][0], coords[i][1] };
-				found = true;
+			double[][] coords = getCoordinates();
+			double[] mag = getMagnitudes();
+			double qx = 0;
+			double qy = 0;
+			boolean found = false;
+
+			for (int i = 0; i < coords.length && !found; i++) {
+				double[] c = getDrawingCoord(coords[i][0], coords[i][1]);
+
+				if (Math.abs(interaction.getParentApplet().mouseX - c[0]) < getCircleSize(mag[i]) / 2
+						&& Math.abs(interaction.getParentApplet().mouseY - c[1]) < getCircleSize(mag[i]) / 2) {
+					highlightedPos = new double[] { coords[i][0], coords[i][1] };
+					ArrayList<DataRow> rowList = new ArrayList<>(aftershocks.getDatum());
+					Controller.BRUSH_BUS.post(rowList.get(i));
+					found = true;
+				}
+
+				if (!found){
+					highlightedPos = null;
+					Controller.BRUSH_BUS.post(new DataSet(new HashSet<DataRow>()));
+				}
+
 			}
-
-			if (!found)
-				highlightedPos = null;
-
 		}
-
 	}
 
 	/*
