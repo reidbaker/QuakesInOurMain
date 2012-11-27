@@ -45,11 +45,11 @@ public class Workspace extends AbstractVisualization {
 				e.printStackTrace();
 			}
 
-		Individual detail = new DetailedInfo(20, 20, 500, 500, mainQuake);
+		Individual detail = new DetailedInfo(x, y, w, h, mainQuake);
 		Controller.registerVisualization(detail);
 		vises.add(detail);
 
-		Individual aftershock = new AftershockMap(525, 20, 450, 500, mainQuake,
+		Individual aftershock = new AftershockMap(x, y, w, h, mainQuake,
 				masterData);
 		Controller.registerVisualization(aftershock);
 		vises.add(aftershock);

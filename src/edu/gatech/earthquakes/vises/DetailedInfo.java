@@ -1,5 +1,6 @@
 package edu.gatech.earthquakes.vises;
 
+import java.awt.Rectangle;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.security.NoSuchAlgorithmException;
@@ -17,21 +18,32 @@ import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.web.CustomSearch;
 
 public class DetailedInfo extends Individual implements Brushable {
+    //Display Strings
     private static final String NUMBER_OF_RESULTS = "Number of Results";
+
+    //Calculated Data
     private int numRestults;
+
+    //Formatting
     private int xPadding;
     private int yPadding;
+    private int textSize;
 
     public DetailedInfo(int x, int y, int w, int h, DataRow displayData) {
         super(x, y, w, h, displayData);
-        xPadding = 5;
-        yPadding = 5;
+        setFormatting(w);
         try {
             numRestults = recalculateNumResults();
         } catch (NoSuchAlgorithmException | IOException e) {
             numRestults = 0;
             e.printStackTrace();
         }
+    }
+
+    private void setFormatting(int w) {
+        xPadding = w/50;
+        yPadding = w/50;
+        textSize = w / 15;
     }
 
     private int recalculateNumResults() throws NoSuchAlgorithmException,
@@ -45,13 +57,46 @@ public class DetailedInfo extends Individual implements Brushable {
         p.stroke(Theme.getBaseUIColor());
         p.strokeWeight(2);
 
-        //Draw number of results
         p.textAlign(PApplet.LEFT);
-        p.textSize(12);
+        p.textSize(textSize);
+        String displayOutput = getDisplayString();
+        p.text(displayOutput, x + xPadding, y + yPadding, x + w, y + h);
+    }
 
-        String resultsOutput = NUMBER_OF_RESULTS + ": " + numRestults;
-        p.text(resultsOutput, x + xPadding, y + yPadding, x + w, y + h);
+    private String getDisplayString() {
+        StringBuilder sb = new StringBuilder();
 
+        sb.append(DataRow.MOMENT_MAGNITUDE);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.MOMENT_MAGNITUDE));
+        sb.append('\n');
+
+        sb.append(DataRow.LATTITUDE);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.LATTITUDE));
+        sb.append('\n');
+
+        sb.append(DataRow.LONGITUDE);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.LONGITUDE));
+        sb.append('\n');
+
+        sb.append(DataRow.CONTINENT);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.CONTINENT));
+        sb.append('\n');
+
+        sb.append(DataRow.DEPTH);
+        sb.append(": ");
+        sb.append(displayData.getValue(displayData.DEPTH));
+        sb.append('\n');
+
+        sb.append(NUMBER_OF_RESULTS);
+        sb.append(": ");
+        sb.append(numRestults);
+        sb.append('\n');
+
+        return sb.toString();
     }
 
     private String getWebQuery(){
@@ -86,5 +131,10 @@ public class DetailedInfo extends Individual implements Brushable {
         }
     }
 
+    @Override
+    public void resizeTo(Rectangle bounds) {
+        super.resizeTo(bounds);
+        setFormatting(bounds.width);
+    }
 
 }

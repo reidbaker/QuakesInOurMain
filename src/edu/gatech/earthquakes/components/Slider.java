@@ -214,7 +214,7 @@ public class Slider extends AbstractVisualization implements Interactable,
 
 	@Override
 	public void drawComponent(PApplet parent) {
-		PApplet p = parent;
+	    PApplet p = parent;
 		p.stroke(Theme.getBaseUIColor());
 		p.strokeWeight(2);
 		p.noFill();
@@ -232,17 +232,22 @@ public class Slider extends AbstractVisualization implements Interactable,
 		p.stroke(Theme.getColorPallette(1)[0]);
 		p.strokeWeight(2);
 		p.strokeCap(PApplet.ROUND);
+		int prevYear = 0;
+		double prevMag = 0;
 		for (DataRow r : data) {
 			Date date = (Date) r.getVariables().get(DataRow.DATE);
 			Calendar cal = Calendar.getInstance();
 			cal.setTime(date);
 			int year = cal.get(Calendar.YEAR);
-			double mag = (double) r.getVariables()
-					.get(DataRow.MOMENT_MAGNITUDE);
-			float xLocation = xLocationMap(year, fullYears[0],
-					fullYears[fullYears.length - 1], x, x + w, left, right);
-			float height = PApplet.map((float) mag, 4.0f, 8.0f, 0f, (float) h);
-			p.line(xLocation, y + h, xLocation, y + h - height);
+            double mag = (double) r.getVariables().get(
+                    DataRow.MOMENT_MAGNITUDE);
+            if (year > prevYear || mag > prevMag) { // Optimization, dont draw line unless new year or magnitude is larger
+                float xLocation = xLocationMap(year, fullYears[0],
+                        fullYears[fullYears.length - 1], x, x + w, left, right);
+                float height = PApplet.map((float) mag, 4.0f, 8.0f, 0f,
+                        (float) h);
+                p.line(xLocation, y + h, xLocation, y + h - height);
+            }
 		}
 
 		p.fill(Theme.getDarkUIColor());
@@ -352,6 +357,7 @@ public class Slider extends AbstractVisualization implements Interactable,
 
 	@Override
 	public void handleInput(Interaction interaction) {
+	    //FIXME allow user to select a single earthquakes
 		if (interaction.isFirstPress()) {
 			int location = whereIs(interaction.getParentApplet().mouseX,
 					interaction.getParentApplet().mouseY);
