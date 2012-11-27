@@ -1,0 +1,411 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 10 2001 India Earthquake",
+    "totalResults": "2090",
+    "searchTerms": "Apr 10 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 10 2001 India Earthquake",
+    "totalResults": "2090",
+    "searchTerms": "Apr 10 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.666537,
+  "formattedSearchTime": "0.67",
+  "totalResults": "2090",
+  "formattedTotalResults": "2,090"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Hot Searches - Google",
+   "htmlTitle": "Hot Searches - Google",
+   "link": "http://www.google.com/trends/hottrends",
+   "displayLink": "www.google.com",
+   "snippet": "United States. India. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use ...   live in the us and internationally with savings mostly hovering around the 10 mark ...",
+   "htmlSnippet": "United States. \u003cb\u003eIndia\u003c/b\u003e. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  live in the us and internationally with savings mostly hovering around the \u003cb\u003e10\u003c/b\u003e mark \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uvKavSff1xUJ",
+   "formattedUrl": "www.google.com/trends/hottrends",
+   "htmlFormattedUrl": "www.google.com/trends/hottrends",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/trends/resources/2327917647-google-icon.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "102",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3yTXNtH_-TAOlH7VN5H-YB12XPPIGpUNtjnutMt3YPxciVY44kh7V"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Google Hot Searches",
+      "og:type": "article",
+      "og:url": "http://www.google.com/trends/hottrends",
+      "og:image": "http://www.google.com/trends/resources/2327917647-google-icon.png",
+      "og:description": "Explore trending search topics with Google Hot Searches."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
+   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007   ... On April Fools' Day, we announce the MentalPlex: Google's ability to read your   ... The first 10 language versions of Google.com are released: French, German,   .... We spotlight our new engineering offices in Bangalore and Hyderabad, India ...",
+   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ \u003cb\u003e2001\u003c/b\u003e ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eApril\u003c/b\u003e Fools&#39; Day, we announce the MentalPlex: Google&#39;s ability to read your \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e The first \u003cb\u003e10\u003c/b\u003e language versions of Google.com are released: French, German, \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall ...",
+   "htmlTitle": "Patent US5490655 - Video/data projector and monitor ceiling/wall \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5490655",
+   "displayLink": "www.google.com",
+   "snippet": "Seismic cables may be added for extra support in case of earthquake. ...   US6540366, Mar 19, 2001, Apr 1, 2003, Smart Technologies, Inc. Overhead ...   US8094137, Jul 23, 2007, Jan 10, 2012, Smart Technologies ULC, System ...   USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, Ind. Universal   mounting system ...",
+   "htmlSnippet": "Seismic cables may be added for extra support in case of \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6540366, Mar 19, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003eApr\u003c/b\u003e 1, 2003, Smart Technologies, Inc. Overhead \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US8094137, Jul 23, 2007, Jan \u003cb\u003e10\u003c/b\u003e, 2012, Smart Technologies ULC, System \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  USD504305, Jun 27, 2003, \u003cb\u003eApr\u003c/b\u003e 26, 2005, Peerless Industries, \u003cb\u003eInd\u003c/b\u003e. Universal \u003cbr\u003e  mounting system \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5490655",
+   "htmlFormattedUrl": "www.google.com/patents/US5490655",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-w7ogDtwXRdac-ys5vaE2g3t1ewYdc0nYfyhT4RJOnAOVCirfukt9ZzM"
+     }
+    ],
+    "book": [
+     {
+      "description": "A mount than secures a projector or monitor to a ceiling or wall is disclosed. The mount uses struts that form channels which support the projector/monitor and provide alternate channels for...",
+      "url": "http://www.google.com/patents/US5490655?utm_source=gb-gplus-share",
+      "name": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
+      "image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5490655",
+      "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
+      "og:title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AFP: Hafiz Mohammad Saeed: outspoken Pakistani Islamist",
+   "htmlTitle": "AFP: Hafiz Mohammad Saeed: outspoken Pakistani Islamist",
+   "link": "http://www.google.com/hostednews/afp/article/ALeqM5gKmmy2vqg0L8DRjW5b-S8p9JiHdg?docId=CNG.8fe7bd4dce02ce9162fb80a7ba4417fe.101",
+   "displayLink": "www.google.com",
+   "snippet": "(AFP) ￢ﾀﾓ Apr 3, 2012. ISLAMABAD ￢ﾀﾔ A man with a $10 million US government   bounty on him might be ... in Pakistan after India accused the group of being   behind a 2001 attack on the Indian ... Dawa, one of Pakistan's biggest charities   and known across the country for its relief work after the 2005 earthquake in   Kashmir, ...",
+   "htmlSnippet": "(AFP) ￢ﾀﾓ \u003cb\u003eApr\u003c/b\u003e 3, 2012. ISLAMABAD ￢ﾀﾔ A man with a \u003cb\u003e$10\u003c/b\u003e million US government \u003cbr\u003e  bounty on him might be \u003cb\u003e...\u003c/b\u003e in Pakistan after \u003cb\u003eIndia\u003c/b\u003e accused the group of being \u003cbr\u003e  behind a \u003cb\u003e2001\u003c/b\u003e attack on the \u003cb\u003eIndian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Dawa, one of Pakistan&#39;s biggest charities \u003cbr\u003e  and known across the country for its relief work after the 2005 \u003cb\u003eearthquake\u003c/b\u003e in \u003cbr\u003e  Kashmir, \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/.../afp/.../ALeqM5gKmmy2vqg0L8DRjW5b-S8p9JiHdg?...",
+   "htmlFormattedUrl": "www.google.com/.../afp/.../ALeqM5gKmmy2vqg0L8DRjW5b-S8p9JiHdg?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/hostednews/afp/media/ALeqM5hwPZLzSzPsZi5dNilRvr9YmejBaQ?docId=photo_1333471226325-1-0&size=s3"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "202",
+      "height": "159",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSG0pl80VgN-Tj6sC3N1AoqJOdfaMI_kaJVT2_46YBoC0ii1eH8fyaGB0Y"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Hafiz Mohammad Saeed: outspoken Pakistani Islamist",
+      "og:type": "article",
+      "og:url": "http://www.google.com/hostednews/afp/article/ALeqM5gKmmy2vqg0L8DRjW5b-S8p9JiHdg?docId=CNG.8fe7bd4dce02ce9162fb80a7ba4417fe.101",
+      "og:site_name": "Google News",
+      "og:image": "http://www.google.com/hostednews/afp/media/ALeqM5hwPZLzSzPsZi5dNilRvr9YmejBaQ?docId=photo_1333471226325-1-0&size=s3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7188452 - Sleeved bracing useful in the construction of ...",
+   "htmlTitle": "Patent US7188452 - Sleeved bracing useful in the construction of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7188452",
+   "displayLink": "www.google.com",
+   "snippet": "Mar 13, 2007 ... US4582303, Jan 29, 1981, Apr 15, 1986, Tayco Developments, Inc. Seal ... Tube   Investments of India Limited, Sleeved compression member ... US5833038, Jul   11, 1996, Nov 10, 1998, Method and apparatus for broadband earthquake ...   US6244577, Jul 12, 1999, Jun 12, 2001, Enidine Incorporated ...",
+   "htmlSnippet": "Mar 13, 2007 \u003cb\u003e...\u003c/b\u003e US4582303, Jan 29, 1981, \u003cb\u003eApr\u003c/b\u003e 15, 1986, Tayco Developments, Inc. Seal \u003cb\u003e...\u003c/b\u003e Tube \u003cbr\u003e  Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression member \u003cb\u003e...\u003c/b\u003e US5833038, Jul \u003cbr\u003e  11, 1996, Nov \u003cb\u003e10\u003c/b\u003e, 1998, Method and apparatus for broadband \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6244577, Jul 12, 1999, Jun 12, \u003cb\u003e2001\u003c/b\u003e, Enidine Incorporated \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7188452",
+   "htmlFormattedUrl": "www.google.com/patents/US7188452",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=kTJ_AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhNCVxB0wWr1-1iGhc_tswP9pjkLS1po78jWwPyEAxFSTUh3fMA32MgIc"
+     }
+    ],
+    "book": [
+     {
+      "description": "A buckling restrained brace includes an elongate, hollow sleeve, an elongate yielding core extending substantially through the length of the sleeve, and a buckling constraining element between...",
+      "url": "http://www.google.com/patents/US7188452?utm_source=gb-gplus-share",
+      "name": "Patent US7188452 - Sleeved bracing useful in the construction of earthquake resistant structures",
+      "image": "http://www.google.com/patents?id=kTJ_AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7188452",
+      "title": "Patent US7188452 - Sleeved bracing useful in the construction of earthquake resistant structures",
+      "og:title": "Patent US7188452 - Sleeved bracing useful in the construction of earthquake resistant structures",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=kTJ_AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7762026 - Bearing brace apparatus - Google Patents",
+   "htmlTitle": "Patent US7762026 - Bearing brace apparatus - Google Patents",
+   "link": "http://www.google.com/patents/US7762026",
+   "displayLink": "www.google.com",
+   "snippet": "US858410, Jul 10, 1906, Jul 2, 1907, FOB BEIKFOKCING CONCRETE ... Tube   Investments of India Limited, Sleeved compression member ... US6219988, Mar   18, 1999, Apr 24, 2001, The George Washington University, Wrapping system for   ... Columnar structure with earthquake resistance imparted thereto and method of ...",
+   "htmlSnippet": "US858410, Jul \u003cb\u003e10\u003c/b\u003e, 1906, Jul 2, 1907, FOB BEIKFOKCING CONCRETE \u003cb\u003e...\u003c/b\u003e Tube \u003cbr\u003e  Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression member \u003cb\u003e...\u003c/b\u003e US6219988, Mar \u003cbr\u003e  18, 1999, \u003cb\u003eApr\u003c/b\u003e 24, \u003cb\u003e2001\u003c/b\u003e, The George Washington University, Wrapping system for \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Columnar structure with \u003cb\u003eearthquake\u003c/b\u003e resistance imparted thereto and method of \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7762026",
+   "htmlFormattedUrl": "www.google.com/patents/US7762026",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=hmDSAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNzM1-ctUKayqj8IZjTut3Bl9xjpwg2_iJALxUyAbwdo8VonOB8Bcbay0"
+     }
+    ],
+    "book": [
+     {
+      "description": "The present invention is directed to a brace apparatus having a core member configured to absorb energy generated by seismic or other forces by undergoing plastic deformation. A buckling restrainin...",
+      "url": "http://www.google.com/patents/US7762026?utm_source=gb-gplus-share",
+      "name": "Patent US7762026 - Bearing brace apparatus",
+      "image": "http://www.google.com/patents?id=hmDSAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7762026",
+      "title": "Patent US7762026 - Bearing brace apparatus",
+      "og:title": "Patent US7762026 - Bearing brace apparatus",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=hmDSAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7284358 - Methods of manufacturing bearing brace ...",
+   "htmlTitle": "Patent US7284358 - Methods of manufacturing bearing brace \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7284358",
+   "displayLink": "www.google.com",
+   "snippet": "US4255071, Aug 27, 1979, Mar 10, 1981, Bochumer Eisenhutte Heintzmann   GmbH & Co. ... Tube Investments of India Limited, Sleeved compression member   ... US6219988, Mar 18, 1999, Apr 24, 2001, The George Washington University ...   Columnar structure with earthquake resistance imparted thereto and method of ...",
+   "htmlSnippet": "US4255071, Aug 27, 1979, Mar \u003cb\u003e10\u003c/b\u003e, 1981, Bochumer Eisenhutte Heintzmann \u003cbr\u003e  GmbH &amp; Co. \u003cb\u003e...\u003c/b\u003e Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression member \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US6219988, Mar 18, 1999, \u003cb\u003eApr\u003c/b\u003e 24, \u003cb\u003e2001\u003c/b\u003e, The George Washington University \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Columnar structure with \u003cb\u003eearthquake\u003c/b\u003e resistance imparted thereto and method of \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7284358",
+   "htmlFormattedUrl": "www.google.com/patents/US7284358",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=fIaRAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBO8QXC3fKSYLmA9YGa9unSjTw9g82kXfshzK9NFi_0RBn-1gukm39s8g"
+     }
+    ],
+    "book": [
+     {
+      "description": "The present invention is directed to a brace apparatus having a core member configured to absorb energy generated by seismic or other forces by undergoing plastic deformation. A buckling restrainin...",
+      "url": "http://www.google.com/patents/US7284358?utm_source=gb-gplus-share",
+      "name": "Patent US7284358 - Methods of manufacturing bearing brace apparatus",
+      "image": "http://www.google.com/patents?id=fIaRAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7284358",
+      "title": "Patent US7284358 - Methods of manufacturing bearing brace apparatus",
+      "og:title": "Patent US7284358 - Methods of manufacturing bearing brace apparatus",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=fIaRAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
+   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
+   "link": "http://www.google.com/intl/en_uk/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ... Thus   begins our annual foray in the Silicon Valley tradition of April Fool hoaxes. May.   The first 10 language versions of Google.com are released: French, German, ....   We spotlight our new engineering offices in Bangalore and Hyderabad, India,   with ...",
+   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ \u003cb\u003e2001\u003c/b\u003e ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 \u003cb\u003e...\u003c/b\u003e Thus \u003cbr\u003e  begins our annual foray in the Silicon Valley tradition of \u003cb\u003eApril\u003c/b\u003e Fool hoaxes. May. \u003cbr\u003e  The first \u003cb\u003e10\u003c/b\u003e language versions of Google.com are released: French, German, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e, \u003cbr\u003e  with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Uz9ka1X37zwJ",
+   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7716882 - Bearing brace apparatus - Google Patents",
+   "htmlTitle": "Patent US7716882 - Bearing brace apparatus - Google Patents",
+   "link": "http://www.google.com/patents/US7716882",
+   "displayLink": "www.google.com",
+   "snippet": "May 18, 2010 ... Application number: 10/843,263 ... Tube Investments of India Limited, Sleeved   compression member ... US6219988, Mar 18, 1999, Apr 24, 2001, The George   Washington University, Wrapping ... US20030205008, Mar 11, 2003, Sleeved   bracing useful in the construction of earthquake resistant structures ...",
+   "htmlSnippet": "May 18, 2010 \u003cb\u003e...\u003c/b\u003e Application number: \u003cb\u003e10\u003c/b\u003e/843,263 \u003cb\u003e...\u003c/b\u003e Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved \u003cbr\u003e  compression member \u003cb\u003e...\u003c/b\u003e US6219988, Mar 18, 1999, \u003cb\u003eApr\u003c/b\u003e 24, \u003cb\u003e2001\u003c/b\u003e, The George \u003cbr\u003e  Washington University, Wrapping \u003cb\u003e...\u003c/b\u003e US20030205008, Mar 11, 2003, Sleeved \u003cbr\u003e  bracing useful in the construction of \u003cb\u003eearthquake\u003c/b\u003e resistant structures \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7716882",
+   "htmlFormattedUrl": "www.google.com/patents/US7716882",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=olvQAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyTZbtwOO1verzarqigj6eiJ1xwe7Y14vqQaiBJWrDs0Dcy_2DTQq9VKU"
+     }
+    ],
+    "book": [
+     {
+      "description": "The present invention is directed to a brace apparatus having a core member configured to absorb energy generated by seismic or other forces by undergoing plastic deformation. A buckling restrainin...",
+      "url": "http://www.google.com/patents/US7716882?utm_source=gb-gplus-share",
+      "name": "Patent US7716882 - Bearing brace apparatus",
+      "image": "http://www.google.com/patents?id=olvQAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7716882",
+      "title": "Patent US7716882 - Bearing brace apparatus",
+      "og:title": "Patent US7716882 - Bearing brace apparatus",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=olvQAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7959019 - Suspended cable support system - Google ...",
+   "htmlTitle": "Patent US7959019 - Suspended cable support system - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7959019",
+   "displayLink": "www.google.com",
+   "snippet": "US804906, Apr 24, 1905, Nov 21, 1905, F ONE, CLOTHES-RACK ... US4124324  , Jan 16, 1978, Nov 7, 1978, Indian Head Inc. Modular cable trench system ...   US4593499, Nov 23, 1984, Jun 10, 1986, Kabushiki Kaisha Toshiba ...   US6286691, Jul 13, 1998, Sep 11, 2001, Industrial Wire Products, Inc. Shelving   for ...",
+   "htmlSnippet": "US804906, \u003cb\u003eApr\u003c/b\u003e 24, 1905, Nov 21, 1905, F ONE, CLOTHES-RACK \u003cb\u003e...\u003c/b\u003e US4124324\u003cbr\u003e  , Jan 16, 1978, Nov 7, 1978, \u003cb\u003eIndian\u003c/b\u003e Head Inc. Modular cable trench system \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4593499, Nov 23, 1984, Jun \u003cb\u003e10\u003c/b\u003e, 1986, Kabushiki Kaisha Toshiba \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6286691, Jul 13, 1998, Sep 11, \u003cb\u003e2001\u003c/b\u003e, Industrial Wire Products, Inc. Shelving \u003cbr\u003e  for \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7959019",
+   "htmlFormattedUrl": "www.google.com/patents/US7959019",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTjb5x3Eyx4kVZ-ii1sj9_neFf7kqYIaGs9Suu9ZWzHaf7pqvN46tz3N0"
+     }
+    ],
+    "book": [
+     {
+      "description": "According to an aspect of the present disclosure, a suspended cable support system is provided. The suspended cable support system includes a plurality of suspension rods; and at least one...",
+      "url": "http://www.google.com/patents/US7959019?utm_source=gb-gplus-share",
+      "name": "Patent US7959019 - Suspended cable support system",
+      "image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7959019",
+      "title": "Patent US7959019 - Suspended cable support system",
+      "og:title": "Patent US7959019 - Suspended cable support system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}
