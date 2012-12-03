@@ -3,10 +3,15 @@ package edu.gatech.earthquakes;
 import java.awt.GraphicsEnvironment;
 import java.awt.Insets;
 import java.awt.Rectangle;
+import java.io.File;
+import java.io.IOException;
+import java.io.InputStream;
 
 import javax.swing.JFrame;
 
 import processing.core.PApplet;
+import processing.core.PFont;
+
 import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
 
@@ -22,7 +27,15 @@ public class EarthquakesMain extends PApplet {
 	public void setup() {
 		smooth();
 
-		Rectangle bounds = GraphicsEnvironment.getLocalGraphicsEnvironment().getMaximumWindowBounds();
+		PFont font = null;
+		String fileName = ".." + File.separator + "data" + File.separator
+				+ "fonts" + File.separator + "Quicksand-Regular.ttf";
+		InputStream i = createInput(fileName);
+		font = createFont(fileName, 24);
+
+		textFont(font);
+		Rectangle bounds = GraphicsEnvironment.getLocalGraphicsEnvironment()
+				.getMaximumWindowBounds();
 		JFrame sample = new JFrame();
 		sample.pack();
 		Insets insets = sample.getInsets();

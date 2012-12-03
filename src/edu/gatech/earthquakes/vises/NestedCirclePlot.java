@@ -3,6 +3,7 @@ package edu.gatech.earthquakes.vises;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.HashMap;
 
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Theme;
@@ -18,19 +19,24 @@ import edu.gatech.earthquakes.model.DataSet;
  */
 
 public class NestedCirclePlot extends Aggregate implements Filterable {
-	//the thing that will be grouped by after location
+	// the thing that will be grouped by after location
 	private String dataType;
 	private DataComparator dataComp;
 	private double[][] computedGrid;
+	private HashMap<String, HashMap<String, Integer>> computedValues;
 	private boolean nominal;
 	private double maxVal = 0;
-	
-	public NestedCirclePlot(int x, int y, int w, int h, DataSet displayData, String dataType) {
+	private int offset = 20;
+	private ArrayList<String> bucketNames;
+	private HashMap<String, Integer> totals;
+
+	public NestedCirclePlot(int x, int y, int w, int h, DataSet displayData,
+			String dataType) {
 		super(x, y, w, h, displayData);
 		this.dataType = dataType;
 		DataComparator.CompareCategories category = null;
-		
-		switch(dataType){
+
+		switch (dataType) {
 		case DataRow.MOMENT_MAGNITUDE:
 			category = DataComparator.CompareCategories.MAGNITUDE;
 			nominal = false;
@@ -42,52 +48,80 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 		case DataRow.TYPE:
 			category = DataComparator.CompareCategories.TYPE;
 			nominal = true;
+			bucketNames = new ArrayList<String>();
+			for (DataRow.Type t : DataRow.Type.values()) {
+				bucketNames.add(t.toString());
+			}
+			Collections.sort(bucketNames);
 			break;
 		}
-		dataComp = new DataComparator(DataComparator.CompareCategories.CONTINENT, category);
-		
-		
+		dataComp = new DataComparator(
+				DataComparator.CompareCategories.CONTINENT, category);
+
 		computeData();
 	}
-	
-	public void drawComponent(PApplet parent){
+
+	public void drawComponent(PApplet parent) {
 		super.drawComponent(parent);
-		
+
 		float drawY = y + h - buffer;
+		float drawX = x + buffer;
 		float maxCircleRadius = getCircleRadius(maxVal);
-		// FIXME: Need to find a way to get the colors from the enum type.
-		int[] colors = new int[computedGrid[0].length];
-		for(int i = 0; i < colors.length; i++){
-			colors[i] = Theme.getPalletteColor(i);
-		}
 
 		boolean right = false;
-		
-		for(double[] values: computedGrid){
-			
-			int colorIndex = 0;
-			float firstRadius = getCircleRadius(values[0]);
-			
-			for(double val: values){
-				int curColor = colors[colorIndex++];
-				
-				parent.fill(Theme.rgba(curColor, 100));
-				parent.stroke(curColor);
-				
-				float radius = getCircleRadius(val);
-				//System.out.println(radius);
-				if(right)
-					parent.ellipse(x+(3*w/4), drawY-(maxCircleRadius-firstRadius+radius), radius*2, radius*2);
-				else
-					parent.ellipse(x+(w/4), drawY-(maxCircleRadius-firstRadius+radius), radius*2, radius*2);
+		parent.noStroke();
+		System.out.println();
+		for(String bucket: totals.keySet()){
+			System.out.println(bucket);
+			parent.fill(Theme.rgba(DataRow.getColorFor(bucket),150));
+			float percent= (float)totals.get(bucket)/displayData.getDatum().size();
+			parent.rect(x+buffer, drawY-percent*(h-buffer*2), 20, percent*(h-buffer*2));
+			drawY -= percent*(h-buffer*2);
+		}
+		drawY = y + h - buffer;
+
+		for (String country : computedValues.keySet()) {
+
+			parent.fill(Theme.rgba(DataRow.getColorFor(country), 100));
+			parent.stroke(Theme.rgba(DataRow.getColorFor(country), 150));
+			if (right){
+				parent.fill(Theme.rgba(DataRow.getColorFor(country), 100));
+				parent.stroke(Theme.rgba(DataRow.getColorFor(country), 150));
+				parent.rect(x + w / 2 + offset / 2, drawY - maxCircleRadius * 2, maxCircleRadius * 2, maxCircleRadius * 2);
 			}
-			if(right)
-				drawY -= maxCircleRadius*2;	
+			else
+				parent.rect(x + w / 2 - offset / 2 - maxCircleRadius * 2, drawY - maxCircleRadius * 2, maxCircleRadius * 2, maxCircleRadius * 2);
+
+			float firstRadius = 0;
+			
+			for (String bucket : computedValues.get(country).keySet()) {
+
+				if (firstRadius == 0)
+					firstRadius = getCircleRadius(computedValues.get(country) .get(bucket));
+
+				parent.fill(Theme.rgba(DataRow.getColorFor(bucket), 100));
+				parent.stroke(Theme.rgba(DataRow.getColorFor(bucket), 250));
+
+				float radius = getCircleRadius(computedValues.get(country).get(bucket));
+				if (right) {
+					parent.ellipse(x + w / 2 + offset / 2 + maxCircleRadius,
+							drawY-radius,
+							radius * 2, radius * 2);
+				} else
+
+					parent.ellipse(x + w / 2 - offset / 2 - maxCircleRadius,
+							drawY -radius,
+							radius * 2, radius * 2);
+			}
+
+			if (right)
+				drawY -= maxCircleRadius * 2 + offset;
+			
 			right = !right;
 		}
-		
+
 	}
-	
+
 	/*
 	 * All of th scaling is done with the formula of:
 	 * 
@@ -97,83 +131,81 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 	 */
 	// [min,max] = [0,maxVal] -> [a,b] = [0,maxArea]
 	private float getCircleRadius(double count) {
-		float maxDiameter = Math.min( (float) ((h-buffer*2) / (Math.ceil(computedGrid.length/2.0))), (w-buffer*2)/2 );
-		
-		double maxArea = Math.PI*Math.pow(maxDiameter/2, 2);
-		
-		float area = (float)(maxArea * count/maxVal);
-		return (float)(Math.sqrt(area/Math.PI));
+		float maxDiameter = Math.min(
+				(float) ((h - buffer * 2 - offset
+						* (Math.ceil(computedValues.size() / 2.0) - 1)) / (Math
+						.ceil(computedValues.size() / 2.0))),
+				(w - buffer * 2 - offset * 2) / 2);
+
+		double maxArea = Math.PI * Math.pow(maxDiameter / 2, 2);
+
+		float area = (float) (maxArea * count / maxVal);
+		return (float) (Math.sqrt(area / Math.PI));
+	}
+
+	// area = piR2
+	private void computeMaxVal() {
+		/*
+		 * for(double[] d: computedGrid) if(d[0] > maxVal) maxVal = d[0];
+		 */
+		for (HashMap<String, Integer> countryTable : computedValues.values()) {
+			for (Integer i : countryTable.values()) {
+				if (i > maxVal)
+					maxVal = i;
+			}
+		}
 	}
 	
-	//area = piR2
-	private void computeMaxVal(){
-		for(double[] d: computedGrid)
-			if(d[0] > maxVal)
-				maxVal = d[0];
+	private void calculateTotals(){
+		for (HashMap<String, Integer> countryTable : computedValues.values()) {
+			for (String bucket : countryTable.keySet()) {
+				if (totals.containsKey(bucket)){
+					totals.put(bucket, totals.get(bucket) + countryTable.get(bucket));
+				}
+				else{
+					totals.put(bucket, countryTable.get(bucket));
+				}
+			}
+		}
 	}
 	
-	private void computeData(){
+	
+	private void computeData() {
+		computedValues = new HashMap<String, HashMap<String, Integer>>();
+		totals = new HashMap<String, Integer>();
+		
 		ArrayList<DataRow> list = new ArrayList<DataRow>(displayData.getDatum());
 		Collections.sort(list, dataComp);
-		
-		if(nominal){
-			int numBuckets = 0;
-			if(dataType.equals(DataRow.DEPENDENCY))
-				numBuckets = 3;
-			else
-				numBuckets = 5;
-			
-			computedGrid = new double[DataRow.Continent.values().length][numBuckets];
-			
-			int contIndex = 0;
-			String contName = list.get(0).getValue(DataRow.CONTINENT).toString();
-			int bucketIndex = 0;
-			String bucketName = list.get(0).getValue(dataType).toString();
-			//System.out.println("BucketName: " +bucketName);
-			
-			for(int i=0; i<list.size(); i++){
-				//current continent we're at
-				String curContName = list.get(i).getValue(DataRow.CONTINENT).toString();
-				//current "bucket" we're at
-				String curBucketName = list.get(i).getValue(dataType).toString();
-				//check if we're on the same continent
-				if(contName.equals(curContName)){
-					//if we're not on the same bucket, increment the bucket index
-					if(!bucketName.equals(curBucketName)){
-						bucketName = curBucketName;
-						bucketIndex++;
-						//System.out.println(bucketIndex);
-					}
+
+		for (DataRow quake : list) {
+			// if we already have data from this continent
+			String continent = quake.getValue(DataRow.CONTINENT).toString();
+			String bucket = quake.getValue(dataType).toString();
+
+			if (computedValues.containsKey(continent)) {
+				if (computedValues.get(continent).containsKey(bucket)) {
+					int value = computedValues.get(continent).get(bucket);
+					computedValues.get(continent).put(bucket, ++value);
 				}
-				//if we're not on the same continent, increment the continent index and reset the bucket info
 				else{
-					contIndex++;
-					bucketIndex = 0;
-					bucketName = curBucketName;
-					contName = curContName;
+					computedValues.get(continent).put(bucket, 1);
 				}
-				
-				//increment the count
-				computedGrid[contIndex][bucketIndex]++;
 			}
-		}
-		for(double[] d: computedGrid){
-			Arrays.sort(d);
-			for(int i=0; i<d.length/2; i++){
-				double temp = d[d.length-1 -i];
-				d[d.length-1-i] = d[i];
-				d[i] = temp;
+			// if we don't already have this continent
+			else {
+				computedValues.put(continent, new HashMap<String, Integer>());
+				computedValues.get(continent).put(bucket, 1);
 			}
-			System.out.println(Arrays.toString(d));
 		}
 		
+	
+		calculateTotals();
 		computeMaxVal();
 	}
-	
+
 	@Override
 	public void filterBy(DataSet filteredData) {
-		
-		
+
 	}
 
 }

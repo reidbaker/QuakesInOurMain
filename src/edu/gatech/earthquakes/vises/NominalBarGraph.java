@@ -29,7 +29,7 @@ public class NominalBarGraph extends BarGraph
 
 		//width of the bars - scales based on the number of bars that we have
 		int barW = (w - buffer*2 - 2*numDivisions)/numDivisions;
-		int barX = x+buffer+2;
+		int barX = x+buffer+4;
 		//the scale factor for the height of the bars
 		float heightScale = (h-buffer*2.0f)/calcMax();
 
@@ -40,6 +40,7 @@ public class NominalBarGraph extends BarGraph
 		Collections.sort(sortedKeys);
 		for(String key : sortedKeys){
 			parent.fill(DataRow.getColorFor(key));
+			parent.stroke(Theme.rgba(DataRow.getColorFor(key), 100));
 			parent.rect(barX, y+(h-buffer-bars.get(key)*heightScale), barW, bars.get(key)*heightScale);
 			barX += barW+2;
 			parent.fill(Theme.getDarkUIColor());

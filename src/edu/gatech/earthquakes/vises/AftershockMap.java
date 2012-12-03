@@ -23,15 +23,12 @@ public class AftershockMap extends Individual implements Interactable,
 	private double[] lonRange;
 	private double[] magRange;
 	
-	private DecimalFormat df;
 	private double[] highlightedPos;
 	private DataSet aftershocks;
-	private int buffer = 30;
 	
 	public AftershockMap(int x, int y, int w, int h, DataRow displayData,
 			DataSet filterData) {
 		super(x, y, w, h, displayData);
-		df = new DecimalFormat("0.00");
 		filterBy(filterData);
 	}
 
@@ -52,19 +49,13 @@ public class AftershockMap extends Individual implements Interactable,
 					&& coords[i][1] == highlightedPos[1]) {
 				parent.fill(Theme.getPalletteColor(1) - 0x99000000);
 				parent.stroke(Theme.getPalletteColor(1) - 0x33000000);
-				// parent.text(c[i][0] + "," + c[i][1], x +(float)qx+buffer,
-				// y + h-(float)qy-buffer);
 			} else {
 				parent.fill(Theme.getPalletteColor(0) - 0xAA000000);
 				parent.stroke(Theme.getPalletteColor(0) - 0x66000000);
 			}
 
-			parent.ellipse((float) c[0], (float) c[1],
-					(float) getCircleRadius(m[i])*2, (float) getCircleRadius(m[i])*2);
-			// parent.text(c[i][0] + "," + c[i][1], x +(float)qx+buffer, y +
-			// h-(float)qy-buffer);
-			// System.out.println("Lat: " + c[i][0] + " X: " + x + ", Lon: "
-			// + c[i][1]);
+			parent.ellipse((float) c[0], (float) c[1], (float) getCircleRadius(m[i])*2, (float) getCircleRadius(m[i])*2);
+		
 		}
 
 		drawAxes(parent);
@@ -74,44 +65,43 @@ public class AftershockMap extends Individual implements Interactable,
 		parent.stroke(Theme.getDarkUIColor());
 		parent.noFill();
 
-		/*
-		 * if we want to only have some of the lines parent.line(x+buffer,
-		 * y+buffer, x+ w-buffer, y+buffer); //top parent.line(x+buffer,
-		 * y+h-buffer, x+ w-buffer, y+h-buffer); //bottom parent.line(x+buffer,
-		 * y+buffer, x+ buffer, y+h-buffer); //left parent.line(x+w-buffer,
-		 * y+buffer, x+ w-buffer, y+h-buffer); //right
-		 */
-
 		parent.rect(x + buffer, y + buffer, w - buffer * 2, h - buffer * 2);
 
 		parent.fill(Theme.getDarkUIColor());
-		parent.textSize(8);
+		parent.textSize(w/60);
 
-		// label the edges
-		/*parent.text(df.format(latRange[0]), x + buffer, y + h);
-		parent.text(df.format(latRange[1]), x + w - buffer, y + h);
-		parent.text(df.format(lonRange[0]), x + buffer, y + h - buffer);
-		parent.text(df.format(lonRange[1]), x + buffer, y + buffer);
-		 */
 		// make and label the latitude tick marks
-		double lat = 0;
+		double lon = 0;
 		for (int i = 0; i < (w - buffer * 2); i += 50) {
-			lat = (((latRange[1] - latRange[0]) * i) / (w - buffer * 2))
-					+ latRange[0];
+			lon = (((lonRange[1] - lonRange[0]) * i) / (w - buffer * 2))
+					+ lonRange[0];
 			parent.line(x + buffer + i, y + h - buffer - 2, x + buffer + i, y
 					+ h - buffer + 2);
-			parent.text(df.format(lat), x + buffer + i, y + h - buffer / 4);
+			parent.text(formatDegrees(lon), x + buffer + i, y + h - buffer / 4);
 		}
 
 		// make and label the longitude tick marks
-		double lon = 0;
+		double lat = 0;
 		for (int i = 0; i < (h - buffer * 2); i += 50) {
-			lon = (((lonRange[1] - lonRange[0]) * i) / (h - buffer * 2))
-					+ lonRange[0];
+			lat = (((latRange[1] - latRange[0]) * i) / (h - buffer * 2))
+					+ latRange[0];
 			parent.line(x + buffer - 2, y + h - buffer - i, x + buffer + 2, y
 					+ h - buffer - i);
-			parent.text(df.format(lon), x + buffer / 2, y + h - buffer - i);
+			
+			parent.pushMatrix();
+			parent.translate(x + 2*buffer / 3, y + h - buffer - i);
+			parent.rotate(-PApplet.PI/2);
+			parent.text(formatDegrees(lat),0, 0);
+			parent.popMatrix();
 		}
+	}
+	
+	private String formatDegrees(double lat){
+		String formatted = "";
+		int degree = (int)lat;
+		double minutes = (lat-degree)*60;
+		formatted += degree +"\u00B0 " + (int)minutes + "'";
+		return formatted;
 	}
 
 	private double[][] getCoordinates() {
@@ -196,8 +186,6 @@ public class AftershockMap extends Individual implements Interactable,
 
 			double[][] coords = getCoordinates();
 			double[] mag = getMagnitudes();
-			double qx = 0;
-			double qy = 0;
 			boolean found = false;
 
 			for (int i = 0; i < coords.length && !found; i++) {
@@ -227,12 +215,7 @@ public class AftershockMap extends Individual implements Interactable,
 	 * 
 	 * where [min,max] maps to [a,b]
 	 */
-//	private double getCircleSize(double mag) {
-//		double minSize = 5;
-//		double maxSize = 30;
-//
-//		return (maxSize - minSize) * (mag - 3) / 4 + minSize;
-//	}
+
 	
 	private float getCircleRadius(double mag) {
 		float minDiameter = 5;
@@ -245,10 +228,10 @@ public class AftershockMap extends Individual implements Interactable,
 	}
 
 	private double[] getDrawingCoord(double lat, double lon) {
-		double qx = ((w - buffer * 2) * (lat - latRange[0]))
-				/ (latRange[1] - latRange[0]);
-		double qy = ((h - buffer * 2) * (lon - lonRange[0]))
+		double qx = ((w - buffer * 2) * (lon - lonRange[0]))
 				/ (lonRange[1] - lonRange[0]);
+		double qy = ((h - buffer * 2) * (lat - latRange[0]))
+				/ (latRange[1] - latRange[0]);
 
 		return new double[] { x + qx + buffer, y + h - qy - buffer };
 	}

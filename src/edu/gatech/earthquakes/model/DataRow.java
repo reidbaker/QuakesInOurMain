@@ -13,6 +13,10 @@ public class DataRow {
 				result = c.getColor();
 			}
 		}
+		for(Type t: Type.values()){
+			if(t.toString().equals(enumText))
+				result = t.getColor();
+		}
 		if(result == -1)
 			throw new IllegalArgumentException("Name has no corresponding enum");
 		else

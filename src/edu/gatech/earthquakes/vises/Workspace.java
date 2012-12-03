@@ -42,7 +42,8 @@ public class Workspace extends AbstractVisualization {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-
+		
+		
 		Individual detail = new DetailedInfo(x, y, w, h, mainQuake);
 		Controller.registerVisualization(detail);
 		vises.add(detail);
