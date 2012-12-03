@@ -17,6 +17,8 @@ public class DataRow {
 			if(t.toString().equals(enumText))
 				result = t.getColor();
 		}
+		if(enumText.equals(DEPTH))
+			result = Theme.getPalletteColor(15);
 		if(result == -1)
 			throw new IllegalArgumentException("Name has no corresponding enum");
 		else

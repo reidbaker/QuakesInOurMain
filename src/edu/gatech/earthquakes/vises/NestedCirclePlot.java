@@ -22,24 +22,20 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 	// the thing that will be grouped by after location
 	private String dataType;
 	private DataComparator dataComp;
-	private double[][] computedGrid;
 	private HashMap<String, HashMap<String, Integer>> computedValues;
-	private boolean nominal;
 	private double maxVal = 0;
-	private int offset = 20;
-	private ArrayList<String> bucketNames;
+	private int offset = 25;
+	private boolean nominal = false;
 	private HashMap<String, Integer> totals;
 
-	public NestedCirclePlot(int x, int y, int w, int h, DataSet displayData,
-			String dataType) {
+	public NestedCirclePlot(int x, int y, int w, int h, DataSet displayData, String dataType) {
 		super(x, y, w, h, displayData);
 		this.dataType = dataType;
+		
 		DataComparator.CompareCategories category = null;
-
 		switch (dataType) {
 		case DataRow.MOMENT_MAGNITUDE:
 			category = DataComparator.CompareCategories.MAGNITUDE;
-			nominal = false;
 			break;
 		case DataRow.DEPENDENCY:
 			category = DataComparator.CompareCategories.DEPENDENCY;
@@ -48,31 +44,26 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 		case DataRow.TYPE:
 			category = DataComparator.CompareCategories.TYPE;
 			nominal = true;
-			bucketNames = new ArrayList<String>();
-			for (DataRow.Type t : DataRow.Type.values()) {
-				bucketNames.add(t.toString());
-			}
-			Collections.sort(bucketNames);
 			break;
 		}
-		dataComp = new DataComparator(
-				DataComparator.CompareCategories.CONTINENT, category);
-
-		computeData();
+		
+		dataComp = new DataComparator(DataComparator.CompareCategories.CONTINENT, category);
+		
+		if(nominal)
+			computeNominalData();
+		else
+			computeNumericData();
 	}
 
 	public void drawComponent(PApplet parent) {
 		super.drawComponent(parent);
 
 		float drawY = y + h - buffer;
-		float drawX = x + buffer;
 		float maxCircleRadius = getCircleRadius(maxVal);
 
 		boolean right = false;
 		parent.noStroke();
-		System.out.println();
 		for(String bucket: totals.keySet()){
-			System.out.println(bucket);
 			parent.fill(Theme.rgba(DataRow.getColorFor(bucket),150));
 			float percent= (float)totals.get(bucket)/displayData.getDatum().size();
 			parent.rect(x+buffer, drawY-percent*(h-buffer*2), 20, percent*(h-buffer*2));
@@ -143,11 +134,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 		return (float) (Math.sqrt(area / Math.PI));
 	}
 
-	// area = piR2
 	private void computeMaxVal() {
-		/*
-		 * for(double[] d: computedGrid) if(d[0] > maxVal) maxVal = d[0];
-		 */
 		for (HashMap<String, Integer> countryTable : computedValues.values()) {
 			for (Integer i : countryTable.values()) {
 				if (i > maxVal)
@@ -170,7 +157,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 	}
 	
 	
-	private void computeData() {
+	private void computeNominalData() {
 		computedValues = new HashMap<String, HashMap<String, Integer>>();
 		totals = new HashMap<String, Integer>();
 		
@@ -197,15 +184,45 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 				computedValues.get(continent).put(bucket, 1);
 			}
 		}
-		
+		calculateTotals();
+		computeMaxVal();
+	}
 	
+	private void computeNumericData() {
+		computedValues = new HashMap<String, HashMap<String, Integer>>();
+		totals = new HashMap<String, Integer>();
+		
+		ArrayList<DataRow> list = new ArrayList<DataRow>(displayData.getDatum());
+		Collections.sort(list, dataComp);
+
+		for (DataRow quake : list) {
+			// if we already have data from this continent
+			String continent = quake.getValue(DataRow.CONTINENT).toString();
+			String bucket = quake.getValue(dataType).toString();
+
+			if (computedValues.containsKey(continent)) {
+				if (computedValues.get(continent).containsKey(bucket)) {
+					int value = computedValues.get(continent).get(bucket);
+					computedValues.get(continent).put(bucket, ++value);
+				}
+				else{
+					computedValues.get(continent).put(bucket, 1);
+				}
+			}
+			// if we don't already have this continent
+			else {
+				computedValues.put(continent, new HashMap<String, Integer>());
+				computedValues.get(continent).put(bucket, 1);
+			}
+		}
 		calculateTotals();
 		computeMaxVal();
 	}
 
 	@Override
 	public void filterBy(DataSet filteredData) {
-
+		this.displayData = filteredData;
+		computeNominalData();
 	}
 
 }

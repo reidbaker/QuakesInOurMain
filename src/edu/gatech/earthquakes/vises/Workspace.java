@@ -57,7 +57,7 @@ public class Workspace extends AbstractVisualization {
 		Controller.registerVisualization(aftershock);
 		vises.add(aftershock);
 		
-		Aggregate bars = new NominalBarGraph(x, y, w, h, masterData, DataRow.CONTINENT);
+		Multi bars = new DepthPlot(x, y, w, h, masterData);
 		Controller.registerVisualization(bars);
 		vises.add(bars);
 		

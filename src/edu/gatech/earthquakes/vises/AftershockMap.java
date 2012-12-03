@@ -218,8 +218,8 @@ public class AftershockMap extends Individual implements Interactable,
 
 	
 	private float getCircleRadius(double mag) {
-		float minDiameter = 5;
-		float maxDiameter = 30;
+		float minDiameter = w/12;
+		float maxDiameter = w/10;
 		double maxArea = Math.PI*Math.pow(maxDiameter/2, 2);
 		double minArea = Math.PI*Math.pow(minDiameter/2, 2);
 		

@@ -96,4 +96,12 @@ public class Theme {
 	public static int rgba(int rgb, int a) {
 		return rgb & ((a << 24) | 0xFFFFFF);
 	}
+	
+	public static int changeSaturation(int rgb, float percentage){
+		float[] hsb = getHSB(rgb);
+		hsb[1] = hsb[1]-percentage;
+		if (hsb[1] < 0.0f)
+			hsb[1] = 0.0f;
+		return getRGB(hsb);
+	}
 }
