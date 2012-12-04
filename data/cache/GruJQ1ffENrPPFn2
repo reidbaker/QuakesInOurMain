@@ -1,0 +1,283 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 16 2003 Asia Earthquake",
+    "totalResults": "8",
+    "searchTerms": "Aug 16 2003 Asia Earthquake",
+    "count": 8,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.450572,
+  "formattedSearchTime": "0.45",
+  "totalResults": "8",
+  "formattedTotalResults": "8"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "htmlTitle": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "link": "http://www.google.com/patents/US4650368",
+   "displayLink": "www.google.com",
+   "snippet": "US6619884, May 4, 2001, Sep 16, 2003, Beaver Bags, Inc. Barrier device and ...   Versa-Lok Asia Inc. Retaining wall system with interlocked wall-building units ...",
+   "htmlSnippet": "US6619884, May 4, 2001, \u003cb\u003eSep 16\u003c/b\u003e, \u003cb\u003e2003\u003c/b\u003e, Beaver Bags, Inc. Barrier device and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Versa-Lok \u003cb\u003eAsia\u003c/b\u003e Inc. Retaining wall system with interlocked wall-building units \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4650368",
+   "htmlFormattedUrl": "www.google.com/patents/US4650368",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR78_gi9yedYhVl783bhQwJ-UKQQWxmI91Xmh0hfc7LqIqLE_Fjr84W0Kc"
+     }
+    ],
+    "book": [
+     {
+      "description": "A flood water containment bag constructed of lightweight, inexpensive porous material with a quantity of water absorbent material therein which increases substantially in volume and weight...",
+      "url": "http://www.google.com/patents/US4650368?utm_source=gb-gplus-share",
+      "name": "Patent US4650368 - Flood water containment bag",
+      "image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4650368",
+      "title": "Patent US4650368 - Flood water containment bag",
+      "og:title": "Patent US4650368 - Flood water containment bag",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6809276 - Inertially activated switch - Google Patents",
+   "htmlTitle": "Patent US6809276 - Inertially activated switch - Google Patents",
+   "link": "http://www.google.com/patents/US6809276",
+   "displayLink": "www.google.com",
+   "snippet": "Filing date: Dec 8, 2003 ... US4359722, Jun 12, 1979, Nov 16, 1982, Earthquake   detection system with pendulum switch. US4412205, Aug 24, 1981, Oct 25, 1983,   Guilden Development Corp. ... US5866987, Jun 24, 1996, Feb 2, 1999, East Asia   Services Ltd. Motion activated illluminating footwear and light module therefor ...",
+   "htmlSnippet": "Filing date: Dec 8, \u003cb\u003e2003\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US4359722, Jun 12, 1979, Nov \u003cb\u003e16\u003c/b\u003e, 1982, \u003cb\u003eEarthquake\u003c/b\u003e \u003cbr\u003e  detection system with pendulum switch. US4412205, \u003cb\u003eAug\u003c/b\u003e 24, 1981, Oct 25, 1983, \u003cbr\u003e  Guilden Development Corp. \u003cb\u003e...\u003c/b\u003e US5866987, Jun 24, 1996, Feb 2, 1999, East \u003cb\u003eAsia\u003c/b\u003e \u003cbr\u003e  Services Ltd. Motion activated illluminating footwear and light module therefor \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6809276",
+   "htmlFormattedUrl": "www.google.com/patents/US6809276",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=WBURAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVVbpcVl-kNgdMEUI4Jib97T6PreDQ8Iy-LinYd1mcx80sZIWn36c2oQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A switch according to this invention is particularly intended for use with articles of footwear as part of a light module which also includes one or more batteries, an integrated circuit and...",
+      "url": "http://www.google.com/patents/US6809276?utm_source=gb-gplus-share",
+      "name": "Patent US6809276 - Inertially activated switch",
+      "image": "http://www.google.com/patents?id=WBURAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6809276",
+      "title": "Patent US6809276 - Inertially activated switch",
+      "og:title": "Patent US6809276 - Inertially activated switch",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=WBURAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5098107 - Method and apparatus for playing a wagering ...",
+   "htmlTitle": "Patent US5098107 - Method and apparatus for playing a wagering \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5098107",
+   "displayLink": "www.google.com",
+   "snippet": "US4222572, Dec 6, 1978, Sep 16, 1980, Card deck and game board ....   US6604741, Jul 19, 2002, Aug 12, 2003, Shuffle Master, Inc. Split card ....   US7455297, Aug 12, 2005, Nov 25, 2008, Asia poker with three hands per player   .... USD529100, Jun 21, 2004, Sep 26, 2006, Earthquake Productions LLC,   Gaming tablet ...",
+   "htmlSnippet": "US4222572, Dec 6, 1978, \u003cb\u003eSep 16\u003c/b\u003e, 1980, Card deck and game board \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  US6604741, Jul 19, 2002, \u003cb\u003eAug\u003c/b\u003e 12, \u003cb\u003e2003\u003c/b\u003e, Shuffle Master, Inc. Split card \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  US7455297, \u003cb\u003eAug\u003c/b\u003e 12, 2005, Nov 25, 2008, \u003cb\u003eAsia\u003c/b\u003e poker with three hands per player \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e USD529100, Jun 21, 2004, \u003cb\u003eSep\u003c/b\u003e 26, 2006, \u003cb\u003eEarthquake\u003c/b\u003e Productions LLC, \u003cbr\u003e  Gaming tablet \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5098107",
+   "htmlFormattedUrl": "www.google.com/patents/US5098107",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=0SAqAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2HIi5HUI4LURfNjmWmQNCQ_OKTZeFNZhAOiKE6i0kP39JxYM9Cx9e7w"
+     }
+    ],
+    "book": [
+     {
+      "description": "A method and apparatus for playing a wagering game include a usual play of the game whose outcome is determined by a selection of usual randomly generated symbols. Added to the usual symbols...",
+      "url": "http://www.google.com/patents/US5098107?utm_source=gb-gplus-share",
+      "name": "Patent US5098107 - Method and apparatus for playing a wagering game",
+      "image": "http://www.google.com/patents?id=0SAqAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5098107",
+      "title": "Patent US5098107 - Method and apparatus for playing a wagering game",
+      "og:title": "Patent US5098107 - Method and apparatus for playing a wagering game",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=0SAqAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007   ... August. Sun co-founder Andy Bechtolsheim writes a check for $100,000 to an   .... to attract the best and brightest among Japanese and other Asian engineers.   .... We feature 16 April Fools' jokes from our offices around the world, including   the ...",
+   "htmlSnippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? \u003cb\u003e2003\u003c/b\u003e ?? 2004 ?? 2005 ?? 2006 ?? 2007 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e. Sun co-founder Andy Bechtolsheim writes a check for $100,000 to an \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e to attract the best and brightest among Japanese and other \u003cb\u003eAsian\u003c/b\u003e engineers. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e We feature \u003cb\u003e16\u003c/b\u003e April Fools&#39; jokes from our offices around the world, including \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/intl/en_uk/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007   ... August. Sun co-founder Andy Bechtolsheim writes a cheque for $100,000 to an   .... to attract the best and brightest among Japanese and other Asian engineers.   .... We feature 16 April Fools' jokes from our offices around the world, including ...",
+   "htmlSnippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? \u003cb\u003e2003\u003c/b\u003e ?? 2004 ?? 2005 ?? 2006 ?? 2007 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e. Sun co-founder Andy Bechtolsheim writes a cheque for $100,000 to an \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e to attract the best and brightest among Japanese and other \u003cb\u003eAsian\u003c/b\u003e engineers. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e We feature \u003cb\u003e16\u003c/b\u003e April Fools&#39; jokes from our offices around the world, including \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Uz9ka1X37zwJ",
+   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8275695 - Enhanced parimutuel wagering - Google Patents",
+   "htmlTitle": "Patent US8275695 - Enhanced parimutuel wagering - Google Patents",
+   "link": "http://www.google.com/patents/US8275695",
+   "displayLink": "www.google.com",
+   "snippet": "16. The method according to claim 15 , further comprising the step of: ..... 13,   2003, which issued as U.S. Pat. No. ...... or after a catastrophic event of a certain   magnitude (e.g., an earthquake of a ...... 18, 1999, Market Open; Trading End   Date: Aug. ...... Examples of exotic derivatives include American options, Asian   options, ...",
+   "htmlSnippet": "\u003cb\u003e16\u003c/b\u003e. The method according to claim 15 , further comprising the step of: \u003cb\u003e.....\u003c/b\u003e 13, \u003cbr\u003e  \u003cb\u003e2003\u003c/b\u003e, which issued as U.S. Pat. No. \u003cb\u003e......\u003c/b\u003e or after a catastrophic event of a certain \u003cbr\u003e  magnitude (e.g., an \u003cb\u003eearthquake\u003c/b\u003e of a \u003cb\u003e......\u003c/b\u003e 18, 1999, Market Open; Trading End \u003cbr\u003e  Date: \u003cb\u003eAug\u003c/b\u003e. \u003cb\u003e......\u003c/b\u003e Examples of exotic derivatives include American options, \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  options, \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8275695",
+   "htmlFormattedUrl": "www.google.com/patents/US8275695",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "book": [
+     {
+      "description": "Methods and systems for engaging in enhanced parimutuel wagering and gaming. In one embodiment, different types of bets can be offered and processed in the same betting pool on an underlying...",
+      "url": "http://www.google.com/patents/US8275695?utm_source=gb-gplus-share",
+      "name": "Patent US8275695 - Enhanced parimutuel wagering",
+      "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8275695",
+      "title": "Patent US8275695 - Enhanced parimutuel wagering",
+      "og:title": "Patent US8275695 - Enhanced parimutuel wagering",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Third World America",
+   "htmlTitle": "Third World America",
+   "link": "http://www.google.com/maps/ms?hl=en&ie=UTF8&oe=UTF8&msa=0&output=kml&msid=112243063782381895276.00048d03984c9e3cb8b7e",
+   "displayLink": "www.google.com",
+   "snippet": "Sep 4, 2010 ... I have not worked a real full-time position since August 17, 2007. ..... I worked my   way up over 16 years and eventually became the Senior Financial Officer ...... all   jobs to India/Africa/Asia, there would be jobs for young Americans. ...... Laid off in   2003, cared for stroke ridden mother, unable to get work since.",
+   "htmlSnippet": "Sep 4, 2010 \u003cb\u003e...\u003c/b\u003e I have not worked a real full-time position since \u003cb\u003eAugust\u003c/b\u003e 17, 2007. \u003cb\u003e.....\u003c/b\u003e I worked my \u003cbr\u003e  way up over \u003cb\u003e16\u003c/b\u003e years and eventually became the Senior Financial Officer \u003cb\u003e......\u003c/b\u003e all \u003cbr\u003e  jobs to India/Africa/\u003cb\u003eAsia\u003c/b\u003e, there would be jobs for young Americans. \u003cb\u003e......\u003c/b\u003e Laid off in \u003cbr\u003e  \u003cb\u003e2003\u003c/b\u003e, cared for stroke ridden mother, unable to get work since.",
+   "cacheId": "6BqVvJbu8kIJ",
+   "mime": "application/vnd.google-earth.kml+xml",
+   "fileFormat": "KML Document",
+   "formattedUrl": "www.google.com/maps/ms?hl=en&ie=UTF8&oe=UTF8...",
+   "htmlFormattedUrl": "www.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.huffingtonpost.com/huffl/278/8312.jpg?1284153281"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBJ9lrR7pKM_jLhVvuwsNUSjOdx_zE-JJyInLg6UG3BsKRxGK1IgNg4U"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ang aming kasaysayan nang mas detalyado ??? Kumpanya ??? Google",
+   "htmlTitle": "Ang aming kasaysayan nang mas detalyado ??? Kumpanya ??? Google",
+   "link": "http://www.google.com/intl/fil/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007 ??   2008 .... share ng Class A na karaniwang stock ay naganap sa Wall Street noong   August 18. ... at pinakamagaling sa mga Japanese at ibang engineer sa Asia. .....   Nagtampok kami ng 16 na April Fools' joke mula sa aming mga tanggapan sa ...",
+   "htmlSnippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? \u003cb\u003e2003\u003c/b\u003e ?? 2004 ?? 2005 ?? 2006 ?? 2007 ?? \u003cbr\u003e  2008 \u003cb\u003e....\u003c/b\u003e share ng Class A na karaniwang stock ay naganap sa Wall Street noong \u003cbr\u003e  \u003cb\u003eAugust\u003c/b\u003e 18. \u003cb\u003e...\u003c/b\u003e at pinakamagaling sa mga Japanese at ibang engineer sa \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Nagtampok kami ng \u003cb\u003e16\u003c/b\u003e na April Fools&#39; joke mula sa aming mga tanggapan sa \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "55WSiyglUqEJ",
+   "formattedUrl": "www.google.com/intl/fil/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/intl/fil/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  }
+ ]
+}
