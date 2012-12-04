@@ -1,0 +1,345 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 3 1972 North America Earthquake",
+    "totalResults": "8",
+    "searchTerms": "Feb 3 1972 North America Earthquake",
+    "count": 8,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.425874,
+  "formattedSearchTime": "0.43",
+  "totalResults": "8",
+  "formattedTotalResults": "8"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4635892 - Active vibration suppressor - Google Patents",
+   "htmlTitle": "Patent US4635892 - Active vibration suppressor - Google Patents",
+   "link": "http://www.google.com/patents/US4635892",
+   "displayLink": "www.google.com",
+   "snippet": "Movement of the structure is sensed and the actuator moves the seismic mass in   a ... US3690607, Feb 16, 1970, Sep 1, 1972, VIBRATION ISOLATION SYSTEM ...   US4483425, Sep 9, 1982, Nov 20, 1984, North American Philips Corporation ...   US4795123, May 14, 1987, Jan 3, 1989, The United States of America as ...",
+   "htmlSnippet": "Movement of the structure is sensed and the actuator moves the \u003cb\u003eseismic\u003c/b\u003e mass in \u003cbr\u003e  a \u003cb\u003e...\u003c/b\u003e US3690607, \u003cb\u003eFeb\u003c/b\u003e 16, 1970, Sep 1, \u003cb\u003e1972\u003c/b\u003e, VIBRATION ISOLATION SYSTEM \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4483425, Sep 9, 1982, Nov 20, 1984, \u003cb\u003eNorth American\u003c/b\u003e Philips Corporation \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4795123, May 14, 1987, Jan \u003cb\u003e3\u003c/b\u003e, 1989, The United States of America as \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4635892",
+   "htmlFormattedUrl": "www.google.com/patents/US4635892",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=gts1AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjuZZ2ZH1rMQRJDYCLS9xeE6Gv-S8Lp7jleQjHjrznKZfc8BT9zGpM9A"
+     }
+    ],
+    "book": [
+     {
+      "description": "An active vibration suppressor for suppressing vibrations in structures, such as buildings, has an actuator attached to the structure and an extendable rod of the actuator attached to a seismic...",
+      "url": "http://www.google.com/patents/US4635892?utm_source=gb-gplus-share",
+      "name": "Patent US4635892 - Active vibration suppressor",
+      "image": "http://www.google.com/patents?id=gts1AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4635892",
+      "title": "Patent US4635892 - Active vibration suppressor",
+      "og:title": "Patent US4635892 - Active vibration suppressor",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=gts1AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent USD573369 - Moveable stand-alone wire display and - Google",
+   "htmlTitle": "Patent USD573369 - Moveable stand-alone wire display and - Google",
+   "link": "http://www.google.com/patents/USD573369",
+   "displayLink": "www.google.com",
+   "snippet": "Cited Patent, Filing date, Issue date, Original Assignee, Title.",
+   "htmlSnippet": "Cited Patent, Filing date, Issue date, Original Assignee, Title.",
+   "formattedUrl": "www.google.com/patents/USD573369",
+   "htmlFormattedUrl": "www.google.com/patents/USD573369",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=YFOrAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQduH58cJz9Jlt99gABJOAl704H4zJtIK5kZHeT36oPZdYgKURriJofrCg"
+     }
+    ],
+    "book": [
+     {
+      "description": "www.google.com",
+      "url": "http://www.google.com/patents/USD573369?utm_source=gb-gplus-share",
+      "name": "Patent USD573369 - Moveable stand-alone wire display and shelving unit",
+      "image": "http://www.google.com/patents?id=YFOrAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/USD573369",
+      "title": "Patent USD573369 - Moveable stand-alone wire display and shelving unit",
+      "og:title": "Patent USD573369 - Moveable stand-alone wire display and shelving unit",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=YFOrAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6427815 - Method and device for reducing vibrations ...",
+   "htmlTitle": "Patent US6427815 - Method and device for reducing vibrations \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6427815",
+   "displayLink": "www.google.com",
+   "snippet": "... 1969, Jul 1, 1972, METHOD OF MEASURING VIBRATION   CHARACTERISTICS OF ... US4483425, Sep 9, 1982, Nov 20, 1984, North   American Philips Corporation ... for accelerating response time of active mass   damper earthquake attenuator ... US5713163, Jan 16, 1996, Feb 3, 1998,   Ishikawajima-Harima Heavy ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e 1969, Jul 1, \u003cb\u003e1972\u003c/b\u003e, METHOD OF MEASURING VIBRATION \u003cbr\u003e  CHARACTERISTICS OF \u003cb\u003e...\u003c/b\u003e US4483425, Sep 9, 1982, Nov 20, 1984, \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerican\u003c/b\u003e Philips Corporation \u003cb\u003e...\u003c/b\u003e for accelerating response time of active mass \u003cbr\u003e  damper \u003cb\u003eearthquake\u003c/b\u003e attenuator \u003cb\u003e...\u003c/b\u003e US5713163, Jan 16, 1996, \u003cb\u003eFeb 3\u003c/b\u003e, 1998, \u003cbr\u003e  Ishikawajima-Harima Heavy \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6427815",
+   "htmlFormattedUrl": "www.google.com/patents/US6427815",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=CccJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNFIvbv7FmFN_C2wHW2nVcmM6HyYtyaPdnENL962Ilui83wRWmJLXJQA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A device and method for reducing vibrations of a structure along an axis of vibration propagation, in particular in a helicopter, wherein two vibrating members of masses m1 and m2 are located...",
+      "url": "http://www.google.com/patents/US6427815?utm_source=gb-gplus-share",
+      "name": "Patent US6427815 - Method and device for reducing vibrations",
+      "image": "http://www.google.com/patents?id=CccJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6427815",
+      "title": "Patent US6427815 - Method and device for reducing vibrations",
+      "og:title": "Patent US6427815 - Method and device for reducing vibrations",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=CccJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5015123 - Method and apparatus for installation of - Google",
+   "htmlTitle": "Patent US5015123 - Method and apparatus for installation of - Google",
+   "link": "http://www.google.com/patents/US5015123",
+   "displayLink": "www.google.com",
+   "snippet": "US3643005, Aug 5, 1970, 1972, CONDUIT WITH SPACER ... US3936380, Jul 15  , 1974, Feb 3, 1976, Means to counteract a clogging of drain pipes ... 1974, Apr   27, 1976, Earthquake fault zone pipeline construction method and arrangement   ... US6991408, Apr 29, 2003, Jan 31, 2006, North American Profill Products Inc.",
+   "htmlSnippet": "US3643005, Aug 5, 1970, \u003cb\u003e1972\u003c/b\u003e, CONDUIT WITH SPACER \u003cb\u003e...\u003c/b\u003e US3936380, Jul 15\u003cbr\u003e  , 1974, \u003cb\u003eFeb 3\u003c/b\u003e, 1976, Means to counteract a clogging of drain pipes \u003cb\u003e...\u003c/b\u003e 1974, Apr \u003cbr\u003e  27, 1976, \u003cb\u003eEarthquake\u003c/b\u003e fault zone pipeline construction method and arrangement \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US6991408, Apr 29, 2003, Jan 31, 2006, \u003cb\u003eNorth American\u003c/b\u003e Profill Products Inc.",
+   "formattedUrl": "www.google.com/patents/US5015123",
+   "htmlFormattedUrl": "www.google.com/patents/US5015123",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=WW8jAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8noIoDugTSdDWx5NeEDzxC_Tf3KWHGW0JUhgA_dESZRuTfdxQb4KdvQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A preassembled unit for a sewage nitrification field has minimum outward dimensions of loose, lightweight plastic aggregate material enveloped and bound by a plastic sleeve around a horizontal...",
+      "url": "http://www.google.com/patents/US5015123?utm_source=gb-gplus-share",
+      "name": "Patent US5015123 - Method and apparatus for installation of drainage field",
+      "image": "http://www.google.com/patents?id=WW8jAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5015123",
+      "title": "Patent US5015123 - Method and apparatus for installation of drainage field",
+      "og:title": "Patent US5015123 - Method and apparatus for installation of drainage field",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=WW8jAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5992094 - Access control vestibule - Google Patents",
+   "htmlTitle": "Patent US5992094 - Access control vestibule - Google Patents",
+   "link": "http://www.google.com/patents/US5992094",
+   "displayLink": "www.google.com",
+   "snippet": "US3669038, Aug 11, 1969, 1972, ORDER TRANSFER ASSEMBLY FOR ...   US5644236, Mar 31, 1995, Jul 1, 1997, New Holland North America, Inc. Method   ... US7375646, May 5, 2006, May 20, 2008, Seismic detection and response   system ... US7889076, Aug 3, 2006, Feb 15, 2011, Symmetric multiple sensing   apparatus ...",
+   "htmlSnippet": "US3669038, Aug 11, 1969, \u003cb\u003e1972\u003c/b\u003e, ORDER TRANSFER ASSEMBLY FOR \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5644236, Mar 31, 1995, Jul 1, 1997, New Holland \u003cb\u003eNorth America\u003c/b\u003e, Inc. Method \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US7375646, May 5, 2006, May 20, 2008, \u003cb\u003eSeismic\u003c/b\u003e detection and response \u003cbr\u003e  system \u003cb\u003e...\u003c/b\u003e US7889076, Aug \u003cb\u003e3\u003c/b\u003e, 2006, \u003cb\u003eFeb\u003c/b\u003e 15, 2011, Symmetric multiple sensing \u003cbr\u003e  apparatus \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5992094",
+   "htmlFormattedUrl": "www.google.com/patents/US5992094",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg6fhB5aDCQzLpvMx_AVG57c8belf9X2C-yP7uIpJPD4wNA8FCx7JJgQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "An access control chamber security system with a security chamber having an aluminum frame and an entrance door and an exit door, a metal detector located within the access control chamber...",
+      "url": "http://www.google.com/patents/US5992094?utm_source=gb-gplus-share",
+      "name": "Patent US5992094 - Access control vestibule",
+      "image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5992094",
+      "title": "Patent US5992094 - Access control vestibule",
+      "og:title": "Patent US5992094 - Access control vestibule",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5043033 - Process of improving the strength of existing ...",
+   "htmlTitle": "Patent US5043033 - Process of improving the strength of existing \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5043033",
+   "displayLink": "www.google.com",
+   "snippet": "US3690110, Apr 9, 1970, 1972, REPAIRING OR REHABILITATING STEEL ...   US5218810, Feb 25, 1992, Jun 15, 1993, Hexcel Corporation, Fabric reinforced   ... of making fabric reinforced concrete columns to provide earthquake protection   ... Jeda/America, Inc. Reversible decorative tile and method of finishing same in   situ ...",
+   "htmlSnippet": "US3690110, Apr 9, 1970, \u003cb\u003e1972\u003c/b\u003e, REPAIRING OR REHABILITATING STEEL \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5218810, \u003cb\u003eFeb\u003c/b\u003e 25, 1992, Jun 15, 1993, Hexcel Corporation, Fabric reinforced \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e of making fabric reinforced concrete columns to provide \u003cb\u003eearthquake\u003c/b\u003e protection \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Jeda/\u003cb\u003eAmerica\u003c/b\u003e, Inc. Reversible decorative tile and method of finishing same in \u003cbr\u003e  situ \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5043033",
+   "htmlFormattedUrl": "www.google.com/patents/US5043033",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=zIAhAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHgQz5oW1rFGZnLFBzDABSYmqBZqA86p1jGm-_Y2kmQRHWmHyAp70xfg"
+     }
+    ],
+    "book": [
+     {
+      "description": "In a concrete column supporting an overhead load and having a base end resting on a surface, a process of strengthening the column to increase its ability to withstand atypical physical loading...",
+      "url": "http://www.google.com/patents/US5043033?utm_source=gb-gplus-share",
+      "name": "Patent US5043033 - Process of improving the strength of existing concrete support columns",
+      "image": "http://www.google.com/patents?id=zIAhAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5043033",
+      "title": "Patent US5043033 - Process of improving the strength of existing concrete support columns",
+      "og:title": "Patent US5043033 - Process of improving the strength of existing concrete support columns",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=zIAhAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4258421 - Vehicle monitoring and recording system ...",
+   "htmlTitle": "Patent US4258421 - Vehicle monitoring and recording system \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4258421",
+   "displayLink": "www.google.com",
+   "snippet": "US3702989, Mar 12, 1971, Nov 1, 1972, SELECTIVE DATA HANDLING   APPARATUS ... States of America as represented by the Secretary of the Interior,   General earthquake ... US4843575, Feb 3, 1986, Jun 27, 1989, Interactive   dynamic real-time ..... US6366848, Sep 19, 2000, Apr 2, 2002, Volvo Trucks   North America, Inc.",
+   "htmlSnippet": "US3702989, Mar 12, 1971, Nov 1, \u003cb\u003e1972\u003c/b\u003e, SELECTIVE DATA HANDLING \u003cbr\u003e  APPARATUS \u003cb\u003e...\u003c/b\u003e States of America as represented by the Secretary of the Interior, \u003cbr\u003e  General \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US4843575, \u003cb\u003eFeb 3\u003c/b\u003e, 1986, Jun 27, 1989, Interactive \u003cbr\u003e  dynamic real-time \u003cb\u003e.....\u003c/b\u003e US6366848, Sep 19, 2000, Apr 2, 2002, Volvo Trucks \u003cbr\u003e  \u003cb\u003eNorth America\u003c/b\u003e, Inc.",
+   "formattedUrl": "www.google.com/patents/US4258421",
+   "htmlFormattedUrl": "www.google.com/patents/US4258421",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWpHD7PzKDd_q-rDLXqpM3vxbvPz1rlYUI4KESDu5j3m9Fzfb-2aNKfA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A device monitoring and recording system is described which is particularly applicable to on-board vehicle monitoring and recording of operating engine parameters. The system comprises a plurality...",
+      "url": "http://www.google.com/patents/US4258421?utm_source=gb-gplus-share",
+      "name": "Patent US4258421 - Vehicle monitoring and recording system",
+      "image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4258421",
+      "title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "htmlTitle": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV-eRaZ-tBHsbnSjwuJUSQ0iqNhk",
+   "displayLink": "www.google.com",
+   "snippet": "To leave behind the acrimony that characterizes the North/South divide ..... by   Space Objects (1972), - the Convention on Registration of Objects Launched into   ...... for Trade Karel de Gucht - Alan Seatter, Director for North America in   Directorate ...... Following the consultation on February 3, Japanese Delegate   Hayakawa ...",
+   "htmlSnippet": "To leave behind the acrimony that characterizes the North/South divide \u003cb\u003e.....\u003c/b\u003e by \u003cbr\u003e  Space Objects (\u003cb\u003e1972\u003c/b\u003e), - the Convention on Registration of Objects Launched into \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e for Trade Karel de Gucht - Alan Seatter, Director for \u003cb\u003eNorth America\u003c/b\u003e in \u003cbr\u003e  Directorate \u003cb\u003e......\u003c/b\u003e Following the consultation on \u003cb\u003eFebruary 3\u003c/b\u003e, Japanese Delegate \u003cbr\u003e  Hayakawa \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV..."
+  }
+ ]
+}
