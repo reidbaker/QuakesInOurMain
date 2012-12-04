@@ -1,7 +1,5 @@
 package edu.gatech.earthquakes.vises;
 
-import java.awt.Frame;
-import java.awt.Insets;
 import java.awt.Rectangle;
 
 import processing.core.PApplet;
@@ -18,7 +16,7 @@ public abstract class AbstractVisualization implements Drawable, Resizable {
     private boolean undecorated;
 
     private final int FRAME_TOP = 30, FRAME_BOTTOM = 2, FRAME_LEFT = 2,
-	    FRAME_RIGHT = 2, CORNER_SIZE = 25, BASE_INSET = 2;
+	    FRAME_RIGHT = 2, CORNER_RADIUS = 25, BASE_INSET = 2;
 
     public AbstractVisualization(int x, int y, int w, int h) {
 	this(x, y, w, h, "Abstract Vis - FIX ME");
@@ -40,36 +38,37 @@ public abstract class AbstractVisualization implements Drawable, Resizable {
 	if (!undecorated) {
 	    parent.noStroke();
 	    parent.fill(Theme.rgba(Theme.getBrightUIColor(), 0x66));
-	    parent.rect(fb.x + BASE_INSET + CORNER_SIZE, fb.y + BASE_INSET,
-		    fb.width - 2 * BASE_INSET - CORNER_SIZE, CORNER_SIZE);
-	    parent.rect(fb.x + BASE_INSET, fb.y + BASE_INSET + CORNER_SIZE,
-		    fb.width - 2 * BASE_INSET, FRAME_TOP - CORNER_SIZE);
+	    parent.rect(fb.x + BASE_INSET + CORNER_RADIUS, fb.y + BASE_INSET,
+		    fb.width - 2 * BASE_INSET - CORNER_RADIUS, CORNER_RADIUS);
+	    parent.rect(fb.x + BASE_INSET, fb.y + BASE_INSET + CORNER_RADIUS,
+		    fb.width - 2 * BASE_INSET, FRAME_TOP - CORNER_RADIUS);
 
 	    parent.stroke(Theme.getBaseUIColor());
-	    parent.arc(fb.x + BASE_INSET + CORNER_SIZE, fb.y + BASE_INSET
-		    + CORNER_SIZE, 2*CORNER_SIZE, 2*CORNER_SIZE, PApplet.PI,
-		    PApplet.PI + PApplet.HALF_PI);
+	    parent.strokeWeight(2);
+	    parent.arc(fb.x + BASE_INSET + CORNER_RADIUS, fb.y + BASE_INSET
+		    + CORNER_RADIUS, 2 * CORNER_RADIUS, 2 * CORNER_RADIUS,
+		    PApplet.PI, PApplet.PI + PApplet.HALF_PI);
 
 	    parent.noFill();
 	    parent.strokeCap(PApplet.ROUND);
 	    parent.strokeJoin(PApplet.ROUND);
-	    parent.strokeWeight(2);
 	    // border around left, bottom, right;
 	    parent.beginShape();
-	    parent.vertex(fb.x + BASE_INSET, fb.y + BASE_INSET + CORNER_SIZE);
+	    parent.vertex(fb.x + BASE_INSET, fb.y + BASE_INSET + CORNER_RADIUS);
 	    parent.vertex(fb.x + BASE_INSET, fb.y + fb.height - BASE_INSET);
 	    parent.vertex(fb.x + fb.width - BASE_INSET, fb.y + fb.height
 		    - BASE_INSET);
 	    parent.vertex(fb.x + fb.width - BASE_INSET, fb.y + BASE_INSET);
-	    parent.vertex(fb.x + BASE_INSET + CORNER_SIZE, fb.y + BASE_INSET);
+	    parent.vertex(fb.x + BASE_INSET + CORNER_RADIUS, fb.y + BASE_INSET);
 	    parent.endShape();
 	    parent.line(fb.x + BASE_INSET, fb.y + FRAME_TOP, fb.x + fb.width
 		    - 2 * BASE_INSET, fb.y + FRAME_TOP);
-	    
+
 	    parent.fill(Theme.getDarkUIColor());
 	    parent.textSize(FRAME_TOP - 8);
 	    parent.textAlign(PApplet.LEFT);
-	    parent.text(title, fb.x + BASE_INSET + CORNER_SIZE, fb.y + FRAME_TOP - 4);
+	    parent.text(title, fb.x + BASE_INSET + CORNER_RADIUS, fb.y
+		    + FRAME_TOP - 4);
 
 	}
     }
