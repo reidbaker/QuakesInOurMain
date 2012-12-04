@@ -1,36 +1,39 @@
 package edu.gatech.earthquakes.model;
 
-import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
+import java.util.TreeSet;
 
-public class DataSet implements Iterable<DataRow>{
+public class DataSet implements Iterable<DataRow> {
 
-	private Set<DataRow> datum;
+    private TreeSet<DataRow> datum;
 
-	public DataSet(Set<DataRow> datum){
-        this.datum = datum;
+    public DataSet(Set<DataRow> datum) {
+	if (datum instanceof TreeSet<?>) {
+	    this.datum = (TreeSet<DataRow>) datum;
+	} else {
+	    this.datum = new TreeSet<>();
+	    this.datum.addAll(datum);
+	}
     }
-	
-	public DataSet(DataRow row){
-		Set<DataRow> singleRow = new HashSet<>();
-		singleRow.add(row);
-		this.datum = singleRow;
-	}
 
-	public Set<DataRow> getDatum() {
-		return datum;
-	}
+    public DataSet(DataRow row) {
+	TreeSet<DataRow> singleRow = new TreeSet<>();
+	singleRow.add(row);
+	this.datum = singleRow;
+    }
 
-	public void setDatum(Set<DataRow> datum) {
-		this.datum = datum;
-	}
+    public TreeSet<DataRow> getDatum() {
+	return datum;
+    }
 
-	@Override
-	public Iterator<DataRow> iterator() {
-		return datum.iterator();
-	}
+    public void setDatum(TreeSet<DataRow> datum) {
+	this.datum = datum;
+    }
 
-
+    @Override
+    public Iterator<DataRow> iterator() {
+	return datum.iterator();
+    }
 
 }

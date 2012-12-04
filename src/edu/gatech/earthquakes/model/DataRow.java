@@ -4,7 +4,7 @@ import java.util.Map;
 
 import edu.gatech.earthquakes.components.Theme;
 
-public class DataRow {
+public class DataRow implements Comparable<DataRow>{
 	
 	public static int getColorFor(String enumText){
 		int result = -1;
@@ -127,5 +127,10 @@ public class DataRow {
 	public Object getValue(String dataType){
 		return variables.get(dataType);
 	}
+
+	@Override
+        public int compareTo(DataRow arg0) {
+	    return DataComparator.getDefaultComparator().compare(this, arg0);
+        }
 
 }
