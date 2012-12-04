@@ -1,0 +1,99 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 29 1969 Africa Earthquake",
+    "totalResults": "3",
+    "searchTerms": "Sep 29 1969 Africa Earthquake",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.465712,
+  "formattedSearchTime": "0.47",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1000 or More Deaths since 1900 - Google",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1000 or More Deaths since 1900 - Google",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1SaB0_vb17BKtxDKfbaRFXTj1Ku1GCN4uOfLMrjw",
+   "displayLink": "www.google.com",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ... by the earthquake and   subsequent tsunami in 14 countries in South Asia and East Africa. ..... 29   september 1993, J, Latur-Killari, India, 18.1N 76.5E, 9748, C, 6.2, This   earthquake ..... 26 juli 1969, G, Yangjiang, Guangdong, China, 21.61N 111.83E,   3000, B, 5.9, More ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e by the \u003cb\u003eearthquake\u003c/b\u003e and \u003cbr\u003e  subsequent tsunami in 14 countries in South Asia and East \u003cb\u003eAfrica\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e29\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eseptember\u003c/b\u003e 1993, J, Latur-Killari, India, 18.1N 76.5E, 9748, C, 6.2, This \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e 26 juli \u003cb\u003e1969\u003c/b\u003e, G, Yangjiang, Guangdong, China, 21.61N 111.83E, \u003cbr\u003e  3000, B, 5.9, More \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7FpDh8zgz-AJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7429023 - Deck support - Google Patents",
+   "htmlTitle": "Patent US7429023 - Deck support - Google Patents",
+   "link": "http://www.google.com/patents/US7429023",
+   "displayLink": "www.google.com",
+   "snippet": "Filing date: Sep 29, 2006. Issue date: Sep 30, 2008 ... US3718307, Aug 1, 1969,   Feb 27, 1973, MULTIPURPOSE SUPPORT BAR ... Inc. System and method for   restraining water heaters from tipping over due to earthquake or severe winds ...   1982, Collar supporting bracket for attachment to a pot for growing African Violets ...",
+   "htmlSnippet": "Filing date: \u003cb\u003eSep 29\u003c/b\u003e, 2006. Issue date: \u003cb\u003eSep\u003c/b\u003e 30, 2008 \u003cb\u003e...\u003c/b\u003e US3718307, Aug 1, \u003cb\u003e1969\u003c/b\u003e, \u003cbr\u003e  Feb 27, 1973, MULTIPURPOSE SUPPORT BAR \u003cb\u003e...\u003c/b\u003e Inc. System and method for \u003cbr\u003e  restraining water heaters from tipping over due to \u003cb\u003eearthquake\u003c/b\u003e or severe winds \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1982, Collar supporting bracket for attachment to a pot for growing \u003cb\u003eAfrican\u003c/b\u003e Violets \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7429023",
+   "htmlFormattedUrl": "www.google.com/patents/US7429023",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Ie-tAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgeHWdj3J4FPCl6PU-uva-Zb0677XVyjr1bGt4UrJXWTy490hH_JMI0Q"
+     }
+    ],
+    "book": [
+     {
+      "description": "Deck Support is an L-shaped bracket with a plurality of holes and a slot for fastening it to a house joist and the deck band board. Ideally, a user secures the first side of the L-shaped bracket...",
+      "url": "http://www.google.com/patents/US7429023?utm_source=gb-gplus-share",
+      "name": "Patent US7429023 - Deck support",
+      "image": "http://www.google.com/patents?id=Ie-tAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7429023",
+      "title": "Patent US7429023 - Deck support",
+      "og:title": "Patent US7429023 - Deck support",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Ie-tAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "htmlTitle": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV-eRaZ-tBHsbnSjwuJUSQ0iqNhk",
+   "displayLink": "www.google.com",
+   "snippet": "Three countries, including South Africa, signed the IRENA Statute. ...... U.S.-EU   crisis response and development cooperation in the wake of the Haiti earthquake  . ..... 29. (C) De Gucht welcomed Froman,s interest in the TEC. He viewed the   TEC as very .... The final manual will be unveiled September 22 and 23, 2010   during ...",
+   "htmlSnippet": "Three countries, including South \u003cb\u003eAfrica\u003c/b\u003e, signed the IRENA Statute. \u003cb\u003e......\u003c/b\u003e U.S.-EU \u003cbr\u003e  crisis response and development cooperation in the wake of the Haiti \u003cb\u003eearthquake\u003c/b\u003e\u003cbr\u003e  . \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e29\u003c/b\u003e. (C) De Gucht welcomed Froman,s interest in the TEC. He viewed the \u003cbr\u003e  TEC as very \u003cb\u003e....\u003c/b\u003e The final manual will be unveiled \u003cb\u003eSeptember\u003c/b\u003e 22 and 23, 2010 \u003cbr\u003e  during \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV..."
+  }
+ ]
+}
