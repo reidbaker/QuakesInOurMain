@@ -1,0 +1,66 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 9 1937 North America Earthquake",
+    "totalResults": "2",
+    "searchTerms": "Mar 9 1937 North America Earthquake",
+    "count": 2,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.512642,
+  "formattedSearchTime": "0.51",
+  "totalResults": "2",
+  "formattedTotalResults": "2"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AFP: Japan quake: live report",
+   "htmlTitle": "AFP: Japan \u003cb\u003equake\u003c/b\u003e: live report",
+   "link": "http://www.google.com/hostednews/afp/article/ALeqM5hG4qKd8FQ9TlBHiv7EMnzmSvD03g?docId=CNG.bcf12d0b0f0ad360af62caaa465d97f3.3b1",
+   "displayLink": "www.google.com",
+   "snippet": "By Karin Zeitvogel (AFP) ??? Mar 11, 2011 ... 8.9-magnitude earthquake in Japan   thunder towards the South American country that ... 1937 GMT: Teen pop idol   Justin Bieber has sent a tweet of solidarity with Japan to his eight million Twitter   followers. ... \"Within seconds, the water dropped by about 9 feet (three metres) as   the ...",
+   "htmlSnippet": "By Karin Zeitvogel (AFP) ??? \u003cb\u003eMar\u003c/b\u003e 11, 2011 \u003cb\u003e...\u003c/b\u003e 8.9-magnitude \u003cb\u003eearthquake\u003c/b\u003e in Japan \u003cbr\u003e  thunder towards the South \u003cb\u003eAmerican\u003c/b\u003e country that \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1937\u003c/b\u003e GMT: Teen pop idol \u003cbr\u003e  Justin Bieber has sent a tweet of solidarity with Japan to his eight million Twitter \u003cbr\u003e  followers. \u003cb\u003e...\u003c/b\u003e &quot;Within seconds, the water dropped by about \u003cb\u003e9\u003c/b\u003e feet (three metres) as \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/.../ALeqM5hG4qKd8FQ9TlBHiv7EMnzmSvD03g?...",
+   "htmlFormattedUrl": "www.google.com/.../ALeqM5hG4qKd8FQ9TlBHiv7EMnzmSvD03g?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:title": "Japan quake: live report",
+      "og:type": "article",
+      "og:url": "http://www.google.com/hostednews/afp/article/ALeqM5hG4qKd8FQ9TlBHiv7EMnzmSvD03g?docId=CNG.bcf12d0b0f0ad360af62caaa465d97f3.3b1",
+      "og:site_name": "Google News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | Data.gov Agency Participation",
+   "htmlTitle": "Google Fusion Tables | Data.gov Agency Participation",
+   "link": "http://www.google.com/fusiontables/DataSource?dsrcid=40072/40072",
+   "displayLink": "www.google.com",
+   "snippet": "http://www.data.gov/details/9, Clean Air Status and Trends Network (CASTNET):   ..... Research, Attributes, mineral, facilities, Latin America, Canada, federal data   download, ..... areaID=12\u003ehttp://earthquake.usgs.gov/research/topics.php? .....   earnings frrom 1951 through 2003 and aggregate earnings from 1937 through   1950 ...",
+   "htmlSnippet": "http://www.data.gov/details/\u003cb\u003e9\u003c/b\u003e, Clean Air Status and Trends Network (CASTNET): \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Research, Attributes, mineral, facilities, Latin \u003cb\u003eAmerica\u003c/b\u003e, Canada, federal data \u003cbr\u003e  download, \u003cb\u003e.....\u003c/b\u003e areaID=12&gt;http://\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/research/topics.php? \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  earnings frrom 1951 through 2003 and aggregate earnings from \u003cb\u003e1937\u003c/b\u003e through \u003cbr\u003e  1950 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RYgIOe_XLmAJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?dsrcid=40072/40072",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?dsrcid=40072/40072"
+  }
+ ]
+}

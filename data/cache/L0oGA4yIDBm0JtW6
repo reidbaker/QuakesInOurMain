@@ -1,0 +1,440 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 10 1997 Australia Earthquake",
+    "totalResults": "2880",
+    "searchTerms": "Aug 10 1997 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 10 1997 Australia Earthquake",
+    "totalResults": "2880",
+    "searchTerms": "Aug 10 1997 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.133973,
+  "formattedSearchTime": "0.13",
+  "totalResults": "2880",
+  "formattedTotalResults": "2,880"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7131238 - Method of testing seismic braces - Google ...",
+   "htmlTitle": "Patent US7131238 - Method of testing \u003cb\u003eseismic\u003c/b\u003e braces - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7131238",
+   "displayLink": "www.google.com",
+   "snippet": "Braces for bracing objects in structures against forces due to earthquakes are   tested by ... US3986808, Apr 14, 1975, Oct 19, 1976, ICI Australia Limited,   Apparatus for ... US4065218, Nov 10, 1976, Dec 27, 1977, Super Strut, Inc.   Seismic brace ... US5641912, Dec 19, 1994, Jun 24, 1997, Method for remote   application of ...",
+   "htmlSnippet": "Braces for bracing objects in structures against forces due to \u003cb\u003eearthquakes\u003c/b\u003e are \u003cbr\u003e  tested by \u003cb\u003e...\u003c/b\u003e US3986808, Apr 14, 1975, \u003cb\u003eOct\u003c/b\u003e 19, 1976, ICI \u003cb\u003eAustralia\u003c/b\u003e Limited, \u003cbr\u003e  Apparatus for \u003cb\u003e...\u003c/b\u003e US4065218, Nov \u003cb\u003e10\u003c/b\u003e, 1976, Dec 27, 1977, Super Strut, Inc. \u003cbr\u003e  \u003cb\u003eSeismic\u003c/b\u003e brace \u003cb\u003e...\u003c/b\u003e US5641912, Dec 19, 1994, Jun 24, \u003cb\u003e1997\u003c/b\u003e, Method for remote \u003cbr\u003e  application of \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7131238",
+   "htmlFormattedUrl": "www.google.com/patents/US7131238",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=-F57AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQP11fpGwRXcjZQ3siKvlKgUMOSBmms_2Zvw_zZMGXZAThDZXPS7iRA"
+     }
+    ],
+    "book": [
+     {
+      "description": "Braces for bracing objects in structures against forces due to earthquakes are tested by subjecting components of the braces for attaching the braces to the object or structure to cyclic loading...",
+      "url": "http://www.google.com/patents/US7131238?utm_source=gb-gplus-share",
+      "name": "Patent US7131238 - Method of testing seismic braces",
+      "image": "http://www.google.com/patents?id=-F57AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7131238",
+      "title": "Patent US7131238 - Method of testing seismic braces",
+      "og:title": "Patent US7131238 - Method of testing seismic braces",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=-F57AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6877284 - Retrofit hurricane and earthquake protection ...",
+   "htmlTitle": "Patent US6877284 - Retrofit hurricane and \u003cb\u003eearthquake\u003c/b\u003e protection \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6877284",
+   "displayLink": "www.google.com",
+   "snippet": "US2724960, Jan 10, 1950, Nov 29, 1955, NELSSON ... US5595031, Aug 29,   1994, Jan 21, 1997, Simpson Strong-Tie Company, Inc. ... US8006459, Aug 29,   2007, Aug 30, 2011, ITW Construction Systems Australia Pty Ltd, Shear plate ...",
+   "htmlSnippet": "US2724960, Jan \u003cb\u003e10\u003c/b\u003e, 1950, Nov 29, 1955, NELSSON \u003cb\u003e...\u003c/b\u003e US5595031, \u003cb\u003eAug\u003c/b\u003e 29, \u003cbr\u003e  1994, Jan 21, \u003cb\u003e1997\u003c/b\u003e, Simpson Strong-Tie Company, Inc. \u003cb\u003e...\u003c/b\u003e US8006459, \u003cb\u003eAug\u003c/b\u003e 29, \u003cbr\u003e  2007, \u003cb\u003eAug\u003c/b\u003e 30, 2011, ITW Construction Systems \u003cb\u003eAustralia\u003c/b\u003e Pty Ltd, Shear plate \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6877284",
+   "htmlFormattedUrl": "www.google.com/patents/US6877284",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=KgAUAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm-HEfv3Kt7Rg-Ne5YbatCoivpgwRL9HH41bCGo0PNvmg8yPP3wcEHr5o"
+     }
+    ],
+    "book": [
+     {
+      "description": "Retrofit connectors that secure together the outside sheathing and underlying structural members of wood-frame or masonry houses, preventing damage when subjected to lateral stresses from a...",
+      "url": "http://www.google.com/patents/US6877284?utm_source=gb-gplus-share",
+      "name": "Patent US6877284 - Retrofit hurricane and earthquake protection",
+      "image": "http://www.google.com/patents?id=KgAUAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6877284",
+      "title": "Patent US6877284 - Retrofit hurricane and earthquake protection",
+      "og:title": "Patent US6877284 - Retrofit hurricane and earthquake protection",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=KgAUAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6662517 - Retrofit hurricane-earthquake clip - Google ...",
+   "htmlTitle": "Patent US6662517 - Retrofit hurricane-\u003cb\u003eearthquake\u003c/b\u003e clip - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6662517",
+   "displayLink": "www.google.com",
+   "snippet": "A hurricane and earthquake clip for connecting a roof to a wall on new ...   US5640822, Oct 2, 1995, Jun 24, 1997, Mastercraft Engineering, Truss anchor ...   US7611107, Nov 10, 2005, Nov 3, 2009, Multimatic Inc. Structural bridging ...   US8006459, Aug 29, 2007, Aug 30, 2011, ITW Construction Systems Australia   Pty Ltd ...",
+   "htmlSnippet": "A hurricane and \u003cb\u003eearthquake\u003c/b\u003e clip for connecting a roof to a wall on new \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5640822, \u003cb\u003eOct\u003c/b\u003e 2, 1995, Jun 24, \u003cb\u003e1997\u003c/b\u003e, Mastercraft Engineering, Truss anchor \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US7611107, Nov \u003cb\u003e10\u003c/b\u003e, 2005, Nov 3, 2009, Multimatic Inc. Structural bridging \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US8006459, \u003cb\u003eAug\u003c/b\u003e 29, 2007, \u003cb\u003eAug\u003c/b\u003e 30, 2011, ITW Construction Systems \u003cb\u003eAustralia\u003c/b\u003e \u003cbr\u003e  Pty Ltd \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6662517",
+   "htmlFormattedUrl": "www.google.com/patents/US6662517",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=0bYMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdjsjjzN3u6Ue3Hl3WYDeSTvR1T6oo5Uq9HlIAfrrNPVvJCVGgmQ8W1OQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A hurricane and earthquake clip for connecting a roof to a wall on new construction and existing houses. The connector can tie together the outside wall sheathing, top plate, roof rafter or...",
+      "url": "http://www.google.com/patents/US6662517?utm_source=gb-gplus-share",
+      "name": "Patent US6662517 - Retrofit hurricane-earthquake clip",
+      "image": "http://www.google.com/patents?id=0bYMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6662517",
+      "title": "Patent US6662517 - Retrofit hurricane-earthquake clip",
+      "og:title": "Patent US6662517 - Retrofit hurricane-earthquake clip",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=0bYMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6862848 - Method and apparatus for reducing earthquake ...",
+   "htmlTitle": "Patent US6862848 - Method and apparatus for reducing \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6862848",
+   "displayLink": "www.google.com",
+   "snippet": "This invention provides an inexpensive and plausible means of earthquake   protection for ... US5645371, Nov 3, 1995, Jul 8, 1997, Bulkhead system ...   US6457912, Mar 14, 2000, Oct 1, 2002, Foundation construction using recycled   tire walls. US6533501, May 17, 2001, Mar 18, 2003, Ecoflex Australia Pty Limited  , Tyre ...",
+   "htmlSnippet": "This invention provides an inexpensive and plausible means of \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  protection for \u003cb\u003e...\u003c/b\u003e US5645371, Nov 3, 1995, Jul 8, \u003cb\u003e1997\u003c/b\u003e, Bulkhead system \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6457912, Mar 14, 2000, \u003cb\u003eOct\u003c/b\u003e 1, 2002, Foundation construction using recycled \u003cbr\u003e  tire walls. US6533501, May 17, 2001, Mar 18, 2003, Ecoflex \u003cb\u003eAustralia\u003c/b\u003e Pty Limited\u003cbr\u003e  , Tyre \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6862848",
+   "htmlFormattedUrl": "www.google.com/patents/US6862848",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=6s8TAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1mPyddIBugPN3-Ndiwbm7pNNSTSyBHv5xBFvZtroSUqHM_ZVFdzY6IA"
+     }
+    ],
+    "book": [
+     {
+      "description": "This invention provides an inexpensive and plausible means of earthquake protection for personal residences in developing nations and economically distressed areas within the United States...",
+      "url": "http://www.google.com/patents/US6862848?utm_source=gb-gplus-share",
+      "name": "Patent US6862848 - Method and apparatus for reducing earthquake damage in developing nations using recycled tires",
+      "image": "http://www.google.com/patents?id=6s8TAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6862848",
+      "title": "Patent US6862848 - Method and apparatus for reducing earthquake damage in developing nations using recycled tires",
+      "og:title": "Patent US6862848 - Method and apparatus for reducing earthquake damage in developing nations using recycled tires",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=6s8TAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007   ... The first 10 language versions of Google.com are released: French, German,   ..... Following both the Sichuan earthquake in China and Cyclone Nargis in ...   August. Street View is available in several cities in Japan and Australia???the first   time ...",
+   "htmlSnippet": "1995-\u003cb\u003e1997\u003c/b\u003e ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e The first \u003cb\u003e10\u003c/b\u003e language versions of Google.com are released: French, German, \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone Nargis in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAugust\u003c/b\u003e. Street View is available in several cities in Japan and \u003cb\u003eAustralia\u003c/b\u003e???the first \u003cbr\u003e  time \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5109646 - Bearing connection - Google Patents",
+   "htmlTitle": "Patent US5109646 - Bearing connection - Google Patents",
+   "link": "http://www.google.com/patents/US5109646",
+   "displayLink": "www.google.com",
+   "snippet": "Seismic, hurricane or other upward forces are also resisted by the same ...   US6490840, Nov 10, 1997, Dec 10, 2002, Hurricane tie system for retrofit on   existing ... USD576472, Feb 23, 2007, Sep 9, 2008, ITW Australia Pty Ltd,   Connector for ...",
+   "htmlSnippet": "\u003cb\u003eSeismic\u003c/b\u003e, hurricane or other upward forces are also resisted by the same \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6490840, Nov \u003cb\u003e10\u003c/b\u003e, \u003cb\u003e1997\u003c/b\u003e, Dec \u003cb\u003e10\u003c/b\u003e, 2002, Hurricane tie system for retrofit on \u003cbr\u003e  existing \u003cb\u003e...\u003c/b\u003e USD576472, Feb 23, 2007, \u003cb\u003eSep\u003c/b\u003e 9, 2008, ITW \u003cb\u003eAustralia\u003c/b\u003e Pty Ltd, \u003cbr\u003e  Connector for \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5109646",
+   "htmlFormattedUrl": "www.google.com/patents/US5109646",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Sd4pAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyzCGCVjNeQMhhcEyBIMoSr0hshcj4x4fBjZ6RVxuGs4xuu5_gqWmpsg"
+     }
+    ],
+    "book": [
+     {
+      "description": "A bearing connection in a building structure for distributing downward gravity bearing loads through fasteners driven through sheet metal connectors and into a load carrying wood structural...",
+      "url": "http://www.google.com/patents/US5109646?utm_source=gb-gplus-share",
+      "name": "Patent US5109646 - Bearing connection",
+      "image": "http://www.google.com/patents?id=Sd4pAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5109646",
+      "title": "Patent US5109646 - Bearing connection",
+      "og:title": "Patent US5109646 - Bearing connection",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Sd4pAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Events | Big Tent 2012",
+   "htmlTitle": "Google Events | Big Tent 2012",
+   "link": "http://www.google.com/events/bigtent2012/speakers.html",
+   "displayLink": "www.google.com",
+   "snippet": "Lou August lives in Silver Spring, Maryland, receiving his bachelors degree from   ... he started developing his skills in indigenous communities in remote Australia.   ... TEDx: Lahore in the past and his team was recently awarded a US$10K TED   City ... wish list project for affected people after the Great East Japan Earthquake.",
+   "htmlSnippet": "Lou \u003cb\u003eAugust\u003c/b\u003e lives in Silver Spring, Maryland, receiving his bachelors degree from \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e he started developing his skills in indigenous communities in remote \u003cb\u003eAustralia\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e TEDx: Lahore in the past and his team was recently awarded a US\u003cb\u003e$10\u003c/b\u003eK TED \u003cbr\u003e  City \u003cb\u003e...\u003c/b\u003e wish list project for affected people after the Great East Japan \u003cb\u003eEarthquake\u003c/b\u003e.",
+   "cacheId": "t5acSvBKzlkJ",
+   "formattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "htmlFormattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/events/bigtent2012/images/speakers/RachelWhetstone.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7pg6PslvhOwpMTTQ6ehXO-T87KQ2rD9ASM4AKgL898RfQ_EEVfykf7A"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4896985 - Snugging connection and method - Google ...",
+   "htmlTitle": "Patent US4896985 - Snugging connection and method - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4896985",
+   "displayLink": "www.google.com",
+   "snippet": "US6490840, Nov 10, 1997, Dec 10, 2002, Hurricane tie system for retrofit on ...   US6877284, Feb 28, 2001, Apr 12, 2005, Retrofit hurricane and earthquake   protection ... Aug 29, 2007, Aug 30, 2011, ITW Construction Systems Australia Pty   Ltd ...",
+   "htmlSnippet": "US6490840, Nov \u003cb\u003e10\u003c/b\u003e, \u003cb\u003e1997\u003c/b\u003e, Dec \u003cb\u003e10\u003c/b\u003e, 2002, Hurricane tie system for retrofit on \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6877284, Feb 28, 2001, Apr 12, 2005, Retrofit hurricane and \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  protection \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAug\u003c/b\u003e 29, 2007, \u003cb\u003eAug\u003c/b\u003e 30, 2011, ITW Construction Systems \u003cb\u003eAustralia\u003c/b\u003e Pty \u003cbr\u003e  Ltd \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4896985",
+   "htmlFormattedUrl": "www.google.com/patents/US4896985",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=VmsBAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUqvYdtKKqgzYI-x5mWZIolq7mFvfC2YrnQzDThZvAPgejAGWa-7_8DA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A snugging connection and method for moving a movable structural member into closer contact with a stationary structural member in which a connector for joining the two structural members is...",
+      "url": "http://www.google.com/patents/US4896985?utm_source=gb-gplus-share",
+      "name": "Patent US4896985 - Snugging connection and method",
+      "image": "http://www.google.com/patents?id=VmsBAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4896985",
+      "title": "Patent US4896985 - Snugging connection and method",
+      "og:title": "Patent US4896985 - Snugging connection and method",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=VmsBAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6640516 - Sheathing tie down - Google Patents",
+   "htmlTitle": "Patent US6640516 - Sheathing tie down - Google Patents",
+   "link": "http://www.google.com/patents/US6640516",
+   "displayLink": "www.google.com",
+   "snippet": "US5653079, Dec 21, 1995, Aug 5, 1997, United Steel Products Company, Truss   bracket ... US8091846, Oct 2, 2009, Jan 10, 2012, Work supporting apparatus ...   Jan 17, 2012, ITW Construction Systems Australia Pty Ltd, Cast-in lifting anchor ...   sheets of sheathing, thereby preventing wind and seismic damage to a building.",
+   "htmlSnippet": "US5653079, Dec 21, 1995, \u003cb\u003eAug\u003c/b\u003e 5, \u003cb\u003e1997\u003c/b\u003e, United Steel Products Company, Truss \u003cbr\u003e  bracket \u003cb\u003e...\u003c/b\u003e US8091846, \u003cb\u003eOct\u003c/b\u003e 2, 2009, Jan \u003cb\u003e10\u003c/b\u003e, 2012, Work supporting apparatus \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Jan 17, 2012, ITW Construction Systems \u003cb\u003eAustralia\u003c/b\u003e Pty Ltd, Cast-in lifting anchor \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  sheets of sheathing, thereby preventing wind and \u003cb\u003eseismic\u003c/b\u003e damage to a building.",
+   "formattedUrl": "www.google.com/patents/US6640516",
+   "htmlFormattedUrl": "www.google.com/patents/US6640516",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=5q4MAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRx00yyeO5Yfjs2b8cDJHnYWO3q2r5MmrmIwOwmPZ-OPIWIuTAXedHLMw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved metal connector that securely ties together sheathing and underlying structural members on a building to prevent hurricane and earthquake damage. The connector has alternating sheathing...",
+      "url": "http://www.google.com/patents/US6640516?utm_source=gb-gplus-share",
+      "name": "Patent US6640516 - Sheathing tie down",
+      "image": "http://www.google.com/patents?id=5q4MAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6640516",
+      "title": "Patent US6640516 - Sheathing tie down",
+      "og:title": "Patent US6640516 - Sheathing tie down",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=5q4MAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "Issue date: Sep 13, 2011. Application number: 12/130,922 ...",
+   "htmlSnippet": "Issue date: \u003cb\u003eSep\u003c/b\u003e 13, 2011. Application number: 12/130,922 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}
