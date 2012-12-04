@@ -39,14 +39,14 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 				int color = DataRow.getColorFor(DataRow.DEPTH);
 
 				float loc = (drawingCoordinates[i][1] - y - buffer) / h;
-				color = Theme.changeSaturation(color, 1-loc);
+				color = Theme.changeSaturation(color, 1-loc,false);
 
 				if(i == highlightedIndex){
 	                parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 150));
 	                parent.stroke(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 230));
 				} else {
 				    float brightness = PApplet.map(loc, 0f, 1f, 0f, 0.5f);
-				    color = Theme.changeBrightness(color, 0.75f-brightness);
+				    color = Theme.changeBrightness(color, 0.75f-brightness,false);
 	                parent.fill(Theme.rgba(color,200));
 	                parent.stroke(color);
 				}

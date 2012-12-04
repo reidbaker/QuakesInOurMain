@@ -1,0 +1,59 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 21 1967 Asia Earthquake",
+    "totalResults": "2",
+    "searchTerms": "Jun 21 1967 Asia Earthquake",
+    "count": 2,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.397211,
+  "formattedSearchTime": "0.40",
+  "totalResults": "2",
+  "formattedTotalResults": "2"
+ },
+ "spelling": {
+  "correctedQuery": "June 21 1967 Asia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 21 1967 Asia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | cia-data-all.csv",
+   "htmlTitle": "Google Fusion Tables | cia-data-all.csv",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1xR62Jrmy_bJPb8Z2-P1BhN5U574gNW4-l0hjjA",
+   "displayLink": "www.google.com",
+   "snippet": "758 600 000 000, 30 June 2007, $ 459 100 000 000, 2008 est. ...... over much of   Southeast Asia and reached its zenith between the 10th and 13th centuries. ...   More than 50% of the population is less than 21 years old. ...... 2 February 1967;   revised in August 1994; voters approved a new constitution on 25 January 2009 ...",
+   "htmlSnippet": "758 600 000 000, 30 \u003cb\u003eJune\u003c/b\u003e 2007, $ 459 100 000 000, 2008 est. \u003cb\u003e......\u003c/b\u003e over much of \u003cbr\u003e  Southeast \u003cb\u003eAsia\u003c/b\u003e and reached its zenith between the 10th and 13th centuries. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  More than 50% of the population is less than \u003cb\u003e21\u003c/b\u003e years old. \u003cb\u003e......\u003c/b\u003e 2 February \u003cb\u003e1967\u003c/b\u003e; \u003cbr\u003e  revised in August 1994; voters approved a new constitution on 25 January 2009 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1xR62Jrmy_bJPb8Z2...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1xR62Jrmy_bJPb8Z2..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | cia-data-all.csv",
+   "htmlTitle": "Google Fusion Tables | cia-data-all.csv",
+   "link": "http://www.google.com/fusiontables/DataSource?snapid=134490",
+   "displayLink": "www.google.com",
+   "snippet": "More than 50% of the population is less than 21 years old. ..... for heroin   originating in Southwest and Southeast Asia and destined for Europe ...... 2   February 1967; revised in August 1994; voters approved a new constitution on   ...... Independence Day/Statehood Day 25 June (1991), 29, 2008, 0.0, NA,   flooding; earthquakes ...",
+   "htmlSnippet": "More than 50% of the population is less than \u003cb\u003e21\u003c/b\u003e years old. \u003cb\u003e.....\u003c/b\u003e for heroin \u003cbr\u003e  originating in Southwest and Southeast \u003cb\u003eAsia\u003c/b\u003e and destined for Europe \u003cb\u003e......\u003c/b\u003e 2 \u003cbr\u003e  February \u003cb\u003e1967\u003c/b\u003e; revised in August 1994; voters approved a new constitution on \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e Independence Day/Statehood Day 25 \u003cb\u003eJune\u003c/b\u003e (1991), 29, 2008, 0.0, NA, \u003cbr\u003e  flooding; \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?snapid=134490",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?snapid=134490"
+  }
+ ]
+}

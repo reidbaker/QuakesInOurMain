@@ -1,0 +1,440 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 26 2001 North America Earthquake",
+    "totalResults": "973",
+    "searchTerms": "Aug 26 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 26 2001 North America Earthquake",
+    "totalResults": "973",
+    "searchTerms": "Aug 26 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.290889,
+  "formattedSearchTime": "0.29",
+  "totalResults": "973",
+  "formattedTotalResults": "973"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6427393 - Seismic-resistant beam-to-column moment ...",
+   "htmlTitle": "Patent US6427393 - \u003cb\u003eSeismic\u003c/b\u003e-resistant beam-to-column moment \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6427393",
+   "displayLink": "www.google.com",
+   "snippet": "A structural steel seismic-resistant beam-to-column connection is provided with a   pair of rib plates ... Filing date: Jan 26, 2001. Issue date: Aug 6, 2002 ... Buildings   North America, Inc. Connection plate for use in constructing a metal building ...",
+   "htmlSnippet": "A structural steel \u003cb\u003eseismic\u003c/b\u003e-resistant beam-to-column connection is provided with a \u003cbr\u003e  pair of rib plates \u003cb\u003e...\u003c/b\u003e Filing date: Jan \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e. Issue date: \u003cb\u003eAug\u003c/b\u003e 6, 2002 \u003cb\u003e...\u003c/b\u003e Buildings \u003cbr\u003e  \u003cb\u003eNorth America\u003c/b\u003e, Inc. Connection plate for use in constructing a metal building \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6427393",
+   "htmlFormattedUrl": "www.google.com/patents/US6427393",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=D28JAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPyzLOjkJpuqd3Ol1tg2y2JBEZgUJ9dUHoETnozRzXYOzhEFWLGcdlKLU"
+     }
+    ],
+    "book": [
+     {
+      "description": "A structural steel seismic-resistant beam-to-column connection is provided with a pair of rib plates installed symmetrically above and below the connection. The rib plates are perpendicularly...",
+      "url": "http://www.google.com/patents/US6427393?utm_source=gb-gplus-share",
+      "name": "Patent US6427393 - Seismic-resistant beam-to-column moment connection",
+      "image": "http://www.google.com/patents?id=D28JAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6427393",
+      "title": "Patent US6427393 - Seismic-resistant beam-to-column moment connection",
+      "og:title": "Patent US6427393 - Seismic-resistant beam-to-column moment connection",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=D28JAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5490062 - Real-time neural network earthquake profile ...",
+   "htmlTitle": "Patent US5490062 - Real-time neural network \u003cb\u003eearthquake\u003c/b\u003e profile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5490062",
+   "displayLink": "www.google.com",
+   "snippet": "Presented with a previously unseen earthquake, the neural network ...   US5967981, Sep 26, 1997, Oct 19, 1999, Siemens Corporate Research, Inc.   Time series ... 1999, Jan 2, 2001, Early warning system for natural and manmade   disasters ... The United States of America as represented by the Administrator of   the National ...",
+   "htmlSnippet": "Presented with a previously unseen \u003cb\u003eearthquake\u003c/b\u003e, the neural network \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5967981, \u003cb\u003eSep 26\u003c/b\u003e, 1997, Oct 19, 1999, Siemens Corporate Research, Inc. \u003cbr\u003e  Time series \u003cb\u003e...\u003c/b\u003e 1999, Jan 2, \u003cb\u003e2001\u003c/b\u003e, Early warning system for natural and manmade \u003cbr\u003e  disasters \u003cb\u003e...\u003c/b\u003e The United States of \u003cb\u003eAmerica\u003c/b\u003e as represented by the Administrator of \u003cbr\u003e  the National \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5490062",
+   "htmlFormattedUrl": "www.google.com/patents/US5490062",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=kYAoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAbWi0RmtCRIaVWXphFvzF6w3G44RKjPQrWPgzzar7rqagKjk0vFoLuA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A neural network has been developed that uses first-arrival energy to predict the characteristics of impending earthquake seismograph signals. The propagation of ground motion energy through...",
+      "url": "http://www.google.com/patents/US5490062?utm_source=gb-gplus-share",
+      "name": "Patent US5490062 - Real-time neural network earthquake profile predictor",
+      "image": "http://www.google.com/patents?id=kYAoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5490062",
+      "title": "Patent US5490062 - Real-time neural network earthquake profile predictor",
+      "og:title": "Patent US5490062 - Real-time neural network earthquake profile predictor",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=kYAoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4258421 - Vehicle monitoring and recording system ...",
+   "htmlTitle": "Patent US4258421 - Vehicle monitoring and recording system \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4258421",
+   "displayLink": "www.google.com",
+   "snippet": "... of America as represented by the Secretary of the Interior, General earthquake   ... US4608638, Oct 21, 1983, Aug 26, 1986, Siemens Corporate Research .....   US6272402, Jul 15, 1999, Aug 7, 2001, Navistar International Transportation   Corp. ... US6366848, Sep 19, 2000, Apr 2, 2002, Volvo Trucks North America, Inc  .",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e of America as represented by the Secretary of the Interior, General \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US4608638, Oct 21, 1983, \u003cb\u003eAug 26\u003c/b\u003e, 1986, Siemens Corporate Research \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  US6272402, Jul 15, 1999, \u003cb\u003eAug\u003c/b\u003e 7, \u003cb\u003e2001\u003c/b\u003e, Navistar International Transportation \u003cbr\u003e  Corp. \u003cb\u003e...\u003c/b\u003e US6366848, \u003cb\u003eSep\u003c/b\u003e 19, 2000, Apr 2, 2002, Volvo Trucks \u003cb\u003eNorth America\u003c/b\u003e, Inc\u003cbr\u003e  .",
+   "formattedUrl": "www.google.com/patents/US4258421",
+   "htmlFormattedUrl": "www.google.com/patents/US4258421",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWpHD7PzKDd_q-rDLXqpM3vxbvPz1rlYUI4KESDu5j3m9Fzfb-2aNKfA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A device monitoring and recording system is described which is particularly applicable to on-board vehicle monitoring and recording of operating engine parameters. The system comprises a plurality...",
+      "url": "http://www.google.com/patents/US4258421?utm_source=gb-gplus-share",
+      "name": "Patent US4258421 - Vehicle monitoring and recording system",
+      "image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4258421",
+      "title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6216783 - Azimuth control of hydraulic vertical fractures in ...",
+   "htmlTitle": "Patent US6216783 - Azimuth control of hydraulic vertical fractures in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6216783",
+   "displayLink": "www.google.com",
+   "snippet": "Issue date: Apr 17, 2001 ... US3948325, Apr 3, 1975, Apr 6, 1976, The Western   Company of North America, Fracturing of subsurface formations with Bingham   plastic fluids ... Soil liquefaction prevention by electro-osmosis during an   earthquake event ... US6938693, Aug 26, 2002, Sep 6, 2005, Schlumberger   Technology ...",
+   "htmlSnippet": "Issue date: Apr 17, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US3948325, Apr 3, 1975, Apr 6, 1976, The Western \u003cbr\u003e  Company of \u003cb\u003eNorth America\u003c/b\u003e, Fracturing of subsurface formations with Bingham \u003cbr\u003e  plastic fluids \u003cb\u003e...\u003c/b\u003e Soil liquefaction prevention by electro-osmosis during an \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e event \u003cb\u003e...\u003c/b\u003e US6938693, \u003cb\u003eAug 26\u003c/b\u003e, 2002, \u003cb\u003eSep\u003c/b\u003e 6, 2005, Schlumberger \u003cbr\u003e  Technology \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6216783",
+   "htmlFormattedUrl": "www.google.com/patents/US6216783",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=DH0FAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrXbb5L7WfhAPy4dxGeN6g2jhI_M73xRT941lHo_V2S1Ewd9WaAXCuVg"
+     }
+    ],
+    "book": [
+     {
+      "description": "A method and apparatus for initiating an azimuth controlled vertical hydraulic fracture in unconsolidated and weakly cemented soils and sediments using active resistivity to monitor and control...",
+      "url": "http://www.google.com/patents/US6216783?utm_source=gb-gplus-share",
+      "name": "Patent US6216783 - Azimuth control of hydraulic vertical fractures in unconsolidated and weakly cemented soils and sediments",
+      "image": "http://www.google.com/patents?id=DH0FAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6216783",
+      "title": "Patent US6216783 - Azimuth control of hydraulic vertical fractures in unconsolidated and weakly cemented soils and sediments",
+      "og:title": "Patent US6216783 - Azimuth control of hydraulic vertical fractures in unconsolidated and weakly cemented soils and sediments",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=DH0FAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5232073 - Process for damping dynamic load - Google ...",
+   "htmlTitle": "Patent US5232073 - Process for damping dynamic load - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5232073",
+   "displayLink": "www.google.com",
+   "snippet": "US3640149, Aug 26, 1969, 1972, VIBRATION DAMPERS UTILIZING ... to   restrain the response of slender elastic structures to vibrations such as from   earthquakes ... US6793050, Aug 30, 2001, Sep 21, 2004, GKN Driveline North   America, Inc.",
+   "htmlSnippet": "US3640149, \u003cb\u003eAug 26\u003c/b\u003e, 1969, 1972, VIBRATION DAMPERS UTILIZING \u003cb\u003e...\u003c/b\u003e to \u003cbr\u003e  restrain the response of slender elastic structures to vibrations such as from \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US6793050, \u003cb\u003eAug\u003c/b\u003e 30, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003eSep\u003c/b\u003e 21, 2004, GKN Driveline \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e, Inc.",
+   "formattedUrl": "www.google.com/patents/US5232073",
+   "htmlFormattedUrl": "www.google.com/patents/US5232073",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=xzsdAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSF4EIAaDqQyEGUGKEp12bYreitsSZduOwkfNGGTac9ogfYIerkV7aKYA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A composite structure of elastic and viscoelastic components in which dynamic loads are effectively damped by transmission through the viscoelastic components. The structure includes a continuous...",
+      "url": "http://www.google.com/patents/US5232073?utm_source=gb-gplus-share",
+      "name": "Patent US5232073 - Process for damping dynamic load",
+      "image": "http://www.google.com/patents?id=xzsdAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5232073",
+      "title": "Patent US5232073 - Process for damping dynamic load",
+      "og:title": "Patent US5232073 - Process for damping dynamic load",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=xzsdAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ...   August. Sun co-founder Andy Bechtolsheim writes a check for $100,000 to ...   Mountain View is a few miles south of Stanford University, and north of the ...   American Dialect Society members vote ???google??? the ???most useful??? Word of the   Year for 2002.",
+   "htmlSnippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? \u003cb\u003e2001\u003c/b\u003e ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAugust\u003c/b\u003e. Sun co-founder Andy Bechtolsheim writes a check for $100,000 to \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Mountain View is a few miles south of Stanford University, and \u003cb\u003enorth\u003c/b\u003e of the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerican\u003c/b\u003e Dialect Society members vote ???google??? the ???most useful??? Word of the \u003cbr\u003e  Year for 2002.",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "... model when performing multi-scale inversion of seismic data ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e model when performing multi-scale inversion of \u003cb\u003eseismic\u003c/b\u003e data \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Events | Big Tent 2012",
+   "htmlTitle": "Google Events | Big Tent 2012",
+   "link": "http://www.google.com/events/bigtent2012/speakers.html",
+   "displayLink": "www.google.com",
+   "snippet": "Lou August lives in Silver Spring, Maryland, receiving his bachelors degree from   the ... For the last 26 years he served as the president of a successful high ....   wish list project for affected people after the Great East Japan Earthquake.   Amazon ... with over 15 years of working experience in the North America and   Asia region.",
+   "htmlSnippet": "Lou \u003cb\u003eAugust\u003c/b\u003e lives in Silver Spring, Maryland, receiving his bachelors degree from \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e For the last \u003cb\u003e26\u003c/b\u003e years he served as the president of a successful high \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  wish list project for affected people after the Great East Japan \u003cb\u003eEarthquake\u003c/b\u003e. \u003cbr\u003e  Amazon \u003cb\u003e...\u003c/b\u003e with over 15 years of working experience in the \u003cb\u003eNorth America\u003c/b\u003e and \u003cbr\u003e  Asia region.",
+   "cacheId": "t5acSvBKzlkJ",
+   "formattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "htmlFormattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/events/bigtent2012/images/speakers/RachelWhetstone.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7pg6PslvhOwpMTTQ6ehXO-T87KQ2rD9ASM4AKgL898RfQ_EEVfykf7A"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6163338 - Apparatus and method for recapture of realtime ...",
+   "htmlTitle": "Patent US6163338 - Apparatus and method for recapture of realtime \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6163338",
+   "displayLink": "www.google.com",
+   "snippet": "US6447128, Dec 7, 2000, Sep 10, 2002, Lang-Mekra North America LLC,   Rearview ... US7149160, Sep 17, 2001, Dec 12, 2006, Hitachi Global Storage   Technologies ... US7334855, May 17, 2004, Feb 26, 2008, Silverbrook Research   Pty Ltd .... from the group comprising an earthquake, an avalanche, a lightening   strike, ...",
+   "htmlSnippet": "US6447128, Dec 7, 2000, \u003cb\u003eSep\u003c/b\u003e 10, 2002, Lang-Mekra \u003cb\u003eNorth America\u003c/b\u003e LLC, \u003cbr\u003e  Rearview \u003cb\u003e...\u003c/b\u003e US7149160, \u003cb\u003eSep\u003c/b\u003e 17, \u003cb\u003e2001\u003c/b\u003e, Dec 12, 2006, Hitachi Global Storage \u003cbr\u003e  Technologies \u003cb\u003e...\u003c/b\u003e US7334855, May 17, 2004, Feb \u003cb\u003e26\u003c/b\u003e, 2008, Silverbrook Research \u003cbr\u003e  Pty Ltd \u003cb\u003e....\u003c/b\u003e from the group comprising an \u003cb\u003eearthquake\u003c/b\u003e, an avalanche, a lightening \u003cbr\u003e  strike, \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6163338",
+   "htmlFormattedUrl": "www.google.com/patents/US6163338",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=uycGAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7efOvXMq_XDCcLhrQyZY90xzOiucmaCLWatVizQT2UiEzOMYlsypwkiM"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus and method for providing a video or audio record of a predetermined activity close in time to a preselected triggering event comprising a video or audio detection apparatus, control...",
+      "url": "http://www.google.com/patents/US6163338?utm_source=gb-gplus-share",
+      "name": "Patent US6163338 - Apparatus and method for recapture of realtime events",
+      "image": "http://www.google.com/patents?id=uycGAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6163338",
+      "title": "Patent US6163338 - Apparatus and method for recapture of realtime events",
+      "og:title": "Patent US6163338 - Apparatus and method for recapture of realtime events",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=uycGAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7881154 - Seismic processing for the elimination of ...",
+   "htmlTitle": "Patent US7881154 - \u003cb\u003eSeismic\u003c/b\u003e processing for the elimination of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7881154",
+   "displayLink": "www.google.com",
+   "snippet": "Seismic processing method, in which, in order to eliminate multiple reflections ...   1999, Aug 8, 2000, Schlumberger Technology Corporation, Multiple attenuation   of ... US6317695, Mar 30, 2000, Nov 13, 2001, NuTec Sciences, Inc. Seismic   data ... North America Inc. Method of DMO calculation for use in seismic   exploration ...",
+   "htmlSnippet": "\u003cb\u003eSeismic\u003c/b\u003e processing method, in which, in order to eliminate multiple reflections \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1999, \u003cb\u003eAug\u003c/b\u003e 8, 2000, Schlumberger Technology Corporation, Multiple attenuation \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e US6317695, Mar 30, 2000, Nov 13, \u003cb\u003e2001\u003c/b\u003e, NuTec Sciences, Inc. \u003cb\u003eSeismic\u003c/b\u003e \u003cbr\u003e  data \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNorth America\u003c/b\u003e Inc. Method of DMO calculation for use in \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  exploration \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7881154",
+   "htmlFormattedUrl": "www.google.com/patents/US7881154",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=5zn-AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRR3_1seKxhG-Xlr1Mhv_RsnYAD4RBRIcQTEgIGcqk76pw3TvC6OLkj_Dk"
+     }
+    ],
+    "book": [
+     {
+      "description": "Seismic processing method, in which, in order to eliminate multiple reflections on seismic data, seismic data are migrated in time or in depth (110) arid the data thus migrated are processed...",
+      "url": "http://www.google.com/patents/US7881154?utm_source=gb-gplus-share",
+      "name": "Patent US7881154 - Seismic processing for the elimination of multiple reflections",
+      "image": "http://www.google.com/patents?id=5zn-AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7881154",
+      "title": "Patent US7881154 - Seismic processing for the elimination of multiple reflections",
+      "og:title": "Patent US7881154 - Seismic processing for the elimination of multiple reflections",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=5zn-AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -81,7 +81,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 
         for (String country : computedValues.keySet()) {
 
-            parent.fill(Theme.rgba(DataRow.getColorFor(country), 100));
+            parent.fill(DataRow.getColorFor(country));
             parent.stroke(Theme.rgba(DataRow.getColorFor(country), 150));
             if (right) {
                 parent.rect(x + w / 2 + offset / 2,
@@ -99,8 +99,10 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
                 if (firstRadius == 0)
                     firstRadius = getCircleRadius(t.getCount());
 
-                parent.fill(Theme.changeSaturation(DataRow.getColorFor(t.getType()), .2f));
-                parent.stroke(DataRow.getColorFor(t.getType()));
+                parent.fill(Theme.changeSaturation(DataRow.getColorFor(t.getType()),.5f,true));
+               // parent.fill(DataRow.getColorFor(t.getType()));
+               parent.strokeWeight(1);
+                parent.stroke(0xff555555);
 
                 float radius = getCircleRadius(t.getCount());
                 if (right) {

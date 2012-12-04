@@ -1,0 +1,271 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 10 1995 Asia Earthquake",
+    "totalResults": "8",
+    "searchTerms": "Jan 10 1995 Asia Earthquake",
+    "count": 8,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.556971,
+  "formattedSearchTime": "0.56",
+  "totalResults": "8",
+  "formattedTotalResults": "8"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "The first 10 language versions of Google.com are released: French, German,   Italian, ... January. We announce the hire of Silicon Valley veteran Wayne Rosing   as our ... Service, an archive of 500 million Usenet discussions dating back to   1995. .... to attract the best and brightest among Japanese and other Asian   engineers.",
+   "htmlSnippet": "The first \u003cb\u003e10\u003c/b\u003e language versions of Google.com are released: French, German, \u003cbr\u003e  Italian, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary\u003c/b\u003e. We announce the hire of Silicon Valley veteran Wayne Rosing \u003cbr\u003e  as our \u003cb\u003e...\u003c/b\u003e Service, an archive of 500 million Usenet discussions dating back to \u003cbr\u003e  \u003cb\u003e1995\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e to attract the best and brightest among Japanese and other \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  engineers.",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Events | Big Tent 2012",
+   "htmlTitle": "Google Events | Big Tent 2012",
+   "link": "http://www.google.com/events/bigtent2012/speakers.html",
+   "displayLink": "www.google.com",
+   "snippet": "During Japan's Big Earthquake Disaster, Mr. Irie had become the leader of the ...   Michelle Chang is a Program Officer in The Asia Foundation's Governance and   Law ... At the MIT Media Lab, he founded the Tangible Media Group in fall 1995   ... He became Honorary Chairman of Google Japan in Jan 2009, and retired from ...",
+   "htmlSnippet": "During Japan&#39;s Big \u003cb\u003eEarthquake\u003c/b\u003e Disaster, Mr. Irie had become the leader of the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Michelle Chang is a Program Officer in The \u003cb\u003eAsia\u003c/b\u003e Foundation&#39;s Governance and \u003cbr\u003e  Law \u003cb\u003e...\u003c/b\u003e At the MIT Media Lab, he founded the Tangible Media Group in fall \u003cb\u003e1995\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e He became Honorary Chairman of Google Japan in \u003cb\u003eJan\u003c/b\u003e 2009, and retired from \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "t5acSvBKzlkJ",
+   "formattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "htmlFormattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/events/bigtent2012/images/speakers/RachelWhetstone.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7pg6PslvhOwpMTTQ6ehXO-T87KQ2rD9ASM4AKgL898RfQ_EEVfykf7A"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "htmlTitle": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "link": "http://www.google.com/patents/US4650368",
+   "displayLink": "www.google.com",
+   "snippet": "US5632573, Aug 31, 1995, May 27, 1997, Wall-like retainer segments for ... Feb   19, 1998, Aug 10, 1999, Earthquake resistant building structure employing   sandbags ... Versa-Lok Asia Inc. Retaining wall system with interlocked wall-  building units ... US7841268, Jan 10, 2008, Nov 30, 2010, Environmental   Defence Systems ...",
+   "htmlSnippet": "US5632573, Aug 31, \u003cb\u003e1995\u003c/b\u003e, May 27, 1997, Wall-like retainer segments for \u003cb\u003e...\u003c/b\u003e Feb \u003cbr\u003e  19, 1998, Aug \u003cb\u003e10\u003c/b\u003e, 1999, \u003cb\u003eEarthquake\u003c/b\u003e resistant building structure employing \u003cbr\u003e  sandbags \u003cb\u003e...\u003c/b\u003e Versa-Lok \u003cb\u003eAsia\u003c/b\u003e Inc. Retaining wall system with interlocked wall-\u003cbr\u003e  building units \u003cb\u003e...\u003c/b\u003e US7841268, \u003cb\u003eJan 10\u003c/b\u003e, 2008, Nov 30, 2010, Environmental \u003cbr\u003e  Defence Systems \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4650368",
+   "htmlFormattedUrl": "www.google.com/patents/US4650368",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR78_gi9yedYhVl783bhQwJ-UKQQWxmI91Xmh0hfc7LqIqLE_Fjr84W0Kc"
+     }
+    ],
+    "book": [
+     {
+      "description": "A flood water containment bag constructed of lightweight, inexpensive porous material with a quantity of water absorbent material therein which increases substantially in volume and weight...",
+      "url": "http://www.google.com/patents/US4650368?utm_source=gb-gplus-share",
+      "name": "Patent US4650368 - Flood water containment bag",
+      "image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4650368",
+      "title": "Patent US4650368 - Flood water containment bag",
+      "og:title": "Patent US4650368 - Flood water containment bag",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/intl/en_uk/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "The first 10 language versions of Google.com are released: French, German,   Italian, ... Service, an archive of 500 million Usenet discussions dating back to   1995. ... January. American Dialect Society members vote ???google??? the ???most   useful??? ... to attract the best and brightest among Japanese and other Asian   engineers.",
+   "htmlSnippet": "The first \u003cb\u003e10\u003c/b\u003e language versions of Google.com are released: French, German, \u003cbr\u003e  Italian, \u003cb\u003e...\u003c/b\u003e Service, an archive of 500 million Usenet discussions dating back to \u003cbr\u003e  \u003cb\u003e1995\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary\u003c/b\u003e. American Dialect Society members vote ???google??? the ???most \u003cbr\u003e  useful??? \u003cb\u003e...\u003c/b\u003e to attract the best and brightest among Japanese and other \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  engineers.",
+   "cacheId": "Uz9ka1X37zwJ",
+   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6809276 - Inertially activated switch - Google Patents",
+   "htmlTitle": "Patent US6809276 - Inertially activated switch - Google Patents",
+   "link": "http://www.google.com/patents/US6809276",
+   "displayLink": "www.google.com",
+   "snippet": "Application number: 10/730,303 ... US4359722, Jun 12, 1979, Nov 16, 1982,   Earthquake detection system with pendulum switch ... US5450049, Apr 15, 1993,   Sep 12, 1995, W. Guenther GmbH, Switch for signaling ... US5866987, Jun 24,   1996, Feb 2, 1999, East Asia Services Ltd. Motion activated illluminating footwear   and ...",
+   "htmlSnippet": "Application number: \u003cb\u003e10\u003c/b\u003e/730,303 \u003cb\u003e...\u003c/b\u003e US4359722, Jun 12, 1979, Nov 16, 1982, \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e detection system with pendulum switch \u003cb\u003e...\u003c/b\u003e US5450049, Apr 15, 1993, \u003cbr\u003e  Sep 12, \u003cb\u003e1995\u003c/b\u003e, W. Guenther GmbH, Switch for signaling \u003cb\u003e...\u003c/b\u003e US5866987, Jun 24, \u003cbr\u003e  1996, Feb 2, 1999, East \u003cb\u003eAsia\u003c/b\u003e Services Ltd. Motion activated illluminating footwear \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6809276",
+   "htmlFormattedUrl": "www.google.com/patents/US6809276",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=WBURAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVVbpcVl-kNgdMEUI4Jib97T6PreDQ8Iy-LinYd1mcx80sZIWn36c2oQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A switch according to this invention is particularly intended for use with articles of footwear as part of a light module which also includes one or more batteries, an integrated circuit and...",
+      "url": "http://www.google.com/patents/US6809276?utm_source=gb-gplus-share",
+      "name": "Patent US6809276 - Inertially activated switch",
+      "image": "http://www.google.com/patents?id=WBURAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6809276",
+      "title": "Patent US6809276 - Inertially activated switch",
+      "og:title": "Patent US6809276 - Inertially activated switch",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=WBURAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent EP1210661A2 - A system, method and article of manufacture ...",
+   "htmlTitle": "Patent EP1210661A2 - A system, method and article of manufacture \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/EP1210661A2?cl=en",
+   "displayLink": "www.google.com",
+   "snippet": "10. A system as recited in claim 7, and further comprising logic that assigns a   user to ...... 1995); and R. Fielding, H, Frystyk, T. Berners-Lee, J. Gettys and J.C.   Mogul, ...... Date Created and Date Modifications should be in the format of \"  January 10, ...... This could be the result of a natural disaster (Data Centers in   earthquake ...",
+   "htmlSnippet": "\u003cb\u003e10\u003c/b\u003e. A system as recited in claim 7, and further comprising logic that assigns a \u003cbr\u003e  user to \u003cb\u003e......\u003c/b\u003e \u003cb\u003e1995\u003c/b\u003e); and R. Fielding, H, Frystyk, T. Berners-Lee, J. Gettys and J.C. \u003cbr\u003e  Mogul, \u003cb\u003e......\u003c/b\u003e Date Created and Date Modifications should be in the format of &quot;\u003cbr\u003e  \u003cb\u003eJanuary 10\u003c/b\u003e, \u003cb\u003e......\u003c/b\u003e This could be the result of a natural disaster (Data Centers in \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/EP1210661A2?cl=en",
+   "htmlFormattedUrl": "www.google.com/patents/EP1210661A2?cl=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "book": [
+     {
+      "description": "A system, method and article of manufacture are provided for accessing services within a server without a need for knowledge of an application program interface of the server. A role container...",
+      "url": "http://www.google.com/patents/EP1210661A2?cl=en&utm_source=gb-gplus-share",
+      "name": "Patent EP1210661A2 - A system, method and article of manufacture for a host framework design in an e-commerce architecture",
+      "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/EP1210661A2?cl=en",
+      "title": "Patent EP1210661A2 - A system, method and article of manufacture for a host framework design in an e-commerce architecture",
+      "og:title": "Patent EP1210661A2 - A system, method and article of manufacture for a host framework design in an e-commerce architecture",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent EP0817892A1 - System for protecting buildings - Google ...",
+   "htmlTitle": "Patent EP0817892A1 - System for protecting buildings - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/EP0817892A1?cl=en",
+   "displayLink": "www.google.com",
+   "snippet": "System for protecting a building (10) whereby the building (10) is based on a ...   Publication date, Jan 14, 1998. Filing date, May 16, 1995. Priority date, Mar 28,   1995 .... a layer of elastic material able to absorb and deaden any earthquake   shocks . .... south-east Asia, the Low Countries and many others throughout the   world, ...",
+   "htmlSnippet": "System for protecting a building (\u003cb\u003e10\u003c/b\u003e) whereby the building (\u003cb\u003e10\u003c/b\u003e) is based on a \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Publication date, \u003cb\u003eJan\u003c/b\u003e 14, 1998. Filing date, May 16, \u003cb\u003e1995\u003c/b\u003e. Priority date, Mar 28, \u003cbr\u003e  \u003cb\u003e1995\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e a layer of elastic material able to absorb and deaden any \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  shocks . \u003cb\u003e....\u003c/b\u003e south-east \u003cb\u003eAsia\u003c/b\u003e, the Low Countries and many others throughout the \u003cbr\u003e  world, \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/EP0817892A1?cl=en",
+   "htmlFormattedUrl": "www.google.com/patents/EP0817892A1?cl=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "book": [
+     {
+      "description": "System for protecting a building (10) whereby the building (10) is based on a flat structure (11) supported by hydraulic jacks (30, 33) set on the ground or on the bottom of a sunk garage (12)...",
+      "url": "http://www.google.com/patents/EP0817892A1?cl=en&utm_source=gb-gplus-share",
+      "name": "Patent EP0817892A1 - System for protecting buildings",
+      "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/EP0817892A1?cl=en",
+      "title": "Patent EP0817892A1 - System for protecting buildings",
+      "og:title": "Patent EP0817892A1 - System for protecting buildings",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "htmlTitle": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV-eRaZ-tBHsbnSjwuJUSQ0iqNhk",
+   "displayLink": "www.google.com",
+   "snippet": "Sinirlioglu described Israeli Defense Minister Ehud Barak's mid-January visit as \"  very ... 10. (C) He regretted perceived Greek Cypriot complacency regarding the   ... efforts to assert regional responsibility for South Asia's inter-linked problems.   ...... response and development cooperation in the wake of the Haiti earthquake.",
+   "htmlSnippet": "Sinirlioglu described Israeli Defense Minister Ehud Barak&#39;s mid-\u003cb\u003eJanuary\u003c/b\u003e visit as &quot;\u003cbr\u003e  very \u003cb\u003e...\u003c/b\u003e \u003cb\u003e10\u003c/b\u003e. (C) He regretted perceived Greek Cypriot complacency regarding the \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e efforts to assert regional responsibility for South \u003cb\u003eAsia&#39;s\u003c/b\u003e inter-linked problems. \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e response and development cooperation in the wake of the Haiti \u003cb\u003eearthquake\u003c/b\u003e.",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV..."
+  }
+ ]
+}
