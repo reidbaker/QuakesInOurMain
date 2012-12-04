@@ -90,7 +90,7 @@ public abstract class AbstractVisualization implements Drawable, Resizable {
 	    this.w = fb.width;
 	    this.h = fb.height;
 	} else {
-	    System.out.println("Drawing Something Decorated");
+//	    System.out.println("Drawing Something Decorated");
 	    this.x = fb.x + FRAME_LEFT;
 	    this.y = fb.y + FRAME_TOP;
 	    this.w = fb.width - (FRAME_LEFT + FRAME_RIGHT);

@@ -100,6 +100,7 @@ public class CustomSearch {
         if(f.exists() && !f.isDirectory()){
             //file is in cache
             Scanner s = new Scanner(f);
+            //TODO handle no such element exception
             result = s.useDelimiter("\\Z").next();
             s.close();
             System.out.println("From cache: " + query);
@@ -110,7 +111,7 @@ public class CustomSearch {
             result = getOnlineContent(getUrl(query));
             out.write(result);
             out.close();
-            System.out.println("From web: " + query);
+            System.out.println("From web: " + getUrl(query));
         }
         return result;
     }
