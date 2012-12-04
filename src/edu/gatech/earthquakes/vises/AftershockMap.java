@@ -9,9 +9,12 @@ import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
 
+import com.google.common.eventbus.Subscribe;
+
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
+import edu.gatech.earthquakes.interfaces.Brushable;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataComparator;
@@ -20,7 +23,7 @@ import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
 
 public class AftershockMap extends Individual implements Interactable,
-        Filterable {
+        Filterable, Brushable {
 
     private double[] latRange;
     private double[] lonRange;
@@ -245,21 +248,31 @@ public class AftershockMap extends Individual implements Interactable,
 
     @Override
     public void filterBy(DataSet filteredData) {
-	Date date = (Date) displayData.getValue(DataRow.DATE);
+        Date date = (Date) displayData.getValue(DataRow.DATE);
 
-	Set<DataRow> shocks = new HashSet<DataRow>();
+        Set<DataRow> shocks = new HashSet<DataRow>();
 
-	for (DataRow quake : filteredData) {
-	    if (quake.getValue(DataRow.DEPENDENCY).equals(
-		    DataRow.Dependency.DEPENDENT)
-		    && quake.getValue(DataRow.MAIN_DATE).equals(date))
-		shocks.add(quake);
-	    if (quake.equals(displayData))
-		shocks.add(displayData);
-	}
-	aftershocks = new DataSet(shocks);
-	if (aftershocks.getDatum().size() > 0) {
-	    calculateRanges();
-	}
+        for (DataRow quake : filteredData) {
+            if (quake.getValue(DataRow.DEPENDENCY).equals(
+                    DataRow.Dependency.DEPENDENT)
+                    && quake.getValue(DataRow.MAIN_DATE).equals(date))
+                shocks.add(quake);
+            if (quake.equals(displayData))
+                shocks.add(displayData);
+        }
+        aftershocks = new DataSet(shocks);
+        if (aftershocks.getDatum().size() > 0) {
+            calculateRanges();
+        }
+    }
+
+    @Override
+    @Subscribe
+    public void brushData(DataSet ds) {
+        if((ds != null) && ds.getDatum().size() > 0){
+            filterBy(ds);
+            System.out.println(ds.getDatum().size());
+        }
+
     }
 }
