@@ -3,6 +3,8 @@ package edu.gatech.earthquakes.vises;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
@@ -12,6 +14,7 @@ import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
+import edu.gatech.earthquakes.model.DataComparator;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
@@ -47,8 +50,8 @@ public class AftershockMap extends Individual implements Interactable,
 
 			if (highlightedPos != null && coords[i][0] == highlightedPos[0]
 					&& coords[i][1] == highlightedPos[1]) {
-				parent.fill(Theme.getPalletteColor(1) - 0x99000000);
-				parent.stroke(Theme.getPalletteColor(1) - 0x33000000);
+                parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 100));
+                parent.stroke(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 200));
 			} else {
 				parent.fill(Theme.getPalletteColor(0) - 0xAA000000);
 				parent.stroke(Theme.getPalletteColor(0) - 0x66000000);
@@ -250,8 +253,7 @@ public class AftershockMap extends Individual implements Interactable,
 			if (quake.equals(displayData))
 				shocks.add(displayData);
 		}
-
-		aftershocks = new DataSet(shocks);
+        aftershocks = new DataSet(shocks);
 		calculateRanges();
 	}
 }

@@ -1,0 +1,240 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 15 1992 Australia Earthquake",
+    "totalResults": "5",
+    "searchTerms": "Jul 15 1992 Australia Earthquake",
+    "count": 5,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.407319,
+  "formattedSearchTime": "0.41",
+  "totalResults": "5",
+  "formattedTotalResults": "5"
+ },
+ "spelling": {
+  "correctedQuery": "July 15 1992 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 15 1992 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6662517 - Retrofit hurricane-earthquake clip - Google ...",
+   "htmlTitle": "Patent US6662517 - Retrofit hurricane-\u003cb\u003eearthquake\u003c/b\u003e clip - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6662517",
+   "displayLink": "www.google.com",
+   "snippet": "A hurricane and earthquake clip for connecting a roof to a wall on new   construction and existing ... US2321671, Jan 31, 1941, Jun 15, 1943, WALL CLIP   ... US5230198, Oct 29, 1992, Jul 27, 1993, United Steel Products Co. ...   US8006459, Aug 29, 2007, Aug 30, 2011, ITW Construction Systems Australia   Pty Ltd, Shear plate ...",
+   "htmlSnippet": "A hurricane and \u003cb\u003eearthquake\u003c/b\u003e clip for connecting a roof to a wall on new \u003cbr\u003e  construction and existing \u003cb\u003e...\u003c/b\u003e US2321671, Jan 31, 1941, Jun \u003cb\u003e15\u003c/b\u003e, 1943, WALL CLIP \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US5230198, Oct 29, \u003cb\u003e1992\u003c/b\u003e, \u003cb\u003eJul\u003c/b\u003e 27, 1993, United Steel Products Co. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US8006459, Aug 29, 2007, Aug 30, 2011, ITW Construction Systems \u003cb\u003eAustralia\u003c/b\u003e \u003cbr\u003e  Pty Ltd, Shear plate \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6662517",
+   "htmlFormattedUrl": "www.google.com/patents/US6662517",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=0bYMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdjsjjzN3u6Ue3Hl3WYDeSTvR1T6oo5Uq9HlIAfrrNPVvJCVGgmQ8W1OQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A hurricane and earthquake clip for connecting a roof to a wall on new construction and existing houses. The connector can tie together the outside wall sheathing, top plate, roof rafter or...",
+      "url": "http://www.google.com/patents/US6662517?utm_source=gb-gplus-share",
+      "name": "Patent US6662517 - Retrofit hurricane-earthquake clip",
+      "image": "http://www.google.com/patents?id=0bYMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6662517",
+      "title": "Patent US6662517 - Retrofit hurricane-earthquake clip",
+      "og:title": "Patent US6662517 - Retrofit hurricane-earthquake clip",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=0bYMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4300220 - Three component detector and housing for ...",
+   "htmlTitle": "Patent US4300220 - Three component detector and housing for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4300220",
+   "displayLink": "www.google.com",
+   "snippet": "US3626364, Jul 15, 1969, Dec 7, 1971, THREE-AXIS SEISMOMETER ...   US5101195, Sep 28, 1989, Mar 31, 1992, Quakeawake Corporation,   Discriminating earthquake detector ... US7586809, Jul 20, 2005, Sep 8, 2009,   Sercel Australia Pty.",
+   "htmlSnippet": "US3626364, \u003cb\u003eJul 15\u003c/b\u003e, 1969, Dec 7, 1971, THREE-AXIS SEISMOMETER \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5101195, Sep 28, 1989, Mar 31, \u003cb\u003e1992\u003c/b\u003e, Quakeawake Corporation, \u003cbr\u003e  Discriminating \u003cb\u003eearthquake\u003c/b\u003e detector \u003cb\u003e...\u003c/b\u003e US7586809, \u003cb\u003eJul\u003c/b\u003e 20, 2005, Sep 8, 2009, \u003cbr\u003e  Sercel \u003cb\u003eAustralia\u003c/b\u003e Pty.",
+   "formattedUrl": "www.google.com/patents/US4300220",
+   "htmlFormattedUrl": "www.google.com/patents/US4300220",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=EjoCAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8blpfm1zsRsnnCNK7FZub4YeIskal5ucF_ZvQRoYPc62aMXqY8XLy54Q"
+     }
+    ],
+    "book": [
+     {
+      "description": "A detector utilizing three seismometers is provided which is operable to detect three components of particle motion waves....",
+      "url": "http://www.google.com/patents/US4300220?utm_source=gb-gplus-share",
+      "name": "Patent US4300220 - Three component detector and housing for same",
+      "image": "http://www.google.com/patents?id=EjoCAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4300220",
+      "title": "Patent US4300220 - Three component detector and housing for same",
+      "og:title": "Patent US4300220 - Three component detector and housing for same",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=EjoCAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Events | Big Tent 2012",
+   "htmlTitle": "Google Events | Big Tent 2012",
+   "link": "http://www.google.com/events/bigtent2012/speakers.html",
+   "displayLink": "www.google.com",
+   "snippet": "Rachel Whetstone joined Google in 2005, after 15 years advising senior .... he   started developing his skills in indigenous communities in remote Australia. ....   wish list project for affected people after the Great East Japan Earthquake. .... is   the executive advisor for Chief Information Officer of METI, appointed on July,   2008.",
+   "htmlSnippet": "Rachel Whetstone joined Google in 2005, after \u003cb\u003e15\u003c/b\u003e years advising senior \u003cb\u003e....\u003c/b\u003e he \u003cbr\u003e  started developing his skills in indigenous communities in remote \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  wish list project for affected people after the Great East Japan \u003cb\u003eEarthquake\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e is \u003cbr\u003e  the executive advisor for Chief Information Officer of METI, appointed on \u003cb\u003eJuly\u003c/b\u003e, \u003cbr\u003e  2008.",
+   "cacheId": "t5acSvBKzlkJ",
+   "formattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "htmlFormattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/events/bigtent2012/images/speakers/RachelWhetstone.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7pg6PslvhOwpMTTQ6ehXO-T87KQ2rD9ASM4AKgL898RfQ_EEVfykf7A"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5885024 - Roof tile tie down clip - Google Patents",
+   "htmlTitle": "Patent US5885024 - Roof tile tie down clip - Google Patents",
+   "link": "http://www.google.com/patents/US5885024",
+   "displayLink": "www.google.com",
+   "snippet": "US217027, May 22, 1879, Jul 1, 1879, IMPROVEMENT IN VEHICLE-AXLES.   US378725 ... US4106253, Dec 21, 1976, Aug 15, 1978, Monier Colourtile Pty. ...   US5077952, Oct 12, 1989, Jan 7, 1992, Monier Roof Tile Inc. Roof tile clip ...   US6877284, Feb 28, 2001, Apr 12, 2005, Retrofit hurricane and earthquake   protection ...",
+   "htmlSnippet": "US217027, May 22, 1879, \u003cb\u003eJul\u003c/b\u003e 1, 1879, IMPROVEMENT IN VEHICLE-AXLES. \u003cbr\u003e  US378725 \u003cb\u003e...\u003c/b\u003e US4106253, Dec 21, 1976, Aug \u003cb\u003e15\u003c/b\u003e, 1978, Monier Colourtile Pty. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5077952, Oct 12, 1989, Jan 7, \u003cb\u003e1992\u003c/b\u003e, Monier Roof Tile Inc. Roof tile clip \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6877284, Feb 28, 2001, Apr 12, 2005, Retrofit hurricane and \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  protection \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5885024",
+   "htmlFormattedUrl": "www.google.com/patents/US5885024",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=EXEYAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiofgzqedu87NviTZ23Le4Le0boLPTqaMseUoc3uQ8rupwdVx-HSCkdQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A roof tile tie down clip for securing a roof tile to the surface of a roof. The roof tile tie down clip includes a base portion configured to rest against the surface of a roof, body portion...",
+      "url": "http://www.google.com/patents/US5885024?utm_source=gb-gplus-share",
+      "name": "Patent US5885024 - Roof tile tie down clip",
+      "image": "http://www.google.com/patents?id=EXEYAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5885024",
+      "title": "Patent US5885024 - Roof tile tie down clip",
+      "og:title": "Patent US5885024 - Roof tile tie down clip",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=EXEYAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

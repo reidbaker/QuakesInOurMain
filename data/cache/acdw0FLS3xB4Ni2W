@@ -1,0 +1,467 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 6 1971 Australia Earthquake",
+    "totalResults": "10",
+    "searchTerms": "Jul 6 1971 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.32336,
+  "formattedSearchTime": "0.32",
+  "totalResults": "10",
+  "formattedTotalResults": "10"
+ },
+ "spelling": {
+  "correctedQuery": "July 6 1971 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 6 1971 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7131238 - Method of testing seismic braces - Google ...",
+   "htmlTitle": "Patent US7131238 - Method of testing \u003cb\u003eseismic\u003c/b\u003e braces - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7131238",
+   "displayLink": "www.google.com",
+   "snippet": "Braces for bracing objects in structures against forces due to earthquakes are ...   US3714854, Jul 2, 1971, Feb 6, 1973, ELECTRO-HYDRAULIC SERVO VALVE ...   US3986808, Apr 14, 1975, Oct 19, 1976, ICI Australia Limited, Apparatus for ...",
+   "htmlSnippet": "Braces for bracing objects in structures against forces due to \u003cb\u003eearthquakes\u003c/b\u003e are \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US3714854, \u003cb\u003eJul\u003c/b\u003e 2, \u003cb\u003e1971\u003c/b\u003e, Feb \u003cb\u003e6\u003c/b\u003e, 1973, ELECTRO-HYDRAULIC SERVO VALVE \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US3986808, Apr 14, 1975, Oct 19, 1976, ICI \u003cb\u003eAustralia\u003c/b\u003e Limited, Apparatus for \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7131238",
+   "htmlFormattedUrl": "www.google.com/patents/US7131238",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=-F57AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQP11fpGwRXcjZQ3siKvlKgUMOSBmms_2Zvw_zZMGXZAThDZXPS7iRA"
+     }
+    ],
+    "book": [
+     {
+      "description": "Braces for bracing objects in structures against forces due to earthquakes are tested by subjecting components of the braces for attaching the braces to the object or structure to cyclic loading...",
+      "url": "http://www.google.com/patents/US7131238?utm_source=gb-gplus-share",
+      "name": "Patent US7131238 - Method of testing seismic braces",
+      "image": "http://www.google.com/patents?id=-F57AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7131238",
+      "title": "Patent US7131238 - Method of testing seismic braces",
+      "og:title": "Patent US7131238 - Method of testing seismic braces",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=-F57AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6415575 - Zipper sheathing tie down - Google Patents",
+   "htmlTitle": "Patent US6415575 - Zipper sheathing tie down - Google Patents",
+   "link": "http://www.google.com/patents/US6415575",
+   "displayLink": "www.google.com",
+   "snippet": "An improved metal connector that securely ties together sheathing and   underlying structural members on a building to prevent hurricane and earthquake ...",
+   "htmlSnippet": "An improved metal connector that securely ties together sheathing and \u003cbr\u003e  underlying structural members on a building to prevent hurricane and \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6415575",
+   "htmlFormattedUrl": "www.google.com/patents/US6415575",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=t-cJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzoDaZRTlnNdsj4_4T-lDAL-5KUBXE9HYF3pXPpKPlb6cYZAnJwtj8DQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved metal connector that securely ties together sheathing and underlying structural members on a building to prevent hurricane and earthquake damage. The connector has alternating sheathing...",
+      "url": "http://www.google.com/patents/US6415575?utm_source=gb-gplus-share",
+      "name": "Patent US6415575 - Zipper sheathing tie down",
+      "image": "http://www.google.com/patents?id=t-cJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6415575",
+      "title": "Patent US6415575 - Zipper sheathing tie down",
+      "og:title": "Patent US6415575 - Zipper sheathing tie down",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=t-cJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5065558 - Prefabricated modular building construction ...",
+   "htmlTitle": "Patent US5065558 - Prefabricated modular building construction \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5065558",
+   "displayLink": "www.google.com",
+   "snippet": "US2091061, Jul 3, 1936, Aug 24, 1937, BUILDING CONSTRUCTION ...   US3733757, Jul 30, 1971, 1973, CONCRETE BUILDING FRAME   CONSTRUCTION ... US4606165, Jun 20, 1985, Aug 19, 1986, Ron Allan   Industries (Australia) Pty. ... Earthquake, wind resistant and fire resistant pre-  fabricated building panels and ...",
+   "htmlSnippet": "US2091061, \u003cb\u003eJul\u003c/b\u003e 3, 1936, Aug 24, 1937, BUILDING CONSTRUCTION \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US3733757, \u003cb\u003eJul\u003c/b\u003e 30, \u003cb\u003e1971\u003c/b\u003e, 1973, CONCRETE BUILDING FRAME \u003cbr\u003e  CONSTRUCTION \u003cb\u003e...\u003c/b\u003e US4606165, Jun 20, 1985, Aug 19, 1986, Ron Allan \u003cbr\u003e  Industries (\u003cb\u003eAustralia\u003c/b\u003e) Pty. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e, wind resistant and fire resistant pre-\u003cbr\u003e  fabricated building panels and \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5065558",
+   "htmlFormattedUrl": "www.google.com/patents/US5065558",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Ev0iAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3o-nJuL3pOLRMxwP64EoTT2nbzX4X85D98k7FOh53cKORCeFjpVeIA"
+     }
+    ],
+    "book": [
+     {
+      "description": "Reinforced concrete wall components have top, bottom and side margins of a V-shape, and these margins have cooperative engagement with matching horizontal and vertical frame portions to provide...",
+      "url": "http://www.google.com/patents/US5065558?utm_source=gb-gplus-share",
+      "name": "Patent US5065558 - Prefabricated modular building construction system",
+      "image": "http://www.google.com/patents?id=Ev0iAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5065558",
+      "title": "Patent US5065558 - Prefabricated modular building construction system",
+      "og:title": "Patent US5065558 - Prefabricated modular building construction system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Ev0iAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8006459 - Shear plate - Google Patents",
+   "htmlTitle": "Patent US8006459 - Shear plate - Google Patents",
+   "link": "http://www.google.com/patents/US8006459",
+   "displayLink": "www.google.com",
+   "snippet": "Aug 30, 2011 ... Original Assignee: ITW Construction Systems Australia Pty Ltd ... US3600868,   Feb 28, 1969, Aug 24, 1971, SHEAR CONNECTORS ... US4067168, Jul 1, 1976,   Jan 10, 1978, Hilti Aktiengesellschaft, Connecting ... US6877284, Feb 28, 2001,   Apr 12, 2005, Retrofit hurricane and earthquake protection ...",
+   "htmlSnippet": "Aug 30, 2011 \u003cb\u003e...\u003c/b\u003e Original Assignee: ITW Construction Systems \u003cb\u003eAustralia\u003c/b\u003e Pty Ltd \u003cb\u003e...\u003c/b\u003e US3600868, \u003cbr\u003e  Feb 28, 1969, Aug 24, \u003cb\u003e1971\u003c/b\u003e, SHEAR CONNECTORS \u003cb\u003e...\u003c/b\u003e US4067168, \u003cb\u003eJul\u003c/b\u003e 1, 1976, \u003cbr\u003e  Jan 10, 1978, Hilti Aktiengesellschaft, Connecting \u003cb\u003e...\u003c/b\u003e US6877284, Feb 28, 2001, \u003cbr\u003e  Apr 12, 2005, Retrofit hurricane and \u003cb\u003eearthquake\u003c/b\u003e protection \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8006459",
+   "htmlFormattedUrl": "www.google.com/patents/US8006459",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=RmPtAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTaQXazIVe00bKu2BqSUmWgAkFtN1QimqEoQjHF1o7BuAjXY4s5EZvUdA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A shear plate for application to the outer end portion of a ferrule to be cast into a concrete component such as a wall panel, the shear plate having an outer portion engageable with the ferrule...",
+      "url": "http://www.google.com/patents/US8006459?utm_source=gb-gplus-share",
+      "name": "Patent US8006459 - Shear plate",
+      "image": "http://www.google.com/patents?id=RmPtAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8006459",
+      "title": "Patent US8006459 - Shear plate",
+      "og:title": "Patent US8006459 - Shear plate",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=RmPtAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5885024 - Roof tile tie down clip - Google Patents",
+   "htmlTitle": "Patent US5885024 - Roof tile tie down clip - Google Patents",
+   "link": "http://www.google.com/patents/US5885024",
+   "displayLink": "www.google.com",
+   "snippet": "US217027, May 22, 1879, Jul 1, 1879, IMPROVEMENT IN VEHICLE-AXLES.   US378725 ... US1399315, Apr 1, 1920, Dec 6, 1921, SHEET-METAL FASTENER   ... US3738076, Sep 7, 1971, 1973, NAILING CLIP FOR PLASTIC SIDING ...   US6877284, Feb 28, 2001, Apr 12, 2005, Retrofit hurricane and earthquake   protection ...",
+   "htmlSnippet": "US217027, May 22, 1879, \u003cb\u003eJul\u003c/b\u003e 1, 1879, IMPROVEMENT IN VEHICLE-AXLES. \u003cbr\u003e  US378725 \u003cb\u003e...\u003c/b\u003e US1399315, Apr 1, 1920, Dec \u003cb\u003e6\u003c/b\u003e, 1921, SHEET-METAL FASTENER \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US3738076, Sep 7, \u003cb\u003e1971\u003c/b\u003e, 1973, NAILING CLIP FOR PLASTIC SIDING \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6877284, Feb 28, 2001, Apr 12, 2005, Retrofit hurricane and \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  protection \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5885024",
+   "htmlFormattedUrl": "www.google.com/patents/US5885024",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=EXEYAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiofgzqedu87NviTZ23Le4Le0boLPTqaMseUoc3uQ8rupwdVx-HSCkdQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A roof tile tie down clip for securing a roof tile to the surface of a roof. The roof tile tie down clip includes a base portion configured to rest against the surface of a roof, body portion...",
+      "url": "http://www.google.com/patents/US5885024?utm_source=gb-gplus-share",
+      "name": "Patent US5885024 - Roof tile tie down clip",
+      "image": "http://www.google.com/patents?id=EXEYAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5885024",
+      "title": "Patent US5885024 - Roof tile tie down clip",
+      "og:title": "Patent US5885024 - Roof tile tie down clip",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=EXEYAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7191802 - Reinforcing wrap for plastic pipe - Google Patents",
+   "htmlTitle": "Patent US7191802 - Reinforcing wrap for plastic pipe - Google Patents",
+   "link": "http://www.google.com/patents/US7191802",
+   "displayLink": "www.google.com",
+   "snippet": "Mar 20, 2007 ... US3732662, Jul 30, 1971, 1973, METHOD OF FORMING, FILLING, ...   US3948294, Sep 16, 1974, Apr 6, 1976, Ameron, Inc. Impact-protective coating   for plastic pipe. US3952529, Apr 12, 1974, Apr 27, 1976, Earthquake fault zone ...   US6286557, Sep 11, 2000, Sep 11, 2001, Spiral Guard Australia Pty.",
+   "htmlSnippet": "Mar 20, 2007 \u003cb\u003e...\u003c/b\u003e US3732662, \u003cb\u003eJul\u003c/b\u003e 30, \u003cb\u003e1971\u003c/b\u003e, 1973, METHOD OF FORMING, FILLING, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US3948294, Sep 16, 1974, Apr \u003cb\u003e6\u003c/b\u003e, 1976, Ameron, Inc. Impact-protective coating \u003cbr\u003e  for plastic pipe. US3952529, Apr 12, 1974, Apr 27, 1976, \u003cb\u003eEarthquake\u003c/b\u003e fault zone \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6286557, Sep 11, 2000, Sep 11, 2001, Spiral Guard \u003cb\u003eAustralia\u003c/b\u003e Pty.",
+   "formattedUrl": "www.google.com/patents/US7191802",
+   "htmlFormattedUrl": "www.google.com/patents/US7191802",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Gp6rAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEadeLEUswMucgAsEH2I_rSJanJb2pc_K8elTfEOTQCJY4-9VYGN0c6pg"
+     }
+    ],
+    "book": [
+     {
+      "description": "The combination of a flexible pipe, e.g. plastic, and a reinforcing member mounted around the pipe to strengthen the pipe and to enhance its ability to resist deformation under load. In one...",
+      "url": "http://www.google.com/patents/US7191802?utm_source=gb-gplus-share",
+      "name": "Patent US7191802 - Reinforcing wrap for plastic pipe",
+      "image": "http://www.google.com/patents?id=Gp6rAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7191802",
+      "title": "Patent US7191802 - Reinforcing wrap for plastic pipe",
+      "og:title": "Patent US7191802 - Reinforcing wrap for plastic pipe",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Gp6rAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4300220 - Three component detector and housing for ...",
+   "htmlTitle": "Patent US4300220 - Three component detector and housing for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4300220",
+   "displayLink": "www.google.com",
+   "snippet": "US2215297, Feb 16, 1940, Sep 17, 1940, SEISMIC SURVEYING ... US3626364,   Jul 15, 1969, Dec 7, 1971, THREE-AXIS SEISMOMETER ... US4534020, Oct 19,   1981, Aug 6, 1985, Phillips Petroleum Company, Apparatus and method for   detecting seismic ... US7586809, Jul 20, 2005, Sep 8, 2009, Sercel Australia Pty.",
+   "htmlSnippet": "US2215297, Feb 16, 1940, Sep 17, 1940, \u003cb\u003eSEISMIC\u003c/b\u003e SURVEYING \u003cb\u003e...\u003c/b\u003e US3626364, \u003cbr\u003e  \u003cb\u003eJul\u003c/b\u003e 15, 1969, Dec 7, \u003cb\u003e1971\u003c/b\u003e, THREE-AXIS SEISMOMETER \u003cb\u003e...\u003c/b\u003e US4534020, Oct 19, \u003cbr\u003e  1981, Aug \u003cb\u003e6\u003c/b\u003e, 1985, Phillips Petroleum Company, Apparatus and method for \u003cbr\u003e  detecting \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US7586809, \u003cb\u003eJul\u003c/b\u003e 20, 2005, Sep 8, 2009, Sercel \u003cb\u003eAustralia\u003c/b\u003e Pty.",
+   "formattedUrl": "www.google.com/patents/US4300220",
+   "htmlFormattedUrl": "www.google.com/patents/US4300220",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=EjoCAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT8blpfm1zsRsnnCNK7FZub4YeIskal5ucF_ZvQRoYPc62aMXqY8XLy54Q"
+     }
+    ],
+    "book": [
+     {
+      "description": "A detector utilizing three seismometers is provided which is operable to detect three components of particle motion waves....",
+      "url": "http://www.google.com/patents/US4300220?utm_source=gb-gplus-share",
+      "name": "Patent US4300220 - Three component detector and housing for same",
+      "image": "http://www.google.com/patents?id=EjoCAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4300220",
+      "title": "Patent US4300220 - Three component detector and housing for same",
+      "og:title": "Patent US4300220 - Three component detector and housing for same",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=EjoCAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7334372 - Top flange hanger with strengthening ...",
+   "htmlTitle": "Patent US7334372 - Top flange hanger with strengthening \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7334372",
+   "displayLink": "www.google.com",
+   "snippet": "US478163, Aug 22, 1891, Jul 5, 1892, WROUGHT-METAL HANGER FOR   JOISTS ... US924842, Apr 6, 1908, Jun 15, 1909, JOIST-HANGKER ...   US3703304, Sep 9, 1971, Nov 2, 1972, CONSTRUCTION ELEMENT WITH   ANCHOR TEETH ... US5297886, Nov 20, 1992, Mar 29, 1994, Stratco (Australia)   Pty Limited ...",
+   "htmlSnippet": "US478163, Aug 22, 1891, \u003cb\u003eJul\u003c/b\u003e 5, 1892, WROUGHT-METAL HANGER FOR \u003cbr\u003e  JOISTS \u003cb\u003e...\u003c/b\u003e US924842, Apr \u003cb\u003e6\u003c/b\u003e, 1908, Jun 15, 1909, JOIST-HANGKER \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US3703304, Sep 9, \u003cb\u003e1971\u003c/b\u003e, Nov 2, 1972, CONSTRUCTION ELEMENT WITH \u003cbr\u003e  ANCHOR TEETH \u003cb\u003e...\u003c/b\u003e US5297886, Nov 20, 1992, Mar 29, 1994, Stratco (\u003cb\u003eAustralia\u003c/b\u003e) \u003cbr\u003e  Pty Limited \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7334372",
+   "htmlFormattedUrl": "www.google.com/patents/US7334372",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=yrCoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRr8eDYw9Cg4FkbiNaXWKGF5zTL-pCXUgPevz4zwQTvHE3UPVWs3WCTANI"
+     }
+    ],
+    "book": [
+     {
+      "description": "A structural connector for connecting first and second structural members has a substantially planar first flange and an embossment in the first flange, and the embossment in the first flange...",
+      "url": "http://www.google.com/patents/US7334372?utm_source=gb-gplus-share",
+      "name": "Patent US7334372 - Top flange hanger with strengthening embossment",
+      "image": "http://www.google.com/patents?id=yrCoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7334372",
+      "title": "Patent US7334372 - Top flange hanger with strengthening embossment",
+      "og:title": "Patent US7334372 - Top flange hanger with strengthening embossment",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=yrCoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6637161 - Floor system - Google Patents",
+   "htmlTitle": "Patent US6637161 - Floor system - Google Patents",
+   "link": "http://www.google.com/patents/US6637161",
+   "displayLink": "www.google.com",
+   "snippet": "US3616584, Jan 6, 1970, Nov 2, 1971, ELEVATED FLOOR ASSEMBLY ...   US4035967, Dec 19, 1973, Jul 19, 1977, A. R. I. Propaflor Limited, Raised floor   panels ... US4905437, Sep 8, 1988, Mar 6, 1990, Cablefloor (Australia) Pty. ...   US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular earthquake   support for ...",
+   "htmlSnippet": "US3616584, Jan \u003cb\u003e6\u003c/b\u003e, 1970, Nov 2, \u003cb\u003e1971\u003c/b\u003e, ELEVATED FLOOR ASSEMBLY \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4035967, Dec 19, 1973, \u003cb\u003eJul\u003c/b\u003e 19, 1977, A. R. I. Propaflor Limited, Raised floor \u003cbr\u003e  panels \u003cb\u003e...\u003c/b\u003e US4905437, Sep 8, 1988, Mar \u003cb\u003e6\u003c/b\u003e, 1990, Cablefloor (\u003cb\u003eAustralia\u003c/b\u003e) Pty. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  support for \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6637161",
+   "htmlFormattedUrl": "www.google.com/patents/US6637161",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=A6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwXjmFOCM7OPATNjupEBLUZGvkKz98Ne70n2lN2UaGBlIPgz_Xq2S7Bs0"
+     }
+    ],
+    "book": [
+     {
+      "description": "A floor system for providing a raised floor above a sub-floor in a work environment is disclosed. The floor system includes a plurality of pedestals, a plurality of panels having side cutouts...",
+      "url": "http://www.google.com/patents/US6637161?utm_source=gb-gplus-share",
+      "name": "Patent US6637161 - Floor system",
+      "image": "http://www.google.com/patents?id=A6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6637161",
+      "title": "Patent US6637161 - Floor system",
+      "og:title": "Patent US6637161 - Floor system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=A6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

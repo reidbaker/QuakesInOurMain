@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.util.Arrays;
 
 public class Theme {
-
+    public static final int HIGHLIGHTED_COLOR = 0xFFC9D94E;
 	private static final int baseUIColor = 0xFF00678B;
 	private static final int backgroundColor = 0xFFEEEEEE;
 
@@ -18,37 +18,37 @@ public class Theme {
 	 * Color pallette for drawing all the data.
 	 */
 	private static final int[] pallette = new int[]{
-		0xFFF23535,
-		0xFFF2762E,
-		0xFFF2AC29,
-		0xFFC9D94E,
-		0xFF03A688,
-		 
-		0xFF79C7D9,
-		0xFF58838C,
-		0xFFBF996B,
-		0xFFF2BC79,
-		0xFFF28972,
-		
-		0xFF9BF2EA,
-		0xFF497358,
-		0xFFCE1A53,
-		0xFF79637E,
-		0xFF0071BC,
-		
-		0xFFBC6F00,
-		0xFF1D8F49,
-		0xFFD62BD9,
-		0xFFFFE800,
-		0xFFD96AA3,
+	    //continents
+	    0xff03a688,
+	    0xffc9d94e,
+	    0xfff23535,
+	    0xfff2762e,
+	    0xfff2ac29,
+	    0xff58838c,
+	    0xff79c7d9,
+	    
+	    //dependency
+	    0xffbf996b,
+	    0xfff28972,
+	    0xfff2bc79,
+	    
+	    //types
+	    0xff0071bc,
+	    0xff497358,
+	    0xff79637e,
+	    0xff9bf2ea,
+	    0xffce1a53,
+	       
+            //depth
+	    0xff1d8f49,
+	    
+	    
+	    0xffbc6f00,
+	    0xffd62bd9,
+	    0xffd96aa3,
+	    0xffffe800,
 	};
-	
-	static{
-		Arrays.sort(pallette, 0 , 5);
-		Arrays.sort(pallette, 5, 10);
-		Arrays.sort(pallette, 10, 15);
-		Arrays.sort(pallette, 15, 20);
-	}
+
 
 	private static float[] getHSB(int rgbColor) {
 		float[] hsb = new float[3];
