@@ -1,0 +1,464 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 25 1988 North America Earthquake",
+    "totalResults": "81",
+    "searchTerms": "Nov 25 1988 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 25 1988 North America Earthquake",
+    "totalResults": "81",
+    "searchTerms": "Nov 25 1988 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.378758,
+  "formattedSearchTime": "0.38",
+  "totalResults": "81",
+  "formattedTotalResults": "81"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6098969 - Structural vibration damper with continuously ...",
+   "htmlTitle": "Patent US6098969 - Structural vibration damper with continuously \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6098969",
+   "displayLink": "www.google.com",
+   "snippet": "US4736931, Oct 3, 1986, Apr 12, 1988, Dampening shock absorber ... Jun 25,   1991, Kajima Corporation, Compound seismic response and wind control system   ... US5065552, Feb 5, 1990, Nov 19, 1991, Kajima Corporation, Active seismic ...   Nov 23, 2010, Toyota Motor Engineering & Manufacturing North America, Inc.",
+   "htmlSnippet": "US4736931, Oct 3, 1986, Apr 12, \u003cb\u003e1988\u003c/b\u003e, Dampening shock absorber \u003cb\u003e...\u003c/b\u003e Jun \u003cb\u003e25\u003c/b\u003e, \u003cbr\u003e  1991, Kajima Corporation, Compound \u003cb\u003eseismic\u003c/b\u003e response and wind control system \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US5065552, Feb 5, 1990, \u003cb\u003eNov\u003c/b\u003e 19, 1991, Kajima Corporation, Active \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNov\u003c/b\u003e 23, 2010, Toyota Motor Engineering &amp; Manufacturing \u003cb\u003eNorth America\u003c/b\u003e, Inc.",
+   "formattedUrl": "www.google.com/patents/US6098969",
+   "htmlFormattedUrl": "www.google.com/patents/US6098969",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=QVYDAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVsSnlyEIBey4O_ggyR_KUeV8RN9eUPliybFwEJ-5-VVyPa51sdkhe3Ng"
+     }
+    ],
+    "book": [
+     {
+      "description": "A semi-active variable stiffness control (SAIVS) device, which can change its stiffness continuously and smoothly between a maximum and minimum stiffness. It comprises four spring and telescoping...",
+      "url": "http://www.google.com/patents/US6098969?utm_source=gb-gplus-share",
+      "name": "Patent US6098969 - Structural vibration damper with continuously variable stiffness",
+      "image": "http://www.google.com/patents?id=QVYDAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6098969",
+      "title": "Patent US6098969 - Structural vibration damper with continuously variable stiffness",
+      "og:title": "Patent US6098969 - Structural vibration damper with continuously variable stiffness",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=QVYDAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Events | Big Tent 2012",
+   "htmlTitle": "Google Events | Big Tent 2012",
+   "link": "http://www.google.com/events/bigtent2012/speakers.html",
+   "displayLink": "www.google.com",
+   "snippet": "In November 2008, the United Nations Secretary-General Ban Ki-moon   announced ... wish list project for affected people after the Great East Japan   Earthquake. ... with over 15 years of working experience in the North America   and Asia region. .... developed Japan University UNIX Network; 1988,   established WIDE Project, ...",
+   "htmlSnippet": "In \u003cb\u003eNovember\u003c/b\u003e 2008, the United Nations Secretary-General Ban Ki-moon \u003cbr\u003e  announced \u003cb\u003e...\u003c/b\u003e wish list project for affected people after the Great East Japan \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e with over 15 years of working experience in the \u003cb\u003eNorth America\u003c/b\u003e \u003cbr\u003e  and Asia region. \u003cb\u003e....\u003c/b\u003e developed Japan University UNIX Network; \u003cb\u003e1988\u003c/b\u003e, \u003cbr\u003e  established WIDE Project, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "t5acSvBKzlkJ",
+   "formattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "htmlFormattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/events/bigtent2012/images/speakers/RachelWhetstone.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7pg6PslvhOwpMTTQ6ehXO-T87KQ2rD9ASM4AKgL898RfQ_EEVfykf7A"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "... model when performing multi-scale inversion of seismic data ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e model when performing multi-scale inversion of \u003cb\u003eseismic\u003c/b\u003e data \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5232073 - Process for damping dynamic load - Google ...",
+   "htmlTitle": "Patent US5232073 - Process for damping dynamic load - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5232073",
+   "displayLink": "www.google.com",
+   "snippet": "US4779853, Aug 27, 1987, Oct 25, 1988, Nissan Motor Co., Ltd. Method of ...   response of slender elastic structures to vibrations such as from earthquakes ...   US5809829, Nov 25, 1996, Sep 22, 1998, Amada Mfg America Inc. ...   US6793050, Aug 30, 2001, Sep 21, 2004, GKN Driveline North America, Inc.   Dynamic damper ...",
+   "htmlSnippet": "US4779853, Aug 27, 1987, Oct \u003cb\u003e25\u003c/b\u003e, \u003cb\u003e1988\u003c/b\u003e, Nissan Motor Co., Ltd. Method of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  response of slender elastic structures to vibrations such as from \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5809829, \u003cb\u003eNov 25\u003c/b\u003e, 1996, Sep 22, 1998, Amada Mfg America Inc. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6793050, Aug 30, 2001, Sep 21, 2004, GKN Driveline \u003cb\u003eNorth America\u003c/b\u003e, Inc. \u003cbr\u003e  Dynamic damper \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5232073",
+   "htmlFormattedUrl": "www.google.com/patents/US5232073",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=xzsdAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSF4EIAaDqQyEGUGKEp12bYreitsSZduOwkfNGGTac9ogfYIerkV7aKYA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A composite structure of elastic and viscoelastic components in which dynamic loads are effectively damped by transmission through the viscoelastic components. The structure includes a continuous...",
+      "url": "http://www.google.com/patents/US5232073?utm_source=gb-gplus-share",
+      "name": "Patent US5232073 - Process for damping dynamic load",
+      "image": "http://www.google.com/patents?id=xzsdAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5232073",
+      "title": "Patent US5232073 - Process for damping dynamic load",
+      "og:title": "Patent US5232073 - Process for damping dynamic load",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=xzsdAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8121823 - Iterative inversion of data from simultaneous ...",
+   "htmlTitle": "Patent US8121823 - Iterative inversion of data from simultaneous \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8121823",
+   "displayLink": "www.google.com",
+   "snippet": "US3812457, Nov 17, 1969, 1974, SEISMIC EXPLORATION METHOD ... Oct 25,   1988, Institut Francais du Petrole, Off-shore seismic prospection method ....   US7725266, May 31, 2007, May 25, 2010, BP Corporation North America Inc.   System ...",
+   "htmlSnippet": "US3812457, \u003cb\u003eNov\u003c/b\u003e 17, 1969, 1974, \u003cb\u003eSEISMIC\u003c/b\u003e EXPLORATION METHOD \u003cb\u003e...\u003c/b\u003e Oct \u003cb\u003e25\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e1988\u003c/b\u003e, Institut Francais du Petrole, Off-shore \u003cb\u003eseismic\u003c/b\u003e prospection method \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  US7725266, May 31, 2007, May \u003cb\u003e25\u003c/b\u003e, 2010, BP Corporation \u003cb\u003eNorth America\u003c/b\u003e Inc. \u003cbr\u003e  System \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8121823",
+   "htmlFormattedUrl": "www.google.com/patents/US8121823",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0TCwxQzj2yASXEPyp88Z__B3I4k0NfjDGjx5u6qG-5VYlAALARvEnh4Q"
+     }
+    ],
+    "book": [
+     {
+      "description": "Method for reducing the time needed to perform geophysical inversion by using simultaneous encoded sources in the simulation steps of the inversion process. The geophysical survey data are...",
+      "url": "http://www.google.com/patents/US8121823?utm_source=gb-gplus-share",
+      "name": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8121823",
+      "title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5015123 - Method and apparatus for installation of - Google",
+   "htmlTitle": "Patent US5015123 - Method and apparatus for installation of - Google",
+   "link": "http://www.google.com/patents/US5015123",
+   "displayLink": "www.google.com",
+   "snippet": "US4762149, Nov 25, 1987, Aug 9, 1988, Double seal press assembled check ...   US6991408, Apr 29, 2003, Jan 31, 2006, North American Profill Products Inc.",
+   "htmlSnippet": "US4762149, \u003cb\u003eNov 25\u003c/b\u003e, 1987, Aug 9, \u003cb\u003e1988\u003c/b\u003e, Double seal press assembled check \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6991408, Apr 29, 2003, Jan 31, 2006, \u003cb\u003eNorth American\u003c/b\u003e Profill Products Inc.",
+   "formattedUrl": "www.google.com/patents/US5015123",
+   "htmlFormattedUrl": "www.google.com/patents/US5015123",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=WW8jAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8noIoDugTSdDWx5NeEDzxC_Tf3KWHGW0JUhgA_dESZRuTfdxQb4KdvQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A preassembled unit for a sewage nitrification field has minimum outward dimensions of loose, lightweight plastic aggregate material enveloped and bound by a plastic sleeve around a horizontal...",
+      "url": "http://www.google.com/patents/US5015123?utm_source=gb-gplus-share",
+      "name": "Patent US5015123 - Method and apparatus for installation of drainage field",
+      "image": "http://www.google.com/patents?id=WW8jAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5015123",
+      "title": "Patent US5015123 - Method and apparatus for installation of drainage field",
+      "og:title": "Patent US5015123 - Method and apparatus for installation of drainage field",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=WW8jAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent USD573369 - Moveable stand-alone wire display and - Google",
+   "htmlTitle": "Patent USD573369 - Moveable stand-alone wire display and - Google",
+   "link": "http://www.google.com/patents/USD573369",
+   "displayLink": "www.google.com",
+   "snippet": "Cited Patent, Filing date, Issue date, Original Assignee, Title.",
+   "htmlSnippet": "Cited Patent, Filing date, Issue date, Original Assignee, Title.",
+   "formattedUrl": "www.google.com/patents/USD573369",
+   "htmlFormattedUrl": "www.google.com/patents/USD573369",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=YFOrAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQduH58cJz9Jlt99gABJOAl704H4zJtIK5kZHeT36oPZdYgKURriJofrCg"
+     }
+    ],
+    "book": [
+     {
+      "description": "www.google.com",
+      "url": "http://www.google.com/patents/USD573369?utm_source=gb-gplus-share",
+      "name": "Patent USD573369 - Moveable stand-alone wire display and shelving unit",
+      "image": "http://www.google.com/patents?id=YFOrAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/USD573369",
+      "title": "Patent USD573369 - Moveable stand-alone wire display and shelving unit",
+      "og:title": "Patent USD573369 - Moveable stand-alone wire display and shelving unit",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=YFOrAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5043033 - Process of improving the strength of existing ...",
+   "htmlTitle": "Patent US5043033 - Process of improving the strength of existing \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5043033",
+   "displayLink": "www.google.com",
+   "snippet": "US4786341, Apr 15, 1987, Nov 22, 1988, Mitsubishi Chemical Industries Limited   ... of making fabric reinforced concrete columns to provide earthquake protection   ... Jeda/America, Inc. Reversible decorative tile and method of finishing same in   situ ... US6872030, Jan 25, 2002, Mar 29, 2005, North Pacific Group, Inc. Wood ...",
+   "htmlSnippet": "US4786341, Apr 15, 1987, \u003cb\u003eNov\u003c/b\u003e 22, \u003cb\u003e1988\u003c/b\u003e, Mitsubishi Chemical Industries Limited \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e of making fabric reinforced concrete columns to provide \u003cb\u003eearthquake\u003c/b\u003e protection \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Jeda/\u003cb\u003eAmerica\u003c/b\u003e, Inc. Reversible decorative tile and method of finishing same in \u003cbr\u003e  situ \u003cb\u003e...\u003c/b\u003e US6872030, Jan \u003cb\u003e25\u003c/b\u003e, 2002, Mar 29, 2005, \u003cb\u003eNorth\u003c/b\u003e Pacific Group, Inc. Wood \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5043033",
+   "htmlFormattedUrl": "www.google.com/patents/US5043033",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=zIAhAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHgQz5oW1rFGZnLFBzDABSYmqBZqA86p1jGm-_Y2kmQRHWmHyAp70xfg"
+     }
+    ],
+    "book": [
+     {
+      "description": "In a concrete column supporting an overhead load and having a base end resting on a surface, a process of strengthening the column to increase its ability to withstand atypical physical loading...",
+      "url": "http://www.google.com/patents/US5043033?utm_source=gb-gplus-share",
+      "name": "Patent US5043033 - Process of improving the strength of existing concrete support columns",
+      "image": "http://www.google.com/patents?id=zIAhAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5043033",
+      "title": "Patent US5043033 - Process of improving the strength of existing concrete support columns",
+      "og:title": "Patent US5043033 - Process of improving the strength of existing concrete support columns",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=zIAhAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5992094 - Access control vestibule - Google Patents",
+   "htmlTitle": "Patent US5992094 - Access control vestibule - Google Patents",
+   "link": "http://www.google.com/patents/US5992094",
+   "displayLink": "www.google.com",
+   "snippet": "US4741275, Nov 26, 1984, May 3, 1988, Device for controlling accesses of the   security ... US5644236, Mar 31, 1995, Jul 1, 1997, New Holland North America,   Inc. ... US7375646, May 5, 2006, May 20, 2008, Seismic detection and response   system ... US8242905, Mar 25, 2009, Aug 14, 2012, Honeywell International Inc.",
+   "htmlSnippet": "US4741275, \u003cb\u003eNov\u003c/b\u003e 26, 1984, May 3, \u003cb\u003e1988\u003c/b\u003e, Device for controlling accesses of the \u003cbr\u003e  security \u003cb\u003e...\u003c/b\u003e US5644236, Mar 31, 1995, Jul 1, 1997, New Holland \u003cb\u003eNorth America\u003c/b\u003e, \u003cbr\u003e  Inc. \u003cb\u003e...\u003c/b\u003e US7375646, May 5, 2006, May 20, 2008, \u003cb\u003eSeismic\u003c/b\u003e detection and response \u003cbr\u003e  system \u003cb\u003e...\u003c/b\u003e US8242905, Mar \u003cb\u003e25\u003c/b\u003e, 2009, Aug 14, 2012, Honeywell International Inc.",
+   "formattedUrl": "www.google.com/patents/US5992094",
+   "htmlFormattedUrl": "www.google.com/patents/US5992094",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg6fhB5aDCQzLpvMx_AVG57c8belf9X2C-yP7uIpJPD4wNA8FCx7JJgQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "An access control chamber security system with a security chamber having an aluminum frame and an entrance door and an exit door, a metal detector located within the access control chamber...",
+      "url": "http://www.google.com/patents/US5992094?utm_source=gb-gplus-share",
+      "name": "Patent US5992094 - Access control vestibule",
+      "image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5992094",
+      "title": "Patent US5992094 - Access control vestibule",
+      "og:title": "Patent US5992094 - Access control vestibule",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4258421 - Vehicle monitoring and recording system ...",
+   "htmlTitle": "Patent US4258421 - Vehicle monitoring and recording system \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4258421",
+   "displayLink": "www.google.com",
+   "snippet": "US4604699, Jan 25, 1984, Aug 5, 1986, The United States of America as   represented by the Secretary of the Interior, General earthquake observation   system ... US4853859, Nov 8, 1988, Aug 1, 1989, Shin Caterpillar Mitsubishi Ltd.   Operation ..... US6366848, Sep 19, 2000, Apr 2, 2002, Volvo Trucks North   America, Inc.",
+   "htmlSnippet": "US4604699, Jan \u003cb\u003e25\u003c/b\u003e, 1984, Aug 5, 1986, The United States of America as \u003cbr\u003e  represented by the Secretary of the Interior, General \u003cb\u003eearthquake\u003c/b\u003e observation \u003cbr\u003e  system \u003cb\u003e...\u003c/b\u003e US4853859, \u003cb\u003eNov\u003c/b\u003e 8, \u003cb\u003e1988\u003c/b\u003e, Aug 1, 1989, Shin Caterpillar Mitsubishi Ltd. \u003cbr\u003e  Operation \u003cb\u003e.....\u003c/b\u003e US6366848, Sep 19, 2000, Apr 2, 2002, Volvo Trucks \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e, Inc.",
+   "formattedUrl": "www.google.com/patents/US4258421",
+   "htmlFormattedUrl": "www.google.com/patents/US4258421",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWpHD7PzKDd_q-rDLXqpM3vxbvPz1rlYUI4KESDu5j3m9Fzfb-2aNKfA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A device monitoring and recording system is described which is particularly applicable to on-board vehicle monitoring and recording of operating engine parameters. The system comprises a plurality...",
+      "url": "http://www.google.com/patents/US4258421?utm_source=gb-gplus-share",
+      "name": "Patent US4258421 - Vehicle monitoring and recording system",
+      "image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4258421",
+      "title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

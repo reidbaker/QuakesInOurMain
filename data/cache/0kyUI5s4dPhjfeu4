@@ -1,0 +1,301 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 5 2000 India Earthquake",
+    "totalResults": "2080",
+    "searchTerms": "Sep 5 2000 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 5 2000 India Earthquake",
+    "totalResults": "2080",
+    "searchTerms": "Sep 5 2000 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.426344,
+  "formattedSearchTime": "0.43",
+  "totalResults": "2080",
+  "formattedTotalResults": "2,080"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 5 2000 India Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 5 2000 India Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ?? 1998 ?? 1999 ?? 2000 ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007 ??   2008 ?? 2009 ... Google files for incorporation in California on September 4.",
+   "htmlSnippet": "1995-1997 ?? 1998 ?? 1999 ?? \u003cb\u003e2000\u003c/b\u003e ?? 2001 ?? 2002 ?? 2003 ?? 2004 ?? 2005 ?? 2006 ?? 2007 ?? \u003cbr\u003e  2008 ?? 2009 \u003cb\u003e...\u003c/b\u003e Google files for incorporation in California on \u003cb\u003eSeptember\u003c/b\u003e 4.",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1000 or More Deaths since 1900",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1SaB0_vb17BKtxDKfbaRFXTj1Ku1GCN4uOfLMrjw",
+   "displayLink": "www.google.com",
+   "snippet": "At least 15 million people were evacuated from their homes and more than 5 ....   Believed to be the largest earthquake in this area in more than 2000 years, 2,   wht_blank .... 29 september 1993, J, Latur-Killari, India, 18.1N 76.5E, 9748, C, 6.2 ...",
+   "htmlSnippet": "At least 15 million people were evacuated from their homes and more than \u003cb\u003e5\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Believed to be the largest \u003cb\u003eearthquake\u003c/b\u003e in this area in more than \u003cb\u003e2000\u003c/b\u003e years, 2, \u003cbr\u003e  wht_blank \u003cb\u003e....\u003c/b\u003e 29 \u003cb\u003eseptember\u003c/b\u003e 1993, J, Latur-Killari, \u003cb\u003eIndia\u003c/b\u003e, 18.1N 76.5E, 9748, C, 6.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7FpDh8zgz-AJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall ...",
+   "htmlTitle": "Patent US5490655 - Video/data projector and monitor ceiling/wall \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5490655",
+   "displayLink": "www.google.com",
+   "snippet": "Seismic cables may be added for extra support in case of earthquake. ...   US3661415, Dec 5, 1969, 1972, HOIST SYSTEM ... US6042068, Sep 4, 1997,   Mar 28, 2000, Peerless Indsutries, Inc. Low profile LCD projector mount ...   USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, Ind. Universal   mounting system ...",
+   "htmlSnippet": "Seismic cables may be added for extra support in case of \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US3661415, \u003cb\u003eDec 5\u003c/b\u003e, 1969, 1972, HOIST SYSTEM \u003cb\u003e...\u003c/b\u003e US6042068, \u003cb\u003eSep\u003c/b\u003e 4, 1997, \u003cbr\u003e  Mar 28, \u003cb\u003e2000\u003c/b\u003e, Peerless Indsutries, Inc. Low profile LCD projector mount \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, \u003cb\u003eInd\u003c/b\u003e. Universal \u003cbr\u003e  mounting system \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5490655",
+   "htmlFormattedUrl": "www.google.com/patents/US5490655",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-w7ogDtwXRdac-ys5vaE2g3t1ewYdc0nYfyhT4RJOnAOVCirfukt9ZzM"
+     }
+    ],
+    "book": [
+     {
+      "description": "A mount than secures a projector or monitor to a ceiling or wall is disclosed. The mount uses struts that form channels which support the projector/monitor and provide alternate channels for...",
+      "url": "http://www.google.com/patents/US5490655?utm_source=gb-gplus-share",
+      "name": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
+      "image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5490655",
+      "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
+      "og:title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7284358 - Methods of manufacturing bearing brace ...",
+   "htmlTitle": "Patent US7284358 - Methods of manufacturing bearing brace \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7284358",
+   "displayLink": "www.google.com",
+   "snippet": "US3355852, Nov 12, 1963, Dec 5, 1967, FIREPROOF BUILDING COLUMN   ASSEMBLIES ... Tube Investments of India Limited, Sleeved compression   member ... 2000, Mar 12, 2002, Oiles Corporation, Columnar structure with   earthquake ...",
+   "htmlSnippet": "US3355852, Nov 12, 1963, \u003cb\u003eDec 5\u003c/b\u003e, 1967, FIREPROOF BUILDING COLUMN \u003cbr\u003e  ASSEMBLIES \u003cb\u003e...\u003c/b\u003e Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression \u003cbr\u003e  member \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2000\u003c/b\u003e, Mar 12, 2002, Oiles Corporation, Columnar structure with \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7284358",
+   "htmlFormattedUrl": "www.google.com/patents/US7284358",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=fIaRAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBO8QXC3fKSYLmA9YGa9unSjTw9g82kXfshzK9NFi_0RBn-1gukm39s8g"
+     }
+    ],
+    "book": [
+     {
+      "description": "The present invention is directed to a brace apparatus having a core member configured to absorb energy generated by seismic or other forces by undergoing plastic deformation. A buckling restrainin...",
+      "url": "http://www.google.com/patents/US7284358?utm_source=gb-gplus-share",
+      "name": "Patent US7284358 - Methods of manufacturing bearing brace apparatus",
+      "image": "http://www.google.com/patents?id=fIaRAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7284358",
+      "title": "Patent US7284358 - Methods of manufacturing bearing brace apparatus",
+      "og:title": "Patent US7284358 - Methods of manufacturing bearing brace apparatus",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=fIaRAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7762026 - Bearing brace apparatus - Google Patents",
+   "htmlTitle": "Patent US7762026 - Bearing brace apparatus - Google Patents",
+   "link": "http://www.google.com/patents/US7762026",
+   "displayLink": "www.google.com",
+   "snippet": "US3355852, Nov 12, 1963, Dec 5, 1967, FIREPROOF BUILDING COLUMN   ASSEMBLIES ... Tube Investments of India Limited, Sleeved compression   member ... 2000, Mar 12, 2002, Oiles Corporation, Columnar structure with   earthquake ...",
+   "htmlSnippet": "US3355852, Nov 12, 1963, \u003cb\u003eDec 5\u003c/b\u003e, 1967, FIREPROOF BUILDING COLUMN \u003cbr\u003e  ASSEMBLIES \u003cb\u003e...\u003c/b\u003e Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression \u003cbr\u003e  member \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2000\u003c/b\u003e, Mar 12, 2002, Oiles Corporation, Columnar structure with \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7762026",
+   "htmlFormattedUrl": "www.google.com/patents/US7762026",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=hmDSAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNzM1-ctUKayqj8IZjTut3Bl9xjpwg2_iJALxUyAbwdo8VonOB8Bcbay0"
+     }
+    ],
+    "book": [
+     {
+      "description": "The present invention is directed to a brace apparatus having a core member configured to absorb energy generated by seismic or other forces by undergoing plastic deformation. A buckling restrainin...",
+      "url": "http://www.google.com/patents/US7762026?utm_source=gb-gplus-share",
+      "name": "Patent US7762026 - Bearing brace apparatus",
+      "image": "http://www.google.com/patents?id=hmDSAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7762026",
+      "title": "Patent US7762026 - Bearing brace apparatus",
+      "og:title": "Patent US7762026 - Bearing brace apparatus",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=hmDSAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | quakedeaths",
+   "htmlTitle": "Google Fusion Tables | quakedeaths",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1kHPYUeIPnvkWVOjj971yciR2DIFV3NGIKWK3cyY",
+   "displayLink": "www.google.com",
+   "snippet": "Date UTC, Location, Deaths, Magnitude, Comments.",
+   "htmlSnippet": "Date UTC, Location, Deaths, Magnitude, Comments.",
+   "cacheId": "wA5dk2gTgI0J",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/intl/en_uk/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "Google files for incorporation in California on 4 September. .... We spotlight our   new engineering offices in Bangalore and Hyderabad, India, with a visit from ...",
+   "htmlSnippet": "Google files for incorporation in California on 4 \u003cb\u003eSeptember\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e We spotlight our \u003cbr\u003e  new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e, with a visit from \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Uz9ka1X37zwJ",
+   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent EP1781239A2 - Compositions effective in altering the ...",
+   "htmlTitle": "Patent EP1781239A2 - Compositions effective in altering the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/EP1781239A2?cl=en",
+   "displayLink": "www.google.com",
+   "snippet": "5. The composition of clMm 2, wherein the source of sMd franldncense is .....   Senses 2000, 25, 111-116) Through a not entirely understood mechanism,   signals ... surgery; rescue operations, especially resulting from earthquakes or   massive ..... free and peeling off a strip of bark therefrom, from May until   September.",
+   "htmlSnippet": "\u003cb\u003e5\u003c/b\u003e. The composition of clMm 2, wherein the source of sMd franldncense is \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Senses \u003cb\u003e2000\u003c/b\u003e, 25, 111-116) Through a not entirely understood mechanism, \u003cbr\u003e  signals \u003cb\u003e...\u003c/b\u003e surgery; rescue operations, especially resulting from \u003cb\u003eearthquakes\u003c/b\u003e or \u003cbr\u003e  massive \u003cb\u003e.....\u003c/b\u003e free and peeling off a strip of bark therefrom, from May until \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e.",
+   "formattedUrl": "www.google.com/patents/EP1781239A2?cl=en",
+   "htmlFormattedUrl": "www.google.com/patents/EP1781239A2?cl=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "book": [
+     {
+      "description": "A method of modifying perception of a malodor, such as the stench associated with putrefying flesh, by selectively affecting specific olfactory receptors in an individual is disclosed. Disclosed...",
+      "url": "http://www.google.com/patents/EP1781239A2?cl=en&utm_source=gb-gplus-share",
+      "name": "Patent EP1781239A2 - Compositions effective in altering the perception of malodor",
+      "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/EP1781239A2?cl=en",
+      "title": "Patent EP1781239A2 - Compositions effective in altering the perception of malodor",
+      "og:title": "Patent EP1781239A2 - Compositions effective in altering the perception of malodor",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | Bihar Tourism Map",
+   "htmlTitle": "Google Fusion Tables | Bihar Tourism Map",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1MBJ5As4oWPQYQjivEs4GdBAEqh7o0s1pn9aQB-4",
+   "displayLink": "www.google.com",
+   "snippet": "description, name, location, geometry, icon, image, status ...",
+   "htmlSnippet": "description, name, location, geometry, icon, image, status \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b1dSPNE1na8J",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid...4",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid...4"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | AKv2",
+   "htmlTitle": "Google Fusion Tables | AKv2",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1E-mlqcBdjdJh9iRpXyrUSoprW7D5Hfo1_D20rg",
+   "displayLink": "www.google.com",
+   "snippet": "Number, Status, Port of Call, Country, Location, Blog, Photo ...",
+   "htmlSnippet": "Number, Status, Port of Call, Country, Location, Blog, Photo \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZKdcpLNApXsJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1E...D20rg",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1E...D20rg"
+  }
+ ]
+}

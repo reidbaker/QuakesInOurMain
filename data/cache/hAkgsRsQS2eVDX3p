@@ -1,0 +1,209 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 18 1961 Australia Earthquake",
+    "totalResults": "4",
+    "searchTerms": "Jun 18 1961 Australia Earthquake",
+    "count": 4,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.396124,
+  "formattedSearchTime": "0.40",
+  "totalResults": "4",
+  "formattedTotalResults": "4"
+ },
+ "spelling": {
+  "correctedQuery": "June 18 1961 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 18 1961 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4896985 - Snugging connection and method - Google ...",
+   "htmlTitle": "Patent US4896985 - Snugging connection and method - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4896985",
+   "displayLink": "www.google.com",
+   "snippet": "US3281168, Nov 22, 1961, Oct 25, 1966, DUFFICY TRUSS CONNECTOR   PLATE ... US6877284, Feb 28, 2001, Apr 12, 2005, Retrofit hurricane and   earthquake ... US7762031, Jun 18, 2004, Jul 27, 2010, Simpson Strong-Tie   Company, Inc. ... 2007, Aug 30, 2011, ITW Construction Systems Australia Pty Ltd  , Shear plate ...",
+   "htmlSnippet": "US3281168, Nov 22, \u003cb\u003e1961\u003c/b\u003e, Oct 25, 1966, DUFFICY TRUSS CONNECTOR \u003cbr\u003e  PLATE \u003cb\u003e...\u003c/b\u003e US6877284, Feb 28, 2001, Apr 12, 2005, Retrofit hurricane and \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US7762031, \u003cb\u003eJun 18\u003c/b\u003e, 2004, Jul 27, 2010, Simpson Strong-Tie \u003cbr\u003e  Company, Inc. \u003cb\u003e...\u003c/b\u003e 2007, Aug 30, 2011, ITW Construction Systems \u003cb\u003eAustralia\u003c/b\u003e Pty Ltd\u003cbr\u003e  , Shear plate \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4896985",
+   "htmlFormattedUrl": "www.google.com/patents/US4896985",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=VmsBAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUqvYdtKKqgzYI-x5mWZIolq7mFvfC2YrnQzDThZvAPgejAGWa-7_8DA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A snugging connection and method for moving a movable structural member into closer contact with a stationary structural member in which a connector for joining the two structural members is...",
+      "url": "http://www.google.com/patents/US4896985?utm_source=gb-gplus-share",
+      "name": "Patent US4896985 - Snugging connection and method",
+      "image": "http://www.google.com/patents?id=VmsBAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4896985",
+      "title": "Patent US4896985 - Snugging connection and method",
+      "og:title": "Patent US4896985 - Snugging connection and method",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=VmsBAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7191802 - Reinforcing wrap for plastic pipe - Google Patents",
+   "htmlTitle": "Patent US7191802 - Reinforcing wrap for plastic pipe - Google Patents",
+   "link": "http://www.google.com/patents/US7191802",
+   "displayLink": "www.google.com",
+   "snippet": "Mar 20, 2007 ... US3141480, Dec 26, 1961, Jul 21, 1964, FIGURE ... US3952529, Apr 12, 1974,   Apr 27, 1976, Earthquake fault zone pipeline construction method and ...   US4986699, Jun 18, 1987, Jan 22, 1991, Soil filtration and water drainage   device ... US6286557, Sep 11, 2000, Sep 11, 2001, Spiral Guard Australia Pty.",
+   "htmlSnippet": "Mar 20, 2007 \u003cb\u003e...\u003c/b\u003e US3141480, Dec 26, \u003cb\u003e1961\u003c/b\u003e, Jul 21, 1964, FIGURE \u003cb\u003e...\u003c/b\u003e US3952529, Apr 12, 1974, \u003cbr\u003e  Apr 27, 1976, \u003cb\u003eEarthquake\u003c/b\u003e fault zone pipeline construction method and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4986699, \u003cb\u003eJun 18\u003c/b\u003e, 1987, Jan 22, 1991, Soil filtration and water drainage \u003cbr\u003e  device \u003cb\u003e...\u003c/b\u003e US6286557, Sep 11, 2000, Sep 11, 2001, Spiral Guard \u003cb\u003eAustralia\u003c/b\u003e Pty.",
+   "formattedUrl": "www.google.com/patents/US7191802",
+   "htmlFormattedUrl": "www.google.com/patents/US7191802",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Gp6rAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEadeLEUswMucgAsEH2I_rSJanJb2pc_K8elTfEOTQCJY4-9VYGN0c6pg"
+     }
+    ],
+    "book": [
+     {
+      "description": "The combination of a flexible pipe, e.g. plastic, and a reinforcing member mounted around the pipe to strengthen the pipe and to enhance its ability to resist deformation under load. In one...",
+      "url": "http://www.google.com/patents/US7191802?utm_source=gb-gplus-share",
+      "name": "Patent US7191802 - Reinforcing wrap for plastic pipe",
+      "image": "http://www.google.com/patents?id=Gp6rAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7191802",
+      "title": "Patent US7191802 - Reinforcing wrap for plastic pipe",
+      "og:title": "Patent US7191802 - Reinforcing wrap for plastic pipe",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Gp6rAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6260318 - Unitary metal bridge, fire stop and backing ...",
+   "htmlTitle": "Patent US6260318 - Unitary metal bridge, fire stop and backing \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6260318",
+   "displayLink": "www.google.com",
+   "snippet": "US2994114, May 2, 1958, Aug 1, 1961, FIRE PROOF FIRE BLOCK. US4007570,   Feb 18, 1975, Feb 15, 1977, Rondo Building Services Pty. ... US7134252, Feb 28  , 2001, Nov 14, 2006, Retrofit hurricane and earthquake protection ... US7739850  , Jun 15, 2007, Jun 22, 2010, Dietrich Industries, Inc. Building construction ...",
+   "htmlSnippet": "US2994114, May 2, 1958, Aug 1, \u003cb\u003e1961\u003c/b\u003e, FIRE PROOF FIRE BLOCK. US4007570, \u003cbr\u003e  Feb \u003cb\u003e18\u003c/b\u003e, 1975, Feb 15, 1977, Rondo Building Services Pty. \u003cb\u003e...\u003c/b\u003e US7134252, Feb 28\u003cbr\u003e  , 2001, Nov 14, 2006, Retrofit hurricane and \u003cb\u003eearthquake\u003c/b\u003e protection \u003cb\u003e...\u003c/b\u003e US7739850\u003cbr\u003e  , \u003cb\u003eJun\u003c/b\u003e 15, 2007, \u003cb\u003eJun\u003c/b\u003e 22, 2010, Dietrich Industries, Inc. Building construction \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6260318",
+   "htmlFormattedUrl": "www.google.com/patents/US6260318",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=iQoHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRukKhLlL-x-b6Ih-zlH4X9wqZwNpWqTDqzmOWu70jXsq9GSJnleNNT8O8"
+     }
+    ],
+    "book": [
+     {
+      "description": "The present invention relates to wall construction, and more particularly to a new and improved means for bracing parallel studs, draft dampening between parallel studs within interior wall...",
+      "url": "http://www.google.com/patents/US6260318?utm_source=gb-gplus-share",
+      "name": "Patent US6260318 - Unitary metal bridge, fire stop and backing device",
+      "image": "http://www.google.com/patents?id=iQoHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6260318",
+      "title": "Patent US6260318 - Unitary metal bridge, fire stop and backing device",
+      "og:title": "Patent US6260318 - Unitary metal bridge, fire stop and backing device",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=iQoHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

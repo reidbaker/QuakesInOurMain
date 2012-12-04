@@ -1,0 +1,105 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 12 1985 South America Earthquake",
+    "totalResults": "4",
+    "searchTerms": "Apr 12 1985 South America Earthquake",
+    "count": 4,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.499865,
+  "formattedSearchTime": "0.50",
+  "totalResults": "4",
+  "formattedTotalResults": "4"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1000 or More Deaths since 1900 - Google",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1000 or More Deaths since 1900 - Google",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1SaB0_vb17BKtxDKfbaRFXTj1Ku1GCN4uOfLMrjw",
+   "displayLink": "www.google.com",
+   "snippet": "In April 2005, Indonesia reduced its estimate for the number missing by over   50,000. .... Tsunami heights of 6-12 m (20-39 ft) observed on the coast of Sicily   south of Messina ..... 19 september 1985, I, Mexico, Michoacan, 18.2N 102.5W,   9500 .... and the most lethal of record for the western hemisphere above South   America.",
+   "htmlSnippet": "In \u003cb\u003eApril\u003c/b\u003e 2005, Indonesia reduced its estimate for the number missing by over \u003cbr\u003e  50,000. \u003cb\u003e....\u003c/b\u003e Tsunami heights of 6-\u003cb\u003e12\u003c/b\u003e m (20-39 ft) observed on the coast of Sicily \u003cbr\u003e  south of Messina \u003cb\u003e.....\u003c/b\u003e 19 september \u003cb\u003e1985\u003c/b\u003e, I, Mexico, Michoacan, 18.2N 102.5W, \u003cbr\u003e  9500 \u003cb\u003e....\u003c/b\u003e and the most lethal of record for the western hemisphere above \u003cb\u003eSouth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e.",
+   "cacheId": "7FpDh8zgz-AJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | quakedeaths",
+   "htmlTitle": "Google Fusion Tables | quakedeaths",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1kHPYUeIPnvkWVOjj971yciR2DIFV3NGIKWK3cyY",
+   "displayLink": "www.google.com",
+   "snippet": "Date UTC, Location, Deaths, Magnitude, Comments.",
+   "htmlSnippet": "Date UTC, Location, Deaths, Magnitude, Comments.",
+   "cacheId": "wA5dk2gTgI0J",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | Borrower Map_CF",
+   "htmlTitle": "Google Fusion Tables | Borrower Map_CF",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1Bp3QXE6KsAMzSkX8xR8_RoLUA5MTlqQMxrLzztQ",
+   "displayLink": "www.google.com",
+   "snippet": "People invest in us through the Community Investment Note and then we invest   in .... Aeon's Resident Connections program works at 12 properties, providing   eviction ... These communities encompass most of the south Texas region; AHSTI   has plans for ...... Since 1985, BCC has invested more than $700 million to   support ...",
+   "htmlSnippet": "People invest in \u003cb\u003eus\u003c/b\u003e through the Community Investment Note and then we invest \u003cbr\u003e  in \u003cb\u003e....\u003c/b\u003e Aeon&#39;s Resident Connections program works at \u003cb\u003e12\u003c/b\u003e properties, providing \u003cbr\u003e  eviction \u003cb\u003e...\u003c/b\u003e These communities encompass most of the \u003cb\u003esouth\u003c/b\u003e Texas region; AHSTI \u003cbr\u003e  has plans for \u003cb\u003e......\u003c/b\u003e Since \u003cb\u003e1985\u003c/b\u003e, BCC has invested more than $700 million to \u003cbr\u003e  support \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9iQVrcQf9zEJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent EP1546336A4 - Polynucleotides and polypeptides in plants ...",
+   "htmlTitle": "Patent EP1546336A4 - Polynucleotides and polypeptides in plants \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/EP1546336A4?cl=en",
+   "displayLink": "www.google.com",
+   "snippet": "C12N 15/82C8A12 ..... 60/465,809, filed April 24, 2003, the entire contents of   which are hereby ... The occasional freezes in Florida have shifted the citrus belt   further south ... Mississippi River floods of 1993, and the San Francisco   earthquake in 1989. ... In the Horn of Africa the 1984-1985 drought led to a   famine that killed ...",
+   "htmlSnippet": "\u003cb\u003eC12N\u003c/b\u003e 15/\u003cb\u003e82C8A12\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e 60/465,809, filed \u003cb\u003eApril\u003c/b\u003e 24, 2003, the entire contents of \u003cbr\u003e  which are hereby \u003cb\u003e...\u003c/b\u003e The occasional freezes in Florida have shifted the citrus belt \u003cbr\u003e  further \u003cb\u003esouth\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Mississippi River floods of 1993, and the San Francisco \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in 1989. \u003cb\u003e...\u003c/b\u003e In the Horn of Africa the 1984-\u003cb\u003e1985\u003c/b\u003e drought led to a \u003cbr\u003e  famine that killed \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/EP1546336A4?cl=en",
+   "htmlFormattedUrl": "www.google.com/patents/EP1546336A4?cl=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "book": [
+     {
+      "description": "The invention relates to plant transcription factor polypeptides, polynucleotides that encode them, homologs from a variety of plant species, and methods of using the polynucleotides and polypeptid...",
+      "url": "http://www.google.com/patents/EP1546336A4?cl=en&utm_source=gb-gplus-share",
+      "name": "Patent EP1546336A4 - Polynucleotides and polypeptides in plants",
+      "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/EP1546336A4?cl=en",
+      "title": "Patent EP1546336A4 - Polynucleotides and polypeptides in plants",
+      "og:title": "Patent EP1546336A4 - Polynucleotides and polypeptides in plants",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - May 21 1997 Eurasia Earthquake",
+    "totalResults": "1",
+    "searchTerms": "May 21 1997 Eurasia Earthquake",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.273019,
+  "formattedSearchTime": "0.27",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1000 or More Deaths since 1900 - Google",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1000 or More Deaths since 1900 - Google",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1SaB0_vb17BKtxDKfbaRFXTj1Ku1GCN4uOfLMrjw",
+   "displayLink": "www.google.com",
+   "snippet": "An estimated 5.36 million buildings collapsed and more than 21 million .... but   this may be a confusion with the much-bigger Ningxia quake of 1920. .... caused   this earthquake is due to the Indian plate pushing northward into the Eurasian   plate. ...... 10 mei 1997, J, Noord-Iran, 33.9N 59.7E, 1567, A, 7.3, At least 1,567   people ...",
+   "htmlSnippet": "An estimated 5.36 million buildings collapsed and more than \u003cb\u003e21\u003c/b\u003e million \u003cb\u003e....\u003c/b\u003e but \u003cbr\u003e  this \u003cb\u003emay\u003c/b\u003e be a confusion with the much-bigger Ningxia \u003cb\u003equake\u003c/b\u003e of 1920. \u003cb\u003e....\u003c/b\u003e caused \u003cbr\u003e  this \u003cb\u003eearthquake\u003c/b\u003e is due to the Indian plate pushing northward into the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  plate. \u003cb\u003e......\u003c/b\u003e 10 mei \u003cb\u003e1997\u003c/b\u003e, J, Noord-Iran, 33.9N 59.7E, 1567, A, 7.3, At least 1,567 \u003cbr\u003e  people \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7FpDh8zgz-AJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0..."
+  }
+ ]
+}

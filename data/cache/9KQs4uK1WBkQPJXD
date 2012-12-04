@@ -1,0 +1,161 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 13 1996 Asia Earthquake",
+    "totalResults": "5",
+    "searchTerms": "Dec 13 1996 Asia Earthquake",
+    "count": 5,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.418369,
+  "formattedSearchTime": "0.42",
+  "totalResults": "5",
+  "formattedTotalResults": "5"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake resistant building structure employing sandbags",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e resistant building structure employing sandbags",
+   "link": "http://www.google.com/patents/US5934027",
+   "displayLink": "www.google.com",
+   "snippet": "US5584599, Dec 19, 1994, Dec 17, 1996, Modular barrier system with ... Versa-  Lok Asia Inc. Retaining wall system with interlocked wall-building units ... 13. The   building structure of claim 10 wherein at least two spaced apart strands of ...",
+   "htmlSnippet": "US5584599, \u003cb\u003eDec\u003c/b\u003e 19, 1994, \u003cb\u003eDec\u003c/b\u003e 17, \u003cb\u003e1996\u003c/b\u003e, Modular barrier system with \u003cb\u003e...\u003c/b\u003e Versa-\u003cbr\u003e  Lok \u003cb\u003eAsia\u003c/b\u003e Inc. Retaining wall system with interlocked wall-building units \u003cb\u003e...\u003c/b\u003e \u003cb\u003e13\u003c/b\u003e. The \u003cbr\u003e  building structure of claim 10 wherein at least two spaced apart strands of \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5934027",
+   "htmlFormattedUrl": "www.google.com/patents/US5934027",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=680WAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQESu-pjQHZFvmYpkACXy6ZX_HeRvn9VGGjk78H0jfEjiccH0sgL5sBB48"
+     }
+    ],
+    "book": [
+     {
+      "description": "The method of combining barbed wire and conventional bags to create structures includes the steps of: providing a plurality of bags; filling the bags with a predetermined mixture of organic,...",
+      "url": "http://www.google.com/patents/US5934027?utm_source=gb-gplus-share",
+      "name": "Patent US5934027 - Earthquake resistant building structure employing sandbags",
+      "image": "http://www.google.com/patents?id=680WAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5934027",
+      "title": "Patent US5934027 - Earthquake resistant building structure employing sandbags",
+      "og:title": "Patent US5934027 - Earthquake resistant building structure employing sandbags",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=680WAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5584599 - Modular barrier system with interconnected ...",
+   "htmlTitle": "Patent US5584599 - Modular barrier system with interconnected \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5584599",
+   "displayLink": "www.google.com",
+   "snippet": "... Dec 19, 1994. Issue date: Dec 17, 1996 ... US4420275, Apr 19, 1982, Dec 13,   1983, Shell Oil Company, Alaskan offshore drilling base ... US5934027, Feb 19,   1998, Aug 10, 1999, Earthquake resistant building structure employing sandbags   ... Versa-Lok Asia Inc. Retaining wall system with interlocked wall-building units ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e \u003cb\u003eDec\u003c/b\u003e 19, 1994. Issue date: \u003cb\u003eDec\u003c/b\u003e 17, \u003cb\u003e1996\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US4420275, Apr 19, 1982, \u003cb\u003eDec 13\u003c/b\u003e, \u003cbr\u003e  1983, Shell Oil Company, Alaskan offshore drilling base \u003cb\u003e...\u003c/b\u003e US5934027, Feb 19, \u003cbr\u003e  1998, Aug 10, 1999, \u003cb\u003eEarthquake\u003c/b\u003e resistant building structure employing sandbags \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Versa-Lok \u003cb\u003eAsia\u003c/b\u003e Inc. Retaining wall system with interlocked wall-building units \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5584599",
+   "htmlFormattedUrl": "www.google.com/patents/US5584599",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=fGseAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRL-9KwjXE_jVCii8ImRs-ieV48KUCcBz0iqJ40jBKw0kJvuS-DGna8hA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A modular barrier system and component bags are provided characterized by the component bags being stacked in layers and interconnected to form a retaining wall. Each bag is constructed of...",
+      "url": "http://www.google.com/patents/US5584599?utm_source=gb-gplus-share",
+      "name": "Patent US5584599 - Modular barrier system with interconnected sandbags",
+      "image": "http://www.google.com/patents?id=fGseAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5584599",
+      "title": "Patent US5584599 - Modular barrier system with interconnected sandbags",
+      "og:title": "Patent US5584599 - Modular barrier system with interconnected sandbags",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=fGseAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1996. Larry and Sergey, now Stanford computer science grad students, ...   December .... to attract the best and brightest among Japanese and other Asian   engineers. .... More than 15,000 kids in Britain enter, and 13-year old Katherine   Chisnall is .... Following both the Sichuan earthquake in China and Cyclone   Nargis in ...",
+   "htmlSnippet": "\u003cb\u003e1996\u003c/b\u003e. Larry and Sergey, now Stanford computer science grad students, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e to attract the best and brightest among Japanese and other \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  engineers. \u003cb\u003e....\u003c/b\u003e More than 15,000 kids in Britain enter, and \u003cb\u003e13\u003c/b\u003e-year old Katherine \u003cbr\u003e  Chisnall is \u003cb\u003e....\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone \u003cbr\u003e  Nargis in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | Bihar Tourism Map",
+   "htmlTitle": "Google Fusion Tables | Bihar Tourism Map",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1MBJ5As4oWPQYQjivEs4GdBAEqh7o0s1pn9aQB-4",
+   "displayLink": "www.google.com",
+   "snippet": "description, name, location, geometry, icon, image, status ...",
+   "htmlSnippet": "description, name, location, geometry, icon, image, status \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b1dSPNE1na8J",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid...4",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid...4"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "htmlTitle": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV-eRaZ-tBHsbnSjwuJUSQ0iqNhk",
+   "displayLink": "www.google.com",
+   "snippet": "13. (C) Deputy Undersecretary for South Asian Affairs Engin Soysal led the ......   the United Nations General Assembly (Resolution 51/122 of 13 December 1996);   ...... response and development cooperation in the wake of the Haiti earthquake.",
+   "htmlSnippet": "\u003cb\u003e13\u003c/b\u003e. (C) Deputy Undersecretary for South \u003cb\u003eAsian\u003c/b\u003e Affairs Engin Soysal led the \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  the United Nations General Assembly (Resolution 51/122 of \u003cb\u003e13 December 1996\u003c/b\u003e); \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e response and development cooperation in the wake of the Haiti \u003cb\u003eearthquake\u003c/b\u003e.",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV..."
+  }
+ ]
+}

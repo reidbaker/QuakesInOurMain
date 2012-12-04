@@ -1,0 +1,80 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 26 1988 South America Earthquake",
+    "totalResults": "2",
+    "searchTerms": "Jun 26 1988 South America Earthquake",
+    "count": 2,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.395264,
+  "formattedSearchTime": "0.40",
+  "totalResults": "2",
+  "formattedTotalResults": "2"
+ },
+ "spelling": {
+  "correctedQuery": "June 26 1988 South America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 26 1988 South America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Google Events | Big Tent 2012",
+   "htmlTitle": "Google Events | Big Tent 2012",
+   "link": "http://www.google.com/events/bigtent2012/speakers.html",
+   "displayLink": "www.google.com",
+   "snippet": "She moved to Thailand in June 2007 as United Nations Resident Coordinator   and ... For the last 26 years he served as the president of a successful high   technology firm; .... wish list project for affected people after the Great East Japan   Earthquake. ... at the World Summit on Youth Volunteering in Colombia, South   America.",
+   "htmlSnippet": "She moved to Thailand in \u003cb\u003eJune\u003c/b\u003e 2007 as United Nations Resident Coordinator \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e For the last \u003cb\u003e26\u003c/b\u003e years he served as the president of a successful high \u003cbr\u003e  technology firm; \u003cb\u003e....\u003c/b\u003e wish list project for affected people after the Great East Japan \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e at the World Summit on Youth Volunteering in Colombia, \u003cb\u003eSouth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e.",
+   "cacheId": "t5acSvBKzlkJ",
+   "formattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "htmlFormattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/events/bigtent2012/images/speakers/RachelWhetstone.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7pg6PslvhOwpMTTQ6ehXO-T87KQ2rD9ASM4AKgL898RfQ_EEVfykf7A"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | data_gov_catalog",
+   "htmlTitle": "Google Fusion Tables | data_gov_catalog",
+   "link": "http://www.google.com/fusiontables/DataSource?dsrcid=283769",
+   "displayLink": "www.google.com",
+   "snippet": "http://www.data.gov/details/18, Mineral Operations of Latin America and ... site,   individual plant sites, South America, Central America, Canada, compilation by   ..... 1965-1988, none planned, Geochemical data for unconsolidated sediments ...   http://www.data.gov/details/29, Worldwide M2.5+ Earthquakes, Past 7 Days ...",
+   "htmlSnippet": "http://www.data.gov/details/18, Mineral Operations of Latin America and \u003cb\u003e...\u003c/b\u003e site, \u003cbr\u003e  individual plant sites, \u003cb\u003eSouth America\u003c/b\u003e, Central America, Canada, compilation by \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e 1965-\u003cb\u003e1988\u003c/b\u003e, none planned, Geochemical data for unconsolidated sediments \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  http://www.data.gov/details/29, Worldwide M2.5+ \u003cb\u003eEarthquakes\u003c/b\u003e, Past 7 Days \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9_UlJHc_EecJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?dsrcid=283769",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?dsrcid=283769"
+  }
+ ]
+}

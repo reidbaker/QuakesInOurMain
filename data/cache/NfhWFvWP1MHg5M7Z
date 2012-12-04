@@ -1,0 +1,61 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 5 1983 South America Earthquake",
+    "totalResults": "1",
+    "searchTerms": "Aug 5 1983 South America Earthquake",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.358393,
+  "formattedSearchTime": "0.36",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Third World America - Google",
+   "htmlTitle": "Third World \u003cb\u003eAmerica\u003c/b\u003e - Google",
+   "link": "http://www.google.com/maps/ms?hl=en&ie=UTF8&oe=UTF8&msa=0&output=kml&msid=112243063782381895276.00048d03984c9e3cb8b7e",
+   "displayLink": "www.google.com",
+   "snippet": "Sep 4, 2010 ... He has been traveling in South America to make his savings go further. Four   years ..... to sustain them. This information appeared in The Kaufman Herald of   August 5, 2010. ...... I began to work for the post office in DEC 1983. They held up   ...... Imperial Valley recently experienced a 7.3 earthquake. This only ...",
+   "htmlSnippet": "Sep 4, 2010 \u003cb\u003e...\u003c/b\u003e He has been traveling in \u003cb\u003eSouth America\u003c/b\u003e to make his savings go further. Four \u003cbr\u003e  years \u003cb\u003e.....\u003c/b\u003e to sustain them. This information appeared in The Kaufman Herald of \u003cbr\u003e  \u003cb\u003eAugust 5\u003c/b\u003e, 2010. \u003cb\u003e......\u003c/b\u003e I began to work for the post office in \u003cb\u003eDEC 1983\u003c/b\u003e. They held up \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e Imperial Valley recently experienced a 7.3 \u003cb\u003eearthquake\u003c/b\u003e. This only \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6BqVvJbu8kIJ",
+   "mime": "application/vnd.google-earth.kml+xml",
+   "fileFormat": "KML Document",
+   "formattedUrl": "www.google.com/maps/ms?hl=en&ie=UTF8&oe=UTF8...",
+   "htmlFormattedUrl": "www.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.huffingtonpost.com/huffl/278/8312.jpg?1284153281"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBJ9lrR7pKM_jLhVvuwsNUSjOdx_zE-JJyInLg6UG3BsKRxGK1IgNg4U"
+     }
+    ]
+   }
+  }
+ ]
+}
