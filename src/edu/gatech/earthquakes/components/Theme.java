@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.util.Arrays;
 
 public class Theme {
-
+    public static final int HIGHLIGHTED_COLOR = 0xFFC9D94E;
 	private static final int baseUIColor = 0xFF00678B;
 	private static final int backgroundColor = 0xFFEEEEEE;
 
@@ -99,9 +99,17 @@ public class Theme {
 	
 	public static int changeSaturation(int rgb, float percentage){
 		float[] hsb = getHSB(rgb);
-		hsb[1] = hsb[1]-percentage;
+		hsb[1] = percentage;
 		if (hsb[1] < 0.0f)
 			hsb[1] = 0.0f;
+		return getRGB(hsb);
+	}
+	
+	public static int changeBrightness(int rgb, float percentage){
+		float[] hsb = getHSB(rgb);
+		hsb[2] = percentage;
+		if (hsb[2] < 0.0f)
+			hsb[2] = 0.0f;
 		return getRGB(hsb);
 	}
 }
