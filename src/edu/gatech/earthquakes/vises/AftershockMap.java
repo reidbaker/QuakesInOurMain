@@ -47,8 +47,8 @@ public class AftershockMap extends Individual implements Interactable,
 
 			if (highlightedPos != null && coords[i][0] == highlightedPos[0]
 					&& coords[i][1] == highlightedPos[1]) {
-				parent.fill(Theme.getPalletteColor(1) - 0x99000000);
-				parent.stroke(Theme.getPalletteColor(1) - 0x33000000);
+                parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 100));
+                parent.stroke(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 200));
 			} else {
 				parent.fill(Theme.getPalletteColor(0) - 0xAA000000);
 				parent.stroke(Theme.getPalletteColor(0) - 0x66000000);

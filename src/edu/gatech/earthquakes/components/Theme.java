@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.util.Arrays;
 
 public class Theme {
-
+    public static final int HIGHLIGHTED_COLOR = 0xFFC9D94E;
 	private static final int baseUIColor = 0xFF00678B;
 	private static final int backgroundColor = 0xFFEEEEEE;
 
@@ -21,7 +21,7 @@ public class Theme {
 		0xFFF23535,
 		0xFFF2762E,
 		0xFFF2AC29,
-		0xFFC9D94E,
+		0xFF00DF4E,
 		0xFF03A688,
 		 
 		0xFF79C7D9,

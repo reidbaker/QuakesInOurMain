@@ -55,7 +55,6 @@ public class DepthPlot extends Multi implements Filterable {
 	
 	private void calculateDrawingValues(){
 		float xoffset = (w-2*buffer)/(float)displayData.getDatum().size();
-		//System.out.println(y);
 		
 		drawingCoordinates = new float[displayData.getDatum().size()][2];
 		quakeRadii = new float[displayData.getDatum().size()];
@@ -132,8 +131,6 @@ public class DepthPlot extends Multi implements Filterable {
 				magRange[0] = curMag;
 			else if(curMag > magRange[1])
 				magRange[1] = curMag;
-			
-			//System.out.println(Arrays.toString(magRange));
 		}
 	}
 	
