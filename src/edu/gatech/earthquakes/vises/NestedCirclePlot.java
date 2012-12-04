@@ -28,7 +28,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
     private DataComparator dataComp;
     private Map<String, Set<TypeCount>> computedValues;
     private double maxVal = 0;
-    private int offset = 25;
+    private int offset = 15;
     private boolean nominal = false;
     private TreeSet<TypeCount> totals;
 
@@ -70,28 +70,36 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
         boolean right = false;
         parent.noStroke();
         for (TypeCount t : totals) {
-            parent.fill(Theme.rgba(DataRow.getColorFor(t.getType()), 150));
+            int color =  Theme.changeSaturation(DataRow.getColorFor(t.getType()),.5f,true);
+            parent.fill(Theme.rgba(color,180));
             float percent = (float) t.getCount()
                     / displayData.getDatum().size();
-            parent.rect(x + buffer, drawY - percent * (h - buffer * 2), 20,
+            parent.rect(x + buffer, drawY - percent * (h - buffer * 2), offset,
                     percent * (h - buffer * 2));
             drawY -= percent * (h - buffer * 2);
         }
         drawY = y + h - buffer;
 
+        parent.textSize(offset*3/4);
+        parent.textAlign(PApplet.CENTER);
+        
         for (String country : computedValues.keySet()) {
 
             parent.fill(DataRow.getColorFor(country));
-            parent.stroke(Theme.rgba(DataRow.getColorFor(country), 150));
+            parent.noStroke();
             if (right) {
                 parent.rect(x + w / 2 + offset / 2,
                         drawY - maxCircleRadius * 2, maxCircleRadius * 2,
                         maxCircleRadius * 2);
-            } else
+                parent.fill(0);
+                parent.text(country, x + w / 2 + offset / 2 + maxCircleRadius, drawY + offset*3/4);
+            } else{
                 parent.rect(x + w / 2 - offset / 2 - maxCircleRadius * 2, drawY
                         - maxCircleRadius * 2, maxCircleRadius * 2,
                         maxCircleRadius * 2);
-
+                parent.fill(0);
+                parent.text(country, x + w / 2 - offset / 2 - maxCircleRadius, drawY + offset*3/4);
+            }
             float firstRadius = 0;
 
             for (TypeCount t : computedValues.get(country)) {
@@ -154,12 +162,16 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 
     private void calculateTotals() {
         HashMap<String, Integer> counts = new HashMap<String, Integer>();
+        
         for (Set<TypeCount> countryData : computedValues.values()) {
             for (TypeCount t : countryData) {
+                System.out.println(t.getType() + " " + t.getCount());
                 if (counts.containsKey(t.getType())) {
+                    
                     int count = counts.get(t.getType());
                     counts.put(t.getType(), t.getCount() + count);
-                } else
+                } 
+                else
                     counts.put(t.getType(), t.getCount());
             }
         }
@@ -167,25 +179,22 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
         totals = new TreeSet<TypeCount>();
         for (String type : counts.keySet()) {
             totals.add(new TypeCount(type, counts.get(type)));
-            // System.out.println("Type :" + );
+            System.out.println("Type :" + counts.get(type));
         }
     }
 
     private void computeNominalData() {
         computedValues = new TreeMap<String, Set<TypeCount>>();
-        // totals = new TreeMap<String, Integer>();
 
         ArrayList<DataRow> list = new ArrayList<DataRow>(displayData.getDatum());
         Collections.sort(list, dataComp);
-        for(DataRow r: list){
-            System.out.println("Country: " + r.getValue(DataRow.CONTINENT) + "Type : " + r.getValue(dataType));
-        }
 
         String type = list.get(0).getValue(dataType).toString();
         String continent = list.get(0).getValue(DataRow.CONTINENT).toString(); 
         int count = 0;
-        System.out.println("Num Quakes:" + list.size());
-        int numQuakesCounted = 0;
+       
+        //System.out.println("Num Quakes:" + list.size());
+        //int numQuakesCounted = 0;
         
         for (DataRow quake : list) {
             // if we already have data from this continent
@@ -194,8 +203,13 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 
             // if we don't already have this continent
             if (!computedValues.containsKey(curContinent)) {
-                if(!continent.equals(curContinent))
+                if(!continent.equals(curContinent)){
                     computedValues.get(continent).add(new TypeCount(type, count));
+                    //numQuakesCounted+= count;
+                    count = 0;
+                    type = curType;
+                }
+              
                 computedValues.put(curContinent, new TreeSet<TypeCount>());
                 continent = curContinent;
             }
@@ -204,17 +218,20 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
                 count++;
             } 
             else {
-                System.out.println("Continent: " + curContinent + " Type: " + type
-                        + " Count: " + count);
+//                System.out.println("Continent: " + curContinent + " Type: " + type
+//                        + " Count: " + count);
                 computedValues.get(curContinent).add(new TypeCount(type, count));
-                numQuakesCounted += count;
+               // numQuakesCounted += count;
                 count = 1;
                 type = curType;
-                System.out.println(type);
+                //System.out.println(type);
             }
 
         }
-        System.out.println("NumQuakesCounted: " + numQuakesCounted);
+        computedValues.get(continent).add(new TypeCount(type, count));
+        //numQuakesCounted += count;
+        
+        //System.out.println("NumQuakesCounted: " + numQuakesCounted);
         calculateTotals();
         computeMaxVal();
     }
