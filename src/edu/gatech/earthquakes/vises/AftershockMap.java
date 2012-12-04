@@ -3,6 +3,8 @@ package edu.gatech.earthquakes.vises;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
@@ -12,6 +14,7 @@ import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
+import edu.gatech.earthquakes.model.DataComparator;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
@@ -250,8 +253,7 @@ public class AftershockMap extends Individual implements Interactable,
 			if (quake.equals(displayData))
 				shocks.add(displayData);
 		}
-
-		aftershocks = new DataSet(shocks);
+        aftershocks = new DataSet(shocks);
 		calculateRanges();
 	}
 }
