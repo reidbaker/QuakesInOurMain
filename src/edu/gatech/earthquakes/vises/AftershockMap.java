@@ -217,9 +217,9 @@ public class AftershockMap extends Individual implements Interactable,
 
     /*
      * All of th scaling is done with the formula of:
-     * 
+     *
      * f(x) = (b-a)(x-min)/(max-min) + a
-     * 
+     *
      * where [min,max] maps to [a,b]
      */
 

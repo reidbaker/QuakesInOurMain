@@ -110,7 +110,7 @@ public class CustomSearch {
             result = getOnlineContent(getUrl(query));
             out.write(result);
             out.close();
-            System.out.println("From web: " + query);
+            System.out.println("From web: " + getUrl(query));
         }
         return result;
     }

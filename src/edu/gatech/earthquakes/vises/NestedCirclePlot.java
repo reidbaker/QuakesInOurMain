@@ -176,13 +176,13 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
         ArrayList<DataRow> list = new ArrayList<DataRow>(displayData.getDatum());
         Collections.sort(list, dataComp);
         for(DataRow r: list){
-            System.out.println("Country: " + r.getValue(DataRow.CONTINENT) + "Type : " + r.getValue(dataType));
+            //System.out.println("Country: " + r.getValue(DataRow.CONTINENT) + "Type : " + r.getValue(dataType));
         }
 
         String type = list.get(0).getValue(dataType).toString();
         String continent = list.get(0).getValue(DataRow.CONTINENT).toString(); 
         int count = 0;
-        System.out.println("Num Quakes:" + list.size());
+        //System.out.println("Num Quakes:" + list.size());
         int numQuakesCounted = 0;
         
         for (DataRow quake : list) {
@@ -202,17 +202,17 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
                 count++;
             } 
             else {
-                System.out.println("Continent: " + curContinent + " Type: " + type
-                        + " Count: " + count);
+//                System.out.println("Continent: " + curContinent + " Type: " + type
+//                        + " Count: " + count);
                 computedValues.get(curContinent).add(new TypeCount(type, count));
                 numQuakesCounted += count;
                 count = 1;
                 type = curType;
-                System.out.println(type);
+//                System.out.println(type);
             }
 
         }
-        System.out.println("NumQuakesCounted: " + numQuakesCounted);
+//        System.out.println("NumQuakesCounted: " + numQuakesCounted);
         calculateTotals();
         computeMaxVal();
     }
