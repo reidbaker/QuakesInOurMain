@@ -50,7 +50,7 @@ public class Workspace extends AbstractVisualization {
 	vises.add(detail);
 
 	Aggregate circles = new NestedCirclePlot(x, y, w, h, masterData,
-	        DataRow.TYPE);
+	        DataRow.DEPENDENCY);
 	Controller.registerVisualization(circles);
 	vises.add(circles);
 

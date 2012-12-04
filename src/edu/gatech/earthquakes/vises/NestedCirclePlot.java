@@ -16,11 +16,6 @@ import edu.gatech.earthquakes.model.DataComparator;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 
-// name subject to change
-/*
- * The idea is that this is a set of circles that can show two different types of groupings.
- * Right now, its being done for location and then by quake type
- */
 
 public class NestedCirclePlot extends Aggregate implements Filterable {
     // the thing that will be grouped by after location
@@ -69,16 +64,6 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 
         boolean right = false;
         parent.noStroke();
-        for (TypeCount t : totals) {
-            int color =  Theme.changeSaturation(DataRow.getColorFor(t.getType()),.5f,true);
-            parent.fill(Theme.rgba(color,180));
-            float percent = (float) t.getCount()
-                    / displayData.getDatum().size();
-            parent.rect(x + buffer, drawY - percent * (h - buffer * 2), offset,
-                    percent * (h - buffer * 2));
-            drawY -= percent * (h - buffer * 2);
-        }
-        drawY = y + h - buffer;
 
         parent.textSize(offset*3/4);
         parent.textAlign(PApplet.CENTER);
@@ -86,7 +71,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
         for (String country : computedValues.keySet()) {
 
             parent.fill(DataRow.getColorFor(country));
-            parent.noStroke();
+          
             if (right) {
                 parent.rect(x + w / 2 + offset / 2,
                         drawY - maxCircleRadius * 2, maxCircleRadius * 2,
@@ -127,6 +112,17 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 
             right = !right;
         }
+        
+        parent.stroke(0);
+
+        for (TypeCount t : totals) {
+            int color =  Theme.changeSaturation(DataRow.getColorFor(t.getType()),.5f,true);
+            parent.fill(Theme.rgba(color,180));
+            float heightPercent = 0;//getCircleRadius(t.getCount())/getCircleRadius(count);
+
+            parent.rect(x + w / 2 + offset / 2, drawY - heightPercent*maxCircleRadius*2, maxCircleRadius*2,heightPercent*maxCircleRadius*2);
+            drawY -= heightPercent*maxCircleRadius*2;
+        }
 
     }
 
@@ -139,8 +135,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
      */
     // [min,max] = [0,maxVal] -> [a,b] = [0,maxArea]
     private float getCircleRadius(double count) {
-        float maxDiameter = Math.min(
-                (float) ((h - buffer * 2 - offset
+        float maxDiameter = Math.min( (float) ((h - buffer * 2 - offset
                         * (Math.ceil(computedValues.size() / 2.0) - 1)) / (Math
                         .ceil(computedValues.size() / 2.0))),
                 (w - buffer * 2 - offset * 2) / 2);
@@ -184,54 +179,53 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
     }
 
     private void computeNominalData() {
-        computedValues = new TreeMap<String, Set<TypeCount>>();
-
+        //populate the computed values with the continents and the set 
+        computedValues = new TreeMap<String,Set<TypeCount>>();
+        for(DataRow.Continent c: DataRow.Continent.values()){
+            computedValues.put(c.toString(), new TreeSet<TypeCount>());
+        }
+        
         ArrayList<DataRow> list = new ArrayList<DataRow>(displayData.getDatum());
         Collections.sort(list, dataComp);
-
-        String type = list.get(0).getValue(dataType).toString();
-        String continent = list.get(0).getValue(DataRow.CONTINENT).toString(); 
-        int count = 0;
-       
-        //System.out.println("Num Quakes:" + list.size());
-        //int numQuakesCounted = 0;
         
+        String type = null;
+        String continent = null;
+        if(list.size() >0){
+            type = list.get(0).getValue(dataType).toString();
+            continent = list.get(0).getValue(DataRow.CONTINENT).toString(); 
+        }
+        
+        int count = 0;
+        System.out.println("Num Quakes: " + list.size());
+        int numQuakesCounted = 0;
         for (DataRow quake : list) {
-            // if we already have data from this continent
+            // get continent and type out of the current quake
             String curContinent = quake.getValue(DataRow.CONTINENT).toString();
             String curType = quake.getValue(dataType).toString();
-
-            // if we don't already have this continent
-            if (!computedValues.containsKey(curContinent)) {
-                if(!continent.equals(curContinent)){
-                    computedValues.get(continent).add(new TypeCount(type, count));
-                    //numQuakesCounted+= count;
-                    count = 0;
-                    type = curType;
-                }
-              
-                computedValues.put(curContinent, new TreeSet<TypeCount>());
-                continent = curContinent;
-            }
-
-            if (curType.equals(type)) {
-                count++;
-            } 
-            else {
-//                System.out.println("Continent: " + curContinent + " Type: " + type
-//                        + " Count: " + count);
-                computedValues.get(curContinent).add(new TypeCount(type, count));
-               // numQuakesCounted += count;
+            
+            //if we've come to data from a new continent
+            if(!curContinent.equals(continent)){
+                computedValues.get(continent).add(new TypeCount(type, count));
                 count = 1;
                 type = curType;
-                //System.out.println(type);
+                continent = curContinent;
             }
-
+            else{
+                if (curType.equals(type)) {
+                    count++;
+                } 
+                else {
+                    computedValues.get(curContinent).add(new TypeCount(type, count));
+                    count = 1;
+                    type = curType;
+                    numQuakesCounted += count;
+                }
+            }
         }
         computedValues.get(continent).add(new TypeCount(type, count));
-        //numQuakesCounted += count;
+        numQuakesCounted += count;
         
-        //System.out.println("NumQuakesCounted: " + numQuakesCounted);
+        System.out.println("NumQuakesCounted: " + numQuakesCounted);
         calculateTotals();
         computeMaxVal();
     }

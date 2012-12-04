@@ -17,6 +17,10 @@ public class DataRow implements Comparable<DataRow>{
 			if(t.toString().equals(enumText))
 				result = t.getColor();
 		}
+		for(Dependency d: Dependency.values())
+		    if(d.toString().equals(enumText))
+		        result = d.getColor();
+		
 		if(enumText.equals(DEPTH))
 			result = Theme.getPalletteColor(15);
 		if(result == -1)
