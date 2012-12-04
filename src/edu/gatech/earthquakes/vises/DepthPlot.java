@@ -31,10 +31,10 @@ public class DepthPlot extends Multi implements Filterable {
 		for(int i=0; i< drawingCoordinates.length; i++){
 			if(drawingCoordinates[i][1] != y){
 				int color = DataRow.getColorFor(DataRow.DEPTH);
-				//System.out.println((drawingCoordinates[i][1]-y-buffer)/(h-buffer*2));
-				color = Theme.changeSaturation(color, (drawingCoordinates[i][1]-y-buffer)/(h-buffer*2));
-				//System.out.println(color);
-				//color = Theme.rgba(color, 200);
+				float loc = (drawingCoordinates[i][1] - y - buffer) / h;
+				color = Theme.changeSaturation(color, 1-loc);
+				float brightness = PApplet.map(loc, 0f, 1f, 0f, 0.5f);
+				color = Theme.changeBrightness(color, 0.75f-brightness);
 				parent.fill(Theme.rgba(color,200));
 				parent.stroke(color);
 				parent.ellipse(drawingCoordinates[i][0], drawingCoordinates[i][1], quakeRadii[i]*2,quakeRadii[i]*2);

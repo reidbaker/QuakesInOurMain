@@ -4,14 +4,12 @@ import java.awt.GraphicsEnvironment;
 import java.awt.Insets;
 import java.awt.Rectangle;
 import java.io.File;
-import java.io.IOException;
 import java.io.InputStream;
 
 import javax.swing.JFrame;
 
 import processing.core.PApplet;
 import processing.core.PFont;
-
 import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
 
