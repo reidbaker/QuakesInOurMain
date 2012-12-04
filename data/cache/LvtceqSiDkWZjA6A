@@ -1,0 +1,76 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 14 1922 Asia Earthquake",
+    "totalResults": "1",
+    "searchTerms": "Aug 14 1922 Asia Earthquake",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.469786,
+  "formattedSearchTime": "0.47",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7677841 - Method of building a retaining wall structure ...",
+   "htmlTitle": "Patent US7677841 - Method of building a retaining wall structure \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7677841",
+   "displayLink": "www.google.com",
+   "snippet": "Mar 16, 2010 ... Filing date: Dec 14, 2005 ... US1412582, Apr 7, 1919, Apr 11, 1922, PEMBROKE   A ... US5934027, Feb 19, 1998, Aug 10, 1999, Earthquake resistant building ...   Versa-Lok Asia Inc. Retaining wall system with interlocked ...",
+   "htmlSnippet": "Mar 16, 2010 \u003cb\u003e...\u003c/b\u003e Filing date: Dec \u003cb\u003e14\u003c/b\u003e, 2005 \u003cb\u003e...\u003c/b\u003e US1412582, Apr 7, 1919, Apr 11, \u003cb\u003e1922\u003c/b\u003e, PEMBROKE \u003cbr\u003e  A \u003cb\u003e...\u003c/b\u003e US5934027, Feb 19, 1998, \u003cb\u003eAug\u003c/b\u003e 10, 1999, \u003cb\u003eEarthquake\u003c/b\u003e resistant building \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Versa-Lok \u003cb\u003eAsia\u003c/b\u003e Inc. Retaining wall system with interlocked \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7677841",
+   "htmlFormattedUrl": "www.google.com/patents/US7677841",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=kKfNAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK_GMO_wsap0B8GD2dj7o6wDQEkTX1ruFQD-xhsVi4xJwGui1BMhzHdLI"
+     }
+    ],
+    "book": [
+     {
+      "description": "A supporting member and a retaining wall structure having the same, and an associated building method are provided. The supporting member may include a pair of downward protrusions spaced apart...",
+      "url": "http://www.google.com/patents/US7677841?utm_source=gb-gplus-share",
+      "name": "Patent US7677841 - Method of building a retaining wall structure",
+      "image": "http://www.google.com/patents?id=kKfNAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7677841",
+      "title": "Patent US7677841 - Method of building a retaining wall structure",
+      "og:title": "Patent US7677841 - Method of building a retaining wall structure",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=kKfNAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}
