@@ -34,8 +34,8 @@ public class DataComparator implements Comparator<DataRow> {
 	    return reversed;
 	}
     }
-    
-    public static DataComparator getDefaultComparator(){
+
+    public static DataComparator getDefaultComparator() {
 	return baseCompare;
     }
 
@@ -95,13 +95,13 @@ public class DataComparator implements Comparator<DataRow> {
 	    case DEPTH_REVERSED:
 		Object dObj0 = arg0.getVariables().get(DataRow.DEPTH);
 		Object dObj1 = arg1.getVariables().get(DataRow.DEPTH);
-		if(dObj0 == null){
-		    if(dObj1 == null){
+		if (dObj0 == null) {
+		    if (dObj1 == null) {
 			break;
 		    } else {
 			return -1;
 		    }
-		} else if(dObj1 == null){
+		} else if (dObj1 == null) {
 		    return 1;
 		}
 		Double depth0 = (double) dObj0;
