@@ -1,0 +1,56 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 19 1970 Africa Earthquake",
+    "totalResults": "2",
+    "searchTerms": "Nov 19 1970 Africa Earthquake",
+    "count": 2,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.519562,
+  "formattedSearchTime": "0.52",
+  "totalResults": "2",
+  "formattedTotalResults": "2"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1000 or More Deaths since 1900 - Google",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1000 or More Deaths since 1900 - Google",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1SaB0_vb17BKtxDKfbaRFXTj1Ku1GCN4uOfLMrjw",
+   "displayLink": "www.google.com",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ... earthquake and   subsequent tsunami in 14 countries in South Asia and East Africa. .... 31 mei   1970, H, Chimbote, Peru, 9.36S 78.87W, 70000, F, 7.9, About 50,000 people   were ... near Turcan, where a strong earthquake (possibly a fore- shock) had   occurred on Nov 21, ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e and \u003cbr\u003e  subsequent tsunami in 14 countries in South Asia and East \u003cb\u003eAfrica\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 31 mei \u003cbr\u003e  \u003cb\u003e1970\u003c/b\u003e, H, Chimbote, Peru, 9.36S 78.87W, 70000, F, 7.9, About 50,000 people \u003cbr\u003e  were \u003cb\u003e...\u003c/b\u003e near Turcan, where a strong \u003cb\u003eearthquake\u003c/b\u003e (possibly a fore- shock) had \u003cbr\u003e  occurred on \u003cb\u003eNov\u003c/b\u003e 21, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7FpDh8zgz-AJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "htmlTitle": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV-eRaZ-tBHsbnSjwuJUSQ0iqNhk",
+   "displayLink": "www.google.com",
+   "snippet": "(C) Prior to and during the November 2009 Board, a Secretariat-proposed project   ...... Three countries, including South Africa, signed the IRENA Statute. ..... These   efforts led to the U.S. joining the G-19 as an \"associate member\" in April, 2009.   ...... response and development cooperation in the wake of the Haiti earthquake.",
+   "htmlSnippet": "(C) Prior to and during the \u003cb\u003eNovember\u003c/b\u003e 2009 Board, a Secretariat-proposed project \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e Three countries, including South \u003cb\u003eAfrica\u003c/b\u003e, signed the IRENA Statute. \u003cb\u003e.....\u003c/b\u003e These \u003cbr\u003e  efforts led to the U.S. joining the G-\u003cb\u003e19\u003c/b\u003e as an &quot;associate member&quot; in April, 2009. \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e response and development cooperation in the wake of the Haiti \u003cb\u003eearthquake\u003c/b\u003e.",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV..."
+  }
+ ]
+}

@@ -1,0 +1,162 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 8 1963 North America Earthquake",
+    "totalResults": "3",
+    "searchTerms": "Mar 8 1963 North America Earthquake",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.411012,
+  "formattedSearchTime": "0.41",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6298603 - Access control vestibule - Google Patents",
+   "htmlTitle": "Patent US6298603 - Access control vestibule - Google Patents",
+   "link": "http://www.google.com/patents/US6298603",
+   "displayLink": "www.google.com",
+   "snippet": "US3174193, Mar 26, 1963, Mar 23, 1965, MECHANICAL INTERLOCK FOR   DOUBLE DOORS ... US4297690, Mar 5, 1980, Oct 27, 1981, Earthquake alarm   system ... US4375735, Apr 15, 1981, Mar 8, 1983, Dorma Door Controls Inc. Air   lock door ... US5644236, Mar 31, 1995, Jul 1, 1997, New Holland North America,   Inc.",
+   "htmlSnippet": "US3174193, \u003cb\u003eMar\u003c/b\u003e 26, \u003cb\u003e1963\u003c/b\u003e, \u003cb\u003eMar\u003c/b\u003e 23, 1965, MECHANICAL INTERLOCK FOR \u003cbr\u003e  DOUBLE DOORS \u003cb\u003e...\u003c/b\u003e US4297690, \u003cb\u003eMar\u003c/b\u003e 5, 1980, Oct 27, 1981, \u003cb\u003eEarthquake\u003c/b\u003e alarm \u003cbr\u003e  system \u003cb\u003e...\u003c/b\u003e US4375735, Apr 15, 1981, \u003cb\u003eMar 8\u003c/b\u003e, 1983, Dorma Door Controls Inc. Air \u003cbr\u003e  lock door \u003cb\u003e...\u003c/b\u003e US5644236, \u003cb\u003eMar\u003c/b\u003e 31, 1995, Jul 1, 1997, New Holland \u003cb\u003eNorth America\u003c/b\u003e, \u003cbr\u003e  Inc.",
+   "formattedUrl": "www.google.com/patents/US6298603",
+   "htmlFormattedUrl": "www.google.com/patents/US6298603",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=BvwGAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jgaRLg_dspwAUZw1k7-p6bK7bgu7shJyiXYLZC2Y2-JxABQDogiIWmo"
+     }
+    ],
+    "book": [
+     {
+      "description": "An access control chamber security system with a security chamber having an aluminum frame and an entrance door and an exit door, a metal detector located within the access control chamber...",
+      "url": "http://www.google.com/patents/US6298603?utm_source=gb-gplus-share",
+      "name": "Patent US6298603 - Access control vestibule",
+      "image": "http://www.google.com/patents?id=BvwGAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6298603",
+      "title": "Patent US6298603 - Access control vestibule",
+      "og:title": "Patent US6298603 - Access control vestibule",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=BvwGAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5992094 - Access control vestibule - Google Patents",
+   "htmlTitle": "Patent US5992094 - Access control vestibule - Google Patents",
+   "link": "http://www.google.com/patents/US5992094",
+   "displayLink": "www.google.com",
+   "snippet": "US3174193, Mar 26, 1963, Mar 23, 1965, MECHANICAL INTERLOCK FOR ...   US4375735, Apr 15, 1981, Mar 8, 1983, Dorma Door Controls Inc. Air lock door ...   US5644236, Mar 31, 1995, Jul 1, 1997, New Holland North America, Inc. ...   US7375646, May 5, 2006, May 20, 2008, Seismic detection and response system ...",
+   "htmlSnippet": "US3174193, \u003cb\u003eMar\u003c/b\u003e 26, \u003cb\u003e1963\u003c/b\u003e, \u003cb\u003eMar\u003c/b\u003e 23, 1965, MECHANICAL INTERLOCK FOR \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4375735, Apr 15, 1981, \u003cb\u003eMar 8\u003c/b\u003e, 1983, Dorma Door Controls Inc. Air lock door \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5644236, \u003cb\u003eMar\u003c/b\u003e 31, 1995, Jul 1, 1997, New Holland \u003cb\u003eNorth America\u003c/b\u003e, Inc. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US7375646, May 5, 2006, May 20, 2008, \u003cb\u003eSeismic\u003c/b\u003e detection and response system \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5992094",
+   "htmlFormattedUrl": "www.google.com/patents/US5992094",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg6fhB5aDCQzLpvMx_AVG57c8belf9X2C-yP7uIpJPD4wNA8FCx7JJgQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "An access control chamber security system with a security chamber having an aluminum frame and an entrance door and an exit door, a metal detector located within the access control chamber...",
+      "url": "http://www.google.com/patents/US5992094?utm_source=gb-gplus-share",
+      "name": "Patent US5992094 - Access control vestibule",
+      "image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5992094",
+      "title": "Patent US5992094 - Access control vestibule",
+      "og:title": "Patent US5992094 - Access control vestibule",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4258421 - Vehicle monitoring and recording system ...",
+   "htmlTitle": "Patent US4258421 - Vehicle monitoring and recording system \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4258421",
+   "displayLink": "www.google.com",
+   "snippet": "US3099817, Dec 19, 1958, Jul 30, 1963, ROUTE ... US4376298, Aug 6, 1980,   Mar 8, 1983, Dickey-john Corporation, Combine data center ... of America as   represented by the Secretary of the Interior, General earthquake observation   system ..... US6366848, Sep 19, 2000, Apr 2, 2002, Volvo Trucks North America,   Inc.",
+   "htmlSnippet": "US3099817, Dec 19, 1958, Jul 30, \u003cb\u003e1963\u003c/b\u003e, ROUTE \u003cb\u003e...\u003c/b\u003e US4376298, Aug 6, 1980, \u003cbr\u003e  \u003cb\u003eMar 8\u003c/b\u003e, 1983, Dickey-john Corporation, Combine data center \u003cb\u003e...\u003c/b\u003e of America as \u003cbr\u003e  represented by the Secretary of the Interior, General \u003cb\u003eearthquake\u003c/b\u003e observation \u003cbr\u003e  system \u003cb\u003e.....\u003c/b\u003e US6366848, Sep 19, 2000, Apr 2, 2002, Volvo Trucks \u003cb\u003eNorth America\u003c/b\u003e, \u003cbr\u003e  Inc.",
+   "formattedUrl": "www.google.com/patents/US4258421",
+   "htmlFormattedUrl": "www.google.com/patents/US4258421",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWpHD7PzKDd_q-rDLXqpM3vxbvPz1rlYUI4KESDu5j3m9Fzfb-2aNKfA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A device monitoring and recording system is described which is particularly applicable to on-board vehicle monitoring and recording of operating engine parameters. The system comprises a plurality...",
+      "url": "http://www.google.com/patents/US4258421?utm_source=gb-gplus-share",
+      "name": "Patent US4258421 - Vehicle monitoring and recording system",
+      "image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4258421",
+      "title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

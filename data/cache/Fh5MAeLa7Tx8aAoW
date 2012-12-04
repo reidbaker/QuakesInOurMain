@@ -1,0 +1,69 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 29 1604 Asia Earthquake",
+    "totalResults": "1",
+    "searchTerms": "Dec 29 1604 Asia Earthquake",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.363476,
+  "formattedSearchTime": "0.36",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent EP2266093A2 - System and method for detecting, collecting ...",
+   "htmlTitle": "Patent EP2266093A2 - System and method for detecting, collecting \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/EP2266093A2?cl=en",
+   "displayLink": "www.google.com",
+   "snippet": "Publication date, Dec 29, 2010 .... 29. The method according to claim 24, wherein   the step of downloading data from the .... Africa, and parts of Asia, killing an   estimated 50 percent of the population in those areas. ..... Previous scales,   including the Saffir-Simpson hurricane, Fujita tornado, and Ricther earthquake   scales, are ...",
+   "htmlSnippet": "Publication date, \u003cb\u003eDec 29\u003c/b\u003e, 2010 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e29\u003c/b\u003e. The method according to claim 24, wherein \u003cbr\u003e  the step of downloading data from the \u003cb\u003e....\u003c/b\u003e Africa, and parts of \u003cb\u003eAsia\u003c/b\u003e, killing an \u003cbr\u003e  estimated 50 percent of the population in those areas. \u003cb\u003e.....\u003c/b\u003e Previous scales, \u003cbr\u003e  including the Saffir-Simpson hurricane, Fujita tornado, and Ricther \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  scales, are \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/EP2266093A2?cl=en",
+   "htmlFormattedUrl": "www.google.com/patents/EP2266093A2?cl=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "book": [
+     {
+      "description": "A system and method involves detecting operational social disruptive events on a global scale, assigning disease event staging and warnings to express data in more simplistic terms, modeling...",
+      "url": "http://www.google.com/patents/EP2266093A2?cl=en&utm_source=gb-gplus-share",
+      "name": "Patent EP2266093A2 - System and method for detecting, collecting, analyzing, and communicating event-related information",
+      "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/EP2266093A2?cl=en",
+      "title": "Patent EP2266093A2 - System and method for detecting, collecting, analyzing, and communicating event-related information",
+      "og:title": "Patent EP2266093A2 - System and method for detecting, collecting, analyzing, and communicating event-related information",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

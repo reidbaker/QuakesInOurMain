@@ -1,0 +1,480 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 4 1963 North America Earthquake",
+    "totalResults": "23",
+    "searchTerms": "Sep 4 1963 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 4 1963 North America Earthquake",
+    "totalResults": "23",
+    "searchTerms": "Sep 4 1963 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.328217,
+  "formattedSearchTime": "0.33",
+  "totalResults": "23",
+  "formattedTotalResults": "23"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 4 1963 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 4 1963 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5992094 - Access control vestibule - Google Patents",
+   "htmlTitle": "Patent US5992094 - Access control vestibule - Google Patents",
+   "link": "http://www.google.com/patents/US5992094",
+   "displayLink": "www.google.com",
+   "snippet": "US3174193, Mar 26, 1963, Mar 23, 1965, MECHANICAL INTERLOCK FOR ...   US4011686, Aug 4, 1975, Mar 15, 1977, Carmine Foods, Inc. Door interlock   security device ... US5644236, Mar 31, 1995, Jul 1, 1997, New Holland North   America, Inc. ... US7042365, Dec 17, 2004, May 9, 2006, Seismic detection   system and a ...",
+   "htmlSnippet": "US3174193, Mar 26, \u003cb\u003e1963\u003c/b\u003e, Mar 23, 1965, MECHANICAL INTERLOCK FOR \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4011686, \u003cb\u003eAug 4\u003c/b\u003e, 1975, Mar 15, 1977, Carmine Foods, Inc. Door interlock \u003cbr\u003e  security device \u003cb\u003e...\u003c/b\u003e US5644236, Mar 31, 1995, Jul 1, 1997, New Holland \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e, Inc. \u003cb\u003e...\u003c/b\u003e US7042365, \u003cb\u003eDec\u003c/b\u003e 17, 2004, May 9, 2006, \u003cb\u003eSeismic\u003c/b\u003e detection \u003cbr\u003e  system and a \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5992094",
+   "htmlFormattedUrl": "www.google.com/patents/US5992094",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg6fhB5aDCQzLpvMx_AVG57c8belf9X2C-yP7uIpJPD4wNA8FCx7JJgQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "An access control chamber security system with a security chamber having an aluminum frame and an entrance door and an exit door, a metal detector located within the access control chamber...",
+      "url": "http://www.google.com/patents/US5992094?utm_source=gb-gplus-share",
+      "name": "Patent US5992094 - Access control vestibule",
+      "image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5992094",
+      "title": "Patent US5992094 - Access control vestibule",
+      "og:title": "Patent US5992094 - Access control vestibule",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7918269 - Drainage of heavy oil reservoir via horizontal ...",
+   "htmlTitle": "Patent US7918269 - Drainage of heavy oil reservoir via horizontal \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7918269",
+   "displayLink": "www.google.com",
+   "snippet": "Systems and methods for drainage of a heavy oil reservoir via a ...",
+   "htmlSnippet": "Systems and methods for drainage of a heavy oil reservoir via a \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7918269",
+   "htmlFormattedUrl": "www.google.com/patents/US7918269",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=2VFyAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2sbH394zP8gBmQphsxNi_EobS9LTeHKd4-jMDikt_gZeP-cU1CtyLQA"
+     }
+    ],
+    "book": [
+     {
+      "description": "Systems and methods for drainage of a heavy oil reservoir via a horizontal wellbore. A method of improving production of fluid from a subterranean formation includes the step of propagating...",
+      "url": "http://www.google.com/patents/US7918269?utm_source=gb-gplus-share",
+      "name": "Patent US7918269 - Drainage of heavy oil reservoir via horizontal wellbore",
+      "image": "http://www.google.com/patents?id=2VFyAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7918269",
+      "title": "Patent US7918269 - Drainage of heavy oil reservoir via horizontal wellbore",
+      "og:title": "Patent US7918269 - Drainage of heavy oil reservoir via horizontal wellbore",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=2VFyAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7647966 - Method for drainage of heavy oil reservoir via ...",
+   "htmlTitle": "Patent US7647966 - Method for drainage of heavy oil reservoir via \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7647966",
+   "displayLink": "www.google.com",
+   "snippet": "Filing date: Aug 1, 2007. Issue date: Jan 19, 2010. Application ...",
+   "htmlSnippet": "Filing date: \u003cb\u003eAug\u003c/b\u003e 1, 2007. Issue date: Jan 19, 2010. Application \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7647966",
+   "htmlFormattedUrl": "www.google.com/patents/US7647966",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=4IbLAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3IRjdsE7nLEcN1PzbEK_QEB3oeavEXdf0Gs0xhWJHaBQyXlc4xqCDdA"
+     }
+    ],
+    "book": [
+     {
+      "description": "Systems and methods for drainage of a heavy oil reservoir via a horizontal wellbore. A method of improving production of fluid from a subterranean formation includes the step of propagating...",
+      "url": "http://www.google.com/patents/US7647966?utm_source=gb-gplus-share",
+      "name": "Patent US7647966 - Method for drainage of heavy oil reservoir via horizontal wellbore",
+      "image": "http://www.google.com/patents?id=4IbLAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7647966",
+      "title": "Patent US7647966 - Method for drainage of heavy oil reservoir via horizontal wellbore",
+      "og:title": "Patent US7647966 - Method for drainage of heavy oil reservoir via horizontal wellbore",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=4IbLAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4258421 - Vehicle monitoring and recording system ...",
+   "htmlTitle": "Patent US4258421 - Vehicle monitoring and recording system \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4258421",
+   "displayLink": "www.google.com",
+   "snippet": "US3099817, Dec 19, 1958, Jul 30, 1963, ROUTE ... US4604699, Jan 25, 1984,   Aug 5, 1986, The United States of America as represented by the Secretary of the   Interior, General earthquake observation system .... US5136525, Sep 27, 1991,   Aug 4, 1992, Mobil Oil Corporation, Method and apparatus for carrying out ...",
+   "htmlSnippet": "US3099817, \u003cb\u003eDec\u003c/b\u003e 19, 1958, Jul 30, \u003cb\u003e1963\u003c/b\u003e, ROUTE \u003cb\u003e...\u003c/b\u003e US4604699, Jan 25, 1984, \u003cbr\u003e  \u003cb\u003eAug\u003c/b\u003e 5, 1986, The United States of \u003cb\u003eAmerica\u003c/b\u003e as represented by the Secretary of the \u003cbr\u003e  Interior, General \u003cb\u003eearthquake\u003c/b\u003e observation system \u003cb\u003e....\u003c/b\u003e US5136525, \u003cb\u003eSep\u003c/b\u003e 27, 1991, \u003cbr\u003e  \u003cb\u003eAug 4\u003c/b\u003e, 1992, Mobil Oil Corporation, Method and apparatus for carrying out \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4258421",
+   "htmlFormattedUrl": "www.google.com/patents/US4258421",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWpHD7PzKDd_q-rDLXqpM3vxbvPz1rlYUI4KESDu5j3m9Fzfb-2aNKfA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A device monitoring and recording system is described which is particularly applicable to on-board vehicle monitoring and recording of operating engine parameters. The system comprises a plurality...",
+      "url": "http://www.google.com/patents/US4258421?utm_source=gb-gplus-share",
+      "name": "Patent US4258421 - Vehicle monitoring and recording system",
+      "image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4258421",
+      "title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7832477 - Casing deformation and control for inclusion ...",
+   "htmlTitle": "Patent US7832477 - Casing deformation and control for inclusion \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7832477",
+   "displayLink": "www.google.com",
+   "snippet": "Filing date: Dec 28, 2007. Issue date: Nov 16, 2010. Application ...",
+   "htmlSnippet": "Filing date: \u003cb\u003eDec\u003c/b\u003e 28, 2007. Issue date: Nov 16, 2010. Application \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7832477",
+   "htmlFormattedUrl": "www.google.com/patents/US7832477",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=zYfqAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk-FaUhK-V-j0Q0FAXHGWOiJNQMdyUgCZN0zKLe6nPmIJOzKHMYcncNQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "Casing deformation and control for inclusion propagation in earth formations. A method of forming at least one inclusion in a subterranean formation includes the steps of: installing a liner...",
+      "url": "http://www.google.com/patents/US7832477?utm_source=gb-gplus-share",
+      "name": "Patent US7832477 - Casing deformation and control for inclusion propagation",
+      "image": "http://www.google.com/patents?id=zYfqAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7832477",
+      "title": "Patent US7832477 - Casing deformation and control for inclusion propagation",
+      "og:title": "Patent US7832477 - Casing deformation and control for inclusion propagation",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=zYfqAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8122953 - Drainage of heavy oil reservoir via horizontal ...",
+   "htmlTitle": "Patent US8122953 - Drainage of heavy oil reservoir via horizontal \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8122953",
+   "displayLink": "www.google.com",
+   "snippet": "Systems and methods for drainage of a heavy oil reservoir via a ...",
+   "htmlSnippet": "Systems and methods for drainage of a heavy oil reservoir via a \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8122953",
+   "htmlFormattedUrl": "www.google.com/patents/US8122953",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=sekEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn162cj0SLyMOrGUfpTVtOtALXOKp51AcZNBq-I_8cgqPs4oFGY573Ww"
+     }
+    ],
+    "book": [
+     {
+      "description": "Systems and methods for drainage of a heavy oil reservoir via a horizontal wellbore. A method of improving production of fluid from a subterranean formation includes the step of propagating...",
+      "url": "http://www.google.com/patents/US8122953?utm_source=gb-gplus-share",
+      "name": "Patent US8122953 - Drainage of heavy oil reservoir via horizontal wellbore",
+      "image": "http://www.google.com/patents?id=sekEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8122953",
+      "title": "Patent US8122953 - Drainage of heavy oil reservoir via horizontal wellbore",
+      "og:title": "Patent US8122953 - Drainage of heavy oil reservoir via horizontal wellbore",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=sekEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7640975 - Flow control for increased permeability planes ...",
+   "htmlTitle": "Patent US7640975 - Flow control for increased permeability planes \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7640975",
+   "displayLink": "www.google.com",
+   "snippet": "Filing date: Aug 1, 2007. Issue date: Jan 5, 2010. Application ...",
+   "htmlSnippet": "Filing date: \u003cb\u003eAug\u003c/b\u003e 1, 2007. Issue date: Jan 5, 2010. Application \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7640975",
+   "htmlFormattedUrl": "www.google.com/patents/US7640975",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=VlXLAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRAlPfNrSDuTt-gkk7qKDyXTIYORbNTkd4Ic47g9VDJoOBb6og4C2qQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "Flow control for increased permeability planes in unconsolidated formations. A well system includes a casing expansion device interconnected in a casing string for initiating an inclusion propagate...",
+      "url": "http://www.google.com/patents/US7640975?utm_source=gb-gplus-share",
+      "name": "Patent US7640975 - Flow control for increased permeability planes in unconsolidated formations",
+      "image": "http://www.google.com/patents?id=VlXLAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7640975",
+      "title": "Patent US7640975 - Flow control for increased permeability planes in unconsolidated formations",
+      "og:title": "Patent US7640975 - Flow control for increased permeability planes in unconsolidated formations",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=VlXLAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7640982 - Method of injection plane initiation in a well ...",
+   "htmlTitle": "Patent US7640982 - Method of injection plane initiation in a well \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7640982",
+   "displayLink": "www.google.com",
+   "snippet": "Filing date: Aug 1, 2007. Issue date: Jan 5, 2010. Application ...",
+   "htmlSnippet": "Filing date: \u003cb\u003eAug\u003c/b\u003e 1, 2007. Issue date: Jan 5, 2010. Application \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7640982",
+   "htmlFormattedUrl": "www.google.com/patents/US7640982",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=XVXLAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROHLqZ6hVEmDjivknSB9yPtLNek5anfJRPwiJrGUD3sXBX4RoOTFklrQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "Initiation of injection planes in a well. A method of forming at least one generally planar inclusion in a subterranean formation includes the steps of: expanding a wellbore in the formation...",
+      "url": "http://www.google.com/patents/US7640982?utm_source=gb-gplus-share",
+      "name": "Patent US7640982 - Method of injection plane initiation in a well",
+      "image": "http://www.google.com/patents?id=XVXLAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7640982",
+      "title": "Patent US7640982 - Method of injection plane initiation in a well",
+      "og:title": "Patent US7640982 - Method of injection plane initiation in a well",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=XVXLAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8151874 - Thermal recovery of shallow bitumen through ...",
+   "htmlTitle": "Patent US8151874 - Thermal recovery of shallow bitumen through \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8151874",
+   "displayLink": "www.google.com",
+   "snippet": "Systems and methods for thermal recovery of shallow bitumen ...",
+   "htmlSnippet": "Systems and methods for thermal recovery of shallow bitumen \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8151874",
+   "htmlFormattedUrl": "www.google.com/patents/US8151874",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=DQsMAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSj3fVcy0vF4FrHpcQNIG9LNVqGKBJ0R6bRF_Ij6saxb1TJo_x4Tw999Fs"
+     }
+    ],
+    "book": [
+     {
+      "description": "Systems and methods for thermal recovery of shallow bitumen using increased permeability inclusions. A method of producing hydrocarbons from a subterranean formation includes the steps of:...",
+      "url": "http://www.google.com/patents/US8151874?utm_source=gb-gplus-share",
+      "name": "Patent US8151874 - Thermal recovery of shallow bitumen through increased permeability inclusions",
+      "image": "http://www.google.com/patents?id=DQsMAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8151874",
+      "title": "Patent US8151874 - Thermal recovery of shallow bitumen through increased permeability inclusions",
+      "og:title": "Patent US8151874 - Thermal recovery of shallow bitumen through increased permeability inclusions",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=DQsMAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7950456 - Casing deformation and control for inclusion ...",
+   "htmlTitle": "Patent US7950456 - Casing deformation and control for inclusion \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7950456",
+   "displayLink": "www.google.com",
+   "snippet": "Casing deformation and control for inclusion propagation in ...",
+   "htmlSnippet": "Casing deformation and control for inclusion propagation in \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7950456",
+   "htmlFormattedUrl": "www.google.com/patents/US7950456",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=bmvmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfVlxFKuuIGP6OMaMEwmHJeU5CjpxNVFgYLqnCZl9zRJqpLQidw9DjNck"
+     }
+    ],
+    "book": [
+     {
+      "description": "Casing deformation and control for inclusion propagation in earth formations. A method of forming at least one inclusion in a subterranean formation includes the steps of: installing a liner...",
+      "url": "http://www.google.com/patents/US7950456?utm_source=gb-gplus-share",
+      "name": "Patent US7950456 - Casing deformation and control for inclusion propagation",
+      "image": "http://www.google.com/patents?id=bmvmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7950456",
+      "title": "Patent US7950456 - Casing deformation and control for inclusion propagation",
+      "og:title": "Patent US7950456 - Casing deformation and control for inclusion propagation",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=bmvmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

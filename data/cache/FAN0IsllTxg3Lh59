@@ -1,0 +1,100 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 20 1962 Asia Earthquake",
+    "totalResults": "3",
+    "searchTerms": "Apr 20 1962 Asia Earthquake",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.378192,
+  "formattedSearchTime": "0.38",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1000 or More Deaths since 1900 - Google",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1000 or More Deaths since 1900 - Google",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1SaB0_vb17BKtxDKfbaRFXTj1Ku1GCN4uOfLMrjw",
+   "displayLink": "www.google.com",
+   "snippet": "In April 2005, Indonesia reduced its estimate for the number missing by over   50,000. .... Tsunami heights of 6-12 m (20-39 ft) observed on the coast of Sicily   south of ... earthquake) was part of the Silk Road connecting China with Central   Asia. .... 1 september 1962, G, Bu'in Zahra, Qazvin, Iran, 35.6N 49.9E, 12225, D,   7.1 ...",
+   "htmlSnippet": "In \u003cb\u003eApril\u003c/b\u003e 2005, Indonesia reduced its estimate for the number missing by over \u003cbr\u003e  50,000. \u003cb\u003e....\u003c/b\u003e Tsunami heights of 6-12 m (\u003cb\u003e20\u003c/b\u003e-39 ft) observed on the coast of Sicily \u003cbr\u003e  south of \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e) was part of the Silk Road connecting China with Central \u003cbr\u003e  \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 1 september \u003cb\u003e1962\u003c/b\u003e, G, Bu&#39;in Zahra, Qazvin, Iran, 35.6N 49.9E, 12225, D, \u003cbr\u003e  7.1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7FpDh8zgz-AJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1SaB0..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | quakedeaths",
+   "htmlTitle": "Google Fusion Tables | quakedeaths",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1kHPYUeIPnvkWVOjj971yciR2DIFV3NGIKWK3cyY",
+   "displayLink": "www.google.com",
+   "snippet": "Date UTC, Location, Deaths, Magnitude, Comments.",
+   "htmlSnippet": "Date UTC, Location, Deaths, Magnitude, Comments.",
+   "cacheId": "wA5dk2gTgI0J",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "htmlTitle": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "link": "http://www.google.com/patents/US4650368",
+   "displayLink": "www.google.com",
+   "snippet": "US3186896, May 9, 1962, Jun 1, 1965, MOISTURE IMPERVIOUS PANEL ...   1998, Aug 10, 1999, Earthquake resistant building structure employing sandbags   ... US6715960, Jun 20, 2002, Apr 6, 2004, Collapsible and re-usable flood barrier   ... Versa-Lok Asia Inc. Retaining wall system with interlocked wall-building units ...",
+   "htmlSnippet": "US3186896, May 9, \u003cb\u003e1962\u003c/b\u003e, Jun 1, 1965, MOISTURE IMPERVIOUS PANEL \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1998, Aug 10, 1999, \u003cb\u003eEarthquake\u003c/b\u003e resistant building structure employing sandbags \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US6715960, Jun \u003cb\u003e20\u003c/b\u003e, 2002, \u003cb\u003eApr\u003c/b\u003e 6, 2004, Collapsible and re-usable flood barrier \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Versa-Lok \u003cb\u003eAsia\u003c/b\u003e Inc. Retaining wall system with interlocked wall-building units \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4650368",
+   "htmlFormattedUrl": "www.google.com/patents/US4650368",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR78_gi9yedYhVl783bhQwJ-UKQQWxmI91Xmh0hfc7LqIqLE_Fjr84W0Kc"
+     }
+    ],
+    "book": [
+     {
+      "description": "A flood water containment bag constructed of lightweight, inexpensive porous material with a quantity of water absorbent material therein which increases substantially in volume and weight...",
+      "url": "http://www.google.com/patents/US4650368?utm_source=gb-gplus-share",
+      "name": "Patent US4650368 - Flood water containment bag",
+      "image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4650368",
+      "title": "Patent US4650368 - Flood water containment bag",
+      "og:title": "Patent US4650368 - Flood water containment bag",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

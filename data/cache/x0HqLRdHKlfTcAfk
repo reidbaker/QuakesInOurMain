@@ -1,0 +1,44 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 22 1983 Africa Earthquake",
+    "totalResults": "1",
+    "searchTerms": "Dec 22 1983 Africa Earthquake",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.396113,
+  "formattedSearchTime": "0.40",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "htmlTitle": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV-eRaZ-tBHsbnSjwuJUSQ0iqNhk",
+   "displayLink": "www.google.com",
+   "snippet": "Three countries, including South Africa, signed the IRENA Statute. ...... U.S.-EU   crisis response and development cooperation in the wake of the Haiti earthquake  . ...... On December 22, police questioned Izama for five hours for allegedly ......   leader of the Labour Party (1983-1992) and Member of Parliament (1970-1995).",
+   "htmlSnippet": "Three countries, including South \u003cb\u003eAfrica\u003c/b\u003e, signed the IRENA Statute. \u003cb\u003e......\u003c/b\u003e U.S.-EU \u003cbr\u003e  crisis response and development cooperation in the wake of the Haiti \u003cb\u003eearthquake\u003c/b\u003e\u003cbr\u003e  . \u003cb\u003e......\u003c/b\u003e On \u003cb\u003eDecember 22\u003c/b\u003e, police questioned Izama for five hours for allegedly \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  leader of the Labour Party (\u003cb\u003e1983\u003c/b\u003e-1992) and Member of Parliament (1970-1995).",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV..."
+  }
+ ]
+}
