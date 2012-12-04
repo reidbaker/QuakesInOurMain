@@ -50,6 +50,7 @@ public class Controller {
 		registerVisualization(workspace);
 
 		dataslider = new Slider(50, 768 - 100, 924, 50, masterData);
+		dataslider.setUndecorated(true);
 		dataslider.setDrawInterval(250);
 		registerVisualization(dataslider);
 	}

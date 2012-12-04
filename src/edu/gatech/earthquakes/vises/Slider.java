@@ -37,7 +37,7 @@ public class Slider extends AbstractVisualization implements Interactable,
 			RIGHTHANDLE = 3;
 
 	public Slider(int x, int y, int w, int h, DataSet data) {
-		super(x, y, w, h);
+		super(x, y, w, h, "Slider", true);
 		this.left = x;
 		this.right = w + x;
 		goalLeft = (int) (left + 0.5f);

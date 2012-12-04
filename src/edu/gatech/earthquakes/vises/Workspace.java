@@ -21,7 +21,7 @@ public class Workspace extends AbstractVisualization {
 	List<AbstractVisualization> vises;
 
 	public Workspace(int x, int y, int w, int h, DataSet masterData) {
-		super(x, y, w, h);
+		super(x, y, w, h, "Primary Workspace", true);
 		this.masterData = masterData;
 		vises = Lists.newArrayList();
 		intantiateVises();
@@ -68,7 +68,7 @@ public class Workspace extends AbstractVisualization {
 		parent.noFill();
 		parent.stroke(Theme.getBaseUIColor());
 		parent.strokeWeight(2);
-		parent.rect(x, y, w, h);
+//		parent.rect(x, y, w, h);
 	}
 
 	@Override
