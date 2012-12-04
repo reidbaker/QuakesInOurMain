@@ -42,10 +42,8 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 				color = Theme.changeSaturation(color, 1-loc);
 
 				if(i == highlightedIndex){
-				    //boost brightness on highlight
-				    color = Theme.changeBrightness(Theme.HIGHLIGHTED_COLOR, 1);
-	                parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 100));
-	                parent.stroke(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 200));
+	                parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 150));
+	                parent.stroke(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 230));
 				} else {
 				    float brightness = PApplet.map(loc, 0f, 1f, 0f, 0.5f);
 				    color = Theme.changeBrightness(color, 0.75f-brightness);
