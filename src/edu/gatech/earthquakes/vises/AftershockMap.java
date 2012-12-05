@@ -178,7 +178,6 @@ public class AftershockMap extends Individual implements Interactable,
 	double[] mags = getMagnitudes();
 	Arrays.sort(mags);
 	magRange = new double[] { mags[0] - .5, mags[mags.length - 1] - .5 };
-	System.out.println(Arrays.toString(magRange));
     }
 
     @Override

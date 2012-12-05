@@ -26,7 +26,7 @@ public class Importer {
 		Set<DataRow> dataRows = new HashSet<DataRow>();
 		try {
 			//File f = new File(dataLocation + fileName);
-			//System.out.println(f.getCanonicalPath());
+			//System.err.println(f.getCanonicalPath());
 			BufferedReader reader = new BufferedReader(
 					new FileReader(new File(dataLocation
 									+ fileName)));// dataLocation + fileName)));
@@ -37,7 +37,7 @@ public class Importer {
 				try{
 				dataRows.add(readQuake(data));
 				} catch(ArrayIndexOutOfBoundsException aiobe){
-					System.out.println(line);
+					System.err.println(line);
 				}
 			}
 

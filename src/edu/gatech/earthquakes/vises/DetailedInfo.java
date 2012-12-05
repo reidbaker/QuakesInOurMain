@@ -7,6 +7,8 @@ import java.security.NoSuchAlgorithmException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Locale;
+import java.util.Locale.Category;
 
 import processing.core.PApplet;
 
@@ -108,8 +110,24 @@ public class DetailedInfo extends Individual implements Brushable {
 	sb.append(DataRow.DEPTH);
 	sb.append(": ");
 	sb.append(displayData.getValue(DataRow.DEPTH));
-	sb.append('\n');
+	sb.append("\n");
+	
+	sb.append(DataRow.DATE);
+	sb.append(":");
+	
+	Calendar cal = Calendar.getInstance();
+	Locale loc = Locale.getDefault(Category.DISPLAY);
+	cal.setTime((Date)displayData.getValue(DataRow.DATE));
+	String displayMonth = cal.getDisplayName(Calendar.MONTH, Calendar.SHORT, loc);
+	sb.append(displayMonth);
+	sb.append(" ");
+	sb.append(cal.get(Calendar.DAY_OF_MONTH));
+	sb.append(", ");
+	sb.append(cal.get(Calendar.YEAR));
+	sb.append("\n\n");
+	
 
+	sb.append("Google Search Results From That Day:\n");
 	sb.append(NUMBER_OF_RESULTS);
 	sb.append(": ");
 	sb.append(numResults);

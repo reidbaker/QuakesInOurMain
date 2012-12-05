@@ -62,7 +62,6 @@ public class CustomSearch {
             e.printStackTrace();
         }
         final String attempted_url = SEARCH_BASE + "?" + "key=" + key + "&cx=" + cx + "&q=" + escaped_q;
-        //System.out.println(attempted_url);
         return new URL(attempted_url);
     }
 
@@ -93,7 +92,6 @@ public class CustomSearch {
         final MessageDigest md = MessageDigest.getInstance("MD5");
         byte[] thedigest = md.digest(bytesOfMessage);
         String filename = bytesToPrintableString(thedigest);
-        System.out.println(filename);
         File f = new File(CACHE_LOCATION + filename);
 
         //TODO handle if query happens to be a directory
@@ -103,7 +101,6 @@ public class CustomSearch {
             //TODO handle no such element exception
             result = s.useDelimiter("\\Z").next();
             s.close();
-            System.out.println("From cache: " + query);
         }
         else{
             //get content and write it to a file the return it
@@ -111,7 +108,6 @@ public class CustomSearch {
             result = getOnlineContent(getUrl(query));
             out.write(result);
             out.close();
-            System.out.println("From web: " + getUrl(query));
         }
         return result;
     }

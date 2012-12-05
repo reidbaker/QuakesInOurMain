@@ -153,7 +153,6 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 
         for (Set<TypeCount> countryData : computedValues.values()) {
             for (TypeCount t : countryData) {
-                System.out.println(t.getType() + " " + t.getCount());
                 if (counts.containsKey(t.getType())) {
 
                     int count = counts.get(t.getType());
@@ -167,7 +166,6 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
         
         for (String type : counts.keySet()) {
             totals.add(new TypeCount(type, counts.get(type)));
-            System.out.println("Type :" + counts.get(type));
         }
     }
 

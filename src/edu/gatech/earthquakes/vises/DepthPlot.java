@@ -81,9 +81,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 				drawingCoordinates[index][1] = y+calculateY((double)d.getValue(DataRow.DEPTH));
 			else{
 				drawingCoordinates[index][1] = y;
-			}
-			//System.out.println(drawingCoordinates[index][1]);
-		
+			}		
 			
 			
 			if(d.getValue(DataRow.MOMENT_MAGNITUDE) != null)
@@ -116,7 +114,6 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 				curDepth = (double) d.getValue(DataRow.DEPTH);
 			if(d.getValue(DataRow.MOMENT_MAGNITUDE) != null)
 				curMag = (double)d.getValue(DataRow.MOMENT_MAGNITUDE);
-			//System.out.println(curMag);
 			//if this is the first thing we've hit, set everything to the current quake
 			if(timeRange[0] == null){
 				timeRange[0] = curDate;

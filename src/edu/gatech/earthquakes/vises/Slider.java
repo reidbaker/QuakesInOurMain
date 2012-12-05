@@ -70,8 +70,6 @@ public class Slider extends AbstractVisualization implements Interactable,
 		for (int i = 0; i < years.length; i++) {
 			cal.setTime(dateArray[i]);
 			years[i] = cal.get(Calendar.YEAR);
-			if (i == 0)
-				System.out.println(years[i]);
 		}
 	}
 

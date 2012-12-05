@@ -2,6 +2,8 @@ package edu.gatech.earthquakes.vises;
 
 import java.awt.Rectangle;
 
+import com.sun.xml.internal.bind.v2.schemagen.xmlschema.NoFixedFacet;
+
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.interfaces.Drawable;
@@ -70,6 +72,17 @@ public abstract class AbstractVisualization implements Drawable, Resizable {
 	    parent.text(title, fb.x + BASE_INSET + CORNER_RADIUS, fb.y
 		    + FRAME_TOP - 4);
 
+	    int closeX = fb.x+fb.width-(FRAME_TOP-BASE_INSET * 3);
+	    int closeY = fb.y + BASE_INSET*3;
+	    int closeSize = FRAME_TOP - BASE_INSET * 6;
+	    
+	    parent.noFill();
+	    parent.strokeJoin(PApplet.ROUND);
+	    parent.rect(closeX, closeY, closeSize, closeSize);
+	    parent.line(closeX + 2*BASE_INSET, closeY + 2*BASE_INSET, closeX
+		    + closeSize - 2*BASE_INSET, closeY + closeSize - 2*BASE_INSET);
+	    parent.line(closeX + 2*BASE_INSET, closeY + closeSize - 2*BASE_INSET, closeX
+		    + closeSize - 2*BASE_INSET, closeY + 2*BASE_INSET);
 	}
     }
 
@@ -90,7 +103,6 @@ public abstract class AbstractVisualization implements Drawable, Resizable {
 	    this.w = fb.width;
 	    this.h = fb.height;
 	} else {
-//	    System.out.println("Drawing Something Decorated");
 	    this.x = fb.x + FRAME_LEFT;
 	    this.y = fb.y + FRAME_TOP;
 	    this.w = fb.width - (FRAME_LEFT + FRAME_RIGHT);
