@@ -1,0 +1,166 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 27 1941 Australia Earthquake",
+    "totalResults": "3",
+    "searchTerms": "Jun 27 1941 Australia Earthquake",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.52089,
+  "formattedSearchTime": "0.52",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "spelling": {
+  "correctedQuery": "June 27 1941 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 27 1941 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6662517 - Retrofit hurricane-earthquake clip - Google ...",
+   "htmlTitle": "Patent US6662517 - Retrofit hurricane-\u003cb\u003eearthquake\u003c/b\u003e clip - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6662517",
+   "displayLink": "www.google.com",
+   "snippet": "A hurricane and earthquake clip for connecting a roof to a wall on new ...   US2321671, Jan 31, 1941, Jun 15, 1943, WALL CLIP. US2413362, Jan 27, 1944  , Dec 31, 1946, METALLIC CLIP FOR CONNECTING AND RE ... US8006459,   Aug 29, 2007, Aug 30, 2011, ITW Construction Systems Australia Pty Ltd, Shear   plate ...",
+   "htmlSnippet": "A hurricane and \u003cb\u003eearthquake\u003c/b\u003e clip for connecting a roof to a wall on new \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US2321671, Jan 31, \u003cb\u003e1941\u003c/b\u003e, \u003cb\u003eJun\u003c/b\u003e 15, 1943, WALL CLIP. US2413362, Jan \u003cb\u003e27\u003c/b\u003e, 1944\u003cbr\u003e  , Dec 31, 1946, METALLIC CLIP FOR CONNECTING AND RE \u003cb\u003e...\u003c/b\u003e US8006459, \u003cbr\u003e  Aug 29, 2007, Aug 30, 2011, ITW Construction Systems \u003cb\u003eAustralia\u003c/b\u003e Pty Ltd, Shear \u003cbr\u003e  plate \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6662517",
+   "htmlFormattedUrl": "www.google.com/patents/US6662517",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=0bYMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdjsjjzN3u6Ue3Hl3WYDeSTvR1T6oo5Uq9HlIAfrrNPVvJCVGgmQ8W1OQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A hurricane and earthquake clip for connecting a roof to a wall on new construction and existing houses. The connector can tie together the outside wall sheathing, top plate, roof rafter or...",
+      "url": "http://www.google.com/patents/US6662517?utm_source=gb-gplus-share",
+      "name": "Patent US6662517 - Retrofit hurricane-earthquake clip",
+      "image": "http://www.google.com/patents?id=0bYMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6662517",
+      "title": "Patent US6662517 - Retrofit hurricane-earthquake clip",
+      "og:title": "Patent US6662517 - Retrofit hurricane-earthquake clip",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=0bYMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5065558 - Prefabricated modular building construction ...",
+   "htmlTitle": "Patent US5065558 - Prefabricated modular building construction \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5065558",
+   "displayLink": "www.google.com",
+   "snippet": "US2238355, Nov 8, 1939, Apr 15, 1941, WALL BUILDING UNIT AND   STRUCTURE ... US4126978, Dec 27, 1977, Nov 28, 1978, Apparatus for   interconnecting panels ... US4606165, Jun 20, 1985, Aug 19, 1986, Ron Allan   Industries (Australia) Pty ... Earthquake, wind resistant and fire resistant pre-  fabricated building panels ...",
+   "htmlSnippet": "US2238355, Nov 8, 1939, Apr 15, \u003cb\u003e1941\u003c/b\u003e, WALL BUILDING UNIT AND \u003cbr\u003e  STRUCTURE \u003cb\u003e...\u003c/b\u003e US4126978, Dec \u003cb\u003e27\u003c/b\u003e, 1977, Nov 28, 1978, Apparatus for \u003cbr\u003e  interconnecting panels \u003cb\u003e...\u003c/b\u003e US4606165, \u003cb\u003eJun\u003c/b\u003e 20, 1985, Aug 19, 1986, Ron Allan \u003cbr\u003e  Industries (\u003cb\u003eAustralia\u003c/b\u003e) Pty \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e, wind resistant and fire resistant pre-\u003cbr\u003e  fabricated building panels \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5065558",
+   "htmlFormattedUrl": "www.google.com/patents/US5065558",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Ev0iAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX3o-nJuL3pOLRMxwP64EoTT2nbzX4X85D98k7FOh53cKORCeFjpVeIA"
+     }
+    ],
+    "book": [
+     {
+      "description": "Reinforced concrete wall components have top, bottom and side margins of a V-shape, and these margins have cooperative engagement with matching horizontal and vertical frame portions to provide...",
+      "url": "http://www.google.com/patents/US5065558?utm_source=gb-gplus-share",
+      "name": "Patent US5065558 - Prefabricated modular building construction system",
+      "image": "http://www.google.com/patents?id=Ev0iAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5065558",
+      "title": "Patent US5065558 - Prefabricated modular building construction system",
+      "og:title": "Patent US5065558 - Prefabricated modular building construction system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Ev0iAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

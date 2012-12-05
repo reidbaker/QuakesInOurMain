@@ -1,0 +1,439 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 11 2001 North America Earthquake",
+    "totalResults": "1010",
+    "searchTerms": "Sep 11 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 11 2001 North America Earthquake",
+    "totalResults": "1010",
+    "searchTerms": "Sep 11 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.465344,
+  "formattedSearchTime": "0.47",
+  "totalResults": "1010",
+  "formattedTotalResults": "1,010"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 11 2001 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 11 2001 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AFP: US pilot in plane attack on Texas tax office",
+   "htmlTitle": "AFP: US pilot in plane attack on Texas tax office",
+   "link": "http://www.google.com/hostednews/afp/article/ALeqM5gG8OrV8qf8ZJK4vUET3IW1qHm4dA",
+   "displayLink": "www.google.com",
+   "snippet": "Feb 18, 2010... which left two people in a critical state in hospital and injured 11 others. ... for   many Americans bitter memories of the September 11, 2001 attacks by Al-Qaeda.   ... North American Aerospace Defense Command (NORAD) launched two ... \"The   building shook, it was almost like an earthquake,\" a witness ...",
+   "htmlSnippet": "Feb 18, 2010\u003cb\u003e...\u003c/b\u003e which left two people in a critical state in hospital and injured 11 others. \u003cb\u003e...\u003c/b\u003e for \u003cbr\u003e  many Americans bitter memories of the \u003cb\u003eSeptember 11, 2001\u003c/b\u003e attacks by Al-Qaeda. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNorth American\u003c/b\u003e Aerospace Defense Command (NORAD) launched two \u003cb\u003e...\u003c/b\u003e &quot;The \u003cbr\u003e  building shook, it was almost like an \u003cb\u003eearthquake\u003c/b\u003e,&quot; a witness \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/.../afp/.../ALeqM5gG8OrV8qf8ZJK4vUET3IW1qHm4dA",
+   "htmlFormattedUrl": "www.google.com/.../afp/.../ALeqM5gG8OrV8qf8ZJK4vUET3IW1qHm4dA",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/hostednews/afp/media/ALeqM5iNEstxpphvXK8xFEWzSUfmYfNBvQ?size=s3"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "219",
+      "height": "146",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzYX-iX9S7rloCI18Kt0bbxAXX1DoW74Jd_tcN6RoZAIMWpt_x1Vjn9Qw"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "US pilot in plane attack on Texas tax office",
+      "og:type": "article",
+      "og:url": "http://www.google.com/hostednews/afp/article/ALeqM5gG8OrV8qf8ZJK4vUET3IW1qHm4dA",
+      "og:site_name": "Google News",
+      "og:image": "http://www.google.com/hostednews/afp/media/ALeqM5iNEstxpphvXK8xFEWzSUfmYfNBvQ?size=s3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6605777 - Earthquake-resistant electronic equipment ...",
+   "htmlTitle": "Patent US6605777 - \u003cb\u003eEarthquake\u003c/b\u003e-resistant electronic equipment \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6605777",
+   "displayLink": "www.google.com",
+   "snippet": "US6217138, May 18, 1999, Apr 17, 2001, Rittal-Werk Rudolf Loh GmbH & Co. ...   USD580193, Oct 25, 2006, Nov 11, 2008, Chicago Display Marketing ...   USD623439, Oct 2, 2009, Sep 14, 2010, Frito-Lay North America, Inc. Product   display ...",
+   "htmlSnippet": "US6217138, May 18, 1999, Apr 17, \u003cb\u003e2001\u003c/b\u003e, Rittal-Werk Rudolf Loh GmbH &amp; Co. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  USD580193, Oct 25, 2006, Nov \u003cb\u003e11\u003c/b\u003e, 2008, Chicago Display Marketing \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  USD623439, Oct 2, 2009, \u003cb\u003eSep\u003c/b\u003e 14, 2010, Frito-Lay \u003cb\u003eNorth America\u003c/b\u003e, Inc. Product \u003cbr\u003e  display \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6605777",
+   "htmlFormattedUrl": "www.google.com/patents/US6605777",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=6_QNAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm-A_y5vMRmbslp5Zg2nN1ze4gJ1W836SSflVD4HV3j6hOc9WbYsMlOA"
+     }
+    ],
+    "book": [
+     {
+      "description": "An electronic equipment frame has two side assemblies each formed of two separate configured corner support channel members rigidly connected by welding by a series of cross struts, and rigidly...",
+      "url": "http://www.google.com/patents/US6605777?utm_source=gb-gplus-share",
+      "name": "Patent US6605777 - Earthquake-resistant electronic equipment frame",
+      "image": "http://www.google.com/patents?id=6_QNAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6605777",
+      "title": "Patent US6605777 - Earthquake-resistant electronic equipment frame",
+      "og:title": "Patent US6605777 - Earthquake-resistant electronic equipment frame",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=6_QNAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "Google files for incorporation in California on September 4. ..... cities in Japan   and Australia???the first time it's appeared outside of North America or Europe.",
+   "htmlSnippet": "Google files for incorporation in California on \u003cb\u003eSeptember\u003c/b\u003e 4. \u003cb\u003e.....\u003c/b\u003e cities in Japan \u003cbr\u003e  and Australia???the first time it&#39;s appeared outside of \u003cb\u003eNorth America\u003c/b\u003e or Europe.",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4258421 - Vehicle monitoring and recording system ...",
+   "htmlTitle": "Patent US4258421 - Vehicle monitoring and recording system \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4258421",
+   "displayLink": "www.google.com",
+   "snippet": "US6289332, Mar 18, 1999, Sep 11, 2001, Freightliner Corporation ... US6366848  , Sep 19, 2000, Apr 2, 2002, Volvo Trucks North America, Inc. Engine control ...",
+   "htmlSnippet": "US6289332, Mar 18, 1999, \u003cb\u003eSep 11, 2001\u003c/b\u003e, Freightliner Corporation \u003cb\u003e...\u003c/b\u003e US6366848\u003cbr\u003e  , Sep 19, 2000, Apr 2, 2002, Volvo Trucks \u003cb\u003eNorth America\u003c/b\u003e, Inc. Engine control \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4258421",
+   "htmlFormattedUrl": "www.google.com/patents/US4258421",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWpHD7PzKDd_q-rDLXqpM3vxbvPz1rlYUI4KESDu5j3m9Fzfb-2aNKfA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A device monitoring and recording system is described which is particularly applicable to on-board vehicle monitoring and recording of operating engine parameters. The system comprises a plurality...",
+      "url": "http://www.google.com/patents/US4258421?utm_source=gb-gplus-share",
+      "name": "Patent US4258421 - Vehicle monitoring and recording system",
+      "image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4258421",
+      "title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:title": "Patent US4258421 - Vehicle monitoring and recording system",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=nEk2AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5490062 - Real-time neural network earthquake profile ...",
+   "htmlTitle": "Patent US5490062 - Real-time neural network \u003cb\u003eearthquake\u003c/b\u003e profile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5490062",
+   "displayLink": "www.google.com",
+   "snippet": "Presented with a previously unseen earthquake, the neural network ...   US5181171, Sep 20, 1990, Jan 19, 1993, Atlantic Richfield Company ...   US6169476, Mar 19, 1999, Jan 2, 2001, Early warning system for natural and   manmade disasters ... United States of America as represented by the   Administrator of the National ...",
+   "htmlSnippet": "Presented with a previously unseen \u003cb\u003eearthquake\u003c/b\u003e, the neural network \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5181171, \u003cb\u003eSep\u003c/b\u003e 20, 1990, Jan 19, 1993, Atlantic Richfield Company \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6169476, Mar 19, 1999, Jan 2, \u003cb\u003e2001\u003c/b\u003e, Early warning system for natural and \u003cbr\u003e  manmade disasters \u003cb\u003e...\u003c/b\u003e United States of \u003cb\u003eAmerica\u003c/b\u003e as represented by the \u003cbr\u003e  Administrator of the National \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5490062",
+   "htmlFormattedUrl": "www.google.com/patents/US5490062",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=kYAoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAbWi0RmtCRIaVWXphFvzF6w3G44RKjPQrWPgzzar7rqagKjk0vFoLuA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A neural network has been developed that uses first-arrival energy to predict the characteristics of impending earthquake seismograph signals. The propagation of ground motion energy through...",
+      "url": "http://www.google.com/patents/US5490062?utm_source=gb-gplus-share",
+      "name": "Patent US5490062 - Real-time neural network earthquake profile predictor",
+      "image": "http://www.google.com/patents?id=kYAoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5490062",
+      "title": "Patent US5490062 - Real-time neural network earthquake profile predictor",
+      "og:title": "Patent US5490062 - Real-time neural network earthquake profile predictor",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=kYAoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hot Searches - Google",
+   "htmlTitle": "Hot Searches - Google",
+   "link": "http://www.google.com/trends/hottrends",
+   "displayLink": "www.google.com",
+   "snippet": "... Council voted 6-1 on Tuesday on a zoning issue that paves the way for a new   Sam's Club store at the northeast corner of 29th Street North and Maize Road.",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e Council voted 6-1 on Tuesday on a zoning issue that paves the way for a new \u003cbr\u003e  Sam&#39;s Club store at the northeast corner of 29th Street \u003cb\u003eNorth\u003c/b\u003e and Maize Road.",
+   "cacheId": "uvKavSff1xUJ",
+   "formattedUrl": "www.google.com/trends/hottrends",
+   "htmlFormattedUrl": "www.google.com/trends/hottrends",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/trends/resources/2327917647-google-icon.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "102",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3yTXNtH_-TAOlH7VN5H-YB12XPPIGpUNtjnutMt3YPxciVY44kh7V"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Google Hot Searches",
+      "og:type": "article",
+      "og:url": "http://www.google.com/trends/hottrends",
+      "og:image": "http://www.google.com/trends/resources/2327917647-google-icon.png",
+      "og:description": "Explore trending search topics with Google Hot Searches."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "... model when performing multi-scale inversion of seismic data ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e model when performing multi-scale inversion of \u003cb\u003eseismic\u003c/b\u003e data \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8121823 - Iterative inversion of data from simultaneous ...",
+   "htmlTitle": "Patent US8121823 - Iterative inversion of data from simultaneous \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8121823",
+   "displayLink": "www.google.com",
+   "snippet": "US4545039, Sep 9, 1982, Oct 1, 1985, Western Geophysical Co. of America,   Methods ... 1986, Aug 11, 1987, Western Geophysical Company of America,   Method for ... US6327537, Jul 19, 1999, Dec 4, 2001, Multi-shooting approach to   seismic .... US7725266, May 31, 2007, May 25, 2010, BP Corporation North   America Inc.",
+   "htmlSnippet": "US4545039, \u003cb\u003eSep\u003c/b\u003e 9, 1982, Oct 1, 1985, Western Geophysical Co. of America, \u003cbr\u003e  Methods \u003cb\u003e...\u003c/b\u003e 1986, Aug \u003cb\u003e11\u003c/b\u003e, 1987, Western Geophysical Company of America, \u003cbr\u003e  Method for \u003cb\u003e...\u003c/b\u003e US6327537, Jul 19, 1999, Dec 4, \u003cb\u003e2001\u003c/b\u003e, Multi-shooting approach to \u003cbr\u003e  \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e Inc.",
+   "formattedUrl": "www.google.com/patents/US8121823",
+   "htmlFormattedUrl": "www.google.com/patents/US8121823",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0TCwxQzj2yASXEPyp88Z__B3I4k0NfjDGjx5u6qG-5VYlAALARvEnh4Q"
+     }
+    ],
+    "book": [
+     {
+      "description": "Method for reducing the time needed to perform geophysical inversion by using simultaneous encoded sources in the simulation steps of the inversion process. The geophysical survey data are...",
+      "url": "http://www.google.com/patents/US8121823?utm_source=gb-gplus-share",
+      "name": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8121823",
+      "title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6098969 - Structural vibration damper with continuously ...",
+   "htmlTitle": "Patent US6098969 - Structural vibration damper with continuously \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6098969",
+   "displayLink": "www.google.com",
+   "snippet": "... state under dynamic disturbances such as earthquakes and windstorms. ...   US5147018, Feb 27, 1992, Sep 15, 1992, Kajima Corporation ... US5410845,   Feb 11, 1993, May 2, 1995, Kajima Corporation, Vibration control device for   structure ... Engineering & Manufacturing North America, Inc. Spare tire dynamic   damper ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e state under dynamic disturbances such as \u003cb\u003eearthquakes\u003c/b\u003e and windstorms. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5147018, Feb 27, 1992, \u003cb\u003eSep\u003c/b\u003e 15, 1992, Kajima Corporation \u003cb\u003e...\u003c/b\u003e US5410845, \u003cbr\u003e  Feb \u003cb\u003e11\u003c/b\u003e, 1993, May 2, 1995, Kajima Corporation, Vibration control device for \u003cbr\u003e  structure \u003cb\u003e...\u003c/b\u003e Engineering &amp; Manufacturing \u003cb\u003eNorth America\u003c/b\u003e, Inc. Spare tire dynamic \u003cbr\u003e  damper \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6098969",
+   "htmlFormattedUrl": "www.google.com/patents/US6098969",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=QVYDAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVsSnlyEIBey4O_ggyR_KUeV8RN9eUPliybFwEJ-5-VVyPa51sdkhe3Ng"
+     }
+    ],
+    "book": [
+     {
+      "description": "A semi-active variable stiffness control (SAIVS) device, which can change its stiffness continuously and smoothly between a maximum and minimum stiffness. It comprises four spring and telescoping...",
+      "url": "http://www.google.com/patents/US6098969?utm_source=gb-gplus-share",
+      "name": "Patent US6098969 - Structural vibration damper with continuously variable stiffness",
+      "image": "http://www.google.com/patents?id=QVYDAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6098969",
+      "title": "Patent US6098969 - Structural vibration damper with continuously variable stiffness",
+      "og:title": "Patent US6098969 - Structural vibration damper with continuously variable stiffness",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=QVYDAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7881154 - Seismic processing for the elimination of ...",
+   "htmlTitle": "Patent US7881154 - \u003cb\u003eSeismic\u003c/b\u003e processing for the elimination of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7881154",
+   "displayLink": "www.google.com",
+   "snippet": "Seismic processing method, in which, in order to eliminate multiple ...   US5349527, Dec 20, 1991, Sep 20, 1994, Schlumberger Technology   Corporation, Method of seismic ... US6101448, Jan 11, 1999, Aug 8, 2000,   Schlumberger Technology ... North America Inc. Method of DMO calculation for   use in seismic exploration ...",
+   "htmlSnippet": "\u003cb\u003eSeismic\u003c/b\u003e processing method, in which, in order to eliminate multiple \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5349527, Dec 20, 1991, \u003cb\u003eSep\u003c/b\u003e 20, 1994, Schlumberger Technology \u003cbr\u003e  Corporation, Method of \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US6101448, Jan \u003cb\u003e11\u003c/b\u003e, 1999, Aug 8, 2000, \u003cbr\u003e  Schlumberger Technology \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNorth America\u003c/b\u003e Inc. Method of DMO calculation for \u003cbr\u003e  use in \u003cb\u003eseismic\u003c/b\u003e exploration \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7881154",
+   "htmlFormattedUrl": "www.google.com/patents/US7881154",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=5zn-AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRR3_1seKxhG-Xlr1Mhv_RsnYAD4RBRIcQTEgIGcqk76pw3TvC6OLkj_Dk"
+     }
+    ],
+    "book": [
+     {
+      "description": "Seismic processing method, in which, in order to eliminate multiple reflections on seismic data, seismic data are migrated in time or in depth (110) arid the data thus migrated are processed...",
+      "url": "http://www.google.com/patents/US7881154?utm_source=gb-gplus-share",
+      "name": "Patent US7881154 - Seismic processing for the elimination of multiple reflections",
+      "image": "http://www.google.com/patents?id=5zn-AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7881154",
+      "title": "Patent US7881154 - Seismic processing for the elimination of multiple reflections",
+      "og:title": "Patent US7881154 - Seismic processing for the elimination of multiple reflections",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=5zn-AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}
