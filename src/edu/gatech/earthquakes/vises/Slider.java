@@ -18,8 +18,7 @@ import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
 
-public class Slider extends AbstractVisualization implements Interactable,
-		Resizable {
+public class Slider extends AbstractVisualization implements Interactable{
 	float left, right;
 	int goalLeft, goalRight;
 	int snappedLeft, snappedRight;

@@ -2,6 +2,7 @@ package edu.gatech.earthquakes.vises;
 
 import java.awt.Rectangle;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.HashSet;
 
@@ -31,28 +32,33 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 		calculateDrawingValues();
 	}
 	
-	public void drawComponent(PApplet parent){
-		super.drawComponent(parent);
-		parent.strokeWeight(1);	
-		for(int i=0; i< drawingCoordinates.length; i++){
-			if(drawingCoordinates[i][1] != y){
-				int color = DataRow.getColorFor(DataRow.DEPTH);
+    public void drawComponent(PApplet parent) {
+        super.drawComponent(parent);
+        parent.strokeWeight(1);
+        for (int i = 0; i < drawingCoordinates.length; i++) {
+            if (drawingCoordinates[i][1] != y) {
+                int color = DataRow.getColorFor(DataRow.DEPTH);
 
-				float loc = (drawingCoordinates[i][1] - y - buffer) / h;
-				color = Theme.changeSaturation(color, 1-loc,false);
+                float loc = (drawingCoordinates[i][1] - y - buffer) / h;
+                color = Theme.changeSaturation(color, 1 - loc, false);
 
-				if(i == highlightedIndex){
-	                parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 150));
-	                parent.stroke(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 230));
-				} else {
-				    float brightness = PApplet.map(loc, 0f, 1f, 0f, 0.5f);
-				    color = Theme.changeBrightness(color, 0.75f-brightness,false);
-	                parent.fill(Theme.rgba(color,200));
-	                parent.stroke(color);
-				}
-				parent.ellipse(drawingCoordinates[i][0], drawingCoordinates[i][1], quakeRadii[i]*2,quakeRadii[i]*2);
-			}
-		}
+                if (i == highlightedIndex) {
+                    parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 150));
+                    parent.stroke(Theme.HIGHLIGHTED_COLOR);
+                } else {
+                    float brightness = PApplet.map(loc, 0f, 1f, 0f, 0.5f);
+                    color = Theme.changeBrightness(color, 0.75f - brightness,
+                            false);
+                    parent.fill(Theme.rgba(color, 150));
+                    parent.stroke(color);
+                }
+                parent.ellipse(drawingCoordinates[i][0],
+                        drawingCoordinates[i][1], quakeRadii[i] * 2,
+                        quakeRadii[i] * 2);
+            }
+        }
+		
+		drawAxes(parent);
 	}
 	
 	
@@ -142,10 +148,24 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 			else if(curMag > magRange[1])
 				magRange[1] = curMag;
 		}
+		//System.out.println(depthRange[1]);
 	}
 	
 	private void drawAxes(PApplet parent){
-	    
+	    int verticalOffset = h/20;
+	    int depthOffset = (int)(depthRange[1]-depthRange[0])/verticalOffset;
+	    parent.stroke(0);
+	    parent.fill(0);
+	    parent.textSize(w/30);
+	    parent.textAlign(PApplet.CENTER);
+	    for(int i=0; i< h-buffer*2; i+= verticalOffset ){
+	        parent.line(x+buffer-2, y+buffer+i, x+w-buffer, y+buffer+i);
+	        parent.pushMatrix();
+	        parent.translate(x+buffer/2, y+buffer+i);
+	        parent.rotate(-PApplet.PI / 2);
+	        parent.text(i*depthOffset+"", 0 , 0);
+	        parent.popMatrix();
+	    }
 	}
 
 	@Override
