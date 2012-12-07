@@ -136,7 +136,7 @@ public class DetailedInfo extends Individual implements Brushable {
         sb.append(cal.get(Calendar.DAY_OF_MONTH));
         sb.append(", ");
         sb.append(cal.get(Calendar.YEAR));
-        sb.append("\n\n");
+        sb.append("\n");
 
         if(numResults >=0){
             sb.append("Google Search Results for Earthquake: ");
