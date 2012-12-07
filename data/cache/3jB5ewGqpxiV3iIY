@@ -1,0 +1,271 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 22 2002 India Earthquake",
+    "totalResults": "770000",
+    "searchTerms": "Aug 22 2002 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 22 2002 India Earthquake",
+    "totalResults": "770000",
+    "searchTerms": "Aug 22 2002 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.277147,
+  "formattedSearchTime": "0.28",
+  "totalResults": "770000",
+  "formattedTotalResults": "770,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Afghanistan ??? 2 strong earthquakes hit a populated area! 71 ...",
+   "htmlTitle": "Afghanistan ??? 2 strong \u003cb\u003eearthquakes\u003c/b\u003e hit a populated area! 71 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/11/afghanistan-strong-earthquake-hits-populated-area/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 18, 2012 ... Earthquake overview : A strong earthquake has occurred near to ... UPDATE: 50   deaths and 150 injuries were seen from a 2002 earthquake occurring very close   to ... It was less dramatic than the N. Virginia quake I experienced last August. ...   Amritsar, Punjab, India - We were in office and the water bottles ...",
+   "htmlSnippet": "Jun 18, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A strong \u003cb\u003eearthquake\u003c/b\u003e has occurred near to \u003cb\u003e...\u003c/b\u003e UPDATE: 50 \u003cbr\u003e  deaths and 150 injuries were seen from a \u003cb\u003e2002 earthquake\u003c/b\u003e occurring very close \u003cbr\u003e  to \u003cb\u003e...\u003c/b\u003e It was less dramatic than the N. Virginia \u003cb\u003equake\u003c/b\u003e I experienced last \u003cb\u003eAugust\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Amritsar, Punjab, \u003cb\u003eIndia\u003c/b\u003e - We were in office and the water bottles \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Xm4jZ38qAYwJ",
+   "formattedUrl": "earthquake-report.com/.../afghanistan-strong-earthquake-hits-populated-area/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../afghanistan-strong-\u003cb\u003eearthquake\u003c/b\u003e-hits-populated-area/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/06/Afghanistan_landslide2-268x300.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "212",
+      "height": "238",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4fohV0TQqva5VRHC9UDnCBpT6NVwSeiPtMmilByeatxWDhbO_Uh5R530"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 5.8,   ANDAMAN ISLANDS, INDIA REGION, Nov 02 2002, 04:47:43, 12.749 ... 5.0,   ENGLAND, UNITED KINGDOM, Sep 22 2002, 23:53:14, 52.484 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 5.8, \u003cbr\u003e  ANDAMAN ISLANDS, \u003cb\u003eINDIA\u003c/b\u003e REGION, Nov 02 2002, 04:47:43, 12.749 \u003cb\u003e...\u003c/b\u003e 5.0, \u003cbr\u003e  ENGLAND, UNITED KINGDOM, \u003cb\u003eSep 22 2002\u003c/b\u003e, 23:53:14, 52.484 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3H1QGN8v88wJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2002\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "6 days ago ... Did you know this earthquake happened on the same day in history ? ... caused   damage at Karachi and damage and casualties in the Mumbai (Bombay) area,   India. ... November 22 2012 .... Istanbul and approximately 45 miles east of the   region hit by the August earthquake. .... Largest earthquake in 2002.",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e Did you know this \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in history ? \u003cb\u003e...\u003c/b\u003e caused \u003cbr\u003e  damage at Karachi and damage and casualties in the Mumbai (Bombay) area, \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e November \u003cb\u003e22\u003c/b\u003e 2012 \u003cb\u003e....\u003c/b\u003e Istanbul and approximately 45 miles east of the \u003cbr\u003e  region hit by the \u003cb\u003eAugust earthquake\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e Largest \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e2002\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Special Events :: Why does Oregon get so many earthquakes?",
+   "htmlTitle": "Special Events :: Why does Oregon get so many \u003cb\u003eearthquakes\u003c/b\u003e?",
+   "link": "http://eqinfo.ucsd.edu/special_events/oregon/",
+   "displayLink": "eqinfo.ucsd.edu",
+   "snippet": "High frequency of earthquakes off the coast of Oregon. ... From August 22 to   September 2, 2002, there were six earthquakes that were between 4.7 to ... group   (including who works here, other networks, nuclear tests in China/India/Pakistan).",
+   "htmlSnippet": "High frequency of \u003cb\u003eearthquakes\u003c/b\u003e off the coast of Oregon. \u003cb\u003e...\u003c/b\u003e From \u003cb\u003eAugust 22\u003c/b\u003e to \u003cbr\u003e  September 2, 2002, there were six \u003cb\u003eearthquakes\u003c/b\u003e that were between 4.7 to \u003cb\u003e...\u003c/b\u003e group \u003cbr\u003e  (including who works here, other networks, nuclear tests in China/\u003cb\u003eIndia\u003c/b\u003e/Pakistan).",
+   "cacheId": "zGyomSfxVEAJ",
+   "formattedUrl": "eqinfo.ucsd.edu/special_events/oregon/",
+   "htmlFormattedUrl": "eqinfo.ucsd.edu/special_events/oregon/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://eqinfo.ucsd.edu/special_events/oregon/images/plates_trim.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "222",
+      "height": "227",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSl53ErkaOjBvH1rEznDiADu25MvP8a2OUfs4jiI5x5CutcB-hrpz7mQ7g"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Vernon, Newman, Eakins"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake induced landslides in the Sikkim-Darjeeling Himalayas",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e induced landslides in the Sikkim-Darjeeling Himalayas",
+   "link": "http://earthquake-report.com/2011/11/25/earthquake-induced-landslides-in-the-sikkim-darjeeling-himalayas/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 25, 2011 ... According to the Indian Meteorological Department (IMD) 1, a strong earthquake   of Magnitude M: 6.8 shook Sikkim and Darjeeling areas of ...",
+   "htmlSnippet": "Nov 25, 2011 \u003cb\u003e...\u003c/b\u003e According to the \u003cb\u003eIndian\u003c/b\u003e Meteorological Department (IMD) 1, a strong \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  of Magnitude M: 6.8 shook Sikkim and Darjeeling areas of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cyz4tSopw00J",
+   "formattedUrl": "earthquake-report.com/.../earthquake-induced-landslides-in-the-sikkim- darjeeling-himalayas/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003eearthquake\u003c/b\u003e-induced-landslides-in-the-sikkim- darjeeling-himalayas/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/11/lands-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "218",
+      "height": "231",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4jfOQes6Dc-VmTKs2YAUFY54i5NCRBJuRW0m5uG1rQf-ILL8neMQtwSU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "August 21, 2001, 06:52, East of North Island, New Zealand, ???36.813 ... November   1, 2002, 22:09, Northwestern Kashmir, 35.517, 74.654, 11, 5.4, Mw (HRV) .... see   2004 Indian Ocean earthquake, 3.30, 95.87, 230,000~300,000, 9.1, Mw (USGS) ...",
+   "htmlSnippet": "\u003cb\u003eAugust\u003c/b\u003e 21, 2001, 06:52, East of North Island, New Zealand, ???36.813 \u003cb\u003e...\u003c/b\u003e November \u003cbr\u003e  1, \u003cb\u003e2002\u003c/b\u003e, \u003cb\u003e22\u003c/b\u003e:09, Northwestern Kashmir, 35.517, 74.654, 11, 5.4, Mw (HRV) \u003cb\u003e....\u003c/b\u003e see \u003cbr\u003e  2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003eearthquake\u003c/b\u003e, 3.30, 95.87, 230,000~300,000, 9.1, Mw (USGS) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... SOS Earthquakes was founded in August 2010. ... Significant losses were also   seen in Turkey from the Van earthquake in October, in the India-Nepal-Tibet   region in September, in China .... Mamasani, IR, 05.01.2011, 0, (0-0), 22, 15 ......   Utsu, T. [2002] ???A list of deadly earthquakes in the World: 1500-2000???, ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e SOS \u003cb\u003eEarthquakes\u003c/b\u003e was founded in \u003cb\u003eAugust\u003c/b\u003e 2010. \u003cb\u003e...\u003c/b\u003e Significant losses were also \u003cbr\u003e  seen in Turkey from the Van \u003cb\u003eearthquake\u003c/b\u003e in October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet \u003cbr\u003e  region in September, in China \u003cb\u003e....\u003c/b\u003e Mamasani, IR, 05.01.2011, 0, (0-0), \u003cb\u003e22\u003c/b\u003e, 15 \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  Utsu, T. [\u003cb\u003e2002\u003c/b\u003e] ???A list of deadly \u003cb\u003eearthquakes\u003c/b\u003e in the World: 1500-2000???, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "August 22 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAugust 22\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/August_22",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "August 22 is the 234th day of the year (235th in leap years) in the Gregorian   calendar. ... 1639 ??? Madras (now Chennai), India, is founded by the British East   India ... 1949 ??? Queen Charlotte earthquake: Canada's largest earthquake since   the 1700 .... 2002); 1967 ??? Bill Welke, American baseball umpire; 1968 ??? Casper ...",
+   "htmlSnippet": "\u003cb\u003eAugust 22\u003c/b\u003e is the 234th day of the year (235th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e 1639 ??? Madras (now Chennai), \u003cb\u003eIndia\u003c/b\u003e, is founded by the British East \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 1949 ??? Queen Charlotte \u003cb\u003eearthquake\u003c/b\u003e: Canada&#39;s largest \u003cb\u003eearthquake\u003c/b\u003e since \u003cbr\u003e  the 1700 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e2002\u003c/b\u003e); 1967 ??? Bill Welke, American baseball umpire; 1968 ??? Casper \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rFRuh33LJrsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/August_22",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAugust\u003c/b\u003e_\u003cb\u003e22\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Articles about Engineering Education - Economic Times",
+   "htmlTitle": "Articles about Engineering Education - Economic Times",
+   "link": "http://articles.economictimes.indiatimes.com/keyword/engineering-education",
+   "displayLink": "articles.economictimes.indiatimes.com",
+   "snippet": "Lesson on earthquakes for civil engineers. August 22, 2002 | Urmi A Goswami ,   TNN. NEW DELHI: Earthquakes in India have generated academic interest in the ...",
+   "htmlSnippet": "Lesson on \u003cb\u003eearthquakes\u003c/b\u003e for civil engineers. \u003cb\u003eAugust 22, 2002\u003c/b\u003e | Urmi A Goswami , \u003cbr\u003e  TNN. NEW DELHI: \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e have generated academic interest in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sPqRx_WA_w0J",
+   "formattedUrl": "articles.economictimes.indiatimes.com/.../engineering-education",
+   "htmlFormattedUrl": "articles.economictimes.\u003cb\u003eindia\u003c/b\u003etimes.com/.../engineering-education"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1850 Sep 22, An earthquake in Sichuan, China, killed some 300,000 people. ...   1897 Jun 12, Possibly the most severe quake in history struck Assam, India. ......   2002 Sep 9, An earthquake struck just off Papua New Guinea's north coast,   killing ...",
+   "htmlSnippet": "1850 \u003cb\u003eSep 22\u003c/b\u003e, An \u003cb\u003eearthquake\u003c/b\u003e in Sichuan, China, killed some 300,000 people. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1897 Jun 12, Possibly the most severe \u003cb\u003equake\u003c/b\u003e in history struck Assam, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2002 Sep\u003c/b\u003e 9, An \u003cb\u003eearthquake\u003c/b\u003e struck just off Papua New Guinea&#39;s north coast, \u003cbr\u003e  killing \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  }
+ ]
+}

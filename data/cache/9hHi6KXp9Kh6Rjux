@@ -1,0 +1,311 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 31 2001 India Earthquake",
+    "totalResults": "744000",
+    "searchTerms": "Jan 31 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 31 2001 India Earthquake",
+    "totalResults": "744000",
+    "searchTerms": "Jan 31 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.213391,
+  "formattedSearchTime": "0.21",
+  "totalResults": "744000",
+  "formattedTotalResults": "744,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "India : Earthquake : 2001/01/26",
+   "htmlTitle": "\u003cb\u003eIndia\u003c/b\u003e : \u003cb\u003eEarthquake\u003c/b\u003e : \u003cb\u003e2001\u003c/b\u003e/01/26",
+   "link": "http://www.adrc.asia/latestinfo/View_E.php?lang=en&KEY=166",
+   "displayLink": "www.adrc.asia",
+   "snippet": "Duration, 2001/01/26, A severe earthquake of magnitude 6.9 occurred at Bhuj   580 miles .... Government of India Situation Report(22:00, 31th January, 2001) ...",
+   "htmlSnippet": "Duration, 2001/01/26, A severe \u003cb\u003eearthquake\u003c/b\u003e of magnitude 6.9 occurred at Bhuj \u003cbr\u003e  580 miles \u003cb\u003e....\u003c/b\u003e Government of \u003cb\u003eIndia\u003c/b\u003e Situation Report(22:00, \u003cb\u003e31th January, 2001\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OM_kIk-H20UJ",
+   "formattedUrl": "www.adrc.asia/latestinfo/View_E.php?lang=en&KEY=166",
+   "htmlFormattedUrl": "www.adrc.asia/latestinfo/View_E.php?lang=en&amp;KEY=166"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong damaging earthquake in the Nepal / Sikkim (India ...",
+   "htmlTitle": "Very strong damaging \u003cb\u003eearthquake\u003c/b\u003e in the Nepal / Sikkim (\u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 2, 2011 ... Earthquake overview : A magnitude 6.9 earthquake hit the Himalayan states   Nepal and Sikkim (India) 12:40:48 UT (6:11 PM at epicenter).",
+   "htmlSnippet": "Oct 2, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A magnitude 6.9 \u003cb\u003eearthquake\u003c/b\u003e hit the Himalayan states \u003cbr\u003e  Nepal and Sikkim (\u003cb\u003eIndia\u003c/b\u003e) 12:40:48 UT (6:11 PM at epicenter).",
+   "cacheId": "0hEt4bGhGegJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-earthquake-in-sikkim-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-\u003cb\u003eearthquake\u003c/b\u003e-in-sikkim-\u003cb\u003eindia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/09/india-19092011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "236",
+      "height": "156",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Zq3DEjg7bjf9SyfGLzsxsLzf2pwhzbCh2aTlCxNld3KGjAKNQSX6Zic"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dipen Giri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rescuers Find Handful of Survivors of Indian Earthquake - New York ...",
+   "htmlTitle": "Rescuers Find Handful of Survivors of \u003cb\u003eIndian Earthquake\u003c/b\u003e - New York \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nytimes.com/2001/01/31/world/rescuers-find-handful-of-survivors-of-indian-earthquake.html",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Rescuers Find Handful of Survivors of Indian Earthquake. By CELIA W. DUGGER   Published: January 31, 2001. Sign In to E-Mail ?? Print ?? Single-Page ...",
+   "htmlSnippet": "Rescuers Find Handful of Survivors of \u003cb\u003eIndian Earthquake\u003c/b\u003e. By CELIA W. DUGGER \u003cbr\u003e  Published: \u003cb\u003eJanuary 31, 2001\u003c/b\u003e. Sign In to E-Mail &middot; Print &middot; Single-Page \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jQFMU7WKzrYJ",
+   "formattedUrl": "www.nytimes.com/2001/.../31/.../rescuers-find-handful-of-survivors-of- indian-earthquake.html",
+   "htmlFormattedUrl": "www.nytimes.com/\u003cb\u003e2001\u003c/b\u003e/.../\u003cb\u003e31\u003c/b\u003e/.../rescuers-find-handful-of-survivors-of- \u003cb\u003eindian\u003c/b\u003e-\u003cb\u003eearthquake\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Celia W. Dugger",
+      "ptime": "20010131000000",
+      "utime": "20090219022652"
+     },
+     {
+      "articleid": "693499",
+      "cg": "World",
+      "pt": "Article",
+      "pst": "News",
+      "pc": "PerfectMarket",
+      "pdate": "20010131",
+      "timespeople": "disallow",
+      "og:site_name": "New York Times"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Bhuj, India, earthquake of January 26, 2001",
+   "htmlTitle": "The Bhuj, \u003cb\u003eIndia\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eJanuary\u003c/b\u003e 26, \u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://www.geerassociation.org/GEER_Post%20EQ%20Reports/Bhuj_2001/india_photo.htm",
+   "displayLink": "www.geerassociation.org",
+   "snippet": "GANDHIDHAM: A statue of Mahatma Gandhi is seen tilted at an angle in the town   of Gandhidham, India Wednesday Jan. 31, 2001 after a massive earthquake ...",
+   "htmlSnippet": "GANDHIDHAM: A statue of Mahatma Gandhi is seen tilted at an angle in the town \u003cbr\u003e  of Gandhidham, \u003cb\u003eIndia Wednesday Jan. 31, 2001\u003c/b\u003e after a massive \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "350VtXdZdikJ",
+   "formattedUrl": "www.geerassociation.org/GEER.../Bhuj_2001/india_photo.htm",
+   "htmlFormattedUrl": "www.geerassociation.org/GEER.../Bhuj_\u003cb\u003e2001\u003c/b\u003e/\u003cb\u003eindia\u003c/b\u003e_photo.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.geerassociation.org/GEER_Post%20EQ%20Reports/Bhuj_2001/Damaged_Areas.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJtEMiH66Z81NintNc9-Sn7ks5oPlzCXSez5uz9W_snCk57QRcswE72o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "7.9 Magnitude Earthquake Struck Gujurat, India: 20,000 Killed ...",
+   "htmlTitle": "7.9 Magnitude \u003cb\u003eEarthquake\u003c/b\u003e Struck Gujurat, \u003cb\u003eIndia\u003c/b\u003e: 20,000 Killed \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://suite101.com/article/79-magnitude-earthquake-struck-gujurat-india-20000-killed-a336930",
+   "displayLink": "suite101.com",
+   "snippet": "Jan 23, 2011 ... Friday January 26, 2001 resulting in about 20,000 persons killed. ... \"The most   powerful earthquake to strike India in a half century rocked the subcontinent   Friday...leaving desperate ... Harley, Jonathan (31 January , 2001).",
+   "htmlSnippet": "Jan 23, 2011 \u003cb\u003e...\u003c/b\u003e Friday January 26, 2001 resulting in about 20,000 persons killed. \u003cb\u003e...\u003c/b\u003e &quot;The most \u003cbr\u003e  powerful \u003cb\u003eearthquake\u003c/b\u003e to strike \u003cb\u003eIndia\u003c/b\u003e in a half century rocked the subcontinent \u003cbr\u003e  Friday...leaving desperate \u003cb\u003e...\u003c/b\u003e Harley, Jonathan (\u003cb\u003e31 January , 2001\u003c/b\u003e).",
+   "cacheId": "m5C69GDUXcwJ",
+   "formattedUrl": "suite101.com/.../79-magnitude-earthquake-struck-gujurat-india-20000-killed -a336930",
+   "htmlFormattedUrl": "suite101.com/.../79-magnitude-\u003cb\u003eearthquake\u003c/b\u003e-struck-gujurat-\u003cb\u003eindia\u003c/b\u003e-20000-killed -a336930",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://suite101.com/files/000/188/000188878.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "257",
+      "height": "196",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRecM-FYfp7yunSI_DxFJFdB9k0pf9FOH3pFHPojqu44ipnGk64tj5xTjU8"
+     }
+    ],
+    "metatags": [
+     {
+      "article:author": "http://suite101.com/julia-adamson",
+      "dc.title": "7.9 Magnitude Earthquake Struck Gujurat, India: 20,000 Killed",
+      "og:type": "article",
+      "article:section": "Science & Nature",
+      "og:title": "7.9 Magnitude Earthquake Struck Gujurat, India: 20,000 Killed",
+      "sioc:num_replies": "0",
+      "dc:title": "7.9 Magnitude Earthquake Struck Gujurat, India: 20,000 Killed",
+      "og:image": "http://suite101.com/files/000/188/000188878.jpg",
+      "copyright": "&copy; Suite101.com Media Inc.",
+      "dc.type": "article",
+      "publisher": "Suite101",
+      "og:description": "Over 160,000 people were injured and 600,000 were left homeless January 26 in the state of Gujurat, India following a 7.9 earthquake and 83 aftershocks .",
+      "og:url": "http://suite101.com/article/79-magnitude-earthquake-struck-gujurat-india-20000-killed-a336930",
+      "dc.description": "Over 160,000 people were injured and 600,000 were left homeless January 26 in the state of Gujurat, India following a 7.9 earthquake and 83 aftershocks .",
+      "dc.identifier": "http://suite101.com/article/79-magnitude-earthquake-struck-gujurat-india-20000-killed-a336930",
+      "author": "Julia Adamson",
+      "dc.publisher": "suite101.com",
+      "og:site_name": "suite101.com",
+      "fb:app_id": "123084094388711",
+      "og:locale": "en_US",
+      "dc.creator": "Julia Adamson",
+      "dc.date": "Jan 23, 2011"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Natural Disasters",
+      "title": "Natural Disasters"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "American Red Cross",
+   "htmlTitle": "American Red Cross",
+   "link": "http://infinityfoundation.com/redcr.htm",
+   "displayLink": "infinityfoundation.com",
+   "snippet": "Infinity Foundation Indian Earthquake Matching Grant Program. Wednesday,   January 31, 2001???The American Red Cross of Central New Jersey has ...",
+   "htmlSnippet": "Infinity Foundation \u003cb\u003eIndian Earthquake\u003c/b\u003e Matching Grant Program. \u003cb\u003eWednesday,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eJanuary 31, 2001\u003c/b\u003e???The American Red Cross of Central New Jersey has \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aEUKP_PVJJ4J",
+   "formattedUrl": "infinityfoundation.com/redcr.htm",
+   "htmlFormattedUrl": "infinityfoundation.com/redcr.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://infinityfoundation.com/RC1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1cxicGUMHPHuJmZZN7oRvtmu9v7v5juJA97OuvueydMYlpU_GbVpY8KKu"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "News - January - 2001 - BAPS Swaminarayan Sanstha Appeal India ...",
+   "htmlTitle": "News - \u003cb\u003eJanuary\u003c/b\u003e - \u003cb\u003e2001\u003c/b\u003e - BAPS Swaminarayan Sanstha Appeal \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.swaminarayan.org/news/2001/01/earthquake/jan31.htm",
+   "displayLink": "www.swaminarayan.org",
+   "snippet": "Jan 31 2001. BAPS Relief Work Highlights: Past major relief ...",
+   "htmlSnippet": "\u003cb\u003eJan 31 2001\u003c/b\u003e. BAPS Relief Work Highlights: Past major relief \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pIK0YW7T4lwJ",
+   "formattedUrl": "www.swaminarayan.org/news/2001/01/earthquake/jan31.htm",
+   "htmlFormattedUrl": "www.swaminarayan.org/news/\u003cb\u003e2001\u003c/b\u003e/01/\u003cb\u003eearthquake\u003c/b\u003e/\u003cb\u003ejan31\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indian Earthquake Matching Grant",
+   "htmlTitle": "\u003cb\u003eIndian Earthquake\u003c/b\u003e Matching Grant",
+   "link": "http://www.infinityfoundation.com/mandala/s_pr/s_pr_earthquake_frameset.htm",
+   "displayLink": "www.infinityfoundation.com",
+   "snippet": "Indian Earthquake Matching Grant Program. Wednesday, January 31, 2001???  The American Red Cross of Central New Jersey has announced that the Infinity ...",
+   "htmlSnippet": "\u003cb\u003eIndian Earthquake\u003c/b\u003e Matching Grant Program. \u003cb\u003eWednesday, January 31, 2001\u003c/b\u003e???\u003cbr\u003e  The American Red Cross of Central New Jersey has announced that the Infinity \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-eIU14tuGkIJ",
+   "formattedUrl": "www.infinityfoundation.com/.../s.../s_pr_earthquake_frameset.htm",
+   "htmlFormattedUrl": "www.infinityfoundation.com/.../s.../s_pr_\u003cb\u003eearthquake\u003c/b\u003e_frameset.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.infinityfoundation.com/mandala/images/RC1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Cm8KDm_xkgYbTNyew_iABlQitZOBlPfhgMI1yDJImqKZMqxpjhVHH7c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NEWSROOM for January 31, 2001",
+   "htmlTitle": "NEWSROOM for \u003cb\u003eJanuary 31\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://transcripts.cnn.com/TRANSCRIPTS/0101/31/nr.00.html",
+   "displayLink": "transcripts.cnn.com",
+   "snippet": "Jan 31, 2001 ... Rescues continue 4 days after devastating India earthquake ?? DaimlerChrysler ...   Aired January 31, 2001 - 4:30 a.m. ET. THIS IS A RUSH ...",
+   "htmlSnippet": "Jan 31, 2001 \u003cb\u003e...\u003c/b\u003e Rescues continue 4 days after devastating \u003cb\u003eIndia earthquake\u003c/b\u003e &middot; DaimlerChrysler \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Aired \u003cb\u003eJanuary 31, 2001\u003c/b\u003e - 4:30 a.m. ET. THIS IS A RUSH \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Q-eZRllBu8MJ",
+   "formattedUrl": "transcripts.cnn.com/TRANSCRIPTS/0101/31/nr.00.html",
+   "htmlFormattedUrl": "transcripts.cnn.com/TRANSCRIPTS/0101/\u003cb\u003e31\u003c/b\u003e/nr.00.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UMCOR South Asia Emergency: Earthquake and Tsumanis ...",
+   "htmlTitle": "UMCOR South Asia Emergency: \u003cb\u003eEarthquake\u003c/b\u003e and Tsumanis \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gbgm-umc.org/umcor/emergency/southasia.stm",
+   "displayLink": "gbgm-umc.org",
+   "snippet": "South Asia Emergency: Storms, Floods, and Earthquakes: One hundred percent   of your gift goes to relief efforts. ... UMCOR Hotline, January 31, 2001. UMCOR   Assists with India Earthquake, UMNS, January 29, 2001. UMCOR Hotline,   January ...",
+   "htmlSnippet": "South Asia Emergency: Storms, Floods, and \u003cb\u003eEarthquakes\u003c/b\u003e: One hundred percent \u003cbr\u003e  of your gift goes to relief efforts. \u003cb\u003e...\u003c/b\u003e UMCOR Hotline, \u003cb\u003eJanuary 31, 2001\u003c/b\u003e. UMCOR \u003cbr\u003e  Assists with \u003cb\u003eIndia Earthquake\u003c/b\u003e, UMNS, January 29, 2001. UMCOR Hotline, \u003cbr\u003e  January \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ku8hxdltwrIJ",
+   "formattedUrl": "gbgm-umc.org/umcor/emergency/southasia.stm",
+   "htmlFormattedUrl": "gbgm-umc.org/umcor/emergency/southasia.stm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gbgm-umc.org/umcor/photos/indonesia/mikedubose/5076martinezdirdakchildrencamp300.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe61FYP8B7i3yqdoylK4-b_vy4XN82Piqfj1fFiLQ2mIlZ7IvSjz-vXnxP"
+     }
+    ],
+    "metatags": [
+     {
+      "target": "India, India earthquake, Pakistan earthquake, Pakistan, earthquake in India, earthquake in Pakistan, Assam."
+     }
+    ]
+   }
+  }
+ ]
+}

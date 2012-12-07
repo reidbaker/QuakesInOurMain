@@ -1,0 +1,328 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 9 2002 India Earthquake",
+    "totalResults": "661000",
+    "searchTerms": "Jan 9 2002 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 9 2002 India Earthquake",
+    "totalResults": "661000",
+    "searchTerms": "Jan 9 2002 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.251868,
+  "formattedSearchTime": "0.25",
+  "totalResults": "661000",
+  "formattedTotalResults": "661,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Afghanistan ??? 2 strong earthquakes hit a populated area! 71 ...",
+   "htmlTitle": "Afghanistan ??? 2 strong \u003cb\u003eearthquakes\u003c/b\u003e hit a populated area! 71 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/11/afghanistan-strong-earthquake-hits-populated-area/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 18, 2012 ... UPDATE: 50 deaths and 150 injuries were seen from a 2002 earthquake   occurring very close to the present epicenter with Mw5.8. Almost 1200 ...",
+   "htmlSnippet": "Jun 18, 2012 \u003cb\u003e...\u003c/b\u003e UPDATE: 50 deaths and 150 injuries were seen from a \u003cb\u003e2002 earthquake\u003c/b\u003e \u003cbr\u003e  occurring very close to the present epicenter with Mw5.8. Almost 1200 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Xm4jZ38qAYwJ",
+   "formattedUrl": "earthquake-report.com/.../afghanistan-strong-earthquake-hits-populated-area/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../afghanistan-strong-\u003cb\u003eearthquake\u003c/b\u003e-hits-populated-area/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/06/Afghanistan_landslide2-268x300.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "212",
+      "height": "238",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4fohV0TQqva5VRHC9UDnCBpT6NVwSeiPtMmilByeatxWDhbO_Uh5R530"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes for the last 10 years",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e for the last 10 years",
+   "link": "http://wiki.answers.com/Q/List_of_earthquakes_for_the_last_10_years",
+   "displayLink": "wiki.answers.com",
+   "snippet": "1/26/2001 3:16, India (Gujarat), 23.402, 70.287, 23.3, MW 7.6, 20023, 20023,   20023, 20005 ... 1/9/2002 6:45, Tajikistan, 38.644, 69.844, 28.6, MW 5.2, 3, 3, 3,   3 ...",
+   "htmlSnippet": "1/26/2001 3:16, \u003cb\u003eIndia\u003c/b\u003e (Gujarat), 23.402, 70.287, 23.3, MW 7.6, 20023, 20023, \u003cbr\u003e  20023, 20005 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1/9/2002\u003c/b\u003e 6:45, Tajikistan, 38.644, 69.844, 28.6, MW 5.2, 3, 3, 3, \u003cbr\u003e  3 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pFxYjhzmCDgJ",
+   "formattedUrl": "wiki.answers.com/Q/List_of_earthquakes_for_the_last_10_years",
+   "htmlFormattedUrl": "wiki.answers.com/Q/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_for_the_last_10_years",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://rxf.answcdn.com/includes/images/icons/a-icon.png"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Answers.com",
+      "url": "Answers.com"
+     },
+     {
+      "title": "Wiki Answers",
+      "url": "Wiki Answers"
+     },
+     {
+      "title": "Categories",
+      "url": "Categories"
+     },
+     {
+      "title": "Science",
+      "url": "Science"
+     },
+     {
+      "title": "Earth Sciences",
+      "url": "Earth Sciences"
+     },
+     {
+      "title": "Natural Disasters",
+      "url": "Natural Disasters"
+     }
+    ],
+    "metatags": [
+     {
+      "abtest": "mode_id=-1",
+      "fb:app_id": "168416999909992",
+      "og:site_name": "Answers.com",
+      "og:image": "http://rxf.answcdn.com/includes/images/icons/a-icon.png",
+      "og:title": "Answer to: List of earthquakes for the last 10 years?",
+      "og:description": "Origin (UTC)???Present-day Country and link to Wikipedia article???Latitude???Longitude???Depth (km)???Magnitude???Secondary Effects???PDE Shaking Deaths???PDE Total Deaths???Utsu Total Deaths???EM-DAT Total Deaths???Other Source Deaths???1/14/2000 22:09China25.549101.11813.6MW 5.571/14/2000 23:37China25.567101.07124.9MW 5.97771/26/2000 20:55China24.148103.65435mb 4.90012/2/2000 22:58Iran35.23858.21322.7MW 5.311115/4/2000 4:21Indonesia-1.14123.52226MW 7.5T464646455/7/2000 23:10Turkey38.16438.7775MD 4.50015/12/2000 18:43Argentina-23.754-66.777225MW 7.20115/17/2000 3:25Taiwan24.167121.07815MW 5.4L3336/4/2000 16:28Indonesia-4.76102.03133.8MW 7.9L1031031031036/5/2000 23:55Indonesia-4.151101.95347MW 5.516/6/2000 2:41Turkey40.73733.0057MW 6.022226/7/2000 23:45Indonesia-4.651101.84832MW 6.71116/10/2000 18:23Taiwan23.868121.18119MW 6.4L027/1/2000 7:01Japan34.222139.17112.5MW 6.1T,L01117/6/2000 19:30Nicaragua11.928-86.06615MW 5.477777/7/2000 0:15Turkey40.85729.3447.8MD 4.2017/17/2000 22:53Afghanistan36.24570.943135MW ",
+      "og:type": "answers-com:answer",
+      "og:url": "http://wiki.answers.com/Q/List_of_earthquakes_for_the_last_10_years"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: January 30, 2012 at 9:41 pm by By Armand Vervaeck and James   Daniell ... in Turkey from the Van earthquake in October, in the India-Nepal-Tibet   region ...... Utsu, T. [2002] ???A list of deadly earthquakes in the World: 1500-2000???, ...",
+   "htmlSnippet": "Last update: \u003cb\u003eJanuary\u003c/b\u003e 30, 2012 at \u003cb\u003e9\u003c/b\u003e:41 pm by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e...\u003c/b\u003e in Turkey from the Van \u003cb\u003eearthquake\u003c/b\u003e in October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet \u003cbr\u003e  region \u003cb\u003e......\u003c/b\u003e Utsu, T. [\u003cb\u003e2002\u003c/b\u003e] ???A list of deadly \u003cb\u003eearthquakes\u003c/b\u003e in the World: 1500-2000???, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 9, 2001, 16:49, Vanuatu, ???14.928, 167.170, 0, 7.1, Mw (USGS) ... see   2002 Hindu Kush earthquakes, 36.543, 70.424, 166, 7.4, Mw (HRV) ..... see 2004   Indian Ocean earthquake, 3.30, 95.87, 230,000~300,000, 9.1, Mw (USGS) ...",
+   "htmlSnippet": "\u003cb\u003eJanuary 9\u003c/b\u003e, 2001, 16:49, Vanuatu, ???14.928, 167.170, 0, 7.1, Mw (USGS) \u003cb\u003e...\u003c/b\u003e see \u003cbr\u003e  \u003cb\u003e2002\u003c/b\u003e Hindu Kush \u003cb\u003eearthquakes\u003c/b\u003e, 36.543, 70.424, 166, 7.4, Mw (HRV) \u003cb\u003e.....\u003c/b\u003e see 2004 \u003cbr\u003e  \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003eearthquake\u003c/b\u003e, 3.30, 95.87, 230,000~300,000, 9.1, Mw (USGS) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Archive",
+   "htmlTitle": "Archive",
+   "link": "http://www.ceme.gsras.ru/cgi-bin/info_quakee.pl?mode=-1",
+   "displayLink": "www.ceme.gsras.ru",
+   "snippet": "Information message about destructive earthquake in India on September 18, ......   Information message about the earthquake in Tajikistan on January 9, 2002 ...",
+   "htmlSnippet": "Information message about destructive \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e on September 18, \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  Information message about the \u003cb\u003eearthquake\u003c/b\u003e in Tajikistan on \u003cb\u003eJanuary 9\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lHix_WTulE4J",
+   "formattedUrl": "www.ceme.gsras.ru/cgi-bin/info_quakee.pl?mode=-1",
+   "htmlFormattedUrl": "www.ceme.gsras.ru/cgi-bin/info_\u003cb\u003equake\u003c/b\u003ee.pl?mode=-1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ceme.gsras.ru/eng/images/globus.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "121",
+      "height": "60",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTibaXITZ2bpcHIiUj3cgvUDDHctcM1G1Uy8CdZnZgwJH4vMMyyfvTf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "General Information",
+   "htmlTitle": "General Information",
+   "link": "http://www.adrc.asia/countryreport/TJK/2003/page1.html",
+   "displayLink": "www.adrc.asia",
+   "snippet": "There is an opinion, what exactly here occurs collisions of the Indian and Asian ...   Such earthquakes occur, on the average, 1 time a year; and rather weak, but ... (  March 27, 1999), Farhor (October 31, 2000) and Rogun (January 9, 2002).",
+   "htmlSnippet": "There is an opinion, what exactly here occurs collisions of the \u003cb\u003eIndian\u003c/b\u003e and Asian \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Such \u003cb\u003eearthquakes\u003c/b\u003e occur, on the average, 1 time a year; and rather weak, but \u003cb\u003e...\u003c/b\u003e (\u003cbr\u003e  March 27, 1999), Farhor (October 31, 2000) and Rogun (\u003cb\u003eJanuary 9, 2002\u003c/b\u003e).",
+   "cacheId": "KFCTKLV8_vsJ",
+   "formattedUrl": "www.adrc.asia/countryreport/TJK/2003/page1.html",
+   "htmlFormattedUrl": "www.adrc.asia/countryreport/TJK/2003/page1.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.adrc.asia/countryreport/TJK/2003/images/banner_tajik.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "92",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMQosOGIRErtxToM1KVRnHyGvw9HvHKbIc9ycK-LT9AaFU8E3xXUn-6w"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake ??? Infoplease.com",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e ??? Infoplease.com",
+   "link": "http://www.infoplease.com/ipa/A0005346.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "14 Sikkim, India ... Estimated Deaths from Earthquakes, 2002 - Estimated Deaths   from Earthquakes, 2002 Date Region Magnitude Number killed1 Jan. 9 ...",
+   "htmlSnippet": "14 Sikkim, \u003cb\u003eIndia\u003c/b\u003e ... Estimated Deaths from \u003cb\u003eEarthquakes\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e - Estimated Deaths \u003cbr\u003e  from \u003cb\u003eEarthquakes\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e Date Region Magnitude Number killed1 \u003cb\u003eJan\u003c/b\u003e. \u003cb\u003e9\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qEDZyXDbjRwJ",
+   "formattedUrl": "www.infoplease.com/ipa/A0005346.html",
+   "htmlFormattedUrl": "www.infoplease.com/ipa/A0005346.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "chunk": "EVENTLIST",
+      "idx": "San Francisco, Calif.",
+      "isub": "earthquakes",
+      "title": "Earthquake",
+      "uniqid": "A0005346",
+      "parent": "A0001459",
+      "subchannel": "world",
+      "channel": "world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "R J Matthai Centre For Educational Innovation (RJMCEI) - IIMA",
+   "htmlTitle": "R J Matthai Centre For Educational Innovation (RJMCEI) - IIMA",
+   "link": "http://www.iimahd.ernet.in/faculty-and-research/research-centers/rjmcei.html",
+   "displayLink": "www.iimahd.ernet.in",
+   "snippet": "... (1927-1984), the first full-time Director of the Indian Institute of Management,   Ahmedabad. ... World Bank's Global Innovation Competition, January 9-10, 2002.   ... Emergency Education for Earthquake Affected Regions in Gujarat (2001) ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e (1927-1984), the first full-time Director of the \u003cb\u003eIndian\u003c/b\u003e Institute of Management, \u003cbr\u003e  Ahmedabad. \u003cb\u003e...\u003c/b\u003e World Bank&#39;s Global Innovation Competition, \u003cb\u003eJanuary 9\u003c/b\u003e-10, 2002. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Emergency Education for \u003cb\u003eEarthquake\u003c/b\u003e Affected Regions in Gujarat (2001) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rsljDcCvRakJ",
+   "formattedUrl": "www.iimahd.ernet.in/faculty-and-research/research.../rjmcei.html",
+   "htmlFormattedUrl": "www.iimahd.ernet.in/faculty-and-research/research.../rjmcei.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iimahd.ernet.in/assets/templates/mytemplates/iima/images/RJMCEI1.jpeg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "101",
+      "height": "70",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0oitT2acOWwGHRRd1jRg8QM16JiNxO9fhA0aQA5LGeEtA260VZdidSg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1857 Jan 9, The Fort Tejon, Ca., earthquake, estimated at magnitude 8, ... 1897   Jun 12, Possibly the most severe quake in history struck Assam, India. ...... 2002   Mar 3, A 7.2 earthquake was centered in northeast Afghanistan and at least 100 ...",
+   "htmlSnippet": "1857 \u003cb\u003eJan 9\u003c/b\u003e, The Fort Tejon, Ca., \u003cb\u003eearthquake\u003c/b\u003e, estimated at magnitude 8, \u003cb\u003e...\u003c/b\u003e 1897 \u003cbr\u003e  Jun 12, Possibly the most severe \u003cb\u003equake\u003c/b\u003e in history struck Assam, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e......\u003c/b\u003e \u003cb\u003e2002\u003c/b\u003e \u003cbr\u003e  Mar 3, A 7.2 \u003cb\u003eearthquake\u003c/b\u003e was centered in northeast Afghanistan and at least 100 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Studies of Earthquakes in India",
+   "htmlTitle": "Historical Studies of \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://cires.colorado.edu/~bilham/EriceFinal.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "beyond 1500 BC we know very little about Indian earthquakes earlier than 500   ..... in northern India (Jackson, 2002; Ambraseys and Jackson, 2003, Bilham and   Ambraseys, ... 9 further work. His notes on some of the earthquakes form the first   case .... The recent Bhuj earthquake 26 January 2001 earthquake was   associated ...",
+   "htmlSnippet": "beyond 1500 BC we know very little about \u003cb\u003eIndian earthquakes\u003c/b\u003e earlier than 500 \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e in northern \u003cb\u003eIndia\u003c/b\u003e (Jackson, \u003cb\u003e2002\u003c/b\u003e; Ambraseys and Jackson, 2003, Bilham and \u003cbr\u003e  Ambraseys, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e9\u003c/b\u003e further work. His notes on some of the \u003cb\u003eearthquakes\u003c/b\u003e form the first \u003cbr\u003e  case \u003cb\u003e....\u003c/b\u003e The recent Bhuj \u003cb\u003eearthquake\u003c/b\u003e 26 \u003cb\u003eJanuary\u003c/b\u003e 2001 \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  associated \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9e327lKDoowJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/EriceFinal.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/EriceFinal.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040617215354-06'00'",
+      "creator": "Word",
+      "moddate": "D:20040617215354-06'00'",
+      "producer": "Mac OS X 10.3.4 Quartz PDFContext"
+     }
+    ]
+   }
+  }
+ ]
+}

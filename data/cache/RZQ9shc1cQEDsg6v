@@ -1,0 +1,280 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 19 2001 India Earthquake",
+    "totalResults": "616000",
+    "searchTerms": "Feb 19 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 19 2001 India Earthquake",
+    "totalResults": "616000",
+    "searchTerms": "Feb 19 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.194738,
+  "formattedSearchTime": "0.19",
+  "totalResults": "616000",
+  "formattedTotalResults": "616,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 27, 2011 ... This ???India deadly earthquake list??? has been compiled out of our Earthquake-  Report.com daily ???Deadly earthquakes lists???. The earthquakes ...",
+   "htmlSnippet": "Jan 27, 2011 \u003cb\u003e...\u003c/b\u003e This ???\u003cb\u003eIndia\u003c/b\u003e deadly \u003cb\u003eearthquake\u003c/b\u003e list??? has been compiled out of our \u003cb\u003eEarthquake\u003c/b\u003e-\u003cbr\u003e  Report.com daily ???Deadly \u003cb\u003eearthquakes\u003c/b\u003e lists???. The \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/26/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-\u003cb\u003eindia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Jos???? Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gujarat Earthquake Update Report",
+   "htmlTitle": "Gujarat \u003cb\u003eEarthquake\u003c/b\u003e Update Report",
+   "link": "http://www.care.org/newsroom/specialreports/indiaeq/indiaeq_news.asp",
+   "displayLink": "www.care.org",
+   "snippet": "(February 19, 2001) ... Indian Business Community Partners with CARE to Bring   Help to Earthquake Survivors ... India Earthquake Update: More Money Needed ...",
+   "htmlSnippet": "(\u003cb\u003eFebruary 19, 2001\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eIndian\u003c/b\u003e Business Community Partners with CARE to Bring \u003cbr\u003e  Help to \u003cb\u003eEarthquake\u003c/b\u003e Survivors \u003cb\u003e...\u003c/b\u003e \u003cb\u003eIndia Earthquake\u003c/b\u003e Update: More Money Needed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vuKlIChs05wJ",
+   "formattedUrl": "www.care.org/newsroom/specialreports/indiaeq/indiaeq_news.asp",
+   "htmlFormattedUrl": "www.care.org/newsroom/specialreports/\u003cb\u003eindia\u003c/b\u003eeq/\u003cb\u003eindia\u003c/b\u003eeq_news.asp",
+   "pagemap": {
+    "metatags": [
+     {
+      "date": "October 16, 2003",
+      "lastupdate": "October 16, 2003",
+      "author": "webmaster@care.org",
+      "copyright": "This Site Copyright 2006 CARE USA",
+      "rating": "general"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... The M9.0 Tohoku earthquake and tsunami of 11th March, 2011 proved to ... in   Turkey from the Van earthquake in October, in the India-Nepal-Tibet region in .....   a result of the 11th March Tohoku earthquake, 19 damaging earthquakes in ... in   Christchurch and as aftershocks of the 21st February earthquake).",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e The M9.0 Tohoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami of 11th March, 2011 proved to \u003cb\u003e...\u003c/b\u003e in \u003cbr\u003e  Turkey from the Van \u003cb\u003eearthquake\u003c/b\u003e in October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet region in \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  a result of the 11th March Tohoku \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e19\u003c/b\u003e damaging \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e in \u003cbr\u003e  Christchurch and as aftershocks of the 21st \u003cb\u003eFebruary earthquake\u003c/b\u003e).",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 4.5,   GUJARAT, INDIA, Jun 30 2001, 20:19:48, 23.365, 70.060, 200106302019 .... 5.4,   GUJARAT, INDIA, Feb 19 2001, 08:24:22, 23.525, 70.126 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 4.5, \u003cbr\u003e  GUJARAT, \u003cb\u003eINDIA\u003c/b\u003e, Jun 30 2001, 20:19:48, 23.365, 70.060, 200106302019 \u003cb\u003e....\u003c/b\u003e 5.4, \u003cbr\u003e  GUJARAT, \u003cb\u003eINDIA\u003c/b\u003e, \u003cb\u003eFeb 19 2001\u003c/b\u003e, 08:24:22, 23.525, 70.126 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong damaging earthquake in the Nepal / Sikkim (India ...",
+   "htmlTitle": "Very strong damaging \u003cb\u003eearthquake\u003c/b\u003e in the Nepal / Sikkim (\u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 2, 2011 ... Earthquake overview : A magnitude 6.9 earthquake hit the Himalayan states   Nepal and Sikkim (India) 12:40:48 UT (6:11 PM at epicenter).",
+   "htmlSnippet": "Oct 2, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A magnitude 6.9 \u003cb\u003eearthquake\u003c/b\u003e hit the Himalayan states \u003cbr\u003e  Nepal and Sikkim (\u003cb\u003eIndia\u003c/b\u003e) 12:40:48 UT (6:11 PM at epicenter).",
+   "cacheId": "0hEt4bGhGegJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-earthquake-in-sikkim-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-\u003cb\u003eearthquake\u003c/b\u003e-in-sikkim-\u003cb\u003eindia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/09/india-19092011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "236",
+      "height": "156",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Zq3DEjg7bjf9SyfGLzsxsLzf2pwhzbCh2aTlCxNld3KGjAKNQSX6Zic"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dipen Giri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "India : Earthquake : 2001/01/26",
+   "htmlTitle": "\u003cb\u003eIndia\u003c/b\u003e : \u003cb\u003eEarthquake\u003c/b\u003e : \u003cb\u003e2001\u003c/b\u003e/01/26",
+   "link": "http://www.adrc.asia/latestinfo/View_E.php?lang=en&KEY=166",
+   "displayLink": "www.adrc.asia",
+   "snippet": "Duration, 2001/01/26, A severe earthquake of magnitude 6.9 occurred at Bhuj ...   Government of India Situation Report(18:00, 11 February, 2001) ..... Updated at   1200 hours on 19th February, 2001; Government of India Situation Report No.53 ...",
+   "htmlSnippet": "Duration, 2001/01/26, A severe \u003cb\u003eearthquake\u003c/b\u003e of magnitude 6.9 occurred at Bhuj \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Government of \u003cb\u003eIndia\u003c/b\u003e Situation Report(18:00, 11 February, 2001) \u003cb\u003e.....\u003c/b\u003e Updated at \u003cbr\u003e  1200 hours on \u003cb\u003e19th February, 2001\u003c/b\u003e; Government of \u003cb\u003eIndia\u003c/b\u003e Situation Report No.53 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OM_kIk-H20UJ",
+   "formattedUrl": "www.adrc.asia/latestinfo/View_E.php?lang=en&KEY=166",
+   "htmlFormattedUrl": "www.adrc.asia/latestinfo/View_E.php?lang=en&amp;KEY=166"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list April 16, 2012 ??? Phuket, Thailand ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list April 16, 2012 ??? Phuket, Thailand \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/15/major-earthquakes-list-april-16-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 16, 2012 ... The origin must be something else . We will in the meantime link the experience   reports we are receiving to this Sumatra / Indian Ocean quake.",
+   "htmlSnippet": "Apr 16, 2012 \u003cb\u003e...\u003c/b\u003e The origin must be something else . We will in the meantime link the experience \u003cbr\u003e  reports we are receiving to this Sumatra / \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003equake\u003c/b\u003e.",
+   "cacheId": "4I0JZ9JJcp8J",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-april-16-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-april-16-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CARE Helps Earthquake Survivors Rebuild Lives and Homes",
+   "htmlTitle": "CARE Helps \u003cb\u003eEarthquake\u003c/b\u003e Survivors Rebuild Lives and Homes",
+   "link": "http://www.care.org/newsroom/specialreports/indiaeq/indiaeq_story6.asp",
+   "displayLink": "www.care.org",
+   "snippet": "CARE Helps Earthquake Survivors Rebuild Lives and Homes. by Andrew   Graham, CARE Canada. BHUJ, Gujarat, India (February 19, 2001) -- As far as   needs ...",
+   "htmlSnippet": "CARE Helps \u003cb\u003eEarthquake\u003c/b\u003e Survivors Rebuild Lives and Homes. by Andrew \u003cbr\u003e  Graham, CARE Canada. BHUJ, Gujarat, \u003cb\u003eIndia\u003c/b\u003e (\u003cb\u003eFebruary 19, 2001\u003c/b\u003e) -- As far as \u003cbr\u003e  needs \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vTJjg6ZO5d8J",
+   "formattedUrl": "www.care.org/newsroom/specialreports/indiaeq/indiaeq_story6.asp",
+   "htmlFormattedUrl": "www.care.org/newsroom/specialreports/\u003cb\u003eindia\u003c/b\u003eeq/\u003cb\u003eindia\u003c/b\u003eeq_story6.asp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.care.org/photos/newsroom/photo%201.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "180",
+      "height": "135",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlwVutdIK1lD9FBTJnk5tk4I185XLf_zwuNJ9mZ2rzI6yXt1ds7weWeb0"
+     }
+    ],
+    "metatags": [
+     {
+      "date": "October 16, 2003",
+      "lastupdate": "October 16, 2003",
+      "author": "webmaster@care.org",
+      "copyright": "This Site Copyright 2006 CARE USA",
+      "rating": "general"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.67, ???88.94, 315, 6.6, Mw (HRV). February   13, 2001, 19:28, Southern Sumatra, Indonesia, ???4.680 ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.67, ???88.94, 315, 6.6, Mw (HRV). \u003cb\u003eFebruary\u003c/b\u003e \u003cbr\u003e  13, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003e19\u003c/b\u003e:28, Southern Sumatra, Indonesia, ???4.680 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "rediff.com: Earthquake Hits India",
+   "htmlTitle": "rediff.com: \u003cb\u003eEarthquake\u003c/b\u003e Hits \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://www.rediff.com/news/quake.htm",
+   "displayLink": "www.rediff.com",
+   "snippet": "rediff.com: The Earthquake Homepage. ... May 28, 2001 Earthquake hits India,   Resources ... March 20, 2001. ??? Mild quake hits Koyna region: PTI. March 19. ???   Mandela donates Gandhi ... Parliament may discuss Gujarat quake on Feb 26:   PTI ...",
+   "htmlSnippet": "rediff.com: The \u003cb\u003eEarthquake\u003c/b\u003e Homepage. \u003cb\u003e...\u003c/b\u003e May 28, \u003cb\u003e2001 Earthquake\u003c/b\u003e hits \u003cb\u003eIndia\u003c/b\u003e, \u003cbr\u003e  Resources \u003cb\u003e...\u003c/b\u003e March 20, \u003cb\u003e2001\u003c/b\u003e. ??? Mild \u003cb\u003equake\u003c/b\u003e hits Koyna region: PTI. March \u003cb\u003e19\u003c/b\u003e. ??? \u003cbr\u003e  Mandela donates Gandhi \u003cb\u003e...\u003c/b\u003e Parliament may discuss Gujarat \u003cb\u003equake\u003c/b\u003e on \u003cb\u003eFeb\u003c/b\u003e 26: \u003cbr\u003e  PTI \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pjWqSOfabI8J",
+   "formattedUrl": "www.rediff.com/news/quake.htm",
+   "htmlFormattedUrl": "www.rediff.com/news/\u003cb\u003equake\u003c/b\u003e.htm"
+  }
+ ]
+}

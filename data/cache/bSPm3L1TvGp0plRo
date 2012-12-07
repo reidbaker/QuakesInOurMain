@@ -1,0 +1,264 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 17 2001 India Earthquake",
+    "totalResults": "645000",
+    "searchTerms": "Feb 17 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 17 2001 India Earthquake",
+    "totalResults": "645000",
+    "searchTerms": "Feb 17 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.235392,
+  "formattedSearchTime": "0.24",
+  "totalResults": "645000",
+  "formattedTotalResults": "645,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong damaging earthquake in the Nepal / Sikkim (India ...",
+   "htmlTitle": "Very strong damaging \u003cb\u003eearthquake\u003c/b\u003e in the Nepal / Sikkim (\u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 2, 2011 ... Earthquake overview : A magnitude 6.9 earthquake hit the Himalayan states   Nepal and Sikkim (India) 12:40:48 UT (6:11 PM at epicenter).",
+   "htmlSnippet": "Oct 2, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A magnitude 6.9 \u003cb\u003eearthquake\u003c/b\u003e hit the Himalayan states \u003cbr\u003e  Nepal and Sikkim (\u003cb\u003eIndia\u003c/b\u003e) 12:40:48 UT (6:11 PM at epicenter).",
+   "cacheId": "0hEt4bGhGegJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-earthquake-in-sikkim-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-\u003cb\u003eearthquake\u003c/b\u003e-in-sikkim-\u003cb\u003eindia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/09/india-19092011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "236",
+      "height": "156",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Zq3DEjg7bjf9SyfGLzsxsLzf2pwhzbCh2aTlCxNld3KGjAKNQSX6Zic"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dipen Giri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 4.6,   GUJARAT, INDIA, Dec 21 2001, 17:33:21, 23.765, 70.051, 200112211733 ..... 4.8  , GUJARAT, INDIA, Feb 17 2001, 08:27:26, 23.347, 70.507 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 4.6, \u003cbr\u003e  GUJARAT, \u003cb\u003eINDIA\u003c/b\u003e, Dec 21 2001, 17:33:21, 23.765, 70.051, 200112211733 \u003cb\u003e.....\u003c/b\u003e 4.8\u003cbr\u003e  , GUJARAT, \u003cb\u003eINDIA\u003c/b\u003e, \u003cb\u003eFeb 17 2001\u003c/b\u003e, 08:27:26, 23.347, 70.507 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list April 16, 2012 ??? Phuket, Thailand ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list April 16, 2012 ??? Phuket, Thailand \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/15/major-earthquakes-list-april-16-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 16, 2012 ... The origin must be something else . We will in the meantime link the experience   reports we are receiving to this Sumatra / Indian Ocean quake.",
+   "htmlSnippet": "Apr 16, 2012 \u003cb\u003e...\u003c/b\u003e The origin must be something else . We will in the meantime link the experience \u003cbr\u003e  reports we are receiving to this Sumatra / \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003equake\u003c/b\u003e.",
+   "cacheId": "4I0JZ9JJcp8J",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-april-16-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-april-16-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "India : Earthquake : 2001/01/26",
+   "htmlTitle": "\u003cb\u003eIndia\u003c/b\u003e : \u003cb\u003eEarthquake\u003c/b\u003e : \u003cb\u003e2001\u003c/b\u003e/01/26",
+   "link": "http://www.adrc.asia/latestinfo/View_E.php?lang=en&KEY=166",
+   "displayLink": "www.adrc.asia",
+   "snippet": "Duration, 2001/01/26, A severe earthquake of magnitude 6.9 occurred at Bhuj ...   Government of India Situation Report(18:00, 11 February, 2001) ..... Updated at   1200 hours on 17th February, 2001; Government of India Situation Report No.51 ...",
+   "htmlSnippet": "Duration, 2001/01/26, A severe \u003cb\u003eearthquake\u003c/b\u003e of magnitude 6.9 occurred at Bhuj \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Government of \u003cb\u003eIndia\u003c/b\u003e Situation Report(18:00, 11 February, 2001) \u003cb\u003e.....\u003c/b\u003e Updated at \u003cbr\u003e  1200 hours on \u003cb\u003e17th February, 2001\u003c/b\u003e; Government of \u003cb\u003eIndia\u003c/b\u003e Situation Report No.51 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OM_kIk-H20UJ",
+   "formattedUrl": "www.adrc.asia/latestinfo/View_E.php?lang=en&KEY=166",
+   "htmlFormattedUrl": "www.adrc.asia/latestinfo/View_E.php?lang=en&amp;KEY=166"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... The M9.0 Tohoku earthquake and tsunami of 11th March, 2011 proved ... seen in   Turkey from the Van earthquake in October, in the India-Nepal-Tibet ..... under the   CATDAT criteria, and 17 damaging earthquakes in New Zealand (mainly in   Christchurch and as aftershocks of the 21st February earthquake).",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e The M9.0 Tohoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami of 11th March, 2011 proved \u003cb\u003e...\u003c/b\u003e seen in \u003cbr\u003e  Turkey from the Van \u003cb\u003eearthquake\u003c/b\u003e in October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet \u003cb\u003e.....\u003c/b\u003e under the \u003cbr\u003e  CATDAT criteria, and \u003cb\u003e17\u003c/b\u003e damaging \u003cb\u003eearthquakes\u003c/b\u003e in New Zealand (mainly in \u003cbr\u003e  Christchurch and as aftershocks of the 21st \u003cb\u003eFebruary earthquake\u003c/b\u003e).",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001 Gujarat earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2001 Gujarat earthquake occurred on January 26, 2001, India's 51st   Republic ... The earthquake reached a magnitude of between 7.6 and 7.7 on the   moment magnitude .... 1st El Salvador (7.6, Jan 13); Gujarat (7.9, Jan 26); 2nd El   Salvador (6.6, Feb 13) ... This page was last modified on 5 December 2012 at 17:  08.",
+   "htmlSnippet": "The \u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e occurred on January 26, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003eIndia&#39;s\u003c/b\u003e 51st \u003cbr\u003e  Republic \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e reached a magnitude of between 7.6 and 7.7 on the \u003cbr\u003e  moment magnitude \u003cb\u003e....\u003c/b\u003e 1st El Salvador (7.6, Jan 13); Gujarat (7.9, Jan 26); 2nd El \u003cbr\u003e  Salvador (6.6, \u003cb\u003eFeb\u003c/b\u003e 13) \u003cb\u003e...\u003c/b\u003e This page was last modified on 5 December 2012 at \u003cb\u003e17\u003c/b\u003e:\u003cbr\u003e  08.",
+   "cacheId": "LtzX9S90JqYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e2001\u003c/b\u003e_Gujarat_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2001_Gujarat_earthquake.jpg/240px-2001_Gujarat_earthquake.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "146",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTHda-3a5sGFabOisVtMRYCYGYvnKxmmbPv9njhrKDcTcig8Zo8QBVlW_"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LDS Church News - Second quake in El Salvador worse than first",
+   "htmlTitle": "LDS Church News - Second \u003cb\u003equake\u003c/b\u003e in El Salvador worse than first",
+   "link": "http://www.ldschurchnews.com/articles/39355/Second-quake-in-El-Salvador-worse-than-first.html",
+   "displayLink": "www.ldschurchnews.com",
+   "snippet": "Published: Saturday, Feb. 17, 2001 ... The Church is also aiding earthquake   victims in India, sending 600,000 pounds of food, blankets and other supplies to ...",
+   "htmlSnippet": "Published: \u003cb\u003eSaturday, Feb. 17, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e The Church is also aiding \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  victims in \u003cb\u003eIndia\u003c/b\u003e, sending 600,000 pounds of food, blankets and other supplies to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ttAlkPB40FUJ",
+   "formattedUrl": "www.ldschurchnews.com/.../Second-quake-in-El-Salvador-worse-than-first. html",
+   "htmlFormattedUrl": "www.ldschurchnews.com/.../Second-\u003cb\u003equake\u003c/b\u003e-in-El-Salvador-worse-than-first. html",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "?? 2008 Deseret News Publishing Company",
+      "title": "Second quake in El Salvador worse than first"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.67, ???88.94, 315, 6.6, Mw (HRV). February   13, 2001, 19:28, Southern Sumatra, Indonesia, ???4.680 ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.67, ???88.94, 315, 6.6, Mw (HRV). \u003cb\u003eFebruary\u003c/b\u003e \u003cbr\u003e  13, \u003cb\u003e2001\u003c/b\u003e, 19:28, Southern Sumatra, Indonesia, ???4.680 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Bhuj, India, earthquake of January 26, 2001",
+   "htmlTitle": "The Bhuj, \u003cb\u003eIndia\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of January 26, \u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://megacities.usc.edu/assets/003/68068.pdf",
+   "displayLink": "megacities.usc.edu",
+   "snippet": "2/17/2010 10:36 AM. Initial Geotechnical Observations of the Bhuj, India,   Earthquake of January 26, 2001. A report of the NSF ... As of 20 February 2001,   the Department of Agriculture and Cooperation of the Indian Government   reported ...",
+   "htmlSnippet": "2/\u003cb\u003e17\u003c/b\u003e/2010 10:36 AM. Initial Geotechnical Observations of the Bhuj, \u003cb\u003eIndia\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e of January 26, \u003cb\u003e2001\u003c/b\u003e. A report of the NSF \u003cb\u003e...\u003c/b\u003e As of 20 \u003cb\u003eFebruary 2001\u003c/b\u003e, \u003cbr\u003e  the Department of Agriculture and Cooperation of the \u003cb\u003eIndian\u003c/b\u003e Government \u003cbr\u003e  reported \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "708QQRm3QJgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "megacities.usc.edu/assets/003/68068.pdf",
+   "htmlFormattedUrl": "megacities.usc.edu/assets/003/68068.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100217103721-08'00'",
+      "author": "civiltemp",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20100217103721-08'00'",
+      "title": "The Bhuj, India, earthquake of January 26, 2001"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Exploring land surface temperature earthquake precursors: A focus ...",
+   "htmlTitle": "Exploring land surface temperature \u003cb\u003eearthquake\u003c/b\u003e precursors: A focus \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pnsn.org/blog/hot.pdf",
+   "displayLink": "www.pnsn.org",
+   "snippet": "Aug 5, 2011 ... A focus on the Gujarat (India) earthquake of 2001. Matthew Blackett ..... LST data   (17???19 January and 30 January???2 February). With clear skies ...",
+   "htmlSnippet": "Aug 5, 2011 \u003cb\u003e...\u003c/b\u003e A focus on the Gujarat (\u003cb\u003eIndia\u003c/b\u003e) \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e2001\u003c/b\u003e. Matthew Blackett \u003cb\u003e.....\u003c/b\u003e LST data \u003cbr\u003e  (\u003cb\u003e17\u003c/b\u003e???19 January and 30 January???2 \u003cb\u003eFebruary\u003c/b\u003e). With clear skies \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Lb2XDESA1S8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.pnsn.org/blog/hot.pdf",
+   "htmlFormattedUrl": "www.pnsn.org/blog/hot.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Matthew Blackett, Martin J. Wooster, Bruce D. Malamud",
+      "creationdate": "D:20110720033957+08'00'",
+      "creator": "Arbortext Advanced Print Publisher 9.0.114/W Unicode",
+      "moddate": "D:20120319155203-04'00'",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "subject": "Natural Hazards: Precursors; Natural Hazards: Statistical analysis; Natural Hazards: Spatial modeling; Natural Hazards: Remote sensing and disasters; Seismology: Earthquake interaction, forecasting, and prediction",
+      "title": "Exploring land surface temperature earthquake precursors: A focus on the Gujarat (India) earthquake of 2001"
+     }
+    ]
+   }
+  }
+ ]
+}

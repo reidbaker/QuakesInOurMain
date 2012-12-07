@@ -1,0 +1,252 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 8 2001 India Earthquake",
+    "totalResults": "662000",
+    "searchTerms": "Feb 8 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 8 2001 India Earthquake",
+    "totalResults": "662000",
+    "searchTerms": "Feb 8 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.254796,
+  "formattedSearchTime": "0.25",
+  "totalResults": "662000",
+  "formattedTotalResults": "662,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong damaging earthquake in the Nepal / Sikkim (India ...",
+   "htmlTitle": "Very strong damaging \u003cb\u003eearthquake\u003c/b\u003e in the Nepal / Sikkim (\u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 2, 2011 ... Earthquake overview : A magnitude 6.9 earthquake hit the Himalayan states   Nepal and Sikkim (India) 12:40:48 UT (6:11 PM at epicenter).",
+   "htmlSnippet": "Oct 2, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A magnitude 6.9 \u003cb\u003eearthquake\u003c/b\u003e hit the Himalayan states \u003cbr\u003e  Nepal and Sikkim (\u003cb\u003eIndia\u003c/b\u003e) 12:40:48 UT (6:11 PM at epicenter).",
+   "cacheId": "0hEt4bGhGegJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-earthquake-in-sikkim-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-\u003cb\u003eearthquake\u003c/b\u003e-in-sikkim-\u003cb\u003eindia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/09/india-19092011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "236",
+      "height": "156",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Zq3DEjg7bjf9SyfGLzsxsLzf2pwhzbCh2aTlCxNld3KGjAKNQSX6Zic"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dipen Giri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gujarat Earthquake Update Report",
+   "htmlTitle": "Gujarat \u003cb\u003eEarthquake\u003c/b\u003e Update Report",
+   "link": "http://www.care.org/newsroom/specialreports/indiaeq/indiaeq_news.asp",
+   "displayLink": "www.care.org",
+   "snippet": "Live Chat with CARE Relief and Rehab Expert in India (February 8, 2001). Indian   Business Community Partners with CARE to Bring Help to Earthquake ...",
+   "htmlSnippet": "Live Chat with CARE Relief and Rehab Expert in \u003cb\u003eIndia\u003c/b\u003e (\u003cb\u003eFebruary 8, 2001\u003c/b\u003e). \u003cb\u003eIndian\u003c/b\u003e \u003cbr\u003e  Business Community Partners with CARE to Bring Help to \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vuKlIChs05wJ",
+   "formattedUrl": "www.care.org/newsroom/specialreports/indiaeq/indiaeq_news.asp",
+   "htmlFormattedUrl": "www.care.org/newsroom/specialreports/\u003cb\u003eindia\u003c/b\u003eeq/\u003cb\u003eindia\u003c/b\u003eeq_news.asp",
+   "pagemap": {
+    "metatags": [
+     {
+      "date": "October 16, 2003",
+      "lastupdate": "October 16, 2003",
+      "author": "webmaster@care.org",
+      "copyright": "This Site Copyright 2006 CARE USA",
+      "rating": "general"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... Figure 8 ??? The relative building damage index in each 2011 CATDAT damaging   earthquake ... Van earthquake in October, in the India-Nepal-Tibet region in   September .... in Christchurch and as aftershocks of the 21st February   earthquake). ...... BTE [2001] ???Economic Costs of Natural Disasters in Australia???, ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e8\u003c/b\u003e ??? The relative building damage index in each 2011 CATDAT damaging \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Van \u003cb\u003eearthquake\u003c/b\u003e in October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet region in \u003cbr\u003e  September \u003cb\u003e....\u003c/b\u003e in Christchurch and as aftershocks of the 21st \u003cb\u003eFebruary\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e). \u003cb\u003e......\u003c/b\u003e BTE [\u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in Australia???, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "India : Earthquake : 2001/01/26",
+   "htmlTitle": "\u003cb\u003eIndia\u003c/b\u003e : \u003cb\u003eEarthquake\u003c/b\u003e : \u003cb\u003e2001\u003c/b\u003e/01/26",
+   "link": "http://www.adrc.asia/latestinfo/View_E.php?lang=en&KEY=166",
+   "displayLink": "www.adrc.asia",
+   "snippet": "Duration, 2001/01/26, A severe earthquake of magnitude 6.9 occurred at Bhuj   580 miles ... Government of India Situation Report(20:00, 08 February, 2001) ...",
+   "htmlSnippet": "Duration, 2001/01/26, A severe \u003cb\u003eearthquake\u003c/b\u003e of magnitude 6.9 occurred at Bhuj \u003cbr\u003e  580 miles \u003cb\u003e...\u003c/b\u003e Government of \u003cb\u003eIndia\u003c/b\u003e Situation Report(20:00, \u003cb\u003e08 February, 2001\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OM_kIk-H20UJ",
+   "formattedUrl": "www.adrc.asia/latestinfo/View_E.php?lang=en&KEY=166",
+   "htmlFormattedUrl": "www.adrc.asia/latestinfo/View_E.php?lang=en&amp;KEY=166"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": ":: ASC :: 26 January 2001, M7.7 Bhuj Earthquake/Gujarat ...",
+   "htmlTitle": ":: ASC :: 26 January \u003cb\u003e2001\u003c/b\u003e, M7.7 Bhuj \u003cb\u003eEarthquake\u003c/b\u003e/Gujarat \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://asc-india.org/lib/20010126-kachchh.htm",
+   "displayLink": "asc-india.org",
+   "snippet": "Jan 26, 2001 ... A major earthquake struck Gujarat, India, on 26 January 2001 at .... in an M5.3   aftershock on February 8, 2001, as they jumped from buildings in ...",
+   "htmlSnippet": "Jan 26, 2001 \u003cb\u003e...\u003c/b\u003e A major \u003cb\u003eearthquake\u003c/b\u003e struck Gujarat, \u003cb\u003eIndia\u003c/b\u003e, on 26 January 2001 at \u003cb\u003e....\u003c/b\u003e in an M5.3 \u003cbr\u003e  aftershock on \u003cb\u003eFebruary 8, 2001\u003c/b\u003e, as they jumped from buildings in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "a7AArGB_V7MJ",
+   "formattedUrl": "asc-india.org/lib/20010126-kachchh.htm",
+   "htmlFormattedUrl": "asc-\u003cb\u003eindia\u003c/b\u003e.org/lib/\u003cb\u003e2001\u003c/b\u003e0126-kachchh.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Full Coverage of Earthquake disaster in gujarat at Gujaratplus.com ...",
+   "htmlTitle": "Full Coverage of \u003cb\u003eEarthquake\u003c/b\u003e disaster in gujarat at Gujaratplus.com \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.gujaratplus.com/news/archives/arc60.html",
+   "displayLink": "www.gujaratplus.com",
+   "snippet": "Maharashtra CM visits quake-hit areas Thursday, February 8, 2001 ... minister   Chaggan Bhujbal visited the quake-affected areas of Bhuj, Bhachau, Anjar, .... In   reply to another question as to why did India choose to accept the relief material ...",
+   "htmlSnippet": "Maharashtra CM visits \u003cb\u003equake\u003c/b\u003e-hit areas \u003cb\u003eThursday, February 8, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e minister \u003cbr\u003e  Chaggan Bhujbal visited the \u003cb\u003equake\u003c/b\u003e-affected areas of Bhuj, Bhachau, Anjar, \u003cb\u003e....\u003c/b\u003e In \u003cbr\u003e  reply to another question as to why did \u003cb\u003eIndia\u003c/b\u003e choose to accept the relief material \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "q-bpXU0nyUsJ",
+   "formattedUrl": "www.gujaratplus.com/news/archives/arc60.html",
+   "htmlFormattedUrl": "www.gujaratplus.com/news/archives/arc60.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "rediff.com: Earthquake Hits India",
+   "htmlTitle": "rediff.com: \u003cb\u003eEarthquake\u003c/b\u003e Hits \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://www.rediff.com/news/quake.htm",
+   "displayLink": "www.rediff.com",
+   "snippet": "rediff.com: The Earthquake Homepage. ... May 28, 2001 Earthquake hits India,   Resources ... February 8, 2001. ??? Fresh tremors rock Gujarat ??? RDX buried under ...",
+   "htmlSnippet": "rediff.com: The \u003cb\u003eEarthquake\u003c/b\u003e Homepage. \u003cb\u003e...\u003c/b\u003e May 28, 2001 \u003cb\u003eEarthquake\u003c/b\u003e hits \u003cb\u003eIndia\u003c/b\u003e, \u003cbr\u003e  Resources \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFebruary 8, 2001\u003c/b\u003e. ??? Fresh tremors rock Gujarat ??? RDX buried under \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pjWqSOfabI8J",
+   "formattedUrl": "www.rediff.com/news/quake.htm",
+   "htmlFormattedUrl": "www.rediff.com/news/\u003cb\u003equake\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001 El Salvador earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2001_El_Salvador_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 The January 13 earthquake; 2 The February 13 earthquake; 3 Quakes ....   January 2001 quakes in India and El Salvador), NASA.gov, February 8, 2001.",
+   "htmlSnippet": "1 The January 13 \u003cb\u003eearthquake\u003c/b\u003e; 2 The February 13 \u003cb\u003eearthquake\u003c/b\u003e; 3 Quakes \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  January 2001 quakes in \u003cb\u003eIndia\u003c/b\u003e and El Salvador), NASA.gov, \u003cb\u003eFebruary 8, 2001\u003c/b\u003e.",
+   "cacheId": "XMctdNtdPMsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2001_El_Salvador_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e2001\u003c/b\u003e_El_Salvador_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/ElSalvadorslide.jpg/200px-ElSalvadorslide.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "216",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJAQkkgxOF_xQxslq2ydL3kvN6vWixxR4FvmTQKwJVsjuUtMVVs9N3g9w"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Institutional Arrangements for Disaster Management in India",
+   "htmlTitle": "Institutional Arrangements for Disaster Management in \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://www.recoveryplatform.org/assets/meetings_trainings/international%20forum%20on%20tsunami%20and%20earthquake/c2.pdf",
+   "displayLink": "www.recoveryplatform.org",
+   "snippet": "Government of India ... Earthquakes : Indian Meteorological Directorate. ???   Epidemics : Ministry of Health and ... by the GAD's Resolution dated 8th February   2001.",
+   "htmlSnippet": "Government of \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e : \u003cb\u003eIndian\u003c/b\u003e Meteorological Directorate. ??? \u003cbr\u003e  Epidemics : Ministry of Health and \u003cb\u003e...\u003c/b\u003e by the GAD&#39;s Resolution dated \u003cb\u003e8th February\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "nO0wIApqrjEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.recoveryplatform.org/.../ international%20forum%20on%20tsunami%20and%20earthquake/c2.pdf",
+   "htmlFormattedUrl": "www.recoveryplatform.org/.../ international%20forum%20on%20tsunami%20and%20\u003cb\u003eearthquake\u003c/b\u003e/c2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081225190115+09'00'",
+      "author": "Michiko MORI",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20081225190115+09'00'",
+      "title": "Microsoft PowerPoint - 2_India_IRP Institutional Mechanisms.ppt"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Welcome to the Homepage of Shaikh Sadaqathullah (VU2 SDU ...",
+   "htmlTitle": "Welcome to the Homepage of Shaikh Sadaqathullah (VU2 SDU \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.qsl.net/v/vu2sdu/gujarat.html",
+   "displayLink": "www.qsl.net",
+   "snippet": "The Gujarat earthquake saw total destruction, including disruption of   communication links ... 2nd February 2001 A total of 18 Amateur (Ham) Radio   Operators from Karnataka are still ..... Indian Hams Put Technology to the Task (  Feb 8, 2001) ...",
+   "htmlSnippet": "The Gujarat \u003cb\u003eearthquake\u003c/b\u003e saw total destruction, including disruption of \u003cbr\u003e  communication links \u003cb\u003e...\u003c/b\u003e 2nd February 2001 A total of 18 Amateur (Ham) Radio \u003cbr\u003e  Operators from Karnataka are still \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eIndian\u003c/b\u003e Hams Put Technology to the Task (\u003cbr\u003e  \u003cb\u003eFeb 8, 2001\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IBFI5-O8sYcJ",
+   "formattedUrl": "www.qsl.net/v/vu2sdu/gujarat.html",
+   "htmlFormattedUrl": "www.qsl.net/v/vu2sdu/gujarat.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.qsl.net/v/vu2sdu/gif/kural993.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "345",
+      "height": "112",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7njZmGW8szgvkFB2hAj1SdO6lr31lpEXvA6w7eAu75zvHAv2uySkt7g"
+     }
+    ]
+   }
+  }
+ ]
+}
