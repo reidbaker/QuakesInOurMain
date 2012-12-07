@@ -25,6 +25,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 	private double[] magRange;
 	
 	private int highlightedIndex;
+	private int numberMissing;
 
 	public DepthPlot(int x, int y, int w, int h, DataSet displayData) {
 		super(x, y, w, h, displayData, "Depth vs Time");
@@ -117,10 +118,12 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 			double curDepth = depthRange[0];
 			double curMag = magRange[0];
 			
-			if(d.getValue(DataRow.DEPTH)!= null)
+			if(d.getValue(DataRow.DEPTH)!= null){
 				curDepth = (double) d.getValue(DataRow.DEPTH);
-			if(d.getValue(DataRow.MOMENT_MAGNITUDE) != null)
+			}
+			if(d.getValue(DataRow.MOMENT_MAGNITUDE) != null){
 				curMag = (double)d.getValue(DataRow.MOMENT_MAGNITUDE);
+			}
 			//if this is the first thing we've hit, set everything to the current quake
 			if(timeRange[0] == null){
 				timeRange[0] = curDate;
