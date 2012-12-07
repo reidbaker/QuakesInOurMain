@@ -63,6 +63,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
         for (String country : computedValues.keySet()) {
 
             //draw the colored square for the country and write the country name
+            parent.noStroke();
             parent.fill(DataRow.getColorFor(country));
             if (right) {
                 parent.rect(x + w / 2 + offset / 2,
@@ -102,9 +103,9 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
         }
         //draw the outline of the percentage square
         parent.noFill();
+        parent.noStroke();
         parent.rect(x + w / 2 + offset / 2, drawY - maxCircleRadius * 2, maxCircleRadius * 2, maxCircleRadius * 2);
         
-        parent.noStroke();
         //draw the total percentages (upper right corner square)
         for (TypeCount t : totals) {
             int color = Theme.changeSaturation(

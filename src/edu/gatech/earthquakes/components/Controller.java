@@ -33,9 +33,9 @@ public class Controller {
 	public static final EventBus FILTER_BUS = new EventBus("Filtering Bus");
 	public static final EventBus INTERACT_BUS = new EventBus("Interacting Bus");
 
-	public Controller(PApplet parent) {
+	public Controller(final PApplet parent) {
 		this.parentApplet = parent;
-		DataSet masterData = Importer.importData();
+		final DataSet masterData = Importer.importData();
 		lastWidth = lastHeight = 0;
 
 		setUpCanary();
@@ -56,22 +56,26 @@ public class Controller {
 	}
 
 	private void setUpCanary(){
-		DeadEventCanary dec = DeadEventCanary.getInstance();
+		final DeadEventCanary dec = DeadEventCanary.getInstance();
 		BRUSH_BUS.register(dec);
 		DRAW_BUS.register(dec);
 		FILTER_BUS.register(dec);
 		INTERACT_BUS.register(dec);
 	}
 
-	public static void registerVisualization(AbstractVisualization av) {
-		if (av instanceof Brushable)
-			BRUSH_BUS.register(av);
-		if (av instanceof Drawable)
-			DRAW_BUS.register(av);
-		if (av instanceof Filterable)
-			FILTER_BUS.register(av);
-		if (av instanceof Interactable)
-			INTERACT_BUS.register(av);
+	public static void registerVisualization(final AbstractVisualization av) {
+		if (av instanceof Brushable){
+            BRUSH_BUS.register(av);
+		}
+		if (av instanceof Drawable){
+	          DRAW_BUS.register(av);
+		}
+		if (av instanceof Filterable){
+	          FILTER_BUS.register(av);
+		}
+		if (av instanceof Interactable){
+		    INTERACT_BUS.register(av);
+		}
 	}
 
 	/**
@@ -112,17 +116,17 @@ public class Controller {
 			alreadyPressed = false;
 		}
 
-		Interaction i = new Interaction(firstPress, drag, released,
+		Interaction interact = new Interaction(firstPress, drag, released,
 				parentApplet);
-		INTERACT_BUS.post(i);
+		INTERACT_BUS.post(interact);
 	}
 
-	public static void applyFilter(DataSet ds) {
-		FILTER_BUS.post(ds);
+	public static void applyFilter(final DataSet curDataSet) {
+		FILTER_BUS.post(curDataSet);
 	}
 
-	public static void applyBrushing(DataSet ds) {
-		BRUSH_BUS.post(ds);
+	public static void applyBrushing(final DataSet curDataSet) {
+		BRUSH_BUS.post(curDataSet);
 	}
 
 	public void windowResized(int width, int height) {
