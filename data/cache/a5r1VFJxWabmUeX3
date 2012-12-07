@@ -5,12 +5,25 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 21 2001 India Earthquake",
+    "totalResults": "771000",
+    "searchTerms": "Dec 21 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Dec 21 2001 India Earthquake",
-    "totalResults": "8",
+    "totalResults": "771000",
     "searchTerms": "Dec 21 2001 India Earthquake",
-    "count": 8,
+    "count": 10,
     "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
@@ -23,273 +36,299 @@
   "title": "Quakes-in-our-main"
  },
  "searchInformation": {
-  "searchTime": 0.591739,
-  "formattedSearchTime": "0.59",
-  "totalResults": "8",
-  "formattedTotalResults": "8"
+  "searchTime": 0.264751,
+  "formattedSearchTime": "0.26",
+  "totalResults": "771000",
+  "formattedTotalResults": "771,000"
  },
  "items": [
   {
    "kind": "customsearch#result",
-   "title": "Hot Searches - Google",
-   "htmlTitle": "Hot Searches - Google",
-   "link": "http://www.google.com/trends/hottrends",
-   "displayLink": "www.google.com",
-   "snippet": "United States. India. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use ￂﾷ   Privacy Policy ￂﾷ Help Center. More trends labs:Google CorrelateGoogle Flu   Trends ...",
-   "htmlSnippet": "United States. \u003cb\u003eIndia\u003c/b\u003e. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use &middot; \u003cbr\u003e  Privacy Policy &middot; Help Center. More trends labs:Google CorrelateGoogle Flu \u003cbr\u003e  Trends \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "uvKavSff1xUJ",
-   "formattedUrl": "www.google.com/trends/hottrends",
-   "htmlFormattedUrl": "www.google.com/trends/hottrends",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 27, 2011 ... This ￢ﾀﾜIndia deadly earthquake list￢ﾀﾝ has been compiled out of our ... M 6.1ￃﾂ ￃﾂ 21-  11-1997ￃﾂ ￃﾂ ￃﾂ Depth 54 kmￃﾂ ￃﾂ ￃﾂ India, Bangladesh ￢ﾀﾜ killing 23 people ... Gujarat   January 26 earthquake 2001 - - image courtesy IRC Red Cross .... killed ￂﾷ (Major)   Earthquakes list December 3, 2012 - Strong aftershock near the ...",
+   "htmlSnippet": "Jan 27, 2011 \u003cb\u003e...\u003c/b\u003e This ￢ﾀﾜ\u003cb\u003eIndia\u003c/b\u003e deadly \u003cb\u003eearthquake\u003c/b\u003e list￢ﾀﾝ has been compiled out of our \u003cb\u003e...\u003c/b\u003e M 6.1ￃﾂ ￃﾂ \u003cb\u003e21\u003c/b\u003e-\u003cbr\u003e  11-1997ￃﾂ ￃﾂ ￃﾂ Depth 54 kmￃﾂ ￃﾂ ￃﾂ \u003cb\u003eIndia\u003c/b\u003e, Bangladesh ￢ﾀﾜ killing 23 people \u003cb\u003e...\u003c/b\u003e Gujarat \u003cbr\u003e  January 26 \u003cb\u003eearthquake 2001\u003c/b\u003e - - image courtesy IRC Red Cross \u003cb\u003e....\u003c/b\u003e killed &middot; (Major) \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eDecember\u003c/b\u003e 3, 2012 - Strong aftershock near the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/26/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-\u003cb\u003eindia\u003c/b\u003e/",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/trends/resources/2327917647-google-icon.png"
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "102",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3yTXNtH_-TAOlH7VN5H-YB12XPPIGpUNtjnutMt3YPxciVY44kh7V"
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Josￃﾃￂﾩ Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 4.6,   GUJARAT, INDIA, Dec 21 2001, 17:33:21, 23.765, 70.051 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 4.6, \u003cbr\u003e  GUJARAT, \u003cb\u003eINDIA\u003c/b\u003e, \u003cb\u003eDec 21 2001\u003c/b\u003e, 17:33:21, 23.765, 70.051 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong damaging earthquake in the Nepal / Sikkim (India ...",
+   "htmlTitle": "Very strong damaging \u003cb\u003eearthquake\u003c/b\u003e in the Nepal / Sikkim (\u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 2, 2011 ... The Sikkim earthquake has raised questions on the future of India's hydropower   ..... IMPORTANT SUMMARY 21/09-10:22/12:53 : ... This seems to be too high   compared to the Bhuj disaster of 2001, so we will wait for more reliable estimates.   ..... (Major) Earthquakes list December 4, 2012 - Strong but deep ...",
+   "htmlSnippet": "Oct 2, 2011 \u003cb\u003e...\u003c/b\u003e The Sikkim \u003cb\u003eearthquake\u003c/b\u003e has raised questions on the future of \u003cb\u003eIndia&#39;s\u003c/b\u003e hydropower \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e IMPORTANT SUMMARY \u003cb\u003e21\u003c/b\u003e/09-10:22/12:53 : \u003cb\u003e...\u003c/b\u003e This seems to be too high \u003cbr\u003e  compared to the Bhuj disaster of \u003cb\u003e2001\u003c/b\u003e, so we will wait for more reliable estimates. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e (Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eDecember\u003c/b\u003e 4, 2012 - Strong but deep \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0hEt4bGhGegJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-earthquake-in-sikkim-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-\u003cb\u003eearthquake\u003c/b\u003e-in-sikkim-\u003cb\u003eindia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/09/india-19092011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "236",
+      "height": "156",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Zq3DEjg7bjf9SyfGLzsxsLzf2pwhzbCh2aTlCxNld3KGjAKNQSX6Zic"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dipen Giri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003e21st\u003c/b\u003e-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 1, 2001, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5, Mw (HRV)   ... see 2001 El Salvador earthquakes, 13.04, ￢ﾈﾒ88.66, 944, 7.7, Mw (HRV). 02001-  01-26January 26, 2001, 03:16, Gujarat, India ... December 12, 2001, 14:02,   South of Australia, ￢ﾈﾒ42.813, 124.688, 0, 7.1, Mw (HRV, USGS) ...",
+   "htmlSnippet": "January 1, \u003cb\u003e2001\u003c/b\u003e, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5, Mw (HRV) \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ￢ﾈﾒ88.66, 944, 7.7, Mw (HRV). 02001-\u003cbr\u003e  01-26January 26, \u003cb\u003e2001\u003c/b\u003e, 03:16, Gujarat, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember\u003c/b\u003e 12, \u003cb\u003e2001\u003c/b\u003e, 14:02, \u003cbr\u003e  South of Australia, ￢ﾈﾒ42.813, 124.688, 0, 7.1, Mw (HRV, USGS) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ￢ﾀﾓ Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ￢ﾀﾓ Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... The M9.0 Tohoku earthquake and tsunami of 11th March, 2011 ... in Turkey from   the Van earthquake in October, in the India-Nepal-Tibet region in ..... The   Christchurch earthquakes on the 21st February, 13th June and 23rd December   also ..... BTE [2001] ￢ﾀﾜEconomic Costs of Natural Disasters in Australia￢ﾀﾝ, ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e The M9.0 Tohoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami of 11th March, 2011 \u003cb\u003e...\u003c/b\u003e in Turkey from \u003cbr\u003e  the Van \u003cb\u003eearthquake\u003c/b\u003e in October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet region in \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  Christchurch \u003cb\u003eearthquakes\u003c/b\u003e on the \u003cb\u003e21\u003c/b\u003est February, 13th June and 23rd \u003cb\u003eDecember\u003c/b\u003e \u003cbr\u003e  also \u003cb\u003e.....\u003c/b\u003e BTE [\u003cb\u003e2001\u003c/b\u003e] ￢ﾀﾜEconomic Costs of Natural Disasters in Australia￢ﾀﾝ, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in India - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Indian subcontinent has a history of devastating earthquakes. ... see Gujarat   earthquake of 2001, 23.6N, 69.8E, 20,000, Epicenter in Kutch, loss of life in ...   01991-10-20October 20, 1991, 21:23:14 UTC, Uttarkashi region of the Indian   state of Uttarakhand ... This page was last modified on 2 December 2012 at 10:58  .",
+   "htmlSnippet": "The \u003cb\u003eIndian\u003c/b\u003e subcontinent has a history of devastating \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e see Gujarat \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e2001\u003c/b\u003e, 23.6N, 69.8E, 20,000, Epicenter in Kutch, loss of life in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  01991-10-20October 20, 1991, \u003cb\u003e21\u003c/b\u003e:23:14 UTC, Uttarkashi region of the \u003cb\u003eIndian\u003c/b\u003e \u003cbr\u003e  state of Uttarakhand \u003cb\u003e...\u003c/b\u003e This page was last modified on 2 \u003cb\u003eDecember\u003c/b\u003e 2012 at 10:58\u003cbr\u003e  .",
+   "cacheId": "EBwHZvfyZioJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eIndia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Biggest Earthquakes of the Century | List of the Largest Earthquakes",
+   "htmlTitle": "Biggest \u003cb\u003eEarthquakes\u003c/b\u003e of the Century | List of the Largest \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.ranker.com/list/the-worst-earthquakes-of-the-century/drake-bird",
+   "displayLink": "www.ranker.com",
+   "snippet": "While death tolls are often disputed, the 2004 Indian Ocean Earthquake and the   2010 Haiti Earthquake are the worst two earthquakes of the 21st century with ...",
+   "htmlSnippet": "While death tolls are often disputed, the 2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003eEarthquake\u003c/b\u003e and the \u003cbr\u003e  2010 Haiti \u003cb\u003eEarthquake\u003c/b\u003e are the worst two \u003cb\u003eearthquakes\u003c/b\u003e of the \u003cb\u003e21st\u003c/b\u003e century with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TYZsGEX6HDIJ",
+   "formattedUrl": "www.ranker.com/list/the-worst-earthquakes-of-the.../drake-bird",
+   "htmlFormattedUrl": "www.ranker.com/list/the-worst-\u003cb\u003eearthquakes\u003c/b\u003e-of-the.../drake-bird",
+   "pagemap": {
+    "itemlist": [
+     {
+      "image": "http://img3.ranker.com/list_img/17077/357077/full/the-worst-earthquakes-of-the-century.jpg?version=1351809086000",
+      "name": "The Worst Earthquakes of the Century",
+      "description": "As some of the most horrible natural disasters on record, the worst earthquakes of the century claimed thousands of lives and caused billions of dollars in damages. The massive earthquakes...",
+      "itemlistorder": "Descending",
+      "itemlistelement": "2004 Indian Ocean Earthquake"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://img1.ranker.com/list_img/10125/310125/C100/the-worst-earthquakes-in-history.jpg?version=1351808971000"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMUPjrJLAA0Bd4NPFCdMx5lnXGbga69Un4E5qCyRnUQpzW4wZ6lyev"
+     }
+    ],
+    "usercomments": [
+     {
+      "creator": "Darius Ramming",
+      "discusses": "The Worst Earthquakes of the Century",
+      "commenttime": "8/29/2012 3:30 PM",
+      "commenttext": "this is quite a bit about Biggest Earthquakes"
      }
     ],
     "metatags": [
      {
-      "og:title": "Google Hot Searches",
+      "mobileoptimized": "width",
+      "handheldfriendly": "true",
+      "viewport": "width=device-width; initial-scale=1.0; maximum-scale=1.0;",
+      "og:site_name": "Ranker",
       "og:type": "article",
-      "og:url": "http://www.google.com/trends/hottrends",
-      "og:image": "http://www.google.com/trends/resources/2327917647-google-icon.png",
-      "og:description": "Explore trending search topics with Google Hot Searches."
+      "og:title": "The Worst Earthquakes of the Century",
+      "og:description": "As some of the most horrible natural disasters on record, the worst earthquakes of the century claimed thousands of lives and caused billions of dollars in damages. The massive earthquakes seen in the 21st century are among the worst in history, with many sadly claiming hundreds of thousands of liv...",
+      "og:image": "http://img3.ranker.com/list_img/17077/357077/C250/the-worst-earthquakes-of-the-century.jpg?version=1351809086000",
+      "og:url": "http://www.ranker.com/list/the-worst-earthquakes-of-the-century/drake-bird",
+      "fb:app_id": "129409087172024",
+      "fb:admins": "553725001"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US7188452 - Sleeved bracing useful in the construction of ...",
-   "htmlTitle": "Patent US7188452 - Sleeved bracing useful in the construction of \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US7188452",
-   "displayLink": "www.google.com",
-   "snippet": "Mar 13, 2007 ... Sleeved bracing useful in the construction of earthquake resistant structures ...   US4815574, Dec 21, 1987, Mar 28, 1989, Tayco Developments, Inc. Frictionless   damper ... Tube Investments of India Limited, Sleeved compression member ...   US6244577, Jul 12, 1999, Jun 12, 2001, Enidine Incorporated ...",
-   "htmlSnippet": "Mar 13, 2007 \u003cb\u003e...\u003c/b\u003e Sleeved bracing useful in the construction of \u003cb\u003eearthquake\u003c/b\u003e resistant structures \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4815574, \u003cb\u003eDec 21\u003c/b\u003e, 1987, Mar 28, 1989, Tayco Developments, Inc. Frictionless \u003cbr\u003e  damper \u003cb\u003e...\u003c/b\u003e Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression member \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6244577, Jul 12, 1999, Jun 12, \u003cb\u003e2001\u003c/b\u003e, Enidine Incorporated \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US7188452",
-   "htmlFormattedUrl": "www.google.com/patents/US7188452",
+   "title": "2001 Gujarat earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2001 Gujarat earthquake occurred on January 26, 2001, India's 51st   Republic Day, at 08:46 AM local time (3:16 ... 21 districts were affected and   600,000 people left homeless. .... This page was last modified on 5 December   2012 at 17:08.",
+   "htmlSnippet": "The \u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e occurred on January 26, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003eIndia&#39;s\u003c/b\u003e 51st \u003cbr\u003e  Republic Day, at 08:46 AM local time (3:16 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e21\u003c/b\u003e districts were affected and \u003cbr\u003e  600,000 people left homeless. \u003cb\u003e....\u003c/b\u003e This page was last modified on 5 \u003cb\u003eDecember\u003c/b\u003e \u003cbr\u003e  2012 at 17:08.",
+   "cacheId": "LtzX9S90JqYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e2001\u003c/b\u003e_Gujarat_\u003cb\u003eearthquake\u003c/b\u003e",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=kTJ_AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2001_Gujarat_earthquake.jpg/240px-2001_Gujarat_earthquake.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "132",
-      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhNCVxB0wWr1-1iGhc_tswP9pjkLS1po78jWwPyEAxFSTUh3fMA32MgIc"
-     }
-    ],
-    "book": [
-     {
-      "description": "A buckling restrained brace includes an elongate, hollow sleeve, an elongate yielding core extending substantially through the length of the sleeve, and a buckling constraining element between...",
-      "url": "http://www.google.com/patents/US7188452?utm_source=gb-gplus-share",
-      "name": "Patent US7188452 - Sleeved bracing useful in the construction of earthquake resistant structures",
-      "image": "http://www.google.com/patents?id=kTJ_AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US7188452",
-      "title": "Patent US7188452 - Sleeved bracing useful in the construction of earthquake resistant structures",
-      "og:title": "Patent US7188452 - Sleeved bracing useful in the construction of earthquake resistant structures",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=kTJ_AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "192",
+      "height": "146",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTHda-3a5sGFabOisVtMRYCYGYvnKxmmbPv9njhrKDcTcig8Zo8QBVlW_"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall ...",
-   "htmlTitle": "Patent US5490655 - Video/data projector and monitor ceiling/wall \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US5490655",
-   "displayLink": "www.google.com",
-   "snippet": "Seismic cables may be added for extra support in case of earthquake. ...   US3661415, Dec 5, 1969, 1972, HOIST SYSTEM. US3774873 ... US3981340,   Nov 28, 1975, Sep 21, 1976, GTE Sylvania Incorporated, Cover ... US6293676,   Feb 17, 1999, Sep 25, 2001, Garrett W. Brown, Camera support including   extendable post ...",
-   "htmlSnippet": "Seismic cables may be added for extra support in case of \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US3661415, \u003cb\u003eDec\u003c/b\u003e 5, 1969, 1972, HOIST SYSTEM. US3774873 \u003cb\u003e...\u003c/b\u003e US3981340, \u003cbr\u003e  Nov 28, 1975, Sep \u003cb\u003e21\u003c/b\u003e, 1976, GTE Sylvania Incorporated, Cover \u003cb\u003e...\u003c/b\u003e US6293676, \u003cbr\u003e  Feb 17, 1999, Sep 25, \u003cb\u003e2001\u003c/b\u003e, Garrett W. Brown, Camera support including \u003cbr\u003e  extendable post \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US5490655",
-   "htmlFormattedUrl": "www.google.com/patents/US5490655",
+   "title": "Independent Evaluation of Expenditure of DEC India Earthquake",
+   "htmlTitle": "Independent Evaluation of Expenditure of \u003cb\u003eDEC India Earthquake\u003c/b\u003e",
+   "link": "http://www.recoveryplatform.org/assets/publication/evaluation%20of%20DEC%20gujarat%20earthquake.pdf",
+   "displayLink": "www.recoveryplatform.org",
+   "snippet": "Expenditure of DEC. India Earthquake Appeal Funds. January 2001 ￢ﾀﾓ October   2001. VOLUME TWO. Full Evaluation Report. Humanitarian Initiatives, UK ...",
+   "htmlSnippet": "Expenditure of \u003cb\u003eDEC\u003c/b\u003e. \u003cb\u003eIndia Earthquake\u003c/b\u003e Appeal Funds. January \u003cb\u003e2001\u003c/b\u003e ￢ﾀﾓ October \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e. VOLUME TWO. Full Evaluation Report. Humanitarian Initiatives, UK \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JYMeCglx-jAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.recoveryplatform.org/.../ evaluation%20of%20DEC%20gujarat%20earthquake.pdf",
+   "htmlFormattedUrl": "www.recoveryplatform.org/.../ evaluation%20of%20\u003cb\u003eDEC\u003c/b\u003e%20gujarat%20\u003cb\u003eearthquake\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Lotus Smartsuite",
+      "creationdate": "D:20020221160149Z",
+      "creator": "Acrobat PDFMaker 5.0 for Word",
+      "moddate": "D:20120829140800+09'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "title": "DEC: The Gujarat Earthquake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... earthquakes (1901￢ﾀﾓ2000); List of 21st-century earthquakes (2001￢ﾀﾓpresent) ...   Listed below are all known earthquakes measured or estimated to have a   moment ... Indian Ocean, Sumatra, Indonesia, 2004 Indian Ocean earthquake,   9.1￢ﾀﾓ9.3 .... On December 28, 1908 from about 5:20 to 5:21 am an earthquake of   7.1 on the ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e (1901￢ﾀﾓ2000); List of \u003cb\u003e21st\u003c/b\u003e-century \u003cb\u003eearthquakes\u003c/b\u003e (\u003cb\u003e2001\u003c/b\u003e￢ﾀﾓpresent) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Listed below are all known \u003cb\u003eearthquakes\u003c/b\u003e measured or estimated to have a \u003cbr\u003e  moment \u003cb\u003e...\u003c/b\u003e \u003cb\u003eIndian\u003c/b\u003e Ocean, Sumatra, Indonesia, 2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003eearthquake\u003c/b\u003e, \u003cbr\u003e  9.1￢ﾀﾓ9.3 \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eDecember\u003c/b\u003e 28, 1908 from about 5:20 to 5:\u003cb\u003e21\u003c/b\u003e am an \u003cb\u003eearthquake\u003c/b\u003e of \u003cbr\u003e  7.1 on the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Graph_of_largest_earthquakes_1906-2005.png/400px-Graph_of_largest_earthquakes_1906-2005.png"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-w7ogDtwXRdac-ys5vaE2g3t1ewYdc0nYfyhT4RJOnAOVCirfukt9ZzM"
-     }
-    ],
-    "book": [
-     {
-      "description": "A mount than secures a projector or monitor to a ceiling or wall is disclosed. The mount uses struts that form channels which support the projector/monitor and provide alternate channels for...",
-      "url": "http://www.google.com/patents/US5490655?utm_source=gb-gplus-share",
-      "name": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US5490655",
-      "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "258",
+      "height": "195",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_63_NLO-ldQ1_H4rXy_--LyHu28R1kMs-QGz6KXe7gWgM1lmjJ0adExi"
      }
     ]
    }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Songs Of The Survivors - Yvonne Vaz Ezdani - Google Books",
-   "htmlTitle": "Songs Of The Survivors - Yvonne Vaz Ezdani - Google Books",
-   "link": "http://www.google.com/books?id=BRUOLFj1TXgC&sitesec=reviews",
-   "displayLink": "www.google.com",
-   "snippet": "In 1942, Goa was a neutral Portuguese colony in western India, and largely   unaffected by the war. ... and the subsequent exodus of thousands of refugees   who fled to India. ... Limited preview - 2001 .... It lost its big gold top 'thing that they   call a 'htee - in an earthquake: that's why it's ... Appears in 21 books from 1898-  2005 ...",
-   "htmlSnippet": "In 1942, Goa was a neutral Portuguese colony in western \u003cb\u003eIndia\u003c/b\u003e, and largely \u003cbr\u003e  unaffected by the war. \u003cb\u003e...\u003c/b\u003e and the subsequent exodus of thousands of refugees \u003cbr\u003e  who fled to \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Limited preview - \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e It lost its big gold top &#39;thing that they \u003cbr\u003e  call a &#39;htee - in an \u003cb\u003eearthquake\u003c/b\u003e: that&#39;s why it&#39;s \u003cb\u003e...\u003c/b\u003e Appears in \u003cb\u003e21\u003c/b\u003e books from 1898-\u003cbr\u003e  2005 \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "KYbWhCcj9eIJ",
-   "formattedUrl": "www.google.com/books?id=BRUOLFj1TXgC&sitesec=reviews",
-   "htmlFormattedUrl": "www.google.com/books?id=BRUOLFj1TXgC&amp;sitesec=reviews",
-   "pagemap": {
-    "cse_image": [
-     {
-      "src": "http://bks5.books.google.co.uk/books?id=BRUOLFj1TXgC&pg=PA1&img=1&zoom=1&sig=ACfU3U3IA1RO_DjRjgk7MPI_a2LtxJg2vA"
-     }
-    ],
-    "cse_thumbnail": [
-     {
-      "width": "102",
-      "height": "158",
-      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS27ZuqEd8f3VVkfzA2IhcFPMdReyTEqOD2eMVR1KEDngSLmIY82BUK2w"
-     }
-    ],
-    "book": [
-     {
-      "description": "books.google.co.uk - Published in November 2007 by Frederick Noronha on behalf of Goa,1556, (http://goa1556.goa-india.org), Stories of World War II continue to absorb the interest of the readers,...",
-      "url": "http://books.google.co.uk/books/about/Songs_Of_The_Survivors.html?id=BRUOLFj1TXgC&utm_source=gb-gplus-share",
-      "name": "Songs Of The Survivors",
-      "image": "http://books.google.co.uk/books?id=BRUOLFj1TXgC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE737V3cV3IoUXN7BrltjAif3EItkNEYcP2GrcE3l74UsSb600onaMqvzzEDXAY6KRMXu7kO6hpvBWWnXW3BxPOMqhrP0IeaWZLtQt8BJDesrTFYdVCqohy4SOw1rjSMF82RyIv36"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://books.google.co.uk/books/about/Songs_Of_The_Survivors.html?id=BRUOLFj1TXgC",
-      "title": "Songs Of The Survivors",
-      "og:title": "Songs Of The Survivors",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://books.google.co.uk/books?id=BRUOLFj1TXgC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE737V3cV3IoUXN7BrltjAif3EItkNEYcP2GrcE3l74UsSb600onaMqvzzEDXAY6KRMXu7kO6hpvBWWnXW3BxPOMqhrP0IeaWZLtQt8BJDesrTFYdVCqohy4SOw1rjSMF82RyIv36"
-     }
-    ],
-    "hproduct": [
-     {
-      "fn": "Songs Of The Survivors"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "link": "http://www.google.com/intl/en_uk/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007   ... (Larry, 22, a U Michigan grad, is considering the school; Sergey, 21, ...   December .... We spotlight our new engineering offices in Bangalore and   Hyderabad, India, ..... Following both the Sichuan earthquake in China and   Cyclone Nargis in ...",
-   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ \u003cb\u003e2001\u003c/b\u003e ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e (Larry, 22, a U Michigan grad, is considering the school; Sergey, \u003cb\u003e21\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e We spotlight our new engineering offices in Bangalore and \u003cbr\u003e  Hyderabad, \u003cb\u003eIndia\u003c/b\u003e, \u003cb\u003e.....\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and \u003cbr\u003e  Cyclone Nargis in \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Uz9ka1X37zwJ",
-   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
-   "pagemap": {
-    "metatags": [
-     {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "link": "http://www.google.com/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007 ￂﾷ   2008 ... (Larry, 22, a U Michigan grad, is considering the school; Sergey, 21, ...",
-   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ \u003cb\u003e2001\u003c/b\u003e ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007 ￂﾷ \u003cbr\u003e  2008 \u003cb\u003e...\u003c/b\u003e (Larry, 22, a U Michigan grad, is considering the school; Sergey, \u003cb\u003e21\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Ex81iG3sJZAJ",
-   "formattedUrl": "www.google.com/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/about/company/history/",
-   "pagemap": {
-    "metatags": [
-     {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Patent EP0738990B1 - Apparatus and method for three dimensional ...",
-   "htmlTitle": "Patent EP0738990B1 - Apparatus and method for three dimensional \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/EP0738990B1?cl=en",
-   "displayLink": "www.google.com",
-   "snippet": "... in and between the switches during the 1989 California earthquake. ... The   buttons 2001 and sliders 2002 to the left of the image change the way in ..... 21, ￮ﾜﾤ   = 23.5 degrees on June 21, and ￮ﾜﾤ = -23.5 degrees on December 21. .... method   by showing paths from Britain to the United States, Australia, India, and South   Africa.",
-   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e in and between the switches during the 1989 California \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  buttons \u003cb\u003e2001\u003c/b\u003e and sliders 2002 to the left of the image change the way in \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e21\u003c/b\u003e, ￮ﾜﾤ \u003cbr\u003e  = 23.5 degrees on June \u003cb\u003e21\u003c/b\u003e, and ￮ﾜﾤ = -23.5 degrees on \u003cb\u003eDecember 21\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e method \u003cbr\u003e  by showing paths from Britain to the United States, Australia, \u003cb\u003eIndia\u003c/b\u003e, and South \u003cbr\u003e  Africa.",
-   "formattedUrl": "www.google.com/patents/EP0738990B1?cl=en",
-   "htmlFormattedUrl": "www.google.com/patents/EP0738990B1?cl=en",
-   "pagemap": {
-    "cse_image": [
-     {
-      "src": "http://patentimages.storage.googleapis.com/thumbnails/EP0738990B1/00450001.png"
-     }
-    ],
-    "cse_thumbnail": [
-     {
-      "width": "76",
-      "height": "96",
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9O-IGgdsANGsDxN-pQvFera9a6MWT6n_34x7qkmWlcJjb0QwvbsSG"
-     }
-    ],
-    "book": [
-     {
-      "description": "www.google.com",
-      "url": "http://www.google.com/patents/EP0738990B1?cl=en&utm_source=gb-gplus-share",
-      "name": "Patent EP0738990B1 - Apparatus and method for three dimensional graphical display of information",
-      "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/EP0738990B1?cl=en",
-      "title": "Patent EP0738990B1 - Apparatus and method for three dimensional graphical display of information",
-      "og:title": "Patent EP0738990B1 - Apparatus and method for three dimensional graphical display of information",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Google Fusion Tables | not_cph_embassy_confidential.csv",
-   "htmlTitle": "Google Fusion Tables | not_cph_embassy_confidential.csv",
-   "link": "http://www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV-eRaZ-tBHsbnSjwuJUSQ0iqNhk",
-   "displayLink": "www.google.com",
-   "snippet": "He said Turkey had not invited India to the neighbors summit in deference to ......   response and development cooperation in the wake of the Haiti earthquake. ......   On December 21, President Museveni accused the Monitor of scaring away ......   Khalili appointed him as a secondary representative at the 2001 Bonn   conference.",
-   "htmlSnippet": "He said Turkey had not invited \u003cb\u003eIndia\u003c/b\u003e to the neighbors summit in deference to \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  response and development cooperation in the wake of the Haiti \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  On \u003cb\u003eDecember 21\u003c/b\u003e, President Museveni accused the Monitor of scaring away \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  Khalili appointed him as a secondary representative at the \u003cb\u003e2001\u003c/b\u003e Bonn \u003cbr\u003e  conference.",
-   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV...",
-   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV..."
   }
  ]
 }

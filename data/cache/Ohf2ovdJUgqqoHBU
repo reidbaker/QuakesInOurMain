@@ -5,12 +5,25 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 17 1931 Asia Earthquake",
+    "totalResults": "78500",
+    "searchTerms": "Sep 17 1931 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Sep 17 1931 Asia Earthquake",
-    "totalResults": "1",
+    "totalResults": "78500",
     "searchTerms": "Sep 17 1931 Asia Earthquake",
-    "count": 1,
+    "count": 10,
     "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
@@ -23,42 +36,286 @@
   "title": "Quakes-in-our-main"
  },
  "searchInformation": {
-  "searchTime": 0.36238,
-  "formattedSearchTime": "0.36",
-  "totalResults": "1",
-  "formattedTotalResults": "1"
+  "searchTime": 0.264642,
+  "formattedSearchTime": "0.26",
+  "totalResults": "78500",
+  "formattedTotalResults": "78,500"
  },
  "items": [
   {
    "kind": "customsearch#result",
-   "title": "AFP: Japan firms stop China operations after protests",
-   "htmlTitle": "AFP: Japan firms stop China operations after protests",
-   "link": "http://www.google.com/hostednews/afp/article/ALeqM5gYT803p_TKlkLuIS9YC4eTIMR5Cg?docId=CNG.58a78dcf403e84e65f0cd5ea1bddcf16.871",
-   "displayLink": "www.google.com",
-   "snippet": "By Kelly Olsen (AFP) ￢ﾀﾓ Sep 17, 2012 ... A new wave of demonstrations is   expected Tuesday, the anniversary of the 1931 \"Mukden incident\" that led to   Japan's ... A financial spat between Asia's two biggest economies could cast a   pall over growth ... in the aftermath of the world financial crisis and 2011   earthquake, it added.",
-   "htmlSnippet": "By Kelly Olsen (AFP) ￢ﾀﾓ \u003cb\u003eSep 17\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e A new wave of demonstrations is \u003cbr\u003e  expected Tuesday, the anniversary of the \u003cb\u003e1931\u003c/b\u003e &quot;Mukden incident&quot; that led to \u003cbr\u003e  Japan&#39;s \u003cb\u003e...\u003c/b\u003e A financial spat between \u003cb\u003eAsia&#39;s\u003c/b\u003e two biggest economies could cast a \u003cbr\u003e  pall over growth \u003cb\u003e...\u003c/b\u003e in the aftermath of the world financial crisis and 2011 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, it added.",
-   "formattedUrl": "www.google.com/.../afp/.../ALeqM5gYT803p_TKlkLuIS9YC4eTIMR5Cg?...",
-   "htmlFormattedUrl": "www.google.com/.../afp/.../ALeqM5gYT803p_TKlkLuIS9YC4eTIMR5Cg?...",
+   "title": "Damaging earthquake Myanmar ￢ﾀﾓ IRC : 26 fatalities and 231 people ...",
+   "htmlTitle": "Damaging \u003cb\u003eearthquake\u003c/b\u003e Myanmar ￢ﾀﾓ IRC : 26 fatalities and 231 people \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/11/11/extremely-dangerous-and-maybe-destructive-earthquake-in-central-myanmar/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 14, 2012 ... The best independent earthquake reporting site in the world .... (17) 8-feet high   brick walls of Khin U police station in Sagaing, and the ceiling ... the 1912 quake)   and the Sagaing fault (1931 and 1956 quakes). .... The river streaming nearby the   epicenter is the Irrawaddy river, one of the bigger rivers in Asia ...",
+   "htmlSnippet": "Nov 14, 2012 \u003cb\u003e...\u003c/b\u003e The best independent \u003cb\u003eearthquake\u003c/b\u003e reporting site in the world \u003cb\u003e....\u003c/b\u003e (\u003cb\u003e17\u003c/b\u003e) 8-feet high \u003cbr\u003e  brick walls of Khin U police station in Sagaing, and the ceiling \u003cb\u003e...\u003c/b\u003e the 1912 \u003cb\u003equake\u003c/b\u003e) \u003cbr\u003e  and the Sagaing fault (\u003cb\u003e1931\u003c/b\u003e and 1956 quakes). \u003cb\u003e....\u003c/b\u003e The river streaming nearby the \u003cbr\u003e  epicenter is the Irrawaddy river, one of the bigger rivers in \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tWYLiTIAXTwJ",
+   "formattedUrl": "earthquake-report.com/.../extremely-dangerous-and-maybe-destructive- earthquake-in-central-myanmar/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../extremely-dangerous-and-maybe-destructive- \u003cb\u003eearthquake\u003c/b\u003e-in-central-myanmar/",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/hostednews/afp/media/ALeqM5gEJB81H7seMgjEsxkTQyPtDc9fSg?docId=photo_1347868522249-2-0&size=s3"
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/11/web1.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "216",
-      "height": "148",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlHw0NssjTFhtJtZfPCQUb46daTv7nZ4VKrmxeyHaMuoFrruTjLgFqe6bO"
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwGlKZJCgb-YUZ79BPNNhEy2v9qAPX61K2Z8x9sDlJ8c8nLzxH1z-jLIqO"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Afghanistan ￢ﾀﾢ Albania ￢ﾀﾢ Algeria ￢ﾀﾢ Argentina ￢ﾀﾢ Armenia ￢ﾀﾢ Asia Minor ￢ﾀﾢ Atlantic ...   1931 04 27 - Zangezur Mountains, Armenia - Azerbaijan border - M 5.7 ... 1906   08 17 - Valparaiso, Chile - M 8.2 Fatalities 3,882; 1922 11 11 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Afghanistan ￢ﾀﾢ Albania ￢ﾀﾢ Algeria ￢ﾀﾢ Argentina ￢ﾀﾢ Armenia ￢ﾀﾢ \u003cb\u003eAsia\u003c/b\u003e Minor ￢ﾀﾢ Atlantic \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1931\u003c/b\u003e 04 27 - Zangezur Mountains, Armenia - Azerbaijan border - M 5.7 \u003cb\u003e...\u003c/b\u003e 1906 \u003cbr\u003e  08 \u003cb\u003e17\u003c/b\u003e - Valparaiso, Chile - M 8.2 Fatalities 3,882; 1922 11 11 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Many fatalities, hundreds injured, devastated buildings with trapped ...",
+   "htmlTitle": "Many fatalities, hundreds injured, devastated buildings with trapped \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/02/22/many-fatalities-hundreds-injured-devastated-buildings-with-trapped-people-in-christchurch-new-zealand-part-2/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 25, 2011 ... Twitpic picture from the earthquake damage in Christchurch New ... to leave from   RAAF Amberley, southwest of Brisbane, aboard a C-17 ... Many masonry   buildings have collapsed (those with minor damage in the September   Earthquake). .... earthquake in history ￢ﾀﾓ after the 256 people killed in the 1931 ...",
+   "htmlSnippet": "Jul 25, 2011 \u003cb\u003e...\u003c/b\u003e Twitpic picture from the \u003cb\u003eearthquake\u003c/b\u003e damage in Christchurch New \u003cb\u003e...\u003c/b\u003e to leave from \u003cbr\u003e  RAAF Amberley, southwest of Brisbane, aboard a C-\u003cb\u003e17\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Many masonry \u003cbr\u003e  buildings have collapsed (those with minor damage in the \u003cb\u003eSeptember\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e). \u003cb\u003e....\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e in history ￢ﾀﾓ after the 256 people killed in the \u003cb\u003e1931\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XBc4kMOz3lYJ",
+   "formattedUrl": "earthquake-report.com/.../many-fatalities-hundreds-injured-devastated- buildings-with-trapped-people-in-christchurch-new-zealand-part-2/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../many-fatalities-hundreds-injured-devastated- buildings-with-trapped-people-in-christchurch-new-zealand-part-2/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/02/christchurch-3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "268",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKf1A6DVtW_4CvVBpQr5kTxXdgmE_HXbVuR_3dN6937pFMeRRTxxFWNdg"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "JOY",
+      "nickname": "JOY",
+      "url": "http://www.formspring.me/lamelamiya",
+      "url_text": "JOY"
+     },
+     {
+      "fn": "Justin Arroyo"
+     },
+     {
+      "fn": "Vi@Travel Tips",
+      "url": "http://www.shorttraveltips.com/",
+      "url_text": "Vi@Travel Tips"
+     },
+     {
+      "fn": "Marius",
+      "nickname": "Marius",
+      "url": "http://iwanttovolunteertohelpwiththerescueinchchiamcapableofunderstandingthesituationandwilldowhatittakesforhowlongevermightbetoassistinanyhelpneededinanywaypossible/",
+      "url_text": "Marius"
+     },
+     {
+      "fn": "Justin Arroyo"
+     },
+     {
+      "fn": "glenn McCarthy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic ... July,   November, 1931 ... September, October, 1887 .... 7006400000000000000  4,000,000, Asian Flu, Worldwide, 01956-01-011956￢ﾀﾓ1958 ..... Bulletin of the   Atomic Scientists Oct 1970: 17. http://books.google.com/books?id=  FwcAAAAAMBAJ&pg=PA18.",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic \u003cb\u003e...\u003c/b\u003e July, \u003cbr\u003e  November, \u003cb\u003e1931\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e, October, 1887 \u003cb\u003e....\u003c/b\u003e 7006400000000000000\u003cbr\u003e  4,000,000, \u003cb\u003eAsian\u003c/b\u003e Flu, Worldwide, 01956-01-011956￢ﾀﾓ1958 \u003cb\u003e.....\u003c/b\u003e Bulletin of the \u003cbr\u003e  Atomic Scientists Oct 1970: \u003cb\u003e17\u003c/b\u003e. http://books.google.com/books?id=\u003cbr\u003e  FwcAAAAAMBAJ&amp;pg=PA18.",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Damaging Earthquakes Database 2010 ￢ﾀﾓ The Year in Review ...",
+   "htmlTitle": "Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2010 ￢ﾀﾓ The Year in Review \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/wp-content/uploads/2011/03/CATDAT-EQ-Data-1st-Annual-Review-2010-James-Daniell-03-03-2011.pdf",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Feb 27, 2011 ... that were entered into the CATDAT Damaging Earthquake Database in ..... 17.   Figure 8 ￢ﾀﾓ Median deaths per CATDAT v4.79 damaging .... September, causing   another high insured loss, but no structural ... Australia, in the form of 3 papers,   and the data was also used to form an Asia-Pacific comparison of ...",
+   "htmlSnippet": "Feb 27, 2011 \u003cb\u003e...\u003c/b\u003e that were entered into the CATDAT Damaging \u003cb\u003eEarthquake\u003c/b\u003e Database in \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e17\u003c/b\u003e. \u003cbr\u003e  Figure 8 ￢ﾀﾓ Median deaths per CATDAT v4.79 damaging \u003cb\u003e....\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e, causing \u003cbr\u003e  another high insured loss, but no structural \u003cb\u003e...\u003c/b\u003e Australia, in the form of 3 papers, \u003cbr\u003e  and the data was also used to form an \u003cb\u003eAsia\u003c/b\u003e-Pacific comparison of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cAitKwePwBgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110303154353+01'00'",
+      "author": "admin",
+      "creator": "Acrobat PDFMaker 7.0.7 fￃﾼr Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20110303154744+01'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes, Floods and Landslides",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e, Floods and Landslides",
+   "link": "http://www.icsu.org/icsu-asia/publications/science-planning-reports/science-plan-on-hazards-and-disasters/Earthquake-%20Floods%20-%20Landslides.pdf",
+   "displayLink": "www.icsu.org",
+   "snippet": "The new office will promote the development of science throughout Asia and the   ... 17. Predictability and Hazard Assessment. 17. Prevention and Mitigation. 17 ....   earthquake in Latur, western India, on 29 September 1993 claimed an estimated   .... July 1931. 3,700,000. China P Rep. July 1959. 2,000,000. China P Rep ...",
+   "htmlSnippet": "The new office will promote the development of science throughout \u003cb\u003eAsia\u003c/b\u003e and the \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003e17\u003c/b\u003e. Predictability and Hazard Assessment. \u003cb\u003e17\u003c/b\u003e. Prevention and Mitigation. \u003cb\u003e17\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in Latur, western India, on 29 \u003cb\u003eSeptember\u003c/b\u003e 1993 claimed an estimated \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e July \u003cb\u003e1931\u003c/b\u003e. 3,700,000. China P Rep. July 1959. 2,000,000. China P Rep \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gkywd6I53kEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.icsu.org/...asia/.../Earthquake-%20Floods%20-%20Landslides.pdf",
+   "htmlFormattedUrl": "www.icsu.org/...\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-%20Floods%20-%20Landslides.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081128230311-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20081129072011+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Capone goes to prison ￢ﾀﾔ History.com This Day in History ￢ﾀﾔ 10/17 ...",
+   "htmlTitle": "Capone goes to prison ￢ﾀﾔ History.com This Day in History ￢ﾀﾔ 10/\u003cb\u003e17\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/capone-goes-to-prison",
+   "displayLink": "www.history.com",
+   "snippet": "On this day in 1931, gangster Al Capone is sentenced to 11 years in prison for   tax evasion and fined ... 1906; Disaster: Loma Prieta earthquake strikes near San   Francisco, 1989; General Interest: Patriot victory at ... protestors stripped of their   medals, 1968; Vietnam War: President Johnson goes to Asia, 1966 .... September ...",
+   "htmlSnippet": "On this day in \u003cb\u003e1931\u003c/b\u003e, gangster Al Capone is sentenced to 11 years in prison for \u003cbr\u003e  tax evasion and fined \u003cb\u003e...\u003c/b\u003e 1906; Disaster: Loma Prieta \u003cb\u003eearthquake\u003c/b\u003e strikes near San \u003cbr\u003e  Francisco, 1989; General Interest: Patriot victory at \u003cb\u003e...\u003c/b\u003e protestors stripped of their \u003cbr\u003e  medals, 1968; Vietnam War: President Johnson goes to \u003cb\u003eAsia\u003c/b\u003e, 1966 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LAlxMRTJqC0J",
+   "formattedUrl": "www.history.com/this-day-in-history/capone-goes-to-prison",
+   "htmlFormattedUrl": "www.history.com/this-day-in-history/capone-goes-to-prison",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.history.com/images/media/video/tdih_oct17_broadband_1146965/tdih_oct17_broadband_small_150x100.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "80",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQE_DcOtBbdNTj3-jopddyNBcbUcL0BWBkOWDk6esDP6ZnpFrc1Gjk"
      }
     ],
     "metatags": [
      {
-      "og:title": "Japan firms stop China operations after protests",
-      "og:type": "article",
-      "og:url": "http://www.google.com/hostednews/afp/article/ALeqM5gYT803p_TKlkLuIS9YC4eTIMR5Cg?docId=CNG.58a78dcf403e84e65f0cd5ea1bddcf16.871",
-      "og:site_name": "Google News",
-      "og:image": "http://www.google.com/hostednews/afp/media/ALeqM5gEJB81H7seMgjEsxkTQyPtDc9fSg?docId=photo_1347868522249-2-0&size=s3"
+      "search_title": "Capone goes to prison ￢ﾀﾔ History.com This Day in History ￢ﾀﾔ 10/17/1931",
+      "asset_type_id": "6",
+      "is_sponsored": "N",
+      "network": "History",
+      "display_description": "On this day in 1931, gangster Al Capone is sentenced to 11 years in prison for tax evasion and fined $80,000, signaling the downfall of one of the most notorious criminals of the 1920s and 1930s.",
+      "asset_id": "1092218",
+      "viewport": "width=device-width",
+      "og:image": "http://www.history.com/images/media/video/tdih_oct17_broadband_1146965/tdih_oct17_broadband_small_150x100.jpg",
+      "og:title": "Capone goes to prison ￢ﾀﾔ History.com This Day in History ￢ﾀﾔ 10/17/1931",
+      "og:description": "On this day in 1931, gangster Al Capone is sentenced to 11 years in prison for tax evasion and fined $80,000, signaling the downfall of one of the most notorious criminals of the 1920s and 1930s.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/capone-goes-to-prison",
+      "og:type": "video",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video": "http://www.history.com/flash/VideoPlayer.swf?vid=16614643802",
+      "og:video:height": "300",
+      "og:video:width": "480"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Yunnan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 Yunnan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_Yunnan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "On 7 September 2012, a series of earthquakes occurred in Yiliang, Zhaotong, in   the southwest Chinese province of Yunnan. The two main shocks occurred at ...",
+   "htmlSnippet": "On 7 \u003cb\u003eSeptember\u003c/b\u003e 2012, a series of \u003cb\u003eearthquakes\u003c/b\u003e occurred in Yiliang, Zhaotong, in \u003cbr\u003e  the southwest Chinese province of Yunnan. The two main shocks occurred at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "N7NubPxdJOMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_Yunnan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_Yunnan_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKES: WHAT NEEDS TO BE DONE IN ASIA",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKES\u003c/b\u003e: WHAT NEEDS TO BE DONE IN \u003cb\u003eASIA\u003c/b\u003e",
+   "link": "http://www.scj.go.jp/en/sca/activities/conferences/conf_8_projects/pdf/n2.pdf",
+   "displayLink": "www.scj.go.jp",
+   "snippet": "Asia is seismically one of the most. Earthquake ... recent earthquake of 12th May   2008 in China, ... TOTALLY OPERATIONAL & TESTED IN SEPTEMBER. 2007 ...",
+   "htmlSnippet": "\u003cb\u003eAsia\u003c/b\u003e is seismically one of the most. \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e recent \u003cb\u003eearthquake\u003c/b\u003e of 12th May \u003cbr\u003e  2008 in China, \u003cb\u003e...\u003c/b\u003e TOTALLY OPERATIONAL &amp; TESTED IN \u003cb\u003eSEPTEMBER\u003c/b\u003e. 2007 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.scj.go.jp/en/sca/activities/conferences/conf_8_projects/pdf/n2.pdf",
+   "htmlFormattedUrl": "www.scj.go.jp/en/sca/activities/conferences/conf_8_projects/pdf/n2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "company": "NGRI",
+      "creationdate": "D:20080603091232+09'00'",
+      "creator": "PowerPoint ￧ﾔﾨ Acrobat PDFMaker 8.1",
+      "moddate": "D:20110421204712+09'00'",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An earthquake (also known as a quake, tremor or temblor) is the result of a ....   ground slope) and used as sensors to predict imminent or upcoming eruptions.   .... The number of seismic stations has increased from about 350 in 1931 to many   thousands today. ..... \"M7.5 Northern Peru Earthquake of 26 September 2005\" (  PDF).",
+   "htmlSnippet": "An \u003cb\u003eearthquake\u003c/b\u003e (also known as a \u003cb\u003equake\u003c/b\u003e, tremor or temblor) is the result of a \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  ground slope) and used as sensors to predict imminent or upcoming eruptions. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e The number of seismic stations has increased from about 350 in \u003cb\u003e1931\u003c/b\u003e to many \u003cbr\u003e  thousands today. \u003cb\u003e.....\u003c/b\u003e &quot;M7.5 Northern Peru \u003cb\u003eEarthquake\u003c/b\u003e of 26 \u003cb\u003eSeptember\u003c/b\u003e 2005&quot; (\u003cbr\u003e  PDF).",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e￬ﾧﾀ￬ﾧﾄ (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "￬ﾧﾀ￬ﾧﾄ￬ﾝﾀ ￬ﾞﾐ￬ﾗﾰ￬ﾠﾁ, ￬ﾝﾸ￪ﾳﾵ￬ﾠﾁ ￬ﾛﾐ￬ﾝﾸ￬ﾜﾼ￫ﾡﾜ ￬ﾝﾸ￭ﾕﾴ ￬ﾧﾀ￪ﾵﾬ￬ﾝﾘ ￭ﾑﾜ￫ﾩﾴ￬ﾝﾴ ￭ﾝﾔ￫ﾓﾤ￫ﾦﾬ￫ﾊﾔ ￭ﾘﾄ￬ﾃﾁ￬ﾝﾴ￫ﾋﾤ. ￭ﾝﾔ￭ﾞﾈ ￬ﾞﾐ￬ﾗﾰ￬ﾠﾁ ￬ﾛﾐ￬ﾝﾸ ￬ﾤﾑ ￫ﾋﾨ￬ﾸﾵ￫ﾩﾴ￬ﾗﾐ￬ﾄﾜ ￬ﾈﾜ￪ﾰﾄ￬ﾠﾁ￬ﾜﾼ￫ﾡﾜ ￫ﾰﾜ￬ﾃﾝ￭ﾕﾘ￫ﾊﾔ ￫ﾳﾀ￬ﾜﾄ ￬ﾞﾐ￬ﾲﾴ￫ﾥﾼ ￬ﾧﾀ￬ﾧﾄ￬ﾝﾴ￫ﾝﾼ￪ﾳﾠ ￭ﾕﾜ￫ﾋﾤ.",
+      "Output::gray1b": "- ￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ (￬ﾘﾁ￫ﾬﾸ)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/￬ﾧﾀ￬ﾧﾄ",
+      "Output::link2c": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "result_group_header": "￫ﾰﾱ￪ﾳﾼ￬ﾂﾬ￬ﾠﾄ",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
      }
     ]
    }

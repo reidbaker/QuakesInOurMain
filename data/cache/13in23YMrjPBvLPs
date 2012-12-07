@@ -5,12 +5,26 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 21 1948 South America Earthquake",
+    "totalResults": "253000",
+    "searchTerms": "Jan 21 1948 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Jan 21 1948 South America Earthquake",
-    "totalResults": "0",
+    "totalResults": "253000",
     "searchTerms": "Jan 21 1948 South America Earthquake",
     "count": 10,
+    "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
     "safe": "off",
@@ -18,10 +32,189 @@
    }
   ]
  },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
  "searchInformation": {
-  "searchTime": 0.320257,
-  "formattedSearchTime": "0.32",
-  "totalResults": "0",
-  "formattedTotalResults": "0"
- }
+  "searchTime": 0.298013,
+  "formattedSearchTime": "0.30",
+  "totalResults": "253000",
+  "formattedTotalResults": "253,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "6 days ago ... Did you know this earthquake happened on the same day in history ? ....   November 21 2012 ..... The longest mountain range is the Andes of South   America which is 7564 km .... are risking to find themselves without a new   contract from 1 January 2013 on. .... Turkmenistan, 1948 ￢ﾀﾓ Magnitude : 7.3 ￢ﾀﾓ   approx.",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e Did you know this \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in history ? \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  November \u003cb\u003e21\u003c/b\u003e 2012 \u003cb\u003e.....\u003c/b\u003e The longest mountain range is the Andes of \u003cb\u003eSouth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e which is 7564 km \u003cb\u003e....\u003c/b\u003e are risking to find themselves without a new \u003cbr\u003e  contract from 1 \u003cb\u003eJanuary\u003c/b\u003e 2013 on. \u003cb\u003e....\u003c/b\u003e Turkmenistan, \u003cb\u003e1948\u003c/b\u003e ￢ﾀﾓ Magnitude : 7.3 ￢ﾀﾓ \u003cbr\u003e  approx.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on January 21 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eJanuary 21\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/jan21.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "January 21, 1677 \"The first medical publication in America (pamphlet on ... from   Halifax for South Africa; more troop ships leave January 27 and February 21 ...   January 21, 1948 \"West Indies vs England, Test debut Walcott, Weekes & Jim   Laker\" .... reported dead after a pair of earthquakes in China's westernmost   province.",
+   "htmlSnippet": "January 21, 1677 &quot;The first medical publication in \u003cb\u003eAmerica\u003c/b\u003e (pamphlet on \u003cb\u003e...\u003c/b\u003e from \u003cbr\u003e  Halifax for \u003cb\u003eSouth\u003c/b\u003e Africa; more troop ships leave January 27 and February 21 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eJanuary 21\u003c/b\u003e, \u003cb\u003e1948\u003c/b\u003e &quot;West Indies vs England, Test debut Walcott, Weekes &amp; Jim \u003cbr\u003e  Laker&quot; \u003cb\u003e....\u003c/b\u003e reported dead after a pair of \u003cb\u003eearthquakes\u003c/b\u003e in China&#39;s westernmost \u003cbr\u003e  province.",
+   "cacheId": "_gMb-r0kLjcJ",
+   "formattedUrl": "www.datesinhistory.com/jan21.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003ejan21\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes and tsunamis in the United States - Wikipedia ...",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e and tsunamis in the United States - Wikipedia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The following is a list of notable earthquakes and/or tsunamis which had their ...   01868-10-21October 21, 1868, California, 6.8 - 7.0, 30, 1868 Hayward   earthquake ... 01886-08-31August 31, 1886, South Carolina, 7.3, 60-110, 1886   Charleston earthquake ... 1948, California, 6.0 - 6.5, 0, 1948 Desert Hot Springs   earthquake ...",
+   "htmlSnippet": "The following is a list of notable \u003cb\u003eearthquakes\u003c/b\u003e and/or tsunamis which had their \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  01868-10-\u003cb\u003e21\u003c/b\u003eOctober \u003cb\u003e21\u003c/b\u003e, 1868, California, 6.8 - 7.0, 30, 1868 Hayward \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 01886-08-31August 31, 1886, \u003cb\u003eSouth\u003c/b\u003e Carolina, 7.3, 60-110, 1886 \u003cbr\u003e  Charleston \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1948\u003c/b\u003e, California, 6.0 - 6.5, 0, \u003cb\u003e1948\u003c/b\u003e Desert Hot Springs \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nwZ6NjulnOwJ",
+   "formattedUrl": "en.wikipedia.org/.../List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "htmlFormattedUrl": "en.wikipedia.org/.../List_of_\u003cb\u003eearthquakes\u003c/b\u003e_and_tsunamis_in_the_United_States"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline 2011 to 2019: Events on the Calendar",
+   "htmlTitle": "Timeline 2011 to 2019: Events on the Calendar",
+   "link": "http://watch.org/showart.php3?idx=141357&rtn=&showsubj=1&mcat=1",
+   "displayLink": "watch.org",
+   "snippet": "A major earthquake, fitting the 14-year pattern, is expected in 2018 (more details   below). ... The years: 1906, 1920, 1934, 1948, 1962, 1976, 1990 and 2004. ....   Jan. 21- Blood-red moon - Tu B'shvat (visible: South America, Europe, Africa,   Asia, ...",
+   "htmlSnippet": "A major \u003cb\u003eearthquake\u003c/b\u003e, fitting the 14-year pattern, is expected in 2018 (more details \u003cbr\u003e  below). \u003cb\u003e...\u003c/b\u003e The years: 1906, 1920, 1934, \u003cb\u003e1948\u003c/b\u003e, 1962, 1976, 1990 and 2004. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eJan\u003c/b\u003e. \u003cb\u003e21\u003c/b\u003e- Blood-red moon - Tu B&#39;shvat (visible: \u003cb\u003eSouth America\u003c/b\u003e, Europe, Africa, \u003cbr\u003e  Asia, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zlqKSAFG0G4J",
+   "formattedUrl": "watch.org/showart.php3?idx=141357&rtn=&showsubj=1...",
+   "htmlFormattedUrl": "watch.org/showart.php3?idx=141357&amp;rtn=&amp;showsubj=1..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate any relevant   data ... 1916 Feb 06 21:51:19, 48.5N, 178.5E, 7.7, South of Rat Islands ... 1948   May 14 22:31:43.4, 54.71N, 160.88W, 7.5, Alaska Peninsula .... Accessibility ￂﾷ   FOIA ￂﾷ Privacy ￂﾷ Policies and Notices ￂﾷ In partnership with nehrp ￂﾷ Take Pride in   America ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate any relevant \u003cbr\u003e  data \u003cb\u003e...\u003c/b\u003e 1916 Feb 06 \u003cb\u003e21\u003c/b\u003e:51:19, 48.5N, 178.5E, 7.7, \u003cb\u003eSouth\u003c/b\u003e of Rat Islands \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1948\u003c/b\u003e \u003cbr\u003e  May 14 22:31:43.4, 54.71N, 160.88W, 7.5, Alaska Peninsula \u003cb\u003e....\u003c/b\u003e Accessibility &middot; \u003cbr\u003e  FOIA &middot; Privacy &middot; Policies and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1909 Jan 21-22, An earthquake in Morocco's northern region, near Tetouan,   killed up to 100. ... 1948 Oct 6, A 7.3 earthquake hit Ashgebat, Turkmenistan, and   killed an ... was rocked by an 8.6 earthquake, the largest ever recorded in North   America. ..... It was an intraplate earthquake along a thrust fault 300 miles south   of the ...",
+   "htmlSnippet": "1909 \u003cb\u003eJan 21\u003c/b\u003e-22, An \u003cb\u003eearthquake\u003c/b\u003e in Morocco&#39;s northern region, near Tetouan, \u003cbr\u003e  killed up to 100. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1948\u003c/b\u003e Oct 6, A 7.3 \u003cb\u003eearthquake\u003c/b\u003e hit Ashgebat, Turkmenistan, and \u003cbr\u003e  killed an \u003cb\u003e...\u003c/b\u003e was rocked by an 8.6 \u003cb\u003eearthquake\u003c/b\u003e, the largest ever recorded in North \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e It was an intraplate \u003cb\u003eearthquake\u003c/b\u003e along a thrust fault 300 miles \u003cb\u003esouth\u003c/b\u003e \u003cbr\u003e  of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 50,000 or More Deaths",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 50,000 or More Deaths",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/most_destructive.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Lqtp1s1LRLAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/most_destructive.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/most_destructive.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Volcanic Eruptions ￢ﾀﾔ Infoplease.com",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions ￢ﾀﾔ Infoplease.com",
+   "link": "http://www.infoplease.com/ipa/A0001439.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "9, Aleppo, Syria: deadly earthquake claimed lives of 230,000 people. ... 1556:   Jan. ... 1792: May 21, Kyushu Island, Japan: collapse of old lava dome during ...   1948: Oct. 5, Ashgabat, Turkmenistan: magnitude 7.3 earthquake destroyed the   city, .... 14, South America: Earthquake with 7.7 magnitude kills at least two   people ...",
+   "htmlSnippet": "9, Aleppo, Syria: deadly \u003cb\u003eearthquake\u003c/b\u003e claimed lives of 230,000 people. \u003cb\u003e...\u003c/b\u003e 1556: \u003cbr\u003e  \u003cb\u003eJan\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 1792: May \u003cb\u003e21\u003c/b\u003e, Kyushu Island, Japan: collapse of old lava dome during \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1948\u003c/b\u003e: Oct. 5, Ashgabat, Turkmenistan: magnitude 7.3 \u003cb\u003eearthquake\u003c/b\u003e destroyed the \u003cbr\u003e  city, \u003cb\u003e....\u003c/b\u003e 14, \u003cb\u003eSouth America\u003c/b\u003e: \u003cb\u003eEarthquake\u003c/b\u003e with 7.7 magnitude kills at least two \u003cbr\u003e  people \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eiPTxuWU3LMJ",
+   "formattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "htmlFormattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "chunk": "ART",
+      "idx": "Disasters",
+      "isub": "earthquake in (1755)",
+      "title": "Earthquakes and Volcanic Eruptions",
+      "waif": "Earthquakes",
+      "uniqid": "A0001439",
+      "parent": "A0001437",
+      "subchannel": "world",
+      "channel": "world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wyoming Earthquake History",
+   "htmlTitle": "Wyoming \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/wyoming/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... There were a number of aftershocks felt at Jackson on January 26 and 27. ... near   the south entrance to Yellowstone Park on January 14, 1936. ... The region south   of Yellowstone Park was disturbed again on February 23, 1948. ... The same   general area felt a magnitude 4.5 shock on August 21, 1964.",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e There were a number of aftershocks felt at Jackson on \u003cb\u003eJanuary\u003c/b\u003e 26 and 27. \u003cb\u003e...\u003c/b\u003e near \u003cbr\u003e  the \u003cb\u003esouth\u003c/b\u003e entrance to Yellowstone Park on \u003cb\u003eJanuary\u003c/b\u003e 14, 1936. \u003cb\u003e...\u003c/b\u003e The region \u003cb\u003esouth\u003c/b\u003e \u003cbr\u003e  of Yellowstone Park was disturbed again on February 23, \u003cb\u003e1948\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The same \u003cbr\u003e  general area felt a magnitude 4.5 shock on August \u003cb\u003e21\u003c/b\u003e, 1964.",
+   "cacheId": "tcL1A_vgJQgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/wyoming/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/wyoming/history.php"
+  }
+ ]
 }

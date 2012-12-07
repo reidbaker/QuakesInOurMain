@@ -5,12 +5,25 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 26 2001 India Earthquake",
+    "totalResults": "641000",
+    "searchTerms": "Jan 26 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Jan 26 2001 India Earthquake",
-    "totalResults": "5",
+    "totalResults": "641000",
     "searchTerms": "Jan 26 2001 India Earthquake",
-    "count": 5,
+    "count": 10,
     "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
@@ -23,167 +36,332 @@
   "title": "Quakes-in-our-main"
  },
  "searchInformation": {
-  "searchTime": 0.524333,
-  "formattedSearchTime": "0.52",
-  "totalResults": "5",
-  "formattedTotalResults": "5"
+  "searchTime": 0.246052,
+  "formattedSearchTime": "0.25",
+  "totalResults": "641000",
+  "formattedTotalResults": "641,000"
  },
  "items": [
   {
    "kind": "customsearch#result",
-   "title": "Hot Searches - Google",
-   "htmlTitle": "Hot Searches - Google",
-   "link": "http://www.google.com/trends/hottrends",
-   "displayLink": "www.google.com",
-   "snippet": "United States. India. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use ...   photo essay oregonlive com the macy's holiday parade 2012 featured 26   inflatable ... instead dialog more with the public before the legislature resumes in   january ...",
-   "htmlSnippet": "United States. \u003cb\u003eIndia\u003c/b\u003e. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  photo essay oregonlive com the macy&#39;s holiday parade 2012 featured \u003cb\u003e26\u003c/b\u003e \u003cbr\u003e  inflatable \u003cb\u003e...\u003c/b\u003e instead dialog more with the public before the legislature resumes in \u003cbr\u003e  \u003cb\u003ejanuary\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "uvKavSff1xUJ",
-   "formattedUrl": "www.google.com/trends/hottrends",
-   "htmlFormattedUrl": "www.google.com/trends/hottrends",
+   "title": "2001 Gujarat earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2001 Gujarat earthquake occurred on January 26, 2001, India's 51st   Republic Day, at 08:46 AM local time (3:16 UTC) and lasted for over two minutes.",
+   "htmlSnippet": "The 2001 Gujarat \u003cb\u003eearthquake\u003c/b\u003e occurred on \u003cb\u003eJanuary 26, 2001\u003c/b\u003e, \u003cb\u003eIndia&#39;s\u003c/b\u003e 51st \u003cbr\u003e  Republic Day, at 08:46 AM local time (3:16 UTC) and lasted for over two minutes.",
+   "cacheId": "LtzX9S90JqYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e2001\u003c/b\u003e_Gujarat_\u003cb\u003eearthquake\u003c/b\u003e",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/trends/resources/2327917647-google-icon.png"
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2001_Gujarat_earthquake.jpg/240px-2001_Gujarat_earthquake.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "102",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3yTXNtH_-TAOlH7VN5H-YB12XPPIGpUNtjnutMt3YPxciVY44kh7V"
-     }
-    ],
-    "metatags": [
-     {
-      "og:title": "Google Hot Searches",
-      "og:type": "article",
-      "og:url": "http://www.google.com/trends/hottrends",
-      "og:image": "http://www.google.com/trends/resources/2327917647-google-icon.png",
-      "og:description": "Explore trending search topics with Google Hot Searches."
+      "width": "192",
+      "height": "146",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTHda-3a5sGFabOisVtMRYCYGYvnKxmmbPv9njhrKDcTcig8Zo8QBVlW_"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US6637165 - Raised floor system and support apparatus ...",
-   "htmlTitle": "Patent US6637165 - Raised floor system and support apparatus \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US6637165",
-   "displayLink": "www.google.com",
-   "snippet": "US4124324, Jan 16, 1978, Nov 7, 1978, Indian Head Inc. Modular cable ...   US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular earthquake ...   US6329591, Apr 26, 2001, Dec 11, 2001, Pent Assemblies, Inc. Wall panel   assembly ...",
-   "htmlSnippet": "US4124324, \u003cb\u003eJan\u003c/b\u003e 16, 1978, Nov 7, 1978, \u003cb\u003eIndian\u003c/b\u003e Head Inc. Modular cable \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6329591, Apr \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, Dec 11, \u003cb\u003e2001\u003c/b\u003e, Pent Assemblies, Inc. Wall panel \u003cbr\u003e  assembly \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US6637165",
-   "htmlFormattedUrl": "www.google.com/patents/US6637165",
+   "title": "The January 26, 2001 Bhuj Earthquake, India .",
+   "htmlTitle": "The \u003cb\u003eJanuary 26, 2001\u003c/b\u003e Bhuj \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003eIndia\u003c/b\u003e .",
+   "link": "http://cires.colorado.edu/~bilham/gif_images/2001Bhuj.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "Nowrosjee Wadia College, Pune, India. The Mw7.6 Bhuj earthquake that shook   the Indian Province of Gujarat on the morning of. January 26, 2001 was the most ...",
+   "htmlSnippet": "Nowrosjee Wadia College, Pune, \u003cb\u003eIndia\u003c/b\u003e. The Mw7.6 Bhuj \u003cb\u003eearthquake\u003c/b\u003e that shook \u003cbr\u003e  the \u003cb\u003eIndian\u003c/b\u003e Province of Gujarat on the morning of. \u003cb\u003eJanuary 26, 2001\u003c/b\u003e was the most \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Tzc3FKKHFFEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/gif_images/2001Bhuj.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/gif_images/\u003cb\u003e2001\u003c/b\u003eBhuj.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "D:20010306175503",
+      "title": "16Bhuj",
+      "author": "roger bilham",
+      "producer": "Acrobat PDFWriter 4.05  for Power Macintosh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 01/26/2001 Bhuj, India, Earthquake: Intraplate or Interplate?",
+   "htmlTitle": "The \u003cb\u003e01/26/2001\u003c/b\u003e Bhuj, \u003cb\u003eIndia\u003c/b\u003e, \u003cb\u003eEarthquake\u003c/b\u003e: Intraplate or Interplate?",
+   "link": "http://web.missouri.edu/~yangyo/my-pub/Li-BHUJ.pdf",
+   "displayLink": "web.missouri.edu",
+   "snippet": "hampered studies of intraplate earthquakes. Thus the Mw= 7.7 earthquake near   Bhuj in western. India, which occurred on 1/26/2001, has stimu- ...",
+   "htmlSnippet": "hampered studies of intraplate \u003cb\u003eearthquakes\u003c/b\u003e. Thus the Mw= 7.7 \u003cb\u003eearthquake\u003c/b\u003e near \u003cbr\u003e  Bhuj in western. \u003cb\u003eIndia\u003c/b\u003e, which occurred on \u003cb\u003e1/26/2001\u003c/b\u003e, has stimu- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HABaiL9_h-AJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "web.missouri.edu/~yangyo/my-pub/Li-BHUJ.pdf",
+   "htmlFormattedUrl": "web.missouri.edu/~yangyo/my-pub/Li-BHUJ.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "Mian Liu",
+      "creator": "Acrobat PDFMaker 5.0 for Word",
+      "moddate": "D:20030103122513-08'00'",
+      "title": "Title:",
+      "creationdate": "D:20030103122112-08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKE IN INDIA - 1-26-2001",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e IN \u003cb\u003eINDIA\u003c/b\u003e - \u003cb\u003e1-26-2001\u003c/b\u003e",
+   "link": "http://www.greatdreams.com/indiaq1.htm",
+   "displayLink": "www.greatdreams.com",
+   "snippet": "Jan 26, 2001 ... Total path of 11 Aug 99 eclipse: http://www.greatdreams.com/frmap99.gif. Map of   Western India showing location of 1-26-2001 earthquake ...",
+   "htmlSnippet": "Jan 26, 2001 \u003cb\u003e...\u003c/b\u003e Total path of 11 Aug 99 eclipse: http://www.greatdreams.com/frmap99.gif. Map of \u003cbr\u003e  Western \u003cb\u003eIndia\u003c/b\u003e showing location of \u003cb\u003e1-26-2001 earthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JawgA2-aNSEJ",
+   "formattedUrl": "www.greatdreams.com/indiaq1.htm",
+   "htmlFormattedUrl": "www.greatdreams.com/\u003cb\u003eindia\u003c/b\u003eq1.htm",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=B6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://www.greatdreams.com/indiaqk.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT83VrHqP_rF5CVBSaNLSbzFq7V5chm0Bt5Efc2uT6TBEPwUJ-_1g7xCw"
-     }
-    ],
-    "book": [
-     {
-      "description": "An article support apparatus for use with a raised floor system including a plurality of support pedestals, stringer elements and floor panels, the support apparatus includes an article support...",
-      "url": "http://www.google.com/patents/US6637165?utm_source=gb-gplus-share",
-      "name": "Patent US6637165 - Raised floor system and support apparatus",
-      "image": "http://www.google.com/patents?id=B6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US6637165",
-      "title": "Patent US6637165 - Raised floor system and support apparatus",
-      "og:title": "Patent US6637165 - Raised floor system and support apparatus",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=B6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "239",
+      "height": "211",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXKhmQ3VkUOXYfkkecXecYz25wGvvkX9gKolezjt9DaclZ98OLw0PSyedd"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US7959019 - Suspended cable support system - Google ...",
-   "htmlTitle": "Patent US7959019 - Suspended cable support system - Google \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US7959019",
-   "displayLink": "www.google.com",
-   "snippet": "US4124324, Jan 16, 1978, Nov 7, 1978, Indian Head Inc. Modular cable trench ...   US4765495, Jan 26, 1984, Aug 23, 1988, Knock down storage system and ...   US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular earthquake ...   US6329591, Apr 26, 2001, Dec 11, 2001, Pent Assemblies, Inc. Wall panel   assembly ...",
-   "htmlSnippet": "US4124324, \u003cb\u003eJan\u003c/b\u003e 16, 1978, Nov 7, 1978, \u003cb\u003eIndian\u003c/b\u003e Head Inc. Modular cable trench \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4765495, \u003cb\u003eJan 26\u003c/b\u003e, 1984, Aug 23, 1988, Knock down storage system and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6329591, Apr \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, Dec 11, \u003cb\u003e2001\u003c/b\u003e, Pent Assemblies, Inc. Wall panel \u003cbr\u003e  assembly \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US7959019",
-   "htmlFormattedUrl": "www.google.com/patents/US7959019",
+   "title": "Gujarat Earthquake January 2001",
+   "htmlTitle": "Gujarat \u003cb\u003eEarthquake January 2001\u003c/b\u003e",
+   "link": "http://cires.colorado.edu/~bilham/Gujarat2001.html",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "26 January 2001 Bhuj earthquake, Gujarat, India. Geodetic data from the   epicentral region acquired in February were remeasured by CMMACS,   Bangalore and ...",
+   "htmlSnippet": "\u003cb\u003e26 January 2001\u003c/b\u003e Bhuj \u003cb\u003eearthquake\u003c/b\u003e, Gujarat, \u003cb\u003eIndia\u003c/b\u003e. Geodetic data from the \u003cbr\u003e  epicentral region acquired in February were remeasured by CMMACS, \u003cbr\u003e  Bangalore and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pWA0NqdprXUJ",
+   "formattedUrl": "cires.colorado.edu/~bilham/Gujarat2001.html",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Gujarat\u003cb\u003e2001\u003c/b\u003e.html",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://cires.colorado.edu/~bilham/gif_images/BhujGeodesyJuly2001.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "132",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTjb5x3Eyx4kVZ-ii1sj9_neFf7kqYIaGs9Suu9ZWzHaf7pqvN46tz3N0"
-     }
-    ],
-    "book": [
-     {
-      "description": "According to an aspect of the present disclosure, a suspended cable support system is provided. The suspended cable support system includes a plurality of suspension rods; and at least one...",
-      "url": "http://www.google.com/patents/US7959019?utm_source=gb-gplus-share",
-      "name": "Patent US7959019 - Suspended cable support system",
-      "image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US7959019",
-      "title": "Patent US7959019 - Suspended cable support system",
-      "og:title": "Patent US7959019 - Suspended cable support system",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "247",
+      "height": "204",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-qmimdgSBckUEjeyaX53RepoxBu773yJ0Wrzi5qgnheelOKgoa5peKA"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "link": "http://www.google.com/intl/en_uk/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "2001. January. We announce the hiring of Silicon Valley veteran Wayne Rosing   ... Google.com is available in 26 languages. ... We spotlight our new engineering   offices in Bangalore and Hyderabad, India, with a visit from Sergey and Larry. .....   Following both the Sichuan earthquake in China and Cyclone Nargis in Burma, ...",
-   "htmlSnippet": "\u003cb\u003e2001\u003c/b\u003e. \u003cb\u003eJanuary\u003c/b\u003e. We announce the hiring of Silicon Valley veteran Wayne Rosing \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Google.com is available in \u003cb\u003e26\u003c/b\u003e languages. \u003cb\u003e...\u003c/b\u003e We spotlight our new engineering \u003cbr\u003e  offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e, with a visit from Sergey and Larry. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone Nargis in Burma, \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Uz9ka1X37zwJ",
-   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
+   "title": "Indian Gujarat Earthquake, 26 January 2001 - YouTube",
+   "htmlTitle": "\u003cb\u003eIndian\u003c/b\u003e Gujarat \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003e26 January 2001\u003c/b\u003e - YouTube",
+   "link": "http://www.youtube.com/watch?v=th-m46619jE",
+   "displayLink": "www.youtube.com",
+   "snippet": "Aug 7, 2010 ... by Marco Petruzzelli On 26 January 2001 an earthquake registering 7.9 on the   Richter scale devastated the Indian state of Gujarat. It was the ...",
+   "htmlSnippet": "Aug 7, 2010 \u003cb\u003e...\u003c/b\u003e by Marco Petruzzelli On \u003cb\u003e26 January 2001\u003c/b\u003e an \u003cb\u003eearthquake\u003c/b\u003e registering 7.9 on the \u003cbr\u003e  Richter scale devastated the \u003cb\u003eIndian\u003c/b\u003e state of Gujarat. It was the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eoHDhpl1s4EJ",
+   "formattedUrl": "www.youtube.com/watch?v=th-m46619jE",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=th-m46619jE",
    "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.ytimg.com/vi/th-m46619jE/mqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=th-m46619jE",
+      "name": "Indian Gujarat Earthquake, 26 January 2001",
+      "description": "by Marco Petruzzelli On 26 January 2001 an earthquake registering 7.9 on the Richter scale devastated the Indian state of Gujarat. It was the second largest ...",
+      "duration": "PT1M27S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i1.ytimg.com/vi/th-m46619jE/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/th-m46619jE?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "640",
+      "height": "480",
+      "isfamilyfriendly": "False",
+      "regionsallowed": "BD,BE,BF,BG,BA,BB,WF,BL,BM,BN,BO,BH,BI,BJ,BT,JM,BV,BW,WS,BR,BS,JE,BY,BZ,RU,RW,RS,TL,RE,TM,TJ,RO,TK,GW,GU,GT,GS,GR,GQ,GP,JP,GY,GG,GF,GE,GD,GB,GA,GN,GM,GL,GI,GH,OM,TN,IL,JO,IT,HR,HT,HU,HK,HN,HM,VE,PR..."
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/REPORTERMARCO"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "144",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbv0Lpjd6HaCHlx8Q-WIqY5I5AXdMxaA-lKLhk1RFViFKH7sL8G_bYngtn"
+     }
+    ],
     "metatags": [
      {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+      "title": "Indian Gujarat Earthquake, 26 January 2001",
+      "og:url": "http://www.youtube.com/watch?v=th-m46619jE",
+      "og:title": "Indian Gujarat Earthquake, 26 January 2001",
+      "og:description": "by Marco Petruzzelli On 26 January 2001 an earthquake registering 7.9 on the Richter scale devastated the Indian state of Gujarat. It was the second largest ...",
+      "og:type": "video",
+      "og:image": "http://i1.ytimg.com/vi/th-m46619jE/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/th-m46619jE?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "640",
+      "og:video:height": "480",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "640",
+      "twitter:player:height": "480",
+      "og:restrictions:age": "18+",
+      "attribution": "REPORTERMARCO%2Buser/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i1.ytimg.com/vi/th-m46619jE/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "link": "http://www.google.com/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "2001. January. We announce the hire of Silicon Valley veteran Wayne Rosing as   our first ... Google.com is available in 26 languages. ... We spotlight our new   engineering offices in Bangalore and Hyderabad, India with a visit from Sergey   and Larry. ..... Following both the Sichuan earthquake in China and Cyclone   Nargis in ...",
-   "htmlSnippet": "\u003cb\u003e2001\u003c/b\u003e. \u003cb\u003eJanuary\u003c/b\u003e. We announce the hire of Silicon Valley veteran Wayne Rosing as \u003cbr\u003e  our first \u003cb\u003e...\u003c/b\u003e Google.com is available in \u003cb\u003e26\u003c/b\u003e languages. \u003cb\u003e...\u003c/b\u003e We spotlight our new \u003cbr\u003e  engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e with a visit from Sergey \u003cbr\u003e  and Larry. \u003cb\u003e.....\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone \u003cbr\u003e  Nargis in \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Ex81iG3sJZAJ",
-   "formattedUrl": "www.google.com/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "title": "Earthquake Hazards Program",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Hazards Program",
+   "link": "http://neic.usgs.gov/neis/eq_depot/2001/eq_010126/",
+   "displayLink": "neic.usgs.gov",
+   "snippet": "Historic Earthquakes. Magnitude 7.7 INDIA 2001 January 26 03:16:40 UTC.   World Location Regional Location. Location Map ￂﾷ Historical Seismicity ￂﾷ   Theoretical ...",
+   "htmlSnippet": "Historic \u003cb\u003eEarthquakes\u003c/b\u003e. Magnitude 7.7 \u003cb\u003eINDIA 2001 January 26\u003c/b\u003e 03:16:40 UTC. \u003cbr\u003e  World Location Regional Location. Location Map &middot; Historical Seismicity &middot; \u003cbr\u003e  Theoretical \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wMICfLIF4PwJ",
+   "formattedUrl": "neic.usgs.gov/neis/eq_depot/2001/eq_010126/",
+   "htmlFormattedUrl": "neic.usgs.gov/neis/eq_depot/\u003cb\u003e2001\u003c/b\u003e/eq_010126/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/2001/2001_01_26_loc.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "113",
+      "height": "113",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoYs0G5CoFmqO_Xbu3-iFbfC7dLb0TMYpEpsbAB7hM9VxcpO6n0lSu"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 27, 2011 ... M 7.6ￃﾂ ￃﾂ 2001ￃﾂ ￃﾂ ￃﾂ Depth 23.3 kmￃﾂ ￃﾂ ￃﾂ India (Gujarat) ￢ﾀﾜ killing 20,103 people.   Gujarat January 26 earthquake 2001 - - image courtesy IRC ...",
+   "htmlSnippet": "Jan 27, 2011 \u003cb\u003e...\u003c/b\u003e M 7.6ￃﾂ ￃﾂ \u003cb\u003e2001ￃﾂ\u003c/b\u003e ￃﾂ ￃﾂ Depth 23.3 kmￃﾂ ￃﾂ ￃﾂ \u003cb\u003eIndia\u003c/b\u003e (Gujarat) ￢ﾀﾜ killing 20,103 people. \u003cbr\u003e  Gujarat \u003cb\u003eJanuary 26 earthquake 2001\u003c/b\u003e - - image courtesy IRC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/\u003cb\u003e26\u003c/b\u003e/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-\u003cb\u003eindia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Josￃﾃￂﾩ Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Bhuj, India, earthquake of January 26, 2001",
+   "htmlTitle": "The Bhuj, \u003cb\u003eIndia\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eJanuary 26, 2001\u003c/b\u003e",
+   "link": "http://www.geerassociation.org/GEER_Post%20EQ%20Reports/Bhuj_2001/Introduction.htm",
+   "displayLink": "www.geerassociation.org",
+   "snippet": "Jan 26, 2001 ... On January 26, 2001 at 8:46 AM (local time), a magnitude Mw 7.7 earthquake   struck the Kachchh area in Gujarat, India. This is the most ...",
+   "htmlSnippet": "Jan 26, 2001 \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eJanuary 26, 2001\u003c/b\u003e at 8:46 AM (local time), a magnitude Mw 7.7 \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  struck the Kachchh area in Gujarat, \u003cb\u003eIndia\u003c/b\u003e. This is the most \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7Rv6SMPt8_IJ",
+   "formattedUrl": "www.geerassociation.org/GEER.../Bhuj_2001/Introduction.htm",
+   "htmlFormattedUrl": "www.geerassociation.org/GEER.../Bhuj_\u003cb\u003e2001\u003c/b\u003e/Introduction.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.geerassociation.org/GEER_Post%20EQ%20Reports/Bhuj_2001/image002.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "254",
+      "height": "198",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDDzo4vg7HPjBRuRDEQiIhIrJUPuhWFNHds7kv4AAp4BQwYWlKdAfY7jVw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in India",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://www.careusa.org/newsroom/specialreports/indiaeq/",
+   "displayLink": "www.careusa.org",
+   "snippet": "Earthquakes in India. Summary of Events and Activities. It has been two years   since the January 26, 2001, earthquake in India that left death and devastation in ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e. Summary of Events and Activities. It has been two years \u003cbr\u003e  since the \u003cb\u003eJanuary 26, 2001\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e that left death and devastation in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x9DxmSXyZpAJ",
+   "formattedUrl": "www.careusa.org/newsroom/specialreports/indiaeq/",
+   "htmlFormattedUrl": "www.careusa.org/newsroom/specialreports/\u003cb\u003eindia\u003c/b\u003eeq/",
    "pagemap": {
     "metatags": [
      {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+      "date": "October 16, 2003",
+      "lastupdate": "October 16, 2003",
+      "author": "webmaster@care.org",
+      "copyright": "This Site Copyright 2006 CARE USA",
+      "rating": "general"
      }
     ]
    }

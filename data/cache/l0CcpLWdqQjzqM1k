@@ -5,12 +5,26 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 1 1968 Asia Earthquake",
+    "totalResults": "181000",
+    "searchTerms": "Apr 1 1968 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Apr 1 1968 Asia Earthquake",
-    "totalResults": "0",
+    "totalResults": "181000",
     "searchTerms": "Apr 1 1968 Asia Earthquake",
     "count": 10,
+    "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
     "safe": "off",
@@ -18,10 +32,318 @@
    }
   ]
  },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
  "searchInformation": {
-  "searchTime": 0.383893,
-  "formattedSearchTime": "0.38",
-  "totalResults": "0",
-  "formattedTotalResults": "0"
- }
+  "searchTime": 0.255203,
+  "formattedSearchTime": "0.26",
+  "totalResults": "181000",
+  "formattedTotalResults": "181,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "6 days ago ... One of man's persistent fears about earthquakes is that the Earth ... Movie about   Asian tsunami shuns 'disaster' label .... But Finance Minister Bill English said in   April the Government's ... USA (Illinois), 1968 - Magnitude : 5.5 ...",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eOne\u003c/b\u003e of man&#39;s persistent fears about \u003cb\u003eearthquakes\u003c/b\u003e is that the Earth \u003cb\u003e...\u003c/b\u003e Movie about \u003cbr\u003e  \u003cb\u003eAsian\u003c/b\u003e tsunami shuns &#39;disaster&#39; label \u003cb\u003e....\u003c/b\u003e But Finance Minister Bill English said in \u003cbr\u003e  \u003cb\u003eApril\u003c/b\u003e the Government&#39;s \u003cb\u003e...\u003c/b\u003e USA (Illinois), \u003cb\u003e1968\u003c/b\u003e - Magnitude : 5.5 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the 11 March 2011 earthquake in the Tￅﾍhoku region, see 2011 Tￅﾍhoku   earthquake ... 8.4 MK(Kawasumi scale), Hakuhou Nankai earthquake, ￧ﾙﾽ￩ﾳﾳ￥ﾍﾗ￦ﾵﾷ  ￥ﾜﾰ￩ﾜﾇ .... was caused by the Yaeyama Great Earthquake at about 8 A.M. on April.   ...... \"8.9 Earthquake in Japan, Tsunami Warning to Russia, Taiwan and South   East Asia\".",
+   "htmlSnippet": "For the 11 March 2011 \u003cb\u003eearthquake\u003c/b\u003e in the Tￅﾍhoku region, see 2011 Tￅﾍhoku \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 8.4 MK(Kawasumi scale), Hakuhou Nankai \u003cb\u003eearthquake\u003c/b\u003e, ￧ﾙﾽ￩ﾳﾳ￥ﾍﾗ￦ﾵﾷ\u003cbr\u003e  ￥ﾜﾰ￩ﾜﾇ \u003cb\u003e....\u003c/b\u003e was caused by the Yaeyama Great \u003cb\u003eEarthquake\u003c/b\u003e at about 8 A.M. on \u003cb\u003eApril\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e &quot;8.9 \u003cb\u003eEarthquake\u003c/b\u003e in Japan, Tsunami Warning to Russia, Taiwan and South \u003cbr\u003e  East \u003cb\u003eAsia\u003c/b\u003e&quot;.",
+   "cacheId": "Mwo4VdUsjrIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/b/b7/Ariake_sea_coastline.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgUSi6tz4_CcIWxkUBL_mC6J2wVZVHuvjdxYHswR6tF8Un_QUC5XrdhSLy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive 8.9 aftershock / earthquake along the Japanese coast",
+   "htmlTitle": "Massive 8.9 aftershock / \u003cb\u003eearthquake\u003c/b\u003e along the Japanese coast",
+   "link": "http://earthquake-report.com/2011/03/11/massive-earthquake-out-of-the-honshu-coast-japan/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: April 4, 2011 at 9:25 am by By Armand Vervaeck and James Daniell.   This is part 1 of our ongoing story on the March 9, M 7.3 earthquake who initiated   ..... 1968 8.3 52 ..... or higher with emphasis to earthquakes in European and   Asian / Middle East sphere (4 and up) and a lot of the rest of the world (5 and up).",
+   "htmlSnippet": "Last update: \u003cb\u003eApril\u003c/b\u003e 4, 2011 at 9:25 am by By Armand Vervaeck and James Daniell. \u003cbr\u003e  This is part \u003cb\u003e1\u003c/b\u003e of our ongoing story on the March 9, M 7.3 \u003cb\u003eearthquake\u003c/b\u003e who initiated \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1968\u003c/b\u003e 8.3 52 \u003cb\u003e.....\u003c/b\u003e or higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cbr\u003e  \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a lot of the rest of the world (5 and up).",
+   "cacheId": "-vLtJUBtx50J",
+   "formattedUrl": "earthquake-report.com/.../11/massive-earthquake-out-of-the-honshu-coast- japan/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e11\u003c/b\u003e/massive-\u003cb\u003eearthquake\u003c/b\u003e-out-of-the-honshu-coast- japan/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/03/honshu-11-03-2011.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "309",
+      "height": "163",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvLKfPpZRnNdjBVQKCY2PHhJlsrYnVWqP865ULG6Ihk8a1RPsCkaL3-9Q"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "lorena",
+      "nickname": "lorena"
+     },
+     {
+      "fn": "Kristy Schwenk"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Kristy Schwenk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. Earthquakes of   ... see 1906 Ecuador-Colombia earthquake, 1, ￢ﾈﾒ81.5, 1,000, 8.8, Mw, USGS .....   see 1968 Tokachi earthquake, 40.90, 143.35, 8.3, Mw, USGS ..... A note on the   Kangra Ms = 7.8 earthquake of April 4, 1905, Current Science, 79, 45￢ﾀﾓ50.",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003eEarthquakes\u003c/b\u003e of \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e see 1906 Ecuador-Colombia \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e1\u003c/b\u003e, ￢ﾈﾒ81.5, 1,000, 8.8, Mw, USGS \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  see \u003cb\u003e1968\u003c/b\u003e Tokachi \u003cb\u003eearthquake\u003c/b\u003e, 40.90, 143.35, 8.3, Mw, USGS \u003cb\u003e.....\u003c/b\u003e A note on the \u003cbr\u003e  Kangra Ms = 7.8 \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eApril\u003c/b\u003e 4, 1905, Current Science, 79, 45￢ﾀﾓ50.",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong aftershocks (seashocks) in the northern part of Honshu ...",
+   "htmlTitle": "Very strong aftershocks (seashocks) in the northern part of Honshu \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/04/21/very-strong-aftershocks-seashocks-in-the-northern-part-of-honshu/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: April 21, 2011 at 3:40 am by By Armand Vervaeck and James   Daniell ... 9 in 1667 A.D., a magnitude 8.2 in 1952, a 1968 quake measuring 8.3   Mw, and one in 2008 ... April 21 2011 earthquake (aftershocks) hazard map ... 4.0   or higher with emphasis to earthquakes in European and Asian / Middle East   sphere ...",
+   "htmlSnippet": "Last update: \u003cb\u003eApril\u003c/b\u003e 21, 2011 at 3:40 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e...\u003c/b\u003e 9 in 1667 A.D., a magnitude 8.2 in 1952, a \u003cb\u003e1968 quake\u003c/b\u003e measuring 8.3 \u003cbr\u003e  Mw, and \u003cb\u003eone\u003c/b\u003e in 2008 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 21 2011 \u003cb\u003eearthquake\u003c/b\u003e (aftershocks) hazard map \u003cb\u003e...\u003c/b\u003e 4.0 \u003cbr\u003e  or higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East \u003cbr\u003e  sphere \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5uimjR5MM5kJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-aftershocks-seashocks-in-the-northern- part-of-honshu/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-aftershocks-seashocks-in-the-northern- part-of-honshu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/04/april21-2011.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YjELf48bH5YnjwbqRjW4czYMs3rJzD4Ld1rtqIBjGy-9lM9X90wBmh__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ryukyu Trench - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Ryukyu Trench - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Ryukyu_Trench",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The largest earthquake to have been recorded along the Ryukyu Trench, the ...   7.5 and occurred along the northernmost part of the trench on April 1st 1968.",
+   "htmlSnippet": "The largest \u003cb\u003eearthquake\u003c/b\u003e to have been recorded along the Ryukyu Trench, the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  7.5 and occurred along the northernmost part of the trench on \u003cb\u003eApril 1st 1968\u003c/b\u003e.",
+   "cacheId": "xfvJ94uFJO0J",
+   "formattedUrl": "en.wikipedia.org/wiki/Ryukyu_Trench",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Ryukyu_Trench",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Okinawa_trench_topographic.png/300px-Okinawa_trench_topographic.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMyZPYGu5wbDGQHEXQLFDIhjuTZr4zqDSbqdPzC-mPW94QKMay0U2_kGfs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Damaging Earthquakes Database 2010 ￢ﾀﾓ The Year in Review ...",
+   "htmlTitle": "Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2010 ￢ﾀﾓ The Year in Review \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/wp-content/uploads/2011/03/CATDAT-EQ-Data-1st-Annual-Review-2010-James-Daniell-03-03-2011.pdf",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Feb 27, 2011 ... number 1 earthquake in terms of fatalities, with a new report from ... Australia, in   the form of 3 papers, and the data was also used to form an Asia-Pacific   comparison of .... Thus, by using foreign sources i.e. Silgado 1968, 1978 (  Spanish), .... April. The Chile earthquake caused 523 deaths with 24 missing ...",
+   "htmlSnippet": "Feb 27, 2011 \u003cb\u003e...\u003c/b\u003e number \u003cb\u003e1 earthquake\u003c/b\u003e in terms of fatalities, with a new report from \u003cb\u003e...\u003c/b\u003e Australia, in \u003cbr\u003e  the form of 3 papers, and the data was also used to form an \u003cb\u003eAsia\u003c/b\u003e-Pacific \u003cbr\u003e  comparison of \u003cb\u003e....\u003c/b\u003e Thus, by using foreign sources i.e. Silgado \u003cb\u003e1968\u003c/b\u003e, 1978 (\u003cbr\u003e  Spanish), \u003cb\u003e....\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e. The Chile \u003cb\u003eearthquake\u003c/b\u003e caused 523 deaths with 24 missing \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cAitKwePwBgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110303154353+01'00'",
+      "author": "admin",
+      "creator": "Acrobat PDFMaker 7.0.7 fￃﾼr Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20110303154744+01'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "chapter xi unesco and cultural relations with foreign countries",
+   "htmlTitle": "chapter xi unesco and cultural relations with foreign countries",
+   "link": "http://www.teindia.nic.in/mhrd/50yrsedu/12/8I/6H/8I6H0B01.htm",
+   "displayLink": "www.teindia.nic.in",
+   "snippet": "With financial assistance from Unesco, the Commission organised a Sub-   Regional Workshop of Asian National Commissions at New Delhi from 1st to 7th   April, ...",
+   "htmlSnippet": "With financial assistance from Unesco, the Commission organised a Sub- \u003cbr\u003e  Regional Workshop of \u003cb\u003eAsian\u003c/b\u003e National Commissions at New Delhi from \u003cb\u003e1st\u003c/b\u003e to 7th \u003cbr\u003e  April, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ef9OSse5Jm0J",
+   "formattedUrl": "www.teindia.nic.in/mhrd/50yrsedu/12/8I/6H/8I6H0B01.htm",
+   "htmlFormattedUrl": "www.teindia.nic.in/mhrd/50yrsedu/12/8I/6H/8I6H0B01.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquake clouds operation popeye haarp gwen towers arizona",
+   "htmlTitle": "\u003cb\u003eearthquake\u003c/b\u003e clouds operation popeye haarp gwen towers arizona",
+   "link": "http://www.youtube.com/watch?v=TQ5YNmoQwXA",
+   "displayLink": "www.youtube.com",
+   "snippet": "Aug 24, 2012 ... EARTHQUAKE CLOUDS OPERATION POPEYE HAARP GWEN TOWERS ... in   Southeast Asia until 1972, operational cloud seeding missions were flown. ...   Operations over North Vietnam were eliminated on April 1, 1968, ...",
+   "htmlSnippet": "Aug 24, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEARTHQUAKE\u003c/b\u003e CLOUDS OPERATION POPEYE HAARP GWEN TOWERS \u003cb\u003e...\u003c/b\u003e in \u003cbr\u003e  Southeast \u003cb\u003eAsia\u003c/b\u003e until 1972, operational cloud seeding missions were flown. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Operations over North Vietnam were eliminated on \u003cb\u003eApril 1\u003c/b\u003e, \u003cb\u003e1968\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mcNgKqZFXCAJ",
+   "formattedUrl": "www.youtube.com/watch?v=TQ5YNmoQwXA",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=TQ5YNmoQwXA",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.ytimg.com/vi/TQ5YNmoQwXA/mqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=TQ5YNmoQwXA",
+      "name": "EARTHQUAKE CLOUDS OPERATION POPEYE HAARP GWEN TOWERS ARIZONA",
+      "description": "Operation Popeye (Project Popeye/Motorpool/Intermediary-Compatriot) was a US military cloud seeding operation (running from March 20, 1967 until July 5, 1972...",
+      "duration": "PT0M23S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i1.ytimg.com/vi/TQ5YNmoQwXA/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/TQ5YNmoQwXA?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "1920",
+      "height": "1080",
+      "isfamilyfriendly": "False"
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/CaptainTripps2010"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "144",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGZSbHYPRHn2tIx8FGG58M64dHXW04ld2t9-efIX9BSBFJGmFxWGT-MUM"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "EARTHQUAKE CLOUDS OPERATION POPEYE HAARP GWEN TOWERS ARIZONA",
+      "og:url": "http://www.youtube.com/watch?v=TQ5YNmoQwXA",
+      "og:title": "EARTHQUAKE CLOUDS OPERATION POPEYE HAARP GWEN TOWERS ARIZONA",
+      "og:description": "Operation Popeye (Project Popeye/Motorpool/Intermediary-Compatriot) was a US military cloud seeding operation (running from March 20, 1967 until July 5, 1972...",
+      "og:type": "video",
+      "og:image": "http://i1.ytimg.com/vi/TQ5YNmoQwXA/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/TQ5YNmoQwXA?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "1920",
+      "og:video:height": "1080",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "1920",
+      "twitter:player:height": "1080",
+      "og:restrictions:age": "18+",
+      "attribution": "CaptainTripps2010%2Buser/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i1.ytimg.com/vi/TQ5YNmoQwXA/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  }
+ ]
 }

@@ -5,12 +5,25 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 29 2001 India Earthquake",
+    "totalResults": "628000",
+    "searchTerms": "Jan 29 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Jan 29 2001 India Earthquake",
-    "totalResults": "8",
+    "totalResults": "628000",
     "searchTerms": "Jan 29 2001 India Earthquake",
-    "count": 8,
+    "count": 10,
     "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
@@ -23,311 +36,233 @@
   "title": "Quakes-in-our-main"
  },
  "searchInformation": {
-  "searchTime": 0.500335,
-  "formattedSearchTime": "0.50",
-  "totalResults": "8",
-  "formattedTotalResults": "8"
+  "searchTime": 0.204531,
+  "formattedSearchTime": "0.20",
+  "totalResults": "628000",
+  "formattedTotalResults": "628,000"
  },
  "items": [
   {
    "kind": "customsearch#result",
-   "title": "Hot Searches - Google",
-   "htmlTitle": "Hot Searches - Google",
-   "link": "http://www.google.com/trends/hottrends",
-   "displayLink": "www.google.com",
-   "snippet": "United States. India. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use ...   costumed characters 29 total photos 0 share this story story tools 1 of 29 link to ...   instead dialog more with the public before the legislature resumes in january the ...",
-   "htmlSnippet": "United States. \u003cb\u003eIndia\u003c/b\u003e. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  costumed characters \u003cb\u003e29\u003c/b\u003e total photos 0 share this story story tools 1 of \u003cb\u003e29\u003c/b\u003e link to \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  instead dialog more with the public before the legislature resumes in \u003cb\u003ejanuary\u003c/b\u003e the \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "uvKavSff1xUJ",
-   "formattedUrl": "www.google.com/trends/hottrends",
-   "htmlFormattedUrl": "www.google.com/trends/hottrends",
+   "title": "Online NewsHour: Indian Earthquake -- January 29, 2001",
+   "htmlTitle": "Online NewsHour: \u003cb\u003eIndian Earthquake\u003c/b\u003e -- \u003cb\u003eJanuary 29, 2001\u003c/b\u003e",
+   "link": "http://www.pbs.org/newshour/bb/asia/jan-june01/india_1-29.html",
+   "displayLink": "www.pbs.org",
+   "snippet": "Jan 29, 2001 ... a NewsHour with Jim Lehrer Transcript. Online NewsHour, Online Focus. INDIAN   EARTHQUAKE. January 29, 2001 ...",
+   "htmlSnippet": "Jan 29, 2001 \u003cb\u003e...\u003c/b\u003e a NewsHour with Jim Lehrer Transcript. Online NewsHour, Online Focus. \u003cb\u003eINDIAN\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e. \u003cb\u003eJanuary 29, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Foc-vxjPFGUJ",
+   "formattedUrl": "www.pbs.org/newshour/bb/asia/jan-june01/india_1-29.html",
+   "htmlFormattedUrl": "www.pbs.org/newshour/bb/asia/\u003cb\u003ejan\u003c/b\u003e-june01/\u003cb\u003eindia\u003c/b\u003e_1-\u003cb\u003e29\u003c/b\u003e.html",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/trends/resources/2327917647-google-icon.png"
+      "src": "http://www.pbs.org/newshour/images/asia/jan-june01/indiaquake8.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "102",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3yTXNtH_-TAOlH7VN5H-YB12XPPIGpUNtjnutMt3YPxciVY44kh7V"
-     }
-    ],
-    "metatags": [
-     {
-      "og:title": "Google Hot Searches",
-      "og:type": "article",
-      "og:url": "http://www.google.com/trends/hottrends",
-      "og:image": "http://www.google.com/trends/resources/2327917647-google-icon.png",
-      "og:description": "Explore trending search topics with Google Hot Searches."
+      "width": "136",
+      "height": "123",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA1KlilXBZ4VgXZQ7tswSMhT8Xqc5WmL5xUXZpIyLISLT-r2sgMXe3Sak"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US7959019 - Suspended cable support system - Google ...",
-   "htmlTitle": "Patent US7959019 - Suspended cable support system - Google \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US7959019",
-   "displayLink": "www.google.com",
-   "snippet": "US4124324, Jan 16, 1978, Nov 7, 1978, Indian Head Inc. Modular cable trench   system ... US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular   earthquake ... US6286691, Jul 13, 1998, Sep 11, 2001, Industrial Wire Products,   Inc.",
-   "htmlSnippet": "US4124324, \u003cb\u003eJan\u003c/b\u003e 16, 1978, Nov 7, 1978, \u003cb\u003eIndian\u003c/b\u003e Head Inc. Modular cable trench \u003cbr\u003e  system \u003cb\u003e...\u003c/b\u003e US5946867, Oct \u003cb\u003e29\u003c/b\u003e, 1997, Sep 7, 1999, Ericsson, Inc. Modular \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US6286691, Jul 13, 1998, Sep 11, \u003cb\u003e2001\u003c/b\u003e, Industrial Wire Products, \u003cbr\u003e  Inc.",
-   "formattedUrl": "www.google.com/patents/US7959019",
-   "htmlFormattedUrl": "www.google.com/patents/US7959019",
+   "title": "IU Pepp Institute: Jan 26, 2001 India Earthquake",
+   "htmlTitle": "IU Pepp Institute: \u003cb\u003eJan\u003c/b\u003e 26, \u003cb\u003e2001 India Earthquake\u003c/b\u003e",
+   "link": "http://www.indiana.edu/~pepp/earthquakes/india1_26_01.htm",
+   "displayLink": "www.indiana.edu",
+   "snippet": "Jan 26, 2001 ... Current Earthquake Information and Archived Earthquakes. Activities Developed   for PEPP Teachers ... The January 26, 2001 India Earthquake ...",
+   "htmlSnippet": "Jan 26, 2001 \u003cb\u003e...\u003c/b\u003e Current \u003cb\u003eEarthquake\u003c/b\u003e Information and Archived \u003cb\u003eEarthquakes\u003c/b\u003e. Activities Developed \u003cbr\u003e  for PEPP Teachers \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eJanuary\u003c/b\u003e 26, \u003cb\u003e2001 India Earthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IEP91qBjtBEJ",
+   "formattedUrl": "www.indiana.edu/~pepp/earthquakes/india1_26_01.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003eindian\u003c/b\u003ea.edu/~pepp/\u003cb\u003eearthquakes\u003c/b\u003e/\u003cb\u003eindia\u003c/b\u003e1_26_01.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list April 16, 2012 ￢ﾀﾓ Phuket, Thailand ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list April 16, 2012 ￢ﾀﾓ Phuket, Thailand \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/15/major-earthquakes-list-april-16-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 16, 2012 ... The origin must be something else . We will in the meantime link the experience   reports we are receiving to this Sumatra / Indian Ocean quake.",
+   "htmlSnippet": "Apr 16, 2012 \u003cb\u003e...\u003c/b\u003e The origin must be something else . We will in the meantime link the experience \u003cbr\u003e  reports we are receiving to this Sumatra / \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003equake\u003c/b\u003e.",
+   "cacheId": "4I0JZ9JJcp8J",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-april-16-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-april-16-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Bhuj, India, earthquake of January 26, 2001",
+   "htmlTitle": "The Bhuj, \u003cb\u003eIndia\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eJanuary\u003c/b\u003e 26, \u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://www.geerassociation.org/GEER_Post%20EQ%20Reports/Bhuj_2001/india_photo.htm",
+   "displayLink": "www.geerassociation.org",
+   "snippet": "ANJAR: French rescue squad member Gilles and his dog Izvor search for   survivors in the rubble, in Anjar, India Monday Jan. 29, 2001. A massive   earthquake hit ...",
+   "htmlSnippet": "ANJAR: French rescue squad member Gilles and his dog Izvor search for \u003cbr\u003e  survivors in the rubble, in Anjar, \u003cb\u003eIndia Monday Jan. 29, 2001\u003c/b\u003e. A massive \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e hit \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "350VtXdZdikJ",
+   "formattedUrl": "www.geerassociation.org/GEER.../Bhuj_2001/india_photo.htm",
+   "htmlFormattedUrl": "www.geerassociation.org/GEER.../Bhuj_\u003cb\u003e2001\u003c/b\u003e/\u003cb\u003eindia\u003c/b\u003e_photo.htm",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://www.geerassociation.org/GEER_Post%20EQ%20Reports/Bhuj_2001/Damaged_Areas.gif"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "132",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTjb5x3Eyx4kVZ-ii1sj9_neFf7kqYIaGs9Suu9ZWzHaf7pqvN46tz3N0"
-     }
-    ],
-    "book": [
-     {
-      "description": "According to an aspect of the present disclosure, a suspended cable support system is provided. The suspended cable support system includes a plurality of suspension rods; and at least one...",
-      "url": "http://www.google.com/patents/US7959019?utm_source=gb-gplus-share",
-      "name": "Patent US7959019 - Suspended cable support system",
-      "image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US7959019",
-      "title": "Patent US7959019 - Suspended cable support system",
-      "og:title": "Patent US7959019 - Suspended cable support system",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJtEMiH66Z81NintNc9-Sn7ks5oPlzCXSez5uz9W_snCk57QRcswE72o"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US7188452 - Sleeved bracing useful in the construction of ...",
-   "htmlTitle": "Patent US7188452 - Sleeved bracing useful in the construction of \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US7188452",
-   "displayLink": "www.google.com",
-   "snippet": "Mar 13, 2007 ... Sleeved bracing useful in the construction of earthquake resistant structures ...   US4582303, Jan 29, 1981, Apr 15, 1986, Tayco Developments, Inc. Seal   protecting ... Tube Investments of India Limited, Sleeved compression member ...   US6244577, Jul 12, 1999, Jun 12, 2001, Enidine Incorporated, Double ...",
-   "htmlSnippet": "Mar 13, 2007 \u003cb\u003e...\u003c/b\u003e Sleeved bracing useful in the construction of \u003cb\u003eearthquake\u003c/b\u003e resistant structures \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4582303, \u003cb\u003eJan 29\u003c/b\u003e, 1981, Apr 15, 1986, Tayco Developments, Inc. Seal \u003cbr\u003e  protecting \u003cb\u003e...\u003c/b\u003e Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression member \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6244577, Jul 12, 1999, Jun 12, \u003cb\u003e2001\u003c/b\u003e, Enidine Incorporated, Double \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US7188452",
-   "htmlFormattedUrl": "www.google.com/patents/US7188452",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ￢ﾀﾓ Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ￢ﾀﾓ Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... Significant losses were also seen in Turkey from the Van earthquake in October,   in the India-Nepal-Tibet region in September, in China from ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e Significant losses were also seen in Turkey from the Van \u003cb\u003eearthquake\u003c/b\u003e in October, \u003cbr\u003e  in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet region in September, in China from \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=kTJ_AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "132",
-      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhNCVxB0wWr1-1iGhc_tswP9pjkLS1po78jWwPyEAxFSTUh3fMA32MgIc"
-     }
-    ],
-    "book": [
-     {
-      "description": "A buckling restrained brace includes an elongate, hollow sleeve, an elongate yielding core extending substantially through the length of the sleeve, and a buckling constraining element between...",
-      "url": "http://www.google.com/patents/US7188452?utm_source=gb-gplus-share",
-      "name": "Patent US7188452 - Sleeved bracing useful in the construction of earthquake resistant structures",
-      "image": "http://www.google.com/patents?id=kTJ_AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US7188452",
-      "title": "Patent US7188452 - Sleeved bracing useful in the construction of earthquake resistant structures",
-      "og:title": "Patent US7188452 - Sleeved bracing useful in the construction of earthquake resistant structures",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=kTJ_AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall ...",
-   "htmlTitle": "Patent US5490655 - Video/data projector and monitor ceiling/wall \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US5490655",
-   "displayLink": "www.google.com",
-   "snippet": "Seismic cables may be added for extra support in case of earthquake. ...   US7029133, Jun 29, 2004, Apr 18, 2006, Hard Steal Security Corp. ...   US7077373, Jan 4, 2001, Jul 18, 2006, Da-Lite Screen Co., Inc. Mount for TV   monitor ... USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, Ind.   Universal mounting ...",
-   "htmlSnippet": "Seismic cables may be added for extra support in case of \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US7029133, Jun \u003cb\u003e29\u003c/b\u003e, 2004, Apr 18, 2006, Hard Steal Security Corp. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US7077373, \u003cb\u003eJan\u003c/b\u003e 4, \u003cb\u003e2001\u003c/b\u003e, Jul 18, 2006, Da-Lite Screen Co., Inc. Mount for TV \u003cbr\u003e  monitor \u003cb\u003e...\u003c/b\u003e USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, \u003cb\u003eInd\u003c/b\u003e. \u003cbr\u003e  Universal mounting \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US5490655",
-   "htmlFormattedUrl": "www.google.com/patents/US5490655",
+   "title": "Gujarat Earthquake Update Report",
+   "htmlTitle": "Gujarat \u003cb\u003eEarthquake\u003c/b\u003e Update Report",
+   "link": "http://www.care.org/newsroom/specialreports/indiaeq/indiaeq_news.asp",
+   "displayLink": "www.care.org",
+   "snippet": "(January 30, 2001). India Earthquake Update: CARE Trucks Relief to 20,000   Survivors in Kutch District (January 29, 2001). CARE Aids Indian Earthquake ...",
+   "htmlSnippet": "(January 30, 2001). \u003cb\u003eIndia Earthquake\u003c/b\u003e Update: CARE Trucks Relief to 20,000 \u003cbr\u003e  Survivors in Kutch District (\u003cb\u003eJanuary 29, 2001\u003c/b\u003e). CARE Aids \u003cb\u003eIndian Earthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vuKlIChs05wJ",
+   "formattedUrl": "www.care.org/newsroom/specialreports/indiaeq/indiaeq_news.asp",
+   "htmlFormattedUrl": "www.care.org/newsroom/specialreports/\u003cb\u003eindia\u003c/b\u003eeq/\u003cb\u003eindia\u003c/b\u003eeq_news.asp",
    "pagemap": {
-    "cse_image": [
-     {
-      "src": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "cse_thumbnail": [
-     {
-      "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-w7ogDtwXRdac-ys5vaE2g3t1ewYdc0nYfyhT4RJOnAOVCirfukt9ZzM"
-     }
-    ],
-    "book": [
-     {
-      "description": "A mount than secures a projector or monitor to a ceiling or wall is disclosed. The mount uses struts that form channels which support the projector/monitor and provide alternate channels for...",
-      "url": "http://www.google.com/patents/US5490655?utm_source=gb-gplus-share",
-      "name": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
     "metatags": [
      {
-      "og:url": "http://www.google.com/patents/US5490655",
-      "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "date": "October 16, 2003",
+      "lastupdate": "October 16, 2003",
+      "author": "webmaster@care.org",
+      "copyright": "This Site Copyright 2006 CARE USA",
+      "rating": "general"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US6637165 - Raised floor system and support apparatus ...",
-   "htmlTitle": "Patent US6637165 - Raised floor system and support apparatus \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US6637165",
-   "displayLink": "www.google.com",
-   "snippet": "Filing date: Mar 27, 2001. Issue date: ... US4124324, Jan 16, 1978, Nov 7, 1978,   Indian Head Inc. Modular cable trench system. US4372510 ... US5946867, Oct   29, 1997, Sep 7, 1999, Ericsson, Inc. Modular earthquake support for raised floor ...",
-   "htmlSnippet": "Filing date: Mar 27, \u003cb\u003e2001\u003c/b\u003e. Issue date: \u003cb\u003e...\u003c/b\u003e US4124324, \u003cb\u003eJan\u003c/b\u003e 16, 1978, Nov 7, 1978, \u003cbr\u003e  \u003cb\u003eIndian\u003c/b\u003e Head Inc. Modular cable trench system. US4372510 \u003cb\u003e...\u003c/b\u003e US5946867, Oct \u003cbr\u003e  \u003cb\u003e29\u003c/b\u003e, 1997, Sep 7, 1999, Ericsson, Inc. Modular \u003cb\u003eearthquake\u003c/b\u003e support for raised floor \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US6637165",
-   "htmlFormattedUrl": "www.google.com/patents/US6637165",
+   "title": "UMCOR Assists with India Earthquake",
+   "htmlTitle": "UMCOR Assists with \u003cb\u003eIndia Earthquake\u003c/b\u003e",
+   "link": "http://gbgm-umc.org/news/2001/jan/southasianc2.stm",
+   "displayLink": "gbgm-umc.org",
+   "snippet": "January 29, 2001. UMCOR Assists with India Earthquake ... 26 earthquake   crumbled innumerable buildings, resulting in more than 6,000 confirmed dead   and ...",
+   "htmlSnippet": "\u003cb\u003eJanuary 29, 2001\u003c/b\u003e. UMCOR Assists with \u003cb\u003eIndia Earthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 26 \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  crumbled innumerable buildings, resulting in more than 6,000 confirmed dead \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-JmKJuenPLYJ",
+   "formattedUrl": "gbgm-umc.org/news/2001/jan/southasianc2.stm",
+   "htmlFormattedUrl": "gbgm-umc.org/news/\u003cb\u003e2001\u003c/b\u003e/\u003cb\u003ejan\u003c/b\u003e/southasianc2.stm",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=B6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://gbgm-umc.org/umcor/emergency/maps/Indiaquake2001.gif"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT83VrHqP_rF5CVBSaNLSbzFq7V5chm0Bt5Efc2uT6TBEPwUJ-_1g7xCw"
-     }
-    ],
-    "book": [
-     {
-      "description": "An article support apparatus for use with a raised floor system including a plurality of support pedestals, stringer elements and floor panels, the support apparatus includes an article support...",
-      "url": "http://www.google.com/patents/US6637165?utm_source=gb-gplus-share",
-      "name": "Patent US6637165 - Raised floor system and support apparatus",
-      "image": "http://www.google.com/patents?id=B6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "168",
+      "height": "208",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzXYoTG09P2rKgtpO6ztFSYnEIqxbHyqRO6PwsbJK4_Op0sVxsGCeEKQ"
      }
     ],
     "metatags": [
      {
-      "og:url": "http://www.google.com/patents/US6637165",
-      "title": "Patent US6637165 - Raised floor system and support apparatus",
-      "og:title": "Patent US6637165 - Raised floor system and support apparatus",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=B6kMAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "rating": "general",
+      "copyright": "This page and its contents are copyright The General Board of Global Ministries.  All rights reserved."
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "link": "http://www.google.com/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "2001. January. We announce the hire of Silicon Valley veteran Wayne Rosing ...   We spotlight our new engineering offices in Bangalore and Hyderabad, India with   a ..... Following both the Sichuan earthquake in China and Cyclone Nargis in ...",
-   "htmlSnippet": "\u003cb\u003e2001\u003c/b\u003e. \u003cb\u003eJanuary\u003c/b\u003e. We announce the hire of Silicon Valley veteran Wayne Rosing \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e with \u003cbr\u003e  a \u003cb\u003e.....\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone Nargis in \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Ex81iG3sJZAJ",
-   "formattedUrl": "www.google.com/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, ... 4.7, IRAN-  IRAQ BORDER REGION, Nov 29 2001, 15:49:29, 33.632 ..... 4.8, GUJARAT,   INDIA, Jan 29 2001, 23:55:01, 23.508, 70.412, 200101292354 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, \u003cb\u003e...\u003c/b\u003e 4.7, IRAN-\u003cbr\u003e  IRAQ BORDER REGION, Nov 29 2001, 15:49:29, 33.632 \u003cb\u003e.....\u003c/b\u003e 4.8, GUJARAT, \u003cbr\u003e  \u003cb\u003eINDIA\u003c/b\u003e, \u003cb\u003eJan 29 2001\u003c/b\u003e, 23:55:01, 23.508, 70.412, 200101292354 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKE IN INDIA; Charities Help Quake Victims - New York ...",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e IN \u003cb\u003eINDIA\u003c/b\u003e; Charities Help \u003cb\u003eQuake\u003c/b\u003e Victims - New York \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nytimes.com/2001/01/29/world/earthquake-in-india-charities-help-quake-victims.html",
+   "displayLink": "www.nytimes.com",
+   "snippet": "EARTHQUAKE IN INDIA; Charities Help Quake Victims. Published: January 29,   2001. Sign In to E-Mail ￂﾷ Print ...",
+   "htmlSnippet": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e IN \u003cb\u003eINDIA\u003c/b\u003e; Charities Help \u003cb\u003eQuake\u003c/b\u003e Victims. Published: \u003cb\u003eJanuary 29,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e. Sign In to E-Mail &middot; Print \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iI5h0dC4JuMJ",
+   "formattedUrl": "www.nytimes.com/2001/.../29/.../earthquake-in-india-charities-help-quake- victims.html",
+   "htmlFormattedUrl": "www.nytimes.com/\u003cb\u003e2001\u003c/b\u003e/.../\u003cb\u003e29\u003c/b\u003e/.../\u003cb\u003eearthquake\u003c/b\u003e-in-\u003cb\u003eindia\u003c/b\u003e-charities-help-\u003cb\u003equake\u003c/b\u003e- victims.html",
    "pagemap": {
     "metatags": [
      {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+      "ptime": "20010129000000",
+      "utime": "20090219024352"
+     },
+     {
+      "articleid": "665460",
+      "cg": "World",
+      "pt": "Article",
+      "pst": "List",
+      "pc": "PerfectMarket",
+      "pdate": "20010129",
+      "timespeople": "disallow",
+      "og:site_name": "New York Times"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "AFP: AIDS fund chief appeals for US leadership",
-   "htmlTitle": "AFP: AIDS fund chief appeals for US leadership",
-   "link": "http://www.google.com/hostednews/afp/article/ALeqM5jUKaqzsn2Ge0PaNz1Z5DpQ_QHI3w",
-   "displayLink": "www.google.com",
-   "snippet": "(AFP) ￢ﾀﾓ Jan 29, 2009. GENEVA (AFP) ￢ﾀﾔ The head of the global fund against   AIDS and other diseases in poor countries on Thursday urged the Obama ...",
-   "htmlSnippet": "(AFP) ￢ﾀﾓ \u003cb\u003eJan 29\u003c/b\u003e, 2009. GENEVA (AFP) ￢ﾀﾔ The head of the global fund against \u003cbr\u003e  AIDS and other diseases in poor countries on Thursday urged the Obama \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/.../afp/.../ALeqM5jUKaqzsn2Ge0PaNz1Z5DpQ_QHI3w",
-   "htmlFormattedUrl": "www.google.com/.../afp/.../ALeqM5jUKaqzsn2Ge0PaNz1Z5DpQ_QHI3w",
+   "title": "From: \"Shyam Parekh\" \u003cshyam_parekh@hotmail",
+   "htmlTitle": "From: &quot;Shyam Parekh&quot; &lt;shyam_parekh@hotmail",
+   "link": "http://www.desastre.org/home/data/pdf/risk/eng/India%20Earthquake.pdf",
+   "displayLink": "www.desastre.org",
+   "snippet": "\u003cenvironmentaljournalists@yahoogroups.com\u003e. Sent: Monday, January 29, 2001   7:57 AM. Subject: [environmentaljournalists] URGENET:Gujarat Earthquake ...",
+   "htmlSnippet": "&lt;environmentaljournalists@yahoogroups.com&gt;. Sent: \u003cb\u003eMonday, January 29, 2001\u003c/b\u003e \u003cbr\u003e  7:57 AM. Subject: [environmentaljournalists] URGENET:Gujarat \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XwoYvoHd_OkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.desastre.org/home/data/pdf/risk/eng/India%20Earthquake.pdf",
+   "htmlFormattedUrl": "www.desastre.org/home/data/pdf/risk/eng/\u003cb\u003eIndia\u003c/b\u003e%20\u003cb\u003eEarthquake\u003c/b\u003e.pdf",
    "pagemap": {
-    "cse_image": [
-     {
-      "src": "http://www.google.com/hostednews/afp/media/ALeqM5gAJQeq7AGfD0U7JakfLwDZAm6WmQ?size=s3"
-     }
-    ],
-    "cse_thumbnail": [
-     {
-      "width": "203",
-      "height": "158",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBUK8OdunphtFbtSH7TLbNNRlMl3tMn963rHxc69z40wVIxT13PgioO84"
-     }
-    ],
     "metatags": [
      {
-      "og:title": "AIDS fund chief appeals for US leadership",
-      "og:type": "article",
-      "og:url": "http://www.google.com/hostednews/afp/article/ALeqM5jUKaqzsn2Ge0PaNz1Z5DpQ_QHI3w",
-      "og:site_name": "Google News",
-      "og:image": "http://www.google.com/hostednews/afp/media/ALeqM5gAJQeq7AGfD0U7JakfLwDZAm6WmQ?size=s3"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Patent US20030097318 - METHOD AND APPARATUS FOR ...",
-   "htmlTitle": "Patent US20030097318 - METHOD AND APPARATUS FOR \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US20030097318",
-   "displayLink": "www.google.com",
-   "snippet": "US7325194, May 7, 2002, Jan 29, 2008, Microsoft Corporation, Method, system,   ... US7421645, Apr 24, 2001, Sep 2, 2008, Microsoft Corporation, Method and ...",
-   "htmlSnippet": "US7325194, May 7, 2002, \u003cb\u003eJan 29\u003c/b\u003e, 2008, Microsoft Corporation, Method, system, \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US7421645, Apr 24, \u003cb\u003e2001\u003c/b\u003e, Sep 2, 2008, Microsoft Corporation, Method and \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US20030097318",
-   "htmlFormattedUrl": "www.google.com/patents/US20030097318",
-   "pagemap": {
-    "cse_image": [
-     {
-      "src": "http://www.google.com/patents?id=1BSJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "cse_thumbnail": [
-     {
-      "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcbLIM69DI6aZntUxm4HA6J0mX5VwauOcSyLKs5z3YBJSjhXBb-oDIVg"
-     }
-    ],
-    "book": [
-     {
-      "description": "A conversion function for converting between the euro and other currencies is provided that converts a value in one type of currency to a value in another type of currency according to EU-specified...",
-      "url": "http://www.google.com/patents/US20030097318?utm_source=gb-gplus-share",
-      "name": "Patent US20030097318 - METHOD AND APPARATUS FOR CONVERTING, FORMATTING, AND DISPLAYING CURRENCY VALUES",
-      "image": "http://www.google.com/patents?id=1BSJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US20030097318",
-      "title": "Patent US20030097318 - METHOD AND APPARATUS FOR CONVERTING, FORMATTING, AND DISPLAYING CURRENCY VALUES",
-      "og:title": "Patent US20030097318 - METHOD AND APPARATUS FOR CONVERTING, FORMATTING, AND DISPLAYING CURRENCY VALUES",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=1BSJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "John E. Herridge",
+      "creator": "Acrobat PDFMaker 5.0 for Word",
+      "moddate": "D:20030328165948-05'00'",
+      "title": "From: \"Shyam Parekh\" \u003cshyam_parekh@hotmail",
+      "creationdate": "D:20030328165941-05'00'"
      }
     ]
    }

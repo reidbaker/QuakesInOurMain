@@ -5,12 +5,26 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 16 1920 North America Earthquake",
+    "totalResults": "331000",
+    "searchTerms": "Nov 16 1920 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Nov 16 1920 North America Earthquake",
-    "totalResults": "0",
+    "totalResults": "331000",
     "searchTerms": "Nov 16 1920 North America Earthquake",
     "count": 10,
+    "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
     "safe": "off",
@@ -18,10 +32,257 @@
    }
   ]
  },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
  "searchInformation": {
-  "searchTime": 0.460631,
-  "formattedSearchTime": "0.46",
-  "totalResults": "0",
-  "formattedTotalResults": "0"
- }
+  "searchTime": 0.271663,
+  "formattedSearchTime": "0.27",
+  "totalResults": "331000",
+  "formattedTotalResults": "331,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake rocks the American wilderness ￢ﾀﾔ History.com This Day ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e rocks the \u003cb\u003eAmerican\u003c/b\u003e wilderness ￢ﾀﾔ History.com This Day \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/earthquake-rocks-the-american-wilderness",
+   "displayLink": "www.history.com",
+   "snippet": "Although the earthquake greatly altered the topography of the region, the area ...   Dec 16, 1811: Earthquake rocks the American wilderness; Dec 16, 1920 ... leader   of North Korea, dies; Dec 18, 1865: Slavery abolished in America .... November ...",
+   "htmlSnippet": "Although the \u003cb\u003eearthquake\u003c/b\u003e greatly altered the topography of the region, the area \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Dec \u003cb\u003e16\u003c/b\u003e, 1811: \u003cb\u003eEarthquake\u003c/b\u003e rocks the \u003cb\u003eAmerican\u003c/b\u003e wilderness; Dec \u003cb\u003e16\u003c/b\u003e, \u003cb\u003e1920\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e leader \u003cbr\u003e  of \u003cb\u003eNorth\u003c/b\u003e Korea, dies; Dec 18, 1865: Slavery abolished in \u003cb\u003eAmerica\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003eNovember\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lWUCVa9gl_kJ",
+   "formattedUrl": "www.history.com/this.../earthquake-rocks-the-american-wilderness",
+   "htmlFormattedUrl": "www.history.com/this.../\u003cb\u003eearthquake\u003c/b\u003e-rocks-the-\u003cb\u003eamerican\u003c/b\u003e-wilderness",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://shop.history.com/img/product/resized/00084008-278998_100.jpg?k=3c627966&pid=84008&s=catl"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlX7ig0dDO2NouXyp7ds6Y5H5dicypHx_zSFTQfF0YCDdB50A-A_Ul"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Earthquake rocks the American wilderness ￢ﾀﾔ History.com This Day in History ￢ﾀﾔ 12/16/1811",
+      "asset_type_id": "6",
+      "network": "History",
+      "display_description": "In the Mississippi River Valley near New Madrid, Missouri, the greatest series of earthquakes in U.S. history begins when a quake of an estimated 8.",
+      "asset_id": "1092868",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Earthquake rocks the American wilderness ￢ﾀﾔ History.com This Day in History ￢ﾀﾔ 12/16/1811",
+      "og:description": "In the Mississippi River Valley near New Madrid, Missouri, the greatest series of earthquakes in U.S. history begins when a quake of an estimated 8.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/earthquake-rocks-the-american-wilderness"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Seismicity of the Arctic",
+   "htmlTitle": "The Seismicity of the Arctic",
+   "link": "http://adsabs.harvard.edu/full/1930JRASC..24..201H",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "(4) The remaining seismic area of the Arctic is represented by the quake of   November 16, 1920, at approximately q5 =72ￂﾰ N.: X = 127ￂﾰ W., north and east of   the ...",
+   "htmlSnippet": "(4) The remaining \u003cb\u003eseismic\u003c/b\u003e area of the Arctic is represented by the \u003cb\u003equake\u003c/b\u003e of \u003cbr\u003e  \u003cb\u003eNovember 16, 1920\u003c/b\u003e, at approximately q5 =72ￂﾰ N.: X = 127ￂﾰ W., \u003cb\u003enorth\u003c/b\u003e and east of \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "adsabs.harvard.edu/full/1930JRASC..24..201H",
+   "htmlFormattedUrl": "adsabs.harvard.edu/full/1930JRASC..24..201H",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/1930JRASC..24..201H",
+      "citation_title": "The Seismicity of the Arctic",
+      "citation_authors": "Hodgson, E. A.",
+      "citation_issn": "0035-872X",
+      "citation_date": "06/1930",
+      "citation_journal_title": "Journal of the Royal Astronomical Society of Canada",
+      "citation_volume": "24",
+      "citation_firstpage": "201",
+      "prism.publicationname": "Journal of the Royal Astronomical Society of Canada",
+      "prism.issn": "0035-872X",
+      "prism.volume": "24",
+      "prism.startingpage": "201",
+      "dc.language": "en",
+      "dc.date": "1930-06",
+      "dc.source": "Journal of the Royal Astronomical Society of Canada, Vol. 24, p.201",
+      "dc.title": "The Seismicity of the Arctic",
+      "dc.creator": "Hodgson, E. A."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Gansu (Kansu, China) earthquake of 1920 - by Martha Leonard ...",
+   "htmlTitle": "The Gansu (Kansu, China) \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e1920\u003c/b\u003e - by Martha Leonard \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.helium.com/items/2257948-the-gansu-kansu-china-earthquake-of-1920",
+   "displayLink": "www.helium.com",
+   "snippet": "Created on: November 22, 2011 Last Updated: December 07, 2011. On   December 16, 1920, the first earthquake in over 300 years hit Midwestern China,   killing ...",
+   "htmlSnippet": "Created on: \u003cb\u003eNovember\u003c/b\u003e 22, 2011 Last Updated: December 07, 2011. On \u003cbr\u003e  December \u003cb\u003e16\u003c/b\u003e, \u003cb\u003e1920\u003c/b\u003e, the first \u003cb\u003eearthquake\u003c/b\u003e in over 300 years hit Midwestern China, \u003cbr\u003e  killing \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qmzwPXsXtTcJ",
+   "formattedUrl": "www.helium.com/.../2257948-the-gansu-kansu-china-earthquake-of-1920",
+   "htmlFormattedUrl": "www.helium.com/.../2257948-the-gansu-kansu-china-\u003cb\u003eearthquake\u003c/b\u003e-of-\u003cb\u003e1920\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Helium, Inc."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Largest Earthquakes in the World Since 1900",
+   "htmlTitle": "Largest \u003cb\u003eEarthquakes\u003c/b\u003e in the World Since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/10_largest_world.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Largest Earthquakes in the World Since 1900 ... The Ningxia-Gansu, China   earthquake of 1920 12 16, previously listed with a magnitude of 8.6, has ...   Accessibility ￂﾷ FOIA ￂﾷ Privacy ￂﾷ Policies and Notices ￂﾷ In partnership with nehrp ￂﾷ   Take Pride in America; USA.gov ... Page Last Modified: November 30, 2012 16:  21:34 UTC ...",
+   "htmlSnippet": "Largest \u003cb\u003eEarthquakes\u003c/b\u003e in the World Since 1900 \u003cb\u003e...\u003c/b\u003e The Ningxia-Gansu, China \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e1920\u003c/b\u003e 12 \u003cb\u003e16\u003c/b\u003e, previously listed with a magnitude of 8.6, has \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Accessibility &middot; FOIA &middot; Privacy &middot; Policies and Notices &middot; In partnership with nehrp &middot; \u003cbr\u003e  Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eNovember\u003c/b\u003e 30, 2012 \u003cb\u003e16\u003c/b\u003e:\u003cbr\u003e  21:34 UTC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vxcVoSOzpI4J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/10_largest_world.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/10_largest_world.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/world/images/10_largest_world.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "169",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8kFjX19xX9CGVf4BoWoTnAIj8cfW44pVChKezZlBoqNAdLnrAlyISTyID"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption, ...   November 25, 1839 ... 1970 Huascarￃﾡn avalanche; triggered by the 1970 Ancash   earthquake ...... http://news.xinhuanet.com/english2010/china/2010-12/16/  c_13652388.htm .... \"Dead Heat: Why don't Americans sweat over heat-wave   deaths?",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember\u003c/b\u003e 25, 1839 \u003cb\u003e...\u003c/b\u003e 1970 Huascarￃﾡn avalanche; triggered by the 1970 Ancash \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e......\u003c/b\u003e http://news.xinhuanet.com/english2010/china/2010-12/\u003cb\u003e16\u003c/b\u003e/\u003cbr\u003e  c_13652388.htm \u003cb\u003e....\u003c/b\u003e &quot;Dead Heat: Why don&#39;t \u003cb\u003eAmericans\u003c/b\u003e sweat over heat-wave \u003cbr\u003e  deaths?",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Top Ten Earthquakes and Volcanic Eruptions",
+   "htmlTitle": "Top Ten \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions",
+   "link": "http://www.uwgb.edu/dutchs/platetec/topten.htm",
+   "displayLink": "www.uwgb.edu",
+   "snippet": "Apr 24, 2002 ... 16, 1920, 8.5, 200,000, China: Gansu and Shanxi ... Nov. 23, 533, 130,000, Syria  -Turkey, 6. Dec. 28, 1908, 7.5, 110,000, Italy: Messina, Sicily .... Vast ash falls   blanketed all of eastern North America and Scandinavia, which at ...",
+   "htmlSnippet": "Apr 24, 2002 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e16\u003c/b\u003e, \u003cb\u003e1920\u003c/b\u003e, 8.5, 200,000, China: Gansu and Shanxi \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNov\u003c/b\u003e. 23, 533, 130,000, Syria\u003cbr\u003e  -Turkey, 6. Dec. 28, 1908, 7.5, 110,000, Italy: Messina, Sicily \u003cb\u003e....\u003c/b\u003e Vast ash falls \u003cbr\u003e  blanketed all of eastern \u003cb\u003eNorth America\u003c/b\u003e and Scandinavia, which at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_P7UYqDjosIJ",
+   "formattedUrl": "www.uwgb.edu/dutchs/platetec/topten.htm",
+   "htmlFormattedUrl": "www.uwgb.edu/dutchs/platetec/topten.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earth Chages TV - Deadly Earthquakes",
+   "htmlTitle": "Earth Chages TV - Deadly \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthchangesmedia.com/quakes/eq_worst.htm",
+   "displayLink": "earthchangesmedia.com",
+   "snippet": "Felt at many locations in North America, including Los Angeles, California;   Renton, .... 16 Dec 1920 - CHINA - An earthquake, measuring an estimated 8.6   on the ...",
+   "htmlSnippet": "Felt at many locations in \u003cb\u003eNorth America\u003c/b\u003e, including Los Angeles, California; \u003cbr\u003e  Renton, \u003cb\u003e....\u003c/b\u003e \u003cb\u003e16 Dec 1920\u003c/b\u003e - CHINA - An \u003cb\u003eearthquake\u003c/b\u003e, measuring an estimated 8.6 \u003cbr\u003e  on the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JY0jOvB1AiIJ",
+   "formattedUrl": "earthchangesmedia.com/quakes/eq_worst.htm",
+   "htmlFormattedUrl": "earthchangesmedia.com/\u003cb\u003equake\u003c/b\u003es/eq_worst.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.hucosystems.com/articles/Earthquake.htm",
+   "displayLink": "www.hucosystems.com",
+   "snippet": "The problem with earthquakes is the time span between them. ... the center of its   length, pushing the North American plate west and the Eurasian plate east. ....   Saturday, November 16, 1811 .... December 16, 1920, Ningxia-Gansu, China, 8.6 ...",
+   "htmlSnippet": "The problem with \u003cb\u003eearthquakes\u003c/b\u003e is the time span between them. \u003cb\u003e...\u003c/b\u003e the center of its \u003cbr\u003e  length, pushing the \u003cb\u003eNorth American\u003c/b\u003e plate west and the Eurasian plate east. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Saturday, \u003cb\u003eNovember 16\u003c/b\u003e, 1811 \u003cb\u003e....\u003c/b\u003e December \u003cb\u003e16\u003c/b\u003e, \u003cb\u003e1920\u003c/b\u003e, Ningxia-Gansu, China, 8.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gz_wHWc2df4J",
+   "formattedUrl": "www.hucosystems.com/articles/Earthquake.htm",
+   "htmlFormattedUrl": "www.hucosystems.com/articles/\u003cb\u003eEarthquake\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.hucosystems.com/articles/Earthquake.htg/platetectonics.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "231",
+      "height": "218",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9hO927-VdRb6MMKEA0D-ND5WJaEAQG7ytczYZKxEXMMnGNQkDUlcJ4bM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Case Studies - Earthquakes - Forces of Nature",
+   "htmlTitle": "Case Studies - \u003cb\u003eEarthquakes\u003c/b\u003e - Forces of Nature",
+   "link": "http://library.thinkquest.org/C003603/english/earthquakes/casestudies.shtml",
+   "displayLink": "library.thinkquest.org",
+   "snippet": "Shemakha, Caucasia (1667, November) ... The epicenter, north of Boston,   produced an earthquake at 4:11 a.m. Many .... to the survivors, and his small   institution has become today's Bank of America. ... Kansu, China (1920,   December 16) ...",
+   "htmlSnippet": "Shemakha, Caucasia (1667, \u003cb\u003eNovember\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e The epicenter, \u003cb\u003enorth\u003c/b\u003e of Boston, \u003cbr\u003e  produced an \u003cb\u003eearthquake\u003c/b\u003e at 4:11 a.m. Many \u003cb\u003e....\u003c/b\u003e to the survivors, and his small \u003cbr\u003e  institution has become today&#39;s Bank of \u003cb\u003eAmerica\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Kansu, China (\u003cb\u003e1920\u003c/b\u003e, \u003cbr\u003e  December \u003cb\u003e16\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lI0uGtuvyB0J",
+   "formattedUrl": "library.thinkquest.org/C003603/.../earthquakes/casestudies.shtml",
+   "htmlFormattedUrl": "library.thinkquest.org/C003603/.../\u003cb\u003eearthquakes\u003c/b\u003e/casestudies.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://library.thinkquest.org/C003603/english/earthquakes/menu.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "92",
+      "height": "125",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFSYTx0wWfoDmr-K3QoG60AeSfa5ZXKJmCjGj0UhNPHusR-Y7OPBGx"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "ThinkQuest Team #C003603"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 1920 Garfagnana earthquake, 44.183, 10.283, 171, 6.5, ML .... 1930, 19:02   UTC, Japan see 1930 North Izu earthquake, 35.00, 139.00, 7.3, Ms ...",
+   "htmlSnippet": "see \u003cb\u003e1920\u003c/b\u003e Garfagnana \u003cb\u003eearthquake\u003c/b\u003e, 44.183, 10.283, 171, 6.5, ML \u003cb\u003e....\u003c/b\u003e 1930, 19:02 \u003cbr\u003e  UTC, Japan see 1930 \u003cb\u003eNorth\u003c/b\u003e Izu \u003cb\u003eearthquake\u003c/b\u003e, 35.00, 139.00, 7.3, Ms \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  }
+ ]
 }

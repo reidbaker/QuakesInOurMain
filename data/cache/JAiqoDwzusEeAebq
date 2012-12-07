@@ -5,12 +5,25 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 21 1935 India Earthquake",
+    "totalResults": "67400",
+    "searchTerms": "Mar 21 1935 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Mar 21 1935 India Earthquake",
-    "totalResults": "1",
+    "totalResults": "67400",
     "searchTerms": "Mar 21 1935 India Earthquake",
-    "count": 1,
+    "count": 10,
     "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
@@ -23,12 +36,25 @@
   "title": "Quakes-in-our-main"
  },
  "searchInformation": {
-  "searchTime": 0.361298,
-  "formattedSearchTime": "0.36",
-  "totalResults": "1",
-  "formattedTotalResults": "1"
+  "searchTime": 0.228946,
+  "formattedSearchTime": "0.23",
+  "totalResults": "67400",
+  "formattedTotalResults": "67,400"
  },
  "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.volcano.si.edu/tdpmap/downloads/earthquakes/interior.txt",
+   "displayLink": "www.volcano.si.edu",
+   "snippet": "33.5 121 6.4 06/02/1927 Son Valley, central India 23.5 81 6.3 08/16/1929 off ...   east of Chingtao 36.1 121.6 6.1 03/21/1935 India-Bangladesh border region 24.2 ...",
+   "htmlSnippet": "33.5 121 6.4 06/02/1927 Son Valley, central \u003cb\u003eIndia\u003c/b\u003e 23.5 81 6.3 08/16/1929 off \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  east of Chingtao 36.1 121.6 6.1 \u003cb\u003e03/21/1935 India\u003c/b\u003e-Bangladesh border region 24.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-PnZDNtsLRQJ",
+   "mime": "text/plain",
+   "formattedUrl": "www.volcano.si.edu/tdpmap/downloads/earthquakes/interior.txt",
+   "htmlFormattedUrl": "www.volcano.si.edu/tdpmap/downloads/\u003cb\u003eearthquakes\u003c/b\u003e/interior.txt"
+  },
   {
    "kind": "customsearch#result",
    "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall ...",
@@ -68,6 +94,169 @@
       "og:type": "book",
       "og:site_name": "Google Books",
       "og:image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on March 21 - What happened on my birthday ...",
+   "htmlTitle": "What happened on March \u003cb\u003e21\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/mar21.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "March 21, 1791 Bangalore in India is seized by the British under Lord Cornwallis   in the ... March 21, 1857 \"An earthquake in Tokyo, Japan kills over 100,000.\" ...   March 21, 1935 \"Shah Reza Pahlavi formally asks the international community to ...",
+   "htmlSnippet": "March 21, 1791 Bangalore in \u003cb\u003eIndia\u003c/b\u003e is seized by the British under Lord Cornwallis \u003cbr\u003e  in the \u003cb\u003e...\u003c/b\u003e March 21, 1857 &quot;An \u003cb\u003eearthquake\u003c/b\u003e in Tokyo, Japan kills over 100,000.&quot; \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eMarch 21, 1935\u003c/b\u003e &quot;Shah Reza Pahlavi formally asks the international community to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RyGSUaX-8RMJ",
+   "formattedUrl": "www.datesinhistory.com/mar21.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003emar21\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jackson County History Bibliography - Kansas Historical Society",
+   "htmlTitle": "Jackson County History Bibliography - Kansas Historical Society",
+   "link": "https://www.kshs.org/p/jackson-county-history-bibliography/13469",
+   "displayLink": "www.kshs.org",
+   "snippet": "Mar. 21, 1935. [1 p.]. (Microfilm reel: NP 2774). Centennial Committee. Buck's   Grove ... White, Mrs. James W. \"Recalls Earthquake: An Episode of 1865\". Holton ...",
+   "htmlSnippet": "\u003cb\u003eMar. 21, 1935\u003c/b\u003e. [1 p.]. (Microfilm reel: NP 2774). Centennial Committee. Buck&#39;s \u003cbr\u003e  Grove \u003cb\u003e...\u003c/b\u003e White, Mrs. James W. &quot;Recalls \u003cb\u003eEarthquake\u003c/b\u003e: An Episode of 1865&quot;. Holton \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "acZppL1vAtAJ",
+   "formattedUrl": "https://www.kshs.org/p/jackson-county-history.../13469",
+   "htmlFormattedUrl": "https://www.kshs.org/p/jackson-county-history.../13469",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www.kshs.org/genealogists/places/maps/ksmap_ja.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "105",
+      "height": "55",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTk4b_4Wqdi9LJGdlcKe_nmOVMJYYvkKVWaulSLGRmdsFnLe0oyBGRgQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "921 earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "921 \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/921_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the September 21, 2009 earthquake in Bhutan, see 2009 Bhutan earthquake.   ... in recorded history in Taiwan, after the 1935 Hsinchu-Taichung earthquake.",
+   "htmlSnippet": "For the September \u003cb\u003e21\u003c/b\u003e, 2009 \u003cb\u003eearthquake\u003c/b\u003e in Bhutan, see 2009 Bhutan \u003cb\u003eearthquake\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e in recorded history in Taiwan, after the \u003cb\u003e1935\u003c/b\u003e Hsinchu-Taichung \u003cb\u003eearthquake\u003c/b\u003e.",
+   "cacheId": "k_2mwXUgXcsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/921_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/921_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Earthquake-_road_crack.jpg/240px-Earthquake-_road_crack.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "258",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZgci-Bz6y7xl-_MAoTA6tJfdoimCl7iBRPDl-Glmi97Qcp7y6HvoHfAs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": ":: ASC :: Seismicity of West Bengal, India",
+   "htmlTitle": ":: ASC :: Seismicity of West Bengal, \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://asc-india.org/seismi/seis-west-bengal.htm",
+   "displayLink": "asc-india.org",
+   "snippet": "Feb 21, 2008 ... Since the earthquake database in India is still incomplete, especially with regards   to .... 21 March 1935 - Pabna, Bangladesh, Ms 6.2 (4).",
+   "htmlSnippet": "Feb 21, 2008 \u003cb\u003e...\u003c/b\u003e Since the \u003cb\u003eearthquake\u003c/b\u003e database in \u003cb\u003eIndia\u003c/b\u003e is still incomplete, especially with regards \u003cbr\u003e  to \u003cb\u003e....\u003c/b\u003e \u003cb\u003e21 March 1935\u003c/b\u003e - Pabna, Bangladesh, Ms 6.2 (4).",
+   "cacheId": "SVomiKzse-MJ",
+   "formattedUrl": "asc-india.org/seismi/seis-west-bengal.htm",
+   "htmlFormattedUrl": "asc-\u003cb\u003eindia\u003c/b\u003e.org/seismi/seis-west-bengal.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Indonesia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndonesia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Indonesia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the major 2004 earthquake and tsunami, see 2004 Indian Ocean ... Further   information: 1935 Sumatra earthquake ... 2007 01 21, Molucca Sea, 7.5, 4 ...",
+   "htmlSnippet": "For the major 2004 \u003cb\u003eearthquake\u003c/b\u003e and tsunami, see 2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003e...\u003c/b\u003e Further \u003cbr\u003e  information: \u003cb\u003e1935\u003c/b\u003e Sumatra \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 2007 01 \u003cb\u003e21\u003c/b\u003e, Molucca Sea, 7.5, 4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Sjf-9qCIPpAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Indonesia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Indonesia",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/COLLECTIE_TROPENMUSEUM_Een_door_een_aardbeving_verwoeste_Chinese_woonwijk_TMnr_10003972.jpg/220px-COLLECTIE_TROPENMUSEUM_Een_door_een_aardbeving_verwoeste_Chinese_woonwijk_TMnr_10003972.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "129",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZHbauO7DuTNToC9WXBLH9Kj-smli4tRavGBZg-VeGBIjz9eZjgobEMWh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "365 Jul 21, An earthquake, whose epicenter was in Crete, leveled the Egyptian ...   1812 Mar 26, Earthquake destroyed 90% of Caracas; about 20,000 died. .... 1935   May 31, In Quetta, India (later Pakistan), a magnitude 7.5 earthquake killed ...",
+   "htmlSnippet": "365 Jul \u003cb\u003e21\u003c/b\u003e, An \u003cb\u003eearthquake\u003c/b\u003e, whose epicenter was in Crete, leveled the Egyptian \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1812 \u003cb\u003eMar\u003c/b\u003e 26, \u003cb\u003eEarthquake\u003c/b\u003e destroyed 90% of Caracas; about 20,000 died. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1935\u003c/b\u003e \u003cbr\u003e  May 31, In Quetta, \u003cb\u003eIndia\u003c/b\u003e (later Pakistan), a magnitude 7.5 \u003cb\u003eearthquake\u003c/b\u003e killed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Help San Antonio (helpsanantonio) on Twitter",
+   "htmlTitle": "Help San Antonio (helpsanantonio) on Twitter",
+   "link": "https://twitter.com/helpsanantonio",
+   "displayLink": "twitter.com",
+   "snippet": "171 Tweets ￂﾷ 1,935 Following ￂﾷ 938 Followers ... 29 Mar 11 ￂﾷ Help San Antonio \u200f@  helpsanantonio ... Twitter response to Japan earthquake, tsunami is fast,   widespread. http://lat.ms/dLNmXi #twitter #tsunami ... RT @DBMinistries 2nd   Annual Golf Tournament on March 21st. ... India, 53000, Bharti Airtel, Videocon,   Reliance ...",
+   "htmlSnippet": "171 Tweets &middot; \u003cb\u003e1,935\u003c/b\u003e Following &middot; 938 Followers \u003cb\u003e...\u003c/b\u003e 29 \u003cb\u003eMar\u003c/b\u003e 11 &middot; Help San Antonio \u200f@\u003cbr\u003e  helpsanantonio \u003cb\u003e...\u003c/b\u003e Twitter response to Japan \u003cb\u003eearthquake\u003c/b\u003e, tsunami is fast, \u003cbr\u003e  widespread. http://lat.ms/dLNmXi #twitter #tsunami \u003cb\u003e...\u003c/b\u003e RT @DBMinistries 2nd \u003cbr\u003e  Annual Golf Tournament on March \u003cb\u003e21st\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eIndia\u003c/b\u003e, 53000, Bharti Airtel, Videocon, \u003cbr\u003e  Reliance \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0XnnA1c6AUIJ",
+   "formattedUrl": "https://twitter.com/helpsanantonio",
+   "htmlFormattedUrl": "https://twitter.com/helpsanantonio",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
      }
     ]
    }

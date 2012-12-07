@@ -5,12 +5,25 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 28 2001 India Earthquake",
+    "totalResults": "639000",
+    "searchTerms": "Jan 28 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Jan 28 2001 India Earthquake",
-    "totalResults": "5",
+    "totalResults": "639000",
     "searchTerms": "Jan 28 2001 India Earthquake",
-    "count": 5,
+    "count": 10,
     "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
@@ -23,167 +36,281 @@
   "title": "Quakes-in-our-main"
  },
  "searchInformation": {
-  "searchTime": 0.448015,
-  "formattedSearchTime": "0.45",
-  "totalResults": "5",
-  "formattedTotalResults": "5"
+  "searchTime": 0.189188,
+  "formattedSearchTime": "0.19",
+  "totalResults": "639000",
+  "formattedTotalResults": "639,000"
  },
  "items": [
   {
    "kind": "customsearch#result",
-   "title": "Hot Searches - Google",
-   "htmlTitle": "Hot Searches - Google",
-   "link": "http://www.google.com/trends/hottrends",
-   "displayLink": "www.google.com",
-   "snippet": "United States. India. Japan. Singapore. More... ??2012 Google. Terms of Use ...   on wednesday november 28 2012 aeropostale is a mall based retailer that sells   ... instead dialog more with the public before the legislature resumes in january   the ...",
-   "htmlSnippet": "United States. \u003cb\u003eIndia\u003c/b\u003e. Japan. Singapore. More... ??2012 Google. Terms of Use \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  on wednesday november \u003cb\u003e28\u003c/b\u003e 2012 aeropostale is a mall based retailer that sells \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e instead dialog more with the public before the legislature resumes in \u003cb\u003ejanuary\u003c/b\u003e \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "uvKavSff1xUJ",
-   "formattedUrl": "www.google.com/trends/hottrends",
-   "htmlFormattedUrl": "www.google.com/trends/hottrends",
+   "title": "The Bhuj, India, earthquake of January 26, 2001",
+   "htmlTitle": "The Bhuj, \u003cb\u003eIndia\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eJanuary\u003c/b\u003e 26, \u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://www.geerassociation.org/GEER_Post%20EQ%20Reports/Bhuj_2001/india_photo.htm",
+   "displayLink": "www.geerassociation.org",
+   "snippet": "BHUJ: Residents of Bhuj, India, scramble Sunday Jan. 28, 2001, over the rubble   left from Friday's massive earthquake. As many as 13,000 people are believed ...",
+   "htmlSnippet": "BHUJ: Residents of Bhuj, \u003cb\u003eIndia\u003c/b\u003e, scramble \u003cb\u003eSunday Jan. 28, 2001\u003c/b\u003e, over the rubble \u003cbr\u003e  left from Friday&#39;s massive \u003cb\u003eearthquake\u003c/b\u003e. As many as 13,000 people are believed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "350VtXdZdikJ",
+   "formattedUrl": "www.geerassociation.org/GEER.../Bhuj_2001/india_photo.htm",
+   "htmlFormattedUrl": "www.geerassociation.org/GEER.../Bhuj_\u003cb\u003e2001\u003c/b\u003e/\u003cb\u003eindia\u003c/b\u003e_photo.htm",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/trends/resources/2327917647-google-icon.png"
+      "src": "http://www.geerassociation.org/GEER_Post%20EQ%20Reports/Bhuj_2001/Damaged_Areas.gif"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "102",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3yTXNtH_-TAOlH7VN5H-YB12XPPIGpUNtjnutMt3YPxciVY44kh7V"
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdJtEMiH66Z81NintNc9-Sn7ks5oPlzCXSez5uz9W_snCk57QRcswE72o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 27, 2011 ... This ￢ﾀﾜIndia deadly earthquake list￢ﾀﾝ has been compiled out of our Earthquake-  Report.com daily ￢ﾀﾜDeadly earthquakes ... Gujarat January 26 earthquake 2001 - -   image courtesy IRC Red Cross ... January 26, 2011 at 4:28 pm ...",
+   "htmlSnippet": "Jan 27, 2011 \u003cb\u003e...\u003c/b\u003e This ￢ﾀﾜ\u003cb\u003eIndia\u003c/b\u003e deadly \u003cb\u003eearthquake\u003c/b\u003e list￢ﾀﾝ has been compiled out of our \u003cb\u003eEarthquake\u003c/b\u003e-\u003cbr\u003e  Report.com daily ￢ﾀﾜDeadly \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Gujarat \u003cb\u003eJanuary\u003c/b\u003e 26 \u003cb\u003eearthquake 2001\u003c/b\u003e - - \u003cbr\u003e  image courtesy IRC Red Cross \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary\u003c/b\u003e 26, 2011 at 4:\u003cb\u003e28\u003c/b\u003e pm \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/26/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-\u003cb\u003eindia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Josￃﾃￂﾩ Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NASA - NASA Ames Research Center Public Affairs Office",
+   "htmlTitle": "NASA - NASA Ames Research Center Public Affairs Office",
+   "link": "http://www.nasa.gov/centers/ames/news/releases/2002/02images/quakes/earthquakes.html",
+   "displayLink": "www.nasa.gov",
+   "snippet": "Satellite-derived images: January 26, 2001 Bhuj earthquake, Gujarat, India.   Origin Time ... The anomaly disappears shortly after the quake January 28, 2001.",
+   "htmlSnippet": "Satellite-derived images: January 26, 2001 Bhuj \u003cb\u003eearthquake\u003c/b\u003e, Gujarat, \u003cb\u003eIndia\u003c/b\u003e. \u003cbr\u003e  Origin Time \u003cb\u003e...\u003c/b\u003e The anomaly disappears shortly after the \u003cb\u003equake January 28, 2001\u003c/b\u003e.",
+   "cacheId": "ZDFwtXeIlOYJ",
+   "formattedUrl": "www.nasa.gov/centers/ames/news/.../quakes/earthquakes.html",
+   "htmlFormattedUrl": "www.nasa.gov/centers/ames/news/.../\u003cb\u003equake\u003c/b\u003es/\u003cb\u003eearthquakes\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "cms document id": "43238",
+      "dc.title": "NASA - NASA Ames Research Center Public Affairs Office",
+      "dc.format": "text/html",
+      "dc.date.modified": "2004-11-14",
+      "dc.language": "en",
+      "dc.publisher": "Brian Dunbar",
+      "dc.publisher.tool": "eTouch Digital Asset Management(CMS)",
+      "dc.identifier": "http://www.nasa.gov/centers/ames/news/releases/2002/02images/quakes/earthquakes.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong damaging earthquake in the Nepal / Sikkim (India ...",
+   "htmlTitle": "Very strong damaging \u003cb\u003eearthquake\u003c/b\u003e in the Nepal / Sikkim (\u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 2, 2011 ... Sikkim September 28 update ... The Sikkim earthquake has raised questions on   the future of India's hydropower development as scientists say ...",
+   "htmlSnippet": "Oct 2, 2011 \u003cb\u003e...\u003c/b\u003e Sikkim September \u003cb\u003e28\u003c/b\u003e update \u003cb\u003e...\u003c/b\u003e The Sikkim \u003cb\u003eearthquake\u003c/b\u003e has raised questions on \u003cbr\u003e  the future of \u003cb\u003eIndia&#39;s\u003c/b\u003e hydropower development as scientists say \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0hEt4bGhGegJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-earthquake-in-sikkim-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-\u003cb\u003eearthquake\u003c/b\u003e-in-sikkim-\u003cb\u003eindia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/09/india-19092011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "236",
+      "height": "156",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Zq3DEjg7bjf9SyfGLzsxsLzf2pwhzbCh2aTlCxNld3KGjAKNQSX6Zic"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dipen Giri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "7.9 Magnitude Earthquake Struck Gujurat, India: 20,000 Killed ...",
+   "htmlTitle": "7.9 Magnitude \u003cb\u003eEarthquake\u003c/b\u003e Struck Gujurat, \u003cb\u003eIndia\u003c/b\u003e: 20,000 Killed \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://suite101.com/article/79-magnitude-earthquake-struck-gujurat-india-20000-killed-a336930",
+   "displayLink": "suite101.com",
+   "snippet": "Jan 23, 2011 ... Friday January 26, 2001 resulting in about 20,000 persons killed. ... \"The most   powerful earthquake to strike India in a half century rocked the subcontinent   Friday...leaving desperate survivors clawing ... January 28, 2001.",
+   "htmlSnippet": "Jan 23, 2011 \u003cb\u003e...\u003c/b\u003e Friday January 26, 2001 resulting in about 20,000 persons killed. \u003cb\u003e...\u003c/b\u003e &quot;The most \u003cbr\u003e  powerful \u003cb\u003eearthquake\u003c/b\u003e to strike \u003cb\u003eIndia\u003c/b\u003e in a half century rocked the subcontinent \u003cbr\u003e  Friday...leaving desperate survivors clawing \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary 28, 2001\u003c/b\u003e.",
+   "cacheId": "m5C69GDUXcwJ",
+   "formattedUrl": "suite101.com/.../79-magnitude-earthquake-struck-gujurat-india-20000-killed -a336930",
+   "htmlFormattedUrl": "suite101.com/.../79-magnitude-\u003cb\u003eearthquake\u003c/b\u003e-struck-gujurat-\u003cb\u003eindia\u003c/b\u003e-20000-killed -a336930",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://suite101.com/files/000/188/000188878.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "257",
+      "height": "196",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRecM-FYfp7yunSI_DxFJFdB9k0pf9FOH3pFHPojqu44ipnGk64tj5xTjU8"
      }
     ],
     "metatags": [
      {
-      "og:title": "Google Hot Searches",
+      "article:author": "http://suite101.com/julia-adamson",
+      "dc.title": "7.9 Magnitude Earthquake Struck Gujurat, India: 20,000 Killed",
       "og:type": "article",
-      "og:url": "http://www.google.com/trends/hottrends",
-      "og:image": "http://www.google.com/trends/resources/2327917647-google-icon.png",
-      "og:description": "Explore trending search topics with Google Hot Searches."
+      "article:section": "Science & Nature",
+      "og:title": "7.9 Magnitude Earthquake Struck Gujurat, India: 20,000 Killed",
+      "sioc:num_replies": "0",
+      "dc:title": "7.9 Magnitude Earthquake Struck Gujurat, India: 20,000 Killed",
+      "og:image": "http://suite101.com/files/000/188/000188878.jpg",
+      "copyright": "&copy; Suite101.com Media Inc.",
+      "dc.type": "article",
+      "publisher": "Suite101",
+      "og:description": "Over 160,000 people were injured and 600,000 were left homeless January 26 in the state of Gujurat, India following a 7.9 earthquake and 83 aftershocks .",
+      "og:url": "http://suite101.com/article/79-magnitude-earthquake-struck-gujurat-india-20000-killed-a336930",
+      "dc.description": "Over 160,000 people were injured and 600,000 were left homeless January 26 in the state of Gujurat, India following a 7.9 earthquake and 83 aftershocks .",
+      "dc.identifier": "http://suite101.com/article/79-magnitude-earthquake-struck-gujurat-india-20000-killed-a336930",
+      "author": "Julia Adamson",
+      "dc.publisher": "suite101.com",
+      "og:site_name": "suite101.com",
+      "fb:app_id": "123084094388711",
+      "og:locale": "en_US",
+      "dc.creator": "Julia Adamson",
+      "dc.date": "Jan 23, 2011"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Natural Disasters",
+      "title": "Natural Disasters"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall ...",
-   "htmlTitle": "Patent US5490655 - Video/data projector and monitor ceiling/wall \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US5490655",
-   "displayLink": "www.google.com",
-   "snippet": "Seismic cables may be added for extra support in case of earthquake. ...   US3981340, Nov 28, 1975, Sep 21, 1976, GTE Sylvania Incorporated, Cover ...   US7077373, Jan 4, 2001, Jul 18, 2006, Da-Lite Screen Co., Inc. Mount for TV   monitor ... USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, Ind.   Universal ...",
-   "htmlSnippet": "Seismic cables may be added for extra support in case of \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US3981340, Nov \u003cb\u003e28\u003c/b\u003e, 1975, Sep 21, 1976, GTE Sylvania Incorporated, Cover \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US7077373, \u003cb\u003eJan\u003c/b\u003e 4, \u003cb\u003e2001\u003c/b\u003e, Jul 18, 2006, Da-Lite Screen Co., Inc. Mount for TV \u003cbr\u003e  monitor \u003cb\u003e...\u003c/b\u003e USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, \u003cb\u003eInd\u003c/b\u003e. \u003cbr\u003e  Universal \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US5490655",
-   "htmlFormattedUrl": "www.google.com/patents/US5490655",
+   "title": "Tangshen/Tangshan, China Earthquake",
+   "htmlTitle": "Tangshen/Tangshan, China \u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "ftp://mceer.buffalo.edu/pub/searches/08/06/080605.html",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Bhuj, India earthquake, January 28, 2001. Tangshan, China earthquake, July 28,   1976. Remote sensing information. Buildings. Statistical information. AB: In the ...",
+   "htmlSnippet": "Bhuj, \u003cb\u003eIndia earthquake\u003c/b\u003e, \u003cb\u003eJanuary 28, 2001\u003c/b\u003e. Tangshan, China \u003cb\u003eearthquake\u003c/b\u003e, July 28, \u003cbr\u003e  1976. Remote sensing information. Buildings. Statistical information. AB: In the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lF08VZjITPsJ",
+   "formattedUrl": "ftp://mceer.buffalo.edu/pub/searches/08/06/080605.html",
+   "htmlFormattedUrl": "ftp://mceer.buffalo.edu/pub/searches/08/06/080605.html",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://mceer.buffalo.edu/infoservice/images/imagesRedesign/mceerPrint.gif"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-w7ogDtwXRdac-ys5vaE2g3t1ewYdc0nYfyhT4RJOnAOVCirfukt9ZzM"
-     }
-    ],
-    "book": [
-     {
-      "description": "A mount than secures a projector or monitor to a ceiling or wall is disclosed. The mount uses struts that form channels which support the projector/monitor and provide alternate channels for...",
-      "url": "http://www.google.com/patents/US5490655?utm_source=gb-gplus-share",
-      "name": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US5490655",
-      "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "131",
+      "height": "46",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsDBG-j5bpneWctjqOMV7_SmcCOt3uq0xQzNfwOmgnVFIJ8J-hE3qj2w"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Our history in depth ??? Company ??? Google",
-   "htmlTitle": "Our history in depth ??? Company ??? Google",
-   "link": "http://www.google.com/intl/en_uk/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "2001. January. We announce the hiring of Silicon Valley veteran Wayne Rosing   as ... We spotlight our new engineering offices in Bangalore and Hyderabad,   India, with a visit from Sergey and Larry. .... Google Apps is now available in 28   languages. ... Following both the Sichuan earthquake in China and Cyclone   Nargis in ...",
-   "htmlSnippet": "\u003cb\u003e2001\u003c/b\u003e. \u003cb\u003eJanuary\u003c/b\u003e. We announce the hiring of Silicon Valley veteran Wayne Rosing \u003cbr\u003e  as \u003cb\u003e...\u003c/b\u003e We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e, with a visit from Sergey and Larry. \u003cb\u003e....\u003c/b\u003e Google Apps is now available in \u003cb\u003e28\u003c/b\u003e \u003cbr\u003e  languages. \u003cb\u003e...\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone \u003cbr\u003e  Nargis in \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Uz9ka1X37zwJ",
-   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
-   "pagemap": {
-    "metatags": [
-     {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
-     }
-    ]
-   }
+   "title": ":: ASC :: 26 January 2001, M7.7 Bhuj Earthquake/Gujarat ...",
+   "htmlTitle": ":: ASC :: 26 \u003cb\u003eJanuary 2001\u003c/b\u003e, M7.7 Bhuj \u003cb\u003eEarthquake\u003c/b\u003e/Gujarat \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://asc-india.org/lib/20010126-kachchh.htm",
+   "displayLink": "asc-india.org",
+   "snippet": "Jan 26, 2001 ... A major earthquake struck Gujarat, India, on 26 January 2001 at 08:46 AM .... The   strongest aftershock occurred on January 28, 2001 and was ...",
+   "htmlSnippet": "Jan 26, 2001 \u003cb\u003e...\u003c/b\u003e A major \u003cb\u003eearthquake\u003c/b\u003e struck Gujarat, \u003cb\u003eIndia\u003c/b\u003e, on 26 January 2001 at 08:46 AM \u003cb\u003e....\u003c/b\u003e The \u003cbr\u003e  strongest aftershock occurred on \u003cb\u003eJanuary 28, 2001\u003c/b\u003e and was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "a7AArGB_V7MJ",
+   "formattedUrl": "asc-india.org/lib/20010126-kachchh.htm",
+   "htmlFormattedUrl": "asc-\u003cb\u003eindia\u003c/b\u003e.org/lib/\u003cb\u003e2001\u003c/b\u003e0126-kachchh.htm"
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US6484469 - Column structures and methods for supporting ...",
-   "htmlTitle": "Patent US6484469 - Column structures and methods for supporting \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US6484469",
-   "displayLink": "www.google.com",
-   "snippet": "Filing date: Oct 16, 2001 ... US4267676, Feb 26, 1979, May 19, 1981, Preload   Technology, Inc. Earthquake resisting tank and methods of constructing same ...   US5043033, Jan 28, 1991, Aug 27, 1991, Process of improving the strength of   existing concrete ... Tube Investments of India Limited, Sleeved compression   member ...",
-   "htmlSnippet": "Filing date: Oct 16, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US4267676, Feb 26, 1979, May 19, 1981, Preload \u003cbr\u003e  Technology, Inc. \u003cb\u003eEarthquake\u003c/b\u003e resisting tank and methods of constructing same \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5043033, \u003cb\u003eJan 28\u003c/b\u003e, 1991, Aug 27, 1991, Process of improving the strength of \u003cbr\u003e  existing concrete \u003cb\u003e...\u003c/b\u003e Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression \u003cbr\u003e  member \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US6484469",
-   "htmlFormattedUrl": "www.google.com/patents/US6484469",
-   "pagemap": {
-    "cse_image": [
-     {
-      "src": "http://www.google.com/patents?id=JoUJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "cse_thumbnail": [
-     {
-      "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRh80kFwmnIoq-foQolkE3VWKnaRnD7B68L7dTmN0ktXUtMPyhiVAyMbQ"
-     }
-    ],
-    "book": [
-     {
-      "description": "A column assembly preferably includes a tube member having a wall that defines an interior volume. The column assembly is preferably operable to convert external, axial compressive forces applied...",
-      "url": "http://www.google.com/patents/US6484469?utm_source=gb-gplus-share",
-      "name": "Patent US6484469 - Column structures and methods for supporting compressive loads",
-      "image": "http://www.google.com/patents?id=JoUJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US6484469",
-      "title": "Patent US6484469 - Column structures and methods for supporting compressive loads",
-      "og:title": "Patent US6484469 - Column structures and methods for supporting compressive loads",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=JoUJAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ]
-   }
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 4.6,   GUJARAT, INDIA, Dec 21 2001, 17:33:21, 23.765, 70.051, 200112211733 ..... 4.7  , GUJARAT, INDIA, Jan 28 2001, 17:15:22, 23.180, 69.907 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 4.6, \u003cbr\u003e  GUJARAT, \u003cb\u003eINDIA\u003c/b\u003e, Dec 21 2001, 17:33:21, 23.765, 70.051, 200112211733 \u003cb\u003e.....\u003c/b\u003e 4.7\u003cbr\u003e  , GUJARAT, \u003cb\u003eINDIA\u003c/b\u003e, \u003cb\u003eJan 28 2001\u003c/b\u003e, 17:15:22, 23.180, 69.907 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
   },
   {
    "kind": "customsearch#result",
-   "title": "Our history in depth ??? Company ??? Google",
-   "htmlTitle": "Our history in depth ??? Company ??? Google",
-   "link": "http://www.google.com/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "2001. January. We announce the hire of Silicon Valley veteran Wayne Rosing as   ... We spotlight our new engineering offices in Bangalore and Hyderabad, India   with a visit from Sergey and Larry. .... Google Apps is now available in 28   languages. ... Following both the Sichuan earthquake in China and Cyclone   Nargis in ...",
-   "htmlSnippet": "\u003cb\u003e2001\u003c/b\u003e. \u003cb\u003eJanuary\u003c/b\u003e. We announce the hire of Silicon Valley veteran Wayne Rosing as \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e \u003cbr\u003e  with a visit from Sergey and Larry. \u003cb\u003e....\u003c/b\u003e Google Apps is now available in \u003cb\u003e28\u003c/b\u003e \u003cbr\u003e  languages. \u003cb\u003e...\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone \u003cbr\u003e  Nargis in \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Ex81iG3sJZAJ",
-   "formattedUrl": "www.google.com/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.disasternews.net/news/news.php?topic=Earthquakes",
+   "displayLink": "www.disasternews.net",
+   "snippet": "Through original reporting, Disaster News Network (DNN) tells ...",
+   "htmlSnippet": "Through original reporting, Disaster News Network (DNN) tells \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JJ5O1ms-c8QJ",
+   "formattedUrl": "www.disasternews.net/news/news.php?topic=Earthquakes",
+   "htmlFormattedUrl": "www.disasternews.net/news/news.php?topic=\u003cb\u003eEarthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MSK Scale",
+   "htmlTitle": "MSK Scale",
+   "link": "http://www.jsce.or.jp/report/12/Indian/Report/PDF/indo4.pdf",
+   "displayLink": "www.jsce.or.jp",
+   "snippet": "Figure 4.6 Fault plane solutions for the aftershock on January 28, 2001 by ...   seems that many earthquakes in Indian plate do not result in well-defined fault ...",
+   "htmlSnippet": "Figure 4.6 Fault plane solutions for the aftershock on \u003cb\u003eJanuary 28, 2001\u003c/b\u003e by \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  seems that many \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndian\u003c/b\u003e plate do not result in well-defined fault \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "j5k0ZhZwo-wJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.jsce.or.jp/report/12/Indian/Report/PDF/indo4.pdf",
+   "htmlFormattedUrl": "www.jsce.or.jp/report/12/\u003cb\u003eIndian\u003c/b\u003e/Report/PDF/indo4.pdf",
    "pagemap": {
     "metatags": [
      {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+      "creator": "Microsoft Word - 993691360__indo4.doc",
+      "creationdate": "D:20010629084355",
+      "title": "993691360__indo4.PDF",
+      "author": "kageyama",
+      "producer": "Acrobat PDFWriter 4.0 Windows NT"
      }
     ]
    }

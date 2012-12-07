@@ -5,12 +5,26 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 28 1926 Eurasia Earthquake",
+    "totalResults": "6340",
+    "searchTerms": "Feb 28 1926 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Feb 28 1926 Eurasia Earthquake",
-    "totalResults": "0",
+    "totalResults": "6340",
     "searchTerms": "Feb 28 1926 Eurasia Earthquake",
     "count": 10,
+    "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
     "safe": "off",
@@ -18,10 +32,266 @@
    }
   ]
  },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
  "searchInformation": {
-  "searchTime": 0.242502,
-  "formattedSearchTime": "0.24",
-  "totalResults": "0",
-  "formattedTotalResults": "0"
- }
+  "searchTime": 0.248699,
+  "formattedSearchTime": "0.25",
+  "totalResults": "6340",
+  "formattedTotalResults": "6,340"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Remarkable recurrence of M~7- intermediate-depth earthquakes ...",
+   "htmlTitle": "Remarkable recurrence of M~7- intermediate-depth \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://adsabs.harvard.edu/abs/2012EGUGA..14.8645H",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "AA(The University of Tokyo, Earthquake Research Institute, Tokyo, Japan   haratomo@eri.u-tokyo.ac.jp ), AB(Yokowo 2-28-26, Suma-ku, Kobe, Japan) ...   vicinity of the Himalayas where the Indian plate is colliding against the Eurasian   plate.",
+   "htmlSnippet": "AA(The University of Tokyo, \u003cb\u003eEarthquake\u003c/b\u003e Research Institute, Tokyo, Japan \u003cbr\u003e  haratomo@eri.u-tokyo.ac.jp ), AB(Yokowo \u003cb\u003e2-28-26\u003c/b\u003e, Suma-ku, Kobe, Japan) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  vicinity of the Himalayas where the Indian plate is colliding against the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  plate.",
+   "formattedUrl": "adsabs.harvard.edu/abs/2012EGUGA..14.8645H",
+   "htmlFormattedUrl": "adsabs.harvard.edu/abs/2012EGUGA..14.8645H",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/2012EGUGA..14.8645H",
+      "citation_title": "Remarkable recurrence of M~7- intermediate-depth earthquakes beneath the Hindu Kush",
+      "citation_authors": "Harada, T.; Ishibashi, K.",
+      "citation_date": "04/2012",
+      "citation_conference": "EGU General Assembly Conference Abstracts",
+      "citation_volume": "14",
+      "citation_firstpage": "8645",
+      "prism.publicationname": "EGU General Assembly Conference Abstracts",
+      "prism.volume": "14",
+      "prism.startingpage": "8645",
+      "dc.language": "en",
+      "dc.date": "2012-04",
+      "dc.source": "EGU General Assembly 2012, held 22-27 April, 2012 in Vienna, Austria., p.8645",
+      "dc.title": "Remarkable recurrence of M~7- intermediate-depth earthquakes beneath the Hindu Kush",
+      "dc.creator": "Harada, T."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of earthquakes in Turkey, including any notable historical ... within   the complex zone of collision between the Eurasian Plate and both the ...   February 28, 1855, 01:00, Bursa ... see 1926 Kars earthquake, 40.7, 43.7, 360,   6.0, Ms ...",
+   "htmlSnippet": "This is a list of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey, including any notable historical \u003cb\u003e...\u003c/b\u003e within \u003cbr\u003e  the complex zone of collision between the \u003cb\u003eEurasian\u003c/b\u003e Plate and both the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eFebruary 28\u003c/b\u003e, 1855, 01:00, Bursa \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1926\u003c/b\u003e Kars \u003cb\u003eearthquake\u003c/b\u003e, 40.7, 43.7, 360, \u003cbr\u003e  6.0, Ms \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a ... Alaska, 28 March 1964, moment   magnitude 9.2 Mw. Although the magnitude scale is open ended, the strength of   ... 1926, 19, 1956, 15, 1986, 6 .... 1 Feb 1915, Conisbrough, \u003c 3, 1, Conisbrough,   Falling rock ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a \u003cb\u003e...\u003c/b\u003e Alaska, \u003cb\u003e28\u003c/b\u003e March 1964, moment \u003cbr\u003e  magnitude 9.2 Mw. Although the magnitude scale is open ended, the strength of \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1926\u003c/b\u003e, 19, 1956, 15, 1986, 6 \u003cb\u003e....\u003c/b\u003e 1 \u003cb\u003eFeb\u003c/b\u003e 1915, Conisbrough, &lt; 3, 1, Conisbrough, \u003cbr\u003e  Falling rock \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   ... the Arabian Plate and the Eurasian Plate, beyond the eastern extent of the   Armenian and Asia Minor fault zones. .... [28] The government had announced   that tents will be delivered to those ..... Christchurch, New Zealand (first) (6.3, Feb   22)￢ﾀﾠ ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e the Arabian Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the \u003cbr\u003e  Armenian and Asia Minor fault zones. \u003cb\u003e....\u003c/b\u003e [\u003cb\u003e28\u003c/b\u003e] The government had announced \u003cbr\u003e  that tents will be delivered to those \u003cb\u003e.....\u003c/b\u003e Christchurch, New Zealand (first) (6.3, \u003cb\u003eFeb\u003c/b\u003e \u003cbr\u003e  22)￢ﾀﾠ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Planet ONE Network - Earth News & Changes",
+   "htmlTitle": "Planet ONE Network - Earth News &amp; Changes",
+   "link": "http://lightgatherings.com/EarthNews.html",
+   "displayLink": "lightgatherings.com",
+   "snippet": "On Feb. 15, 2013 the astroid DA14 comes within 0.09 LD of the Earth and is 57 m   in diameter. .... Earthquake swarms hit Canada's East and West Coast - April 28,   2012 2:27 A magnitude ..... American and Eurasian Plates, as North America   moves westward relative to Eurasia. ..... 9, 1926, in Bass Harbor, the statement   said.",
+   "htmlSnippet": "On \u003cb\u003eFeb\u003c/b\u003e. 15, 2013 the astroid DA14 comes within 0.09 LD of the Earth and is 57 m \u003cbr\u003e  in diameter. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e swarms hit Canada&#39;s East and West Coast - April \u003cb\u003e28\u003c/b\u003e, \u003cbr\u003e  2012 2:27 A magnitude \u003cb\u003e.....\u003c/b\u003e American and \u003cb\u003eEurasian\u003c/b\u003e Plates, as North America \u003cbr\u003e  moves westward relative to \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e 9, \u003cb\u003e1926\u003c/b\u003e, in Bass Harbor, the statement \u003cbr\u003e  said.",
+   "cacheId": "WI1Q5BzsSWQJ",
+   "formattedUrl": "lightgatherings.com/EarthNews.html",
+   "htmlFormattedUrl": "lightgatherings.com/EarthNews.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://lightgatherings.com/images/navigation/blankburst2-red.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "80",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcdRyZvF9_zHgA62MkrC3HZW6Qlt_zOBmJyapmNRfWGYb0q4axdAcZlQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1509 Istanbul earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1509 Istanbul \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1509_Istanbul_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Epicenter, 40ￂﾰ54￢ﾀﾲN 28ￂﾰ42￢ﾀﾲE\ufeff / \ufeff40.9ￂﾰN 28.7ￂﾰE\ufeff / 40.9; 28.7Coordinates: 40ￂﾰ54￢ﾀﾲ  N ... The 1509 Istanbul earthquake, referred to as \"The Lesser Judgment Day\" ...   This local zone of extension occurs where this transform boundary between the   Anatolian Plate and the Eurasian Plate steps ... Retrieved 6 February 2010.",
+   "htmlSnippet": "Epicenter, 40ￂﾰ54￢ﾀﾲN \u003cb\u003e28\u003c/b\u003eￂﾰ42￢ﾀﾲE\ufeff / \ufeff40.9ￂﾰN 28.7ￂﾰE\ufeff / 40.9; 28.7Coordinates: 40ￂﾰ54￢ﾀﾲ\u003cbr\u003e  N \u003cb\u003e...\u003c/b\u003e The 1509 Istanbul \u003cb\u003eearthquake\u003c/b\u003e, referred to as &quot;The Lesser Judgment Day&quot; \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  This local zone of extension occurs where this transform boundary between the \u003cbr\u003e  Anatolian Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate steps \u003cb\u003e...\u003c/b\u003e Retrieved 6 \u003cb\u003eFebruary\u003c/b\u003e 2010.",
+   "cacheId": "68j27gJvUhwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1509_Istanbul_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1509_Istanbul_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Turkey_relief_location_map.jpg/250px-Turkey_relief_location_map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "85",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEkTdZGmCTOVqdT2DI1197ljfADRRAVvwbKFaC5nY-IsIRsY60x9GSTHA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Proposed seismic hazard maps of Sumatra and Java islands and ...",
+   "htmlTitle": "Proposed \u003cb\u003eseismic\u003c/b\u003e hazard maps of Sumatra and Java islands and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ias.ac.in/jess/nov2008/jess141.pdf",
+   "displayLink": "www.ias.ac.in",
+   "snippet": "sify all of those earthquakes that occurred near convergent boundaries where the   Indo-Australian plate is being subducted under the Eurasian plate. (figure 2).",
+   "htmlSnippet": "sify all of those \u003cb\u003eearthquakes\u003c/b\u003e that occurred near convergent boundaries where the \u003cbr\u003e  Indo-Australian plate is being subducted under the \u003cb\u003eEurasian\u003c/b\u003e plate. (figure 2).",
+   "cacheId": "GQYUS1lsWDAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ias.ac.in/jess/nov2008/jess141.pdf",
+   "htmlFormattedUrl": "www.ias.ac.in/jess/nov2008/jess141.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081215165852+05'30'",
+      "creator": "dvips(k) 5.94a Copyright 2003 Radical Eye Software",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20081215170020+05'30'",
+      "title": "jess141.dvi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1953 Yenice-Gￃﾶnen earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1953 Yenice-Gￃﾶnen \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1953_Yenice-G%C3%B6nen_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1953 Yenice-Gￃﾶnen earthquake occurred at 21:06 local time (19:06 UTC on   March 18, ... of the Anatolian Plate relative to the Eurasian Plate and the Arabian   Plate as it is effectively being ... Retrieved 5 February 2011. ... high&_orig=  browse&_origin=browse&_zone=rslt_list_item&_srch=doc-info%28%23toc%  235830% ...",
+   "htmlSnippet": "The 1953 Yenice-Gￃﾶnen \u003cb\u003eearthquake\u003c/b\u003e occurred at 21:06 local time (19:06 UTC on \u003cbr\u003e  March 18, \u003cb\u003e...\u003c/b\u003e of the Anatolian Plate relative to the \u003cb\u003eEurasian\u003c/b\u003e Plate and the Arabian \u003cbr\u003e  Plate as it is effectively being \u003cb\u003e...\u003c/b\u003e Retrieved 5 \u003cb\u003eFebruary\u003c/b\u003e 2011. \u003cb\u003e...\u003c/b\u003e high&amp;_orig=\u003cbr\u003e  browse&amp;_origin=browse&amp;_zone=rslt_list_item&amp;_srch=doc-info%\u003cb\u003e28\u003c/b\u003e%23toc%\u003cbr\u003e  235830% \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "baFDDsKfI7UJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1953_Yenice-Gￃﾶnen_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1953_Yenice-Gￃﾶnen_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/260px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "130",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1APbrsyOCdPXD5DVrwAx3ljyjMFt3Pszt2hV1HxJ-abZ-bk8AxETmGj0q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "the kashmir earthquake of october 8, 2005 a quicklook report",
+   "htmlTitle": "the kashmir \u003cb\u003eearthquake\u003c/b\u003e of october 8, 2005 a quicklook report",
+   "link": "https://netfiles.uiuc.edu/amasud/www/Papers/MAE%20Center%20Kashmir%20Earthquake%20Quicklook%20Report.pdf",
+   "displayLink": "netfiles.uiuc.edu",
+   "snippet": "IMPLICATIONS ON FUTURE EARTHQUAKE HAZARD AND NEEDS . ...... moving   northward, colliding with and subducting under the Eurasian plate, .... 1906   February ... 1926 July. 26 6.00E + 25. 5.19E + 28. 2.3. Nepal-Bihar. 8.1. 27.6.   87.1 ...",
+   "htmlSnippet": "IMPLICATIONS ON FUTURE \u003cb\u003eEARTHQUAKE\u003c/b\u003e HAZARD AND NEEDS . \u003cb\u003e......\u003c/b\u003e moving \u003cbr\u003e  northward, colliding with and subducting under the \u003cb\u003eEurasian\u003c/b\u003e plate, \u003cb\u003e....\u003c/b\u003e 1906 \u003cbr\u003e  \u003cb\u003eFebruary\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1926\u003c/b\u003e July. 26 6.00E + 25. 5.19E + \u003cb\u003e28\u003c/b\u003e. 2.3. Nepal-Bihar. 8.1. 27.6. \u003cbr\u003e  87.1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "K5I9QzpUgVgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "https://netfiles.uiuc.edu/.../ MAE%20Center%20Kashmir%20Earthquake%20Quicklook%20Report.pdf",
+   "htmlFormattedUrl": "https://netfiles.uiuc.edu/.../ MAE%20Center%20Kashmir%20\u003cb\u003eEarthquake\u003c/b\u003e%20Quicklook%20Report.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20051213213416-06'00'",
+      "creationdate": "D:20051213213416-06'00'",
+      "title": "Microsoft Word - MAE Center Kashmir Earthquake Quicklook.doc",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "author": "aelnash"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Faulting at Ancient Cnidus, SW Turkey",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Faulting at Ancient Cnidus, SW Turkey",
+   "link": "http://journals.tubitak.gov.tr/earth/issues/yer-03-12-1/yer-12-1-9-0301-8.pdf",
+   "displayLink": "journals.tubitak.gov.tr",
+   "snippet": "3 Deceased; formerly of ￢ﾀﾹstanbul Technical University, Insitute of Eurasian ...   Sanctuary of Demeter, indicates past earthquake surface rupture on the Cnidus   Fault. .... 28ￂﾰ. 29ￂﾰ 36ￂﾰ. 1956. Nisyros. CNIDUS. Datￃﾧa. Yall. Cos. 1933. Gulf of   Gￃﾶkova ... 1926. 1957. 500. 1000. 500. 100. 1000. Marmaris. 1959. 1000. 1500.   500 ...",
+   "htmlSnippet": "3 Deceased; formerly of ￢ﾀﾹstanbul Technical University, Insitute of \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Sanctuary of Demeter, indicates past \u003cb\u003eearthquake\u003c/b\u003e surface rupture on the Cnidus \u003cbr\u003e  Fault. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e28\u003c/b\u003eￂﾰ. 29ￂﾰ 36ￂﾰ. 1956. Nisyros. CNIDUS. Datￃﾧa. Yall. Cos. 1933. Gulf of \u003cbr\u003e  Gￃﾶkova \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1926\u003c/b\u003e. 1957. 500. 1000. 500. 100. 1000. Marmaris. 1959. 1000. 1500. \u003cbr\u003e  500 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JaX6XNg3i5kJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "journals.tubitak.gov.tr/earth/issues/yer-03-12-1/yer-12-1-9-0301-8.pdf",
+   "htmlFormattedUrl": "journals.tubitak.gov.tr/earth/issues/yer-03-12-1/yer-12-1-9-0301-8.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030319152800",
+      "producer": "Acrobat Distiller 3.01 for Power Macintosh",
+      "author": "Hayriye",
+      "creator": "QuarkXPress Passportￂﾪ: LaserWriter 8 TU1-8.7",
+      "title": "yer-12-1-9-0301-8"
+     }
+    ]
+   }
+  }
+ ]
 }

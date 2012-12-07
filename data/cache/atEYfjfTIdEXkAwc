@@ -5,10 +5,23 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 5 2003 India Earthquake",
+    "totalResults": "773000",
+    "searchTerms": "Aug 5 2003 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Aug 5 2003 India Earthquake",
-    "totalResults": "10",
+    "totalResults": "773000",
     "searchTerms": "Aug 5 2003 India Earthquake",
     "count": 10,
     "startIndex": 1,
@@ -23,351 +36,274 @@
   "title": "Quakes-in-our-main"
  },
  "searchInformation": {
-  "searchTime": 0.447524,
-  "formattedSearchTime": "0.45",
-  "totalResults": "10",
-  "formattedTotalResults": "10"
+  "searchTime": 0.221399,
+  "formattedSearchTime": "0.22",
+  "totalResults": "773000",
+  "formattedTotalResults": "773,000"
  },
  "items": [
   {
    "kind": "customsearch#result",
-   "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall ...",
-   "htmlTitle": "Patent US5490655 - Video/data projector and monitor ceiling/wall \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US5490655",
-   "displayLink": "www.google.com",
-   "snippet": "... projector/monitor. Seismic cables may be added for extra support in case of   earthquake. ... US3661415, Dec 5, 1969, 1972, HOIST SYSTEM ... USD504305,   Jun 27, 2003, Apr 26, 2005, Peerless Industries, Ind. Universal mounting system ...",
-   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e projector/monitor. Seismic cables may be added for extra support in case of \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e US3661415, \u003cb\u003eDec 5\u003c/b\u003e, 1969, 1972, HOIST SYSTEM \u003cb\u003e...\u003c/b\u003e USD504305, \u003cbr\u003e  Jun 27, \u003cb\u003e2003\u003c/b\u003e, Apr 26, 2005, Peerless Industries, \u003cb\u003eInd\u003c/b\u003e. Universal mounting system \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US5490655",
-   "htmlFormattedUrl": "www.google.com/patents/US5490655",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 1, 2012 at 5:26 pm by By Armand Vervaeck and James   Daniell ... damage at Karachi and damage and casualties in the Mumbai (  Bombay) area, India. ..... 45 miles east of the region hit by the August earthquake.",
+   "htmlSnippet": "Last update: December 1, 2012 at \u003cb\u003e5\u003c/b\u003e:26 pm by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e...\u003c/b\u003e damage at Karachi and damage and casualties in the Mumbai (\u003cbr\u003e  Bombay) area, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e 45 miles east of the region hit by the \u003cb\u003eAugust earthquake\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": ":: ASC :: 5 August 2003, M5.0 Suvi Earthquake (Gujarat), India",
+   "htmlTitle": ":: ASC :: \u003cb\u003e5 August 2003\u003c/b\u003e, M5.0 Suvi \u003cb\u003eEarthquake\u003c/b\u003e (Gujarat), \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://asc-india.org/lib/20030805-kachchh.htm",
+   "displayLink": "asc-india.org",
+   "snippet": "Aug 5, 2003 ... A moderate earthquake struck Gujarat, India, on 5 August 2003 at 16:38 PM local   time causing minor damage in eastern Kachchh and ...",
+   "htmlSnippet": "Aug 5, 2003 \u003cb\u003e...\u003c/b\u003e A moderate \u003cb\u003eearthquake\u003c/b\u003e struck Gujarat, \u003cb\u003eIndia\u003c/b\u003e, on \u003cb\u003e5 August 2003\u003c/b\u003e at 16:38 PM local \u003cbr\u003e  time causing minor damage in eastern Kachchh and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UnLk_em2xm8J",
+   "formattedUrl": "asc-india.org/lib/20030805-kachchh.htm",
+   "htmlFormattedUrl": "asc-\u003cb\u003eindia\u003c/b\u003e.org/lib/\u003cb\u003e2003\u003c/b\u003e0805-kachchh.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ￢ﾀﾓ Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ￢ﾀﾓ Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... SOS Earthquakes was founded in August 2010. ... Figure 2 ￢ﾀﾓ The CATDAT   Damaging Earthquakes Database parameters (Daniell, 2003-2011a) ... Figure 5   ￢ﾀﾓ The fatal earthquakes in 2011 in the CATDAT Damaging ... the Van earthquake   in October, in the India-Nepal-Tibet region in September, in China ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e SOS \u003cb\u003eEarthquakes\u003c/b\u003e was founded in \u003cb\u003eAugust\u003c/b\u003e 2010. \u003cb\u003e...\u003c/b\u003e Figure 2 ￢ﾀﾓ The CATDAT \u003cbr\u003e  Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database parameters (Daniell, \u003cb\u003e2003\u003c/b\u003e-2011a) \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e5\u003c/b\u003e \u003cbr\u003e  ￢ﾀﾓ The fatal \u003cb\u003eearthquakes\u003c/b\u003e in 2011 in the CATDAT Damaging \u003cb\u003e...\u003c/b\u003e the Van \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  in October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet region in September, in China \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": ":: ASC :: Seismicity of Gujarat, India",
+   "htmlTitle": ":: ASC :: Seismicity of Gujarat, \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://asc-india.org/seismi/seis-gujarat.htm",
+   "displayLink": "asc-india.org",
+   "snippet": "Nov 13, 2011 ... 23.640 N, 70.230 E, D=010.0 kms, OT=11:08:03 UTC (5) A moderate earthquake   struck Gujarat, India, on 5 August 2003 at 16:38 PM local time ...",
+   "htmlSnippet": "Nov 13, 2011 \u003cb\u003e...\u003c/b\u003e 23.640 N, 70.230 E, D=010.0 kms, OT=11:08:03 UTC (5) A moderate \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  struck Gujarat, \u003cb\u003eIndia\u003c/b\u003e, on \u003cb\u003e5 August 2003\u003c/b\u003e at 16:38 PM local time \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6gcz69Z4EaAJ",
+   "formattedUrl": "asc-india.org/seismi/seis-gujarat.htm",
+   "htmlFormattedUrl": "asc-\u003cb\u003eindia\u003c/b\u003e.org/seismi/seis-gujarat.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://asc-india.org/maps/seismi/seis-gujarat.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "207",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqLMXOSKoJJ2ncFYnW1C86eSanMH1bfFJhgGsl9-suZ_RH4ZAWfRcHKOU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Insights into the October 2011 Van (Turkey) Earthquake ...",
+   "htmlTitle": "New Insights into the October 2011 Van (Turkey) \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/25/new-insights-into-the-october-2011-van-turkey-earthquake-detailed-analysis-by-the-cedim-forensic-earthquake-analysis-group/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 3, 2011 ... School collapses are a notorious problem, as seen in the 1999 Izmit earthquake   and more recently in the 2003 Bingￃﾶl event.",
+   "htmlSnippet": "Nov 3, 2011 \u003cb\u003e...\u003c/b\u003e School collapses are a notorious problem, as seen in the 1999 Izmit \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  and more recently in the \u003cb\u003e2003\u003c/b\u003e Bingￃﾶl event.",
+   "cacheId": "AB0d_R0PjvEJ",
+   "formattedUrl": "earthquake-report.com/.../new-insights-into-the-october-2011-van-turkey- earthquake-detailed-analysis-by-the-cedim-forensic-earthquake-anal...",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../new-insights-into-the-\u003cb\u003eoct\u003c/b\u003eober-2011-van-turkey- \u003cb\u003eearthquake\u003c/b\u003e-detailed-analysis-by-the-cedim-forensic-\u003cb\u003eearthquake\u003c/b\u003e-anal...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/cedim-25102011-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "264",
+      "height": "191",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxqj66xMVMH8EBjY1gCABDfaJ21pOpjTYJrAXzEf5cCMXmyGTTjGIg5hQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amitabh Bachchan (SrBachchan) on Twitter",
+   "htmlTitle": "Amitabh Bachchan (SrBachchan) on Twitter",
+   "link": "https://twitter.com/SrBachchan",
+   "displayLink": "twitter.com",
+   "snippet": "3 Dec ￂﾷ Abid Hussain \u200f@abydhussain. The legend's enigmatic speech at the   Marrakech Indian Film Festival. We are proud of you Mr. @SrBachchan ...",
+   "htmlSnippet": "3 \u003cb\u003eDec\u003c/b\u003e &middot; Abid Hussain \u200f@abydhussain. The legend&#39;s enigmatic speech at the \u003cbr\u003e  Marrakech \u003cb\u003eIndian\u003c/b\u003e Film Festival. We are proud of you Mr. @SrBachchan \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vPpcsB9edXUJ",
+   "formattedUrl": "https://twitter.com/SrBachchan",
+   "htmlFormattedUrl": "https://twitter.com/SrBachchan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://si0.twimg.com/profile_images/2227330575/Amitji_reasonably_small.png"
      }
     ],
     "cse_thumbnail": [
      {
       "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-w7ogDtwXRdac-ys5vaE2g3t1ewYdc0nYfyhT4RJOnAOVCirfukt9ZzM"
-     }
-    ],
-    "book": [
-     {
-      "description": "A mount than secures a projector or monitor to a ceiling or wall is disclosed. The mount uses struts that form channels which support the projector/monitor and provide alternate channels for...",
-      "url": "http://www.google.com/patents/US5490655?utm_source=gb-gplus-share",
-      "name": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "height": "102",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYhnyRkO3zpt0q3_IWE23N864HTShsdjDRTPE5z0fmED_uW-4bKlWE"
      }
     ],
     "metatags": [
      {
-      "og:url": "http://www.google.com/patents/US5490655",
-      "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US7762026 - Bearing brace apparatus - Google Patents",
-   "htmlTitle": "Patent US7762026 - Bearing brace apparatus - Google Patents",
-   "link": "http://www.google.com/patents/US7762026",
-   "displayLink": "www.google.com",
-   "snippet": "US3355852, Nov 12, 1963, Dec 5, 1967, FIREPROOF BUILDING COLUMN ...   Tube Investments of India Limited, Sleeved compression member ... Mar 11,   2003, Sleeved bracing useful in the construction of earthquake resistant   structures ...",
-   "htmlSnippet": "US3355852, Nov 12, 1963, \u003cb\u003eDec 5\u003c/b\u003e, 1967, FIREPROOF BUILDING COLUMN \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression member \u003cb\u003e...\u003c/b\u003e Mar 11, \u003cbr\u003e  \u003cb\u003e2003\u003c/b\u003e, Sleeved bracing useful in the construction of \u003cb\u003eearthquake\u003c/b\u003e resistant \u003cbr\u003e  structures \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US7762026",
-   "htmlFormattedUrl": "www.google.com/patents/US7762026",
+   "title": "Japan Tohoku earthquake and tsunami : CATDAT 41 report ...",
+   "htmlTitle": "Japan Tohoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami : CATDAT 41 report \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/02/japan-tohoku-earthquake-and-tsunami-catdat-41-report-october-2-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: October 5, 2011 at 4:36 am by By Armand Vervaeck and James   Daniell .... Daniell, J.E. [2003-2011] ￢ﾀﾜThe CATDAT Damaging Earthquakes ...",
+   "htmlSnippet": "Last update: October \u003cb\u003e5\u003c/b\u003e, 2011 at 4:36 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e....\u003c/b\u003e Daniell, J.E. [\u003cb\u003e2003\u003c/b\u003e-2011] ￢ﾀﾜThe CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "35ovD4FI7OwJ",
+   "formattedUrl": "earthquake-report.com/.../japan-tohoku-earthquake-and-tsunami-catdat-41- report-october-2-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../japan-tohoku-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami-catdat-41- report-\u003cb\u003eoct\u003c/b\u003eober-2-2011/",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=hmDSAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/JMA-Intensity.png"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "132",
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNzM1-ctUKayqj8IZjTut3Bl9xjpwg2_iJALxUyAbwdo8VonOB8Bcbay0"
+      "width": "186",
+      "height": "270",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpowXEZ0UgNHafUonfrPTdaftD1Q_A5_YcnKK4LO_B08MpxlkwlmmdRHrQ"
      }
     ],
-    "book": [
+    "hcard": [
      {
-      "description": "The present invention is directed to a brace apparatus having a core member configured to absorb energy generated by seismic or other forces by undergoing plastic deformation. A buckling restrainin...",
-      "url": "http://www.google.com/patents/US7762026?utm_source=gb-gplus-share",
-      "name": "Patent US7762026 - Bearing brace apparatus",
-      "image": "http://www.google.com/patents?id=hmDSAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
+      "fn": "anon",
+      "nickname": "anon"
+     },
      {
-      "og:url": "http://www.google.com/patents/US7762026",
-      "title": "Patent US7762026 - Bearing brace apparatus",
-      "og:title": "Patent US7762026 - Bearing brace apparatus",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=hmDSAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "fn": "Ana Paula Silva Correia and Josￃﾩ Rodrigues Ribeiro"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US7284358 - Methods of manufacturing bearing brace ...",
-   "htmlTitle": "Patent US7284358 - Methods of manufacturing bearing brace \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US7284358",
-   "displayLink": "www.google.com",
-   "snippet": "US3355852, Nov 12, 1963, Dec 5, 1967, FIREPROOF BUILDING COLUMN ...   Tube Investments of India Limited, Sleeved compression member ... Mar 11,   2003, Sleeved bracing useful in the construction of earthquake resistant   structures ...",
-   "htmlSnippet": "US3355852, Nov 12, 1963, \u003cb\u003eDec 5\u003c/b\u003e, 1967, FIREPROOF BUILDING COLUMN \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression member \u003cb\u003e...\u003c/b\u003e Mar 11, \u003cbr\u003e  \u003cb\u003e2003\u003c/b\u003e, Sleeved bracing useful in the construction of \u003cb\u003eearthquake\u003c/b\u003e resistant \u003cbr\u003e  structures \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US7284358",
-   "htmlFormattedUrl": "www.google.com/patents/US7284358",
+   "title": "GMA News (gmanews) on Twitter",
+   "htmlTitle": "GMA News (gmanews) on Twitter",
+   "link": "https://twitter.com/gmanews",
+   "displayLink": "twitter.com",
+   "snippet": "India, 53000, Bharti Airtel, Videocon, Reliance. Indonesia, 89887, AXIS, 3,   Telkomsel, Indosat, XL Axiata. Italy, 4880804, Wind. 3424486444, Vodafone ...",
+   "htmlSnippet": "\u003cb\u003eIndia\u003c/b\u003e, 53000, Bharti Airtel, Videocon, Reliance. Indonesia, 89887, AXIS, 3, \u003cbr\u003e  Telkomsel, Indosat, XL Axiata. Italy, 4880804, Wind. 3424486444, Vodafone \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5p8svzL-n5YJ",
+   "formattedUrl": "https://twitter.com/gmanews",
+   "htmlFormattedUrl": "https://twitter.com/gmanews",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=fIaRAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "https://twimg0-a.akamaihd.net/profile_images/2906172219/60ab61ec6abb984e6d6e6495ef583b39_bigger.png"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "132",
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBO8QXC3fKSYLmA9YGa9unSjTw9g82kXfshzK9NFi_0RBn-1gukm39s8g"
-     }
-    ],
-    "book": [
-     {
-      "description": "The present invention is directed to a brace apparatus having a core member configured to absorb energy generated by seismic or other forces by undergoing plastic deformation. A buckling restrainin...",
-      "url": "http://www.google.com/patents/US7284358?utm_source=gb-gplus-share",
-      "name": "Patent US7284358 - Methods of manufacturing bearing brace apparatus",
-      "image": "http://www.google.com/patents?id=fIaRAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "70",
+      "height": "70",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV6P_QPfvYBm2AiE9xrv09FNrNNf0ILhCeWRJtENoBLX6lwosWdnuLFg"
      }
     ],
     "metatags": [
      {
-      "og:url": "http://www.google.com/patents/US7284358",
-      "title": "Patent US7284358 - Methods of manufacturing bearing brace apparatus",
-      "og:title": "Patent US7284358 - Methods of manufacturing bearing brace apparatus",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=fIaRAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Songs Of The Survivors - Yvonne Vaz Ezdani - Google Books",
-   "htmlTitle": "Songs Of The Survivors - Yvonne Vaz Ezdani - Google Books",
-   "link": "http://www.google.com/books?id=BRUOLFj1TXgC&sitesec=reviews",
-   "displayLink": "www.google.com",
-   "snippet": "In 1942, Goa was a neutral Portuguese colony in western India, and largely   unaffected by the war. ... 1942 and 1945, and the subsequent exodus of   thousands of refugees who fled to India. ... No preview available - 2003 .... It lost   its big gold top 'thing that they call a 'htee - in an earthquake: that's why it's all   hidden by ...",
-   "htmlSnippet": "In 1942, Goa was a neutral Portuguese colony in western \u003cb\u003eIndia\u003c/b\u003e, and largely \u003cbr\u003e  unaffected by the war. \u003cb\u003e...\u003c/b\u003e 1942 and 1945, and the subsequent exodus of \u003cbr\u003e  thousands of refugees who fled to \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e No preview available - \u003cb\u003e2003\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e It lost \u003cbr\u003e  its big gold top &#39;thing that they call a &#39;htee - in an \u003cb\u003eearthquake\u003c/b\u003e: that&#39;s why it&#39;s all \u003cbr\u003e  hidden by \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "KYbWhCcj9eIJ",
-   "formattedUrl": "www.google.com/books?id=BRUOLFj1TXgC&sitesec=reviews",
-   "htmlFormattedUrl": "www.google.com/books?id=BRUOLFj1TXgC&amp;sitesec=reviews",
+   "title": "Earthquake rocks Delhi, adjoining areas - Times Of India",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e rocks Delhi, adjoining areas - Times Of \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://articles.timesofindia.indiatimes.com/2007-11-26/india/27963419_1_minor-earthquake-indian-meteorological-department-tremor",
+   "displayLink": "articles.timesofindia.indiatimes.com",
+   "snippet": "Nov 26, 2007 ... NEW DELHI: A minor earthquake rattled New Delhi and adjoining areas early on   ... An official with the Indian Meteorological. ... August 5, 2003 ...",
+   "htmlSnippet": "Nov 26, 2007 \u003cb\u003e...\u003c/b\u003e NEW DELHI: A minor \u003cb\u003eearthquake\u003c/b\u003e rattled New Delhi and adjoining areas early on \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e An official with the \u003cb\u003eIndian\u003c/b\u003e Meteorological. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust 5, 2003\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "C9S1B2QmdLkJ",
+   "formattedUrl": "articles.timesofindia.indiatimes.com/.../india/27963419_1_minor-earthquake- indian-meteorological-department-tremor",
+   "htmlFormattedUrl": "articles.timesof\u003cb\u003eindia\u003c/b\u003e.\u003cb\u003eindia\u003c/b\u003etimes.com/.../\u003cb\u003eindia\u003c/b\u003e/27963419_1_minor-\u003cb\u003eearthquake\u003c/b\u003e- \u003cb\u003eindian\u003c/b\u003e-meteorological-department-tremor",
    "pagemap": {
-    "cse_image": [
-     {
-      "src": "http://bks5.books.google.co.uk/books?id=BRUOLFj1TXgC&pg=PA1&img=1&zoom=1&sig=ACfU3U3IA1RO_DjRjgk7MPI_a2LtxJg2vA"
-     }
-    ],
-    "cse_thumbnail": [
-     {
-      "width": "102",
-      "height": "158",
-      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS27ZuqEd8f3VVkfzA2IhcFPMdReyTEqOD2eMVR1KEDngSLmIY82BUK2w"
-     }
-    ],
-    "book": [
-     {
-      "description": "books.google.co.uk - Published in November 2007 by Frederick Noronha on behalf of Goa,1556, (http://goa1556.goa-india.org), Stories of World War II continue to absorb the interest of the readers,...",
-      "url": "http://books.google.co.uk/books/about/Songs_Of_The_Survivors.html?id=BRUOLFj1TXgC&utm_source=gb-gplus-share",
-      "name": "Songs Of The Survivors",
-      "image": "http://books.google.co.uk/books?id=BRUOLFj1TXgC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE737V3cV3IoUXN7BrltjAif3EItkNEYcP2GrcE3l74UsSb600onaMqvzzEDXAY6KRMXu7kO6hpvBWWnXW3BxPOMqhrP0IeaWZLtQt8BJDesrTFYdVCqohy4SOw1rjSMF82RyIv36"
-     }
-    ],
     "metatags": [
      {
-      "og:url": "http://books.google.co.uk/books/about/Songs_Of_The_Survivors.html?id=BRUOLFj1TXgC",
-      "title": "Songs Of The Survivors",
-      "og:title": "Songs Of The Survivors",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://books.google.co.uk/books?id=BRUOLFj1TXgC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE737V3cV3IoUXN7BrltjAif3EItkNEYcP2GrcE3l74UsSb600onaMqvzzEDXAY6KRMXu7kO6hpvBWWnXW3BxPOMqhrP0IeaWZLtQt8BJDesrTFYdVCqohy4SOw1rjSMF82RyIv36"
-     }
-    ],
-    "hproduct": [
-     {
-      "fn": "Songs Of The Survivors"
+      "fb:admins": "100001837105818",
+      "fb:app_id": "107674452645178",
+      "og:title": "Earthquake rocks Delhi, adjoining areas",
+      "og:type": "article",
+      "og:url": "http://articles.timesofindia.indiatimes.com/2007-11-26/india/27963419_1_minor-earthquake-indian-meteorological-department-tremor",
+      "og:description": "NEW DELHI: A minor earthquake rattled New Delhi and adjoining areas early on Monday morning, but there were no immediate reports of injuries or damage. An official with the Indian Meteorological...",
+      "og:site_name": "The Times Of India"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US7716882 - Bearing brace apparatus - Google Patents",
-   "htmlTitle": "Patent US7716882 - Bearing brace apparatus - Google Patents",
-   "link": "http://www.google.com/patents/US7716882",
-   "displayLink": "www.google.com",
-   "snippet": "May 18, 2010 ... Tube Investments of India Limited, Sleeved compression member. US5327694,   Aug 5, 1991, Jul 12, 1994, DCA Architectural Products Ltd. ... 2003, Sleeved   bracing useful in the construction of earthquake resistant structures ...",
-   "htmlSnippet": "May 18, 2010 \u003cb\u003e...\u003c/b\u003e Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited, Sleeved compression member. US5327694, \u003cbr\u003e  \u003cb\u003eAug 5\u003c/b\u003e, 1991, Jul 12, 1994, DCA Architectural Products Ltd. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2003\u003c/b\u003e, Sleeved \u003cbr\u003e  bracing useful in the construction of \u003cb\u003eearthquake\u003c/b\u003e resistant structures \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US7716882",
-   "htmlFormattedUrl": "www.google.com/patents/US7716882",
-   "pagemap": {
-    "cse_image": [
-     {
-      "src": "http://www.google.com/patents?id=olvQAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "cse_thumbnail": [
-     {
-      "width": "102",
-      "height": "132",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyTZbtwOO1verzarqigj6eiJ1xwe7Y14vqQaiBJWrDs0Dcy_2DTQq9VKU"
-     }
-    ],
-    "book": [
-     {
-      "description": "The present invention is directed to a brace apparatus having a core member configured to absorb energy generated by seismic or other forces by undergoing plastic deformation. A buckling restrainin...",
-      "url": "http://www.google.com/patents/US7716882?utm_source=gb-gplus-share",
-      "name": "Patent US7716882 - Bearing brace apparatus",
-      "image": "http://www.google.com/patents?id=olvQAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US7716882",
-      "title": "Patent US7716882 - Bearing brace apparatus",
-      "og:title": "Patent US7716882 - Bearing brace apparatus",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=olvQAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Patent US5175972 - Sleeved compression member - Google Patents",
-   "htmlTitle": "Patent US5175972 - Sleeved compression member - Google Patents",
-   "link": "http://www.google.com/patents/US5175972",
-   "displayLink": "www.google.com",
-   "snippet": "Issue date: Jan 5, 1993 ... Original Assignees: Hasnain Investments (P) Limited,   Tube Investments of India Limited ... US2453079, Aug 5, 1944, Nov 2, 1948,   PETER F ... US7185462, Jul 25, 2003, Mar 6, 2007, SME Steel Contractors, Inc.   Double ... Sleeved bracing useful in the construction of earthquake resistant   structures ...",
-   "htmlSnippet": "Issue date: Jan \u003cb\u003e5\u003c/b\u003e, 1993 \u003cb\u003e...\u003c/b\u003e Original Assignees: Hasnain Investments (P) Limited, \u003cbr\u003e  Tube Investments of \u003cb\u003eIndia\u003c/b\u003e Limited \u003cb\u003e...\u003c/b\u003e US2453079, \u003cb\u003eAug 5\u003c/b\u003e, 1944, Nov 2, 1948, \u003cbr\u003e  PETER F \u003cb\u003e...\u003c/b\u003e US7185462, Jul 25, \u003cb\u003e2003\u003c/b\u003e, Mar 6, 2007, SME Steel Contractors, Inc. \u003cbr\u003e  Double \u003cb\u003e...\u003c/b\u003e Sleeved bracing useful in the construction of \u003cb\u003eearthquake\u003c/b\u003e resistant \u003cbr\u003e  structures \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US5175972",
-   "htmlFormattedUrl": "www.google.com/patents/US5175972",
-   "pagemap": {
-    "cse_image": [
-     {
-      "src": "http://www.google.com/patents?id=pMwZAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "cse_thumbnail": [
-     {
-      "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYdJu7qtw8PAEvfc_JP9JNapwyOODzMlqJe6gbcgMeywSeE-KvxAv1pUc"
-     }
-    ],
-    "book": [
-     {
-      "description": "A sleeved compression member having at least one core piece which is subjected to a compression load. The core is surrounded by a sleeve which is spaced from the sides of each core piece and...",
-      "url": "http://www.google.com/patents/US5175972?utm_source=gb-gplus-share",
-      "name": "Patent US5175972 - Sleeved compression member",
-      "image": "http://www.google.com/patents?id=pMwZAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ],
-    "metatags": [
-     {
-      "og:url": "http://www.google.com/patents/US5175972",
-      "title": "Patent US5175972 - Sleeved compression member",
-      "og:title": "Patent US5175972 - Sleeved compression member",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=pMwZAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "link": "http://www.google.com/intl/en_uk/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007   ... August. Sun co-founder Andy Bechtolsheim writes a cheque for $100,000 to an   .... We spotlight our new engineering offices in Bangalore and Hyderabad, India,   with ..... Following both the Sichuan earthquake in China and Cyclone Nargis in ...",
-   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ \u003cb\u003e2003\u003c/b\u003e ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e. Sun co-founder Andy Bechtolsheim writes a cheque for $100,000 to an \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e, \u003cbr\u003e  with \u003cb\u003e.....\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone Nargis in \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Uz9ka1X37zwJ",
-   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
-   "pagemap": {
-    "metatags": [
-     {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "link": "http://www.google.com/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007   ... August. Sun co-founder Andy Bechtolsheim writes a check for $100,000 to an   .... We spotlight our new engineering offices in Bangalore and Hyderabad, India   with a ..... Following both the Sichuan earthquake in China and Cyclone Nargis in ...",
-   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ \u003cb\u003e2003\u003c/b\u003e ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e. Sun co-founder Andy Bechtolsheim writes a check for $100,000 to an \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e \u003cbr\u003e  with a \u003cb\u003e.....\u003c/b\u003e Following both the Sichuan \u003cb\u003eearthquake\u003c/b\u003e in China and Cyclone Nargis in \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Ex81iG3sJZAJ",
-   "formattedUrl": "www.google.com/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/about/company/history/",
-   "pagemap": {
-    "metatags": [
-     {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Ang aming kasaysayan nang mas detalyado ￢ﾀﾓ Kumpanya ￢ﾀﾓ Google",
-   "htmlTitle": "Ang aming kasaysayan nang mas detalyado ￢ﾀﾓ Kumpanya ￢ﾀﾓ Google",
-   "link": "http://www.google.com/intl/fil/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007   .... ng Class A na karaniwang stock ay naganap sa Wall Street noong August 18.   ... unang kumpetisyon sa pag-code sa India, na napunta ang pinakamataas na   ..... Kasunod ng parehong Sichuan earthquake sa China at Cyclone Nargis sa ...",
-   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ \u003cb\u003e2003\u003c/b\u003e ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e ng Class A na karaniwang stock ay naganap sa Wall Street noong \u003cb\u003eAugust\u003c/b\u003e 18. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e unang kumpetisyon sa pag-code sa \u003cb\u003eIndia\u003c/b\u003e, na napunta ang pinakamataas na \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Kasunod ng parehong Sichuan \u003cb\u003eearthquake\u003c/b\u003e sa China at Cyclone Nargis sa \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "55WSiyglUqEJ",
-   "formattedUrl": "www.google.com/intl/fil/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/intl/fil/about/company/history/",
-   "pagemap": {
-    "metatags": [
-     {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Uzￅﾆￄﾓmuma vￄﾓsture ￢ﾀﾓ Uzￅﾆￄﾓmums ￢ﾀﾓ Google",
-   "htmlTitle": "Uzￅﾆￄﾓmuma vￄﾓsture ￢ﾀﾓ Uzￅﾆￄﾓmums ￢ﾀﾓ Google",
-   "link": "http://www.google.com/intl/lv/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ..... 15.   vispￄﾁrￄﾓjￄﾁm vￄﾓlￄﾓￅﾡanￄﾁm mￄﾓs izlaiￅﾾam emuￄﾁru Google India Elections Centre, ..... ir   nokrￄﾁsoti Google krￄﾁsￄﾁs un ir novietoti mￅﾫsu pilsￄﾓtiￅﾆￄﾁ tajￄﾁ vietￄﾁ, kur aug ziedi. ...   Mￄﾓs pieￅﾡￄﾷiram finansￄﾓjumu 5 miljonu dolￄﾁru apmￄﾓrￄﾁ bezpeￄﾼￅﾆas organizￄﾁcijￄﾁm, ...",
-   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ \u003cb\u003e2003\u003c/b\u003e ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 \u003cb\u003e.....\u003c/b\u003e 15. \u003cbr\u003e  vispￄﾁrￄﾓjￄﾁm vￄﾓlￄﾓￅﾡanￄﾁm mￄﾓs izlaiￅﾾam emuￄﾁru Google \u003cb\u003eIndia\u003c/b\u003e Elections Centre, \u003cb\u003e.....\u003c/b\u003e ir \u003cbr\u003e  nokrￄﾁsoti Google krￄﾁsￄﾁs un ir novietoti mￅﾫsu pilsￄﾓtiￅﾆￄﾁ tajￄﾁ vietￄﾁ, kur \u003cb\u003eaug\u003c/b\u003e ziedi. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Mￄﾓs pieￅﾡￄﾷiram finansￄﾓjumu \u003cb\u003e5\u003c/b\u003e miljonu dolￄﾁru apmￄﾓrￄﾁ bezpeￄﾼￅﾆas organizￄﾁcijￄﾁm, \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "HF6WPF5vIZoJ",
-   "formattedUrl": "www.google.com/intl/lv/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/intl/lv/about/company/history/",
-   "pagemap": {
-    "metatags": [
-     {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
-     }
-    ]
-   }
+   "title": "Archived Volcano News - John Seach August 2003",
+   "htmlTitle": "Archived Volcano News - John Seach \u003cb\u003eAugust 2003\u003c/b\u003e",
+   "link": "http://www.volcanolive.com/news56.html",
+   "displayLink": "www.volcanolive.com",
+   "snippet": "Saturday 30th August 2003 ... A magnitude 5 earthquake hit the south flank of   Kilauea volcano on Tuesday at 2024 .... Carlsberg Ridge Volcano (Indian Ocean) ...",
+   "htmlSnippet": "Saturday 30th \u003cb\u003eAugust 2003\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e A magnitude \u003cb\u003e5 earthquake\u003c/b\u003e hit the south flank of \u003cbr\u003e  Kilauea volcano on Tuesday at 2024 \u003cb\u003e....\u003c/b\u003e Carlsberg Ridge Volcano (\u003cb\u003eIndian\u003c/b\u003e Ocean) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1VHdAb_r5O0J",
+   "formattedUrl": "www.volcanolive.com/news56.html",
+   "htmlFormattedUrl": "www.volcanolive.com/news56.html"
   }
  ]
 }

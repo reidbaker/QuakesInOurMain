@@ -5,12 +5,25 @@
   "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
  },
  "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 2 2001 India Earthquake",
+    "totalResults": "766000",
+    "searchTerms": "Apr 2 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
   "request": [
    {
     "title": "Google Custom Search - Apr 2 2001 India Earthquake",
-    "totalResults": "6",
+    "totalResults": "766000",
     "searchTerms": "Apr 2 2001 India Earthquake",
-    "count": 6,
+    "count": 10,
     "startIndex": 1,
     "inputEncoding": "utf8",
     "outputEncoding": "utf8",
@@ -23,186 +36,226 @@
   "title": "Quakes-in-our-main"
  },
  "searchInformation": {
-  "searchTime": 0.552866,
-  "formattedSearchTime": "0.55",
-  "totalResults": "6",
-  "formattedTotalResults": "6"
+  "searchTime": 0.227817,
+  "formattedSearchTime": "0.23",
+  "totalResults": "766000",
+  "formattedTotalResults": "766,000"
  },
  "items": [
   {
    "kind": "customsearch#result",
-   "title": "Hot Searches - Google",
-   "htmlTitle": "Hot Searches - Google",
-   "link": "http://www.google.com/trends/hottrends",
-   "displayLink": "www.google.com",
-   "snippet": "United States. India. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use ...   $41 on an ipad $31 on an ipad 2 and ipod apple black friday 2012 sale price ...",
-   "htmlSnippet": "United States. \u003cb\u003eIndia\u003c/b\u003e. Japan. Singapore. More... ￂﾩ2012 Google. Terms of Use \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  $41 on an ipad $31 on an ipad \u003cb\u003e2\u003c/b\u003e and ipod apple black friday 2012 sale price \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "uvKavSff1xUJ",
-   "formattedUrl": "www.google.com/trends/hottrends",
-   "htmlFormattedUrl": "www.google.com/trends/hottrends",
+   "title": "(Major) Earthquakes list April 16, 2012 ￢ﾀﾓ Phuket, Thailand ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eApril\u003c/b\u003e 16, 2012 ￢ﾀﾓ Phuket, Thailand \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/15/major-earthquakes-list-april-16-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 16, 2012 ... Sapientza has a population of 7 and Schiza a polulation of 2 (2001 ... The most   recent M5.6 aftershock in the Indian Ocean will normally to far ...",
+   "htmlSnippet": "Apr 16, 2012 \u003cb\u003e...\u003c/b\u003e Sapientza has a population of 7 and Schiza a polulation of \u003cb\u003e2\u003c/b\u003e (\u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e The most \u003cbr\u003e  recent M5.6 aftershock in the \u003cb\u003eIndian\u003c/b\u003e Ocean will normally to far \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4I0JZ9JJcp8J",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-april-16-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eapril\u003c/b\u003e-16-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "rediff.com: Earthquake Hits India",
+   "htmlTitle": "rediff.com: \u003cb\u003eEarthquake\u003c/b\u003e Hits \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://www.rediff.com/news/quake.htm",
+   "displayLink": "www.rediff.com",
+   "snippet": "rediff.com: The Earthquake Homepage. ... May 28, 2001 Earthquake hits India,   Resources ... April 2, 2001. ￢ﾀﾢ Quake deals another blow to tourism in J&K ...",
+   "htmlSnippet": "rediff.com: The \u003cb\u003eEarthquake\u003c/b\u003e Homepage. \u003cb\u003e...\u003c/b\u003e May 28, 2001 \u003cb\u003eEarthquake\u003c/b\u003e hits \u003cb\u003eIndia\u003c/b\u003e, \u003cbr\u003e  Resources \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril 2, 2001\u003c/b\u003e. ￢ﾀﾢ \u003cb\u003eQuake\u003c/b\u003e deals another blow to tourism in J&amp;K \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pjWqSOfabI8J",
+   "formattedUrl": "www.rediff.com/news/quake.htm",
+   "htmlFormattedUrl": "www.rediff.com/news/\u003cb\u003equake\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ￢ﾀﾓ Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ￢ﾀﾓ Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... Table 2 ￢ﾀﾓ List of homeless-bearing earthquakes in 2011 ... the Van earthquake in   October, in the India-Nepal-Tibet region in September, in China .... As was   reported by earthquake-report.com from NPA back in April about the first ...... BTE   [2001] ￢ﾀﾜEconomic Costs of Natural Disasters in Australia￢ﾀﾝ, Bureau of ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e Table \u003cb\u003e2\u003c/b\u003e ￢ﾀﾓ List of homeless-bearing \u003cb\u003eearthquakes\u003c/b\u003e in 2011 \u003cb\u003e...\u003c/b\u003e the Van \u003cb\u003eearthquake\u003c/b\u003e in \u003cbr\u003e  October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet region in September, in China \u003cb\u003e....\u003c/b\u003e As was \u003cbr\u003e  reported by \u003cb\u003eearthquake\u003c/b\u003e-report.com from NPA back in \u003cb\u003eApril\u003c/b\u003e about the first \u003cb\u003e......\u003c/b\u003e BTE \u003cbr\u003e  [\u003cb\u003e2001\u003c/b\u003e] ￢ﾀﾜEconomic Costs of Natural Disasters in Australia￢ﾀﾝ, Bureau of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/trends/resources/2327917647-google-icon.png"
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "102",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3yTXNtH_-TAOlH7VN5H-YB12XPPIGpUNtjnutMt3YPxciVY44kh7V"
-     }
-    ],
-    "metatags": [
-     {
-      "og:title": "Google Hot Searches",
-      "og:type": "article",
-      "og:url": "http://www.google.com/trends/hottrends",
-      "og:image": "http://www.google.com/trends/resources/2327917647-google-icon.png",
-      "og:description": "Explore trending search topics with Google Hot Searches."
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall ...",
-   "htmlTitle": "Patent US5490655 - Video/data projector and monitor ceiling/wall \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US5490655",
-   "displayLink": "www.google.com",
-   "snippet": "Seismic cables may be added for extra support in case of earthquake. ...   US6540366, Mar 19, 2001, Apr 1, 2003, Smart Technologies, Inc. Overhead ...   US7156359, Apr 9, 2004, Jan 2, 2007, CSAV, Inc. Secure mounting system ...   USD504305, Jun 27, 2003, Apr 26, 2005, Peerless Industries, Ind. Universal   mounting system ...",
-   "htmlSnippet": "Seismic cables may be added for extra support in case of \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6540366, Mar 19, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003eApr\u003c/b\u003e 1, 2003, Smart Technologies, Inc. Overhead \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US7156359, \u003cb\u003eApr\u003c/b\u003e 9, 2004, Jan \u003cb\u003e2\u003c/b\u003e, 2007, CSAV, Inc. Secure mounting system \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  USD504305, Jun 27, 2003, \u003cb\u003eApr\u003c/b\u003e 26, 2005, Peerless Industries, \u003cb\u003eInd\u003c/b\u003e. Universal \u003cbr\u003e  mounting system \u003cb\u003e...\u003c/b\u003e",
-   "formattedUrl": "www.google.com/patents/US5490655",
-   "htmlFormattedUrl": "www.google.com/patents/US5490655",
+   "title": "A Tale of Two Disasters: A Comparison of",
+   "htmlTitle": "A Tale of Two Disasters: A Comparison of",
+   "link": "http://web.wm.edu/so/monitor/issues/08-2/6-buck.htm",
+   "displayLink": "web.wm.edu",
+   "snippet": "On January 26, 2001, a devastating earthquake struck the western Indian state ...   [2] Other estimates include 7.6 and 7.7 by the India Geologic Survey (IGS) and .....   the Earthquake-Affected Areas of Gujarat￢ﾀﾝ April 2, 2001 Aga Khan Foundation.",
+   "htmlSnippet": "On January 26, 2001, a devastating \u003cb\u003eearthquake\u003c/b\u003e struck the western \u003cb\u003eIndian\u003c/b\u003e state \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  [2] Other estimates include 7.6 and 7.7 by the \u003cb\u003eIndia\u003c/b\u003e Geologic Survey (IGS) and \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  the \u003cb\u003eEarthquake\u003c/b\u003e-Affected Areas of Gujarat￢ﾀﾝ \u003cb\u003eApril 2, 2001\u003c/b\u003e Aga Khan Foundation.",
+   "cacheId": "bfz5DhN6FMEJ",
+   "formattedUrl": "web.wm.edu/so/monitor/issues/08-2/6-buck.htm",
+   "htmlFormattedUrl": "web.wm.edu/so/monitor/issues/08-\u003cb\u003e2\u003c/b\u003e/6-buck.htm",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://web.wm.edu/so/monitor/issues/08-2/buck_files/image002.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "150",
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-w7ogDtwXRdac-ys5vaE2g3t1ewYdc0nYfyhT4RJOnAOVCirfukt9ZzM"
-     }
-    ],
-    "book": [
-     {
-      "description": "A mount than secures a projector or monitor to a ceiling or wall is disclosed. The mount uses struts that form channels which support the projector/monitor and provide alternate channels for...",
-      "url": "http://www.google.com/patents/US5490655?utm_source=gb-gplus-share",
-      "name": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADzL4ImgFqhocZudAbK6y8GReEt4Z6SIDIuPo4_Lrsj8HsyhQtPWPci1Y"
      }
     ],
     "metatags": [
      {
-      "og:url": "http://www.google.com/patents/US5490655",
-      "title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:title": "Patent US5490655 - Video/data projector and monitor ceiling/wall mount",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=gWwpAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 9"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Patent US7959019 - Suspended cable support system - Google ...",
-   "htmlTitle": "Patent US7959019 - Suspended cable support system - Google \u003cb\u003e...\u003c/b\u003e",
-   "link": "http://www.google.com/patents/US7959019",
-   "displayLink": "www.google.com",
-   "snippet": "US3805964, Sep 20, 1972, Apr 2, 1974, STORAGE AND DISPENSING BIN ...   US4124324, Jan 16, 1978, Nov 7, 1978, Indian Head Inc. Modular cable trench   system ... US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular   earthquake support ... US6286691, Jul 13, 1998, Sep 11, 2001, Industrial Wire   Products, Inc.",
-   "htmlSnippet": "US3805964, Sep 20, 1972, \u003cb\u003eApr 2\u003c/b\u003e, 1974, STORAGE AND DISPENSING BIN \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4124324, Jan 16, 1978, Nov 7, 1978, \u003cb\u003eIndian\u003c/b\u003e Head Inc. Modular cable trench \u003cbr\u003e  system \u003cb\u003e...\u003c/b\u003e US5946867, Oct 29, 1997, Sep 7, 1999, Ericsson, Inc. Modular \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e support \u003cb\u003e...\u003c/b\u003e US6286691, Jul 13, 1998, Sep 11, \u003cb\u003e2001\u003c/b\u003e, Industrial Wire \u003cbr\u003e  Products, Inc.",
-   "formattedUrl": "www.google.com/patents/US7959019",
-   "htmlFormattedUrl": "www.google.com/patents/US7959019",
+   "title": "Very strong damaging earthquake in the Nepal / Sikkim (India ...",
+   "htmlTitle": "Very strong damaging \u003cb\u003eearthquake\u003c/b\u003e in the Nepal / Sikkim (\u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: October 2, 2011 at 4:15 pm by By Armand Vervaeck and James   Daniell .... The Sikkim earthquake has raised questions on the future of India's .....   This seems to be too high compared to the Bhuj disaster of 2001, so we will wait   for ...",
+   "htmlSnippet": "Last update: October \u003cb\u003e2\u003c/b\u003e, 2011 at 4:15 pm by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e....\u003c/b\u003e The Sikkim \u003cb\u003eearthquake\u003c/b\u003e has raised questions on the future of \u003cb\u003eIndia&#39;s\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  This seems to be too high compared to the Bhuj disaster of \u003cb\u003e2001\u003c/b\u003e, so we will wait \u003cbr\u003e  for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0hEt4bGhGegJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-earthquake-in-sikkim-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-\u003cb\u003eearthquake\u003c/b\u003e-in-sikkim-\u003cb\u003eindia\u003c/b\u003e/",
    "pagemap": {
     "cse_image": [
      {
-      "src": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/09/india-19092011-1.jpg"
      }
     ],
     "cse_thumbnail": [
      {
-      "width": "102",
-      "height": "132",
-      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTjb5x3Eyx4kVZ-ii1sj9_neFf7kqYIaGs9Suu9ZWzHaf7pqvN46tz3N0"
+      "width": "236",
+      "height": "156",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Zq3DEjg7bjf9SyfGLzsxsLzf2pwhzbCh2aTlCxNld3KGjAKNQSX6Zic"
      }
     ],
-    "book": [
+    "hcard": [
      {
-      "description": "According to an aspect of the present disclosure, a suspended cable support system is provided. The suspended cable support system includes a plurality of suspension rods; and at least one...",
-      "url": "http://www.google.com/patents/US7959019?utm_source=gb-gplus-share",
-      "name": "Patent US7959019 - Suspended cable support system",
-      "image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "fn": "Dipen Giri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in India - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Indian subcontinent has a history of devastating earthquakes. ... 10:57:40   Local Time April 14, Koynanagar, India, 17.4ￂﾰN, 73.8ￂﾰE, None, Preceded by ...   see Gujarat earthquake of 2001, 23.6N, 69.8E, 20,000, Epicenter in Kutch, loss of   life ...",
+   "htmlSnippet": "The \u003cb\u003eIndian\u003c/b\u003e subcontinent has a history of devastating \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 10:57:40 \u003cbr\u003e  Local Time \u003cb\u003eApril\u003c/b\u003e 14, Koynanagar, \u003cb\u003eIndia\u003c/b\u003e, 17.4ￂﾰN, 73.8ￂﾰE, None, Preceded by \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  see Gujarat \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e2001\u003c/b\u003e, 23.6N, 69.8E, 20,000, Epicenter in Kutch, loss of \u003cbr\u003e  life \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EBwHZvfyZioJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eIndia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Geology in the News, 2001",
+   "htmlTitle": "Geology in the News, \u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://mygeologypage.ucdavis.edu/cowen/geologynews2001.html",
+   "displayLink": "mygeologypage.ucdavis.edu",
+   "snippet": "New data on ancient earthquakes in the Cascadia subduction zone. .... Lava field   found on the Indian ocean floor from a huge, recent eruption. ... April 2, 2001.",
+   "htmlSnippet": "New data on ancient \u003cb\u003eearthquakes\u003c/b\u003e in the Cascadia subduction zone. \u003cb\u003e....\u003c/b\u003e Lava field \u003cbr\u003e  found on the \u003cb\u003eIndian\u003c/b\u003e ocean floor from a huge, recent eruption. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril 2, 2001\u003c/b\u003e.",
+   "cacheId": "hscjxRR3dasJ",
+   "formattedUrl": "mygeologypage.ucdavis.edu/cowen/geologynews2001.html",
+   "htmlFormattedUrl": "mygeologypage.ucdavis.edu/cowen/geologynews\u003cb\u003e2001\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 Geiyo earthquake, 34.083, 132.526, 2, 6.7, Mw (USGS) ... April 12,   2002, 04:00, Hindu Kush Region, Afghanistan, 35.959, 69.417, 50, 5.9, Mw .....   see 2004 Indian Ocean earthquake, 3.30, 95.87, 230,000~300,000, 9.1, Mw (  USGS) ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e Geiyo \u003cb\u003eearthquake\u003c/b\u003e, 34.083, 132.526, \u003cb\u003e2\u003c/b\u003e, 6.7, Mw (USGS) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 12, \u003cbr\u003e  2002, 04:00, Hindu Kush Region, Afghanistan, 35.959, 69.417, 50, 5.9, Mw \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  see 2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003eearthquake\u003c/b\u003e, 3.30, 95.87, 230,000~300,000, 9.1, Mw (\u003cbr\u003e  USGS) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
      }
     ],
-    "metatags": [
+    "cse_thumbnail": [
      {
-      "og:url": "http://www.google.com/patents/US7959019",
-      "title": "Patent US7959019 - Suspended cable support system",
-      "og:title": "Patent US7959019 - Suspended cable support system",
-      "og:type": "book",
-      "og:site_name": "Google Books",
-      "og:image": "http://www.google.com/patents?id=H_vmAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
      }
     ]
    }
   },
   {
    "kind": "customsearch#result",
-   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "link": "http://www.google.com/intl/en_uk/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ... Thus   begins our annual foray in the Silicon Valley tradition of April Fool hoaxes. ... We   release a set of APIs, enabling developers to query more than 2 billion web ... We   spotlight our new engineering offices in Bangalore and Hyderabad, India, with a ...",
-   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ \u003cb\u003e2001\u003c/b\u003e ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 \u003cb\u003e...\u003c/b\u003e Thus \u003cbr\u003e  begins our annual foray in the Silicon Valley tradition of \u003cb\u003eApril\u003c/b\u003e Fool hoaxes. \u003cb\u003e...\u003c/b\u003e We \u003cbr\u003e  release a set of APIs, enabling developers to query more than \u003cb\u003e2\u003c/b\u003e billion web \u003cb\u003e...\u003c/b\u003e We \u003cbr\u003e  spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e, with a \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Uz9ka1X37zwJ",
-   "formattedUrl": "www.google.com/intl/en_uk/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/intl/en_uk/about/company/history/",
-   "pagemap": {
-    "metatags": [
-     {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
-     }
-    ]
-   }
+   "title": "Largest and Deadliest Earthquakes by Year",
+   "htmlTitle": "Largest and Deadliest \u003cb\u003eEarthquakes\u003c/b\u003e by Year",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 30, 2012 ... 2001, 06/23, 8.4, 138, Near Coast of Peru, 2001, 01/26, 7.7, 20023, India. 2000,   11/16, 8.0, 2, New Ireland Region, P.N.G., 2000, 06/04, 7.9 ...",
+   "htmlSnippet": "Oct 30, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e, 06/23, 8.4, 138, Near Coast of Peru, \u003cb\u003e2001\u003c/b\u003e, 01/26, 7.7, 20023, \u003cb\u003eIndia\u003c/b\u003e. 2000, \u003cbr\u003e  11/16, 8.0, \u003cb\u003e2\u003c/b\u003e, New Ireland Region, P.N.G., 2000, 06/04, 7.9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mhiAOqI2nBAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/year/byyear.php"
   },
   {
    "kind": "customsearch#result",
-   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
-   "link": "http://www.google.com/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007   ... On April Fools' Day, we announce the MentalPlex: Google's ability to read your   ... We release a set of APIs, enabling developers to query more than 2 billion web   ... We spotlight our new engineering offices in Bangalore and Hyderabad, India ...",
-   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ \u003cb\u003e2001\u003c/b\u003e ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eApril\u003c/b\u003e Fools&#39; Day, we announce the MentalPlex: Google&#39;s ability to read your \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e We release a set of APIs, enabling developers to query more than \u003cb\u003e2\u003c/b\u003e billion web \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e We spotlight our new engineering offices in Bangalore and Hyderabad, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "Ex81iG3sJZAJ",
-   "formattedUrl": "www.google.com/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "title": "Natural disaster - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Natural disaster - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Natural_disaster",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "[2] In a vulnerable area, however, such as San Francisco, an earthquake can   have ... earthquakes in recent times include: The 2004 Indian Ocean earthquake,   the .... An X20 event on August 16, 1989; A similar flare on April 2, 2001; The   most ...",
+   "htmlSnippet": "[2] In a vulnerable area, however, such as San Francisco, an \u003cb\u003eearthquake\u003c/b\u003e can \u003cbr\u003e  have \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e in recent times include: The 2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003eearthquake\u003c/b\u003e, \u003cbr\u003e  the \u003cb\u003e....\u003c/b\u003e An X20 event on August 16, 1989; A similar flare on \u003cb\u003eApril 2, 2001\u003c/b\u003e; The \u003cbr\u003e  most \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ByqAMZO5TlcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Natural_disaster",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Natural_disaster",
    "pagemap": {
-    "metatags": [
+    "RTO": [
      {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
-     }
-    ]
-   }
-  },
-  {
-   "kind": "customsearch#result",
-   "title": "Ang aming kasaysayan nang mas detalyado ￢ﾀﾓ Kumpanya ￢ﾀﾓ Google",
-   "htmlTitle": "Ang aming kasaysayan nang mas detalyado ￢ﾀﾓ Kumpanya ￢ﾀﾓ Google",
-   "link": "http://www.google.com/intl/fil/about/company/history/",
-   "displayLink": "www.google.com",
-   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007   ... Noong April Fools' Day, inanunsyo namin ang MentalPlex: ang kakayahan ng   ... nag-develop upang mag-query sa mahigit sa 2 bilyong dokumento sa web at   .... unang kumpetisyon sa pag-code sa India, na napunta ang pinakamataas na ...",
-   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ \u003cb\u003e2001\u003c/b\u003e ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ￂﾷ 2007 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Noong \u003cb\u003eApril\u003c/b\u003e Fools&#39; Day, inanunsyo namin ang MentalPlex: ang kakayahan ng \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e nag-develop upang mag-query sa mahigit sa \u003cb\u003e2\u003c/b\u003e bilyong dokumento sa web at \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e unang kumpetisyon sa pag-code sa \u003cb\u003eIndia\u003c/b\u003e, na napunta ang pinakamataas na \u003cb\u003e...\u003c/b\u003e",
-   "cacheId": "55WSiyglUqEJ",
-   "formattedUrl": "www.google.com/intl/fil/about/company/history/",
-   "htmlFormattedUrl": "www.google.com/intl/fil/about/company/history/",
-   "pagemap": {
-    "metatags": [
-     {
-      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e￬ﾞﾐ￬ﾗﾰ￬ﾞﾬ￭ﾕﾴ (Natural disaster)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "￪ﾸﾰ￬ﾃﾁ, ￬ﾧﾀ￫ﾳﾀ, ￬ﾃﾝ￫ﾬﾼ ￫ﾓﾱ￬ﾝﾘ ￪ﾸﾉ￪ﾲﾩ￭ﾕﾜ ￬ﾞﾐ￬ﾗﾰ￭ﾘﾄ￬ﾃﾁ￬ﾜﾼ￫ﾡﾜ ￬ﾞﾅ￫ﾊﾔ ￬ﾞﾬ￫ﾂﾜ￬ﾝﾄ ￫ﾧﾐ￭ﾕﾜ￫ﾋﾤ. ￬ﾝﾸ￪ﾰﾄ￬ﾗﾐ ￬ﾝﾘ￭ﾕﾜ ￬ﾝﾸ￬ﾞﾬ(￤ﾺﾺ￧ﾁﾽ)￬ﾙﾀ ￪ﾵﾬ￫ﾳﾄ￫ﾐﾘ￫ﾊﾔ ￫ﾧﾐ￬ﾝﾴ￫ﾋﾤ. ￪ﾰﾀ￬ﾞﾥ ￭ﾁﾰ ￬ﾆﾐ￬ﾋﾤ￬ﾝﾄ ￪ﾰﾀ￬ﾠﾸ￬ﾘﾤ￫ﾊﾔ ￬ﾞﾬ￭ﾕﾴ￫ﾊﾔ ￬ﾧﾀ￬ﾧﾄ, ￭ﾙﾔ￬ﾂﾰ￭ﾏﾭ￫ﾰﾜ, ￭ﾒﾍ￬ﾈﾘ￭ﾕﾴ￬ﾝﾴ￫ﾋﾤ. ￬ﾂﾰ￬ﾗﾅ￭ﾘﾁ￫ﾪﾅ ￬ﾝﾴ￬ﾠﾄ￬ﾗﾐ￫ﾊﾔ ￬ﾞﾐ￬ﾗﾰ￬ﾞﾬ￭ﾕﾴ￪ﾰﾀ ￬ﾠﾄ￬ﾲﾴ ￬ﾞﾬ￭ﾕﾴ￬ﾝﾘ ￪ﾱﾰ￬ﾝﾘ ￬ﾠﾄ￫ﾶﾀ￬ﾘﾀ￬ﾜﾼ￫ﾂﾘ, ￬ﾂﾰ￬ﾗﾅ￭ﾘﾁ￫ﾪﾅ ￬ﾝﾴ￭ﾛﾄ￫ﾡﾜ ￬ﾝﾸ￬ﾞﾬ￬ﾝﾘ ￫ﾹﾄ￬ﾤﾑ￬ﾝﾴ ￬ﾻﾤ￬ﾡﾌ￫ﾋﾤ.",
+      "Output::gray1b": "- ￬ﾗﾔ￬ﾂﾬ￬ﾝﾴ￫ﾲﾄ",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Natural_disaster",
+      "Output::link2": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ (￬ﾘﾁ￫ﾬﾸ)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://www.encyber.com/search_w/ctdetail.php?masterno=710151&contentno=710151",
+      "Output::link2c": "￬ﾗﾔ￬ﾂﾬ￬ﾝﾴ￫ﾲﾄ",
+      "Output::text2d": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2e": "http://ko.wikipedia.org/wiki/￬ﾞﾐ￬ﾗﾰ￬ﾞﾬ￭ﾕﾴ",
+      "Output::link2e": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "result_group_header": "￫ﾰﾱ￪ﾳﾼ￬ﾂﾬ￬ﾠﾄ",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/2410f79ec006d010.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
      }
     ]
    }
