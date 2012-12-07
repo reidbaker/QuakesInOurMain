@@ -171,27 +171,46 @@ public class Workspace extends AbstractVisualization implements Interactable {
 		maxPerRow++;
 	    }
 	    width = (bounds.width - BAR_WIDTH - 10) / maxPerRow;
-	    height = bounds.height/numRows;
+	    height = bounds.height / numRows;
 	}
 
 	int indexInRow = 0;
 	int rowCount = 0;
-	
-//	while(index < openVises.size()){
-//	    
-//	    if(indexInRow == maxPerRow){
-//		rowCount++;
-//		indexInRow = 0;
-//	    }
-//	}
+	int lastRowCount = -1;
 
-	for (AbstractVisualization v : openVises) {
-	    v.resizeTo(new Rectangle(bounds.x
-		    + (index * (bounds.width - BAR_WIDTH - 10) / openVises
-		            .size()), bounds.y, (bounds.width - BAR_WIDTH - 10)
-		    / openVises.size(), bounds.height));
+	while (index < openVises.size()) {
+	    int drawX = 0;
+	    int drawWidth = 0;
+	    if (rowCount < numRows - 1) {
+		drawX = bounds.x
+		        + (indexInRow * (bounds.width - BAR_WIDTH - 10) / maxPerRow);
+		drawWidth = (bounds.width - BAR_WIDTH - 10) / maxPerRow;
+	    } else {
+		if(lastRowCount == -1){
+		    lastRowCount = openVises.size() - index;
+		}
+		drawX = bounds.x
+		        + (indexInRow * (bounds.width - BAR_WIDTH - 10) / lastRowCount);
+		drawWidth = (bounds.width - BAR_WIDTH - 10) / lastRowCount;
+	    }
+	    
+	    openVises.get(index).resizeTo(new Rectangle(drawX, y + bounds.height * rowCount / numRows, drawWidth, height));
+	    
+	    indexInRow++;
+	    if (indexInRow == maxPerRow) {
+		rowCount++;
+		indexInRow = 0;
+	    }
 	    index++;
 	}
+
+//	for (AbstractVisualization v : openVises) {
+//	    v.resizeTo(new Rectangle(bounds.x
+//		    + (index * (bounds.width - BAR_WIDTH - 10) / openVises
+//		            .size()), bounds.y, (bounds.width - BAR_WIDTH - 10)
+//		    / openVises.size(), bounds.height));
+//	    index++;
+//	}
     }
 
     @Subscribe
@@ -242,14 +261,7 @@ public class Workspace extends AbstractVisualization implements Interactable {
 	    if (vis instanceof Interactable)
 		Controller.INTERACT_BUS.register(vis);
 	}
-	int index = 0;
-	for (AbstractVisualization v : openVises) {
-	    v.resizeTo(new Rectangle(x
-		    + (index * (w - BAR_WIDTH - 10) / openVises.size()), y, (w
-		    - BAR_WIDTH - 10)
-		    / openVises.size(), h));
-	    index++;
-	}
+	resizeTo(new Rectangle(x, y, w, h));
     }
 
 }
