@@ -1,0 +1,456 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 11 2001 North America Earthquake",
+    "totalResults": "677",
+    "searchTerms": "Jun 11 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 11 2001 North America Earthquake",
+    "totalResults": "677",
+    "searchTerms": "Jun 11 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.329184,
+  "formattedSearchTime": "0.33",
+  "totalResults": "677",
+  "formattedTotalResults": "677"
+ },
+ "spelling": {
+  "correctedQuery": "June 11 2001 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 11 2001 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US7436735 - Method for seismic processing, in particular for ...",
+   "htmlTitle": "Patent US7436735 - Method for \u003cb\u003eseismic\u003c/b\u003e processing, in particular for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US7436735",
+   "displayLink": "www.google.com",
+   "snippet": "A method of seismic processing for obtaining information on the ...",
+   "htmlSnippet": "A method of \u003cb\u003eseismic\u003c/b\u003e processing for obtaining information on the \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US7436735",
+   "htmlFormattedUrl": "www.google.com/patents/US7436735",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=p0GvAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHV5ShmnJM_JrxxHIroPK0OxNdkhOsj1m9TE1589x0Y1zmCudN1WdiwQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "A method of seismic processing for obtaining information on the geophysics of the subsoil includes acquiring seismic traces at at least one point on the surface of the subsoil or in the subsoil,...",
+      "url": "http://www.google.com/patents/US7436735?utm_source=gb-gplus-share",
+      "name": "Patent US7436735 - Method for seismic processing, in particular for compensating birefringence on seismic traces",
+      "image": "http://www.google.com/patents?id=p0GvAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US7436735",
+      "title": "Patent US7436735 - Method for seismic processing, in particular for compensating birefringence on seismic traces",
+      "og:title": "Patent US7436735 - Method for seismic processing, in particular for compensating birefringence on seismic traces",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=p0GvAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6605777 - Earthquake-resistant electronic equipment ...",
+   "htmlTitle": "Patent US6605777 - \u003cb\u003eEarthquake\u003c/b\u003e-resistant electronic equipment \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6605777",
+   "displayLink": "www.google.com",
+   "snippet": "US4754369, Feb 26, 1987, Jun 28, 1988, Telefonaktiebolaget L M Ericsson ...   US6217138, May 18, 1999, Apr 17, 2001, Rittal-Werk Rudolf Loh GmbH & Co. ...   USD580193, Oct 25, 2006, Nov 11, 2008, Chicago Display Marketing ...   USD623439, Oct 2, 2009, Sep 14, 2010, Frito-Lay North America, Inc. Product   display ...",
+   "htmlSnippet": "US4754369, Feb 26, 1987, \u003cb\u003eJun\u003c/b\u003e 28, 1988, Telefonaktiebolaget L M Ericsson \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6217138, May 18, 1999, Apr 17, \u003cb\u003e2001\u003c/b\u003e, Rittal-Werk Rudolf Loh GmbH &amp; Co. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  USD580193, Oct 25, 2006, Nov \u003cb\u003e11\u003c/b\u003e, 2008, Chicago Display Marketing \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  USD623439, Oct 2, 2009, Sep 14, 2010, Frito-Lay \u003cb\u003eNorth America\u003c/b\u003e, Inc. Product \u003cbr\u003e  display \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6605777",
+   "htmlFormattedUrl": "www.google.com/patents/US6605777",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=6_QNAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm-A_y5vMRmbslp5Zg2nN1ze4gJ1W836SSflVD4HV3j6hOc9WbYsMlOA"
+     }
+    ],
+    "book": [
+     {
+      "description": "An electronic equipment frame has two side assemblies each formed of two separate configured corner support channel members rigidly connected by welding by a series of cross struts, and rigidly...",
+      "url": "http://www.google.com/patents/US6605777?utm_source=gb-gplus-share",
+      "name": "Patent US6605777 - Earthquake-resistant electronic equipment frame",
+      "image": "http://www.google.com/patents?id=6_QNAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6605777",
+      "title": "Patent US6605777 - Earthquake-resistant electronic equipment frame",
+      "og:title": "Patent US6605777 - Earthquake-resistant electronic equipment frame",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=6_QNAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5490062 - Real-time neural network earthquake profile ...",
+   "htmlTitle": "Patent US5490062 - Real-time neural network \u003cb\u003eearthquake\u003c/b\u003e profile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5490062",
+   "displayLink": "www.google.com",
+   "snippet": "Presented with a previously unseen earthquake, the neural network ...   US5910763, Feb 18, 1997, Jun 8, 1999, Area warning system for earthquakes   and other ... 1999, Jan 2, 2001, Early warning system for natural and manmade   disasters ... The United States of America as represented by the Administrator of   the National ...",
+   "htmlSnippet": "Presented with a previously unseen \u003cb\u003eearthquake\u003c/b\u003e, the neural network \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5910763, Feb 18, 1997, \u003cb\u003eJun\u003c/b\u003e 8, 1999, Area warning system for \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  and other \u003cb\u003e...\u003c/b\u003e 1999, Jan 2, \u003cb\u003e2001\u003c/b\u003e, Early warning system for natural and manmade \u003cbr\u003e  disasters \u003cb\u003e...\u003c/b\u003e The United States of \u003cb\u003eAmerica\u003c/b\u003e as represented by the Administrator of \u003cbr\u003e  the National \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5490062",
+   "htmlFormattedUrl": "www.google.com/patents/US5490062",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=kYAoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZAbWi0RmtCRIaVWXphFvzF6w3G44RKjPQrWPgzzar7rqagKjk0vFoLuA"
+     }
+    ],
+    "book": [
+     {
+      "description": "A neural network has been developed that uses first-arrival energy to predict the characteristics of impending earthquake seismograph signals. The propagation of ground motion energy through...",
+      "url": "http://www.google.com/patents/US5490062?utm_source=gb-gplus-share",
+      "name": "Patent US5490062 - Real-time neural network earthquake profile predictor",
+      "image": "http://www.google.com/patents?id=kYAoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5490062",
+      "title": "Patent US5490062 - Real-time neural network earthquake profile predictor",
+      "og:title": "Patent US5490062 - Real-time neural network earthquake profile predictor",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=kYAoAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6298603 - Access control vestibule - Google Patents",
+   "htmlTitle": "Patent US6298603 - Access control vestibule - Google Patents",
+   "link": "http://www.google.com/patents/US6298603",
+   "displayLink": "www.google.com",
+   "snippet": "US5475372, Jun 10, 1994, Dec 12, 1995, Earthquake detector motion sensitive   device. US5644236, Mar 31, 1995, Jul 1, 1997, New Holland North America, Inc.   Method and ... US6474599, Dec 11, 2001, Nov 5, 2002, Aircraft security system ...",
+   "htmlSnippet": "US5475372, \u003cb\u003eJun\u003c/b\u003e 10, 1994, Dec 12, 1995, \u003cb\u003eEarthquake\u003c/b\u003e detector motion sensitive \u003cbr\u003e  device. US5644236, Mar 31, 1995, Jul 1, 1997, New Holland \u003cb\u003eNorth America\u003c/b\u003e, Inc. \u003cbr\u003e  Method and \u003cb\u003e...\u003c/b\u003e US6474599, Dec \u003cb\u003e11\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, Nov 5, 2002, Aircraft security system \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6298603",
+   "htmlFormattedUrl": "www.google.com/patents/US6298603",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=BvwGAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7jgaRLg_dspwAUZw1k7-p6bK7bgu7shJyiXYLZC2Y2-JxABQDogiIWmo"
+     }
+    ],
+    "book": [
+     {
+      "description": "An access control chamber security system with a security chamber having an aluminum frame and an entrance door and an exit door, a metal detector located within the access control chamber...",
+      "url": "http://www.google.com/patents/US6298603?utm_source=gb-gplus-share",
+      "name": "Patent US6298603 - Access control vestibule",
+      "image": "http://www.google.com/patents?id=BvwGAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6298603",
+      "title": "Patent US6298603 - Access control vestibule",
+      "og:title": "Patent US6298603 - Access control vestibule",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=BvwGAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5639364 - Light-weight drainage line units - Google Patents",
+   "htmlTitle": "Patent US5639364 - Light-weight drainage line units - Google Patents",
+   "link": "http://www.google.com/patents/US5639364",
+   "displayLink": "www.google.com",
+   "snippet": "US6402963, Jan 29, 2001, Jun 11, 2002, Soletanche Bache France, Draining ...   US6991408, Apr 29, 2003, Jan 31, 2006, North American Profill Products Inc.",
+   "htmlSnippet": "US6402963, Jan 29, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003eJun 11\u003c/b\u003e, 2002, Soletanche Bache France, Draining \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6991408, Apr 29, 2003, Jan 31, 2006, \u003cb\u003eNorth American\u003c/b\u003e Profill Products Inc.",
+   "formattedUrl": "www.google.com/patents/US5639364",
+   "htmlFormattedUrl": "www.google.com/patents/US5639364",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=xj0kAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZPcnnvomjVeFL3Erb0bnf-wLtUt8TC1jEOSUGMJEhbzhz1U9mZIT_j2w"
+     }
+    ],
+    "book": [
+     {
+      "description": "A method for manufacturing preassembled drainage line units comprises feeding a length of perforated vent pipe along a direction of manufacture longitudinally through a tubular mandrel, feeding...",
+      "url": "http://www.google.com/patents/US5639364?utm_source=gb-gplus-share",
+      "name": "Patent US5639364 - Light-weight drainage line units",
+      "image": "http://www.google.com/patents?id=xj0kAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5639364",
+      "title": "Patent US5639364 - Light-weight drainage line units",
+      "og:title": "Patent US5639364 - Light-weight drainage line units",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=xj0kAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5043033 - Process of improving the strength of existing ...",
+   "htmlTitle": "Patent US5043033 - Process of improving the strength of existing \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US5043033",
+   "displayLink": "www.google.com",
+   "snippet": "... ability to withstand atypical physical loading accompanying an earthquake, ...   US6073408, Jul 27, 1999, Jun 13, 2000, Jeda/America, Inc. Reversible ...   US6295782, Jun 11, 1999, Oct 2, 2001, Stay-in-place form ... North Pacific Group,   Inc. Wood support piling with composite wrappings and method for reinforcing   the same ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e ability to withstand atypical physical loading accompanying an \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6073408, Jul 27, 1999, \u003cb\u003eJun\u003c/b\u003e 13, 2000, Jeda/\u003cb\u003eAmerica\u003c/b\u003e, Inc. Reversible \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6295782, \u003cb\u003eJun 11\u003c/b\u003e, 1999, Oct 2, \u003cb\u003e2001\u003c/b\u003e, Stay-in-place form \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNorth\u003c/b\u003e Pacific Group, \u003cbr\u003e  Inc. Wood support piling with composite wrappings and method for reinforcing \u003cbr\u003e  the same \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5043033",
+   "htmlFormattedUrl": "www.google.com/patents/US5043033",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=zIAhAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHgQz5oW1rFGZnLFBzDABSYmqBZqA86p1jGm-_Y2kmQRHWmHyAp70xfg"
+     }
+    ],
+    "book": [
+     {
+      "description": "In a concrete column supporting an overhead load and having a base end resting on a surface, a process of strengthening the column to increase its ability to withstand atypical physical loading...",
+      "url": "http://www.google.com/patents/US5043033?utm_source=gb-gplus-share",
+      "name": "Patent US5043033 - Process of improving the strength of existing concrete support columns",
+      "image": "http://www.google.com/patents?id=zIAhAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5043033",
+      "title": "Patent US5043033 - Process of improving the strength of existing concrete support columns",
+      "og:title": "Patent US5043033 - Process of improving the strength of existing concrete support columns",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=zIAhAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent USD573369 - Moveable stand-alone wire display and ...",
+   "htmlTitle": "Patent USD573369 - Moveable stand-alone wire display and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/USD573369",
+   "displayLink": "www.google.com",
+   "snippet": "Cited Patent, Filing date, Issue date, Original Assignee, Title.",
+   "htmlSnippet": "Cited Patent, Filing date, Issue date, Original Assignee, Title.",
+   "formattedUrl": "www.google.com/patents/USD573369",
+   "htmlFormattedUrl": "www.google.com/patents/USD573369",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=YFOrAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQduH58cJz9Jlt99gABJOAl704H4zJtIK5kZHeT36oPZdYgKURriJofrCg"
+     }
+    ],
+    "book": [
+     {
+      "description": "www.google.com",
+      "url": "http://www.google.com/patents/USD573369?utm_source=gb-gplus-share",
+      "name": "Patent USD573369 - Moveable stand-alone wire display and shelving unit",
+      "image": "http://www.google.com/patents?id=YFOrAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/USD573369",
+      "title": "Patent USD573369 - Moveable stand-alone wire display and shelving unit",
+      "og:title": "Patent USD573369 - Moveable stand-alone wire display and shelving unit",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=YFOrAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US6098969 - Structural vibration damper with continuously ...",
+   "htmlTitle": "Patent US6098969 - Structural vibration damper with continuously \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US6098969",
+   "displayLink": "www.google.com",
+   "snippet": "US5065552, Feb 5, 1990, Nov 19, 1991, Kajima Corporation, Active seismic   response ... US5410845, Feb 11, 1993, May 2, 1995, Kajima Corporation,   Vibration ... US6672573, Jun 15, 2001, Jan 6, 2004, Displacement amplification   method and ... Engineering & Manufacturing North America, Inc. Spare tire   dynamic damper ...",
+   "htmlSnippet": "US5065552, Feb 5, 1990, Nov 19, 1991, Kajima Corporation, Active \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  response \u003cb\u003e...\u003c/b\u003e US5410845, Feb \u003cb\u003e11\u003c/b\u003e, 1993, May 2, 1995, Kajima Corporation, \u003cbr\u003e  Vibration \u003cb\u003e...\u003c/b\u003e US6672573, \u003cb\u003eJun\u003c/b\u003e 15, \u003cb\u003e2001\u003c/b\u003e, Jan 6, 2004, Displacement amplification \u003cbr\u003e  method and \u003cb\u003e...\u003c/b\u003e Engineering &amp; Manufacturing \u003cb\u003eNorth America\u003c/b\u003e, Inc. Spare tire \u003cbr\u003e  dynamic damper \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US6098969",
+   "htmlFormattedUrl": "www.google.com/patents/US6098969",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=QVYDAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTVsSnlyEIBey4O_ggyR_KUeV8RN9eUPliybFwEJ-5-VVyPa51sdkhe3Ng"
+     }
+    ],
+    "book": [
+     {
+      "description": "A semi-active variable stiffness control (SAIVS) device, which can change its stiffness continuously and smoothly between a maximum and minimum stiffness. It comprises four spring and telescoping...",
+      "url": "http://www.google.com/patents/US6098969?utm_source=gb-gplus-share",
+      "name": "Patent US6098969 - Structural vibration damper with continuously variable stiffness",
+      "image": "http://www.google.com/patents?id=QVYDAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US6098969",
+      "title": "Patent US6098969 - Structural vibration damper with continuously variable stiffness",
+      "og:title": "Patent US6098969 - Structural vibration damper with continuously variable stiffness",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=QVYDAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4057780 - Method for describing fractures in subterranean ...",
+   "htmlTitle": "Patent US4057780 - Method for describing fractures in subterranean \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US4057780",
+   "displayLink": "www.google.com",
+   "snippet": "Original Assignee: The United States of America as represented by the United ...   US4158963, Jan 11, 1978, Jun 26, 1979, Preussag Aktiengesellschaft ...   US6725164, Nov 19, 2001, Apr 20, 2004, Input/Output, Inc. Hydrophone   assembly ... BP Corporation North America Inc. System and method for seismic   data acquisition ...",
+   "htmlSnippet": "Original Assignee: The United States of America as represented by the United \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4158963, Jan \u003cb\u003e11\u003c/b\u003e, 1978, \u003cb\u003eJun\u003c/b\u003e 26, 1979, Preussag Aktiengesellschaft \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6725164, Nov 19, \u003cb\u003e2001\u003c/b\u003e, Apr 20, 2004, Input/Output, Inc. Hydrophone \u003cbr\u003e  assembly \u003cb\u003e...\u003c/b\u003e BP Corporation \u003cb\u003eNorth America\u003c/b\u003e Inc. System and method for \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  data acquisition \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4057780",
+   "htmlFormattedUrl": "www.google.com/patents/US4057780",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=TXQyAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3_k8UCAPXMcQy7z8-ejh_3AeX3T_mEyAeWYLqXj1jRWTrBZiXjvd9p7A"
+     }
+    ],
+    "book": [
+     {
+      "description": "The configuration and directional orientation of natural or induced fractures in subterranean earth formations are described by introducing a liquid explosive into the fracture, detonating...",
+      "url": "http://www.google.com/patents/US4057780?utm_source=gb-gplus-share",
+      "name": "Patent US4057780 - Method for describing fractures in subterranean earth formations",
+      "image": "http://www.google.com/patents?id=TXQyAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4057780",
+      "title": "Patent US4057780 - Method for describing fractures in subterranean earth formations",
+      "og:title": "Patent US4057780 - Method for describing fractures in subterranean earth formations",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=TXQyAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
+   "htmlTitle": "Our history in depth ￢ﾀﾓ Company ￢ﾀﾓ Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ 2001 ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 ... June.   Our first press release announces a $25 million round from Sequoia ... Mountain   View is a few miles south of Stanford University, and north of the ... American   Dialect Society members vote ￢ﾀﾜgoogle￢ﾀﾝ the ￢ﾀﾜmost useful￢ﾀﾝ Word of the Year for   2002.",
+   "htmlSnippet": "1995-1997 ￂﾷ 1998 ￂﾷ 1999 ￂﾷ 2000 ￂﾷ \u003cb\u003e2001\u003c/b\u003e ￂﾷ 2002 ￂﾷ 2003 ￂﾷ 2004 ￂﾷ 2005 ￂﾷ 2006 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJune\u003c/b\u003e. \u003cbr\u003e  Our first press release announces a $25 million round from Sequoia \u003cb\u003e...\u003c/b\u003e Mountain \u003cbr\u003e  View is a few miles south of Stanford University, and \u003cb\u003enorth\u003c/b\u003e of the \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAmerican\u003c/b\u003e \u003cbr\u003e  Dialect Society members vote ￢ﾀﾜgoogle￢ﾀﾝ the ￢ﾀﾜmost useful￢ﾀﾝ Word of the Year for \u003cbr\u003e  2002.",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  }
+ ]
+}

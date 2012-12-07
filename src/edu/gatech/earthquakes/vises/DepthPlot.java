@@ -195,15 +195,22 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
             float[] depths = getDepths();
             float[] mag = getMagnitudes();
             boolean found = false;
+            int lastDist = Integer.MAX_VALUE;
+            int distanceToMouse = Integer.MAX_VALUE;
 
-            for (int i = 0; i < depths.length && !found; i++) {
+            for (int i = 0; i < depths.length; i++) {
+                distanceToMouse = (int) Math.round(Math.sqrt(
+                        (Math.abs(mX - drawingCoordinates[i][0]) + Math.abs(mY - drawingCoordinates[i][1]))
+                ));
                 //if the mouse is within radius of the current earthquake
-                if(Math.abs(mX - drawingCoordinates[i][0]) < getCircleRadius(mag[i])
-                        && Math.abs(mY - drawingCoordinates[i][1]) < getCircleRadius(mag[i])) {
+                if(lastDist > distanceToMouse
+                        && Math.abs(mY - drawingCoordinates[i][1]) < getCircleRadius(mag[i])
+                        && Math.abs(mX - drawingCoordinates[i][0]) < getCircleRadius(mag[i])) {
                     highlightedIndex = i;
                     ArrayList<DataRow> rowList = new ArrayList<>(displayData.getDatum());
                     Controller.BRUSH_BUS.post(new DataSet(rowList.get(i)));
                     found = true;
+                    lastDist = distanceToMouse;
                 }
 
                 if (!found) {
@@ -222,8 +229,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
             int i = 0;
             for (DataRow d : displayData) {
                 if (d.getValue(DataRow.DEPTH) != null) {
-                    depths[i] = ((Double) d.getValue(DataRow.DEPTH))
-                            .floatValue();
+                    depths[i] = ((Double) d.getValue(DataRow.DEPTH)).floatValue();
                 } else {
                     depths[i] = 0.0f;
                 }
