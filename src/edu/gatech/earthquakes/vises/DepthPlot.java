@@ -148,7 +148,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 	@Override
 	public void filterBy(DataSet filteredData) {
 		this.displayData = filteredData;
-		calculateRanges();
+		//calculateRanges();
 		calculateDrawingValues();
 		
 	}
@@ -156,7 +156,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 	public void resizeTo(Rectangle bounds) {
 		super.resizeTo(bounds);
 		
-		calculateRanges();
+		//calculateRanges();
 		calculateDrawingValues();
 	}
 

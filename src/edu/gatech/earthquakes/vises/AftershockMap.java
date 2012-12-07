@@ -1,5 +1,6 @@
 package edu.gatech.earthquakes.vises;
 
+import java.awt.Rectangle;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -28,6 +29,8 @@ public class AftershockMap extends Individual implements Interactable,
 
     private double[] highlightedPos;
     private DataSet aftershocks;
+    private static int mainColor = Theme.getPalletteColor(16);
+    private static int shockColor = Theme.getPalletteColor(17);
 
     public AftershockMap(int x, int y, int w, int h, DataRow displayData,
 	    DataSet filterData) {
@@ -41,20 +44,28 @@ public class AftershockMap extends Individual implements Interactable,
 
 	double[][] coords = getCoordinates();
 	double[] m = getMagnitudes();
-
+	double[] mainCoords = getDrawingCoord((double)displayData.getValue(DataRow.LONGITUDE), (double)displayData.getValue(DataRow.LATTITUDE));
+	//System.out.println(mainCoords[0]);
 	for (int i = 0; i < coords.length; i++) {
 
 	    // for magnitude, min and max are assumed to be 3 and 7 based on
 	    // moment magnitude numbers
 	    double[] c = getDrawingCoord(coords[i][0], coords[i][1]);
+	    //System.out.println(c[0]);
 
 	    if (highlightedPos != null && coords[i][0] == highlightedPos[0]
 		    && coords[i][1] == highlightedPos[1]) {
-		parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 100));
-		parent.stroke(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 200));
-	    } else {
-		parent.fill(Theme.getPalletteColor(0) - 0xAA000000);
-		parent.stroke(Theme.getPalletteColor(0) - 0x66000000);
+		parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 0x55));
+		parent.stroke(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 0xbb));
+	    } 
+	    else if(c[0] == mainCoords[0] && c[1] == mainCoords[1] ){
+	       
+	        parent.fill(Theme.rgba(mainColor, 0x88));
+                parent.stroke(Theme.rgba(mainColor, 0xdd));
+	    }
+	    else {
+		parent.fill(Theme.rgba(shockColor, 0x55));
+		parent.stroke(Theme.rgba(shockColor, 0xbb));
 	    }
 
 	    parent.ellipse((float) c[0], (float) c[1],
@@ -73,7 +84,7 @@ public class AftershockMap extends Individual implements Interactable,
 	parent.rect(x + buffer, y + buffer, w - buffer * 2, h - buffer * 2);
 
 	parent.fill(Theme.getDarkUIColor());
-	parent.textSize(w / 60);
+	parent.textSize(w / 30);
 
 	// make and label the latitude tick marks
 	double lon = 0;
@@ -114,8 +125,8 @@ public class AftershockMap extends Individual implements Interactable,
 
 	int i = 0;
 	for (DataRow quake : aftershocks) {
-	    coords[i][0] = (Double) quake.getValue(DataRow.LATTITUDE);
-	    coords[i++][1] = (Double) quake.getValue(DataRow.LONGITUDE);
+	    coords[i][0] = (Double) quake.getValue(DataRow.LONGITUDE);
+	    coords[i++][1] = (Double) quake.getValue(DataRow.LATTITUDE);
 	}
 
 	return coords;
@@ -135,16 +146,17 @@ public class AftershockMap extends Individual implements Interactable,
     private void calculateRanges() {
 	double[][] coords = getCoordinates();
 
-	double[] lat = new double[coords.length];
 	double[] lon = new double[coords.length];
+	double[] lat = new double[coords.length];
 
 	for (int i = 0; i < coords.length; i++) {
-	    lat[i] = coords[i][0];
-	    lon[i] = coords[i][1];
+	    lon[i] = coords[i][0];
+	    lat[i] = coords[i][1];
 	}
-
-	Arrays.sort(lat);
+	
 	Arrays.sort(lon);
+	Arrays.sort(lat);
+	
 
 	double dif = 0;
 	double buffer = .1;
@@ -233,7 +245,7 @@ public class AftershockMap extends Individual implements Interactable,
 	return (float) (Math.sqrt(area / Math.PI));
     }
 
-    private double[] getDrawingCoord(double lat, double lon) {
+    private double[] getDrawingCoord(double lon, double lat) {
 	double qx = ((w - buffer * 2) * (lon - lonRange[0]))
 	        / (lonRange[1] - lonRange[0]);
 	double qy = ((h - buffer * 2) * (lat - latRange[0]))
@@ -241,11 +253,19 @@ public class AftershockMap extends Individual implements Interactable,
 
 	return new double[] { x + qx + buffer, y + h - qy - buffer };
     }
+    
+    public void resizeTo(Rectangle bounds) {
+       super.resizeTo(bounds);
+       if (aftershocks.getDatum().size() > 0) {
+           calculateRanges();
+       }
+    }
+    
 
     @Override
     public void filterBy(DataSet filteredData) {
 	Date date = (Date) displayData.getValue(DataRow.DATE);
-
+	//System.out.println(date);
 	Set<DataRow> shocks = new HashSet<DataRow>();
 
 	for (DataRow quake : filteredData) {
@@ -253,8 +273,11 @@ public class AftershockMap extends Individual implements Interactable,
 		    DataRow.Dependency.DEPENDENT)
 		    && quake.getValue(DataRow.MAIN_DATE).equals(date))
 		shocks.add(quake);
-	    if (quake.equals(displayData))
+	    if (quake.getValue(DataRow.LATTITUDE).equals(displayData.getValue(DataRow.LATTITUDE))
+	            && quake.getValue(DataRow.LONGITUDE).equals(displayData.getValue(DataRow.LONGITUDE))){
 		shocks.add(displayData);
+		//System.out.println("added");
+	    }
 	}
 	aftershocks = new DataSet(shocks);
 	if (aftershocks.getDatum().size() > 0) {
