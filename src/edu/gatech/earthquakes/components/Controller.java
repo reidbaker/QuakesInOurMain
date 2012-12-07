@@ -127,6 +127,6 @@ public class Controller {
 
 	public void windowResized(int width, int height) {
 		dataslider.resizeTo(new Rectangle(50, height - 100, width - 100, 50));
-		workspace.resizeTo(new Rectangle(10, 10, width - 20, height - 120));
+		workspace.resizeTo(new Rectangle(10, 10, width - 10, height - 120));
 	}
 }

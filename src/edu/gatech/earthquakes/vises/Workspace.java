@@ -9,18 +9,24 @@ import java.util.Locale;
 import processing.core.PApplet;
 
 import com.google.common.collect.Lists;
+import com.google.common.eventbus.Subscribe;
 
 import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
+import edu.gatech.earthquakes.interfaces.Drawable;
+import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
+import edu.gatech.earthquakes.model.Interaction;
 import edu.gatech.earthquakes.util.UIUtils;
 
-public class Workspace extends AbstractVisualization {
+public class Workspace extends AbstractVisualization implements Interactable {
 
     private DataSet masterData;
     List<AbstractVisualization> allVises;
     List<AbstractVisualization> openVises;
+
+    private int numHighlighted;
 
     private static final int BAR_WIDTH = 75, CORNER_RADIUS = 10,
 	    BUTTON_PADDING = 10;
@@ -30,6 +36,7 @@ public class Workspace extends AbstractVisualization {
 	this.masterData = masterData;
 	allVises = Lists.newArrayList();
 	openVises = Lists.newArrayList();
+	numHighlighted = -1;
 	intantiateVises();
     }
 
@@ -67,6 +74,8 @@ public class Workspace extends AbstractVisualization {
 	Controller.registerVisualization(bars);
 	allVises.add(bars);
 
+	openVises.addAll(allVises);
+
     }
 
     @Override
@@ -76,31 +85,29 @@ public class Workspace extends AbstractVisualization {
 	parent.noStroke();
 	parent.fill(Theme.rgba(Theme.getBrightUIColor(), 0x33));
 
-	parent.rect(parent.getWidth() - BAR_WIDTH, y + CORNER_RADIUS,
-	        CORNER_RADIUS, h - 2 * CORNER_RADIUS);
-	parent.rect(parent.getWidth() - (BAR_WIDTH - CORNER_RADIUS), y,
-	        BAR_WIDTH - CORNER_RADIUS, h);
+	parent.rect(x + w - BAR_WIDTH, y + CORNER_RADIUS, CORNER_RADIUS, h - 2
+	        * CORNER_RADIUS);
+	parent.rect(x + w - (BAR_WIDTH - CORNER_RADIUS), y, BAR_WIDTH
+	        - CORNER_RADIUS, h);
 
 	// Draw Sidebar Corners
 	parent.stroke(Theme.getBaseUIColor());
 	parent.strokeWeight(2);
-	parent.arc(parent.getWidth() - (BAR_WIDTH - CORNER_RADIUS), y
-	        + CORNER_RADIUS, 2 * CORNER_RADIUS, 2 * CORNER_RADIUS,
-	        PApplet.PI, PApplet.PI + PApplet.HALF_PI);
-	parent.arc(parent.getWidth() - (BAR_WIDTH - CORNER_RADIUS), y + h
-	        - CORNER_RADIUS, 2 * CORNER_RADIUS, 2 * CORNER_RADIUS,
-	        PApplet.HALF_PI, PApplet.PI);
+	parent.arc(x + w - (BAR_WIDTH - CORNER_RADIUS), y + CORNER_RADIUS,
+	        2 * CORNER_RADIUS, 2 * CORNER_RADIUS, PApplet.PI, PApplet.PI
+	                + PApplet.HALF_PI);
+	parent.arc(x + w - (BAR_WIDTH - CORNER_RADIUS), y + h - CORNER_RADIUS,
+	        2 * CORNER_RADIUS, 2 * CORNER_RADIUS, PApplet.HALF_PI,
+	        PApplet.PI);
 
 	// Draw Sidebar Lines
 	parent.noFill();
-	parent.line(parent.getWidth(), y, parent.getWidth() - BAR_WIDTH
-	        + CORNER_RADIUS, y);
+	parent.line(x + w, y, x + w - BAR_WIDTH + CORNER_RADIUS, y);
 
-	parent.line(parent.getWidth() - BAR_WIDTH, y + CORNER_RADIUS,
-	        parent.getWidth() - BAR_WIDTH, y + h - CORNER_RADIUS);
+	parent.line(x + w - BAR_WIDTH, y + CORNER_RADIUS, x + w - BAR_WIDTH, y
+	        + h - CORNER_RADIUS);
 
-	parent.line(parent.getWidth(), y + h, parent.getWidth() - BAR_WIDTH
-	        + CORNER_RADIUS, y + h);
+	parent.line(x + w, y + h, x + w - BAR_WIDTH + CORNER_RADIUS, y + h);
 
 	// Draw Icons for each vis
 	parent.stroke(Theme.getBaseUIColor());
@@ -109,36 +116,103 @@ public class Workspace extends AbstractVisualization {
 	int i = 0;
 	for (AbstractVisualization av : allVises) {
 	    if (openVises.contains(av)) {
-		parent.fill(Theme.rgba(Theme.getBrightUIColor(), 0x33));
+		if (numHighlighted == i) {
+		    parent.fill(Theme.changeBrightness(Theme.rgba(Theme.getBrightUIColor(), 0xaa), 1.1f, true));
+		} else {
+		    parent.fill(Theme.rgba(Theme.getBrightUIColor(), 0xaa));
+		}
 	    } else {
-		parent.fill(Theme.changeSaturation(Theme.getBrightUIColor(),
-		        0.2f, true));
+		if (numHighlighted == i) {
+			parent.fill(Theme.changeBrightness(Theme.changeSaturation(Theme.getBrightUIColor(),
+			        0.0f, true), 0.75f, true));
+		} else {
+			parent.fill(Theme.changeSaturation(Theme.getBrightUIColor(),
+			        0.0f, true));
+		}
 	    }
-	    int bx = parent.getWidth() - BAR_WIDTH + BUTTON_PADDING;
-	    int by = 
-		    y + BUTTON_PADDING
-	            + (i * (BUTTON_PADDING * 2 + buttonHeight));
-	    
-	    UIUtils.roundRect(bx,by,
-		    buttonWidth, buttonHeight, CORNER_RADIUS, parent);
+	    int bx = x + w - BAR_WIDTH + BUTTON_PADDING;
+	    int by = y + BUTTON_PADDING
+		    + (i * (BUTTON_PADDING * 2 + buttonHeight));
+
+	    UIUtils.roundRect(bx, by, buttonWidth, buttonHeight, CORNER_RADIUS,
+		    parent);
 	    parent.fill(Theme.getDarkUIColor());
 	    parent.textAlign(PApplet.CENTER, PApplet.CENTER);
 	    int size = Math.min(buttonWidth, buttonHeight);
 	    parent.textSize(size - 2);
-	    parent.text("" + (i+1),bx + buttonWidth/2, by + buttonHeight/2);
+	    parent.text("" + (i + 1), bx + buttonWidth / 2, by + buttonHeight
+		    / 2);
 	    i++;
 	}
     }
 
     @Override
     public void resizeTo(Rectangle bounds) {
-	bounds.width -= BAR_WIDTH;
 	super.resizeTo(bounds);
 	int index = 0;
-	for (AbstractVisualization v : allVises) {
+	for (AbstractVisualization v : openVises) {
 	    v.resizeTo(new Rectangle(bounds.x
-		    + (index * bounds.width / allVises.size()), bounds.y,
-		    bounds.width / allVises.size(), bounds.height));
+		    + (index * (bounds.width - BAR_WIDTH - 10) / openVises
+		            .size()), bounds.y, (bounds.width - BAR_WIDTH - 10)
+		    / openVises.size(), bounds.height));
+	    index++;
+	}
+    }
+
+    @Subscribe
+    public void handleInput(Interaction interaction) {
+	PApplet pa = interaction.getParentApplet();
+
+	// Handle highlighting detection
+	boolean isOverOne = false;
+	for (int i = 0; i < allVises.size(); i++) {
+	    if (isOverVisButton(pa.mouseX, pa.mouseY, i)) {
+		if (interaction.isFirstPress()) {
+		    toggleVis(i);
+		}
+		numHighlighted = i;
+		isOverOne = true;
+	    }
+	}
+	if (!isOverOne) {
+	    numHighlighted = -1;
+	}
+    }
+
+    private boolean isOverVisButton(int px, int py, int visCount) {
+	int bw = BAR_WIDTH - BUTTON_PADDING * 2;
+	int bh = h / allVises.size() - 2 * BUTTON_PADDING;
+	int bx = x + w - BAR_WIDTH + BUTTON_PADDING;
+	int by = y + BUTTON_PADDING + (visCount * (BUTTON_PADDING * 2 + bh));
+
+	if (px > bx && px < (bx + bw) && py > by && py < (by + bh)) {
+	    return true;
+	} else {
+	    return false;
+	}
+    }
+
+    private void toggleVis(int i) {
+	AbstractVisualization vis = allVises.get(i);
+	if (openVises.contains(vis)) {
+	    openVises.remove(vis);
+	    if (vis instanceof Drawable)
+		Controller.DRAW_BUS.unregister(vis);
+	    if (vis instanceof Interactable)
+		Controller.INTERACT_BUS.unregister(vis);
+	} else {
+	    openVises.add(Math.min(i, openVises.size()), vis);
+	    if (vis instanceof Drawable)
+		Controller.DRAW_BUS.register(vis);
+	    if (vis instanceof Interactable)
+		Controller.INTERACT_BUS.register(vis);
+	}
+	int index = 0;
+	for (AbstractVisualization v : openVises) {
+	    v.resizeTo(new Rectangle(x
+		    + (index * (w - BAR_WIDTH - 10) / openVises.size()), y, (w
+		    - BAR_WIDTH - 10)
+		    / openVises.size(), h));
 	    index++;
 	}
     }

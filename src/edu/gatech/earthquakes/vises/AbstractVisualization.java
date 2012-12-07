@@ -72,17 +72,17 @@ public abstract class AbstractVisualization implements Drawable, Resizable {
 	    parent.text(title, fb.x + BASE_INSET + CORNER_RADIUS, fb.y
 		    + FRAME_TOP - 4);
 
-	    int closeX = fb.x+fb.width-(FRAME_TOP-BASE_INSET * 3);
-	    int closeY = fb.y + BASE_INSET*3;
-	    int closeSize = FRAME_TOP - BASE_INSET * 6;
-	    
-	    parent.noFill();
-	    parent.strokeJoin(PApplet.ROUND);
-	    parent.rect(closeX, closeY, closeSize, closeSize);
-	    parent.line(closeX + 2*BASE_INSET, closeY + 2*BASE_INSET, closeX
-		    + closeSize - 2*BASE_INSET, closeY + closeSize - 2*BASE_INSET);
-	    parent.line(closeX + 2*BASE_INSET, closeY + closeSize - 2*BASE_INSET, closeX
-		    + closeSize - 2*BASE_INSET, closeY + 2*BASE_INSET);
+//	    int closeX = fb.x+fb.width-(FRAME_TOP-BASE_INSET * 3);
+//	    int closeY = fb.y + BASE_INSET*3;
+//	    int closeSize = FRAME_TOP - BASE_INSET * 6;
+//	    
+//	    parent.noFill();
+//	    parent.strokeJoin(PApplet.ROUND);
+//	    parent.rect(closeX, closeY, closeSize, closeSize);
+//	    parent.line(closeX + 2*BASE_INSET, closeY + 2*BASE_INSET, closeX
+//		    + closeSize - 2*BASE_INSET, closeY + closeSize - 2*BASE_INSET);
+//	    parent.line(closeX + 2*BASE_INSET, closeY + closeSize - 2*BASE_INSET, closeX
+//		    + closeSize - 2*BASE_INSET, closeY + 2*BASE_INSET);
 	}
     }
 
