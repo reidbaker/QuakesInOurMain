@@ -105,7 +105,8 @@ public class NominalBarGraph extends BarGraph
 				else
 					bars.put(row.getValue(dataType).toString(), 1);
 		}
-		numDivisions = bars.size();
+		//to stop divide by zero
+		numDivisions = Math.max(bars.size(), 1);
 	}
 
 	@Override
