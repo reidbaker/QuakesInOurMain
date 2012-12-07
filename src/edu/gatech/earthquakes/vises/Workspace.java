@@ -173,7 +173,7 @@ public class Workspace extends AbstractVisualization implements Interactable {
 	    width = (bounds.width - BAR_WIDTH - 10) / maxPerRow;
 	    height = bounds.height/numRows;
 	}
-	
+
 	int indexInRow = 0;
 	int rowCount = 0;
 	

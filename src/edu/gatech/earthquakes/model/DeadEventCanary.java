@@ -18,16 +18,20 @@ public class DeadEventCanary {
 	}
 
 	@Subscribe
-	public void respondToDeadEvent(DeadEvent de){
+	public void respondToDeadEvent(final DeadEvent de){
 		String busName = "";
-		if(de.getSource().equals(Controller.BRUSH_BUS))
+		if(de.getSource().equals(Controller.BRUSH_BUS)){
 			busName = "brushing";
-		else if(de.getSource().equals(Controller.DRAW_BUS))
+		}
+		else if(de.getSource().equals(Controller.DRAW_BUS)){
 			busName = "drawing";
-		else if(de.getSource().equals(Controller.FILTER_BUS))
+		}
+		else if(de.getSource().equals(Controller.FILTER_BUS)){
 			busName = "filering";
-		else if(de.getSource().equals(Controller.INTERACT_BUS))
+		}
+		else if(de.getSource().equals(Controller.INTERACT_BUS)){
 			busName = "interaction";
+		}
 
 		System.err.println("Dead Event " + de.getEvent() + " Dispatched on " + busName + " bus.");
 	}

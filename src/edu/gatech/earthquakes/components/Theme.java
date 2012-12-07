@@ -1,18 +1,21 @@
 package edu.gatech.earthquakes.components;
 
 import java.awt.Color;
-import java.util.Arrays;
 
-public class Theme {
+public final class Theme {
     public static final int HIGHLIGHTED_COLOR = 0xFFC9D94E;
-    private static final int baseUIColor = 0xFF00678B;
-    private static final int backgroundColor = 0xFFEEEEEE;
+    private static final int BASE_UI_COLOR = 0xFF00678B;
+    private static final int BACKGROUND_COLOR = 0xFFEEEEEE;
+
+    private Theme(){
+        //Do nothing
+    }
 
     /**
      * The change applied to values for highlight and darkened compliments, as
      * well as pallette generation.
      */
-    private static final float deltaV = 0.3f;
+    private static final float DELTA_V = 0.3f;
 
     /**
      * Color pallette for drawing all the data.
@@ -35,72 +38,79 @@ public class Theme {
 
             0xff497358, 0xffd62bd9, 0xffd96aa3, 0xffffe800, };
 
-    public static float[] getHSB(int rgbColor) {
-        float[] hsb = new float[3];
-        Color rgb = new Color(rgbColor);
+    public static float[] getHSB(final int rgbColor) {
+        final float[] hsb = new float[3];
+        final Color rgb = new Color(rgbColor);
         Color.RGBtoHSB(rgb.getRed(), rgb.getGreen(), rgb.getBlue(), hsb);
         return hsb;
     }
 
     private static int getRGB(float[] hsb) {
-        Color converted = Color.getHSBColor(hsb[0], hsb[1], hsb[2]);
+        final Color converted = Color.getHSBColor(hsb[0], hsb[1], hsb[2]);
         return converted.getRGB();
     }
 
     public static int getBackgroundColor() {
-        return backgroundColor;
+        return BACKGROUND_COLOR;
     }
 
     public static int getBaseUIColor() {
-        return baseUIColor;
+        return BASE_UI_COLOR;
     }
 
     public static int getDarkUIColor() {
-        float[] hsb = getHSB(baseUIColor);
-        hsb[2] = hsb[2] - deltaV;
-        if (hsb[2] < 0.0f)
+        float[] hsb = getHSB(BASE_UI_COLOR);
+        hsb[2] = hsb[2] - DELTA_V;
+        if (hsb[2] < 0.0f){
             hsb[2] = 0.0f;
+        }
         return getRGB(hsb);
     }
 
     public static int getBrightUIColor() {
-        float[] hsb = getHSB(baseUIColor);
-        hsb[2] = hsb[2] + deltaV;
-        if (hsb[2] > 1.0f)
+        float[] hsb = getHSB(BASE_UI_COLOR);
+        hsb[2] = hsb[2] + DELTA_V;
+        if (hsb[2] > 1.0f){
             hsb[2] = 1.0f;
+        }
         return getRGB(hsb);
     }
 
-    public synchronized static int getPalletteColor(int n) {
-        if (n < 0)
+    public synchronized static int getPalletteColor(int userIndex) {
+        if (userIndex < 0){
             throw new IllegalArgumentException("Can't have negative index.");
-        int index = n % pallette.length;
+        }
+        int index = userIndex % pallette.length;
         return pallette[index];
     }
 
-    public static int rgba(int rgb, int a) {
-        return rgb & ((a << 24) | 0xFFFFFF);
+    public static int rgba(int rgb, int alpha) {
+        return rgb & ((alpha << 24) | 0xFFFFFF);
     }
 
     public static int changeSaturation(int rgb, float percentage, boolean relative) {
         float[] hsb = getHSB(rgb);
-        if(relative)
+        if(relative){
             hsb[1] *= percentage;
-        else
+        } else {
             hsb[1] = percentage;
-        if (hsb[1] < 0.0f)
+        }
+        if (hsb[1] < 0.0f){
             hsb[1] = 0.0f;
+        }
         return getRGB(hsb);
     }
 
     public static int changeBrightness(int rgb, float percentage, boolean relative) {
         float[] hsb = getHSB(rgb);
-        if(relative)
+        if(relative){
             hsb[2] *= percentage;
-        else
+        } else {
             hsb[2] = percentage;
-        if (hsb[2] < 0.0f)
+        }
+        if (hsb[2] < 0.0f){
             hsb[2] = 0.0f;
+        }
         return getRGB(hsb);
     }
 

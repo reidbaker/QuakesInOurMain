@@ -91,7 +91,7 @@ public class CustomSearch {
         final byte[] bytesOfMessage = query.getBytes("UTF-8");
         final MessageDigest md = MessageDigest.getInstance("MD5");
         byte[] thedigest = md.digest(bytesOfMessage);
-        String filename = bytesToPrintableString(thedigest);
+        final String filename = bytesToPrintableString(thedigest);
         File f = new File(CACHE_LOCATION + filename);
 
         //TODO handle if query happens to be a directory
@@ -112,7 +112,7 @@ public class CustomSearch {
         return result;
     }
 
-    private String bytesToPrintableString(byte[] thedigest) {
+    private String bytesToPrintableString(final byte[] thedigest) {
         //This is used to allow files to be saved in windows
         //Possible Chars are windows safe chars
         char[] possibleChars = {'0','1','2','3','4','5','6','7','8','9',
