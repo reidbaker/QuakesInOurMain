@@ -84,7 +84,10 @@ public class AftershockMap extends Individual implements Interactable,
 	parent.rect(x + buffer, y + buffer, w - buffer * 2, h - buffer * 2);
 
 	parent.fill(Theme.getDarkUIColor());
-	parent.textSize(w / 30);
+	if(w/30 > 16)
+	    parent.textSize(16);
+	else
+	    parent.textSize(w / 30);
 
 	// make and label the latitude tick marks
 	double lon = 0;

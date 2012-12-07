@@ -35,6 +35,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
     public void drawComponent(PApplet parent) {
         super.drawComponent(parent);
         parent.strokeWeight(1);
+        drawAxes(parent);
         for (int i = 0; i < drawingCoordinates.length; i++) {
             if (drawingCoordinates[i][1] != y) {
                 int color = DataRow.getColorFor(DataRow.DEPTH);
@@ -58,7 +59,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
             }
         }
 		
-		drawAxes(parent);
+		
 	}
 	
 	
@@ -154,9 +155,9 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 	private void drawAxes(PApplet parent){
 	    int verticalOffset = h/20;
 	    int depthOffset = (int)(depthRange[1]-depthRange[0])/verticalOffset;
-	    parent.stroke(0);
+	    parent.stroke(0xaa);
 	    parent.fill(0);
-	    parent.textSize(w/30);
+	    parent.textSize(verticalOffset/3);
 	    parent.textAlign(PApplet.CENTER);
 	    for(int i=0; i< h-buffer*2; i+= verticalOffset ){
 	        parent.line(x+buffer-2, y+buffer+i, x+w-buffer, y+buffer+i);
