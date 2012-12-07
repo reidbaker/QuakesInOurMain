@@ -3,6 +3,7 @@ package edu.gatech.earthquakes.vises;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Hashtable;
+import java.util.Set;
 
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Theme;
@@ -12,6 +13,7 @@ import edu.gatech.earthquakes.model.DataSet;
 public class NominalBarGraph extends BarGraph
 {
 	private Hashtable<String, Integer> bars;
+	private volatile String longestTitle = "";
 
 	public NominalBarGraph(int x, int y, int w, int h, DataSet displayData, String dataType) {
 		super(x, y, w, h, displayData, dataType, "Earthquake " + dataType);
@@ -21,7 +23,6 @@ public class NominalBarGraph extends BarGraph
 	@Override
 	public void drawComponent(PApplet parent) {
 		super.drawComponent(parent);
-
 
 		parent.noStroke();
 
@@ -34,7 +35,13 @@ public class NominalBarGraph extends BarGraph
 		float heightScale = (h-buffer*2.0f)/calcMax();
 
 		parent.textAlign(PApplet.CENTER);
-		parent.textSize(barW/4);
+		int textSize = barW/4;
+		parent.textSize(textSize);
+		
+		while(parent.textWidth(longestTitle) > (h - buffer - 10)){
+		    textSize--;
+		    parent.textSize(textSize);
+		}
 
 		ArrayList<String> sortedKeys = new ArrayList<>(bars.keySet());
 		Collections.sort(sortedKeys);
@@ -98,14 +105,24 @@ public class NominalBarGraph extends BarGraph
 		bars = new Hashtable<String, Integer>();
 
 		for(DataRow row: displayData){
-			if(row.getValue(dataType)!=null)
+			if(row.getValue(dataType)!=null){
 				if(bars.containsKey(row.getValue(dataType).toString()))
 					bars.put(row.getValue(dataType).toString(), bars.get(row.getValue(dataType).toString()) +1);
 				
 				else
 					bars.put(row.getValue(dataType).toString(), 1);
+			}
 		}
 		numDivisions = bars.size();
+		
+		Set<String> keySet = bars.keySet();
+		int maxSize = 0;
+		for(String key : keySet){
+		    if(key.length() > maxSize){
+			maxSize = key.length();
+			longestTitle = key;
+		    }
+		}
 	}
 
 	@Override
