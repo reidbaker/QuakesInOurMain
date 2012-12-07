@@ -83,7 +83,7 @@ public class DetailedInfo extends Individual implements Brushable {
         p.textSize(textSize);
         String displayOutput = getDisplayString();
         // magical 2's are to keep text from drawing outside the box
-        p.text(displayOutput, x + xPadding, y + yPadding, x + w - xPadding, y + h - 2*yPadding - 2*textSize);
+        p.text(displayOutput, x + xPadding, y + yPadding, x + w - 2*xPadding, y + h - 2*yPadding - textSize);
     }
 
     private String getDisplayString() {
