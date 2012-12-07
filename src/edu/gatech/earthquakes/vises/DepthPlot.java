@@ -26,11 +26,13 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 	
 	private int highlightedIndex;
 	private int numberMissing;
+	private int textSize;
 
 	public DepthPlot(int x, int y, int w, int h, DataSet displayData) {
 		super(x, y, w, h, displayData, "Depth vs Time");
 		calculateRanges();
 		calculateDrawingValues();
+		textSize = Math.min(w/20, h/20);
 	}
 	
     public void drawComponent(PApplet parent) {
@@ -59,6 +61,13 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
                         quakeRadii[i] * 2);
             }
         }
+
+        parent.textAlign(PApplet.LEFT);
+        parent.textSize(textSize);
+        parent.fill(Theme.getDarkUIColor());
+        String displayOutput = "# missing depth: " + numberMissing;
+        parent.text(displayOutput, x + buffer, y + h - 2*buffer, x + w - 2*buffer, y + h);
+
 		
 		
 	}
@@ -75,6 +84,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 	}
 	
 	private void calculateDrawingValues(){
+	    numberMissing = 0;
 		float xoffset = (w-2*buffer)/(float)displayData.getDatum().size();
 		
 		drawingCoordinates = new float[displayData.getDatum().size()][2];
@@ -89,6 +99,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 				drawingCoordinates[index][1] = y+calculateY((double)d.getValue(DataRow.DEPTH));
 			else{
 				drawingCoordinates[index][1] = y;
+				numberMissing++;
 			}		
 			
 			
@@ -152,7 +163,6 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 			else if(curMag > magRange[1])
 				magRange[1] = curMag;
 		}
-		//System.out.println(depthRange[1]);
 	}
 	
 	private void drawAxes(PApplet parent){
