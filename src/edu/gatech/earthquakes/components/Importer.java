@@ -14,28 +14,27 @@ import java.util.Map;
 import java.util.Set;
 
 import com.google.common.collect.Maps;
+import com.sun.xml.internal.ws.api.streaming.XMLStreamReaderFactory.Default;
 
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 
 public class Importer {
-	private final static String dataLocation = ".." + File.separator + "data" + File.separator;
-	private final static String fileName = "Catalog.csv";
+	private final static String DATA_LOCATION = ".." + File.separator + "data" + File.separator;
+	private final static String FILENAME = "Catalog.csv";
 
 	public static DataSet importData() {
 		Set<DataRow> dataRows = new HashSet<DataRow>();
 		try {
-			//File f = new File(dataLocation + fileName);
-			//System.err.println(f.getCanonicalPath());
-			BufferedReader reader = new BufferedReader(
-					new FileReader(new File(dataLocation
-									+ fileName)));// dataLocation + fileName)));
+			final BufferedReader reader = new BufferedReader(
+					new FileReader(new File(DATA_LOCATION
+									+ FILENAME)));
 
 			while (reader.ready()) {
-				String line = reader.readLine();
-				String[] data = line.split(",");
+				final String line = reader.readLine();
+				final String[] data = line.split(",");
 				try{
-				dataRows.add(readQuake(data));
+				    dataRows.add(readQuake(data));
 				} catch(ArrayIndexOutOfBoundsException aiobe){
 					System.err.println(line);
 				}
@@ -43,16 +42,14 @@ public class Importer {
 
 			reader.close();
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return new DataSet(dataRows);
 	}
 
-	private static DataRow readQuake(String[] data) throws IOException {
+	private static DataRow readQuake(final String[] data) throws IOException {
 		Map<String, Object> curQuake = Maps.newHashMap();
 
 		String date = data[0];
@@ -104,46 +101,48 @@ public class Importer {
 		return new DataRow(curQuake);
 	}
 
-	private static Date createDate(String yearMonthDay) {
+	private static Date createDate(final String yearMonthDay) {
 		Date date = null;
-		if(yearMonthDay.equals("-"))
-			return date;
-		try {
-			date = new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH)
-					.parse(yearMonthDay);
-		} catch (ParseException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		if(("-").equals(yearMonthDay)){
+			date = null;
+        } else {
+            try {
+                date = new SimpleDateFormat("yyyyMMdd", Locale.ENGLISH)
+                        .parse(yearMonthDay);
+            } catch (ParseException e) {
+                e.printStackTrace();
+            }
+        }
 		return date;
 	}
 
-	private static String timeConvert(String time) {
+	private static String timeConvert(final String time) {
 		// the input --- is what is passed when data is not there
 		return time;
 	}
 
 
-	private static DataRow.Continent continentConvert(String continent) {
-		// the input --- is what is passed when data is not there
-		switch (continent) {
-		case "AF":
-			return DataRow.Continent.AFRICA;
-		case "AU":
-			return DataRow.Continent.AUSTRALIA;
-		case "AS":
-			return DataRow.Continent.ASIA;
-		case "EU":
-			return DataRow.Continent.EURASIA;
-		case "IN":
-			return DataRow.Continent.INDIA;
-		case "NA":
-			return DataRow.Continent.NORTH_AMERICA;
-		case "SA":
-			return DataRow.Continent.SOUTH_AMERICA;
-		}
-		return null;
-	}
+    private static DataRow.Continent continentConvert(final String continent) {
+        // the input --- is what is passed when data is not there
+        switch (continent) {
+        case "AF":
+            return DataRow.Continent.AFRICA;
+        case "AU":
+            return DataRow.Continent.AUSTRALIA;
+        case "AS":
+            return DataRow.Continent.ASIA;
+        case "EU":
+            return DataRow.Continent.EURASIA;
+        case "IN":
+            return DataRow.Continent.INDIA;
+        case "NA":
+            return DataRow.Continent.NORTH_AMERICA;
+        case "SA":
+            return DataRow.Continent.SOUTH_AMERICA;
+        default :
+            return null;
+        }
+    }
 
 	private static DataRow.Dependency findDependancy(String dep) {
 		// the input --- is what is passed when data is not there
@@ -154,8 +153,9 @@ public class Importer {
 			return DataRow.Dependency.DEPENDENT;
 		case "P":
 			return DataRow.Dependency.POSSIBLY;
-		}
-		return null;
+		default :
+		    return null;
+        }
 	}
 
 	private static DataRow.Type findType(String type) {
@@ -173,8 +173,9 @@ public class Importer {
 			return DataRow.Type.OIL_FEILD;
 		case "-":
 			return null;
-		}
-		return DataRow.Type.TECT;
+		default :
+		    return DataRow.Type.TECT;
+        }
 	}
 
 	private static Double parseDoubleMissing(String num) {
