@@ -51,7 +51,7 @@ public class AftershockMap extends Individual implements Interactable,
 	    // for magnitude, min and max are assumed to be 3 and 7 based on
 	    // moment magnitude numbers
 	    double[] c = getDrawingCoord(coords[i][0], coords[i][1]);
-	    System.out.println(c[0]);
+	    //System.out.println(c[0]);
 
 	    if (highlightedPos != null && coords[i][0] == highlightedPos[0]
 		    && coords[i][1] == highlightedPos[1]) {
@@ -84,7 +84,7 @@ public class AftershockMap extends Individual implements Interactable,
 	parent.rect(x + buffer, y + buffer, w - buffer * 2, h - buffer * 2);
 
 	parent.fill(Theme.getDarkUIColor());
-	parent.textSize(w / 60);
+	parent.textSize(w / 30);
 
 	// make and label the latitude tick marks
 	double lon = 0;
@@ -265,7 +265,7 @@ public class AftershockMap extends Individual implements Interactable,
     @Override
     public void filterBy(DataSet filteredData) {
 	Date date = (Date) displayData.getValue(DataRow.DATE);
-	System.out.println(date);
+	//System.out.println(date);
 	Set<DataRow> shocks = new HashSet<DataRow>();
 
 	for (DataRow quake : filteredData) {
@@ -276,7 +276,7 @@ public class AftershockMap extends Individual implements Interactable,
 	    if (quake.getValue(DataRow.LATTITUDE).equals(displayData.getValue(DataRow.LATTITUDE))
 	            && quake.getValue(DataRow.LONGITUDE).equals(displayData.getValue(DataRow.LONGITUDE))){
 		shocks.add(displayData);
-		System.out.println("added");
+		//System.out.println("added");
 	    }
 	}
 	aftershocks = new DataSet(shocks);
