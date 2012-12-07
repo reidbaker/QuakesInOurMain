@@ -28,7 +28,12 @@ public class NominalBarGraph extends BarGraph
 		//parent.fill(Theme.getDarkUIColor());
 
 		//width of the bars - scales based on the number of bars that we have
-		int barW = (w - buffer*2 - 2*numDivisions)/numDivisions;
+		int barW;
+		if(numDivisions > 0){
+	        barW = (w - buffer*2 - 2*numDivisions)/numDivisions;
+		} else {
+		    barW = w - buffer*2;
+		}
 		int barX = x+buffer+4;
 		//the scale factor for the height of the bars
 		float heightScale = (h-buffer*2.0f)/calcMax();
