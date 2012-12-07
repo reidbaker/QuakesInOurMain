@@ -1,0 +1,300 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 15 1185 Eurasia Earthquake",
+    "totalResults": "1610",
+    "searchTerms": "Apr 15 1185 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 15 1185 Eurasia Earthquake",
+    "totalResults": "1610",
+    "searchTerms": "Apr 15 1185 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.179292,
+  "formattedSearchTime": "0.18",
+  "totalResults": "1610",
+  "formattedTotalResults": "1,610"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 10 Biggest Earthquakes in History",
+   "htmlTitle": "The 10 Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in History",
+   "link": "http://www.ouramazingplanet.com/1185-worlds-biggest-earthquakes-110412.html",
+   "displayLink": "www.ouramazingplanet.com",
+   "snippet": "Apr 12, 2011 ... Reply ￂﾷ 1 ￂﾷ Like ￂﾷ August 12 at 3:15pm. susan stevens (signed in using Hotmail).   Meg Francoeur : I was in the 1964 Good Friday quake in ...",
+   "htmlSnippet": "Apr 12, 2011 \u003cb\u003e...\u003c/b\u003e Reply ￂﾷ 1 ￂﾷ Like ￂﾷ August 12 at 3:\u003cb\u003e15pm\u003c/b\u003e. susan stevens (signed in using Hotmail). \u003cbr\u003e  Meg Francoeur : I was in the 1964 Good Friday \u003cb\u003equake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rrL8FZRMkI8J",
+   "formattedUrl": "www.ouramazingplanet.com/1185-worlds-biggest-earthquakes-110412.html",
+   "htmlFormattedUrl": "www.ouramazingplanet.com/\u003cb\u003e1185\u003c/b\u003e-worlds-biggest-\u003cb\u003eearthquakes\u003c/b\u003e-110412.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ouramazingplanet.com/images/i/2195/i01/earthquakes-world-map-110412-02.jpg?1320170765"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "130",
+      "height": "92",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDtngf4-12cUFkmXcmjISC0dX7c31un_JCx8i7wu6I8jwZRaZgdBmKnA"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "The 10 Biggest Earthquakes in History",
+      "og:url": "http://www.ouramazingplanet.com/1185-worlds-biggest-earthquakes-110412.html",
+      "og:type": "article",
+      "og:site_name": "OurAmazingPlanet.com",
+      "og:description": "See where Japan's recent quake ranks.",
+      "og:image": "http://www.ouramazingplanet.com/images/i/2195/i01/earthquakes-world-map-110412-02.jpg?1320170765"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Kamakura, 1185￢ﾀﾓ1333 ... Japan was originally attached to the eastern coast of   the Eurasian continent. The subducting plates, being deeper than the Eurasian   plate, pulled Japan eastward, opening the Sea of Japan around 15 million years   ago. ... On April 9, 1858, the Hietsu Earthquake occurred on the Atotsugawa Fault  , ...",
+   "htmlSnippet": "Kamakura, \u003cb\u003e1185\u003c/b\u003e￢ﾀﾓ1333 \u003cb\u003e...\u003c/b\u003e Japan was originally attached to the eastern coast of \u003cbr\u003e  the \u003cb\u003eEurasian\u003c/b\u003e continent. The subducting plates, being deeper than the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  plate, pulled Japan eastward, opening the Sea of Japan around \u003cb\u003e15\u003c/b\u003e million years \u003cbr\u003e  ago. \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eApril\u003c/b\u003e 9, 1858, the Hietsu \u003cb\u003eEarthquake\u003c/b\u003e occurred on the Atotsugawa Fault\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NuRGcOQIbpIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japan_separation.png/270px-Japan_separation.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAivkrzGCuUOdUUabCsPoOS7Ntz0yc_PFSUl2M5kTnoihqkPpJiCdL5c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Thomas Hillman Jordan",
+   "htmlTitle": "Thomas Hillman Jordan",
+   "link": "http://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003391",
+   "displayLink": "dornsife.usc.edu",
+   "snippet": "Tom Jordan is the Director of the Southern California Earthquake Center and the   W. M. Keck ..... 1162-1185. .... Further evidence for the compound nature of slow   earthquakes: The Prince Edward Island earthquake of April 28, 1997. .... structure   of the Eurasian upper mantle. Geophysical Research Letters. Vol. 15 (8), pp.",
+   "htmlSnippet": "Tom Jordan is the Director of the Southern California \u003cb\u003eEarthquake\u003c/b\u003e Center and the \u003cbr\u003e  W. M. Keck \u003cb\u003e.....\u003c/b\u003e 1162-\u003cb\u003e1185\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e Further evidence for the compound nature of slow \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e: The Prince Edward Island \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eApril\u003c/b\u003e 28, 1997. \u003cb\u003e....\u003c/b\u003e structure \u003cbr\u003e  of the \u003cb\u003eEurasian\u003c/b\u003e upper mantle. Geophysical Research Letters. Vol. \u003cb\u003e15\u003c/b\u003e (8), pp.",
+   "cacheId": "64XHhXHksA8J",
+   "formattedUrl": "dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003391",
+   "htmlFormattedUrl": "dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1003391",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://dornsife.usc.edu/tools/mytools/PersonnelInfoSystem/DOC/Faculty/ERTH/photo_1003391.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "120",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY5NjJFlt5E_x6wbIVV9R-lw-lGAiKh5do0fXberGD8sVPCEBWTcmjEw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "publications",
+   "htmlTitle": "publications",
+   "link": "http://www.eqh.dpri.kyoto-u.ac.jp/~mori/publications.html",
+   "displayLink": "www.eqh.dpri.kyoto-u.ac.jp",
+   "snippet": "Wang, D. and J. Mori, The 2010 Qinghai, China Earthquake: A Moderate ..... fault   of the 2000 Western Tottori earthquake, Earth Planets Space, 56, 1185-1189,   2004. ... H. Kanamori, L.Zhu, Fine structure of the rupture zone of the April 26 and   27, .... Armenia as part of the joint Eurasian seismic studies program (Objectives, ...",
+   "htmlSnippet": "Wang, D. and J. Mori, The 2010 Qinghai, China \u003cb\u003eEarthquake\u003c/b\u003e: A Moderate \u003cb\u003e.....\u003c/b\u003e fault \u003cbr\u003e  of the 2000 Western Tottori \u003cb\u003eearthquake\u003c/b\u003e, Earth Planets Space, 56, \u003cb\u003e1185\u003c/b\u003e-1189, \u003cbr\u003e  2004. \u003cb\u003e...\u003c/b\u003e H. Kanamori, L.Zhu, Fine structure of the rupture zone of the \u003cb\u003eApril\u003c/b\u003e 26 and \u003cbr\u003e  27, \u003cb\u003e....\u003c/b\u003e Armenia as part of the joint \u003cb\u003eEurasian seismic\u003c/b\u003e studies program (Objectives, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B2gUKChBPFgJ",
+   "formattedUrl": "www.eqh.dpri.kyoto-u.ac.jp/~mori/publications.html",
+   "htmlFormattedUrl": "www.eqh.dpri.kyoto-u.ac.jp/~mori/publications.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 14",
+      "author": "jim￣ﾀﾀmori"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Status of historical seismology in Japan",
+   "htmlTitle": "Status of historical seismology in Japan",
+   "link": "http://www.earth-prints.org/bitstream/2122/763/1/02Ishibashi.pdf",
+   "displayLink": "www.earth-prints.org",
+   "snippet": "47, N. 2/3,April/June 2004. Key words ... Now, almost all of Japan's known   historical materials on earthquakes have been transcribed into 25 printed   volumes. .... Eurasian plate or the Amurian microplate. Al- .... 1185 or 1192) the   capital had been moved to. Heian-kyo (later ...... tiny earthquakes 10 days and 15   days after the ...",
+   "htmlSnippet": "47, N. 2/3,\u003cb\u003eApril\u003c/b\u003e/June 2004. Key words \u003cb\u003e...\u003c/b\u003e Now, almost all of Japan&#39;s known \u003cbr\u003e  historical materials on \u003cb\u003eearthquakes\u003c/b\u003e have been transcribed into 25 printed \u003cbr\u003e  volumes. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e plate or the Amurian microplate. Al- \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1185\u003c/b\u003e or 1192) the \u003cbr\u003e  capital had been moved to. Heian-kyo (later \u003cb\u003e......\u003c/b\u003e tiny \u003cb\u003eearthquakes\u003c/b\u003e 10 days and \u003cb\u003e15\u003c/b\u003e \u003cbr\u003e  days after the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DTWNChqoXW0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth-prints.org/bitstream/2122/763/1/02Ishibashi.pdf",
+   "htmlFormattedUrl": "www.earth-prints.org/bitstream/2122/763/1/02Ishibashi.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050322104547+01'00'",
+      "moddate": "D:20050322104547+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "Utente",
+      "creator": "QuarkXPress Passportￂﾪ 4.04: AdobePS 8.7.2 8.7.2 (104)",
+      "title": "02Ishibashi.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Factory Activity Sags the Most Since Earthquake - Worldnews ...",
+   "htmlTitle": "Japan Factory Activity Sags the Most Since \u003cb\u003eEarthquake\u003c/b\u003e - Worldnews \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://article.wn.com/view/2012/09/22/Japan_Factory_Activity_Sags_the_Most_Since_Earthquake/",
+   "displayLink": "article.wn.com",
+   "snippet": "MSNBC 2012-09-22: Japanese manufacturing activity declined in July at the   fastest pace since last year's earthquake as a slowdown in Europe and China   hurt ...",
+   "htmlSnippet": "MSNBC 2012-09-22: Japanese manufacturing activity declined in July at the \u003cbr\u003e  fastest pace since last year&#39;s \u003cb\u003eearthquake\u003c/b\u003e as a slowdown in Europe and China \u003cbr\u003e  hurt \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NhSwmhhmH6AJ",
+   "formattedUrl": "article.wn.com/.../Japan_Factory_Activity_Sags_the_Most_Since_Earthquake /",
+   "htmlFormattedUrl": "article.wn.com/.../Japan_Factory_Activity_Sags_the_Most_Since_\u003cb\u003eEarthquake\u003c/b\u003e /",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/TRXXjy19WGQ/0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmV3UOdOKBb-YRc7y2-EPgQv3UDbSs-VvjBHShoR1sSUc3a9Yt3CjyRd9W"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Japan Factory Activity Sags the Most Since Earthquake",
+      "og:url": "http://article.wn.com/view/2012/09/22/Japan_Factory_Activity_Sags_the_Most_Since_Earthquake/",
+      "og:image": "http://i.ytimg.com/vi/Y_qzGHU3NiA/0.jpg",
+      "og:site_name": "World News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake archaeology in Japan: An overview",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e archaeology in Japan: An overview",
+   "link": "http://specialpapers.gsapubs.org/content/471/81.full.pdf",
+   "displayLink": "specialpapers.gsapubs.org",
+   "snippet": "The 1995 Kobe earthquake (officially called the Hanshin-. Awaji Dai-shinsai in ....   material until the Medieval period (1185￢ﾀﾓ1603) when castles began to be ...",
+   "htmlSnippet": "The 1995 Kobe \u003cb\u003eearthquake\u003c/b\u003e (officially called the Hanshin-. Awaji Dai-shinsai in \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  material until the Medieval period (\u003cb\u003e1185\u003c/b\u003e￢ﾀﾓ1603) when castles began to be \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "specialpapers.gsapubs.org/content/471/81.full.pdf",
+   "htmlFormattedUrl": "specialpapers.gsapubs.org/content/471/81.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "deborahluraas",
+      "creationdate": "D:20101014134937-06'00'",
+      "creator": "Adobe InDesign CS4 (6.0.5)",
+      "moddate": "D:20101014142023-06'00'",
+      "producer": "Acrobat Distiller 9.4.0 (Macintosh)",
+      "title": "spe471-08.indd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "6.4-magnitude quake hits south of Java, Indonesia -- USGS ...",
+   "htmlTitle": "6.4-magnitude \u003cb\u003equake\u003c/b\u003e hits south of Java, Indonesia -- USGS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://article.wn.com/view/2012/09/04/64magnitude_quake_hits_south_of_Java_Indonesia_USGS/",
+   "displayLink": "article.wn.com",
+   "snippet": "Sep 4, 2012 ... **ABCNewsAust Report** 6.3 Earthquake Hits Java- only 5.4 on USGS   abcasiapacificnews.com **April 27Ecuador has declared an amber ...",
+   "htmlSnippet": "Sep 4, 2012 \u003cb\u003e...\u003c/b\u003e **ABCNewsAust Report** 6.3 \u003cb\u003eEarthquake\u003c/b\u003e Hits Java- only 5.4 on USGS \u003cbr\u003e  abcasiapacificnews.com **\u003cb\u003eApril\u003c/b\u003e 27Ecuador has declared an amber \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XD4Ku3YS9T4J",
+   "formattedUrl": "article.wn.com/.../64magnitude_quake_hits_south_of_Java_Indonesia_USGS /",
+   "htmlFormattedUrl": "article.wn.com/.../64magnitude_\u003cb\u003equake\u003c/b\u003e_hits_south_of_Java_Indonesia_USGS /",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/pEzMT2rFNY8/default.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFl8awxqlJSd7pVoZmjKHdVisCaB7gcIuiKo_nW6AWoVt3Qw5rmsUBGg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "6.4-magnitude quake hits south of Java, Indonesia -- USGS",
+      "og:url": "http://article.wn.com/view/2012/09/04/64magnitude_quake_hits_south_of_Java_Indonesia_USGS/",
+      "og:image": "http://i.ytimg.com/vi/pEzMT2rFNY8/default.jpg",
+      "og:site_name": "World News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BARBARA ROMANOWICZ - Curriculum Vitae",
+   "htmlTitle": "BARBARA ROMANOWICZ - Curriculum Vitae",
+   "link": "http://seismo.berkeley.edu/~barbara/REPRINTS/pubs09.doc",
+   "displayLink": "seismo.berkeley.edu",
+   "snippet": "15. Romanowicz, B. A., M. Cara, J. F. Fels, and D. Rouland (1984) Geoscope: a   French .... (1993) The Cape Mendocino, California, earthquakes of April 1992: ...",
+   "htmlSnippet": "\u003cb\u003e15\u003c/b\u003e. Romanowicz, B. A., M. Cara, J. F. Fels, and D. Rouland (1984) Geoscope: a \u003cbr\u003e  French \u003cb\u003e....\u003c/b\u003e (1993) The Cape Mendocino, California, \u003cb\u003eearthquakes\u003c/b\u003e of \u003cb\u003eApril\u003c/b\u003e 1992: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5r2UgCjdbOIJ",
+   "mime": "application/msword",
+   "fileFormat": "Microsoft Word",
+   "formattedUrl": "seismo.berkeley.edu/~barbara/REPRINTS/pubs09.doc",
+   "htmlFormattedUrl": "seismo.berkeley.edu/~barbara/REPRINTS/pubs09.doc"
+  }
+ ]
+}

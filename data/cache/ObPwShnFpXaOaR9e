@@ -1,0 +1,315 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 10 1915 Eurasia Earthquake",
+    "totalResults": "9120",
+    "searchTerms": "Oct 10 1915 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 10 1915 Eurasia Earthquake",
+    "totalResults": "9120",
+    "searchTerms": "Oct 10 1915 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.195941,
+  "formattedSearchTime": "0.20",
+  "totalResults": "9120",
+  "formattedTotalResults": "9,120"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1915 Jan 13, An earthquake in Avezzano, Italy, killed 29,800. ..... 1980 Oct 10,   Some 4,500 died when a pair of earthquakes struck NW Algeria. ..... a thrust fault   300 miles south of the boundary between the Indo-Australian and Eurasian   Plates.",
+   "htmlSnippet": "\u003cb\u003e1915\u003c/b\u003e Jan 13, An \u003cb\u003eearthquake\u003c/b\u003e in Avezzano, Italy, killed 29,800. \u003cb\u003e.....\u003c/b\u003e 1980 \u003cb\u003eOct 10\u003c/b\u003e, \u003cbr\u003e  Some 4,500 died when a pair of \u003cb\u003eearthquakes\u003c/b\u003e struck NW Algeria. \u003cb\u003e.....\u003c/b\u003e a thrust fault \u003cbr\u003e  300 miles south of the boundary between the Indo-Australian and \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  Plates.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive earthquake hits Kashmir region ￢ﾀﾔ History.com This Day in ...",
+   "htmlTitle": "Massive \u003cb\u003eearthquake\u003c/b\u003e hits Kashmir region ￢ﾀﾔ History.com This Day in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/massive-earthquake-hits-kashmir-region",
+   "displayLink": "www.history.com",
+   "snippet": "Oct 8, 2005 ... On this day in 2005, a massive 7.6-magnitude earthquake strikes the Kashmir ...   Kashmir is located at the juncture of the Eurasian and Indian tectonic ... of the   U.S. Naval Academy; Oct 10, 1970: October Crisis in Canada; Oct 10, ... 1915:   British nurse executed in WWI; Oct 12, 1945: Conscientious objector ...",
+   "htmlSnippet": "Oct 8, 2005 \u003cb\u003e...\u003c/b\u003e On this day in 2005, a massive 7.6-magnitude \u003cb\u003eearthquake\u003c/b\u003e strikes the Kashmir \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Kashmir is located at the juncture of the \u003cb\u003eEurasian\u003c/b\u003e and Indian tectonic \u003cb\u003e...\u003c/b\u003e of the \u003cbr\u003e  U.S. Naval Academy; \u003cb\u003eOct 10\u003c/b\u003e, 1970: \u003cb\u003eOctober\u003c/b\u003e Crisis in Canada; \u003cb\u003eOct 10\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1915\u003c/b\u003e: \u003cbr\u003e  British nurse executed in WWI; \u003cb\u003eOct\u003c/b\u003e 12, 1945: Conscientious objector \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gN8X4bIAvYoJ",
+   "formattedUrl": "www.history.com/this-day.../massive-earthquake-hits-kashmir-region",
+   "htmlFormattedUrl": "www.history.com/this-day.../massive-\u003cb\u003eearthquake\u003c/b\u003e-hits-kashmir-region",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "/imgs/template/tdih.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Massive earthquake hits Kashmir region ￢ﾀﾔ History.com This Day in History ￢ﾀﾔ 10/8/2005",
+      "asset_type_id": "6",
+      "is_sponsored": "N",
+      "network": "History",
+      "display_description": "On this day in 2005, a massive 7.6-magnitude earthquake strikes the Kashmir border region between India and Pakistan. An estimated 70,000 people?nearly half of them children--were killed and 70,000 more were injured.",
+      "asset_id": "1095971",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Massive earthquake hits Kashmir region ￢ﾀﾔ History.com This Day in History ￢ﾀﾔ 10/8/2005",
+      "og:description": "On this day in 2005, a massive 7.6-magnitude earthquake strikes the Kashmir border region between India and Pakistan. An estimated 70,000 people?nearly half of them children--were killed and 70,000 more were injured.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/massive-earthquake-hits-kashmir-region"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity, Earthquakes and Structure Along the Alaska-Aleutian ...",
+   "htmlTitle": "Seismicity, \u003cb\u003eEarthquakes\u003c/b\u003e and Structure Along the Alaska-Aleutian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.unc.edu/~leesj/FETCH/GRAB/SEKS_Papers/GM01015CH12.pdf",
+   "displayLink": "www.unc.edu",
+   "snippet": "the Pacific plate as it collides with North America and Eurasia. Seismicity along   .... 05/01/1915. Kuriles. 48.40 ... earthquake that occurred on October 13, 1963 [  Beck and. Ruff, 1987 ... 10 meters and areas near Anchorage subsided by nearly   3 ...",
+   "htmlSnippet": "the Pacific plate as it collides with North America and \u003cb\u003eEurasia\u003c/b\u003e. Seismicity along \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 05/01/\u003cb\u003e1915\u003c/b\u003e. Kuriles. 48.40 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e that occurred on \u003cb\u003eOctober\u003c/b\u003e 13, 1963 [\u003cbr\u003e  Beck and. Ruff, 1987 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e10\u003c/b\u003e meters and areas near Anchorage subsided by nearly \u003cbr\u003e  3 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x2NlYMKELY8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.unc.edu/~leesj/FETCH/GRAB/SEKS_Papers/GM01015CH12.pdf",
+   "htmlFormattedUrl": "www.unc.edu/~leesj/FETCH/GRAB/SEKS_Papers/GM01015CH12.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080123112801-05'00'",
+      "creator": "Adobe InDesign CS3 (5.0.1)",
+      "producer": "Adobe PDF Library 8.0",
+      "moddate": "D:20080123112818-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Turkey's Armenians Reconsecrate 16th Century Church Building ...",
+   "htmlTitle": "Turkey&#39;s Armenians Reconsecrate 16th Century Church Building \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.eurasiareview.com/12112011-turkey%E2%80%99s-armenians-reconsecrate-16th-century-church-building/",
+   "displayLink": "www.eurasiareview.com",
+   "snippet": "Nov 12, 2011 ... Eurasia Review ... Just hours before a deadly 7.2 earthquake struck Turkey's   southeast on Oct. 23, well over 3,000 visitors crowded ... In a private ceremony   the following day, 10 ethnic Armenians who had been raised as ... converted to   either Sunni or Alawite Islam after 1915 to avoid forced deportation.",
+   "htmlSnippet": "Nov 12, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e Review \u003cb\u003e...\u003c/b\u003e Just hours before a deadly 7.2 \u003cb\u003eearthquake\u003c/b\u003e struck Turkey&#39;s \u003cbr\u003e  southeast on \u003cb\u003eOct\u003c/b\u003e. 23, well over 3,000 visitors crowded \u003cb\u003e...\u003c/b\u003e In a private ceremony \u003cbr\u003e  the following day, \u003cb\u003e10\u003c/b\u003e ethnic Armenians who had been raised as \u003cb\u003e...\u003c/b\u003e converted to \u003cbr\u003e  either Sunni or Alawite Islam after \u003cb\u003e1915\u003c/b\u003e to avoid forced deportation.",
+   "cacheId": "5b8x_JtoK5UJ",
+   "formattedUrl": "www.eurasiareview.com/12112011-turkey's-armenians-reconsecrate-16th- century-church-building/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeurasia\u003c/b\u003ereview.com/12112011-turkey￢ﾀﾙs-armenians-reconsecrate-16th- century-church-building/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Italy scientists sentenced to jail in quake trial (Update 2)",
+   "htmlTitle": "Italy scientists sentenced to jail in \u003cb\u003equake\u003c/b\u003e trial (Update 2)",
+   "link": "http://phys.org/news/2012-10-italy-scientists-sentenced-quake-trial.html",
+   "displayLink": "phys.org",
+   "snippet": "Oct 22, 2012 ... Oct 22, 2012 ... Rank: 4.6 / 5 (10) ... I can accept, that the earthquakes cannot be   predicted reliably, but after then the ... but here we had a quake every century   and the last one was in 1915, so take care! ..... In order to prevent other birds from   stealing the food they are storing for later, Eurasian jays, a type of ...",
+   "htmlSnippet": "Oct 22, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eOct\u003c/b\u003e 22, 2012 \u003cb\u003e...\u003c/b\u003e Rank: 4.6 / 5 (\u003cb\u003e10\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e I can accept, that the \u003cb\u003eearthquakes\u003c/b\u003e cannot be \u003cbr\u003e  predicted reliably, but after then the \u003cb\u003e...\u003c/b\u003e but here we had a \u003cb\u003equake\u003c/b\u003e every century \u003cbr\u003e  and the last one was in \u003cb\u003e1915\u003c/b\u003e, so take care! \u003cb\u003e.....\u003c/b\u003e In order to prevent other birds from \u003cbr\u003e  stealing the food they are storing for later, \u003cb\u003eEurasian\u003c/b\u003e jays, a type of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1UvUXm5YFpMJ",
+   "formattedUrl": "phys.org/news/2012-10-italy-scientists-sentenced-quake-trial.html",
+   "htmlFormattedUrl": "phys.org/news/2012-\u003cb\u003e10\u003c/b\u003e-italy-scientists-sentenced-\u003cb\u003equake\u003c/b\u003e-trial.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.physorg.com/newman/gfx/news/tmb/2012/atom.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1024",
+      "og:title": "Italy scientists sentenced to jail in quake trial (Update 2)",
+      "og:description": "Six Italian scientists and a government official were sentenced to six years in jail on Monday for multiple manslaughter in a watershed ruling that found them guilty of underestimating the risks of a killer earthquake in 2009.",
+      "og:image": "http://cdn.physorg.com/newman/gfx/news/tmb/2012/atom.jpg",
+      "medium": "news",
+      "og:type": "article",
+      "og:url": "http://phys.org/news/2012-10-italy-scientists-sentenced-quake-trial.html",
+      "twitter:card": "summary",
+      "twitter:url": "http://phys.org/news/2012-10-italy-scientists-sentenced-quake-trial.html",
+      "twitter:title": "Italy scientists sentenced to jail in quake trial (Update 2)",
+      "twitter:description": "Six Italian scientists and a government official were sentenced to six years in jail on Monday for multiple manslaughter in a watershed ruling that found them guilty of underestimating the risks of a ...",
+      "twitter:image": "http://cdn.physorg.com/newman/gfx/news/tmb/2012/atom.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The European-Mediterranean Earthquake Catalogue (EMEC)",
+   "htmlTitle": "The European-Mediterranean \u003cb\u003eEarthquake\u003c/b\u003e Catalogue (EMEC)",
+   "link": "http://edoc.gfz-potsdam.de/gfz/get/18760/0/fb51a3b253dfb6656a71fcdee4953077/18760.pdf",
+   "displayLink": "edoc.gfz-potsdam.de",
+   "snippet": "Received: 10 October 2011 /Accepted: 20 March 2012 / Published online: 28   April 2012. Abstract The ... It covers the western part of the Eurasian plate with the   seismically highly ..... Azores Islands area for the period 1915-1998. Since ...",
+   "htmlSnippet": "Received: \u003cb\u003e10 October\u003c/b\u003e 2011 /Accepted: 20 March 2012 / Published online: 28 \u003cbr\u003e  April 2012. Abstract The \u003cb\u003e...\u003c/b\u003e It covers the western part of the \u003cb\u003eEurasian\u003c/b\u003e plate with the \u003cbr\u003e  seismically highly \u003cb\u003e.....\u003c/b\u003e Azores Islands area for the period \u003cb\u003e1915\u003c/b\u003e-1998. Since \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rnu_TDJtvBAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "edoc.gfz-potsdam.de/gfz/get/18760/0/.../18760.pdf",
+   "htmlFormattedUrl": "edoc.gfz-potsdam.de/gfz/get/18760/0/.../18760.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "strutzke",
+      "creationdate": "D:20120813102207+02'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20120813131428+02'00'",
+      "producer": "Acrobat Distiller 9.5.1 (Windows)",
+      "title": "Microsoft Word - EMEC_fuerPDF_120809.docx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic waves and surface waves: past and present",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e waves and surface waves: past and present",
+   "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009",
+   "displayLink": "www.scielo.org.mx",
+   "snippet": "Intl vol.50 no.4 Mￃﾩxico oct. ... The association of earthquake science with Jena   becomes clear when one considers Humboldt's .... Figure 8 shows an example   for oblique incidence ( j=10ￂﾰ), where transformed waves are not shown. ... using   the \"peak and trough\" method for Eurasian earthquakes (Figure 9) by D. Gￃﾼth (  1962).",
+   "htmlSnippet": "Intl vol.50 no.4 Mￃﾩxico \u003cb\u003eoct\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The association of \u003cb\u003eearthquake\u003c/b\u003e science with Jena \u003cbr\u003e  becomes clear when one considers Humboldt&#39;s \u003cb\u003e....\u003c/b\u003e Figure 8 shows an example \u003cbr\u003e  for oblique incidence ( j=\u003cb\u003e10\u003c/b\u003eￂﾰ), where transformed waves are not shown. \u003cb\u003e...\u003c/b\u003e using \u003cbr\u003e  the &quot;peak and trough&quot; method for \u003cb\u003eEurasian earthquakes\u003c/b\u003e (Figure 9) by D. Gￃﾼth (\u003cbr\u003e  1962).",
+   "cacheId": "l1ENIIrcteEJ",
+   "formattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016...",
+   "htmlFormattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0016...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.scielo.org.mx/img/revistas/geoint/v50n4/a9f3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWzENg6uD9O57Xz00pxuqTlyLxv1FuevlMnC6pM25BwqirfLDfFKZB3d-Y"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_journal_title": "Geofￃﾭsica internacional",
+      "citation_journal_title_abbrev": "Geofￃﾭs. Intl",
+      "citation_publisher": "Instituto de Geofￃﾭsica, UNAM",
+      "citation_title": "Seismic waves and surface waves: past and present",
+      "citation_date": "12/2011",
+      "citation_volume": "50",
+      "citation_issue": "4",
+      "citation_issn": "0016-7169",
+      "citation_abstract_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_fulltext_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_pdf_url": "http://www.scielo.org.mx/scielo.php?script=sci_pdf&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_author": "Malischewsky, Peter G.",
+      "citation_author_institution": "Friedrich-Schiller-Universitat Jena, Germany",
+      "citation_firstpage": "485",
+      "citation_lastpage": "493"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "L'Aquila earthquake - a year on",
+   "htmlTitle": "L&#39;Aquila \u003cb\u003eearthquake\u003c/b\u003e - a year on",
+   "link": "http://planetearth.nerc.ac.uk/features/story.aspx?id=753",
+   "displayLink": "planetearth.nerc.ac.uk",
+   "snippet": "Jun 28, 2010 ... Built on soft ground, the earthquake was able to shake both new and old ... L'  Aquila, followed by a devastating quake near Avezzano in 1915. ... The   Apennines exist due to the continued collision between the Eurasian and African   plates. ... 10 Sep 2009; L'Aquila earthquake field team reports, 8 May 2009 ...",
+   "htmlSnippet": "Jun 28, 2010 \u003cb\u003e...\u003c/b\u003e Built on soft ground, the \u003cb\u003eearthquake\u003c/b\u003e was able to shake both new and old \u003cb\u003e...\u003c/b\u003e L&#39;\u003cbr\u003e  Aquila, followed by a devastating \u003cb\u003equake\u003c/b\u003e near Avezzano in \u003cb\u003e1915\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  Apennines exist due to the continued collision between the \u003cb\u003eEurasian\u003c/b\u003e and African \u003cbr\u003e  plates. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e10\u003c/b\u003e Sep 2009; L&#39;Aquila \u003cb\u003eearthquake\u003c/b\u003e field team reports, 8 May 2009 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LXw3ViCkE2IJ",
+   "formattedUrl": "planetearth.nerc.ac.uk/features/story.aspx?id=753",
+   "htmlFormattedUrl": "planetearth.nerc.ac.uk/features/story.aspx?id=753",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://planetearth.nerc.ac.uk/images/uploaded/small/earthquake-5-s.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2C8zvs8cg9Wa3UBHxYeFMJyBZ2J5Z3mUlGDq5iz80G7v5IbZtzsHZ"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "L'Aquila earthquake - a year on",
+      "og:description": "When a powerful earthquake struck Italy's Abruzzo region last year, UK Earth scientists were on the scene quickly to help authorities understand what had happened. Richard Phillips describes what they found.",
+      "og:image": "http://planetearth.nerc.ac.uk/images/uploaded/small/earthquake-5-s.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Risk in Africa: A school's guide",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Risk in Africa: A school&#39;s guide",
+   "link": "http://www.ipred-iisee.org/database/school%20safety/Benouar%20Booklet%20Disaster%20Schools.pdf",
+   "displayLink": "www.ipred-iisee.org",
+   "snippet": "that the El-Asnam earthquake of 10 October 1980 happened because people   were .... along the border of the African and Eurasian plates. In North Africa ...",
+   "htmlSnippet": "that the El-Asnam \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e10 October\u003c/b\u003e 1980 happened because people \u003cbr\u003e  were \u003cb\u003e....\u003c/b\u003e along the border of the African and \u003cb\u003eEurasian\u003c/b\u003e plates. In North Africa \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aHnz6aKwoM8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipred-iisee.org/.../Benouar%20Booklet%20Disaster%20Schools.pdf",
+   "htmlFormattedUrl": "www.ipred-iisee.org/.../Benouar%20Booklet%20Disaster%20Schools.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100122232316+01'00'",
+      "author": "user",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20100122232316+01'00'",
+      "title": "Microsoft Word - ISDR-Earthquake Risk in Africa-School's Guide-24.02.05.rtf"
+     }
+    ]
+   }
+  }
+ ]
+}

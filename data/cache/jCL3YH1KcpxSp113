@@ -1,0 +1,338 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 8 2002 Africa Earthquake",
+    "totalResults": "769000",
+    "searchTerms": "Jan 8 2002 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 8 2002 Africa Earthquake",
+    "totalResults": "769000",
+    "searchTerms": "Jan 8 2002 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.290572,
+  "formattedSearchTime": "0.29",
+  "totalResults": "769000",
+  "formattedTotalResults": "769,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Ferrara, Italy : Extremely strong aftershock near ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Ferrara, Italy : Extremely strong aftershock near \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/20/very-strong-shallow-earthquake-kills-at-least-3-people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 29, 2012 ... Summary 29/05 ￢ﾀﾓ 09:30 UTC ￢ﾀﾓ 8 deaths reported. - A M5.8 earthquake has   struck just west of the May 20 earthquake in Italy. - So far 8 people ...",
+   "htmlSnippet": "May 29, 2012 \u003cb\u003e...\u003c/b\u003e Summary 29/05 ￢ﾀﾓ 09:30 UTC ￢ﾀﾓ \u003cb\u003e8\u003c/b\u003e deaths reported. - A M5.\u003cb\u003e8 earthquake\u003c/b\u003e has \u003cbr\u003e  struck just west of the May 20 \u003cb\u003eearthquake\u003c/b\u003e in Italy. - So far \u003cb\u003e8\u003c/b\u003e people \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "S2D3vnTpEv8J",
+   "formattedUrl": "earthquake-report.com/.../very-strong-shallow-earthquake-kills-at-least-3- people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-shallow-\u003cb\u003eearthquake\u003c/b\u003e-kills-at-least-3- people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/cavezzo_2952012_280xFree.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "167",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREYfIWEASGQQQUnGpE9naiIQ2xo8MO6e_3z4zlV_Fk1FxK1oYZ3PqxyYmh"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Stoapfalzer",
+      "nickname": "Stoapfalzer"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "gitte zakariasen"
+     },
+     {
+      "fn": "Bryan Bell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "January 8 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eJanuary 8\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/January_8",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 8 is the eight day of the year in the Gregorian calendar. ... 1780 ￢ﾀﾓ An   earthquake of estimated magnitude 7.7 hits the city of Tabriz, Iran, killing about ...   Battle of Springfield ￂﾷ 1867 ￢ﾀﾓ African American men are granted the right to vote   in Washington, ..... 1916); 2002 ￢ﾀﾓ Dave Thomas, American fast food entrepreneur   (b.",
+   "htmlSnippet": "\u003cb\u003eJanuary 8\u003c/b\u003e is the eight day of the year in the Gregorian calendar. \u003cb\u003e...\u003c/b\u003e 1780 ￢ﾀﾓ An \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of estimated magnitude 7.7 hits the city of Tabriz, Iran, killing about \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Battle of Springfield &middot; 1867 ￢ﾀﾓ \u003cb\u003eAfrican\u003c/b\u003e American men are granted the right to vote \u003cbr\u003e  in Washington, \u003cb\u003e.....\u003c/b\u003e 1916); \u003cb\u003e2002\u003c/b\u003e ￢ﾀﾓ Dave Thomas, American fast food entrepreneur \u003cbr\u003e  (b.",
+   "cacheId": "KNtQDZLlu7UJ",
+   "formattedUrl": "en.wikipedia.org/wiki/January_8",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eJanuary\u003c/b\u003e_\u003cb\u003e8\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "6 days ago ... Archive 2012 : Jan/Febr March April/June July/August ... Did you know this   earthquake happened on the same day in history ? ... Seven people killed, 8   injured and several buildings damaged at Manado, ..... Largest earthquake in   2002. ..... and faulting that extends north-south in eastern Africa for more than ...",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e Archive 2012 : \u003cb\u003eJan\u003c/b\u003e/Febr March April/June July/August \u003cb\u003e...\u003c/b\u003e Did you know this \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in history ? \u003cb\u003e...\u003c/b\u003e Seven people killed, \u003cb\u003e8\u003c/b\u003e \u003cbr\u003e  injured and several buildings damaged at Manado, \u003cb\u003e.....\u003c/b\u003e Largest \u003cb\u003eearthquake\u003c/b\u003e in \u003cbr\u003e  \u003cb\u003e2002\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e and faulting that extends north-south in eastern \u003cb\u003eAfrica\u003c/b\u003e for more than \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 2, 2002, 17:22, Vanuatu, ￢ﾈﾒ17.600, 167.856, 0, 7.2, Mw (HRV) ... see   2002 Hindu Kush earthquakes, 36.543, 70.424, 166, 7.4, Mw (HRV) ...   September 8, 2002, 18:44, North coast of New Guinea, Papua New ...",
+   "htmlSnippet": "\u003cb\u003eJanuary\u003c/b\u003e 2, \u003cb\u003e2002\u003c/b\u003e, 17:22, Vanuatu, ￢ﾈﾒ17.600, 167.856, 0, 7.2, Mw (HRV) \u003cb\u003e...\u003c/b\u003e see \u003cbr\u003e  \u003cb\u003e2002\u003c/b\u003e Hindu Kush \u003cb\u003eearthquakes\u003c/b\u003e, 36.543, 70.424, 166, 7.4, Mw (HRV) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  September \u003cb\u003e8\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e, 18:44, North coast of New Guinea, Papua New \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news ￢ﾀﾓ Now moved to a special category",
+   "htmlTitle": "Worldwide VOLCANO news ￢ﾀﾓ Now moved to a special category",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: July 2, 2012 at 8:57 am by By Armand Vervaeck. 2012 : January ￢ﾀﾓ   February ￢ﾀﾓ March ￢ﾀﾓ April - Below the ... Today, the earthquake swarm at   Popocatepetl (Mexico) that was dwindling yesterday at the volcano, ..... The   eruption was one of its largest in recent years since the start of near continuous   activity in 2002.",
+   "htmlSnippet": "Last update: July 2, 2012 at \u003cb\u003e8\u003c/b\u003e:57 am by By Armand Vervaeck. 2012 : \u003cb\u003eJanuary\u003c/b\u003e ￢ﾀﾓ \u003cbr\u003e  February ￢ﾀﾓ March ￢ﾀﾓ April - Below the \u003cb\u003e...\u003c/b\u003e Today, the \u003cb\u003eearthquake\u003c/b\u003e swarm at \u003cbr\u003e  Popocatepetl (Mexico) that was dwindling yesterday at the volcano, \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  eruption was one of its largest in recent years since the start of near continuous \u003cbr\u003e  activity in \u003cb\u003e2002\u003c/b\u003e.",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Human African Trypanosomiasis, African Sleeping Sickness",
+   "htmlTitle": "Human \u003cb\u003eAfrican\u003c/b\u003e Trypanosomiasis, \u003cb\u003eAfrican\u003c/b\u003e Sleeping Sickness",
+   "link": "http://wwwnc.cdc.gov/travel/yellowbookch4-africansleepingsickness.aspx",
+   "displayLink": "wwwnc.cdc.gov",
+   "snippet": "African trypanosomiasis in travelers returning to the United Kingdom. Emerg   Infect Dis. 2002 Jan;8(1):74￢ﾀﾓ6. Sholdt LL, Schreck CE, Mwangelwa MI, Nondo J, ...",
+   "htmlSnippet": "\u003cb\u003eAfrican\u003c/b\u003e trypanosomiasis in travelers returning to the United Kingdom. Emerg \u003cbr\u003e  Infect Dis. \u003cb\u003e2002 Jan\u003c/b\u003e;\u003cb\u003e8\u003c/b\u003e(1):74￢ﾀﾓ6. Sholdt LL, Schreck CE, Mwangelwa MI, Nondo J, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pdiYk_YExCoJ",
+   "formattedUrl": "wwwnc.cdc.gov/travel/yellowbookch4-africansleepingsickness.aspx",
+   "htmlFormattedUrl": "wwwnc.cdc.gov/travel/yellowbookch4-\u003cb\u003eafricans\u003c/b\u003eleepingsickness.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "template.version": "2.6.0",
+      "dc.date.reviewed": "2011-07-01",
+      "dc.date.created": "2011-07-01",
+      "msvalidate.01": "149B31BC38DC9B7425C5DC64BB53E4F1",
+      "y_key": "d509505b79c1962b"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2011 submarine volcanic eruption in El Hierro (Canary Islands ...",
+   "htmlTitle": "The 2011 submarine volcanic eruption in El Hierro (Canary Islands \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/18/the-2011-submarine-volcanic-eruption-in-el-hierro-canary-islands-spain-eruption-overview/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 18, 2012 ... B. colour shaded relief image of El Hierro viewed from above (from Masson et al.,   2002). The subaerial and submarine parts of the South rift are ...",
+   "htmlSnippet": "May 18, 2012 \u003cb\u003e...\u003c/b\u003e B. colour shaded relief image of El Hierro viewed from above (from Masson et al., \u003cbr\u003e  \u003cb\u003e2002\u003c/b\u003e). The subaerial and submarine parts of the South rift are \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "E5zYBMl7OdYJ",
+   "formattedUrl": "earthquake-report.com/.../the-2011-submarine-volcanic-eruption-in-el-hierro -canary-islands-spain-eruption-overview/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../the-2011-submarine-volcanic-eruption-in-el-hierro -canary-islands-spain-eruption-overview/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/eh-car-0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "181",
+      "height": "136",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSGtb5nfFswbtIZ3uCednJE153bGmsDHevBcJa4LlrlJXuxgbWh2VFYG_"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "jono b"
+     },
+     {
+      "fn": "KarenZ",
+      "nickname": "KarenZ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Publications | Website of the GORISK Scientific Network",
+   "htmlTitle": "Publications | Website of the GORISK Scientific Network",
+   "link": "http://www.ecgs.lu/gorisk/publications",
+   "displayLink": "www.ecgs.lu",
+   "snippet": "Magma sources involved in the 2002 Nyiragongo eruption, as inferred from an ...   Source parameters of the 2008 Bukavu-Cyangugu earthquake estimated ...   Abstract, 23rd Colloquium of African Geology, Johannesburg January 8-14th   2011 ...",
+   "htmlSnippet": "Magma sources involved in the \u003cb\u003e2002\u003c/b\u003e Nyiragongo eruption, as inferred from an \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Source parameters of the 2008 Bukavu-Cyangugu \u003cb\u003eearthquake\u003c/b\u003e estimated \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Abstract, 23rd Colloquium of \u003cb\u003eAfrican\u003c/b\u003e Geology, Johannesburg \u003cb\u003eJanuary 8\u003c/b\u003e-14th \u003cbr\u003e  2011 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7AP7fmz8ehgJ",
+   "formattedUrl": "www.ecgs.lu/gorisk/publications",
+   "htmlFormattedUrl": "www.ecgs.lu/gorisk/publications"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "From January 2006, earthquake locations are from the United States Geological   Survey's Preliminary .... 1909-01-19 04:56, Turkey, 38.600, 26.900, 5.8 UK, 8 ...",
+   "htmlSnippet": "From \u003cb\u003eJanuary\u003c/b\u003e 2006, \u003cb\u003eearthquake\u003c/b\u003e locations are from the United States Geological \u003cbr\u003e  Survey&#39;s Preliminary \u003cb\u003e....\u003c/b\u003e 1909-01-19 04:56, Turkey, 38.600, 26.900, 5.8 UK, \u003cb\u003e8\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900. Sorted by ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900. Sorted by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Wp53QF265fgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths_sort.php"
+  }
+ ]
+}

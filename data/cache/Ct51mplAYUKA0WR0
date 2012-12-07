@@ -1,0 +1,302 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 31 2001 Africa Earthquake",
+    "totalResults": "754000",
+    "searchTerms": "Jul 31 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 31 2001 Africa Earthquake",
+    "totalResults": "754000",
+    "searchTerms": "Jul 31 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.310158,
+  "formattedSearchTime": "0.31",
+  "totalResults": "754000",
+  "formattedTotalResults": "754,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 31 2001 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 31 2001 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.9, SOUTH AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222.   5.4, SABAH, MALAYSIA, Jul 31 2001, 16:41:32, 7.991, 117.421 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.9, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eJul 31 2001\u003c/b\u003e, 22:22:22, -26.937, 26.792, 200107312222. \u003cbr\u003e  5.4, SABAH, MALAYSIA, \u003cb\u003eJul 31 2001\u003c/b\u003e, 16:41:32, 7.991, 117.421 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GeologyLinkￂﾮ",
+   "htmlTitle": "GeologyLinkￂﾮ",
+   "link": "http://college.cengage.com/geology/resources/geologylink/today/today_archive.html",
+   "displayLink": "college.cengage.com",
+   "snippet": "5.0 were felt in Alaska, Peru, Russia, South Africa, and Greece. Bezymianny   volcanoe was active. July 5, 2001 to July 31, 2001. Earthquakes greater than   mag.",
+   "htmlSnippet": "5.0 were felt in Alaska, Peru, Russia, South \u003cb\u003eAfrica\u003c/b\u003e, and Greece. Bezymianny \u003cbr\u003e  volcanoe was active. July 5, 2001 to \u003cb\u003eJuly 31, 2001\u003c/b\u003e. \u003cb\u003eEarthquakes\u003c/b\u003e greater than \u003cbr\u003e  mag.",
+   "cacheId": "zNtu4x6QIxMJ",
+   "formattedUrl": "college.cengage.com/geology/resources/.../today_archive.html",
+   "htmlFormattedUrl": "college.cengage.com/geology/resources/.../today_archive.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.04, ￢ﾈﾒ88.66, 944, 7.7, Mw (HRV) ... July 7,   2001, 09:38, Near coast of Peru, ￢ﾈﾒ17.543, ￢ﾈﾒ72.077, 1, 7.6, Mw (HRV) ... October   31, 2001, 09:10, New Britain region, Papua New Guinea ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ￢ﾈﾒ88.66, 944, 7.7, Mw (HRV) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 7, \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e, 09:38, Near coast of Peru, ￢ﾈﾒ17.543, ￢ﾈﾒ72.077, 1, 7.6, Mw (HRV) \u003cb\u003e...\u003c/b\u003e October \u003cbr\u003e  \u003cb\u003e31\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, 09:10, New Britain region, Papua New Guinea \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FACULTY OF PURE AND APPLIED SCIENCES MONA Year ending ...",
+   "htmlTitle": "FACULTY OF PURE AND APPLIED SCIENCES MONA Year ending \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.mona.uwi.edu/reports/report00_01/pas.pdf",
+   "displayLink": "www.mona.uwi.edu",
+   "snippet": "Year ending July 31, 2001. Professor Ronald E. Young, BSc, ..... Starchy Food   Products of Asia, Africa, Latin America and the Caribbean,. IFT Annual Meeting.",
+   "htmlSnippet": "Year ending \u003cb\u003eJuly 31, 2001\u003c/b\u003e. Professor Ronald E. Young, BSc, \u003cb\u003e.....\u003c/b\u003e Starchy Food \u003cbr\u003e  Products of Asia, \u003cb\u003eAfrica\u003c/b\u003e, Latin America and the Caribbean,. IFT Annual Meeting.",
+   "cacheId": "whlhBh7v8AEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.mona.uwi.edu/reports/report00_01/pas.pdf",
+   "htmlFormattedUrl": "www.mona.uwi.edu/reports/report00_01/pas.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Faculty of Pure & Applied Science.vp:CorelVentura 7.0",
+      "creationdate": "Wednesday, April 17, 2002 2:43:52 PM",
+      "title": "7.PDF",
+      "author": "Unknown",
+      "producer": "Acrobat PDFWriter 3.02 for Windows",
+      "moddate": "D:20020514152346-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "On 24 July 2009 at 4:58 am, an earthquake with a magnitude of 3.3 MW ... the   connection with mining confirmed by a 3.1 magnitude aftershock on 31 July 2009  .",
+   "htmlSnippet": "On 24 \u003cb\u003eJuly\u003c/b\u003e 2009 at 4:58 am, an \u003cb\u003eearthquake\u003c/b\u003e with a magnitude of 3.3 MW \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  connection with mining confirmed by a 3.1 magnitude aftershock on \u003cb\u003e31 July\u003c/b\u003e 2009\u003cbr\u003e  .",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "INSTITUTES AND RESEARCH CENTRES LOCATED AT MONA ...",
+   "htmlTitle": "INSTITUTES AND RESEARCH CENTRES LOCATED AT MONA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.mona.uwi.edu/reports/report00_01/instsandresearch.pdf",
+   "displayLink": "www.mona.uwi.edu",
+   "snippet": "Oct 1, 2000 ... Year ending July 31, 2001 ... and April 26, May 31 and June 12, 2001. ..... carried   out extensive research on women in Africa where she also lived for ...... usual,   annual earthquake catalogues are available at the official ...",
+   "htmlSnippet": "Oct 1, 2000 \u003cb\u003e...\u003c/b\u003e Year ending \u003cb\u003eJuly 31, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e and April 26, May 31 and June 12, 2001. \u003cb\u003e.....\u003c/b\u003e carried \u003cbr\u003e  out extensive research on women in \u003cb\u003eAfrica\u003c/b\u003e where she also lived for \u003cb\u003e......\u003c/b\u003e usual, \u003cbr\u003e  annual \u003cb\u003eearthquake\u003c/b\u003e catalogues are available at the official \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2EIjFL5S0nkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.mona.uwi.edu/reports/report00_01/instsandresearch.pdf",
+   "htmlFormattedUrl": "www.mona.uwi.edu/reports/report00_01/instsandresearch.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Institutes & Research Centres 2001.vp:CorelVentura 7.0",
+      "creationdate": "Friday, April 19, 2002 11:19:16 AM",
+      "title": "7.PDF",
+      "author": "Unknown",
+      "producer": "Acrobat PDFWriter 3.02 for Windows",
+      "moddate": "D:20020514115519-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reports | OCHA",
+   "htmlTitle": "Reports | OCHA",
+   "link": "http://www.unocha.org/what-we-do/policy/thematic-areas/evaluations-of-humanitarian-response/reports",
+   "displayLink": "www.unocha.org",
+   "snippet": "Synthesis report of the IA RTEs of the Response to the Horn of Africa Drought (  June 2012) ... Evaluation of OCHA Response to the Haiti Earthquake \u003e 31 July   2011 .... to the Emergency in Afghanistan July 2001 to July 2002 \u003e by Carroll   Faubert, ...",
+   "htmlSnippet": "Synthesis report of the IA RTEs of the Response to the Horn of \u003cb\u003eAfrica\u003c/b\u003e Drought (\u003cbr\u003e  June 2012) \u003cb\u003e...\u003c/b\u003e Evaluation of OCHA Response to the Haiti \u003cb\u003eEarthquake\u003c/b\u003e &gt; \u003cb\u003e31 July\u003c/b\u003e \u003cbr\u003e  2011 \u003cb\u003e....\u003c/b\u003e to the Emergency in Afghanistan \u003cb\u003eJuly 2001\u003c/b\u003e to \u003cb\u003eJuly\u003c/b\u003e 2002 &gt; by Carroll \u003cbr\u003e  Faubert, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ky1ljaXBrfQJ",
+   "formattedUrl": "www.unocha.org/what-we-do/policy/thematic-areas/.../reports",
+   "htmlFormattedUrl": "www.unocha.org/what-we-do/policy/thematic-areas/.../reports",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.unocha.org/sites/default/files/OCHA_Category/PolicyConferenceVideo.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "99",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxBYqc5zlPT1WiOdEN3FZIC3rodssIrVYAbMPTkN4vdQXC2rdc4ZqPKw"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "UN Office for the Coordination of Humanitarian Affairs",
+      "abstract": "OCHA is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.eoearth.org/article/Earthquake",
+   "displayLink": "www.eoearth.org",
+   "snippet": "Sep 18, 2012 ... Published: July 18, 2010, 2:05 pm ... An earthquake is a sudden vibration or   trembling in the Earth. .... by a debris flow that was triggered by an earthquake   that occurred on May 31, 1970. ... Japan, Malawi, Samoa, South Africa and   Tonga, as well as the U.S. territory of American Samoa. ... January 26, 2001 ...",
+   "htmlSnippet": "Sep 18, 2012 \u003cb\u003e...\u003c/b\u003e Published: \u003cb\u003eJuly\u003c/b\u003e 18, 2010, 2:05 pm \u003cb\u003e...\u003c/b\u003e An \u003cb\u003eearthquake\u003c/b\u003e is a sudden vibration or \u003cbr\u003e  trembling in the Earth. \u003cb\u003e....\u003c/b\u003e by a debris flow that was triggered by an \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  that occurred on May \u003cb\u003e31\u003c/b\u003e, 1970. \u003cb\u003e...\u003c/b\u003e Japan, Malawi, Samoa, South \u003cb\u003eAfrica\u003c/b\u003e and \u003cbr\u003e  Tonga, as well as the U.S. territory of American Samoa. \u003cb\u003e...\u003c/b\u003e January 26, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6EW6L0xuCUMJ",
+   "formattedUrl": "www.eoearth.org/article/Earthquake",
+   "htmlFormattedUrl": "www.eoearth.org/article/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.eoearth.org/images/163668/500x0/scale/Earthquake.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "USGS"
+     }
+    ],
+    "person": [
+     {
+      "name": "Michael Pidwirny"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "296",
+      "height": "170",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVj1MhkFXG056LCRiNsj017SBuq0sBJTJFANlEl3KADk13a3FgcbmejU8"
+     }
+    ],
+    "article": [
+     {
+      "name": "Earthquake",
+      "datepublished": "July 18, 2010, 2:05 pm",
+      "datemodified": "September 18, 2012, 5:06 pm",
+      "articlesection": "Hazards & Disasters",
+      "articlebody": "An earthquake is a sudden vibration or trembling in the Earth. More than 150,000 tremors strong enough to be felt by humans occur each year worldwide (see Chance of an Earthquake). Earthquake..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Risk in Africa: A community leader's guide",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Risk in \u003cb\u003eAfrica\u003c/b\u003e: A community leader&#39;s guide",
+   "link": "http://www.ipred-iisee.org/database/housing%20safety/Benouar-Booklet-Disaster-Community.pdf",
+   "displayLink": "www.ipred-iisee.org",
+   "snippet": "For many of African countries, earthquake hazard constitutes a serious threat to   human life and ..... 1919 Jul. 8. W. Tanzania. 6.7. 1928 Jan. 6. Mt. Kenya. 7.0.   1932 Dec. 31. Coast of Natal. 6.7 ..... (Source; Munich Re, 2001). Earthquake   Risk ...",
+   "htmlSnippet": "For many of \u003cb\u003eAfrican\u003c/b\u003e countries, \u003cb\u003eearthquake\u003c/b\u003e hazard constitutes a serious threat to \u003cbr\u003e  human life and \u003cb\u003e.....\u003c/b\u003e 1919 \u003cb\u003eJul\u003c/b\u003e. 8. W. Tanzania. 6.7. 1928 Jan. 6. Mt. Kenya. 7.0. \u003cbr\u003e  1932 Dec. \u003cb\u003e31\u003c/b\u003e. Coast of Natal. 6.7 \u003cb\u003e.....\u003c/b\u003e (Source; Munich Re, \u003cb\u003e2001\u003c/b\u003e). \u003cb\u003eEarthquake\u003c/b\u003e \u003cbr\u003e  Risk \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M_jx6b7OIKoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipred-iisee.org/database/.../Benouar-Booklet-Disaster-Community.pdf",
+   "htmlFormattedUrl": "www.ipred-iisee.org/database/.../Benouar-Booklet-Disaster-Community.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050408084455+02'00'",
+      "moddate": "D:20050408084455+02'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "Benouar",
+      "creator": "PScript5.dll Version 5.2.2",
+      "title": "Microsoft Word - Final-Version-Earthquake Risk in Africa-Community -Guide-09.12.04.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current earthquakes world-wide, Thursday, 6 December 2012: past ...",
+   "htmlTitle": "Current \u003cb\u003eearthquakes\u003c/b\u003e world-wide, Thursday, 6 December 2012: past \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/today.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Interactive Map of Active Volcanoes and recent Earthquakes world-wide - click to   show/ .... Thu, 6 Dec 09:31 UTC, M 3.2 / 159 km - [info], SALTA, ARGENTINA .....   Africa. Nyiragongo lava lake & mountain gorillas. Desert, Salt & Volcanoes (  Danakil, Ethiopia) .... Eruption 2001. 2000 ... VolcanoDiscovery Tour to Java July   2009 ...",
+   "htmlSnippet": "Interactive Map of Active Volcanoes and recent \u003cb\u003eEarthquakes\u003c/b\u003e world-wide - click to \u003cbr\u003e  show/ \u003cb\u003e....\u003c/b\u003e Thu, 6 Dec 09:\u003cb\u003e31\u003c/b\u003e UTC, M 3.2 / 159 km - [info], SALTA, ARGENTINA \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAfrica\u003c/b\u003e. Nyiragongo lava lake &amp; mountain gorillas. Desert, Salt &amp; Volcanoes (\u003cbr\u003e  Danakil, Ethiopia) \u003cb\u003e....\u003c/b\u003e Eruption \u003cb\u003e2001\u003c/b\u003e. 2000 \u003cb\u003e...\u003c/b\u003e VolcanoDiscovery Tour to Java \u003cb\u003eJuly\u003c/b\u003e \u003cbr\u003e  2009 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uSi_y8RoXw0J",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/today.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/today.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  }
+ ]
+}

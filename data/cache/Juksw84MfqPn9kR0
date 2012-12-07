@@ -1,0 +1,321 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 5 2002 Australia Earthquake",
+    "totalResults": "523000",
+    "searchTerms": "Mar 5 2002 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 5 2002 Australia Earthquake",
+    "totalResults": "523000",
+    "searchTerms": "Mar 5 2002 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.204209,
+  "formattedSearchTime": "0.20",
+  "totalResults": "523000",
+  "formattedTotalResults": "523,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes list March 20, 2012 ￢ﾀﾓ Massive earthquake near the ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e list March 20, 2012 ￢ﾀﾓ Massive \u003cb\u003eearthquake\u003c/b\u003e near the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/19/earthquakes-list-march-20-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 20, 2012 ... Personalized E-mail earthquake alerts for this area. ... USGS, Near The East   Coast Of The Kamchatka Peninsul, Mar 20 22:21 PM, 4.6, 52.1 ... Acapulco - j'  ￃﾩtais au condo au 23 iￃﾨme ￃﾩtage et j'ai vraiment senti le plancher ... Mexico City -   3rd floor of some sturdy 5-floor buildings that survived the last big one.",
+   "htmlSnippet": "Mar 20, 2012 \u003cb\u003e...\u003c/b\u003e Personalized E-mail \u003cb\u003eearthquake\u003c/b\u003e alerts for this area. \u003cb\u003e...\u003c/b\u003e USGS, Near The East \u003cbr\u003e  Coast Of The Kamchatka Peninsul, \u003cb\u003eMar\u003c/b\u003e 20 22:21 PM, 4.6, 52.1 \u003cb\u003e...\u003c/b\u003e Acapulco - j&#39;\u003cbr\u003e  ￃﾩtais au condo \u003cb\u003eau\u003c/b\u003e 23 iￃﾨme ￃﾩtage et j&#39;ai vraiment senti le plancher \u003cb\u003e...\u003c/b\u003e Mexico City - \u003cbr\u003e  3rd floor of some sturdy \u003cb\u003e5\u003c/b\u003e-floor buildings that survived the last big one.",
+   "cacheId": "n1XFsImQY8AJ",
+   "formattedUrl": "earthquake-report.com/2012/03/.../earthquakes-list-march-20-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/03/.../\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003emar\u003c/b\u003ech-20-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "veronica",
+      "nickname": "veronica"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "December 12, 2001, 14:02, South of Australia, ￢ﾈﾒ42.813, 124.688, 0, 7.1, Mw ...   March 5, 2002, 21:16, Mindanao, Philippines, 6.033, 124.249, 15, 7.5, Mw (HRV) ...",
+   "htmlSnippet": "December 12, 2001, 14:02, South of \u003cb\u003eAustralia\u003c/b\u003e, ￢ﾈﾒ42.813, 124.688, 0, 7.1, Mw \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eMarch 5, 2002\u003c/b\u003e, 21:16, Mindanao, Philippines, 6.033, 124.249, 15, 7.5, Mw (HRV) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jamaica earthquake list",
+   "htmlTitle": "Jamaica \u003cb\u003eearthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 27, 2012 ... The list below shows the last earthquakes in Jamaica ... Label info : M =   magnitude, D = depth (km), Time = UTC ￢ﾀﾓ Jamaica time = UTC -5 ...",
+   "htmlSnippet": "Apr 27, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in Jamaica \u003cb\u003e...\u003c/b\u003e Label info : M = \u003cbr\u003e  magnitude, D = depth (km), Time = UTC ￢ﾀﾓ Jamaica time = UTC -\u003cb\u003e5\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VNjkeO-jsS8J",
+   "formattedUrl": "earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/04/27/jamaica-\u003cb\u003eearthquake\u003c/b\u003e-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes for the last 10 years",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e for the last 10 years",
+   "link": "http://wiki.answers.com/Q/List_of_earthquakes_for_the_last_10_years",
+   "displayLink": "wiki.answers.com",
+   "snippet": "3/5/2002 21:16, Philippines, 6.028, 124.218, 31, MW 7.5, T,L, 15, 15, 15, 15. 3/25/  2002 14:56 ..... 4/25/2006 11:26, Australia, -41.164, 146.863, 4, ML 2.2, 0, 1 ...",
+   "htmlSnippet": "\u003cb\u003e3/5/2002\u003c/b\u003e 21:16, Philippines, 6.028, 124.218, 31, MW 7.5, T,L, 15, 15, 15, 15. 3/25/\u003cbr\u003e  2002 14:56 \u003cb\u003e.....\u003c/b\u003e 4/25/2006 11:26, \u003cb\u003eAustralia\u003c/b\u003e, -41.164, 146.863, 4, ML 2.2, 0, 1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pFxYjhzmCDgJ",
+   "formattedUrl": "wiki.answers.com/Q/List_of_earthquakes_for_the_last_10_years",
+   "htmlFormattedUrl": "wiki.answers.com/Q/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_for_the_last_10_years",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://rxf.answcdn.com/includes/images/icons/a-icon.png"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Answers.com",
+      "url": "Answers.com"
+     },
+     {
+      "title": "Wiki Answers",
+      "url": "Wiki Answers"
+     },
+     {
+      "title": "Categories",
+      "url": "Categories"
+     },
+     {
+      "title": "Science",
+      "url": "Science"
+     },
+     {
+      "title": "Earth Sciences",
+      "url": "Earth Sciences"
+     },
+     {
+      "title": "Natural Disasters",
+      "url": "Natural Disasters"
+     }
+    ],
+    "metatags": [
+     {
+      "abtest": "mode_id=-1",
+      "fb:app_id": "168416999909992",
+      "og:site_name": "Answers.com",
+      "og:image": "http://rxf.answcdn.com/includes/images/icons/a-icon.png",
+      "og:title": "Answer to: List of earthquakes for the last 10 years?",
+      "og:description": "Origin (UTC)￢ﾆﾓPresent-day Country and link to Wikipedia article￢ﾆﾓLatitude￢ﾆﾓLongitude￢ﾆﾓDepth (km)￢ﾆﾓMagnitude￢ﾆﾓSecondary Effects￢ﾆﾓPDE Shaking Deaths￢ﾆﾓPDE Total Deaths￢ﾆﾓUtsu Total Deaths￢ﾆﾓEM-DAT Total Deaths￢ﾆﾓOther Source Deaths￢ﾆﾓ1/14/2000 22:09China25.549101.11813.6MW 5.571/14/2000 23:37China25.567101.07124.9MW 5.97771/26/2000 20:55China24.148103.65435mb 4.90012/2/2000 22:58Iran35.23858.21322.7MW 5.311115/4/2000 4:21Indonesia-1.14123.52226MW 7.5T464646455/7/2000 23:10Turkey38.16438.7775MD 4.50015/12/2000 18:43Argentina-23.754-66.777225MW 7.20115/17/2000 3:25Taiwan24.167121.07815MW 5.4L3336/4/2000 16:28Indonesia-4.76102.03133.8MW 7.9L1031031031036/5/2000 23:55Indonesia-4.151101.95347MW 5.516/6/2000 2:41Turkey40.73733.0057MW 6.022226/7/2000 23:45Indonesia-4.651101.84832MW 6.71116/10/2000 18:23Taiwan23.868121.18119MW 6.4L027/1/2000 7:01Japan34.222139.17112.5MW 6.1T,L01117/6/2000 19:30Nicaragua11.928-86.06615MW 5.477777/7/2000 0:15Turkey40.85729.3447.8MD 4.2017/17/2000 22:53Afghanistan36.24570.943135MW ",
+      "og:type": "answers-com:answer",
+      "og:url": "http://wiki.answers.com/Q/List_of_earthquakes_for_the_last_10_years"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.see.uwa.edu.au/welcome/seismicity_of_western_australia",
+   "displayLink": "www.seismicity.see.uwa.edu.au",
+   "snippet": "WEST AUSTRALIAN EARTHQUAKES BY REGION ... 05 Mar 2002, -30.479,   117.084, 5.0, Burakin. 05 Mar ...",
+   "htmlSnippet": "WEST \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e BY REGION \u003cb\u003e...\u003c/b\u003e \u003cb\u003e05 Mar 2002\u003c/b\u003e, -30.479, \u003cbr\u003e  117.084, 5.0, Burakin. \u003cb\u003e05 Mar\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5e31QRIrX_IJ",
+   "formattedUrl": "www.seismicity.see.uwa.edu.au/.../seismicity_of_western_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.see.uwa.edu.au/.../\u003cb\u003eseismic\u003c/b\u003eity_of_western_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32149"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "251",
+      "height": "201",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEhwAdfh2ft4Dj0q-qTfTF1lCs-bf_TkvzBTKrbWRaQ82WhAuKsnIyTa4"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity of Western Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/44594",
+      "dc.date.modified": "2011-08-24",
+      "dc.date.created": "2004-02-16",
+      "dc.date.valid": "2012-08-24",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/44594",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Weather Warfare: Earthquake and Tsunami Created?",
+   "htmlTitle": "Weather Warfare: \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami Created?",
+   "link": "http://weatherwars.blogspot.com/2005/10/earthquake-and-tsunami-created.html",
+   "displayLink": "weatherwars.blogspot.com",
+   "snippet": "Oct 28, 2005 ... Human Hand Behind Earthquake and Tsunami? ... North Slope), and the Gulf of   Mexico; areas around Australia and South America are also current hot-spots of   activity. ... On March 5, 2002 a 7.6 quake hits Philippines ...",
+   "htmlSnippet": "Oct 28, 2005 \u003cb\u003e...\u003c/b\u003e Human Hand Behind \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami? \u003cb\u003e...\u003c/b\u003e North Slope), and the Gulf of \u003cbr\u003e  Mexico; areas around \u003cb\u003eAustralia\u003c/b\u003e and South America are also current hot-spots of \u003cbr\u003e  activity. \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eMarch 5, 2002\u003c/b\u003e a 7.6 \u003cb\u003equake\u003c/b\u003e hits Philippines \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tadstCUAi1EJ",
+   "formattedUrl": "weatherwars.blogspot.com/.../earthquake-and-tsunami-created.html",
+   "htmlFormattedUrl": "weatherwars.blogspot.com/.../\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami-created.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Geoscience Data and Collections: National Resources in Peril",
+   "htmlTitle": "Geoscience Data and Collections: National Resources in Peril",
+   "link": "http://www.nap.edu/openbook.php?record_id=10348&page=82",
+   "displayLink": "www.nap.edu",
+   "snippet": "2002a. Georef. Accessed on April 5, 2002 at: http://www.georef.org. ... Australia   Department of Industry, Tourism and Resources. 2001. ... Accessed March 5,   2002 at: ... A balanced cross section of the 1994 Northridge earthquake,   Southern ...",
+   "htmlSnippet": "2002a. Georef. Accessed on April 5, 2002 at: http://www.georef.org. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e \u003cbr\u003e  Department of Industry, Tourism and Resources. 2001. \u003cb\u003e...\u003c/b\u003e Accessed \u003cb\u003eMarch 5,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2002\u003c/b\u003e at: \u003cb\u003e...\u003c/b\u003e A balanced cross section of the 1994 Northridge \u003cb\u003eearthquake\u003c/b\u003e, \u003cbr\u003e  Southern \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1KZIF61KjEoJ",
+   "formattedUrl": "www.nap.edu/openbook.php?record_id=10348&page=82",
+   "htmlFormattedUrl": "www.nap.edu/openbook.php?record_id=10348&amp;page=82",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.nap.edu/images/minicov/0309083419.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "104",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJjD7gfXV__D5MxlFp14yBvqpJxDW1WcklFQfZAw5O1hjBxoumD5ANBA"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Geoscience Data and Collections: National Resources in Peril",
+      "og:image": "http://images.nap.edu/images/minicov/0309083419.gif",
+      "alexaverifyid": "02J2SepmgvpkhVXcfeE98cX3HKs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1456 Dec 5, Earthquake struck Naples and 35,000 died. ...... fault 300 miles south   of the boundary between the Indo-Australian and Eurasian Plates. ... 2002 Mar 5,   In the Philippines a 6.8 earthquake struck about 10 miles under the sea some ...",
+   "htmlSnippet": "1456 Dec \u003cb\u003e5\u003c/b\u003e, \u003cb\u003eEarthquake\u003c/b\u003e struck Naples and 35,000 died. \u003cb\u003e......\u003c/b\u003e fault 300 miles south \u003cbr\u003e  of the boundary between the Indo-\u003cb\u003eAustralian\u003c/b\u003e and Eurasian Plates. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2002 Mar 5\u003c/b\u003e, \u003cbr\u003e  In the Philippines a 6.8 \u003cb\u003eearthquake\u003c/b\u003e struck about 10 miles under the sea some \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Archived Volcano News - John Seach March 2002",
+   "htmlTitle": "Archived Volcano News - John Seach March \u003cb\u003e2002\u003c/b\u003e",
+   "link": "http://www.volcanolive.com/news22.html",
+   "displayLink": "www.volcanolive.com",
+   "snippet": "Mar 31, 2002 ... News reports posted in Eastern Australian Time (UT + 10 hr) ... Taipei at 11:52   PM MST, Mar 30, 2002 (Mar 31 at 2:52 PM local time in Taiwan). ... There are an   average of five earthquakes per year with magnitude 5 or greater ...",
+   "htmlSnippet": "Mar 31, 2002 \u003cb\u003e...\u003c/b\u003e News reports posted in Eastern \u003cb\u003eAustralian\u003c/b\u003e Time (UT + 10 hr) \u003cb\u003e...\u003c/b\u003e Taipei at 11:52 \u003cbr\u003e  PM MST, \u003cb\u003eMar\u003c/b\u003e 30, \u003cb\u003e2002\u003c/b\u003e (\u003cb\u003eMar\u003c/b\u003e 31 at 2:52 PM local time in Taiwan). \u003cb\u003e...\u003c/b\u003e There are an \u003cbr\u003e  average of five \u003cb\u003eearthquakes\u003c/b\u003e per year with magnitude \u003cb\u003e5\u003c/b\u003e or greater \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yaHB3DI19hIJ",
+   "formattedUrl": "www.volcanolive.com/news22.html",
+   "htmlFormattedUrl": "www.volcanolive.com/news22.html"
+  }
+ ]
+}

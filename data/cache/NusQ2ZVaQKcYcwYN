@@ -1,0 +1,255 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 29 2001 Australia Earthquake",
+    "totalResults": "759000",
+    "searchTerms": "Oct 29 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 29 2001 Australia Earthquake",
+    "totalResults": "759000",
+    "searchTerms": "Oct 29 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.247899,
+  "formattedSearchTime": "0.25",
+  "totalResults": "759000",
+  "formattedTotalResults": "759,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ￢ﾀﾓ Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ￢ﾀﾓ Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... Significant losses were also seen in Turkey from the Van earthquake in October,   in the India-Nepal-Tibet region in September, in China from ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e Significant losses were also seen in Turkey from the Van \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eOctober\u003c/b\u003e, \u003cbr\u003e  in the India-Nepal-Tibet region in September, in China from \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.disasternews.net/news/news.php?topic=Earthquakes",
+   "displayLink": "www.disasternews.net",
+   "snippet": "04:33 pm EST, November 29, 2012. Click Here! Home ￂﾷ Give ...",
+   "htmlSnippet": "04:33 pm EST, November \u003cb\u003e29\u003c/b\u003e, 2012. Click Here! Home &middot; Give \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JJ5O1ms-c8QJ",
+   "formattedUrl": "www.disasternews.net/news/news.php?topic=Earthquakes",
+   "htmlFormattedUrl": "www.disasternews.net/news/news.php?topic=\u003cb\u003eEarthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Meckering earthquake of October 1968 is considered the main impacting ...   2.13 Burakin Swarm 2000-2001; 2.14 South of Albany 2001; 2.15 Kalgoorlie   2010 ... The largest earthquake to date in Western Australia was on 29 April 1941   at ...",
+   "htmlSnippet": "The Meckering \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eOctober\u003c/b\u003e 1968 is considered the main impacting \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  2.13 Burakin Swarm 2000-\u003cb\u003e2001\u003c/b\u003e; 2.14 South of Albany \u003cb\u003e2001\u003c/b\u003e; 2.15 Kalgoorlie \u003cbr\u003e  2010 \u003cb\u003e...\u003c/b\u003e The largest \u003cb\u003eearthquake\u003c/b\u003e to date in Western \u003cb\u003eAustralia\u003c/b\u003e was on \u003cb\u003e29\u003c/b\u003e April 1941 \u003cbr\u003e  at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   ..... Eastern Highlands, 29 August 1868, magnitude 5.0, felt in North Eastern   Victoria, Gippsland and as far as Albury but not in Melbourne. .... \"The Meckering   Western Australia earthquake of October 1968\". ... a b Past Earthquake News:   2001.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Eastern Highlands, \u003cb\u003e29\u003c/b\u003e August 1868, magnitude 5.0, felt in North Eastern \u003cbr\u003e  Victoria, Gippsland and as far as Albury but not in Melbourne. \u003cb\u003e....\u003c/b\u003e &quot;The Meckering \u003cbr\u003e  Western \u003cb\u003eAustralia earthquake\u003c/b\u003e of \u003cb\u003eOctober\u003c/b\u003e 1968&quot;. \u003cb\u003e...\u003c/b\u003e a b Past \u003cb\u003eEarthquake\u003c/b\u003e News: \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "E.arthquake 01.11",
+   "htmlTitle": "E.\u003cb\u003earthquake\u003c/b\u003e 01.11",
+   "link": "http://www.aila.org.au/sa/earthquake/equake_01_04_nov.htm",
+   "displayLink": "www.aila.org.au",
+   "snippet": "At the Royal Australian Planning Institute's Awards for Planning Excellence, held   at Canberra's National Convention Centre on Monday, 29 October 2001, ...",
+   "htmlSnippet": "At the Royal \u003cb\u003eAustralian\u003c/b\u003e Planning Institute&#39;s Awards for Planning Excellence, held \u003cbr\u003e  at Canberra&#39;s National Convention Centre on \u003cb\u003eMonday, 29 October 2001\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CQXe1KGbvGgJ",
+   "formattedUrl": "www.aila.org.au/sa/earthquake/equake_01_04_nov.htm",
+   "htmlFormattedUrl": "www.aila.org.au/sa/\u003cb\u003eearthquake\u003c/b\u003e/e\u003cb\u003equake\u003c/b\u003e_01_04_nov.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Haida Gwaii earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 Haida Gwaii \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_Haida_Gwaii_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "2012 Haida Gwaii earthquake is located in British Columbia ... This was followed   on October 29 by a 6.2 aftershock 50 kilometres (31 mi) to the south ... \"As it   happened: Hawaiian tsunami alert - ABC News (Australian Broadcasting   Corporation)\". ... 2000 Kipawa ￂﾷ 2001 Nisqually ￂﾷ 2007￢ﾀﾓ2008 Nazko ￂﾷ 2010   Central Canada ...",
+   "htmlSnippet": "2012 Haida Gwaii \u003cb\u003eearthquake\u003c/b\u003e is located in British Columbia \u003cb\u003e...\u003c/b\u003e This was followed \u003cbr\u003e  on \u003cb\u003eOctober 29\u003c/b\u003e by a 6.2 aftershock 50 kilometres (31 mi) to the south \u003cb\u003e...\u003c/b\u003e &quot;As it \u003cbr\u003e  happened: Hawaiian tsunami alert - ABC News (\u003cb\u003eAustralian\u003c/b\u003e Broadcasting \u003cbr\u003e  Corporation)&quot;. \u003cb\u003e...\u003c/b\u003e 2000 Kipawa &middot; \u003cb\u003e2001\u003c/b\u003e Nisqually &middot; 2007￢ﾀﾓ2008 Nazko &middot; 2010 \u003cbr\u003e  Central Canada \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qM7XhRtHrZgJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_Haida_Gwaii_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_Haida_Gwaii_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Canada_British_Columbia_(no_subdivisions)_location_map.svg/250px-Canada_British_Columbia_(no_subdivisions)_location_map.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "162",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGC7_OjJfj2q9bRd33tB7Fyy7DbYwEyCiYx_-XEQSXjYxoBHlsF3ynT20L"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current earthquakes world-wide, Thursday, 6 December 2012: past ...",
+   "htmlTitle": "Current \u003cb\u003eearthquakes\u003c/b\u003e world-wide, Thursday, 6 December 2012: past \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/today.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Interactive Map of Active Volcanoes and recent Earthquakes world-wide - click to   show/ ... Thu, 6 Dec 18:29 UTC, M 4.6 / 20 km - [info], TURKMENISTAN ...",
+   "htmlSnippet": "Interactive Map of Active Volcanoes and recent \u003cb\u003eEarthquakes\u003c/b\u003e world-wide - click to \u003cbr\u003e  show/ \u003cb\u003e...\u003c/b\u003e Thu, 6 Dec 18:\u003cb\u003e29\u003c/b\u003e UTC, M 4.6 / 20 km - [info], TURKMENISTAN \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uSi_y8RoXw0J",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/today.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/today.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.7, IRAN-IRAQ BORDER REGION, Nov 29 2001, 15:49:29, 33.632, 45.977 ... 4.8  , VICTORIA, AUSTRALIA, Oct 27 2001, 07:58:48, -35.309 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.7, IRAN-IRAQ BORDER REGION, Nov \u003cb\u003e29 2001\u003c/b\u003e, 15:49:\u003cb\u003e29\u003c/b\u003e, 33.632, 45.977 \u003cb\u003e...\u003c/b\u003e 4.8\u003cbr\u003e  , VICTORIA, \u003cb\u003eAUSTRALIA\u003c/b\u003e, \u003cb\u003eOct\u003c/b\u003e 27 \u003cb\u003e2001\u003c/b\u003e, 07:58:48, -35.309 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 29th October | HistoryOrb.com",
+   "htmlTitle": "Historical Events on \u003cb\u003e29th October\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/october/29",
+   "displayLink": "www.historyorb.com",
+   "snippet": "Historical events for the 29th of October. ... 1658 - Action of 29 October 1658 (  Naval battle) ... 1727 - Severe earthquake in New England .... terrorist leader first   admits direct responsibility for the September 11, 2001 attacks and references   the ...",
+   "htmlSnippet": "Historical events for the 29th of \u003cb\u003eOctober\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 1658 - Action of \u003cb\u003e29 October\u003c/b\u003e 1658 (\u003cbr\u003e  Naval battle) \u003cb\u003e...\u003c/b\u003e 1727 - Severe \u003cb\u003eearthquake\u003c/b\u003e in New England \u003cb\u003e....\u003c/b\u003e terrorist leader first \u003cbr\u003e  admits direct responsibility for the September 11, \u003cb\u003e2001\u003c/b\u003e attacks and references \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5sWjw7TtTEMJ",
+   "formattedUrl": "www.historyorb.com/events/october/29",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003eoctober\u003c/b\u003e/\u003cb\u003e29\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  }
+ ]
+}

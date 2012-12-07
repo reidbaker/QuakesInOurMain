@@ -1,0 +1,299 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 16 2001 North America Earthquake",
+    "totalResults": "737000",
+    "searchTerms": "Jul 16 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 16 2001 North America Earthquake",
+    "totalResults": "737000",
+    "searchTerms": "Jul 16 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.265465,
+  "formattedSearchTime": "0.27",
+  "totalResults": "737000",
+  "formattedTotalResults": "737,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 16 2001 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 16 2001 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "... model when performing multi-scale inversion of seismic data ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e model when performing multi-scale inversion of \u003cb\u003eseismic\u003c/b\u003e data \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of N America Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eN America\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/N_America_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. ... by the USGS and contributing networks for the Map of N America   Region. ... MAP, 3.1, 2012/12/06 20:26:16, 60.477, -147.408, 12.3, SOUTHERN   ALASKA ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e by the USGS and contributing networks for the Map of \u003cb\u003eN America\u003c/b\u003e \u003cbr\u003e  Region. \u003cb\u003e...\u003c/b\u003e MAP, 3.1, 2012/12/06 20:26:\u003cb\u003e16\u003c/b\u003e, 60.477, -147.408, 12.3, SOUTHERN \u003cbr\u003e  ALASKA \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LX2-MQ7UV7QJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/.../N_America_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/.../N_\u003cb\u003eAmerica\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8121823 - Iterative inversion of data from simultaneous ...",
+   "htmlTitle": "Patent US8121823 - Iterative inversion of data from simultaneous \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8121823",
+   "displayLink": "www.google.com",
+   "snippet": "US6014342, Jul 16, 1997, Jan 11, 2000, Tomo Seis, Inc. Method of evaluating a   ... US6327537, Jul 19, 1999, Dec 4, 2001, Multi-shooting approach to seismic ....   US7725266, May 31, 2007, May 25, 2010, BP Corporation North America Inc.",
+   "htmlSnippet": "US6014342, \u003cb\u003eJul 16\u003c/b\u003e, 1997, Jan 11, 2000, Tomo Seis, Inc. Method of evaluating a \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US6327537, \u003cb\u003eJul\u003c/b\u003e 19, 1999, Dec 4, \u003cb\u003e2001\u003c/b\u003e, Multi-shooting approach to \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth America\u003c/b\u003e Inc.",
+   "formattedUrl": "www.google.com/patents/US8121823",
+   "htmlFormattedUrl": "www.google.com/patents/US8121823",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0TCwxQzj2yASXEPyp88Z__B3I4k0NfjDGjx5u6qG-5VYlAALARvEnh4Q"
+     }
+    ],
+    "book": [
+     {
+      "description": "Method for reducing the time needed to perform geophysical inversion by using simultaneous encoded sources in the simulation steps of the inversion process. The geophysical survey data are...",
+      "url": "http://www.google.com/patents/US8121823?utm_source=gb-gplus-share",
+      "name": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8121823",
+      "title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Archive",
+   "htmlTitle": "ShakeMap Archive",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/list.php?s=1&x=1",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Apr 21, 2011 ... 7.5, Hebgen Lake Earthquake M7.5 Scenario (GMPE:CY08)44.73, -111.18, ... 7.1  , Grand Valley M7.1 Scenario42.71, -110.92, 0km, Jul 25 2012 13:00:00 ... 6.3,   NMES Sykeston North End M6.3 Scenario (Peak Value)37.01, -89.25, ..... 7.1,   Full Hayward Fault Scenario37.676, -122.082, 13km, Jul 16 2001 ...",
+   "htmlSnippet": "Apr 21, 2011 \u003cb\u003e...\u003c/b\u003e 7.5, Hebgen Lake \u003cb\u003eEarthquake\u003c/b\u003e M7.5 Scenario (GMPE:CY08)44.73, -111.18, \u003cb\u003e...\u003c/b\u003e 7.1\u003cbr\u003e  , Grand Valley M7.1 Scenario42.71, -110.92, 0km, Jul 25 2012 13:00:00 \u003cb\u003e...\u003c/b\u003e 6.3, \u003cbr\u003e  NMES Sykeston \u003cb\u003eNorth\u003c/b\u003e End M6.3 Scenario (Peak Value)37.01, -89.25, \u003cb\u003e.....\u003c/b\u003e 7.1, \u003cbr\u003e  Full Hayward Fault Scenario37.676, -122.082, 13km, \u003cb\u003eJul 16 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m3IBIRDbzf8J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/list.php?s=1&x=1",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/list.php?s=1&amp;x=1"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1812 New Madrid earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1812 New Madrid \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1812_New_Madrid_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Great Earthquake at New Madrid, a 19th-century woodcut from Devens' Our   First ... December 16, 1811, 0815 UTC (2:15 a.m.); (M ~7.2 ￢ﾀﾓ 8.1) epicenter in ....   up of reactivated faults that formed when what is now North America began to   split or rift .... Report: Kentucky; ^ Grollimund, Balz; Zoback, Mark D. (February   2001).",
+   "htmlSnippet": "The Great \u003cb\u003eEarthquake\u003c/b\u003e at New Madrid, a 19th-century woodcut from Devens&#39; Our \u003cbr\u003e  First \u003cb\u003e...\u003c/b\u003e December \u003cb\u003e16\u003c/b\u003e, 1811, 0815 UTC (2:15 a.m.); (M ~7.2 ￢ﾀﾓ 8.1) epicenter in \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  up of reactivated faults that formed when what is now \u003cb\u003eNorth America\u003c/b\u003e began to \u003cbr\u003e  split or rift \u003cb\u003e....\u003c/b\u003e Report: Kentucky; ^ Grollimund, Balz; Zoback, Mark D. (February \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "pzhIplJx4uoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1812_New_Madrid_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1812_New_Madrid_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Madrid_Erdbeben.jpg/300px-New_Madrid_Erdbeben.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "172",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmVUQfYKri8WnOoE5ovYwNKJ-BemlVa42yfaiechbkjE8z0uvOxWlE2Qd4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes - Simple English Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e - Simple English Wikipedia, the free encyclopedia",
+   "link": "http://simple.wikipedia.org/wiki/List_of_earthquakes",
+   "displayLink": "simple.wikipedia.org",
+   "snippet": "List of earthquakes. From Wikipedia, the free encyclopedia. Jump to: navigation,   search. The following is a list of major earthquakes: ...",
+   "htmlSnippet": "List of \u003cb\u003eearthquakes\u003c/b\u003e. From Wikipedia, the free encyclopedia. Jump to: navigation, \u003cbr\u003e  search. The following is a list of major \u003cb\u003eearthquakes\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gpzcSuj1SusJ",
+   "formattedUrl": "simple.wikipedia.org/wiki/List_of_earthquakes",
+   "htmlFormattedUrl": "simple.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1990 Luzon earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1990 Luzon \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1990_Luzon_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Epicenter, 15ￂﾰ42￢ﾀﾲN 121ￂﾰ12￢ﾀﾲE\ufeff / \ufeff15.7ￂﾰN 121.2ￂﾰE\ufeff / 15.7; ... The Luzon   earthquake occurred on Monday, July 16, 1990, at 4:26 PM local time in ... 27 of   the seminar participants, including one American USAID official were killed in the   quake. .... 1990 Earthquake. Philippine Institute of Volcanology and Seismology.   2001.",
+   "htmlSnippet": "Epicenter, 15ￂﾰ42￢ﾀﾲ\u003cb\u003eN\u003c/b\u003e 121ￂﾰ12￢ﾀﾲE\ufeff / \ufeff15.7ￂﾰN 121.2ￂﾰE\ufeff / 15.7; \u003cb\u003e...\u003c/b\u003e The Luzon \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e occurred on Monday, \u003cb\u003eJuly 16\u003c/b\u003e, 1990, at 4:26 PM local time in \u003cb\u003e...\u003c/b\u003e 27 of \u003cbr\u003e  the seminar participants, including one \u003cb\u003eAmerican\u003c/b\u003e USAID official were killed in the \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 1990 \u003cb\u003eEarthquake\u003c/b\u003e. Philippine Institute of Volcanology and Seismology. \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "tWmNKEt-ooYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1990_Luzon_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1990_Luzon_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "July 16, 2012 Archives - The Watchers",
+   "htmlTitle": "\u003cb\u003eJuly 16\u003c/b\u003e, 2012 Archives - The Watchers",
+   "link": "http://thewatchers.adorraeli.com/2012/07/16/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Posted on July 16, 2012 | 1 Comment ... As of as of 2006 the levels of the lakes   are lower than in 2001, and areas of wetlands and sand dunes have formed   between the ... A massive landslide, one of the biggest ever seen in North   America, has covered ... It slid down with such force it registered as a small   earthquake.",
+   "htmlSnippet": "Posted on \u003cb\u003eJuly 16\u003c/b\u003e, 2012 | 1 Comment \u003cb\u003e...\u003c/b\u003e As of as of 2006 the levels of the lakes \u003cbr\u003e  are lower than in \u003cb\u003e2001\u003c/b\u003e, and areas of wetlands and sand dunes have formed \u003cbr\u003e  between the \u003cb\u003e...\u003c/b\u003e A massive landslide, one of the biggest ever seen in \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e, has covered \u003cb\u003e...\u003c/b\u003e It slid down with such force it registered as a small \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e.",
+   "cacheId": "SIP_BEpEEGMJ",
+   "formattedUrl": "thewatchers.adorraeli.com/2012/07/16/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/2012/07/\u003cb\u003e16\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/07/article-heat1-420x0-115x115.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "92",
+      "height": "92",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSu5CP8zkMSynSmNTDArtWia-1mffvtS2hgv6rE9TtcUPCiyAatzUGQ"
+     }
+    ],
+    "article": [
+     {
+      "name": "The Watchers",
+      "description": "watching the world evolve and transform",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "The Watchers",
+      "og:type": "website",
+      "og:url": "http://thewatchers.adorraeli.com/2012/07/16?year=2012&monthnum=07&day=16",
+      "og:description": "watching the world evolve and transform",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 9, 2001, 16:49, Vanuatu, ￢ﾈﾒ14.928, 167.170, 0, 7.1, Mw (USGS) ... August   21, 2001, 06:52, East of North Island, New Zealand, ￢ﾈﾒ36.813, ￢ﾈﾒ179.575, 0 ..... see   July 2006 Java earthquake, ￢ﾈﾒ9.334, 107.263, 665, 7.7, Mw (HRV). ..... Tsunami   flattened villages in Samoa and American Samoa which killed 100+ civilians.",
+   "htmlSnippet": "January 9, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003e16\u003c/b\u003e:49, Vanuatu, ￢ﾈﾒ14.928, 167.170, 0, 7.1, Mw (USGS) \u003cb\u003e...\u003c/b\u003e August \u003cbr\u003e  21, \u003cb\u003e2001\u003c/b\u003e, 06:52, East of \u003cb\u003eNorth\u003c/b\u003e Island, New Zealand, ￢ﾈﾒ36.813, ￢ﾈﾒ179.575, 0 \u003cb\u003e.....\u003c/b\u003e see \u003cbr\u003e  \u003cb\u003eJuly\u003c/b\u003e 2006 Java \u003cb\u003eearthquake\u003c/b\u003e, ￢ﾈﾒ9.334, 107.263, 665, 7.7, Mw (HRV). \u003cb\u003e.....\u003c/b\u003e Tsunami \u003cbr\u003e  flattened villages in Samoa and \u003cb\u003eAmerican\u003c/b\u003e Samoa which killed 100+ civilians.",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on July 16th This Day in History",
+   "htmlTitle": "What Happened on \u003cb\u003eJuly 16th\u003c/b\u003e This Day in History",
+   "link": "http://www.thepeoplehistory.com/july16th.html",
+   "displayLink": "www.thepeoplehistory.com",
+   "snippet": "July 16th What Happened on the day you were born on This day in History ...   16th July 1990 : A 7.7-magnitude earthquake strikes Luzon Island in the ... his   plan for strengthening homeland security in the wake of the September 11, 2001,   ( 911 ) ... 16th July, 2011 : Five players from North Korea tested positive for a   banned ...",
+   "htmlSnippet": "\u003cb\u003eJuly 16th\u003c/b\u003e What Happened on the day you were born on This day in History \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e16th July\u003c/b\u003e 1990 : A 7.7-magnitude \u003cb\u003eearthquake\u003c/b\u003e strikes Luzon Island in the \u003cb\u003e...\u003c/b\u003e his \u003cbr\u003e  plan for strengthening homeland security in the wake of the September 11, \u003cb\u003e2001\u003c/b\u003e, \u003cbr\u003e  ( 911 ) \u003cb\u003e...\u003c/b\u003e \u003cb\u003e16th July\u003c/b\u003e, 2011 : Five players from \u003cb\u003eNorth\u003c/b\u003e Korea tested positive for a \u003cbr\u003e  banned \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zvIffoozGHkJ",
+   "formattedUrl": "www.thepeoplehistory.com/july16th.html",
+   "htmlFormattedUrl": "www.thepeoplehistory.com/\u003cb\u003ejuly16\u003c/b\u003eth.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "The People History -- Steve Pearson"
+     }
+    ]
+   }
+  }
+ ]
+}

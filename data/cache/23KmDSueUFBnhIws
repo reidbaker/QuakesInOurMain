@@ -1,0 +1,340 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 28 2001 Australia Earthquake",
+    "totalResults": "766000",
+    "searchTerms": "Sep 28 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 28 2001 Australia Earthquake",
+    "totalResults": "766000",
+    "searchTerms": "Sep 28 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.25115,
+  "formattedSearchTime": "0.25",
+  "totalResults": "766000",
+  "formattedTotalResults": "766,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 28 2001 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 28 2001 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ￢ﾀﾓ Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ￢ﾀﾓ Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... This database has been presented at the Australian Earthquake Engineering   Society .... Sendai Aftershock, JP, 07.04.2011, 4, (2-4), 28, 268 .... The Sikkim   earthquake on the 18th September 2011 was deemed to have caused at ..... BTE   [2001] ￢ﾀﾜEconomic Costs of Natural Disasters in Australia￢ﾀﾝ, Bureau of ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering \u003cbr\u003e  Society \u003cb\u003e....\u003c/b\u003e Sendai Aftershock, JP, 07.04.2011, 4, (2-4), \u003cb\u003e28\u003c/b\u003e, 268 \u003cb\u003e....\u003c/b\u003e The Sikkim \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e on the 18th \u003cb\u003eSeptember\u003c/b\u003e 2011 was deemed to have caused at \u003cb\u003e.....\u003c/b\u003e BTE \u003cbr\u003e  [\u003cb\u003e2001\u003c/b\u003e] ￢ﾀﾜEconomic Costs of Natural Disasters in \u003cb\u003eAustralia\u003c/b\u003e￢ﾀﾝ, Bureau of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CEDIM - Mitarbeiter - Bijan Khazai",
+   "htmlTitle": "CEDIM - Mitarbeiter - Bijan Khazai",
+   "link": "http://www.cedim.de/15_925.php",
+   "displayLink": "www.cedim.de",
+   "snippet": "Jun 21, 2012 ... As a project specialist for Earthquake and Megacities Initiative (EMI), he has ...   2008), Sydney, Australia; 3-day Disaster Risk Reduction Workshop on ￢ﾀﾜUrban ...   Taiwan Earthquake of September 21, 1999, in Earthquake Spectra, Vol. 17A ...   Aspects of the February 28, 2001, Nisqually Earthquake in Olympia, ...",
+   "htmlSnippet": "Jun 21, 2012 \u003cb\u003e...\u003c/b\u003e As a project specialist for \u003cb\u003eEarthquake\u003c/b\u003e and Megacities Initiative (EMI), he has \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  2008), Sydney, \u003cb\u003eAustralia\u003c/b\u003e; 3-day Disaster Risk Reduction Workshop on ￢ﾀﾜUrban \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Taiwan \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eSeptember\u003c/b\u003e 21, 1999, in \u003cb\u003eEarthquake\u003c/b\u003e Spectra, Vol. 17A \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Aspects of the February \u003cb\u003e28\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, Nisqually \u003cb\u003eEarthquake\u003c/b\u003e in Olympia, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gUipYslzG1sJ",
+   "formattedUrl": "www.cedim.de/15_925.php",
+   "htmlFormattedUrl": "www.cedim.de/15_925.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cedim.de/img/content/Bijan_Khazai.jpg"
+     }
+    ],
+    "person": [
+     {
+      "org": "KIT"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "104",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTM-IExAJiOU2kYFxOzorv6z4S18GMVsaq3k2yDWXvOSICLCcDWfWNiQ"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Teodora Ladzhova",
+      "dc.creator": "Teodora Ladzhova",
+      "dc.date": "21.06.2012 14:57",
+      "dc.publisher": "Teodora Ladzhova",
+      "dc.contributor": "Teodora Ladzhova",
+      "dc.language": "de-de",
+      "dc.type": "Text",
+      "dc.format": "text/html",
+      "dc.coverage": "KIT",
+      "dc.rights": "Alle Rechte liegen beim Autor siehe Impressum",
+      "kit.visibility": "external",
+      "edit": "https://wsm6.scc.kit.edu/cms/ioRD.asp?Action=ShowLoginMask&LngId=&LanguageVariantGuid=F22B45D66A414ADEBB83E176AA197A99&ProjectGuid=FEC13A4CCC40497FAF1936336FCC8C8C&PageGuid=84A9A5FD386B4AA69B38F07986DA597D&LinkFromGuid=538713D99A0A4775A2CBA85445354EB5&NextModule=smartedit&admin=true",
+      "projguid": "FEC13A4CCC40497FAF1936336FCC8C8C",
+      "pageguid": "7BFCFADCE95C4EB0B974AEF2687A4351",
+      "dc.title": "CEDIM - Mitarbeiter"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dr. Ing. Bijan Khazai",
+      "url": "http://www.cedim.de/15_925.php",
+      "url_text": "/15_925.php"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "Issue date: Sep 13, 2011. Application number: 12/130,922 ...",
+   "htmlSnippet": "Issue date: \u003cb\u003eSep\u003c/b\u003e 13, 2011. Application number: 12/130,922 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   ..... Bass Strait, 17 September 1855, magnitude 5.5, just about felt by and ...",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Bass Strait, 17 \u003cb\u003eSeptember\u003c/b\u003e 1855, magnitude 5.5, just about felt by and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "tt-watch : Message: The Awakening 09-21-01 --- 09-28-01 page 1",
+   "htmlTitle": "tt-watch : Message: The Awakening 09-21-01 --- \u003cb\u003e09-28-01\u003c/b\u003e page 1",
+   "link": "http://dir.groups.yahoo.com/group/tt-watch/message/6591?o=1&d=-1",
+   "displayLink": "dir.groups.yahoo.com",
+   "snippet": "WELLINGTON, - A large earthquake shook the east coast ... Earthquake shakes   western Australian .... Updated as of Fri Sep 28 19:31:30 GMT 2001.",
+   "htmlSnippet": "WELLINGTON, - A large \u003cb\u003eearthquake\u003c/b\u003e shook the east coast \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e shakes \u003cbr\u003e  western \u003cb\u003eAustralian\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Updated as of Fri \u003cb\u003eSep 28\u003c/b\u003e 19:31:30 GMT \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "PELhw0fyHS4J",
+   "formattedUrl": "dir.groups.yahoo.com/group/tt-watch/message/6591?o=1&d...",
+   "htmlFormattedUrl": "dir.groups.yahoo.com/group/tt-watch/message/6591?o=1&amp;d..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on September 28 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eSeptember 28\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/sep28.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "Dates In History and September 28 in history. ... September 28, 1879 Sydney   Australia innaugurates steam motor tram route .... September 28, 2004 \"An   expected but overdue magnitude 6.0 earthquake hits Parkfield, California\" ...   September 28, 2001 Visitor posting - noor mohamed lokman born - United Arab   Emirates ...",
+   "htmlSnippet": "Dates In History and September 28 in history. \u003cb\u003e...\u003c/b\u003e September 28, 1879 Sydney \u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e innaugurates steam motor tram route \u003cb\u003e....\u003c/b\u003e September 28, 2004 &quot;An \u003cbr\u003e  expected but overdue magnitude 6.0 \u003cb\u003eearthquake\u003c/b\u003e hits Parkfield, California&quot; \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember 28\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e Visitor posting - noor mohamed lokman born - United Arab \u003cbr\u003e  Emirates \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NWagrYUFrwYJ",
+   "formattedUrl": "www.datesinhistory.com/sep28.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003esep28\u003c/b\u003e.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.datesinhistory.com/images/trivia-quiz.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "52",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzQXfxhdBylgplicgIGrVL90fJSA4n5ztBaC6yyTmPvDRuH6tCq6N4NQ"
+     }
+    ],
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.see.uwa.edu.au/welcome/seismicity_of_western_australia",
+   "displayLink": "www.seismicity.see.uwa.edu.au",
+   "snippet": "WEST AUSTRALIAN EARTHQUAKES BY REGION ... 28 Sep 2001, -30.536,   117.061, 5.2, Burakin. 28 Dec ...",
+   "htmlSnippet": "WEST \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e BY REGION \u003cb\u003e...\u003c/b\u003e \u003cb\u003e28 Sep 2001\u003c/b\u003e, -30.536, \u003cbr\u003e  117.061, 5.2, Burakin. 28 Dec \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5e31QRIrX_IJ",
+   "formattedUrl": "www.seismicity.see.uwa.edu.au/.../seismicity_of_western_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.see.uwa.edu.au/.../\u003cb\u003eseismic\u003c/b\u003eity_of_western_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32149"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "251",
+      "height": "201",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEhwAdfh2ft4Dj0q-qTfTF1lCs-bf_TkvzBTKrbWRaQ82WhAuKsnIyTa4"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity of Western Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/44594",
+      "dc.date.modified": "2011-08-24",
+      "dc.date.created": "2004-02-16",
+      "dc.date.valid": "2012-08-24",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/44594",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today in History September 28",
+   "htmlTitle": "Today in History \u003cb\u003eSeptember 28\u003c/b\u003e",
+   "link": "http://timelines.ws/days/09_28.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "(SFEM, 8/31/97, p.8,13)(SFEC, 7/11/99, BR p.6)(MC, 9/28/01) ..... 1969 Sep 28,   The Murchison Meteorite crashed into Australia. .... 1997 Sep 28, In Indonesia an   earthquake measuring 6.0 hit Sulawesi island and at least 7 people were killed.",
+   "htmlSnippet": "(SFEM, 8/31/97, p.8,13)(SFEC, 7/11/99, BR p.6)(MC, \u003cb\u003e9/28/01\u003c/b\u003e) \u003cb\u003e.....\u003c/b\u003e 1969 Sep 28, \u003cbr\u003e  The Murchison Meteorite crashed into \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 1997 Sep 28, In Indonesia an \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e measuring 6.0 hit Sulawesi island and at least 7 people were killed.",
+   "cacheId": "HwKkDVYDJIAJ",
+   "formattedUrl": "timelines.ws/days/09_28.HTML",
+   "htmlFormattedUrl": "timelines.ws/days/09_\u003cb\u003e28\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algis Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 28, 2001 10:24 Annual Reviews AR143-FM",
+   "htmlTitle": "\u003cb\u003eSeptember 28, 2001\u003c/b\u003e 10:24 Annual Reviews AR143-FM",
+   "link": "http://www.rwkates.org/pdfs/2001.01.pdf",
+   "displayLink": "www.rwkates.org",
+   "snippet": "September 28, 2001. 10:24. Annual Reviews .... locations are often sites of high   natural hazard￢ﾀﾔearthquakes where mountains meet the sea, coastal storms at ...",
+   "htmlSnippet": "\u003cb\u003eSeptember 28, 2001\u003c/b\u003e. 10:24. Annual Reviews \u003cb\u003e....\u003c/b\u003e locations are often sites of high \u003cbr\u003e  natural hazard￢ﾀﾔ\u003cb\u003eearthquakes\u003c/b\u003e where mountains meet the sea, coastal storms at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J71Fiew41yAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.rwkates.org/pdfs/2001.01.pdf",
+   "htmlFormattedUrl": "www.rwkates.org/pdfs/\u003cb\u003e2001\u003c/b\u003e.01.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20011003131131",
+      "producer": "Acrobat Distiller 2.0 for Macintosh",
+      "moddate": "D:20011006132100"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AUSTRALIAN EARTHQUAKE ENGINEERING: ACHIEVEMENTS ...",
+   "htmlTitle": "\u003cb\u003eAUSTRALIAN EARTHQUAKE\u003c/b\u003e ENGINEERING: ACHIEVEMENTS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.aees.org.au/Proceedings/2002_Papers/Papers_17_to_27.pdf",
+   "displayLink": "www.aees.org.au",
+   "snippet": "The Australian Earthquake Engineering Society was established in 1990 with the   ...... the 192 days from September 28th 2001 to June 30th 2002 on a log scale.",
+   "htmlSnippet": "The \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering Society was established in 1990 with the \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e the 192 days from \u003cb\u003eSeptember 28th 2001\u003c/b\u003e to June 30th 2002 on a log scale.",
+   "cacheId": "asmVY3xuWmoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.aees.org.au/Proceedings/2002_Papers/Papers_17_to_27.pdf",
+   "htmlFormattedUrl": "www.aees.org.au/Proceedings/2002_Papers/Papers_17_to_27.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20120806164719+10'00'",
+      "creator": "Canon iR-ADV C5035  PDF",
+      "moddate": "D:20120806173256+10'00'",
+      "producer": "Adobe Acrobat 10.0 Paper Capture Plug-in"
+     }
+    ]
+   }
+  }
+ ]
+}

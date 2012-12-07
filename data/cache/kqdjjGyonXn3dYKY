@@ -1,0 +1,306 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 13 1989 Eurasia Earthquake",
+    "totalResults": "16800",
+    "searchTerms": "Mar 13 1989 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 13 1989 Eurasia Earthquake",
+    "totalResults": "16800",
+    "searchTerms": "Mar 13 1989 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.301507,
+  "formattedSearchTime": "0.30",
+  "totalResults": "16800",
+  "formattedTotalResults": "16,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "On 13 April 1992 at 3:20 am, a 5.3 Mw quake with its epicentre 4 km southwest ....   p2; ^ \"Strong quake shakes Germany\", Spokane Chronicle, 13 March 1989, p.",
+   "htmlSnippet": "On 13 April 1992 at 3:20 am, a 5.3 Mw \u003cb\u003equake\u003c/b\u003e with its epicentre 4 km southwest \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  p2; ^ &quot;Strong \u003cb\u003equake\u003c/b\u003e shakes Germany&quot;, Spokane Chronicle, \u003cb\u003e13 March 1989\u003c/b\u003e, p.",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Spectral Discrimination between Explosions and Earthquakes in ...",
+   "htmlTitle": "Spectral Discrimination between Explosions and \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/dtic/tr/fulltext/u2/a230048.pdf",
+   "displayLink": "www.dtic.mil",
+   "snippet": "13. ABSTRACT (Maximum 200 words). -An analysis is performed of the .... (1908)  , Murphy and Bennett (1982), Bennett and Murphy (1989), and Taylor (1988)   have ... study the regional propagation of high-frequency seismic phases in   Eurasia at relatively ... 87071a Mar 12,1987071 01:57:17.2 49.94 78.82 000 5.5   8.6 ...",
+   "htmlSnippet": "\u003cb\u003e13\u003c/b\u003e. ABSTRACT (Maximum 200 words). -An analysis is performed of the \u003cb\u003e....\u003c/b\u003e (1908)\u003cbr\u003e  , Murphy and Bennett (1982), Bennett and Murphy (\u003cb\u003e1989\u003c/b\u003e), and Taylor (1988) \u003cbr\u003e  have \u003cb\u003e...\u003c/b\u003e study the regional propagation of high-frequency \u003cb\u003eseismic\u003c/b\u003e phases in \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e at relatively \u003cb\u003e...\u003c/b\u003e 87071a \u003cb\u003eMar\u003c/b\u003e 12,1987071 01:57:17.2 49.94 78.82 000 5.5 \u003cbr\u003e  8.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x3bNAZrlI28J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/dtic/tr/fulltext/u2/a230048.pdf",
+   "htmlFormattedUrl": "www.dtic.mil/dtic/tr/fulltext/u2/a230048.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "efa": "AUG 1990",
+      "de": "*EXPLOSIONS, *SEISMOLOGY, *SEISMIC DATA, RATIOS, NETWORKS, ALGEBRA, PATHS, DEPTH, FREQUENCY BANDS, SPECTRA, VERTICAL ORIENTATION, SCALE, MEASURING INSTRUMENTS, BROADBAND, HORIZONTAL ORIENTATION, DISCRIMINATION, EARTHQUAKES, TEST FACILITIES, EURASIA, PROPAGATION, CHINA, USSR, DIGITAL SYSTEMS",
+      "moddate": "D:20110514180755-04'00'",
+      "ds": "Approved for public release; distribution is unlimited.",
+      "tc": "UNCLASSIFIED",
+      "dcs": "UNCLASSIFIED",
+      "au": "Chan, W. W., Baumstark, R., Cessaro, R. K.",
+      "fg": "SEISMOLOGY, SEISMIC DETECTION AND DETECTORS, EXPLOSIONS",
+      "dc": "APPROVED FOR PUBLIC RELEASE",
+      "hdl": "http://handle.dtic.mil/100.2/ADA230048",
+      "ad": "ADA230048",
+      "ac": "UNCLASSIFIED",
+      "ci": "UNCLASSIFIED",
+      "producer": "; modified using iText 5.0.4 (c) 1T3XT BVBA",
+      "ab": "An analysis is performed of the seismic discrimination capabilities of regional phases recorded at the station WMQ in the Chinese Digital Seismic Network (CDSN). This station is located at regional distances from both the Soviet test site in E. Kazakhstan and the seismically active Tien Shan area. The study is based on 3 spectral ratio discriminants: Pg/Lg spectral ratios, Pg and Lg frequency band ratios, and vertical/horizontal spectral ratios. Both short- period and broad-band data are used. The Pg/Lg ratio is an effective discriminant between 3 and 12 Hz, and the vertical/horizontal ratios perform similarly to it, although in the case of Lg more study is needed to explain the value of this ratio. The Pg and Lg frequency band ratios were ineffective discriminants. The study attempts to identify the effects of propagation path and event depth on the discriminants. It appears that the spectral ratio discriminant remains effective for 2 earthquakes observed along paths close to the path from the test site to W",
+      "rs": "GL",
+      "pag": "58",
+      "gc": "5110",
+      "cs": "ACTIVE",
+      "ic": "UNCLASSIFIED",
+      "id": "REGIONAL PHASES, SPECTRAL RATIOS, THREE COMPONENT DATA, PE62714E",
+      "org": "INDUSTRIAL/COMMERCIAL",
+      "upd": "02 DEC 2009",
+      "an": "ADA230048",
+      "title": "Spectral Discrimination between Explosions and Earthquakes in Central Eurasia",
+      "dlc": "DTIC AND NTIS",
+      "rc": "UNCLASSIFIED",
+      "ti": "Spectral Discrimination between Explosions and Earthquakes in Central Eurasia",
+      "rd": "AUG 1990",
+      "rcc": "UNCLASSIFIED",
+      "ca": "TELEDYNE GEOTECH ALEXANDRIA VA",
+      "tt": "ACTIVE",
+      "rn": "SCIENTIFIC-1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The quest for the Africa￢ﾀﾓEurasia plate boundary west of the Strait of ...",
+   "htmlTitle": "The quest for the Africa￢ﾀﾓ\u003cb\u003eEurasia\u003c/b\u003e plate boundary west of the Strait of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.vliz.be/imisdocs/publications/214860.pdf",
+   "displayLink": "www.vliz.be",
+   "snippet": "of both plate tectonic theory and in the understanding of earthquake and tsunami   .... At Chron 13 (35 Ma) the plate boundary ... thrusting of the Betic￢ﾀﾓRif orogenic   arc (Dewey et al., 1989; Maldonado et al., 1999) ... Gibraltar Line; GC: Gulf of   Cadiz; GF: Gloria Fault; MAR: Mid-Atlantic Ridge; TR: Terceira Ridge. Solid   yellow ...",
+   "htmlSnippet": "of both plate tectonic theory and in the understanding of \u003cb\u003eearthquake\u003c/b\u003e and tsunami \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e At Chron \u003cb\u003e13\u003c/b\u003e (35 Ma) the plate boundary \u003cb\u003e...\u003c/b\u003e thrusting of the Betic￢ﾀﾓRif orogenic \u003cbr\u003e  arc (Dewey et al., \u003cb\u003e1989\u003c/b\u003e; Maldonado et al., 1999) \u003cb\u003e...\u003c/b\u003e Gibraltar Line; GC: Gulf of \u003cbr\u003e  Cadiz; GF: Gloria Fault; \u003cb\u003eMAR\u003c/b\u003e: Mid-Atlantic Ridge; TR: Terceira Ridge. Solid \u003cbr\u003e  yellow \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VIALFWCNfwEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.vliz.be/imisdocs/publications/214860.pdf",
+   "htmlFormattedUrl": "www.vliz.be/imisdocs/publications/214860.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090227132539+08'00'",
+      "author": "N. Zitellini; E. Grￃﾠcia; L. Matias; P. Terrinha; M.A. Abreu; G. DeAlteriis; J.P. Henriet; J.J. Daￃﾱobeitia; D.G. Masson; T. Mulder; R. Ramella; L. Somoza; S. Diez",
+      "creator": "Elsevier",
+      "authoritativedomain_1_": "elsevier.com",
+      "authoritativedomain_2_": "sciencedirect.com",
+      "moddate": "D:20101005105717+02'00'",
+      "title": "The quest for the Africa￢ﾀﾓEurasia plate boundary west of the Strait of Gibraltar"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Eurasia spreading basin to Laptev Shelf transition: structural pattern ...",
+   "htmlTitle": "\u003cb\u003eEurasia\u003c/b\u003e spreading basin to Laptev Shelf transition: structural pattern \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.geo.uni-bremen.de/sensorik/publikationen/Drachev_Kaul_GJI_152.pdf",
+   "displayLink": "www.geo.uni-bremen.de",
+   "snippet": "The high heat flow and the distribution of earthquake epicentres allow ... (  Sevmorneftegeofisika, Murmansk) in 1989, BGR (Federal Insti- .... only anomaly   13 (33 Ma. ..... Main structural elements of the Eastern Russian Arctic Continental   Mar- ...",
+   "htmlSnippet": "The high heat flow and the distribution of \u003cb\u003eearthquake\u003c/b\u003e epicentres allow \u003cb\u003e...\u003c/b\u003e (\u003cbr\u003e  Sevmorneftegeofisika, Murmansk) in \u003cb\u003e1989\u003c/b\u003e, BGR (Federal Insti- \u003cb\u003e....\u003c/b\u003e only anomaly \u003cbr\u003e  \u003cb\u003e13\u003c/b\u003e (33 Ma. \u003cb\u003e.....\u003c/b\u003e Main structural elements of the Eastern Russian Arctic Continental \u003cbr\u003e  \u003cb\u003eMar\u003c/b\u003e- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CLETSNkWpSAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geo.uni-bremen.de/sensorik/.../Drachev_Kaul_GJI_152.pdf",
+   "htmlFormattedUrl": "www.geo.uni-bremen.de/sensorik/.../Drachev_Kaul_GJI_152.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030208100752",
+      "producer": "Acrobat Distiller 4.05 for Macintosh",
+      "author": "pinnacle",
+      "creator": "Texturesￂﾨ: PSPrinter 8.3.1",
+      "title": "gji1882.tex",
+      "moddate": "D:20020210045726+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Regional stresses along the Eurasia-Africa plate boundary derived ...",
+   "htmlTitle": "Regional stresses along the \u003cb\u003eEurasia\u003c/b\u003e-Africa plate boundary derived \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/u0h166q721025040.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "Abstract--The focal mechanism solutions of 83 European earthquakes with M \u003e 6,   selected from .... (1989) have published a catalogue of focal mechanisms ... 13.   1946-04-05. 20 54 05. 35.25. 23.50. 100. 6. 14. 1947-06-04. 00 29 55 ..... PAYO,   G. (1975), Estructura, sismicidad y tect6nica del mar Mediterrdneo, Instituto ...",
+   "htmlSnippet": "Abstract--The focal mechanism solutions of 83 European \u003cb\u003eearthquakes\u003c/b\u003e with M &gt; 6, \u003cbr\u003e  selected from \u003cb\u003e....\u003c/b\u003e (\u003cb\u003e1989\u003c/b\u003e) have published a catalogue of focal mechanisms \u003cb\u003e...\u003c/b\u003e \u003cb\u003e13\u003c/b\u003e. \u003cbr\u003e  1946-04-05. 20 54 05. 35.25. 23.50. 100. 6. 14. 1947-06-04. 00 29 55 \u003cb\u003e.....\u003c/b\u003e PAYO, \u003cbr\u003e  G. (1975), Estructura, sismicidad y tect6nica del \u003cb\u003emar\u003c/b\u003e Mediterrdneo, Instituto \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "915141007.TIF",
+      "creationdate": "Mon Nov 29 11:50:47 2004",
+      "title": "Regional stresses along the Eurasia-Africa plate boundary derived from focal mechanisms of large earthquakes",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20041209041100+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1989 Oct 17, The 7.1 Loma Prieta earthquake [Watsonville] hit the Bay Area   minutes ... 1992 Mar 13, Some 498 died in an earthquake at Erzincan, Turkey. .....   300 miles south of the boundary between the Indo-Australian and Eurasian   Plates.",
+   "htmlSnippet": "\u003cb\u003e1989\u003c/b\u003e Oct 17, The 7.1 Loma Prieta \u003cb\u003eearthquake\u003c/b\u003e [Watsonville] hit the Bay Area \u003cbr\u003e  minutes \u003cb\u003e...\u003c/b\u003e 1992 \u003cb\u003eMar 13\u003c/b\u003e, Some 498 died in an \u003cb\u003eearthquake\u003c/b\u003e at Erzincan, Turkey. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  300 miles south of the boundary between the Indo-Australian and \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  Plates.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Closure of the Africa-Eurasia-North America Plate Motion Circuit and ...",
+   "htmlTitle": "Closure of the Africa-\u003cb\u003eEurasia\u003c/b\u003e-North America Plate Motion Circuit and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.geology.wisc.edu/~chuck/PDF/argus_jgr89.pdf",
+   "displayLink": "www.geology.wisc.edu",
+   "snippet": "94, NO. B5, PAGES 5585*5602, MAY 10, 1989. Closure of the ... From marine   geophysical data we obtain 13 transform fault azimuths .... Map showing   earthquakes shallower than 100-km depth (reported in the Earthquake Data File   of the. National ..... 36.23 -7.61 145 25 126.1 0.119 Grimison and Chen [1986]   Mar. 15, 1964 ...",
+   "htmlSnippet": "94, NO. B5, PAGES 5585*5602, MAY 10, \u003cb\u003e1989\u003c/b\u003e. Closure of the \u003cb\u003e...\u003c/b\u003e From marine \u003cbr\u003e  geophysical data we obtain \u003cb\u003e13\u003c/b\u003e transform fault azimuths \u003cb\u003e....\u003c/b\u003e Map showing \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e shallower than 100-km depth (reported in the \u003cb\u003eEarthquake\u003c/b\u003e Data File \u003cbr\u003e  of the. National \u003cb\u003e.....\u003c/b\u003e 36.23 -7.61 145 25 126.1 0.119 Grimison and Chen [1986] \u003cbr\u003e  \u003cb\u003eMar\u003c/b\u003e. 15, 1964 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NjUS0VjX3BYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geology.wisc.edu/~chuck/PDF/argus_jgr89.pdf",
+   "htmlFormattedUrl": "www.geology.wisc.edu/~chuck/PDF/argus_jgr89.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Adobe Acrobat 6.0",
+      "creator": "Adobe Acrobat 6.0",
+      "creationdate": "Fri Apr 28 07:09:39 2006",
+      "moddate": "Fri Apr 28 07:09:40 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Recent tectonic reorganization of the Nubia-Eurasia convergent ...",
+   "htmlTitle": "Recent tectonic reorganization of the Nubia-\u003cb\u003eEurasia\u003c/b\u003e convergent \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.andreabilli.com/2011_Billietal_BSGF.pdf",
+   "displayLink": "www.andreabilli.com",
+   "snippet": "northward subduction beneath Eurasia, subduction has almost ceased, as well   as convergence .... earthquakes and related destructive tsunamis are generated ...",
+   "htmlSnippet": "northward subduction beneath \u003cb\u003eEurasia\u003c/b\u003e, subduction has almost ceased, as well \u003cbr\u003e  as convergence \u003cb\u003e....\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e and related destructive tsunamis are generated \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SH_DnzWrqWYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.andreabilli.com/2011_Billietal_BSGF.pdf",
+   "htmlFormattedUrl": "www.andreabilli.com/2011_Billietal_BSGF.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110718152129+02'00'",
+      "moddate": "D:20110719095913+02'00'",
+      "producer": "Acrobat Distiller 9.4.5 (Windows)",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Neotectonic modelling of the western part of the Africa^Eurasia plate ...",
+   "htmlTitle": "Neotectonic modelling of the western part of the Africa^\u003cb\u003eEurasia\u003c/b\u003e plate \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.topomod.eu/wp-content/uploads/2012/02/Jimenez-MuntNegredo_EPSL2003_MAR-Algeria.pdf",
+   "displayLink": "www.topomod.eu",
+   "snippet": "From 20￢ﾀﾡW to 13￢ﾀﾡW the boundary is E^W ori- ented, currently marked by an   alignment of large right lateral strike-slip earthquakes. However, the area of the ...",
+   "htmlSnippet": "From 20￢ﾀﾡW to \u003cb\u003e13\u003c/b\u003e￢ﾀﾡW the boundary is E^W ori- ented, currently marked by an \u003cbr\u003e  alignment of large right lateral strike-slip \u003cb\u003eearthquakes\u003c/b\u003e. However, the area of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dCs2uSp2P-8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.topomod.eu/.../Jimenez-MuntNegredo_EPSL2003_MAR-Algeria.pdf",
+   "htmlFormattedUrl": "www.topomod.eu/.../Jimenez-MuntNegredo_EPSL2003_\u003cb\u003eMAR\u003c/b\u003e-Algeria.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030106133705",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing System 7.51f/W",
+      "title": "PII: S0012-821X(02)01045-2",
+      "moddate": "D:20030106134040+01'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

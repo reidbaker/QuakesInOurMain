@@ -1,0 +1,300 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 26 1755 Eurasia Earthquake",
+    "totalResults": "1150",
+    "searchTerms": "Dec 26 1755 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 26 1755 Eurasia Earthquake",
+    "totalResults": "1150",
+    "searchTerms": "Dec 26 1755 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.246175,
+  "formattedSearchTime": "0.25",
+  "totalResults": "1150",
+  "formattedTotalResults": "1,150"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquakes in Germany are relatively weak but occur several times a year,   some of ... as the African Plate continues to push northwards into the Eurasian   Plate. .... 26￢ﾀﾓ27 December 1755, Aachen, unknown, Several moderate   earthquakes in ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany are relatively weak but occur several times a year, \u003cbr\u003e  some of \u003cb\u003e...\u003c/b\u003e as the African Plate continues to push northwards into the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  Plate. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e26\u003c/b\u003e￢ﾀﾓ27 December 1755, Aachen, unknown, Several moderate \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California Seismic Safety Commission",
+   "htmlTitle": "California \u003cb\u003eSeismic\u003c/b\u003e Safety Commission",
+   "link": "http://www.seismic.ca.gov/tsunami.html",
+   "displayLink": "www.seismic.ca.gov",
+   "snippet": "SEISMIC SAFETY COMMISSION 1755 Creekside Oaks Drive, ... A magnitude 9.0   (Mw) earthquake occurred on Sunday December 26 at 00:58 UTC of 6:58 ... of   the Eurasian plate at a rate of approximately 5 cm/yr (about two inches per year).",
+   "htmlSnippet": "\u003cb\u003eSEISMIC\u003c/b\u003e SAFETY COMMISSION \u003cb\u003e1755\u003c/b\u003e Creekside Oaks Drive, \u003cb\u003e...\u003c/b\u003e A magnitude 9.0 \u003cbr\u003e  (Mw) \u003cb\u003eearthquake\u003c/b\u003e occurred on Sunday \u003cb\u003eDecember 26\u003c/b\u003e at 00:58 UTC of 6:58 \u003cb\u003e...\u003c/b\u003e of \u003cbr\u003e  the \u003cb\u003eEurasian\u003c/b\u003e plate at a rate of approximately 5 cm/yr (about two inches per year).",
+   "cacheId": "TZJDD3sPIRAJ",
+   "formattedUrl": "www.seismic.ca.gov/tsunami.html",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003e.ca.gov/tsunami.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismic.ca.gov/images/tsunamiwave.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "230",
+      "height": "190",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4i2PiOcX-t5Ve_eVeM-4CFLWcy4sRDf2CU8-lDlV0emBbrs5LNAP47C0-"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "J. Marso, SDSU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2004 Indian Ocean earthquake and tsunami - Wikipedia, the free ...",
+   "htmlTitle": "2004 Indian Ocean \u003cb\u003eearthquake\u003c/b\u003e and tsunami - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... (which is considered a portion of the great Eurasian Plate) at the Sunda Trench  . ... Some scientists confirm that the December earthquake had activated Leuser   ..... The most deadly tsunami in the Atlantic Ocean resulted from the 1755 Lisbon   .... The 26 December 2004 Asian Tsunami left both the people and government ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e (which is considered a portion of the great \u003cb\u003eEurasian\u003c/b\u003e Plate) at the Sunda Trench\u003cbr\u003e  . \u003cb\u003e...\u003c/b\u003e Some scientists confirm that the \u003cb\u003eDecember earthquake\u003c/b\u003e had activated Leuser \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e The most deadly tsunami in the Atlantic Ocean resulted from the \u003cb\u003e1755\u003c/b\u003e Lisbon \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e The \u003cb\u003e26 December\u003c/b\u003e 2004 Asian Tsunami left both the people and government \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YgkYduBbFG4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2004_Indian_Ocean_\u003cb\u003eearthquake\u003c/b\u003e_and_tsunami",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2004-tsunami.jpg/240px-2004-tsunami.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "139",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTubUfRt9lVX314J0SMfANqXffgrmQHZJPdW_SgZ2FKwlQ9rDQCu1iVFBPj"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunamis and Jamaica",
+   "htmlTitle": "Tsunamis and Jamaica",
+   "link": "http://www.mona.uwi.edu/earthquake/files/TsunamisandJamaica.pdf",
+   "displayLink": "www.mona.uwi.edu",
+   "snippet": "Indian Ocean on December 26, 2004 many times and each time I tried to say the   same thing. .... Back in 1755 the great Lisbon earthquake, so-called because of ...",
+   "htmlSnippet": "Indian Ocean on \u003cb\u003eDecember 26\u003c/b\u003e, 2004 many times and each time I tried to say the \u003cbr\u003e  same thing. \u003cb\u003e....\u003c/b\u003e Back in \u003cb\u003e1755\u003c/b\u003e the great Lisbon \u003cb\u003eearthquake\u003c/b\u003e, so-called because of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DVR6IUfkhpkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.mona.uwi.edu/earthquake/files/TsunamisandJamaica.pdf",
+   "htmlFormattedUrl": "www.mona.uwi.edu/\u003cb\u003eearthquake\u003c/b\u003e/files/TsunamisandJamaica.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 8.15",
+      "creationdate": "D:20070108140557",
+      "moddate": "D:20070108140557",
+      "title": "Microsoft Word - EARTHQUAKE AWARENESS WEEK- Info for Supplement2.doc",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "gparagh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.0 - 9km ESE of Symi, Greece 2012-11-26 17:35:41 UTC",
+   "htmlTitle": "M5.0 - 9km ESE of Symi, Greece 2012-11-\u003cb\u003e26\u003c/b\u003e 17:35:41 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dyed",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 26, 2012 ... M5.0 - 9km ESE of Symi, Greece 2012-11-26 17:35:41 UTC. DYFI? - IV.   Earthquake location 36.581ￂﾰN, 27.939ￂﾰE ￂﾷ Google Earth KML ...",
+   "htmlSnippet": "Nov 26, 2012 \u003cb\u003e...\u003c/b\u003e M5.0 - 9km ESE of Symi, Greece 2012-11-\u003cb\u003e26\u003c/b\u003e 17:35:41 UTC. DYFI? - IV. \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e location 36.581ￂﾰN, 27.939ￂﾰE &middot; Google Earth KML \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1GA6tCbH3wcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dyed",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dyed"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Bam Earthquake of 26",
+   "htmlTitle": "The Bam \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003e26\u003c/b\u003e",
+   "link": "http://www.preventionweb.net/files/2770_Ali20Manafpour20Bam20report20pre20review.pdf",
+   "displayLink": "www.preventionweb.net",
+   "snippet": "26 DECEMBER 2003 ... The Bam Earthquake of 26th December 2003 ..... The   Iranian plateau is part of the major Eurasian plate with the tectonic setting of the   .... 150 240. Kerman2. 181 57.07 30.28 19.2 8.32 30.6 187. 175. 1755. 140 230 ...",
+   "htmlSnippet": "\u003cb\u003e26 DECEMBER\u003c/b\u003e 2003 \u003cb\u003e...\u003c/b\u003e The Bam \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003e26th December\u003c/b\u003e 2003 \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  Iranian plateau is part of the major \u003cb\u003eEurasian\u003c/b\u003e plate with the tectonic setting of the \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 150 240. Kerman2. 181 57.07 30.28 19.2 8.32 30.6 187. 175. \u003cb\u003e1755\u003c/b\u003e. 140 230 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.preventionweb.net/.../2770_ Ali20Manafpour20Bam20report20pre20review.pdf",
+   "htmlFormattedUrl": "www.preventionweb.net/.../2770_ Ali20Manafpour20Bam20report20pre20review.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20050209170130Z",
+      "creationdate": "D:20050209150459Z",
+      "title": "Bam Earthquake",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "author": "Ali R Manafpour",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "company": "Halcrow Group Ltd",
+      "sourcemodified": "D:20050209145627"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2004 Indian Ocean earthquake - New World Encyclopedia",
+   "htmlTitle": "2004 Indian Ocean \u003cb\u003eearthquake\u003c/b\u003e - New World Encyclopedia",
+   "link": "http://www.newworldencyclopedia.org/entry/2004_Indian_Ocean_earthquake",
+   "displayLink": "www.newworldencyclopedia.org",
+   "snippet": "Oct 19, 2009 ... Date, December 26, 2004 .... The India Plate meets the Burma Plate (considered   a portion of the great Eurasian Plate) at the Sunda Trench. ... Some scientists   confirm that the December earthquake had ..... The most deadly tsunami in the   Atlantic Ocean resulted from the 1755 Lisbon earthquake, which, ...",
+   "htmlSnippet": "Oct 19, 2009 \u003cb\u003e...\u003c/b\u003e Date, \u003cb\u003eDecember 26\u003c/b\u003e, 2004 \u003cb\u003e....\u003c/b\u003e The India Plate meets the Burma Plate (considered \u003cbr\u003e  a portion of the great \u003cb\u003eEurasian\u003c/b\u003e Plate) at the Sunda Trench. \u003cb\u003e...\u003c/b\u003e Some scientists \u003cbr\u003e  confirm that the \u003cb\u003eDecember earthquake\u003c/b\u003e had \u003cb\u003e.....\u003c/b\u003e The most deadly tsunami in the \u003cbr\u003e  Atlantic Ocean resulted from the \u003cb\u003e1755\u003c/b\u003e Lisbon \u003cb\u003eearthquake\u003c/b\u003e, which, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "f5lq34efDhoJ",
+   "formattedUrl": "www.newworldencyclopedia.org/.../2004_Indian_Ocean_earthquake",
+   "htmlFormattedUrl": "www.newworldencyclopedia.org/.../2004_Indian_Ocean_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.newworldencyclopedia.org/thumb/2/2d/2004-tsunami.jpg/240px-2004-tsunami.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "139",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR224HCWPu1opYDMCiULy0BOYW_RDC2kWC3CFH1-vrpAyTD3VXT8GrR_1p1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What do we know about tsunami throughout history",
+   "htmlTitle": "What do we know about tsunami throughout history",
+   "link": "http://beachsafe.org.au/tsunami/ema/pages/05_history.html",
+   "displayLink": "beachsafe.org.au",
+   "snippet": "... undersea earthquake and tsunami occurred on 1 November 1755 at 9:40am. ...   Geologists today estimate that the Lisbon earthquake was a magnitude 9 event.   ... On the morning of 26 December 2004 a magnitude 9.3 undersea earthquake ...   of Sumatra, where the Indo-Australian Plate is sliding under the Eurasian Plate.",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e undersea \u003cb\u003eearthquake\u003c/b\u003e and tsunami occurred on 1 November \u003cb\u003e1755\u003c/b\u003e at 9:40am. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Geologists today estimate that the Lisbon \u003cb\u003eearthquake\u003c/b\u003e was a magnitude 9 event. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e On the morning of \u003cb\u003e26 December\u003c/b\u003e 2004 a magnitude 9.3 undersea \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  of Sumatra, where the Indo-Australian Plate is sliding under the \u003cb\u003eEurasian\u003c/b\u003e Plate.",
+   "cacheId": "z_UMAQ0aqPUJ",
+   "formattedUrl": "beachsafe.org.au/tsunami/ema/pages/05_history.html",
+   "htmlFormattedUrl": "beachsafe.org.au/tsunami/ema/pages/05_history.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://beachsafe.org.au/tsunami/ema/images/historyMapsm.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "273",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkrwaJrtXEbrul65MPnvBIXSdgicN2wH8zs-IEo92x8EmzmQtvm5b18lNm"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "On the December 26, 2003, southeastern Iran earthquake in Bam ...",
+   "htmlTitle": "On the \u003cb\u003eDecember 26\u003c/b\u003e, 2003, southeastern Iran \u003cb\u003eearthquake\u003c/b\u003e in Bam \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.sciencedirect.com/science/article/pii/S0141029604000732",
+   "displayLink": "www.sciencedirect.com",
+   "snippet": "In this paper, the December 26, 2003, earthquake in the historical city of Bam is ...   is located at the intersection of three tectonic plates, namely Arabian, Eurasian,   .... 21, Kerman 2, 3175, 57.07, 30.28, 58.40, 29.21, 175, 19.24, 8.32, 30.64, 1755 ...",
+   "htmlSnippet": "In this paper, the \u003cb\u003eDecember 26\u003c/b\u003e, 2003, \u003cb\u003eearthquake\u003c/b\u003e in the historical city of Bam is \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  is located at the intersection of three tectonic plates, namely Arabian, \u003cb\u003eEurasian\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 21, Kerman 2, 3175, 57.07, 30.28, 58.40, 29.21, 175, 19.24, 8.32, 30.64, \u003cb\u003e1755\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.sciencedirect.com/science/article/pii/S0141029604000732",
+   "htmlFormattedUrl": "www.sciencedirect.com/science/article/pii/S0141029604000732",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ars.els-cdn.com/content/image/1-s2.0-S0141029604000732-gr6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "215",
+      "height": "235",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwkpax_NNbFdewZiToJaWZ-CbDwLoQljUSwKPYhmtn7U9sYdWGiiWUeS4"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_publisher": "Elsevier",
+      "citation_journal_title": "Engineering Structures",
+      "citation_issn": "0141-0296",
+      "citation_volume": "26",
+      "citation_issue": "8",
+      "citation_date": "2004/07/31",
+      "citation_title": "On the December 26, 2003, southeastern Iran earthquake in Bam region",
+      "citation_firstpage": "1055",
+      "citation_lastpage": "1070",
+      "citation_type": "JOUR",
+      "citation_pii": "S0141029604000732",
+      "citation_doi": "10.1016/j.engstruct.2004.03.006",
+      "citation_authors": "Ahmadizadeh, M;Shakib, H"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Coping With A National Calamity Eurasia Review",
+   "htmlTitle": "Japan Coping With A National Calamity \u003cb\u003eEurasia\u003c/b\u003e Review",
+   "link": "http://www.eurasiareview.com/16032011-japan-coping-with-a-national-calamity/",
+   "displayLink": "www.eurasiareview.com",
+   "snippet": "Mar 16, 2011 ... Japan is known for its tsunami-causing earthquakes. ... and (e) the December 26,   2004 Indian Ocean tsunami which killed over 300,000 people ...",
+   "htmlSnippet": "Mar 16, 2011 \u003cb\u003e...\u003c/b\u003e Japan is known for its tsunami-causing \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e and (e) the \u003cb\u003eDecember 26\u003c/b\u003e, \u003cbr\u003e  2004 Indian Ocean tsunami which killed over 300,000 people \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "I1NdpVKgftwJ",
+   "formattedUrl": "www.eurasiareview.com/16032011-japan-coping-with-a-national-calamity/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeurasia\u003c/b\u003ereview.com/16032011-japan-coping-with-a-national-calamity/"
+  }
+ ]
+}
