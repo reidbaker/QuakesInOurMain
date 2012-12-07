@@ -143,12 +143,17 @@ public class Workspace extends AbstractVisualization implements Interactable {
 
 	    UIUtils.roundRect(bx, by, buttonWidth, buttonHeight, CORNER_RADIUS,
 		    parent);
+	    parent.rectMode(PApplet.CORNER);
 	    parent.fill(Theme.getDarkUIColor());
 	    parent.textAlign(PApplet.CENTER, PApplet.CENTER);
-	    int size = Math.min(buttonWidth, buttonHeight);
-	    parent.textSize(size - 2);
-	    parent.text("" + (i + 1), bx + buttonWidth / 2, by + buttonHeight
-		    / 2);
+
+	    parent.textSize(16);
+
+	    parent.pushMatrix();
+	    parent.translate(bx + buttonWidth, by + 5);
+	    parent.rotate(PApplet.PI / 2);
+	    parent.text(av.getTitle(), 0, 0, buttonHeight - 10, buttonWidth);
+	    parent.popMatrix();
 	    i++;
 	}
     }
@@ -158,59 +163,55 @@ public class Workspace extends AbstractVisualization implements Interactable {
 	super.resizeTo(bounds);
 	int index = 0;
 
-	// Determine vis aspect ratio
-	int width = (bounds.width - BAR_WIDTH - 10) / openVises.size();
-	int height = bounds.height;
-	int numRows = 1;
-	int maxPerRow = openVises.size();
+	if (openVises.size() > 0) {
+	    // Determine vis aspect ratio
+	    int width = (bounds.width - BAR_WIDTH - 10) / openVises.size();
+	    int height = bounds.height;
+	    int numRows = 1;
+	    int maxPerRow = openVises.size();
 
-	while (height / (float) width > 2.0f) {
-	    numRows++;
-	    maxPerRow = openVises.size() / numRows;
-	    if (openVises.size() % numRows != 0) {
-		maxPerRow++;
-	    }
-	    width = (bounds.width - BAR_WIDTH - 10) / maxPerRow;
-	    height = bounds.height / numRows;
-	}
-
-	int indexInRow = 0;
-	int rowCount = 0;
-	int lastRowCount = -1;
-
-	while (index < openVises.size()) {
-	    int drawX = 0;
-	    int drawWidth = 0;
-	    if (rowCount < numRows - 1) {
-		drawX = bounds.x
-		        + (indexInRow * (bounds.width - BAR_WIDTH - 10) / maxPerRow);
-		drawWidth = (bounds.width - BAR_WIDTH - 10) / maxPerRow;
-	    } else {
-		if(lastRowCount == -1){
-		    lastRowCount = openVises.size() - index;
+	    while (height / (float) width > 2.0f) {
+		numRows++;
+		maxPerRow = openVises.size() / numRows;
+		if (openVises.size() % numRows != 0) {
+		    maxPerRow++;
 		}
-		drawX = bounds.x
-		        + (indexInRow * (bounds.width - BAR_WIDTH - 10) / lastRowCount);
-		drawWidth = (bounds.width - BAR_WIDTH - 10) / lastRowCount;
+		width = (bounds.width - BAR_WIDTH - 10) / maxPerRow;
+		height = bounds.height / numRows;
 	    }
-	    
-	    openVises.get(index).resizeTo(new Rectangle(drawX, y + bounds.height * rowCount / numRows, drawWidth, height));
-	    
-	    indexInRow++;
-	    if (indexInRow == maxPerRow) {
-		rowCount++;
-		indexInRow = 0;
-	    }
-	    index++;
-	}
 
-//	for (AbstractVisualization v : openVises) {
-//	    v.resizeTo(new Rectangle(bounds.x
-//		    + (index * (bounds.width - BAR_WIDTH - 10) / openVises
-//		            .size()), bounds.y, (bounds.width - BAR_WIDTH - 10)
-//		    / openVises.size(), bounds.height));
-//	    index++;
-//	}
+	    int indexInRow = 0;
+	    int rowCount = 0;
+	    int lastRowCount = -1;
+
+	    while (index < openVises.size()) {
+		int drawX = 0;
+		int drawWidth = 0;
+		if (rowCount < numRows - 1) {
+		    drawX = bounds.x
+			    + (indexInRow * (bounds.width - BAR_WIDTH - 10) / maxPerRow);
+		    drawWidth = (bounds.width - BAR_WIDTH - 10) / maxPerRow;
+		} else {
+		    if (lastRowCount == -1) {
+			lastRowCount = openVises.size() - index;
+		    }
+		    drawX = bounds.x
+			    + (indexInRow * (bounds.width - BAR_WIDTH - 10) / lastRowCount);
+		    drawWidth = (bounds.width - BAR_WIDTH - 10) / lastRowCount;
+		}
+
+		openVises.get(index).resizeTo(
+		        new Rectangle(drawX, y + bounds.height * rowCount
+		                / numRows, drawWidth, height));
+
+		indexInRow++;
+		if (indexInRow == maxPerRow) {
+		    rowCount++;
+		    indexInRow = 0;
+		}
+		index++;
+	    }
+	}
     }
 
     @Subscribe

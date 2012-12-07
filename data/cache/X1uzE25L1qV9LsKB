@@ -1,0 +1,69 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 14 1990 Africa Earthquake",
+    "totalResults": "1",
+    "searchTerms": "Nov 14 1990 Africa Earthquake",
+    "count": 1,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.415311,
+  "formattedSearchTime": "0.42",
+  "totalResults": "1",
+  "formattedTotalResults": "1"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent EP1601758B1 - Polynucleotides and polypeptides in plants ...",
+   "htmlTitle": "Patent EP1601758B1 - Polynucleotides and polypeptides in plants \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/EP1601758B1?cl=en",
+   "displayLink": "www.google.com",
+   "snippet": "Publication date, Nov 14, 2012. Filing date, Feb 25 .... In the Horn of Africa the   1984-1985 drought led to a famine that killed 750,000 people. [0012] Problems   for ...",
+   "htmlSnippet": "Publication date, \u003cb\u003eNov 14\u003c/b\u003e, 2012. Filing date, Feb 25 \u003cb\u003e....\u003c/b\u003e In the Horn of \u003cb\u003eAfrica\u003c/b\u003e the \u003cbr\u003e  1984-1985 drought led to a famine that killed 750,000 people. [0012] Problems \u003cbr\u003e  for \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/EP1601758B1?cl=en",
+   "htmlFormattedUrl": "www.google.com/patents/EP1601758B1?cl=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "book": [
+     {
+      "description": "www.google.com",
+      "url": "http://www.google.com/patents/EP1601758B1?cl=en&utm_source=gb-gplus-share",
+      "name": "Patent EP1601758B1 - Polynucleotides and polypeptides in plants",
+      "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/EP1601758B1?cl=en",
+      "title": "Patent EP1601758B1 - Polynucleotides and polypeptides in plants",
+      "og:title": "Patent EP1601758B1 - Polynucleotides and polypeptides in plants",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

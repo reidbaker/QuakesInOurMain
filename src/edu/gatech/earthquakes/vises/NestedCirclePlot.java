@@ -27,7 +27,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 
     public NestedCirclePlot(int x, int y, int w, int h, DataSet displayData,
             String dataType, int numTotalQuakes) {
-        super(x, y, w, h, displayData, "Earthquake Type by Continent");
+        super(x, y, w, h, displayData, "Type by Continent");
         this.dataType = dataType;
         this.numTotalQuakes = numTotalQuakes;
 

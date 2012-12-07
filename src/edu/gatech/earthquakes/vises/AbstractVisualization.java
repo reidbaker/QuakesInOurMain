@@ -2,8 +2,6 @@ package edu.gatech.earthquakes.vises;
 
 import java.awt.Rectangle;
 
-import com.sun.xml.internal.bind.v2.schemagen.xmlschema.NoFixedFacet;
-
 import processing.core.PApplet;
 import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.interfaces.Drawable;
@@ -108,5 +106,9 @@ public abstract class AbstractVisualization implements Drawable, Resizable {
 	    this.w = fb.width - (FRAME_LEFT + FRAME_RIGHT);
 	    this.h = fb.height - (FRAME_TOP + FRAME_BOTTOM);
 	}
+    }
+    
+    public String getTitle(){
+	return title;
     }
 }
