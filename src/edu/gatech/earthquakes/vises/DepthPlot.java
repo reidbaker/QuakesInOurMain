@@ -2,6 +2,7 @@ package edu.gatech.earthquakes.vises;
 
 import java.awt.Rectangle;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.HashSet;
 
@@ -53,6 +54,8 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 				parent.ellipse(drawingCoordinates[i][0], drawingCoordinates[i][1], quakeRadii[i]*2,quakeRadii[i]*2);
 			}
 		}
+		
+		drawAxes(parent);
 	}
 	
 	
@@ -142,10 +145,17 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 			else if(curMag > magRange[1])
 				magRange[1] = curMag;
 		}
+		//System.out.println(depthRange[1]);
 	}
 	
 	private void drawAxes(PApplet parent){
-	    
+	    int verticalOffset = h/20;
+	    //int depthOffset = depth[1
+	   // System.out.println(verticalOffset);
+	    for(int i=0; i< depthRange[1]; i+= verticalOffset ){
+	        parent.line(x+buffer-2, y+buffer+i, x+buffer+2, y+buffer+i);
+	        parent.text(i+"", x+buffer/2, y+buffer+i);
+	    }
 	}
 
 	@Override
