@@ -1,0 +1,252 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 12 1959 India Earthquake",
+    "totalResults": "123000",
+    "searchTerms": "Oct 12 1959 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 12 1959 India Earthquake",
+    "totalResults": "123000",
+    "searchTerms": "Oct 12 1959 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.289722,
+  "formattedSearchTime": "0.29",
+  "totalResults": "123000",
+  "formattedTotalResults": "123,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on October 12 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eOctober 12\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/oct12.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "October 12, 1959 At the national congress of APRA in Peru a group of leftist   radicals ... began assisting the victims of the massive earthquake which   devastated the ... October 12, 2009 India test fires two medium range Prithvi II   missiles in the ...",
+   "htmlSnippet": "\u003cb\u003eOctober 12, 1959\u003c/b\u003e At the national congress of APRA in Peru a group of leftist \u003cbr\u003e  radicals \u003cb\u003e...\u003c/b\u003e began assisting the victims of the massive \u003cb\u003eearthquake\u003c/b\u003e which \u003cbr\u003e  devastated the \u003cb\u003e...\u003c/b\u003e October 12, 2009 \u003cb\u003eIndia\u003c/b\u003e test fires two medium range Prithvi II \u003cbr\u003e  missiles in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jKQ-dNoLPowJ",
+   "formattedUrl": "www.datesinhistory.com/oct12.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eoct12\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 5 1941￢ﾀﾓ1950  ; 6 1951￢ﾀﾓ1960; 7 1961￢ﾀﾓ1970; 8 1971￢ﾀﾓ1980; 9 1981￢ﾀﾓ1990; 10 1991￢ﾀﾓ2000; 11   See also; 12 References ..... see 1959 Kamchatka earthquake, 53.37, 159.66, 1,   8.0, Mw ..... October 31, 2002. http://news.bbc.co.uk/2/hi/europe/2381585.stm.",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 5 1941￢ﾀﾓ1950\u003cbr\u003e  ; 6 1951￢ﾀﾓ1960; 7 1961￢ﾀﾓ1970; 8 1971￢ﾀﾓ1980; 9 1981￢ﾀﾓ1990; 10 1991￢ﾀﾓ2000; 11 \u003cbr\u003e  See also; \u003cb\u003e12\u003c/b\u003e References \u003cb\u003e.....\u003c/b\u003e see \u003cb\u003e1959\u003c/b\u003e Kamchatka \u003cb\u003eearthquake\u003c/b\u003e, 53.37, 159.66, 1, \u003cbr\u003e  8.0, Mw \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eOctober\u003c/b\u003e 31, 2002. http://news.bbc.co.uk/2/hi/europe/2381585.stm.",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... 1819 06 16 - Gujarat, India Fatalities 2,000; 1897 06 12 - Assam, India .... Mexico   - M 7.9 Fatalities 68; 1959 08 26 - Vera Cruz, Mexico - M 6.8 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e 1819 06 16 - Gujarat, \u003cb\u003eIndia\u003c/b\u003e Fatalities 2,000; 1897 06 \u003cb\u003e12\u003c/b\u003e - Assam, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Mexico \u003cbr\u003e  - M 7.9 Fatalities 68; \u003cb\u003e1959\u003c/b\u003e 08 26 - Vera Cruz, Mexico - M 6.8 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "October 12 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eOctober 12\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/October_12",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "October 12 is the 285th day of the year (286th in leap years) in the Gregorian   calendar. .... Jaffna University Helidrop: Commandos of Indian Peace Keeping   Force raided the Jaffna University campus to capture the LTTE chief ... 1992 ￢ﾀﾓ 5.8   earthquake occurred in Cairo, Egypt. ... 1959); 1904 ￢ﾀﾓ Ding Ling, Chinese author   (d.",
+   "htmlSnippet": "\u003cb\u003eOctober 12\u003c/b\u003e is the 285th day of the year (286th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e....\u003c/b\u003e Jaffna University Helidrop: Commandos of \u003cb\u003eIndian\u003c/b\u003e Peace Keeping \u003cbr\u003e  Force raided the Jaffna University campus to capture the LTTE chief \u003cb\u003e...\u003c/b\u003e 1992 ￢ﾀﾓ 5.8 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e occurred in Cairo, Egypt. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1959\u003c/b\u003e); 1904 ￢ﾀﾓ Ding Ling, Chinese author \u003cbr\u003e  (d.",
+   "cacheId": "NLDzP34uAewJ",
+   "formattedUrl": "en.wikipedia.org/wiki/October_12",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eOctober\u003c/b\u003e_\u003cb\u003e12\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1865 Oct 8-1865 Oct 9, An earthquake hit San Francisco. (SFC, 4/14/96, ... 1897   Jun 12, Possibly the most severe quake in history struck Assam, India. .... 1959   Mar 3, A SF Bay Area earthquake measured 5.5 on the Richter scale in Berkeley.",
+   "htmlSnippet": "1865 \u003cb\u003eOct\u003c/b\u003e 8-1865 \u003cb\u003eOct\u003c/b\u003e 9, An \u003cb\u003eearthquake\u003c/b\u003e hit San Francisco. (SFC, 4/14/96, \u003cb\u003e...\u003c/b\u003e 1897 \u003cbr\u003e  Jun \u003cb\u003e12\u003c/b\u003e, Possibly the most severe \u003cb\u003equake\u003c/b\u003e in history struck Assam, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1959\u003c/b\u003e \u003cbr\u003e  Mar 3, A SF Bay Area \u003cb\u003eearthquake\u003c/b\u003e measured 5.5 on the Richter scale in Berkeley.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "October 12 Events in History",
+   "htmlTitle": "\u003cb\u003eOctober 12\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/october_12.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "October 12 in history.",
+   "htmlSnippet": "\u003cb\u003eOctober 12\u003c/b\u003e in history.",
+   "cacheId": "j7CC9_-9HnYJ",
+   "formattedUrl": "www.brainyhistory.com/days/october_12.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003eoctober\u003c/b\u003e_\u003cb\u003e12\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "October 12 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/october_12.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STATUS OF SEISMICITY IN THE NORTHEAST INDIA AND ...",
+   "htmlTitle": "STATUS OF SEISMICITY IN THE NORTHEAST \u003cb\u003eINDIA\u003c/b\u003e AND \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gbpihedenvis.nic.in/HTML/vol10_1/rptiwari.htm",
+   "displayLink": "gbpihedenvis.nic.in",
+   "snippet": "The death during an earthquake mostly occurs due to the collapse of the   buildings. .... 1959. 7.5. Property damage. Indo-Myanmar border. August 6, 1988.   7.5 ..... Tokyo prepares for an overdue disaster, Times of India, October 11, p. 12.",
+   "htmlSnippet": "The death during an \u003cb\u003eearthquake\u003c/b\u003e mostly occurs due to the collapse of the \u003cbr\u003e  buildings. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1959\u003c/b\u003e. 7.5. Property damage. Indo-Myanmar border. August 6, 1988. \u003cbr\u003e  7.5 \u003cb\u003e.....\u003c/b\u003e Tokyo prepares for an overdue disaster, Times of \u003cb\u003eIndia\u003c/b\u003e, \u003cb\u003eOctober\u003c/b\u003e 11, p. \u003cb\u003e12\u003c/b\u003e.",
+   "cacheId": "iOniMUP9LUcJ",
+   "formattedUrl": "gbpihedenvis.nic.in/HTML/vol10_1/rptiwari.htm",
+   "htmlFormattedUrl": "gbpihedenvis.nic.in/HTML/vol10_1/rptiwari.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gbpihedenvis.nic.in/HTML/vol10_1/rptiwa1.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "219",
+      "height": "231",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQtMuVpTx3_RGEaMcCz60j1gsv4_c9VGFeIC4EtsJMMQT6BuKEeShwhX_4"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "ricepapr 001"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Great Assam Earthquake of 1897 | Assam Portal",
+   "htmlTitle": "The Great Assam \u003cb\u003eEarthquake\u003c/b\u003e of 1897 | Assam Portal",
+   "link": "http://www.assam.org/content/great-assam-earthquake-1897",
+   "displayLink": "www.assam.org",
+   "snippet": "In Shillong, the earthquake took place at about 5:11pm June 12th. ... Survey of   India who was stationed in Shillong at the time, opined that the earthquake was   so ... In a letter dated October 8, 1897, Miss A.J. Rood, a Baptist missionary in   Tura ...",
+   "htmlSnippet": "In Shillong, the \u003cb\u003eearthquake\u003c/b\u003e took place at about 5:11pm June \u003cb\u003e12th\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Survey of \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e who was stationed in Shillong at the time, opined that the \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  so \u003cb\u003e...\u003c/b\u003e In a letter dated \u003cb\u003eOctober\u003c/b\u003e 8, 1897, Miss A.J. Rood, a Baptist missionary in \u003cbr\u003e  Tura \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WRpn6KCaVCYJ",
+   "formattedUrl": "www.assam.org/content/great-assam-earthquake-1897",
+   "htmlFormattedUrl": "www.assam.org/content/great-assam-\u003cb\u003eearthquake\u003c/b\u003e-1897"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "THE KOYNA, INDIA, EARTHQUAKES",
+   "htmlTitle": "THE KOYNA, \u003cb\u003eINDIA\u003c/b\u003e, \u003cb\u003eEARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.iitk.ac.in/nicee/wcee/article/4_vol3_J2-44.pdf",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "Koyna during the four months of the monsoon, from mid-June to mid-October, ....   the greatest earthquakes of historical time in the Indian peninsula. It ... Koyna   Dam, and the depth of focus tube 12 kilometers (12). ..... Div. , ASCE, Oct. 1959. ' ...",
+   "htmlSnippet": "Koyna during the four months of the monsoon, from mid-June to mid-\u003cb\u003eOctober\u003c/b\u003e, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  the greatest \u003cb\u003eearthquakes\u003c/b\u003e of historical time in the \u003cb\u003eIndian\u003c/b\u003e peninsula. It \u003cb\u003e...\u003c/b\u003e Koyna \u003cbr\u003e  Dam, and the depth of focus tube \u003cb\u003e12\u003c/b\u003e kilometers (\u003cb\u003e12\u003c/b\u003e). \u003cb\u003e.....\u003c/b\u003e Div. , ASCE, \u003cb\u003eOct\u003c/b\u003e. \u003cb\u003e1959\u003c/b\u003e. &#39; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DGiLQfdPoScJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitk.ac.in/nicee/wcee/article/4_vol3_J2-44.pdf",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/wcee/article/4_vol3_J2-44.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Mon Aug  3 17:08:39 2009",
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Mon Aug  3 17:07:05 2009"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 12th October | HistoryOrb.com",
+   "htmlTitle": "Historical Events on \u003cb\u003e12th October\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/october/12",
+   "displayLink": "www.historyorb.com",
+   "snippet": "Historical events for the 12th of October. See what famous, interesting and   notable events happened throughout history on 12 October.",
+   "htmlSnippet": "Historical events for the 12th of \u003cb\u003eOctober\u003c/b\u003e. See what famous, interesting and \u003cbr\u003e  notable events happened throughout history on \u003cb\u003e12 October\u003c/b\u003e.",
+   "cacheId": "EX-iSmJuxjUJ",
+   "formattedUrl": "www.historyorb.com/events/october/12",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003eoctober\u003c/b\u003e/\u003cb\u003e12\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  }
+ ]
+}

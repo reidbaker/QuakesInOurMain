@@ -1,0 +1,288 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 5 1804 Eurasia Earthquake",
+    "totalResults": "2800",
+    "searchTerms": "May 5 1804 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 5 1804 Eurasia Earthquake",
+    "totalResults": "2800",
+    "searchTerms": "May 5 1804 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.219141,
+  "formattedSearchTime": "0.22",
+  "totalResults": "2800",
+  "formattedTotalResults": "2,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "al-Shaubak, AD 1212 May 1 earthquake 337￢ﾀﾓ338 ... AD 1778 May 5 earthquake   606 ..... AD 1804 February 19 earthquake 623 ..... Eurasian Plate 815￢ﾀﾓ816 ...",
+   "htmlSnippet": "al-Shaubak, AD 1212 \u003cb\u003eMay\u003c/b\u003e 1 \u003cb\u003eearthquake\u003c/b\u003e 337￢ﾀﾓ338 \u003cb\u003e...\u003c/b\u003e AD 1778 \u003cb\u003eMay 5 earthquake\u003c/b\u003e \u003cbr\u003e  606 \u003cb\u003e.....\u003c/b\u003e AD \u003cb\u003e1804\u003c/b\u003e February 19 \u003cb\u003eearthquake\u003c/b\u003e 623 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815￢ﾀﾓ816 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake occurrence and seismic zonation in South Spain",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e occurrence and \u003cb\u003eseismic\u003c/b\u003e zonation in South Spain",
+   "link": "http://www.iitk.ac.in/nicee/wcee/article/10_vol1_483.pdf",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "compression as a result of the collision of the Eurasian and African plates. ...   region. Certain areas of higher seismic hazard, however, may be defined, such ...   of earthquakes of low magnitude, M \u003c 5, .... ocurred in 1522 and 1804   respectively.",
+   "htmlSnippet": "compression as a result of the collision of the \u003cb\u003eEurasian\u003c/b\u003e and African plates. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  region. Certain areas of higher \u003cb\u003eseismic\u003c/b\u003e hazard, however, \u003cb\u003emay\u003c/b\u003e be defined, such \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  of \u003cb\u003eearthquakes\u003c/b\u003e of low magnitude, M &lt; \u003cb\u003e5\u003c/b\u003e, \u003cb\u003e....\u003c/b\u003e ocurred in 1522 and \u003cb\u003e1804\u003c/b\u003e \u003cbr\u003e  respectively.",
+   "cacheId": "TnwS47wlXU4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitk.ac.in/nicee/wcee/article/10_vol1_483.pdf",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/wcee/article/10_vol1_483.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Thu Jul  9 21:55:32 2009",
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Thu Jul  9 21:55:11 2009"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Spain",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Spain",
+   "link": "http://www.iberianature.com/material/earthquake.htm",
+   "displayLink": "www.iberianature.com",
+   "snippet": "Sep 23, 2004 ... Most significant earthquakes in Spain (1300-2004) ... Iberia, once a plate of its   own, is squashed between Africa and Eurasia, ... 5/11/1504. IX ... 25/08/1804 ...   The two earth tremors may be connected since movements in one ...",
+   "htmlSnippet": "Sep 23, 2004 \u003cb\u003e...\u003c/b\u003e Most significant \u003cb\u003eearthquakes\u003c/b\u003e in Spain (1300-2004) \u003cb\u003e...\u003c/b\u003e Iberia, once a plate of its \u003cbr\u003e  own, is squashed between Africa and \u003cb\u003eEurasia\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e5\u003c/b\u003e/11/1504. IX \u003cb\u003e...\u003c/b\u003e 25/08/\u003cb\u003e1804\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The two earth tremors \u003cb\u003emay\u003c/b\u003e be connected since movements in one \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8xKYVU_18RMJ",
+   "formattedUrl": "www.iberianature.com/material/earthquake.htm",
+   "htmlFormattedUrl": "www.iberianature.com/material/\u003cb\u003eearthquake\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iberianature.com/material/photos/ArenasdeReyEarthquake2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "226",
+      "height": "223",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkTdjfTk7OZzXcAA9jmky_rbxEIxweLRVN0FfU5oxcjmrSgn-ozqGoJRU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tackling Socio-Political Fragility In The Caribbean - Analysis ...",
+   "htmlTitle": "Tackling Socio-Political Fragility In The Caribbean - Analysis \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.eurasiareview.com/27042012-tackling-socio-political-fragility-in-the-caribbean-analysis/",
+   "displayLink": "www.eurasiareview.com",
+   "snippet": "Apr 27, 2012 ... Eurasia Review Newsletter ... Since Haitiￂﾴs remarkable independence from   France in 1804, the region has been the ... Yet Cuba may, nevertheless, be   integral to regional attempts to build ... In 2010, for example, the country was a   major donor of humanitarian aid to the victims of the earthquake in Haiti.",
+   "htmlSnippet": "Apr 27, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e Review Newsletter \u003cb\u003e...\u003c/b\u003e Since Haitiￂﾴs remarkable independence from \u003cbr\u003e  France in \u003cb\u003e1804\u003c/b\u003e, the region has been the \u003cb\u003e...\u003c/b\u003e Yet Cuba \u003cb\u003emay\u003c/b\u003e, nevertheless, be \u003cbr\u003e  integral to regional attempts to build \u003cb\u003e...\u003c/b\u003e In 2010, for example, the country was a \u003cbr\u003e  major donor of humanitarian aid to the victims of the \u003cb\u003eearthquake\u003c/b\u003e in Haiti.",
+   "cacheId": "FHWL-vU3I0IJ",
+   "formattedUrl": "www.eurasiareview.com/27042012-tackling-socio-political-fragility-in-the- caribbean-analysis/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeurasia\u003c/b\u003ereview.com/27042012-tackling-socio-political-fragility-in-the- caribbean-analysis/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://lh6.googleusercontent.com/-igBZuJvyD_U/T2KtT5UEt2I/AAAAAAAABwk/SQpos-dnFwc/s250/Antillas_%2528orthographic_projection%2529.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "200",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHi98GACdPw8HqYwUmSYRU9zbLyAij5iyJ5xQK5P8-RE9e9KRp4LoxkR-b"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Electronic Sites of Botany, Plant Biology & Science Journals",
+   "htmlTitle": "Electronic Sites of Botany, Plant Biology &amp; Science Journals",
+   "link": "http://www.e-journals.org/botany/",
+   "displayLink": "www.e-journals.org",
+   "snippet": "The sites will almost always have a Tables of Contents available free and may   frequently have selected articles, or the entire text online. Some sites are free; ...",
+   "htmlSnippet": "The sites will almost always have a Tables of Contents available free and \u003cb\u003emay\u003c/b\u003e \u003cbr\u003e  frequently have selected articles, or the entire text online. Some sites are free; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6h3VXQriSpoJ",
+   "formattedUrl": "www.e-journals.org/botany/",
+   "htmlFormattedUrl": "www.e-journals.org/botany/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Electronic Sites of Botany, Plant Biology & Science Journals",
+      "author": "Scott D. Russell, University of Oklahoma",
+      "distribution": "global"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Active faulting offshore SE Spain (Alboran Sea): Implications for ...",
+   "htmlTitle": "Active faulting offshore SE Spain (Alboran Sea): Implications for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://hera.ugr.es/doi/16521304.pdf",
+   "displayLink": "hera.ugr.es",
+   "snippet": "The submarine Carboneras Fault zone is 100 km long, 5￢ﾀﾓ ... This may pose   significant earthquake and tsunami hazards to the ... earthquakes of Almerￄﾱa (  1522), Dalￄﾱas (1804), and ... the Eurasian-African plate convergence; and 4) to   high- ...",
+   "htmlSnippet": "The submarine Carboneras Fault zone is 100 km long, \u003cb\u003e5\u003c/b\u003e￢ﾀﾓ \u003cb\u003e...\u003c/b\u003e This \u003cb\u003emay\u003c/b\u003e pose \u003cbr\u003e  significant \u003cb\u003eearthquake\u003c/b\u003e and tsunami hazards to the \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e of Almerￄﾱa (\u003cbr\u003e  1522), Dalￄﾱas (\u003cb\u003e1804\u003c/b\u003e), and \u003cb\u003e...\u003c/b\u003e the \u003cb\u003eEurasian\u003c/b\u003e-African plate convergence; and 4) to \u003cbr\u003e  high- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7AlXf4GLGpIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "hera.ugr.es/doi/16521304.pdf",
+   "htmlFormattedUrl": "hera.ugr.es/doi/16521304.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060117150031",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "title": "doi:10.1016/j.epsl.2005.11.009",
+      "creator": "Elsevier",
+      "moddate": "D:20060117194744+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Engineering Seismology and Earthquake Engineering Selected ...",
+   "htmlTitle": "Engineering Seismology and \u003cb\u003eEarthquake\u003c/b\u003e Engineering Selected \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://aelnash.cee.illinois.edu/earthquake%20field%20reports%20PDFs/Great%20Hanshin,%20ESEE.pdf",
+   "displayLink": "aelnash.cee.illinois.edu",
+   "snippet": "4 5 Characteristics and seismic potential offaults in the vicmity ofKobe. 6.1   Characteristics ..... the vertical axis, which may indicate that the vertical   component has played a significant role in the .... American plates and between   the Philippine Sea and Eurasian plates are well defined subduction ..... 6)1804 (ft   1). 517.0 3487 ...",
+   "htmlSnippet": "4 \u003cb\u003e5\u003c/b\u003e Characteristics and \u003cb\u003eseismic\u003c/b\u003e potential offaults in the vicmity ofKobe. 6.1 \u003cbr\u003e  Characteristics \u003cb\u003e.....\u003c/b\u003e the vertical axis, which \u003cb\u003emay\u003c/b\u003e indicate that the vertical \u003cbr\u003e  component has played a significant role in the \u003cb\u003e....\u003c/b\u003e American plates and between \u003cbr\u003e  the Philippine Sea and \u003cb\u003eEurasian\u003c/b\u003e plates are well defined subduction \u003cb\u003e.....\u003c/b\u003e 6)\u003cb\u003e1804\u003c/b\u003e (ft \u003cbr\u003e  1). 517.0 3487 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "aelnash.cee.illinois.edu/earthquake%20field%20reports%20PDFs/ Great%20Hanshin,%20ESEE.pdf",
+   "htmlFormattedUrl": "aelnash.cee.illinois.edu/\u003cb\u003eearthquake\u003c/b\u003e%20field%20reports%20PDFs/ Great%20Hanshin,%20ESEE.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100719160841+13'30'",
+      "creator": "Xerox WorkCentre 5135",
+      "producer": "Xerox WorkCentre 5135",
+      "moddate": "D:20100729140715-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Eurasian Minerals Inc. Eurasian Minerals: The Early Bird Once ...",
+   "htmlTitle": "\u003cb\u003eEurasian\u003c/b\u003e Minerals Inc. \u003cb\u003eEurasian\u003c/b\u003e Minerals: The Early Bird Once \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.24hgold.com/english/news-company-gold-silver-eurasian-minerals-the-early-bird-once-again-gets-the-worm.aspx?articleid=439087",
+   "displayLink": "www.24hgold.com",
+   "snippet": "DAX, 7406, 5 .... We scheduled a field trip in early May, and I flew out of   Albuquerque for a long ... in 1804 making Haiti the only country in the world born   of a slave rebellion. ..... 1/13/2010, Reports on Earthquake Emergency Response   in Haiti ...",
+   "htmlSnippet": "DAX, 7406, \u003cb\u003e5\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e We scheduled a field trip in early \u003cb\u003eMay\u003c/b\u003e, and I flew out of \u003cbr\u003e  Albuquerque for a long \u003cb\u003e...\u003c/b\u003e in \u003cb\u003e1804\u003c/b\u003e making Haiti the only country in the world born \u003cbr\u003e  of a slave rebellion. \u003cb\u003e.....\u003c/b\u003e 1/13/2010, Reports on \u003cb\u003eEarthquake\u003c/b\u003e Emergency Response \u003cbr\u003e  in Haiti \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Csd686eZJIJ",
+   "formattedUrl": "www.24hgold.com/.../news-company-gold-silver-eurasian-minerals-the-early -bird-once-again-gets-the-worm.aspx?...",
+   "htmlFormattedUrl": "www.24hgold.com/.../news-company-gold-silver-\u003cb\u003eeurasian\u003c/b\u003e-minerals-the-early -bird-once-again-gets-the-worm.aspx?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "langage": "en,en-US,en-GB,en-CA",
+      "language": "en",
+      "author": "Mickey Fulp"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SEISMIC HAZARD IN ANDALUSIA REGION (SOUTHERN SPAIN).",
+   "htmlTitle": "\u003cb\u003eSEISMIC\u003c/b\u003e HAZARD IN ANDALUSIA REGION (SOUTHERN SPAIN).",
+   "link": "http://www2.topografia.upm.es/grupos/sismo/data/Paper-sismosan-Almeria_JRG.pdf",
+   "displayLink": "www2.topografia.upm.es",
+   "snippet": "In the last 20 years some earthquakes with magnitude Mw ~5 ... Africa and   Eurasia plates and distributed over a wide area. ... 1680, 1804, 1829 and 1884   with an intensity IEMS ￢ﾉﾥ IX and others occurred in 1504, ... In order to obtain a   first estimation of the impact that long-distance sources may have at long-period (  T￢ﾉﾥ1.0s) ...",
+   "htmlSnippet": "In the last 20 years some \u003cb\u003eearthquakes\u003c/b\u003e with magnitude Mw ~\u003cb\u003e5\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Africa and \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e plates and distributed over a wide area. \u003cb\u003e...\u003c/b\u003e 1680, \u003cb\u003e1804\u003c/b\u003e, 1829 and 1884 \u003cbr\u003e  with an intensity IEMS ￢ﾉﾥ IX and others occurred in 1504, \u003cb\u003e...\u003c/b\u003e In order to obtain a \u003cbr\u003e  first estimation of the impact that long-distance sources \u003cb\u003emay\u003c/b\u003e have at long-period (\u003cbr\u003e  T￢ﾉﾥ1.0s) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gOYEZQOkYc8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www2.topografia.upm.es/grupos/sismo/.../Paper-sismosan-Almeria_JRG.pdf",
+   "htmlFormattedUrl": "www2.topografia.upm.es/grupos/sismo/.../Paper-sismosan-Almeria_JRG.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Alicia",
+      "creationdate": "D:20101229135036+01'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20101229135036+01'00'",
+      "producer": "Acrobat Distiller 9.3.3 (Windows)",
+      "title": "Microsoft Word - Paper-sismosan-Almeria_JRG.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic risk in Europe",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e risk in Europe",
+   "link": "http://www.sismileproject.com/pdf/seismic_risk_report_sismile.pdf",
+   "displayLink": "www.sismileproject.com",
+   "snippet": "Italy and Turkey, which are in the collision zone between the Eurasian and   African crustal ... aseismic creeping or earthquakes may happen as a   consequence of this stress. As mentioned ... Figure .2: Earthquakes in Europe   with a magnitude greater than 5 from 1973 until 2006 (USGS/NEIC-Catalogue)   ...... 25/08/1804. IX ...",
+   "htmlSnippet": "Italy and Turkey, which are in the collision zone between the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African crustal \u003cb\u003e...\u003c/b\u003e aseismic creeping or \u003cb\u003eearthquakes may\u003c/b\u003e happen as a \u003cbr\u003e  consequence of this stress. As mentioned \u003cb\u003e...\u003c/b\u003e Figure .2: \u003cb\u003eEarthquakes\u003c/b\u003e in Europe \u003cbr\u003e  with a magnitude greater than \u003cb\u003e5\u003c/b\u003e from 1973 until 2006 (USGS/NEIC-Catalogue) \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e 25/08/\u003cb\u003e1804\u003c/b\u003e. IX \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NQCkyL-qttgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.sismileproject.com/pdf/seismic_risk_report_sismile.pdf",
+   "htmlFormattedUrl": "www.sismileproject.com/pdf/\u003cb\u003eseismic\u003c/b\u003e_risk_report_sismile.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "seyhun",
+      "creator": "Microsoftￂﾮ Word 2010",
+      "creationdate": "D:20120507101341+03'00'",
+      "moddate": "D:20120507101341+03'00'",
+      "producer": "Microsoftￂﾮ Word 2010"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,301 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 23 1909 Eurasia Earthquake",
+    "totalResults": "4860",
+    "searchTerms": "Apr 23 1909 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 23 1909 Eurasia Earthquake",
+    "totalResults": "4860",
+    "searchTerms": "Apr 23 1909 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.222837,
+  "formattedSearchTime": "0.22",
+  "totalResults": "4860",
+  "formattedTotalResults": "4,860"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Landslides induced by seismic events in Portugal mainland",
+   "htmlTitle": "Landslides induced by \u003cb\u003eseismic\u003c/b\u003e events in Portugal mainland",
+   "link": "http://riskam.ul.pt/disaster/images/pdf/poster_vaz_zezere.pdf",
+   "displayLink": "riskam.ul.pt",
+   "snippet": "Considering this limitation, only the earthquakes dating from. January 26th. 1531,   November 1st. 1755, April 23rd. 1909, and February 28th 1969 were used, ...",
+   "htmlSnippet": "Considering this limitation, only the \u003cb\u003eearthquakes\u003c/b\u003e dating from. January 26th. 1531, \u003cbr\u003e  November 1st. 1755, \u003cb\u003eApril 23rd\u003c/b\u003e. \u003cb\u003e1909\u003c/b\u003e, and February 28th 1969 were used, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GQLoPkBabhQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "riskam.ul.pt/disaster/images/pdf/poster_vaz_zezere.pdf",
+   "htmlFormattedUrl": "riskam.ul.pt/disaster/images/pdf/poster_vaz_zezere.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Diapositivo 1",
+      "author": "jlzezere",
+      "creationdate": "D:20120321163939+00'00'",
+      "moddate": "D:20120321163939+00'00'",
+      "producer": "Microsoftￂﾮ PowerPointￂﾮ 2010",
+      "creator": "Microsoftￂﾮ PowerPointￂﾮ 2010"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 1531 Lisbon earthquake and tsunami",
+   "htmlTitle": "The 1531 Lisbon \u003cb\u003eearthquake\u003c/b\u003e and tsunami",
+   "link": "http://idl.ul.pt/sites/idl.ul.pt/files/docs/PAPER_0685_THE_1531_LISBON_EARTHQUAKE_AN%20D_TSUNAMI.pdf",
+   "displayLink": "idl.ul.pt",
+   "snippet": "aftermath of the 1909 earthquake Osorio (1919), a Portuguese scholar, ....   Column 1909-04-23 states the felt intensity recorded in the 1909 Benavente   Earthquake .... distance between the area and the Nubia-Eurasia plate boundary   (circa 300 ...",
+   "htmlSnippet": "aftermath of the 1909 \u003cb\u003eearthquake\u003c/b\u003e Osorio (1919), a Portuguese scholar, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Column \u003cb\u003e1909-04-23\u003c/b\u003e states the felt intensity recorded in the 1909 Benavente \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e distance between the area and the Nubia-\u003cb\u003eEurasia\u003c/b\u003e plate boundary \u003cbr\u003e  (circa 300 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "k3p4MDxk1ioJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "idl.ul.pt/.../PAPER_0685_THE_1531_LISBON_EARTHQUAKE_AN%20D_ TSUNAMI.pdf",
+   "htmlFormattedUrl": "idl.ul.pt/.../PAPER_0685_THE_1531_LISBON_\u003cb\u003eEARTHQUAKE\u003c/b\u003e_AN%20D_ TSUNAMI.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Guidelines_FullPaper",
+      "author": "Rakicevic, Sendova",
+      "subject": "14ECEE",
+      "creator": "Microsoftￂﾮ Word 2010",
+      "creationdate": "D:20120501211057+01'00'",
+      "moddate": "D:20120501211057+01'00'",
+      "producer": "Microsoftￂﾮ Word 2010"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Casualties, 604 killed and 4,152 injured in 23 October earthquake ... Arabian   Plate and the Eurasian Plate, beyond the eastern extent of the Armenian and   Asia ...",
+   "htmlSnippet": "Casualties, 604 killed and 4,152 injured in \u003cb\u003e23\u003c/b\u003e October \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Arabian \u003cbr\u003e  Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the Armenian and \u003cbr\u003e  Asia \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Probabilistic Seismic-Hazard Assessment for Portugal",
+   "htmlTitle": "Probabilistic \u003cb\u003eSeismic\u003c/b\u003e-Hazard Assessment for Portugal",
+   "link": "http://sismologia.ist.utl.pt/~sismologia.daemon/files/Vilanova_and_Fonseca_2007.pdf",
+   "displayLink": "sismologia.ist.utl.pt",
+   "snippet": "Mainland Portugal is located on the Eurasian plate in the vicinity of the southern   ..... Earthquake,￢ﾀﾝ and the 23 April 1909 Benavente earthquake. The 5 April 1504 ...",
+   "htmlSnippet": "Mainland Portugal is located on the \u003cb\u003eEurasian\u003c/b\u003e plate in the vicinity of the southern \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e,￢ﾀﾝ and the \u003cb\u003e23 April 1909\u003c/b\u003e Benavente \u003cb\u003eearthquake\u003c/b\u003e. The 5 April 1504 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ocdyV68qGEYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "sismologia.ist.utl.pt/~sismologia.daemon/.../Vilanova_and_Fonseca_2007.pdf",
+   "htmlFormattedUrl": "sismologia.ist.utl.pt/~sismologia.daemon/.../Vilanova_and_Fonseca_2007.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20070925094335-05'00'",
+      "creationdate": "D:20070925094335-05'00'",
+      "title": "untitled",
+      "producer": "Acrobat Distiller 6.0.1 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... due to the convergence of the Philippine Sea plate and the Eurasian Plate to   the east of the island. Most of the earthquakes registered in Taiwan actually occur   off the east coast and cause little damage, ... April 15, 1909, 03:54, Taipei, 23.7,   121.5, 80, 7.3, 9, 122 ... October 23, 1943, 00:01, Hualien, 23.8, 121.5, 5, 6.2, 1, 1 ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e due to the convergence of the Philippine Sea plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate to \u003cbr\u003e  the east of the island. Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in Taiwan actually occur \u003cbr\u003e  off the east coast and cause little damage, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 15, \u003cb\u003e1909\u003c/b\u003e, 03:54, Taipei, 23.7, \u003cbr\u003e  121.5, 80, 7.3, 9, 122 \u003cb\u003e...\u003c/b\u003e October \u003cb\u003e23\u003c/b\u003e, 1943, 00:01, Hualien, 23.8, 121.5, 5, 6.2, 1, 1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Vale de Santarￃﾩm Neogene trough in the seismotectonics ...",
+   "htmlTitle": "The Vale de Santarￃﾩm Neogene trough in the seismotectonics \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.geol.uniovi.es/TDG/Volumen29/TG29-37.PDF",
+   "displayLink": "www.geol.uniovi.es",
+   "snippet": "dred kilometres north of the Eurasian (Iberia)-. Africa plate ... The 1344 and the   1531 earthquakes are poorly locat- ... Benavente occurred on April 23rd 1909.",
+   "htmlSnippet": "dred kilometres north of the \u003cb\u003eEurasian\u003c/b\u003e (Iberia)-. Africa plate \u003cb\u003e...\u003c/b\u003e The 1344 and the \u003cbr\u003e  1531 \u003cb\u003eearthquakes\u003c/b\u003e are poorly locat- \u003cb\u003e...\u003c/b\u003e Benavente occurred on \u003cb\u003eApril 23rd 1909\u003c/b\u003e.",
+   "cacheId": "gYFLCW9GuPsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geol.uniovi.es/TDG/Volumen29/TG29-37.PDF",
+   "htmlFormattedUrl": "www.geol.uniovi.es/TDG/Volumen29/TG29-37.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "PREIMPRESION2",
+      "creationdate": "D:20101228164124+01'00'",
+      "creator": "QuarkXPress 8.0",
+      "gts_pdfxconformance": "PDF/X-1a:2001",
+      "gts_pdfxversion": "PDF/X-1:2001",
+      "moddate": "D:20110131155342+01'00'",
+      "producer": "Acrobat Distiller 9.0.0 (Macintosh)",
+      "title": "LIBRO GEOLOGIA 29.qxd:Maquetaciￃﾛn 1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 East Azerbaijan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2012 East Azerbaijan earthquakes occurred near the cities of Ahar and   Varzaqan in ... in the shallow crust about 300 km east of the Eurasia-Arabian   Plate boundary. ... 5.3 tremor occurred on August 15, approximately 34 km   southwest of Ahar. ..... Apr 11); Michoacￃﾡn, Mexico (6.5, Apr 11); Valparaￃﾭso,   Chile (6.7, Apr 16) ...",
+   "htmlSnippet": "The 2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e occurred near the cities of Ahar and \u003cbr\u003e  Varzaqan in \u003cb\u003e...\u003c/b\u003e in the shallow crust about 300 km east of the \u003cb\u003eEurasia\u003c/b\u003e-Arabian \u003cbr\u003e  Plate boundary. \u003cb\u003e...\u003c/b\u003e 5.3 tremor occurred on August 15, approximately 34 km \u003cbr\u003e  southwest of Ahar. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eApr\u003c/b\u003e 11); Michoacￃﾡn, Mexico (6.5, \u003cb\u003eApr\u003c/b\u003e 11); Valparaￃﾭso, \u003cbr\u003e  Chile (6.7, \u003cb\u003eApr\u003c/b\u003e 16) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z3LJZUSFL8IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/250px-Iran_relief_location_map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlK7xfIu2EE120ax5sst5KSWyd5SxHE-3pbK-lYso7uZkfMn3WOONAqcQQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Print this article",
+   "htmlTitle": "Print this article",
+   "link": "http://revistas.ucm.es/index.php/JIGE/article/download/39206/37803",
+   "displayLink": "revistas.ucm.es",
+   "snippet": "Jun 19, 2012 ... been driven by the NW-SE convergence of Eurasia and. Nubia, which has .... On   April 23rd, 1909 a violent earthquake took place in the Lower ...",
+   "htmlSnippet": "Jun 19, 2012 \u003cb\u003e...\u003c/b\u003e been driven by the NW-SE convergence of \u003cb\u003eEurasia\u003c/b\u003e and. Nubia, which has \u003cb\u003e....\u003c/b\u003e On \u003cbr\u003e  \u003cb\u003eApril 23rd, 1909\u003c/b\u003e a violent \u003cb\u003eearthquake\u003c/b\u003e took place in the Lower \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7RoZRgP68YUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "revistas.ucm.es/index.php/JIGE/article/download/39206/37803",
+   "htmlFormattedUrl": "revistas.ucm.es/index.php/JIGE/article/download/39206/37803",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "J. Cabral",
+      "creationdate": "D:20120907135707+02'00'",
+      "creator": "Adobe InDesign CS4 (6.0)",
+      "moddate": "D:20120907140733+02'00'",
+      "producer": "Adobe PDF Library 9.0",
+      "subject": "Journal of Iberian Geology 38 (1) 2012",
+      "title": "Neotectonics of mainland Portugal: state of the art and future perspectives"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Identifying instrumental and historical earthquake records in the SW ...",
+   "htmlTitle": "Identifying instrumental and historical \u003cb\u003eearthquake\u003c/b\u003e records in the SW \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.agu.org/journals/gl/gl0624/2006GL028417/body.shtml",
+   "displayLink": "www.agu.org",
+   "snippet": "Earthquake epicenters from the Spanish ￢ﾀﾜInstituto Geogrￃﾡfico Nacional￢ﾀﾝ ... by the   NW-SE convergence of the African and Eurasian Plates (4.5￢ﾀﾓ5.6 mmￂﾷyr￢ﾈﾒ1) at the   ..... the 23 April 1909 Benavente earthquake of Mw 6.0 [e.g., Stich et al., 2005b].",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e epicenters from the Spanish ￢ﾀﾜInstituto Geogrￃﾡfico Nacional￢ﾀﾝ \u003cb\u003e...\u003c/b\u003e by the \u003cbr\u003e  NW-SE convergence of the African and \u003cb\u003eEurasian\u003c/b\u003e Plates (4.5￢ﾀﾓ5.6 mmￂﾷyr￢ﾈﾒ1) at the \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e the \u003cb\u003e23 April 1909\u003c/b\u003e Benavente \u003cb\u003eearthquake\u003c/b\u003e of Mw 6.0 [e.g., Stich et al., 2005b].",
+   "formattedUrl": "www.agu.org/journals/gl/gl0624/2006GL028417/body.shtml",
+   "htmlFormattedUrl": "www.agu.org/journals/gl/gl0624/2006GL028417/body.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Identifying instrumental and historical earthquake records in the SW Iberian margin using 210Pb turbidite chronology",
+      "authors": "Jordi Garcia-Orellana, Eulalia Gracia, Alexis Vizcaino, Pere Masque, Carolina Olid, Francisca Martinez-Ruiz, Elena Pinero, Joan-Albert Sanchez-Cabeza, and Juanjo Danobeitia",
+      "first-author": "Garcia-Orellana, Jordi",
+      "journal": "Geophysical Research Letters",
+      "doi": "10.1029/2006GL028417",
+      "paper-number": "2006GL028417",
+      "paper-type": "regular article",
+      "publisher": "American Geophysical Union",
+      "citation": "Garcia-Orellana, J., E. Gracia, A. Vizcaino, P. Masque, C. Olid, F. Martinez-Ruiz, E. Pinero, J. A. Sanchez-Cabeza, and J. Danobeitia (2006), Identifying instrumental and historical earthquake records in the SW Iberian margin using 210Pb turbidite chronology, Geophys. Res. Lett., 33, L24601, doi:10.1029/2006GL028417.",
+      "copyright": "Copyright 2006 by American Geophysical Union",
+      "index-terms": "0932 Exploration Geophysics: Radioactivity methods; 1115 Geochronology: Radioisotope geochronology; 3022 Marine Geology and Geophysics: Marine sediments: processes and transport; 7221 Seismology: Paleoseismology (8036)",
+      "published-online": "2006-December-16",
+      "abstract": "Textural, mineralogical and geochemical analyses of near-surface sediments from six different stations offshore SW Iberian Peninsula revealed the presence of thin detrital intervals corresponding to very fine-grained turbidites. Precise dating of the two most recent sedimentary layers based on 210Pb and 137Cs geochronology provides ages of 1971 +/- 3 AD and 1908 +/- 8 AD. These ages correspond to high-magnitude historical and instrumental earthquakes that occurred in the region: the 1969 Horseshoe Earthquake (Mw 8.0) and the 1909 Benavente Earthquake (Mw 6.0). Such a good correlation between turbidites and high-magnitude (Mw greater than 6) historical and instrumental seismic events suggests that the record of mass transport deposits can also be used as a paleoseismic indicator in low-convergence margins.",
+      "html-url": "http://www.agu.org/journals/gl/gl0624/2006GL028417/index.html",
+      "abstract-url": "http://www.agu.org/journals/gl/gl0624/2006GL028417/index.html",
+      "pdf-url": "http://www.agu.org/journals/gl/gl0624/2006GL028417/2006GL028417.pdf"
+     }
+    ]
+   }
+  }
+ ]
+}

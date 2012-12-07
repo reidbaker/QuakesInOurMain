@@ -1,0 +1,325 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 18 1913 Australia Earthquake",
+    "totalResults": "61300",
+    "searchTerms": "Dec 18 1913 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 18 1913 Australia Earthquake",
+    "totalResults": "61300",
+    "searchTerms": "Dec 18 1913 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.22517,
+  "formattedSearchTime": "0.23",
+  "totalResults": "61300",
+  "formattedTotalResults": "61,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Soputan volcano Sulawesi, Indonesia : August 14-15 eruption + ...",
+   "htmlTitle": "Soputan volcano Sulawesi, Indonesia : August 14-15 eruption + \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/08/17/soputan-volcano-erupts-in-sulawesi-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Sep 14, 2011 ... Earthquake tremors still continue to occur with an amplitude smaller than 0.52. ...   Click on the picture to go straight to the VAAC page in Darwin, Australia. ...   UPDATE : Around midnight local time (18 hours after the first eruption), the ...   1901, 1906, 1907, 1908-09, 1910, 1911-12, 1913, 1915, 1917, 1923-24, ...",
+   "htmlSnippet": "Sep 14, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e tremors still continue to occur with an amplitude smaller than 0.52. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Click on the picture to go straight to the VAAC page in Darwin, \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  UPDATE : Around midnight local time (\u003cb\u003e18\u003c/b\u003e hours after the first eruption), the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1901, 1906, 1907, 1908-09, 1910, 1911-12, \u003cb\u003e1913\u003c/b\u003e, 1915, 1917, 1923-24, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "p37vCeq90UcJ",
+   "formattedUrl": "earthquake-report.com/.../soputan-volcano-erupts-in-sulawesi-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../soputan-volcano-erupts-in-sulawesi-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/07/soputan-14082011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "192",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6XdbnUWg_h2zfqnifBYVDzDkUf0JEiADskq8qw6TIS-Kouf3DMUpIzC8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHAPTER 4: EARTHQUAKE RISKS",
+   "htmlTitle": "CHAPTER 4: \u003cb\u003eEARTHQUAKE\u003c/b\u003e RISKS",
+   "link": "http://www.ga.gov.au/servlet/BigObjFileManager?bigobjid=GA4181",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "The Australian continent is distant from the narrow band of earthquake activity .....   Richter magnitude 5.7 Ravenswood earthquake of 18 December 1913 was ...",
+   "htmlSnippet": "The \u003cb\u003eAustralian\u003c/b\u003e continent is distant from the narrow band of \u003cb\u003eearthquake\u003c/b\u003e activity \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Richter magnitude 5.7 Ravenswood \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e18 December 1913\u003c/b\u003e was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "70ftgN4xuC4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ga.gov.au/servlet/BigObjFileManager?bigobjid=GA4181",
+   "htmlFormattedUrl": "www.ga.gov.au/servlet/BigObjFileManager?bigobjid=GA4181",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030306221650",
+      "producer": "Acrobat Distiller 4.0 for Windows",
+      "creator": "AdobePS5.dll Version 5.0.1",
+      "title": "Microsoft Word - Mack chap 4 final.doc",
+      "moddate": "D:20030306221650+10'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSUNAMI WARNING! ALL PACIFIC COUNTRIES",
+   "htmlTitle": "TSUNAMI WARNING! ALL PACIFIC COUNTRIES",
+   "link": "http://earthquake-report.com/2011/03/11/tsunami-warning-all-pacific-countries/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 11, 2011 ... AN EARTHQUAKE HAS OCCURRED WITH THESE PRELIMINARY   PARAMETERS .... ISLANDS / NIUE / AUSTRALIA / FIJI / NEW CALEDONIA /   TONGA / MEXICO .... 221.0E 1744Z 11 MAR RIKITEA 23.1S 225.0E 1913Z 11   MAR NEW ... (Major) Earthquakes list December 1, 2012 - Moderate earthquake   at ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e AN \u003cb\u003eEARTHQUAKE\u003c/b\u003e HAS OCCURRED WITH THESE PRELIMINARY \u003cbr\u003e  PARAMETERS \u003cb\u003e....\u003c/b\u003e ISLANDS / NIUE / \u003cb\u003eAUSTRALIA\u003c/b\u003e / FIJI / NEW CALEDONIA / \u003cbr\u003e  TONGA / MEXICO \u003cb\u003e....\u003c/b\u003e 221.0E 1744Z 11 MAR RIKITEA 23.1S 225.0E \u003cb\u003e1913Z\u003c/b\u003e 11 \u003cbr\u003e  MAR NEW \u003cb\u003e...\u003c/b\u003e (Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eDecember\u003c/b\u003e 1, 2012 - Moderate \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iPZjaVXz2LsJ",
+   "formattedUrl": "earthquake-report.com/2011/.../tsunami-warning-all-pacific-countries/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/.../tsunami-warning-all-pacific-countries/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes @ GA ￢ﾀﾔ Earthquake Database ￢ﾀﾔ Search Results",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e @ GA ￢ﾀﾔ \u003cb\u003eEarthquake\u003c/b\u003e Database ￢ﾀﾔ Search Results",
+   "link": "http://www.ga.gov.au/earthquakes/list.do?isRegionSelected=true&region=Qld",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Earthquakes @ Geoscience Australia ... 5.7, 18 December 1913 @ 13:54:00, 18   December 1913 @ 23:54:00, -20.000, 147.000, 33, Charters Towers QLD.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e @ Geoscience \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 5.7, \u003cb\u003e18 December 1913\u003c/b\u003e @ 13:54:00, \u003cb\u003e18\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eDecember 1913\u003c/b\u003e @ 23:54:00, -20.000, 147.000, 33, Charters Towers QLD.",
+   "cacheId": "ZZU2m6MrgbkJ",
+   "formattedUrl": "www.ga.gov.au/earthquakes/list.do?isRegionSelected=true...Qld",
+   "htmlFormattedUrl": "www.ga.gov.au/\u003cb\u003eearthquakes\u003c/b\u003e/list.do?isRegionSelected=true...Qld"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Seismicity in Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Seismicity in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Aug 20, 2011... in Central Australia. For a listing of recent Australian earthquakes, follow this   link .... 18 Dec 1913, 13:54, -20.0, 147.0, 5.7, Charters Towers ...",
+   "htmlSnippet": "Aug 20, 2011\u003cb\u003e...\u003c/b\u003e in Central \u003cb\u003eAustralia\u003c/b\u003e. For a listing of recent \u003cb\u003eAustralian earthquakes\u003c/b\u003e, follow this \u003cbr\u003e  link \u003cb\u003e....\u003c/b\u003e \u003cb\u003e18 Dec 1913\u003c/b\u003e, \u003cb\u003e13:54\u003c/b\u003e, -20.0, 147.0, 5.7, Charters Towers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w1yMftxdSCkJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity_in_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32684"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0y-_VdOt97EaQcatNSECvkyYtwP5d-jCx_yj8JSWfCuxRjC0WZH2IuGo"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity in Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/43699",
+      "dc.date.modified": "2011-08-20",
+      "dc.date.created": "2004-02-07",
+      "dc.date.valid": "2012-08-20",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/43699",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "[18]. Rupture propagation is generally modeled using a fracture mechanics ...   The Messina earthquake and tsunami took as many as 200,000 lives on   December 28, ... The greatest earthquake in Australia's history is also claimed to   be induced by ... By such analyses of seismograms the Earth's core was located   in 1913 by ...",
+   "htmlSnippet": "[\u003cb\u003e18\u003c/b\u003e]. Rupture propagation is generally modeled using a fracture mechanics \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The Messina \u003cb\u003eearthquake\u003c/b\u003e and tsunami took as many as 200,000 lives on \u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e 28, \u003cb\u003e...\u003c/b\u003e The greatest \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eAustralia&#39;s\u003c/b\u003e history is also claimed to \u003cbr\u003e  be induced by \u003cb\u003e...\u003c/b\u003e By such analyses of seismograms the Earth&#39;s core was located \u003cbr\u003e  in \u003cb\u003e1913\u003c/b\u003e by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e￬ﾧﾀ￬ﾧﾄ (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "￬ﾧﾀ￬ﾧﾄ￬ﾝﾀ ￬ﾞﾐ￬ﾗﾰ￬ﾠﾁ, ￬ﾝﾸ￪ﾳﾵ￬ﾠﾁ ￬ﾛﾐ￬ﾝﾸ￬ﾜﾼ￫ﾡﾜ ￬ﾝﾸ￭ﾕﾴ ￬ﾧﾀ￪ﾵﾬ￬ﾝﾘ ￭ﾑﾜ￫ﾩﾴ￬ﾝﾴ ￭ﾝﾔ￫ﾓﾤ￫ﾦﾬ￫ﾊﾔ ￭ﾘﾄ￬ﾃﾁ￬ﾝﾴ￫ﾋﾤ. ￭ﾝﾔ￭ﾞﾈ ￬ﾞﾐ￬ﾗﾰ￬ﾠﾁ ￬ﾛﾐ￬ﾝﾸ ￬ﾤﾑ ￫ﾋﾨ￬ﾸﾵ￫ﾩﾴ￬ﾗﾐ￬ﾄﾜ ￬ﾈﾜ￪ﾰﾄ￬ﾠﾁ￬ﾜﾼ￫ﾡﾜ ￫ﾰﾜ￬ﾃﾝ￭ﾕﾘ￫ﾊﾔ ￫ﾳﾀ￬ﾜﾄ ￬ﾞﾐ￬ﾲﾴ￫ﾥﾼ ￬ﾧﾀ￬ﾧﾄ￬ﾝﾴ￫ﾝﾼ￪ﾳﾠ ￭ﾕﾜ￫ﾋﾤ.",
+      "Output::gray1b": "- ￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ (￬ﾘﾁ￫ﾬﾸ)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/￬ﾧﾀ￬ﾧﾄ",
+      "Output::link2c": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "result_group_header": "￫ﾰﾱ￪ﾳﾼ￬ﾂﾬ￬ﾠﾄ",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... Atlantic Ocean ￢ﾀﾢ Australia ￢ﾀﾢ   Azerbaijan ￢ﾀﾢ Bhutan ￢ﾀﾢ Bolivia ￢ﾀﾢ Brazil ￢ﾀﾢ Bulgaria ￢ﾀﾢ Canada ... 1929 11 18 - Grand   Banks, Newfoundland-Nova Scotia, Canada - M 7.2 Fatalities 28 ..... 1908 12 12 -   Off the Coast of Central Peru - M 8.2; 1913 11 04 - Abancay, Peru ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e Atlantic Ocean ￢ﾀﾢ \u003cb\u003eAustralia\u003c/b\u003e ￢ﾀﾢ \u003cbr\u003e  Azerbaijan ￢ﾀﾢ Bhutan ￢ﾀﾢ Bolivia ￢ﾀﾢ Brazil ￢ﾀﾢ Bulgaria ￢ﾀﾢ Canada \u003cb\u003e...\u003c/b\u003e 1929 11 \u003cb\u003e18\u003c/b\u003e - Grand \u003cbr\u003e  Banks, Newfoundland-Nova Scotia, Canada - M 7.2 Fatalities 28 \u003cb\u003e.....\u003c/b\u003e 1908 12 12 - \u003cbr\u003e  Off the Coast of Central Peru - M 8.2; \u003cb\u003e1913\u003c/b\u003e 11 04 - Abancay, Peru \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The list incorporates high quality earthquake source (i.e., origin time, location and   earthquake magnitude) ... Engdahl, van der Hilst and Buland earthquake catalog,   which is complete to December 2005. .... 1911-04-18 18:14, Iran, 32.000, 56.000,   50, 6.7 UK, 700 ... 1913-06-14 09:33, Bulgaria, 43.500, 25.500, 0, 6.8 UK, 500 ...",
+   "htmlSnippet": "The list incorporates high quality \u003cb\u003eearthquake\u003c/b\u003e source (i.e., origin time, location and \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e magnitude) \u003cb\u003e...\u003c/b\u003e Engdahl, van der Hilst and Buland \u003cb\u003eearthquake\u003c/b\u003e catalog, \u003cbr\u003e  which is complete to \u003cb\u003eDecember\u003c/b\u003e 2005. \u003cb\u003e....\u003c/b\u003e 1911-04-\u003cb\u003e18 18\u003c/b\u003e:14, Iran, 32.000, 56.000, \u003cbr\u003e  50, 6.7 UK, 700 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1913\u003c/b\u003e-06-14 09:33, Bulgaria, 43.500, 25.500, 0, 6.8 UK, 500 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Great Japan Earthquake of 1923 | History & Archaeology ...",
+   "htmlTitle": "The Great Japan \u003cb\u003eEarthquake\u003c/b\u003e of 1923 | History &amp; Archaeology \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.smithsonianmag.com/history-archaeology/The-Great-Japan-Earthquake-of-1923.html",
+   "displayLink": "www.smithsonianmag.com",
+   "snippet": "The powerful quake and ensuing tsunami that struck Yokohama and Tokyo   traumatized a ... off the Empress of Australia, a 615-foot luxury steamship bound   for Vancouver. ... of Western democracy, only 18 years before Japan would enter   World War II. ..... the Panic of 1907 and the formation of the Federal Reserve in   1913.",
+   "htmlSnippet": "The powerful \u003cb\u003equake\u003c/b\u003e and ensuing tsunami that struck Yokohama and Tokyo \u003cbr\u003e  traumatized a \u003cb\u003e...\u003c/b\u003e off the Empress of \u003cb\u003eAustralia\u003c/b\u003e, a 615-foot luxury steamship bound \u003cbr\u003e  for Vancouver. \u003cb\u003e...\u003c/b\u003e of Western democracy, only \u003cb\u003e18\u003c/b\u003e years before Japan would enter \u003cbr\u003e  World War II. \u003cb\u003e.....\u003c/b\u003e the Panic of 1907 and the formation of the Federal Reserve in \u003cbr\u003e  \u003cb\u003e1913\u003c/b\u003e.",
+   "cacheId": "PJsAnOopEr4J",
+   "formattedUrl": "www.smithsonianmag.com/.../The-Great-Japan-Earthquake-of-1923.html",
+   "htmlFormattedUrl": "www.smithsonianmag.com/.../The-Great-Japan-\u003cb\u003eEarthquake\u003c/b\u003e-of-1923.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.smithsonianmag.com/images/Japan-Earthquake-Ueno-district-ablaze-631.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "326",
+      "height": "155",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUKfhcay7KYGL5_coxr46t-bKUrrUz7CAgzAAsmJRILwdNYcN3xFVW6QA"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright (c) 2012 Smithsonian Enterprises",
+      "doc-class": "Living Document",
+      "y_key": "4db4ce401959515c",
+      "msvalidate.01": "320310DE693C522666918FF173E165C5",
+      "alexaverifyid": "8NewHaRwFShfWTmgIEaXfldqwGc",
+      "og:title": "The Great Japan Earthquake of 1923",
+      "og:description": "The powerful quake and ensuing tsunami that struck Yokohama and Tokyo traumatized a nation and unleashed historic consequences",
+      "og:site_name": "Smithsonian magazine",
+      "og:image": "http://media.smithsonianmag.com/images/Japan-Earthquake-Ueno-district-ablaze-388.jpg",
+      "og:type": "article",
+      "og:url": "http://www.smithsonianmag.com/history-archaeology/The-Great-Japan-Earthquake-of-1923.html",
+      "fb:admins": "43600163",
+      "fb:app_id": "207775292647618"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Watch Australia / Pacific | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Watch \u003cb\u003eAustralia\u003c/b\u003e / Pacific | Facebook",
+   "link": "http://www.facebook.com/EarthquakeAu",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Earthquake Watch Australia / Pacific, sign up for Facebook today.   ... Thursday, December 6, 2012 07:00:54 UTCThursday, December 6, 2012 03:  00:54 AM ...... Tuesday, December 4, 2012 18:59:43 UTCTuesday, December 4,   2012 .... 1913. 1912. 1911. 1910. 1909. 1908. 1907. 1906. 1905. Why do I need   to ...",
+   "htmlSnippet": "To connect with \u003cb\u003eEarthquake\u003c/b\u003e Watch \u003cb\u003eAustralia\u003c/b\u003e / Pacific, sign up for Facebook today. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Thursday, \u003cb\u003eDecember\u003c/b\u003e 6, 2012 07:00:54 UTCThursday, \u003cb\u003eDecember\u003c/b\u003e 6, 2012 03:\u003cbr\u003e  00:54 AM \u003cb\u003e......\u003c/b\u003e Tuesday, \u003cb\u003eDecember\u003c/b\u003e 4, 2012 \u003cb\u003e18\u003c/b\u003e:59:43 UTCTuesday, \u003cb\u003eDecember\u003c/b\u003e 4, \u003cbr\u003e  2012 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1913\u003c/b\u003e. 1912. 1911. 1910. 1909. 1908. 1907. 1906. 1905. Why do I need \u003cbr\u003e  to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oigOfWgQCREJ",
+   "formattedUrl": "www.facebook.com/EarthquakeAu",
+   "htmlFormattedUrl": "www.facebook.com/\u003cb\u003eEarthquake\u003c/b\u003eAu",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/174561_145787152101016_1818795832_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Watch Australia / Pacific"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "138",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBQt4vQE6l6F-3uOp9sVp6ZDZ-hgyylclarWekd7F8RcYjUuWKm4gTHieW"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Watch Australia / Pacific",
+      "og:type": "company",
+      "og:url": "http://www.facebook.com/EarthquakeAu",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/174561_145787152101016_1818795832_n.jpg",
+      "og:description": "A Page that is updated daily and brings you information about earthquakes happening in and around..."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 28 1961 Australia Earthquake",
+    "totalResults": "101000",
+    "searchTerms": "Dec 28 1961 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 28 1961 Australia Earthquake",
+    "totalResults": "101000",
+    "searchTerms": "Dec 28 1961 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.26929,
+  "formattedSearchTime": "0.27",
+  "totalResults": "101000",
+  "formattedTotalResults": "101,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on December 28 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eDecember 28\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/dec28.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "December 28, 1836 South Australia and Adelaide are founded. ... December 28,   1908 \"An earthquake rocks Messina, Sicily killing over 75,000.\" ... December 28,   1961 Number one hit on UK music charts - Danny Williams - Moon River ...",
+   "htmlSnippet": "December 28, 1836 South \u003cb\u003eAustralia\u003c/b\u003e and Adelaide are founded. \u003cb\u003e...\u003c/b\u003e December 28, \u003cbr\u003e  1908 &quot;An \u003cb\u003eearthquake\u003c/b\u003e rocks Messina, Sicily killing over 75,000.&quot; \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember 28,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1961\u003c/b\u003e Number one hit on UK music charts - Danny Williams - Moon River \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NCeDa-jK0BQJ",
+   "formattedUrl": "www.datesinhistory.com/dec28.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003edec28\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volcano activity of August 2, 2012 ￢ﾀﾓ White Island volcano, New ...",
+   "htmlTitle": "Volcano activity of August 2, 2012 ￢ﾀﾓ White Island volcano, New \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/02/volcano-activity-of-august-2-2012-white-island-volcano-new-zealand-aviation-code-changed-to-yellow/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 2, 2012 ... However, sometime between Friday July 27 and Saturday July 28, the lake level   rose ... with the recent earthquakes and changes in gas flux at Tongariro volcano.   ... In 1961, Haleakalￄﾁ became its own separate national park. ... list December 4,   2012 - Strong but deep earthquake near Anchorage, Alaska ...",
+   "htmlSnippet": "Aug 2, 2012 \u003cb\u003e...\u003c/b\u003e However, sometime between Friday July 27 and Saturday July \u003cb\u003e28\u003c/b\u003e, the lake level \u003cbr\u003e  rose \u003cb\u003e...\u003c/b\u003e with the recent \u003cb\u003eearthquakes\u003c/b\u003e and changes in gas flux at Tongariro volcano. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e In \u003cb\u003e1961\u003c/b\u003e, Haleakalￄﾁ became its own separate national park. \u003cb\u003e...\u003c/b\u003e list \u003cb\u003eDecember\u003c/b\u003e 4, \u003cbr\u003e  2012 - Strong but deep \u003cb\u003eearthquake\u003c/b\u003e near Anchorage, Alaska \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mY8aANdTjiQJ",
+   "formattedUrl": "earthquake-report.com/.../volcano-activity-of-august-2-2012-white-island- volcano-new-zealand-aviation-code-changed-to-yellow/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../volcano-activity-of-august-2-2012-white-island- volcano-new-zealand-aviation-code-changed-to-yellow/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/08/vn-02082012-WhiteIslandPic.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "354",
+      "height": "142",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9n-JvnB0qDzV0WjPuDdJ0SGyhKMrBnnBVWWDy1Z3vVyNlnJjsBWBpuA7N"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 28: Information from Answers.com",
+   "htmlTitle": "\u003cb\u003eDecember 28\u003c/b\u003e: Information from Answers.com",
+   "link": "http://www.answers.com/topic/december-28",
+   "displayLink": "www.answers.com",
+   "snippet": "December 28, 2011 ￢ﾀﾔ Wednesday Events on December 28, 2011 Australia:   Proclamation Day ... 893 ￢ﾀﾓ An earthquake destroys the city of Dvin, Armenia.",
+   "htmlSnippet": "\u003cb\u003eDecember 28\u003c/b\u003e, 2011 ￢ﾀﾔ Wednesday Events on \u003cb\u003eDecember 28\u003c/b\u003e, 2011 \u003cb\u003eAustralia\u003c/b\u003e: \u003cbr\u003e  Proclamation Day \u003cb\u003e...\u003c/b\u003e 893 ￢ﾀﾓ An \u003cb\u003eearthquake\u003c/b\u003e destroys the city of Dvin, Armenia.",
+   "cacheId": "0IZwI36-h70J",
+   "formattedUrl": "www.answers.com/topic/december-28",
+   "htmlFormattedUrl": "www.answers.com/topic/\u003cb\u003edecember\u003c/b\u003e-\u003cb\u003e28\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://rxf.answcdn.com/includes/images/icons/a-icon.png"
+     }
+    ],
+    "metatags": [
+     {
+      "abtest": "mode_id=20000",
+      "dsid": "2874",
+      "deid": "362",
+      "osk": "dec28",
+      "topicid": "3547694",
+      "taxonomy": "other",
+      "taxonomy_site": "other",
+      "url": "tname=december-28",
+      "topicname": "December 28",
+      "topicuniquetitle": "december-28",
+      "msapplication-starturl": "http://www.answers.com",
+      "application-name": "Answers.com",
+      "fb:app_id": "168416999909992",
+      "og:site_name": "Answers.com",
+      "og:image": "http://rxf.answcdn.com/includes/images/icons/a-icon.png",
+      "og:type": "website",
+      "og:title": "December 28",
+      "og:url": "http://www.answers.com/topic/december-28"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news ￢ﾀﾓ Now moved to a special category",
+   "htmlTitle": "Worldwide VOLCANO news ￢ﾀﾓ Now moved to a special category",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... Jon Frimann (Iceland Earthquakes and Volcanoes blog) reports a cluster of ...   Today, the earthquake swarm at Popocatepetl (Mexico) that was dwindling .....   the volcano's icecap Katla around 28 April 2012 and possibly again around .....   uitbarstte (laatste uitbarsting 1961) toch wel een vulkaan om binnen ...",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e Jon Frimann (Iceland \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanoes blog) reports a cluster of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Today, the \u003cb\u003eearthquake\u003c/b\u003e swarm at Popocatepetl (Mexico) that was dwindling \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  the volcano&#39;s icecap Katla around \u003cb\u003e28\u003c/b\u003e April 2012 and possibly again around \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  uitbarstte (laatste uitbarsting \u003cb\u003e1961\u003c/b\u003e) toch wel een vulkaan om binnen \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its .....   Simpson Desert, 21 December 1937, magnitude 6.0, in a remote location of the   .... \"Unknown\". http://www.seis.com.au/EQ/EQ_info/1961_05.html. ... 28 March   2004.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Simpson Desert, 21 \u003cb\u003eDecember\u003c/b\u003e 1937, magnitude 6.0, in a remote location of the \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e &quot;Unknown&quot;. http://www.seis.com.au/EQ/EQ_info/\u003cb\u003e1961_05\u003c/b\u003e.html. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e28\u003c/b\u003e March \u003cbr\u003e  2004.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes @ GA ￢ﾀﾔ Earthquake Database ￢ﾀﾔ Search Results",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e @ GA ￢ﾀﾔ \u003cb\u003eEarthquake\u003c/b\u003e Database ￢ﾀﾔ Search Results",
+   "link": "http://www.ga.gov.au/earthquakes/list.do?isRegionSelected=true&region=Qld",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Earthquakes @ Geoscience Australia ... 4.7, 28 December 1961 @ 07:34:35, 28   December 1961 @ 17:34:35, -28.120, 141.570, 10, SW Queensland, Yes, Yes ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e @ Geoscience \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 4.7, \u003cb\u003e28 December 1961\u003c/b\u003e @ 07:34:35, \u003cb\u003e28\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eDecember 1961\u003c/b\u003e @ 17:34:35, -28.120, 141.570, 10, SW Queensland, Yes, Yes \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZZU2m6MrgbkJ",
+   "formattedUrl": "www.ga.gov.au/earthquakes/list.do?isRegionSelected=true...Qld",
+   "htmlFormattedUrl": "www.ga.gov.au/\u003cb\u003eearthquakes\u003c/b\u003e/list.do?isRegionSelected=true...Qld"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1908 Messina earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1908 Messina \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1908_Messina_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1908 Messina earthquake (also known as the 1908 Messina and Reggio   earthquake) and tsunami took some 100,000 to 200,000 lives on December 28, ...",
+   "htmlSnippet": "The 1908 Messina \u003cb\u003eearthquake\u003c/b\u003e (also known as the 1908 Messina and Reggio \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e) and tsunami took some 100,000 to 200,000 lives on \u003cb\u003eDecember 28\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FDIJA6ZxBoQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1908_Messina_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1908_Messina_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Mappa_terremoto_1908.jpg/240px-Mappa_terremoto_1908.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "156",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMTP92LJxDyXfIzWlQWgHBGiHEEFrC4irdmgIrlqRAUjgxJl749dAkJto"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 28 Events in History",
+   "htmlTitle": "\u003cb\u003eDecember 28\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/december_28.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "December 28 in history.",
+   "htmlSnippet": "\u003cb\u003eDecember 28\u003c/b\u003e in history.",
+   "cacheId": "s8Eay64Up_0J",
+   "formattedUrl": "www.brainyhistory.com/days/december_28.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003edecember\u003c/b\u003e_\u003cb\u003e28\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "December 28 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/december_28.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 28 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDecember 28\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/December_28",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "December 28 is the 362nd day of the year (363rd in leap years) in the ... 5.6   earthquake hits Newcastle, New South Wales, Australia, killing 13 people.",
+   "htmlSnippet": "\u003cb\u003eDecember 28\u003c/b\u003e is the 362nd day of the year (363rd in leap years) in the \u003cb\u003e...\u003c/b\u003e 5.6 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e hits Newcastle, New South Wales, \u003cb\u003eAustralia\u003c/b\u003e, killing 13 people.",
+   "cacheId": "FTMf6n-4lDMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/December_28",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDecember\u003c/b\u003e_\u003cb\u003e28\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fire Service Earthquake Preparedness",
+   "htmlTitle": "Fire Service \u003cb\u003eEarthquake\u003c/b\u003e Preparedness",
+   "link": "http://www.dpc.nsw.gov.au/__data/assets/pdf_file/0004/1030/Report_into_Fire_Service_Earthquake_Preparedness.pdf",
+   "displayLink": "www.dpc.nsw.gov.au",
+   "snippet": "However, on the 28 th. December ... December, 1989, Australia's earthquakes   had occurred in remote, ..... south west of Sydney, on May 21, 1961 at 0740 hours  .",
+   "htmlSnippet": "However, on the \u003cb\u003e28\u003c/b\u003e th. \u003cb\u003eDecember\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember\u003c/b\u003e, 1989, \u003cb\u003eAustralia&#39;s earthquakes\u003c/b\u003e \u003cbr\u003e  had occurred in remote, \u003cb\u003e.....\u003c/b\u003e south west of Sydney, on May 21, \u003cb\u003e1961\u003c/b\u003e at 0740 hours\u003cbr\u003e  .",
+   "cacheId": "ChJk3iae_9wJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dpc.nsw.gov.au/__.../Report_into_Fire_Service_Earthquake_ Preparedness.pdf",
+   "htmlFormattedUrl": "www.dpc.nsw.gov.au/__.../Report_into_Fire_Service_\u003cb\u003eEarthquake\u003c/b\u003e_ Preparedness.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word - GlennLaunt.doc",
+      "creationdate": "D:20010712101131",
+      "title": "GlennLaunt2000a",
+      "producer": "Acrobat PDFWriter 4.05 for Windows"
+     }
+    ]
+   }
+  }
+ ]
+}

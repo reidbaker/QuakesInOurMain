@@ -1,0 +1,288 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 25 1967 India Earthquake",
+    "totalResults": "280000",
+    "searchTerms": "Apr 25 1967 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 25 1967 India Earthquake",
+    "totalResults": "280000",
+    "searchTerms": "Apr 25 1967 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.270916,
+  "formattedSearchTime": "0.27",
+  "totalResults": "280000",
+  "formattedTotalResults": "280,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. .... 2007 03 25 - Near the West   Coast of Honshu,Japan - M 6.7 Fatalities 1; 2007 03 25 ..... Western Sicily - M 6.5   Fatalities 231; 1967 12 10 - Koyna, India - M 6.3 Fatalities 177 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e....\u003c/b\u003e 2007 03 \u003cb\u003e25\u003c/b\u003e - Near the West \u003cbr\u003e  Coast of Honshu,Japan - M 6.7 Fatalities 1; 2007 03 \u003cb\u003e25\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e Western Sicily - M 6.5 \u003cbr\u003e  Fatalities 231; \u003cb\u003e1967\u003c/b\u003e 12 10 - Koyna, \u003cb\u003eIndia\u003c/b\u003e - M 6.3 Fatalities 177 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. .... See 1928   Chachapoyas earthquake, ￢ﾈﾒ5.26, ￢ﾈﾒ78.56, 25, 7.2, Mw ..... 01967-12-10December   10, 1967, 22:51, Koynanagar, India, 17.39, 73.77, 6.3, Mw (Langston, ..... A note   on the Kangra Ms = 7.8 earthquake of April 4, 1905, Current Science, 79, 45￢ﾀﾓ50.",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e See 1928 \u003cbr\u003e  Chachapoyas \u003cb\u003eearthquake\u003c/b\u003e, ￢ﾈﾒ5.26, ￢ﾈﾒ78.56, \u003cb\u003e25\u003c/b\u003e, 7.2, Mw \u003cb\u003e.....\u003c/b\u003e 01967-12-10December \u003cbr\u003e  10, \u003cb\u003e1967\u003c/b\u003e, 22:51, Koynanagar, \u003cb\u003eIndia\u003c/b\u003e, 17.39, 73.77, 6.3, Mw (Langston, \u003cb\u003e.....\u003c/b\u003e A note \u003cbr\u003e  on the Kangra Ms = 7.8 \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eApril\u003c/b\u003e 4, 1905, Current Science, 79, 45￢ﾀﾓ50.",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The History Place - This Month in History: April",
+   "htmlTitle": "The History Place - This Month in History: \u003cb\u003eApril\u003c/b\u003e",
+   "link": "http://www.historyplace.com/specials/calendar/april.htm",
+   "displayLink": "www.historyplace.com",
+   "snippet": "Day by day listing of interesting historical events for April. ... Jump to: April 5 10   15 20 25. April 1. April 1, 1865 - During the American Civil War, ..... April 18, 1906   - The San Francisco Earthquake struck at 5:13 a.m., followed by a massive ....   April 25, 1967 - The first law legalizing abortion was signed by Colorado   Governor ...",
+   "htmlSnippet": "Day by day listing of interesting historical events for April. \u003cb\u003e...\u003c/b\u003e Jump to: April 5 10 \u003cbr\u003e  15 20 25. April 1. April 1, 1865 - During the American Civil War, \u003cb\u003e.....\u003c/b\u003e April 18, 1906 \u003cbr\u003e  - The San Francisco \u003cb\u003eEarthquake\u003c/b\u003e struck at 5:13 a.m., followed by a massive \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApril 25\u003c/b\u003e, \u003cb\u003e1967\u003c/b\u003e - The first law legalizing abortion was signed by Colorado \u003cbr\u003e  Governor \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fMDiD88_t74J",
+   "formattedUrl": "www.historyplace.com/specials/calendar/april.htm",
+   "htmlFormattedUrl": "www.historyplace.com/specials/calendar/\u003cb\u003eapril\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.historyplace.com/specials/calendar/celeb-aisan.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "192",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtc0MGt5T7Mb6lBsvlNzttWDpBeGA3sw44kboiSry4w5VMSNcGMqUkXVLq"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The list incorporates high quality earthquake source (i.e., origin time, location ...   1900-07-12 06:25, Turkey, 40.300, 43.100, 5.9 UK, 140 ...... 1967-12-10 22:51,   India (see 1967 Koynanagar earthquake), 17.394, 73.774, 10.7, 6.3 UK, 180, 177 ...",
+   "htmlSnippet": "The list incorporates high quality \u003cb\u003eearthquake\u003c/b\u003e source (i.e., origin time, location \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1900-07-12 06:\u003cb\u003e25\u003c/b\u003e, Turkey, 40.300, 43.100, 5.9 UK, 140 \u003cb\u003e......\u003c/b\u003e \u003cb\u003e1967\u003c/b\u003e-12-10 22:51, \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e (see \u003cb\u003e1967\u003c/b\u003e Koynanagar \u003cb\u003eearthquake\u003c/b\u003e), 17.394, 73.774, 10.7, 6.3 UK, 180, 177 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of Some Significant Earthquakes in INDIA and its neighbourhood",
+   "htmlTitle": "List of Some Significant \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eINDIA\u003c/b\u003e and its neighbourhood",
+   "link": "http://www.imd.gov.in/section/seismo/static/signif.htm",
+   "displayLink": "www.imd.gov.in",
+   "snippet": "LIST OF SOME SIGNIFICANT EARTHQUAKES IN INDIA AND ITS ... 1869 JAN 10  , 25, 93, NEAR CACHAR, ASSAM, 7.5. 1885 MAY ... 1905 APR 04, 32.3, 76.3,   KANGRA, H.P, 8.0 ... 1967 DEC 10, 17.37, 73.75, KOYNA, MAHARASHTRA, 6.5 ...",
+   "htmlSnippet": "LIST OF SOME SIGNIFICANT \u003cb\u003eEARTHQUAKES\u003c/b\u003e IN \u003cb\u003eINDIA\u003c/b\u003e AND ITS \u003cb\u003e...\u003c/b\u003e 1869 JAN 10\u003cbr\u003e  , \u003cb\u003e25\u003c/b\u003e, 93, NEAR CACHAR, ASSAM, 7.5. 1885 MAY \u003cb\u003e...\u003c/b\u003e 1905 \u003cb\u003eAPR\u003c/b\u003e 04, 32.3, 76.3, \u003cbr\u003e  KANGRA, H.P, 8.0 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1967\u003c/b\u003e DEC 10, 17.37, 73.75, KOYNA, MAHARASHTRA, 6.5 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0mrn6oclz3UJ",
+   "formattedUrl": "www.imd.gov.in/section/seismo/static/signif.htm",
+   "htmlFormattedUrl": "www.imd.gov.in/section/seismo/static/signif.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "NS, nsimd@ymail.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A review of recent studies of triggered earthquakes by artificial water ...",
+   "htmlTitle": "A review of recent studies of triggered \u003cb\u003eearthquakes\u003c/b\u003e by artificial water \u003cb\u003e...\u003c/b\u003e",
+   "link": "ftp://ftp.gps.caltech.edu/pub/avouac/Ge277-2012/readings/Gupta_Koyna-ESR-2002.pdf",
+   "displayLink": "ftp.gps.caltech.edu",
+   "snippet": "Kremasta, Greece in 1966; and Koyna, India in 1967. ..... M 4.4 earthquake of   April 25, 1997, for which the residual pore pressure fluctuations are included in   Fig.",
+   "htmlSnippet": "Kremasta, Greece in 1966; and Koyna, \u003cb\u003eIndia\u003c/b\u003e in \u003cb\u003e1967\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e M 4.4 \u003cb\u003eearthquake\u003c/b\u003e of \u003cbr\u003e  \u003cb\u003eApril 25\u003c/b\u003e, 1997, for which the residual pore pressure fluctuations are included in \u003cbr\u003e  Fig.",
+   "cacheId": "O43VBl4xfNAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ftp://ftp.gps.caltech.edu/pub/avouac/Ge277.../Gupta_Koyna-ESR-2002.pdf",
+   "htmlFormattedUrl": "ftp://ftp.gps.caltech.edu/pub/avouac/Ge277.../Gupta_Koyna-ESR-2002.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20020919130357",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "title": "PII: S0012-8252(02)00063-6",
+      "moddate": "D:20020919130359+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indian Seismicity and Past Earthquakes",
+   "htmlTitle": "\u003cb\u003eIndian\u003c/b\u003e Seismicity and Past \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.iitgn.ac.in/web-GEE/GAEE%20Handouts/IndianSeismicity_SKJ.pdf",
+   "displayLink": "www.iitgn.ac.in",
+   "snippet": "Some Recent Indian Earthquakes .... 25. 1897 Assam Earthquake￢ﾀﾦ before the   1897 Assam Earthquake ... 4 April 1905 ... 1967 Koyna Earthquake￢ﾀﾦ",
+   "htmlSnippet": "Some Recent \u003cb\u003eIndian Earthquakes\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003e25\u003c/b\u003e. 1897 Assam \u003cb\u003eEarthquake\u003c/b\u003e￢ﾀﾦ before the \u003cbr\u003e  1897 Assam \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 4 \u003cb\u003eApril\u003c/b\u003e 1905 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1967\u003c/b\u003e Koyna \u003cb\u003eEarthquake\u003c/b\u003e￢ﾀﾦ",
+   "cacheId": "yPGnZYm5Xn4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitgn.ac.in/web-GEE/GAEE%20Handouts/IndianSeismicity_SKJ.pdf",
+   "htmlFormattedUrl": "www.iitgn.ac.in/web-GEE/GAEE%20Handouts/\u003cb\u003eIndian\u003c/b\u003eSeismicity_SKJ.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "shivani",
+      "creationdate": "D:20120320050008Z",
+      "creator": "Microsoftￂﾮ Office PowerPointￂﾮ 2007",
+      "moddate": "D:20120325215248+05'30'",
+      "producer": "Microsoftￂﾮ Office PowerPointￂﾮ 2007",
+      "title": "Indian Seismicity and Past Earthquakes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tracking Bible Prophecy: Tracking the Birth Pangs - News",
+   "htmlTitle": "Tracking Bible Prophecy: Tracking the Birth Pangs - News",
+   "link": "http://www.trackingbibleprophecy.com/birthpangs_news.php",
+   "displayLink": "www.trackingbibleprophecy.com",
+   "snippet": "... March 25 - 160 square mile piece of the Antarctic ice shelf collapses; March/  April ... April 26 - 4.7 magnitude earthquake in Nevada; April 28 - India sets world   ..... state must be based on 1967 borders; May 19 - 5.8 magnitude earthquake in ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e March \u003cb\u003e25\u003c/b\u003e - 160 square mile piece of the Antarctic ice shelf collapses; March/\u003cbr\u003e  \u003cb\u003eApril\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 26 - 4.7 magnitude \u003cb\u003eearthquake\u003c/b\u003e in Nevada; \u003cb\u003eApril\u003c/b\u003e 28 - \u003cb\u003eIndia\u003c/b\u003e sets world \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e state must be based on \u003cb\u003e1967\u003c/b\u003e borders; May 19 - 5.8 magnitude \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XAcZtwlIKyIJ",
+   "formattedUrl": "www.trackingbibleprophecy.com/birthpangs_news.php",
+   "htmlFormattedUrl": "www.trackingbibleprophecy.com/birthpangs_news.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.trackingbibleprophecy.com/images/birthpangs.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSwii9j-4QJqn02Im_D8eCLOLDFyYANGk9hJwpsEC4G9YNoS-wS9vFCBSf"
+     }
+    ],
+    "metatags": [
+     {
+      "name": "Tracking Bible Prophecy: Tracking the Birth Pangs - News",
+      "author": "Amy Van Gerpen"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": ":: ASC :: Seismicity of Maharashtra, India",
+   "htmlTitle": ":: ASC :: Seismicity of Maharashtra, \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://asc-india.org/seismi/seis-maharashtra.htm",
+   "displayLink": "asc-india.org",
+   "snippet": "Sep 18, 2008 ... All the earthquakes here, as in all of peninsula India, are intraplate events. .... 25   April 1967 - Mahad-Goregaon area, Maharashtra, M? 5.6 (9).",
+   "htmlSnippet": "Sep 18, 2008 \u003cb\u003e...\u003c/b\u003e All the \u003cb\u003eearthquakes\u003c/b\u003e here, as in all of peninsula \u003cb\u003eIndia\u003c/b\u003e, are intraplate events. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e25\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApril 1967\u003c/b\u003e - Mahad-Goregaon area, Maharashtra, M? 5.6 (9).",
+   "cacheId": "PXg09fzH4LkJ",
+   "formattedUrl": "asc-india.org/seismi/seis-maharashtra.htm",
+   "htmlFormattedUrl": "asc-\u003cb\u003eindia\u003c/b\u003e.org/seismi/seis-maharashtra.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://asc-india.org/maps/seismi/seis-maharashtra.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "184",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt8caT6MeTYUCUhS1bAgxrYMyXtg-eBa-r2p6XDnyMBGYp2pwfjDWGAEU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical seismicity and deformation rates in the Indian Peninsular ...",
+   "htmlTitle": "Historical seismicity and deformation rates in the \u003cb\u003eIndian\u003c/b\u003e Peninsular \u003cb\u003e...\u003c/b\u003e",
+   "link": "ftp://quake.geo.berkeley.edu/outgoing/apel/RaoJS2000_2.pdf",
+   "displayLink": "quake.geo.berkeley.edu",
+   "snippet": "deeper understanding of the earthquake process in the ... Significant   Earthquakes occurred in the Indian Shield regions (M = 6.0 and .... 25 Apr 1967.   18.2. 73.4 ...",
+   "htmlSnippet": "deeper understanding of the \u003cb\u003eearthquake\u003c/b\u003e process in the \u003cb\u003e...\u003c/b\u003e Significant \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e occurred in the \u003cb\u003eIndian\u003c/b\u003e Shield regions (M = 6.0 and \u003cb\u003e....\u003c/b\u003e \u003cb\u003e25 Apr 1967\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003e18.2\u003c/b\u003e. 73.4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6aHC9dFmnggJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ftp://quake.geo.berkeley.edu/outgoing/apel/RaoJS2000_2.pdf",
+   "htmlFormattedUrl": "ftp://\u003cb\u003equake\u003c/b\u003e.geo.berkeley.edu/outgoing/apel/RaoJS2000_2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20000614195612",
+      "producer": "Acrobat Distiller 3.0 for Windows",
+      "moddate": "D:20041015081514+08'00'",
+      "title": "Historical seismicity and deformation rates in the Indian Peninsular Shield"
+     }
+    ]
+   }
+  }
+ ]
+}

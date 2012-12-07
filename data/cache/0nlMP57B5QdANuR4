@@ -1,0 +1,324 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 19 1926 Eurasia Earthquake",
+    "totalResults": "7010",
+    "searchTerms": "Sep 19 1926 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 19 1926 Eurasia Earthquake",
+    "totalResults": "7010",
+    "searchTerms": "Sep 19 1926 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.219298,
+  "formattedSearchTime": "0.22",
+  "totalResults": "7010",
+  "formattedTotalResults": "7,010"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Shￅﾍwa, 1926￢ﾀﾓ1989 ... Japan was originally attached to the eastern coast of the   Eurasian continent. .... On September 1, 1923, an earthquake measuring 7.9 M,   the 1923 Great Kantￅﾍ earthquake struck the Kantￅﾍ plain on the Japanese main   island of ... [19] and Mj7.3 on the revised (7.2 on the old) JMA magnitude scale.",
+   "htmlSnippet": "Shￅﾍwa, \u003cb\u003e1926\u003c/b\u003e￢ﾀﾓ1989 \u003cb\u003e...\u003c/b\u003e Japan was originally attached to the eastern coast of the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e continent. \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eSeptember\u003c/b\u003e 1, 1923, an \u003cb\u003eearthquake\u003c/b\u003e measuring 7.9 M, \u003cbr\u003e  the 1923 Great Kantￅﾍ \u003cb\u003eearthquake\u003c/b\u003e struck the Kantￅﾍ plain on the Japanese main \u003cbr\u003e  island of \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e19\u003c/b\u003e] and Mj7.3 on the revised (7.2 on the old) JMA magnitude scale.",
+   "cacheId": "NuRGcOQIbpIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japan_separation.png/270px-Japan_separation.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAivkrzGCuUOdUUabCsPoOS7Ntz0yc_PFSUl2M5kTnoihqkPpJiCdL5c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Large seismic faults in the Hellenic arc",
+   "htmlTitle": "Large \u003cb\u003eseismic\u003c/b\u003e faults in the Hellenic arc",
+   "link": "http://www.earth-prints.org/bitstream/2122/1706/1/01%20papazachos.pdf",
+   "displayLink": "www.earth-prints.org",
+   "snippet": "such fault (L = 160 km) produced a large earthquake (26 June 1926, M = 8.0) in   the easternmost part of the concave part of .... 19.09.1926 36.0ￂﾰN, 22.0ￂﾰE 6.3 D ...",
+   "htmlSnippet": "such fault (L = 160 km) produced a large \u003cb\u003eearthquake\u003c/b\u003e (26 June 1926, M = 8.0) in \u003cbr\u003e  the easternmost part of the concave part of \u003cb\u003e....\u003c/b\u003e \u003cb\u003e19.09.1926\u003c/b\u003e 36.0ￂﾰN, 22.0ￂﾰE 6.3 D \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OmILh2ymxmUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth-prints.org/bitstream/2122/1706/1/01%20papazachos.pdf",
+   "htmlFormattedUrl": "www.earth-prints.org/bitstream/2122/1706/1/01%20papazachos.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Tue Sep 12 14:32:52 2006",
+      "creationdate": "Tue Sep 12 14:32:36 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "May 19, 526, Antioch see 526 ... September 10, 1509, Istanbul ... October 22,   1926, 21:59 local time, Kars see 1926 Kars earthquake, 40.7, 43.7, 360, 6.0, Ms ...",
+   "htmlSnippet": "May \u003cb\u003e19\u003c/b\u003e, 526, Antioch see 526 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 10, 1509, Istanbul \u003cb\u003e...\u003c/b\u003e October 22, \u003cbr\u003e  \u003cb\u003e1926\u003c/b\u003e, 21:59 local time, Kars see \u003cb\u003e1926\u003c/b\u003e Kars \u003cb\u003eearthquake\u003c/b\u003e, 40.7, 43.7, 360, 6.0, Ms \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Watchers - Earthquake M 5.6 struck off island of Crete, Greece",
+   "htmlTitle": "The Watchers - \u003cb\u003eEarthquake\u003c/b\u003e M 5.6 struck off island of Crete, Greece",
+   "link": "http://thewatchers.adorraeli.com/2012/09/12/earthquake-m5-6-struck-island-crete-greece/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Posted on September 12, 2012 Posted in: Seismic activity ... moving southwest   with respect to the Eurasia plate with a velocity of about 30 mm/year. ... An   earthquake having a focal depth of about 100 km and a magnitude of 7.7   occurred beneath the Dodecanese Islands in 1926. ... Posted September 17,   2012 at 10:19 AM ...",
+   "htmlSnippet": "Posted on \u003cb\u003eSeptember\u003c/b\u003e 12, 2012 Posted in: \u003cb\u003eSeismic\u003c/b\u003e activity \u003cb\u003e...\u003c/b\u003e moving southwest \u003cbr\u003e  with respect to the \u003cb\u003eEurasia\u003c/b\u003e plate with a velocity of about 30 mm/year. \u003cb\u003e...\u003c/b\u003e An \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e having a focal depth of about 100 km and a magnitude of 7.7 \u003cbr\u003e  occurred beneath the Dodecanese Islands in \u003cb\u003e1926\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Posted \u003cb\u003eSeptember\u003c/b\u003e 17, \u003cbr\u003e  2012 at 10:\u003cb\u003e19\u003c/b\u003e AM \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XQ_qdLrsYGsJ",
+   "formattedUrl": "thewatchers.adorraeli.com/.../earthquake-m5-6-struck-island-crete-greece/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/.../\u003cb\u003eearthquake\u003c/b\u003e-m5-6-struck-island-crete-greece/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/09/creten1-e1347426482987.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "277",
+      "height": "182",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJjDOMsc2eM_LBpgrSrF6t6T5s2qM4xHJnRGzB8SpkpD8ZN_Z6CTxYUSlt"
+     }
+    ],
+    "article": [
+     {
+      "name": "Earthquake M 5.6 struck off island of Crete, Greece",
+      "description": "Strong eathquake measuring M5.6 hit island of Crete, Greece at at 03:27:45 UTC on September 12. Location of epicenter was near island of Gavdos, 79 km (49 miles) S (177ￂﾰ) from Chania, Crete...",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Earthquake M 5.6 struck off island of Crete, Greece",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2012/09/12/earthquake-m5-6-struck-island-crete-greece?year=2012&monthnum=09&day=12&name=earthquake-m5-6-struck-island-crete-greece",
+      "og:description": "Strong eathquake measuring M5.6 hit island of Crete, Greece atￂﾠat 03:27:45 UTC on September 12. Location of epicenter was near island of Gavdos,ￂﾠ79 km (49 miles) S (177ￂﾰ) fromￂﾠChania, Crete ￂﾠandￂﾠ119 km (74 miles) WSW (241ￂﾰ) fromￂﾠIraklion, Crete, Greece (34.811ￂﾰN, 24.064ￂﾰE) at depth of 20 km, according to EMSC. USGS registered M5.5 at depth ofￂﾠ27.4 km (17.0 miles) and GEOFON registered M5.4 at depth of 10 km. Ground shaking lasted about 15-20 seconds. There are no reports of serious damage or injuries. ￂﾠ Local:ￂﾠPatras Satellite Link Network, Department of Geophysics Thessaloniki, Hellenic Seismic Network,ￂﾠNational Observatory of Athens, Institue of Geodynamics...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:image": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/09/creten1-e1347426482987.png",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Robin-gabrielle Frabbiele"
+     },
+     {
+      "fn": "Louise",
+      "nickname": "Louise",
+      "url": "http://sentirlaterre.blogspot.com.au/",
+      "url_text": "Louise"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   eastern ... the Arabian Plate and the Eurasian Plate, beyond the eastern extent of   the Armenian and Asia Minor fault zones. .... depth of 4.8 kilometres (3.0 mi) on 9   November at 21:23 local time (19:23 UTC). ..... Guerrero, Mexico (6.5, Dec 10) ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  eastern \u003cb\u003e...\u003c/b\u003e the Arabian Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of \u003cbr\u003e  the Armenian and Asia Minor fault zones. \u003cb\u003e....\u003c/b\u003e depth of 4.8 kilometres (3.0 mi) on 9 \u003cbr\u003e  November at 21:23 local time (\u003cb\u003e19\u003c/b\u003e:23 UTC). \u003cb\u003e.....\u003c/b\u003e Guerrero, Mexico (6.5, \u003cb\u003eDec\u003c/b\u003e 10) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a band of ... 1926, 19, 1956, 15, 1986, 6 ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a band of \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1926\u003c/b\u003e, \u003cb\u003e19\u003c/b\u003e, 1956, 15, 1986, 6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Watchers - Shallow M 5.0 earthquake struck northern Algeria",
+   "htmlTitle": "The Watchers - Shallow M 5.0 \u003cb\u003eearthquake\u003c/b\u003e struck northern Algeria",
+   "link": "http://thewatchers.adorraeli.com/2012/11/29/m5_0-algeria/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Nov 28, 2012 ... The 1903 M8.2 Kythera earthquake and the 1926 M7.8 Rhodes earthquakes are   the largest instrumentally recorded Mediterranean ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e The 1903 M8.2 Kythera \u003cb\u003eearthquake\u003c/b\u003e and the \u003cb\u003e1926\u003c/b\u003e M7.8 Rhodes \u003cb\u003eearthquakes\u003c/b\u003e are \u003cbr\u003e  the largest instrumentally recorded Mediterranean \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1SG0ZxsZG-0J",
+   "formattedUrl": "thewatchers.adorraeli.com/2012/11/29/m5_0-algeria/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/2012/11/29/m5_0-algeria/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/11/Algeria-5_01.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "319",
+      "height": "158",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGvDducarpbFT-VvEgnBdoocObJ9evQwbHdyOeC-n9B1R8Wc_cR7pYztc"
+     }
+    ],
+    "article": [
+     {
+      "name": "Shallow M 5.0 earthquake struck northern Algeria",
+      "description": "Moderate earthquake magnitude 5.0 struck northern Algeria at 23:15 UTC on November 28, 2012. European-Mediterranean Seismological Centre recorded M5.0 at depth of 15 km with epicenter located...",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Shallow M 5.0 earthquake struck northern Algeria",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2012/11/29/m5_0-algeria?year=2012&monthnum=11&day=29&name=m5_0-algeria",
+      "og:description": "Moderate earthquake magnitude 5.0 struck northern Algeria at 23:15 UTC on November 28, 2012. European-Mediterranean Seismological Centreￂﾠrecorded M5.0 at depth of 15 km with epicenter locatedￂﾠ36.97 N ; 5.10 E, 24 km N of Bijayah with population of 164 103.ￂﾠUSGSￂﾠrecorded M 5.0 at depth of 10.2 km and GEOFON registered M 4.9 at depth of 10 km. EMSC epicenter regional view (Credit: EMSC) ￂﾠ Just 45 minutes later, USGS registered 10 km deep, magnitude 4.4, aftershock at almost the same coordinates. There are no reports of significant damage or injuries at the moment. In October 1980 major M 7.7 earthquake...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:image": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/11/Algeria-5_01.png",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major Indonesian Earthquakes of the 20th Century | MCEER ...",
+   "htmlTitle": "Major Indonesian \u003cb\u003eEarthquakes\u003c/b\u003e of the 20th Century | MCEER \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://mceer.buffalo.edu/infoservice/reference_services/indonesian_earthquake.asp",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Indonesian earthquakes since 1900 with 1000 or more deaths. ... Indonesia lies   on the Pacific, Eurasian and Australian tectonic plates, making it ... 6.25.1926,   Papua, Deaths: ? ... 19 people were killed and 130 houses destroyed on   Kalaotoa.",
+   "htmlSnippet": "Indonesian \u003cb\u003eearthquakes\u003c/b\u003e since 1900 with 1000 or more deaths. \u003cb\u003e...\u003c/b\u003e Indonesia lies \u003cbr\u003e  on the Pacific, \u003cb\u003eEurasian\u003c/b\u003e and Australian tectonic plates, making it \u003cb\u003e...\u003c/b\u003e 6.25.\u003cb\u003e1926\u003c/b\u003e, \u003cbr\u003e  Papua, Deaths: ? \u003cb\u003e...\u003c/b\u003e \u003cb\u003e19\u003c/b\u003e people were killed and 130 houses destroyed on \u003cbr\u003e  Kalaotoa.",
+   "cacheId": "C64pP_gcRJ4J",
+   "formattedUrl": "mceer.buffalo.edu/infoservice/reference.../indonesian_earthquake.asp",
+   "htmlFormattedUrl": "mceer.buffalo.edu/infoservice/reference.../indonesian_\u003cb\u003eearthquake\u003c/b\u003e.asp"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Monitoring In Malaysia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Monitoring In Malaysia",
+   "link": "http://myiem.org.my/download/downloadlink.aspx?fn=984_Earthquake%20Monitoring%20In%20Malaysia.pdf&id=984",
+   "displayLink": "myiem.org.my",
+   "snippet": "(For the Seismic Risk Seminar, Malaysia,. 25 September 2001). Abstract. West   Malaysia is occasionally affected by tremors originating from large earthquakes   in ...",
+   "htmlSnippet": "(For the \u003cb\u003eSeismic\u003c/b\u003e Risk Seminar, Malaysia,. 25 \u003cb\u003eSeptember\u003c/b\u003e 2001). Abstract. West \u003cbr\u003e  Malaysia is occasionally affected by tremors originating from large \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NCtFRwnzwIQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "myiem.org.my/.../downloadlink.aspx?... Earthquake%20Monitoring%20In%20Malaysia...",
+   "htmlFormattedUrl": "myiem.org.my/.../downloadlink.aspx?... \u003cb\u003eEarthquake\u003c/b\u003e%20Monitoring%20In%20Malaysia...",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript  9.0",
+      "creationdate": "D:20110809121851+08'00'",
+      "moddate": "D:20110809121851+08'00'",
+      "title": "Earthquake Monitoring In Malaysia",
+      "creator": "PDFCreator Version 1.2.0",
+      "author": "hou"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude and Location of Historical Earthquakes in Japan and ...",
+   "htmlTitle": "Magnitude and Location of Historical \u003cb\u003eEarthquakes\u003c/b\u003e in Japan and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "displayLink": "usgsprojects.org",
+   "snippet": "Earthquakes felt in Tokyo occur as shallow crustal events, as PHS- Eurasian   interplate ..... intensities are not assigned at JMA sites for earthquakes before   1926. .... The epicenter of the 3 September 1998 earthquake is about .... T19, and   T20, respectively, if the Honshu model were used, rather than ￢ﾀﾓ0.2, 0.0, 0.1, and   0.1.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e felt in Tokyo occur as shallow crustal events, as PHS- \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  interplate \u003cb\u003e.....\u003c/b\u003e intensities are not assigned at JMA sites for \u003cb\u003eearthquakes\u003c/b\u003e before \u003cbr\u003e  \u003cb\u003e1926\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e The epicenter of the 3 \u003cb\u003eSeptember\u003c/b\u003e 1998 \u003cb\u003eearthquake\u003c/b\u003e is about \u003cb\u003e....\u003c/b\u003e \u003cb\u003eT19\u003c/b\u003e, and \u003cbr\u003e  T20, respectively, if the Honshu model were used, rather than ￢ﾀﾓ0.2, 0.0, 0.1, and \u003cbr\u003e  0.1.",
+   "cacheId": "MqYLfainWs0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "htmlFormattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20041108141107-08'00'",
+      "creationdate": "D:20041108162556-05'00'",
+      "title": "151522_1_art_file_2_1099949021.pdf",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 6.0 (Windows)"
+     }
+    ]
+   }
+  }
+ ]
+}

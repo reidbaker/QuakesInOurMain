@@ -1,0 +1,266 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 17 1914 Eurasia Earthquake",
+    "totalResults": "10500",
+    "searchTerms": "Aug 17 1914 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 17 1914 Eurasia Earthquake",
+    "totalResults": "10500",
+    "searchTerms": "Aug 17 1914 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.233882,
+  "formattedSearchTime": "0.23",
+  "totalResults": "10500",
+  "formattedTotalResults": "10,500"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1999 ￄﾰzmit earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1999 ￄﾰzmit \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1999 ￄﾰzmit earthquake (also known as the Kocaeli or Gￃﾶlcￃﾼk earthquake)   was a 7.6 magnitude earthquake that struck northwestern Turkey on August 17, ...",
+   "htmlSnippet": "The 1999 ￄﾰzmit \u003cb\u003eearthquake\u003c/b\u003e (also known as the Kocaeli or Gￃﾶlcￃﾼk \u003cb\u003eearthquake\u003c/b\u003e) \u003cbr\u003e  was a 7.6 magnitude \u003cb\u003eearthquake\u003c/b\u003e that struck northwestern Turkey on \u003cb\u003eAugust 17\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8ThrvWUukggJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1999_ￄﾰzmit_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1999_ￄﾰzmit\u003cb\u003e_earthquak\u003c/b\u003ee",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Izmit_eart2.jpg/240px-Izmit_eart2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "144",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfVxdFHNh4DYSUDom4pKRpH3PloSqggPoAjg2L4ZA4zfwD6c4-FvruPiXr"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major Turkish Earthquakes of the 20th Century | MCEER Information ...",
+   "htmlTitle": "Major Turkish \u003cb\u003eEarthquakes\u003c/b\u003e of the 20th Century | MCEER Information \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://mceer.buffalo.edu/infoservice/reference_services/turkey-major-earthquakes.asp",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Turkey is located on a highly active Eurasian geological plate, the source of   numerous ... 10.3.1914, Burdur, Deaths: 4,000, Mag: 7.0, Tsunami/Fire: No ....   Marmara, Turkey Earthquake of August 17, 1999: Reconnaissance Report;   MCEER 00- ...",
+   "htmlSnippet": "Turkey is located on a highly active \u003cb\u003eEurasian\u003c/b\u003e geological plate, the source of \u003cbr\u003e  numerous \u003cb\u003e...\u003c/b\u003e 10.3.\u003cb\u003e1914\u003c/b\u003e, Burdur, Deaths: 4,000, Mag: 7.0, Tsunami/Fire: No \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Marmara, Turkey \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eAugust 17\u003c/b\u003e, 1999: Reconnaissance Report; \u003cbr\u003e  MCEER 00- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JEdB0VGhJikJ",
+   "formattedUrl": "mceer.buffalo.edu/infoservice/.../turkey-major-earthquakes.asp",
+   "htmlFormattedUrl": "mceer.buffalo.edu/infoservice/.../turkey-major-\u003cb\u003eearthquakes\u003c/b\u003e.asp"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of earthquakes in Turkey, including any notable historical ... area   within the complex zone of collision between the Eurasian Plate and both the ...   see 1914 Burdur earthquake, 37.82, 30.27, 300, 6.9, MS ... August 17, 1949,   Karlￄﾱova ...",
+   "htmlSnippet": "This is a list of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey, including any notable historical \u003cb\u003e...\u003c/b\u003e area \u003cbr\u003e  within the complex zone of collision between the \u003cb\u003eEurasian\u003c/b\u003e Plate and both the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  see \u003cb\u003e1914\u003c/b\u003e Burdur \u003cb\u003eearthquake\u003c/b\u003e, 37.82, 30.27, 300, 6.9, MS \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust 17\u003c/b\u003e, 1949, \u003cbr\u003e  Karlￄﾱova \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1949 Karlￄﾱova earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1949 Karlￄﾱova \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1949_Karl%C4%B1ova_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1949 Karlￄﾱova earthquake occurred at 18:43 UTC on 17 August with an ... the   boundaries of the Eurasian Plate, Anatolian Plate and the Arabian Plate, the ...",
+   "htmlSnippet": "The 1949 Karlￄﾱova \u003cb\u003eearthquake\u003c/b\u003e occurred at 18:43 UTC on \u003cb\u003e17 August\u003c/b\u003e with an \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  boundaries of the \u003cb\u003eEurasian\u003c/b\u003e Plate, Anatolian Plate and the Arabian Plate, the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "coC-pcNMF7AJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1949_Karlￄﾱova_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1949_Karlￄﾱova_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/300px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtx_slPrubSJbXBRi7dccItzMDS5wO9EAk7mhHNYeDe4CbUt9NL7oi4WTf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "We summarize the written history of earthquakes in Afghanistan from 734 AD to ...   of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. ...... 17.   Gutenberg B. Unpublished worksheerts, Millikan Memorial Library, Cal. .... 6-   Quittmeyer and Jacob relocated events in the time period 1914 through 1965,   using a ...",
+   "htmlSnippet": "We summarize the written history of \u003cb\u003eearthquakes\u003c/b\u003e in Afghanistan from 734 AD to \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. \u003cb\u003e......\u003c/b\u003e \u003cb\u003e17\u003c/b\u003e. \u003cbr\u003e  Gutenberg B. Unpublished worksheerts, Millikan Memorial Library, Cal. \u003cb\u003e....\u003c/b\u003e 6- \u003cbr\u003e  Quittmeyer and Jacob relocated events in the time period \u003cb\u003e1914\u003c/b\u003e through 1965, \u003cbr\u003e  using a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1903 Malazgirt earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1903 Malazgirt \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1903 Malazgirt earthquake struck Malazgirt of Muￅﾟ Province in eastern   Turkey ... The country of Turkey is situated on a highly active section of the   Eurasian Plate ... On August 6, additional damage took place and people were   injured when an ... http://journals.tubitak.gov.tr/earth/issues/yer-08-17-2/yer-17-2-  8-0608-8.pdf.",
+   "htmlSnippet": "The 1903 Malazgirt \u003cb\u003eearthquake\u003c/b\u003e struck Malazgirt of Muￅﾟ Province in eastern \u003cbr\u003e  Turkey \u003cb\u003e...\u003c/b\u003e The country of Turkey is situated on a highly active section of the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e Plate \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eAugust\u003c/b\u003e 6, additional damage took place and people were \u003cbr\u003e  injured when an \u003cb\u003e...\u003c/b\u003e http://journals.tubitak.gov.tr/earth/issues/yer-08-\u003cb\u003e17\u003c/b\u003e-2/yer-\u003cb\u003e17\u003c/b\u003e-2-\u003cbr\u003e  8-0608-8.pdf.",
+   "cacheId": "IyR5zRaIRWAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/260px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "130",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1APbrsyOCdPXD5DVrwAx3ljyjMFt3Pszt2hV1HxJ-abZ-bk8AxETmGj0q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mediterranean",
+   "htmlTitle": "Mediterranean",
+   "link": "http://www.tsunami-alarm-system.com/en/phenomenon-tsunami/occurrences-mediterranean.html",
+   "displayLink": "www.tsunami-alarm-system.com",
+   "snippet": "27.11.1914, Greece, Ionian Islands, 6,3, 3,30 m, k. A. ... 17. August 1999: A large   destructive earthquake struck north-west Turkey and generated a local tsunami ...",
+   "htmlSnippet": "27.11.\u003cb\u003e1914\u003c/b\u003e, Greece, Ionian Islands, 6,3, 3,30 m, k. A. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e17\u003c/b\u003e. \u003cb\u003eAugust\u003c/b\u003e 1999: A large \u003cbr\u003e  destructive \u003cb\u003eearthquake\u003c/b\u003e struck north-west Turkey and generated a local tsunami \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fRSOxdRVUZ0J",
+   "formattedUrl": "www.tsunami-alarm-system.com/.../occurrences-mediterranean.html",
+   "htmlFormattedUrl": "www.tsunami-alarm-system.com/.../occurrences-mediterranean.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.tsunami-alarm-system.com/uploads/pics/tsunami_mediterranean.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "264",
+      "height": "191",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpnzYOIevHxl9vVWuFm8vWQ5BKSbOl6wZdJT09HLSNpdowMPcqBYZDR-0"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c) Tsunami Alarm Institute",
+      "author": "(c) Tsunami Alarm Institute",
+      "email": "info[at]sunami-alarm-system[dot]com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "What is the biggest earthquake that has ever happened? ... Around 15% of the   total seismic energy is released where the Eurasian and African plates are   colliding, forming a band of seismicity ... 1914, 22, 1944, 31, 1974, 21 ... 1922, 14,   1952, 17, 1982, 10 .... 7 Sep 1801, Comrie, 4.5, 2, near Edinburgh, falling   masonry ...",
+   "htmlSnippet": "What is the biggest \u003cb\u003eearthquake\u003c/b\u003e that has ever happened? \u003cb\u003e...\u003c/b\u003e Around 15% of the \u003cbr\u003e  total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and African plates are \u003cbr\u003e  colliding, forming a band of seismicity \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1914\u003c/b\u003e, 22, 1944, 31, 1974, 21 \u003cb\u003e...\u003c/b\u003e 1922, 14, \u003cbr\u003e  1952, \u003cb\u003e17\u003c/b\u003e, 1982, 10 \u003cb\u003e....\u003c/b\u003e 7 \u003cb\u003eSep\u003c/b\u003e 1801, Comrie, 4.5, 2, near Edinburgh, falling \u003cbr\u003e  masonry \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes - anonymous (2 mb pdf)",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e - anonymous (2 mb pdf)",
+   "link": "http://www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "displayLink": "www.arvindguptatoys.com",
+   "snippet": "The impacts of earthquakes normally cover large areas causing deaths. ... India   since August 15. 1950 when an 8.5 .... (which included what are now North   America and Eurasia) and ... second important belt. the Alpide, accounts for   about 17 percent of ..... in astronomy and meteorology at the University of   Marburg. in 1914 ...",
+   "htmlSnippet": "The impacts of \u003cb\u003eearthquakes\u003c/b\u003e normally cover large areas causing deaths. \u003cb\u003e...\u003c/b\u003e India \u003cbr\u003e  since \u003cb\u003eAugust\u003c/b\u003e 15. 1950 when an 8.5 \u003cb\u003e....\u003c/b\u003e (which included what are now North \u003cbr\u003e  America and \u003cb\u003eEurasia\u003c/b\u003e) and \u003cb\u003e...\u003c/b\u003e second important belt. the Alpide, accounts for \u003cbr\u003e  about \u003cb\u003e17\u003c/b\u003e percent of \u003cb\u003e.....\u003c/b\u003e in astronomy and meteorology at the University of \u003cbr\u003e  Marburg. in \u003cb\u003e1914\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "noMHUn-Du88J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "htmlFormattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-\u003cb\u003eearthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Thu Feb 16 16:50:09 2006",
+      "moddate": "Thu Jul 13 23:23:24 2006"
+     }
+    ]
+   }
+  }
+ ]
+}

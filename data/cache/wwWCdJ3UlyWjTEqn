@@ -1,0 +1,298 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 3 1916 Eurasia Earthquake",
+    "totalResults": "6360",
+    "searchTerms": "Dec 3 1916 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 3 1916 Eurasia Earthquake",
+    "totalResults": "6360",
+    "searchTerms": "Dec 3 1916 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.234649,
+  "formattedSearchTime": "0.23",
+  "totalResults": "6360",
+  "formattedTotalResults": "6,360"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... of the Philippine Sea plate and the Eurasian Plate to the east of the island. ... 1   List of earthquakes; 2 See also; 3 References; 4 External links ... December 3,   1848, Tainan, Changhua, Chiayi, 24.1, 120.5, -, ~7.1, 1,030 ... August 28, 1916,   15:27, Central Taiwan, 24.0, 121.0, 45, 6.8, 16, 614, 1916-17 Nantou   earthquakes ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e of the Philippine Sea plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate to the east of the island. \u003cb\u003e...\u003c/b\u003e 1 \u003cbr\u003e  List of \u003cb\u003eearthquakes\u003c/b\u003e; 2 See also; \u003cb\u003e3\u003c/b\u003e References; 4 External links \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember 3\u003c/b\u003e, \u003cbr\u003e  1848, Tainan, Changhua, Chiayi, 24.1, 120.5, -, ~7.1, 1,030 \u003cb\u003e...\u003c/b\u003e August 28, \u003cb\u003e1916\u003c/b\u003e, \u003cbr\u003e  15:27, Central Taiwan, 24.0, 121.0, 45, 6.8, 16, 614, \u003cb\u003e1916\u003c/b\u003e-17 Nantou \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Composite Regional Catalogs of Earthquakes in the Former Soviet ...",
+   "htmlTitle": "Composite Regional Catalogs of \u003cb\u003eEarthquakes\u003c/b\u003e in the Former Soviet \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/research/data/russia_seismicity/download/USGS-OFR-02-500.pdf",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "2.2.3 The number of earthquakes in the Annuals.............. 12. 2.2.4 The .... the   seismicity of the Eurasian land mass is therefore available, although to date only   in .... (45, as of Dec. ...... Sverdlovsk (Ekaterinburg), (1913-1916, 1923-1927); ...",
+   "htmlSnippet": "2.2.\u003cb\u003e3\u003c/b\u003e The number of \u003cb\u003eearthquakes\u003c/b\u003e in the Annuals.............. 12. 2.2.4 The \u003cb\u003e....\u003c/b\u003e the \u003cbr\u003e  seismicity of the \u003cb\u003eEurasian\u003c/b\u003e land mass is therefore available, although to date only \u003cbr\u003e  in \u003cb\u003e....\u003c/b\u003e (45, as of \u003cb\u003eDec\u003c/b\u003e. \u003cb\u003e......\u003c/b\u003e Sverdlovsk (Ekaterinburg), (1913-\u003cb\u003e1916\u003c/b\u003e, 1923-1927); \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iUoX_YvmSk0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake.usgs.gov/research/data/russia_seismicity/.../USGS-OFR-02-500. pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/research/data/russia_\u003cb\u003eseismic\u003c/b\u003eity/.../USGS-OFR-02-500. pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030114181140-05'00'",
+      "moddate": "D:20030114181140-05'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "creator": "AdobePS5.dll Version 5.2",
+      "title": "Microsoft Word - catalogs-final.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1951 East Rift Valley earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1951 East Rift Valley \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1951_East_Rift_Valley_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1951 East Rift Valley earthquakes (Chinese: 1951￥ﾹﾴ￧ﾸﾱ￨ﾰﾷ￥ﾜﾰ￩ﾜﾇ￧ﾳﾻ￥ﾈﾗ; ... Taiwan   from October 22, 1951 to December 5, 1951, four of which registered over 7 on ...   1 Technical data; 2 Names; 3 Damage; 4 External links; 5 References ... by the   interaction of the Philippine Sea and Eurasian tectonic plates in eastern Taiwan.",
+   "htmlSnippet": "The 1951 East Rift Valley \u003cb\u003eearthquakes\u003c/b\u003e (Chinese: 1951￥ﾹﾴ￧ﾸﾱ￨ﾰﾷ￥ﾜﾰ￩ﾜﾇ￧ﾳﾻ￥ﾈﾗ; \u003cb\u003e...\u003c/b\u003e Taiwan \u003cbr\u003e  from October 22, 1951 to \u003cb\u003eDecember\u003c/b\u003e 5, 1951, four of which registered over 7 on \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1 Technical data; 2 Names; \u003cb\u003e3\u003c/b\u003e Damage; 4 External links; 5 References \u003cb\u003e...\u003c/b\u003e by the \u003cbr\u003e  interaction of the Philippine Sea and \u003cb\u003eEurasian\u003c/b\u003e tectonic plates in eastern Taiwan.",
+   "cacheId": "0Fa0B2vcbsgJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1951_East_Rift_Valley_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1951_East_Rift_Valley_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Health Effects Of Fukushima Eurasia Review",
+   "htmlTitle": "The Health Effects Of Fukushima \u003cb\u003eEurasia\u003c/b\u003e Review",
+   "link": "http://www.eurasiareview.com/31082012-the-health-effects-of-fukushima/",
+   "displayLink": "www.eurasiareview.com",
+   "snippet": "Aug 31, 2012 ... The figure compares to 1916 people from Fukushima, Iwate and Miyagi   prefectures that died during evacuation from areas hit only by the tsunami and   the earthquake. ... 3 Responses to ￢ﾀﾜThe Health Effects Of Fukushima￢ﾀﾝ ... January   2012, December 2011, November 2011, October 2011, September 2011 ...",
+   "htmlSnippet": "Aug 31, 2012 \u003cb\u003e...\u003c/b\u003e The figure compares to \u003cb\u003e1916\u003c/b\u003e people from Fukushima, Iwate and Miyagi \u003cbr\u003e  prefectures that died during evacuation from areas hit only by the tsunami and \u003cbr\u003e  the \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e3\u003c/b\u003e Responses to ￢ﾀﾜThe Health Effects Of Fukushima￢ﾀﾝ \u003cb\u003e...\u003c/b\u003e January \u003cbr\u003e  2012, \u003cb\u003eDecember\u003c/b\u003e 2011, November 2011, October 2011, September 2011 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UyF0JcmCZdcJ",
+   "formattedUrl": "www.eurasiareview.com/31082012-the-health-effects-of-fukushima/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeurasia\u003c/b\u003ereview.com/31082012-the-health-effects-of-fukushima/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://lh4.googleusercontent.com/-NUgPg9fX3hI/Tpjlap7xaVI/AAAAAAAAA2Y/9wIp3Co5kLY/s220/Japan_%2528orthographic_projection%2529.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "176",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBlqiQAz0IoCZ91VCficdBqEvI3y6Nvv5B19hY_22l8jVhL-uHqIStCUw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Cleo",
+      "nickname": "Cleo",
+      "photo": "http://1.gravatar.com/avatar/7e713892c8712b9b3a8ad71c78d5c122?s=48&d=%3Cpath_to_url%3E&r=G"
+     },
+     {
+      "fn": "Imperator",
+      "nickname": "Imperator",
+      "photo": "http://1.gravatar.com/avatar/12e83ffba29d44671669b40352dc081b?s=48&d=%3Cpath_to_url%3E&r=G"
+     },
+     {
+      "fn": "Quartz",
+      "nickname": "Quartz",
+      "photo": "http://1.gravatar.com/avatar/3cc8b128fc8479b165d5d1bf81498df6?s=48&d=%3Cpath_to_url%3E&r=G"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "What is the biggest earthquake that has ever happened? ... Around 15% of the   total seismic energy is released where the Eurasian and African plates are   colliding, forming a band of seismicity which stretches from ... 1916, 25, 1946, 35,   1976, 25 ... 3 - 3.9, 3/yr .... 12 Dec 1940, Porthmadog, 4.7, 1, Criccieth, Fell   downstairs ...",
+   "htmlSnippet": "What is the biggest \u003cb\u003eearthquake\u003c/b\u003e that has ever happened? \u003cb\u003e...\u003c/b\u003e Around 15% of the \u003cbr\u003e  total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and African plates are \u003cbr\u003e  colliding, forming a band of seismicity which stretches from \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1916\u003c/b\u003e, 25, 1946, 35, \u003cbr\u003e  1976, 25 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e3\u003c/b\u003e - 3.9, \u003cb\u003e3\u003c/b\u003e/yr \u003cb\u003e....\u003c/b\u003e 12 \u003cb\u003eDec\u003c/b\u003e 1940, Porthmadog, 4.7, 1, Criccieth, Fell \u003cbr\u003e  downstairs \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The M9.0 Great Tohoku Earthquake (northeast Honshu, Japan) of ...",
+   "htmlTitle": "The M9.0 Great Tohoku \u003cb\u003eEarthquake\u003c/b\u003e (northeast Honshu, Japan) of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://aki.bc.edu/significant_events/global/2011/2011_Honshu_Japan_Summary.pdf",
+   "displayLink": "aki.bc.edu",
+   "snippet": "Mar 11, 2011 ... 1916. 1917. 1917. 1919. 1921. 1923. 1923. 1923. 1923. 1923. 1923. 1923. 1924   .... and Eurasia plates; these include the Okhotsk and Amur microplates ...   epicenter, caused 3 fatalities and almost 700 injuries in December ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1916\u003c/b\u003e. 1917. 1917. 1919. 1921. 1923. 1923. 1923. 1923. 1923. 1923. 1923. 1924 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e and \u003cb\u003eEurasia\u003c/b\u003e plates; these include the Okhotsk and Amur microplates \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  epicenter, caused \u003cb\u003e3\u003c/b\u003e fatalities and almost 700 injuries in \u003cb\u003eDecember\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WcAXQcGMMNEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "aki.bc.edu/significant_events/global/.../2011_Honshu_Japan_Summary.pdf",
+   "htmlFormattedUrl": "aki.bc.edu/significant_events/global/.../2011_Honshu_Japan_Summary.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110316144707-06'00'",
+      "creator": "Adobe Illustrator CS5",
+      "moddate": "D:20110316144707-06'00'",
+      "producer": "Adobe PDF library 9.90",
+      "title": "20110311newest4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Istanbul Earthquake Predicted for December 2012 | Britton LaRoche ...",
+   "htmlTitle": "Istanbul \u003cb\u003eEarthquake\u003c/b\u003e Predicted for \u003cb\u003eDecember\u003c/b\u003e 2012 | Britton LaRoche \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.garagegames.com/community/blog/view/15946/2",
+   "displayLink": "www.garagegames.com",
+   "snippet": "Jan 8, 2009 ... Our method for predicting earthquakes has failed for a Southern ... off of the lunar   saros cycle which produced a similar quake in Japan in 1916. .... (no match)   Number 3 is excluded .. does not cross any of the .... Here the Philippine plate is   moving under the Eurasian plate in an extensive subduction zone.",
+   "htmlSnippet": "Jan 8, 2009 \u003cb\u003e...\u003c/b\u003e Our method for predicting \u003cb\u003eearthquakes\u003c/b\u003e has failed for a Southern \u003cb\u003e...\u003c/b\u003e off of the lunar \u003cbr\u003e  saros cycle which produced a similar \u003cb\u003equake\u003c/b\u003e in Japan in \u003cb\u003e1916\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e (no match) \u003cbr\u003e  Number \u003cb\u003e3\u003c/b\u003e is excluded .. does not cross any of the \u003cb\u003e....\u003c/b\u003e Here the Philippine plate is \u003cbr\u003e  moving under the \u003cb\u003eEurasian\u003c/b\u003e plate in an extensive subduction zone.",
+   "cacheId": "oH0be3yykVcJ",
+   "formattedUrl": "www.garagegames.com/community/blog/view/15946/2",
+   "htmlFormattedUrl": "www.garagegames.com/community/blog/view/15946/2",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i989.photobucket.com/albums/af15/zencoder/Quakes/stresstransfer.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "288",
+      "height": "175",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQdOLIMTBreX9rQ81NXM9KZNZJcZUJj97wkxq976_0UroOKgtKdN2zZMKM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Deterministic seismic hazard macrozonation of India",
+   "htmlTitle": "Deterministic \u003cb\u003eseismic\u003c/b\u003e hazard macrozonation of India",
+   "link": "http://www.ias.ac.in/jess/oct2012/1351.pdf",
+   "displayLink": "www.ias.ac.in",
+   "snippet": "with Eurasian plate, is seismically very active. The ... the Indian and Eurasian   plates converge at the rate .... earthquake of December 26, 2004 has also oc- ...   region. 3. Earthquake database. A comprehensive earthquake catalogue is a   prereq- .... 1916. 8. 28. 81. 30. 7.7. 1918. 7. 8. 91. 24.5. 7.6. 1921. 11. 15. 70.5.   36.5. 8.1 ...",
+   "htmlSnippet": "with \u003cb\u003eEurasian\u003c/b\u003e plate, is seismically very active. The \u003cb\u003e...\u003c/b\u003e the Indian and \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  plates converge at the rate \u003cb\u003e....\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eDecember\u003c/b\u003e 26, 2004 has also oc- \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  region. \u003cb\u003e3\u003c/b\u003e. \u003cb\u003eEarthquake\u003c/b\u003e database. A comprehensive \u003cb\u003eearthquake\u003c/b\u003e catalogue is a \u003cbr\u003e  prereq- \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1916\u003c/b\u003e. 8. 28. 81. 30. 7.7. 1918. 7. 8. 91. 24.5. 7.6. 1921. 11. 15. 70.5. \u003cbr\u003e  36.5. 8.1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QnxqpO2JzQwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ias.ac.in/jess/oct2012/1351.pdf",
+   "htmlFormattedUrl": "www.ias.ac.in/jess/oct2012/1351.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20121012101305+08'00'",
+      "creator": "LaTeX with hyperref package",
+      "moddate": "D:20121012101305+08'00'",
+      "producer": "Acrobat Distiller 10.0.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Italian scientists thrown in jail for missing earthquake prediction ...",
+   "htmlTitle": "Italian scientists thrown in jail for missing \u003cb\u003eearthquake\u003c/b\u003e prediction \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://article.wn.com/view/2012/10/23/Italian_scientists_thrown_in_jail_for_missing_earthquake_pre/",
+   "displayLink": "article.wn.com",
+   "snippet": "Oct 23, 2012 ... Related topics Earthquake predictionsEarthquake reportsItaly earthquake   Advertisement An Italian court has convicted seven scientists of ...",
+   "htmlSnippet": "Oct 23, 2012 \u003cb\u003e...\u003c/b\u003e Related topics \u003cb\u003eEarthquake\u003c/b\u003e predictionsEarthquake reportsItaly \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  Advertisement An Italian court has convicted seven scientists of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3wiS6wmrSKoJ",
+   "formattedUrl": "article.wn.com/.../Italian_scientists_thrown_in_jail_for_missing_earthquake_ pre/",
+   "htmlFormattedUrl": "article.wn.com/.../Italian_scientists_thrown_in_jail_for_missing_\u003cb\u003eearthquake\u003c/b\u003e_ pre/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn2.wn.com/ph/img/c3/e5/51fda14dd01294cc9957b8cbed61-small.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "96",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdIW5I1_Yb7z59mjDyzWLfoQqxJxpjLAQZcCdfGNk4HnsuvX6R46IzMQ"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Italian scientists thrown in jail for missing earthquake prediction (Video)",
+      "og:url": "http://article.wn.com/view/2012/10/23/Italian_scientists_thrown_in_jail_for_missing_earthquake_pre/",
+      "og:image": "http://cdn8.wn.com/ph/img/e1/d5/570de54a912b710a5e2eb536cd2c-grande.jpg",
+      "og:site_name": "World News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Traces of Ancient Earthquakes in Medieval Cities Along the Silk ...",
+   "htmlTitle": "Traces of Ancient \u003cb\u003eEarthquakes\u003c/b\u003e in Medieval Cities Along the Silk \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://journals.tubitak.gov.tr/earth/issues/yer-03-12-3/yer-12-3-3-0301-9.pdf",
+   "displayLink": "journals.tubitak.gov.tr",
+   "snippet": "Eurasian Continent, it is possible that abandonment of these cities was due to   natural disasters and not just to the repeated ... earthquakes caused major   damage (Figure 3). .... 1916. 1874. 1982. 19451990. 1890. 1946. 1932. 1928.   1975. 1889. 1930 ...... Earthquake in the northern chains of the Tien Shan,   December 22 ...",
+   "htmlSnippet": "\u003cb\u003eEurasian\u003c/b\u003e Continent, it is possible that abandonment of these cities was due to \u003cbr\u003e  natural disasters and not just to the repeated \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e caused major \u003cbr\u003e  damage (Figure \u003cb\u003e3\u003c/b\u003e). \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1916\u003c/b\u003e. 1874. 1982. 19451990. 1890. 1946. 1932. 1928. \u003cbr\u003e  1975. 1889. 1930 \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e in the northern chains of the Tien Shan, \u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e 22 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aQwIjJDUxT4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "journals.tubitak.gov.tr/earth/issues/yer-03-12-3/yer-12-3-3-0301-9.pdf",
+   "htmlFormattedUrl": "journals.tubitak.gov.tr/earth/issues/yer-03-12-\u003cb\u003e3\u003c/b\u003e/yer-12-\u003cb\u003e3\u003c/b\u003e-\u003cb\u003e3\u003c/b\u003e-0301-9.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20031231120520",
+      "producer": "Acrobat Distiller 3.01 for Power Macintosh",
+      "author": "sinem",
+      "creator": "QuarkXPress Passportￂﾪ: LaserWriter 8 TU1-8.7",
+      "title": "yer-12-3-3-0301-9"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 8 1920 Australia Earthquake",
+    "totalResults": "105000",
+    "searchTerms": "Feb 8 1920 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 8 1920 Australia Earthquake",
+    "totalResults": "105000",
+    "searchTerms": "Feb 8 1920 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.251634,
+  "formattedSearchTime": "0.25",
+  "totalResults": "105000",
+  "formattedTotalResults": "105,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake in the greater Melbourne area, Australia",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e in the greater Melbourne area, \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/19/strong-earthquake-in-the-greater-melbourne-area-australia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 21, 2012 ... 3860 - Earthquake at about 8:50. light shaking; Rowville Vic aust - Easy noticed   unusual shaking of the house long enough and sufficient ...",
+   "htmlSnippet": "Jun 21, 2012 \u003cb\u003e...\u003c/b\u003e 3860 - \u003cb\u003eEarthquake\u003c/b\u003e at about \u003cb\u003e8\u003c/b\u003e:50. light shaking; Rowville Vic \u003cb\u003eaust\u003c/b\u003e - Easy noticed \u003cbr\u003e  unusual shaking of the house long enough and sufficient \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HhIXsW-HgNIJ",
+   "formattedUrl": "earthquake-report.com/.../strong-earthquake-in-the-greater-melbourne-area- australia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../strong-\u003cb\u003eearthquake\u003c/b\u003e-in-the-greater-melbourne-area- \u003cb\u003eaustralia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/06/541087.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo19JnftJE4AfP4wr-zBSahET5M8jZRmdBiyuMtd60ixCwoL_CJAS6K2b0"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "dj flexij (dj jordan)"
+     },
+     {
+      "fn": "Ruth Friend"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South West Seismic Zone - Wikipedia, the free encyclopedia",
+   "htmlTitle": "South West \u003cb\u003eSeismic\u003c/b\u003e Zone - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/South_West_Seismic_Zone",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The zone represents a significant seismic hazard to Perth, Western Australia. ... 8   February 1920, 05:24, 35.00, 111.00, 6.2, 260 km south west of Cape Leeuwin ...",
+   "htmlSnippet": "The zone represents a significant \u003cb\u003eseismic\u003c/b\u003e hazard to Perth, Western \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e8\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eFebruary 1920\u003c/b\u003e, \u003cb\u003e05:24\u003c/b\u003e, 35.00, 111.00, 6.2, 260 km south west of Cape Leeuwin \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WNxFik4boT0J",
+   "formattedUrl": "en.wikipedia.org/wiki/South_West_Seismic_Zone",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/South_West_\u003cb\u003eSeismic\u003c/b\u003e_Zone"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on February 8 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eFebruary 8\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/feb08.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "February 8, 1743 Comet C/1743 C1 approaches within 0.0390 AUs of Earth;   February 8 ... February 8, 1750 Minor earthquake in London; February ...   February 8, 1920 Lana (Julia Jean) Turner actress and WWII poster girl was born;   February ...",
+   "htmlSnippet": "February 8, 1743 Comet C/1743 C1 approaches within 0.0390 \u003cb\u003eAUs\u003c/b\u003e of Earth; \u003cbr\u003e  February 8 \u003cb\u003e...\u003c/b\u003e February 8, 1750 Minor \u003cb\u003eearthquake\u003c/b\u003e in London; February \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eFebruary 8, 1920\u003c/b\u003e Lana (Julia Jean) Turner actress and WWII poster girl was born; \u003cbr\u003e  \u003cb\u003eFebruary\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XDqURB3wgPAJ",
+   "formattedUrl": "www.datesinhistory.com/feb08.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003efeb\u003c/b\u003e08.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 1901￢ﾀﾓ1910; 2 1911￢ﾀﾓ1920; 3 1921￢ﾀﾓ1930; 4 1931￢ﾀﾓ1940; 5 1941￢ﾀﾓ1950; 6 1951￢ﾀﾓ  1960; 7 1961￢ﾀﾓ1970; 8 1971￢ﾀﾓ1980; 9 1981￢ﾀﾓ1990; 10 1991￢ﾀﾓ2000; 11 See also ...",
+   "htmlSnippet": "1 1901￢ﾀﾓ1910; 2 1911￢ﾀﾓ\u003cb\u003e1920\u003c/b\u003e; 3 1921￢ﾀﾓ1930; 4 1931￢ﾀﾓ1940; 5 1941￢ﾀﾓ1950; 6 1951￢ﾀﾓ\u003cbr\u003e  1960; 7 1961￢ﾀﾓ1970; \u003cb\u003e8\u003c/b\u003e 1971￢ﾀﾓ1980; 9 1981￢ﾀﾓ1990; 10 1991￢ﾀﾓ2000; 11 See also \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.volcano.si.edu/tdpmap/downloads/earthquakes/interior.txt",
+   "displayLink": "www.volcano.si.edu",
+   "snippet": "... 6.6 09/01/1803 Mathura, north-central India 27.5 77.7 8 12/16/1811 New   Madrid ... -27 31.5 6.2 02/08/1920 260 km SW of Cape Leeuwin, W. Australia -35   111 ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e 6.6 09/01/1803 Mathura, north-central India 27.5 77.7 8 12/16/1811 New \u003cbr\u003e  Madrid \u003cb\u003e...\u003c/b\u003e -27 31.5 6.2 \u003cb\u003e02/08/1920\u003c/b\u003e 260 km SW of Cape Leeuwin, W. \u003cb\u003eAustralia\u003c/b\u003e -35 \u003cbr\u003e  111 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-PnZDNtsLRQJ",
+   "mime": "text/plain",
+   "formattedUrl": "www.volcano.si.edu/tdpmap/downloads/earthquakes/interior.txt",
+   "htmlFormattedUrl": "www.volcano.si.edu/tdpmap/downloads/\u003cb\u003eearthquakes\u003c/b\u003e/interior.txt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ..... 2004 11 20 - Costa Rica - M   6.4 Fatalities 8; 2004 11 15 - Near the West Coast of ..... 1988 03 06 - Gulf of   Alaska - M 7.7; 1988 01 22 - Tennant Creek, Australia - M 6.6 ..... Italy - M 6.4   Fatalities 171; 1920 06 05 - Taiwan region - M 8.0 Fatalities 5; 1919 06 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e.....\u003c/b\u003e 2004 11 20 - Costa Rica - M \u003cbr\u003e  6.4 Fatalities \u003cb\u003e8\u003c/b\u003e; 2004 11 15 - Near the West Coast of \u003cb\u003e.....\u003c/b\u003e 1988 03 06 - Gulf of \u003cbr\u003e  Alaska - M 7.7; 1988 01 22 - Tennant Creek, \u003cb\u003eAustralia\u003c/b\u003e - M 6.6 \u003cb\u003e.....\u003c/b\u003e Italy - M 6.4 \u003cbr\u003e  Fatalities 171; \u003cb\u003e1920\u003c/b\u003e 06 05 - Taiwan region - M 8.0 Fatalities 5; 1919 06 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "February 8 Events in History",
+   "htmlTitle": "\u003cb\u003eFebruary 8\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/february_8.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "February 8 in history.",
+   "htmlSnippet": "\u003cb\u003eFebruary 8\u003c/b\u003e in history.",
+   "cacheId": "E3Z3hkXvi3IJ",
+   "formattedUrl": "www.brainyhistory.com/days/february_8.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003efebruary\u003c/b\u003e_\u003cb\u003e8\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "February 8 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/february_8.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... Australia ￢ﾀﾢ Azerbaijan ￢ﾀﾢ   Bhutan ￢ﾀﾢ Bolivia ￢ﾀﾢ Brazil ￢ﾀﾢ Bulgaria ￢ﾀﾢ Canada .... (Kwangtung), China - M 7.3   Fatalities 1,000; 1920 12 16 - Haiyuan, ... 20 - Costa Rica - M 6.9 ￂﾷ 2004 11 20 -   Costa Rica - M 6.4 Fatalities 8; 2009 01 08 - Costa Rica - M 6.1 Fatalities 40 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e ￢ﾀﾢ Azerbaijan ￢ﾀﾢ \u003cbr\u003e  Bhutan ￢ﾀﾢ Bolivia ￢ﾀﾢ Brazil ￢ﾀﾢ Bulgaria ￢ﾀﾢ Canada \u003cb\u003e....\u003c/b\u003e (Kwangtung), China - M 7.3 \u003cbr\u003e  Fatalities 1,000; \u003cb\u003e1920\u003c/b\u003e 12 16 - Haiyuan, \u003cb\u003e...\u003c/b\u003e 20 - Costa Rica - M 6.9 &middot; 2004 11 20 - \u003cbr\u003e  Costa Rica - M 6.4 Fatalities \u003cb\u003e8\u003c/b\u003e; 2009 01 08 - Costa Rica - M 6.1 Fatalities 40 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Watch Australia / Pacific | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Watch \u003cb\u003eAustralia\u003c/b\u003e / Pacific | Facebook",
+   "link": "http://www.facebook.com/EarthquakeAu",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Earthquake Watch Australia / Pacific, sign up for Facebook today.   .... into the deaths of eight victims who were alive after building collapsed in the   February 2011 earthquake, but were not rescued. .... 8 hours ago via RSS Graffiti   ...... 1920. 1919. 1918. 1917. 1916. 1915. 1914. 1913. 1912. 1911. 1910. 1909 ...",
+   "htmlSnippet": "To connect with \u003cb\u003eEarthquake\u003c/b\u003e Watch \u003cb\u003eAustralia\u003c/b\u003e / Pacific, sign up for Facebook today. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e into the deaths of eight victims who were alive after building collapsed in the \u003cbr\u003e  \u003cb\u003eFebruary\u003c/b\u003e 2011 \u003cb\u003eearthquake\u003c/b\u003e, but were not rescued. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e8\u003c/b\u003e hours ago via RSS Graffiti \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e \u003cb\u003e1920\u003c/b\u003e. 1919. 1918. 1917. 1916. 1915. 1914. 1913. 1912. 1911. 1910. 1909 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oigOfWgQCREJ",
+   "formattedUrl": "www.facebook.com/EarthquakeAu",
+   "htmlFormattedUrl": "www.facebook.com/\u003cb\u003eEarthquake\u003c/b\u003eAu",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/174561_145787152101016_1818795832_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Watch Australia / Pacific"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "138",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBQt4vQE6l6F-3uOp9sVp6ZDZ-hgyylclarWekd7F8RcYjUuWKm4gTHieW"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Watch Australia / Pacific",
+      "og:type": "company",
+      "og:url": "http://www.facebook.com/EarthquakeAu",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/174561_145787152101016_1818795832_n.jpg",
+      "og:description": "A Page that is updated daily and brings you information about earthquakes happening in and around..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 8th February | HistoryOrb.com",
+   "htmlTitle": "Historical Events on 8th \u003cb\u003eFebruary\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/february/8",
+   "displayLink": "www.historyorb.com",
+   "snippet": "Historical events for the 8th of February. See what famous, interesting and   notable events happened throughout history on 8 February. ... opens in   Charleston, SC 1743 - Comet C/1743 C1 approaches within 0.0390 AUs of Earth   ... 1750 - Minor earthquake in London ... 1920 - Swiss men vote against women's   suffrage ...",
+   "htmlSnippet": "Historical events for the 8th of \u003cb\u003eFebruary\u003c/b\u003e. See what famous, interesting and \u003cbr\u003e  notable events happened throughout history on \u003cb\u003e8 February\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e opens in \u003cbr\u003e  Charleston, SC 1743 - Comet C/1743 C1 approaches within 0.0390 \u003cb\u003eAUs\u003c/b\u003e of Earth \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 1750 - Minor \u003cb\u003eearthquake\u003c/b\u003e in London \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1920\u003c/b\u003e - Swiss men vote against women&#39;s \u003cbr\u003e  suffrage \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GtCQPZHlloQJ",
+   "formattedUrl": "www.historyorb.com/events/february/8",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003efebruary\u003c/b\u003e/\u003cb\u003e8\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  }
+ ]
+}

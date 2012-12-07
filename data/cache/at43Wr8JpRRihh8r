@@ -1,0 +1,334 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 1 1925 Eurasia Earthquake",
+    "totalResults": "8270",
+    "searchTerms": "Feb 1 1925 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 1 1925 Eurasia Earthquake",
+    "totalResults": "8270",
+    "searchTerms": "Feb 1 1925 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.224588,
+  "formattedSearchTime": "0.22",
+  "totalResults": "8270",
+  "formattedTotalResults": "8,270"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1923 Great Kantￅﾍ earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1923 Great Kantￅﾍ \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 Outline; 2 Damage and deaths; 3 Post-quake massacre of Koreans and other   ethnic .... of the Pacific and Eurasian plates, the Sagami Trough ruptures in a   magnitude 8.5 earthquake, killing ... Archived from the original on 19 February   2007.",
+   "htmlSnippet": "\u003cb\u003e1\u003c/b\u003e Outline; 2 Damage and deaths; 3 Post-\u003cb\u003equake\u003c/b\u003e massacre of Koreans and other \u003cbr\u003e  ethnic \u003cb\u003e....\u003c/b\u003e of the Pacific and \u003cb\u003eEurasian\u003c/b\u003e plates, the Sagami Trough ruptures in a \u003cbr\u003e  magnitude 8.5 \u003cb\u003eearthquake\u003c/b\u003e, killing \u003cb\u003e...\u003c/b\u003e Archived from the original on 19 \u003cb\u003eFebruary\u003c/b\u003e \u003cbr\u003e  2007.",
+   "cacheId": "XUJCfGAs7-IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1923_Great_Kantￅﾍ_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1923_Great_Kantￅﾍ_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Marunouchi_after_the_Great_Kanto_Earthquake.JPG/220px-Marunouchi_after_the_Great_Kanto_Earthquake.JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "120",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuqSoF8Cgjc6H_TF59Gksqq_G5y4OVoHPEV6cnk6k6WrkBGuHQw_WFIA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1.7.1 Aftershocks; 1.7.2 Earthquake swarms; 1.7.3 Earthquake storms .... oblique   convergent plate boundary between the Arabian and Eurasian plates where it ...",
+   "htmlSnippet": "1.7.\u003cb\u003e1\u003c/b\u003e Aftershocks; 1.7.2 \u003cb\u003eEarthquake\u003c/b\u003e swarms; 1.7.3 \u003cb\u003eEarthquake\u003c/b\u003e storms \u003cb\u003e....\u003c/b\u003e oblique \u003cbr\u003e  convergent plate boundary between the Arabian and \u003cb\u003eEurasian\u003c/b\u003e plates where it \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e￬ﾧﾀ￬ﾧﾄ (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "￬ﾧﾀ￬ﾧﾄ￬ﾝﾀ ￬ﾞﾐ￬ﾗﾰ￬ﾠﾁ, ￬ﾝﾸ￪ﾳﾵ￬ﾠﾁ ￬ﾛﾐ￬ﾝﾸ￬ﾜﾼ￫ﾡﾜ ￬ﾝﾸ￭ﾕﾴ ￬ﾧﾀ￪ﾵﾬ￬ﾝﾘ ￭ﾑﾜ￫ﾩﾴ￬ﾝﾴ ￭ﾝﾔ￫ﾓﾤ￫ﾦﾬ￫ﾊﾔ ￭ﾘﾄ￬ﾃﾁ￬ﾝﾴ￫ﾋﾤ. ￭ﾝﾔ￭ﾞﾈ ￬ﾞﾐ￬ﾗﾰ￬ﾠﾁ ￬ﾛﾐ￬ﾝﾸ ￬ﾤﾑ ￫ﾋﾨ￬ﾸﾵ￫ﾩﾴ￬ﾗﾐ￬ﾄﾜ ￬ﾈﾜ￪ﾰﾄ￬ﾠﾁ￬ﾜﾼ￫ﾡﾜ ￫ﾰﾜ￬ﾃﾝ￭ﾕﾘ￫ﾊﾔ ￫ﾳﾀ￬ﾜﾄ ￬ﾞﾐ￬ﾲﾴ￫ﾥﾼ ￬ﾧﾀ￬ﾧﾄ￬ﾝﾴ￫ﾝﾼ￪ﾳﾠ ￭ﾕﾜ￫ﾋﾤ.",
+      "Output::gray1b": "- ￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ (￬ﾘﾁ￫ﾬﾸ)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/￬ﾧﾀ￬ﾧﾄ",
+      "Output::link2c": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "result_group_header": "￫ﾰﾱ￪ﾳﾼ￬ﾂﾬ￬ﾠﾄ",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "English",
+   "htmlTitle": "English",
+   "link": "http://www.theeurasia.kz/index.php?lang=eng",
+   "displayLink": "www.theeurasia.kz",
+   "snippet": "Eurasia became the leader of the Kazakh insurance market on premium volume;   its capital exceeded KZT6.6 billion. From this moment, the company continues ...",
+   "htmlSnippet": "\u003cb\u003eEurasia\u003c/b\u003e became the leader of the Kazakh insurance market on premium volume; \u003cbr\u003e  its capital exceeded KZT6.6 billion. From this moment, the company continues \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4EP671b2ugoJ",
+   "formattedUrl": "www.theeurasia.kz/index.php?lang=eng",
+   "htmlFormattedUrl": "www.the\u003cb\u003eeurasia\u003c/b\u003e.kz/index.php?lang=eng",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.theeurasia.kz/i/banner_1_eng.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "80",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRltbiDL-rUqWCl4k6FrYVUDUYxTk-VhgE6LV_aca6p8fMXAxNtqVJVI2k"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1962 Bou'in-Zahra earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1962 Bou&#39;in-Zahra \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1962_Bou'in-Zahra_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Countries or regions, Flag of Iran (1925).svg Iran. Tsunami, none. Casualties, at   least 12,225 dead, 2,776 injured. The 1962 Bou'in-Zahra earthquake occurred on   September 1, 1962, in the ... Iran is an earthquake center of the world, lying   between the converging Eurasian .... Archived from the original on February 21,   2009.",
+   "htmlSnippet": "Countries or regions, Flag of Iran (\u003cb\u003e1925\u003c/b\u003e).svg Iran. Tsunami, none. Casualties, at \u003cbr\u003e  least 12,225 dead, 2,776 injured. The 1962 Bou&#39;in-Zahra \u003cb\u003eearthquake\u003c/b\u003e occurred on \u003cbr\u003e  September \u003cb\u003e1\u003c/b\u003e, 1962, in the \u003cb\u003e...\u003c/b\u003e Iran is an \u003cb\u003eearthquake\u003c/b\u003e center of the world, lying \u003cbr\u003e  between the converging \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Archived from the original on \u003cb\u003eFebruary\u003c/b\u003e 21, \u003cbr\u003e  2009.",
+   "cacheId": "B9Sasatc05kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1962_Bou'in-Zahra_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1962_Bou&#39;in-Zahra_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Photos-of-an-Old-Earthquake-in-Iran_4.jpg/220px-Photos-of-an-Old-Earthquake-in-Iran_4.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "118",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfdO2IZ0RC7PCHw2MRQ4XyJrwyIjlkxkEtPZ9bHcNlgxe2l01DK_oJA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Tsunamis",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Tsunamis",
+   "link": "http://www.jma.go.jp/jma/en/Activities/brochure_earthquake_and_tsunami.pdf",
+   "displayLink": "www.jma.go.jp",
+   "snippet": "1. 2. 3. 4. 5. 6. 7. 8. 9. Data and information flow of earthquakes and tsunamis.   Japan is one of the most earthquake-prone countries in the world, and has ...",
+   "htmlSnippet": "\u003cb\u003e1\u003c/b\u003e. 2. 3. 4. 5. 6. 7. 8. 9. Data and information flow of \u003cb\u003eearthquakes\u003c/b\u003e and tsunamis. \u003cbr\u003e  Japan is one of the most \u003cb\u003eearthquake\u003c/b\u003e-prone countries in the world, and has \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dQBNbDbojowJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.jma.go.jp/jma/en/Activities/brochure_earthquake_and_tsunami.pdf",
+   "htmlFormattedUrl": "www.jma.go.jp/jma/en/Activities/brochure_\u003cb\u003eearthquake\u003c/b\u003e_and_tsunami.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "￨ﾫﾏ￨ﾨﾪ ￧ﾥﾐ￥ﾭﾐ",
+      "creationdate": "D:20090628190807+09'00'",
+      "creator": "Adobe Illustrator CS3",
+      "moddate": "D:20090710093407+09'00'",
+      "producer": "Acrobat Distiller 8.1.0 (Macintosh)",
+      "title": "A3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a band of seismicity which ... 1925, 17, 1955,   19, 1985, 15 .... 1 Feb 1915, Conisbrough, \u003c 3, 1, Conisbrough, Falling rock ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a band of seismicity which \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1925\u003c/b\u003e, 17, 1955, \u003cbr\u003e  19, 1985, 15 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1 Feb\u003c/b\u003e 1915, Conisbrough, &lt; 3, \u003cb\u003e1\u003c/b\u003e, Conisbrough, Falling rock \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Watchers - Increasing seismic activities in Aegean Sea, Greece ...",
+   "htmlTitle": "The Watchers - Increasing \u003cb\u003eseismic\u003c/b\u003e activities in Aegean Sea, Greece \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://thewatchers.adorraeli.com/2012/01/28/increasing-seismic-activities-in-aegean-sea-greece-with-tectonic-summary/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Jan 28, 2012 ... Most shallow earthquakes in central and northern Greece (depths less than 50   km) result from interaction between the Eurasia plate and the ...",
+   "htmlSnippet": "Jan 28, 2012 \u003cb\u003e...\u003c/b\u003e Most shallow \u003cb\u003eearthquakes\u003c/b\u003e in central and northern Greece (depths less than 50 \u003cbr\u003e  km) result from interaction between the \u003cb\u003eEurasia\u003c/b\u003e plate and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oRpi1B6yrLEJ",
+   "formattedUrl": "thewatchers.adorraeli.com/.../increasing-seismic-activities-in-aegean-sea- greece-with-tectonic-summary/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/.../increasing-\u003cb\u003eseismic\u003c/b\u003e-activities-in-aegean-sea- greece-with-tectonic-summary/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/01/Aegeansea_small.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "330",
+      "height": "153",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMzE8vTewcdaFbNQXgzSUaWN7t5zPpfHh3dJIzHkALOLE4xP1gEK6TsFTx"
+     }
+    ],
+    "article": [
+     {
+      "name": "Increasing seismic activities in Aegean Sea, Greece (with tectonic summary)",
+      "description": "A moderate earthquake has struck off the northern coast of Greece near Heraklion, Crete for the second time in two days. The first earthquake had a magnitude 5.3 on Thursday, January 26, 2012...",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Increasing seismic activities in Aegean Sea, Greece (with tectonic summary)",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2012/01/28/increasing-seismic-activities-in-aegean-sea-greece-with-tectonic-summary?year=2012&monthnum=01&day=28&name=increasing-seismic-activities-in-aegean-sea-greece-with-tectonic-summary",
+      "og:description": "A moderate earthquake has struck off the northern coast of Greece near Heraklion, Crete for the second time in two days.ￂﾠThe first earthquake had a magnitude 5.3 on Thursday, January 26, 2012 at depth of 14km, and the second earthquake had about the same magnitude ￢ﾀﾓ 5.4 at depth of 5km.ￂﾠￂﾠLast January magnitude 6.2 hit Crete.ￂﾠDodecanese archipelago also experiencedￂﾠstrong shaking last few days with strongest earthquake measuring 4.8 yesterday. From the start of the year we can see the increased seismic activities mainly around Aegean Sea region.ￂﾠReal Time Seismicity in Greece for the last 24 hours (Automatic Alerts) Tectonic summary...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:image": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/01/Aegeansea_small.jpg",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "S.Quade"
+     },
+     {
+      "fn": "Fred",
+      "nickname": "Fred"
+     },
+     {
+      "fn": "Paula Naula on Facebook",
+      "url": "http://www.facebook.com/profile.php?id=100002954759112",
+      "url_text": "Paula Naula on Facebook"
+     },
+     {
+      "fn": "Lianne Smith"
+     },
+     {
+      "fn": "donnie",
+      "nickname": "donnie"
+     },
+     {
+      "fn": "chillymanjaro",
+      "nickname": "chillymanjaro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SRL 83(1).indb",
+   "htmlTitle": "SRL 83(\u003cb\u003e1\u003c/b\u003e).indb",
+   "link": "http://www.lig.cas.cn/xwzx/kydt/201207/W020120719362626573789.pdf",
+   "displayLink": "www.lig.cas.cn",
+   "snippet": "Seismological Research Letters Volume 83, Number 1 January/February 2012   109 ... The Ms 7.1 Yushu earthquake on 14 April 2010, 07:49:38 (epi- center,   36.2ￂﾰN 96.6ￂﾰE; focal depth ... meters north of the convergent India-Eurasia plate   boundary. (Figure 1). ..... Journal of Structural Geology 24, 1,925￢ﾀﾓ1,936. Angelier,   J., F.",
+   "htmlSnippet": "Seismological Research Letters Volume 83, Number \u003cb\u003e1\u003c/b\u003e January/\u003cb\u003eFebruary\u003c/b\u003e 2012 \u003cbr\u003e  109 \u003cb\u003e...\u003c/b\u003e The Ms 7.1 Yushu \u003cb\u003eearthquake\u003c/b\u003e on 14 April 2010, 07:49:38 (epi- center, \u003cbr\u003e  36.2ￂﾰN 96.6ￂﾰE; focal depth \u003cb\u003e...\u003c/b\u003e meters north of the convergent India-\u003cb\u003eEurasia\u003c/b\u003e plate \u003cbr\u003e  boundary. (Figure \u003cb\u003e1\u003c/b\u003e). \u003cb\u003e.....\u003c/b\u003e Journal of Structural Geology 24, \u003cb\u003e1,925\u003c/b\u003e￢ﾀﾓ1,936. Angelier, \u003cbr\u003e  J., F.",
+   "cacheId": "P9z71xuzDscJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.lig.cas.cn/xwzx/kydt/201207/W020120719362626573789.pdf",
+   "htmlFormattedUrl": "www.lig.cas.cn/xwzx/kydt/201207/W020120719362626573789.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20111222111703-07'00'",
+      "gts_pdfxversion": "PDF/X-4",
+      "creator": "Adobe InDesign CS5 (7.0.4)",
+      "producer": "Adobe PDF Library 9.9",
+      "moddate": "D:20120719090330+08'00'",
+      "title": "SRL 83(1).indb"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical and Modern Earthquake-Resistant Construction in Turkey",
+   "htmlTitle": "Historical and Modern \u003cb\u003eEarthquake\u003c/b\u003e-Resistant Construction in Turkey",
+   "link": "http://www.iitk.ac.in/nicee/wcee/article/1_22-1.pdf",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "by Dr. Nuriye 'Pinarl (X). Strong earthquakes occur frequently in Turkey and   nearly 40% of the ... to the two main branches of the eurasian orogenic zone; 1 -   The \"alpide branch\" .... Gerede in N. Anatolia, Feb. 1, 1944 ... 7, 1925; Tor-4 bali   in mi.",
+   "htmlSnippet": "by Dr. Nuriye &#39;Pinarl (X). Strong \u003cb\u003eearthquakes\u003c/b\u003e occur frequently in Turkey and \u003cbr\u003e  nearly 40% of the \u003cb\u003e...\u003c/b\u003e to the two main branches of the \u003cb\u003eeurasian\u003c/b\u003e orogenic zone; \u003cb\u003e1\u003c/b\u003e - \u003cbr\u003e  The &quot;alpide branch&quot; \u003cb\u003e....\u003c/b\u003e Gerede in N. Anatolia, \u003cb\u003eFeb\u003c/b\u003e. \u003cb\u003e1\u003c/b\u003e, 1944 \u003cb\u003e...\u003c/b\u003e 7, \u003cb\u003e1925\u003c/b\u003e; Tor-4 bali \u003cbr\u003e  in mi.",
+   "cacheId": "T7OPPZJwAnsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitk.ac.in/nicee/wcee/article/1_22-1.pdf",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/wcee/article/\u003cb\u003e1\u003c/b\u003e_22-\u003cb\u003e1\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Mon Apr 27 09:22:50 2009",
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Mon Apr 27 09:22:34 2009"
+     }
+    ]
+   }
+  }
+ ]
+}

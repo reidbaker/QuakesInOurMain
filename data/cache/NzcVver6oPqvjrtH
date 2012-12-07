@@ -1,0 +1,264 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 15 1996 Eurasia Earthquake",
+    "totalResults": "27200",
+    "searchTerms": "Jan 15 1996 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 15 1996 Eurasia Earthquake",
+    "totalResults": "27200",
+    "searchTerms": "Jan 15 1996 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.201462,
+  "formattedSearchTime": "0.20",
+  "totalResults": "27200",
+  "formattedTotalResults": "27,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This list of earthquakes in Greece includes notable earthquakes that have   affected ... The northern part of Greece lies on the Eurasian Plate while the   southern part lies ... 15 July 2008, 03:26, Dodecanese .... Papazachos, B.C. (  1996). ... \"Magnitude 6.8 - Southern Greece: 8 January 2006 11:34:55 UTC\",   Earthquake Hazard ...",
+   "htmlSnippet": "This list of \u003cb\u003eearthquakes\u003c/b\u003e in Greece includes notable \u003cb\u003eearthquakes\u003c/b\u003e that have \u003cbr\u003e  affected \u003cb\u003e...\u003c/b\u003e The northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the \u003cbr\u003e  southern part lies \u003cb\u003e...\u003c/b\u003e \u003cb\u003e15\u003c/b\u003e July 2008, 03:26, Dodecanese \u003cb\u003e....\u003c/b\u003e Papazachos, B.C. (\u003cbr\u003e  \u003cb\u003e1996\u003c/b\u003e). \u003cb\u003e...\u003c/b\u003e &quot;Magnitude 6.8 - Southern Greece: 8 \u003cb\u003eJanuary\u003c/b\u003e 2006 11:34:55 UTC&quot;, \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e Hazard \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Active Seismic Imaging of Axial Volcano",
+   "htmlTitle": "Active \u003cb\u003eSeismic\u003c/b\u003e Imaging of Axial Volcano",
+   "link": "http://www.ldeo.columbia.edu/users/menke/axial/",
+   "displayLink": "www.ldeo.columbia.edu",
+   "snippet": "Methodology: 3D seismic imaging based on P, PmP and Pn wave traveltime data   from ... studied intensively (e.g. special section in January 15, 1996 issue of   Geophys. ... 9 meters of spreading of the North American - Eurasian plate   boundary.",
+   "htmlSnippet": "Methodology: 3D \u003cb\u003eseismic\u003c/b\u003e imaging based on P, PmP and Pn wave traveltime data \u003cbr\u003e  from \u003cb\u003e...\u003c/b\u003e studied intensively (e.g. special section in \u003cb\u003eJanuary 15, 1996\u003c/b\u003e issue of \u003cbr\u003e  Geophys. \u003cb\u003e...\u003c/b\u003e 9 meters of spreading of the North American - \u003cb\u003eEurasian\u003c/b\u003e plate \u003cbr\u003e  boundary.",
+   "cacheId": "aaeRBwD09_QJ",
+   "formattedUrl": "www.ldeo.columbia.edu/users/menke/axial/",
+   "htmlFormattedUrl": "www.ldeo.columbia.edu/users/menke/axial/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Great Hanshin earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Great Hanshin \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Great_Hanshin_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Mj 7.3 earthquake struck at 05:46 JST on the morning of January 17, 1995.   .... Less than 15 months after the earthquake, in March 1996, manufacturing   activity ... accommodated east-west shortening of the Eurasian plate due to its   collision ...",
+   "htmlSnippet": "The Mj 7.3 \u003cb\u003eearthquake\u003c/b\u003e struck at 05:46 JST on the morning of \u003cb\u003eJanuary\u003c/b\u003e 17, 1995. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Less than \u003cb\u003e15\u003c/b\u003e months after the \u003cb\u003eearthquake\u003c/b\u003e, in March \u003cb\u003e1996\u003c/b\u003e, manufacturing \u003cbr\u003e  activity \u003cb\u003e...\u003c/b\u003e accommodated east-west shortening of the \u003cb\u003eEurasian\u003c/b\u003e plate due to its \u003cbr\u003e  collision \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3EKWfUsUJqAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Great_Hanshin_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Great_Hanshin_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Port_of_Kobe_Earthquake_Memorial_Park2.jpg/240px-Port_of_Kobe_Earthquake_Memorial_Park2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "144",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoouJX2Tqx20tzJP1PhwXTW-ugG69h-tHreKmWr6SSZeyieHuIsSak14Bh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Description of the Updated Earthquake Catalog for Stable ...",
+   "htmlTitle": "Description of the Updated \u003cb\u003eEarthquake\u003c/b\u003e Catalog for Stable \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/research/data/Field_description.txt",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Example: An event that occurred on January 26th, 2002 is indicated as   20020126 ... One of the following: AF = Africa AU = Australia CH = China EU =   Eurasia ... the Seismic Moment expression: Mo = a x 10**b Nm Field 15: Quality   estimate of ... not yet included in Triep and Sykes [1996] ^ = focal mechanism   taken from Bent ...",
+   "htmlSnippet": "Example: An event that occurred on \u003cb\u003eJanuary\u003c/b\u003e 26th, 2002 is indicated as \u003cbr\u003e  20020126 \u003cb\u003e...\u003c/b\u003e One of the following: AF = Africa AU = Australia CH = China EU = \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e the \u003cb\u003eSeismic\u003c/b\u003e Moment expression: Mo = a x 10**b Nm Field \u003cb\u003e15\u003c/b\u003e: Quality \u003cbr\u003e  estimate of \u003cb\u003e...\u003c/b\u003e not yet included in Triep and Sykes [\u003cb\u003e1996\u003c/b\u003e] ^ = focal mechanism \u003cbr\u003e  taken from Bent \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ubxu2SYJGbAJ",
+   "mime": "text/plain",
+   "formattedUrl": "earthquake.usgs.gov/research/data/Field_description.txt",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/research/data/Field_description.txt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1968 Belice earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1968 Belice \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1968_Belice_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1968 Belice earthquake sequence took place in the Sicily region of ... Sicily   lies on the complex convergent plate boundary between the African Plate and the   Eurasian Plate. ... event at 13:15 on the same day and a M 5.2 event at 01:33 on   15 January, ... The earthquakes on 14 January did little damage, but many of the ...",
+   "htmlSnippet": "The 1968 Belice \u003cb\u003eearthquake\u003c/b\u003e sequence took place in the Sicily region of \u003cb\u003e...\u003c/b\u003e Sicily \u003cbr\u003e  lies on the complex convergent plate boundary between the African Plate and the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e event at 13:\u003cb\u003e15\u003c/b\u003e on the same day and a M 5.2 event at 01:33 on \u003cbr\u003e  \u003cb\u003e15 January\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquakes\u003c/b\u003e on 14 \u003cb\u003eJanuary\u003c/b\u003e did little damage, but many of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HlivwB2kT_wJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1968_Belice_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1968_Belice_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Poggioreale_ruderi2.jpg/220px-Poggioreale_ruderi2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "264",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTivtGO7mo-EPzonMI5a6sjxRsW9CnSQQbqQRvG4mgyzn_TiC7fc7DVbpnX"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Tomography of the Arabian-Eurasian Collision Zone and ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Tomography of the Arabian-\u003cb\u003eEurasian\u003c/b\u003e Collision Zone and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "displayLink": "www.dtic.mil",
+   "snippet": "15. SUBJECT TERMS. Seismic tomography, Attenuation, Travel-time data. 16. .....   described as the sum of three time terms (Pei et al., 2007; Hearn, 1996): _ ... In   the time period between January 2006 and March 2008, our database for the Pn ...",
+   "htmlSnippet": "\u003cb\u003e15\u003c/b\u003e. SUBJECT TERMS. \u003cb\u003eSeismic\u003c/b\u003e tomography, Attenuation, Travel-time data. 16. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  described as the sum of three time terms (Pei et al., 2007; Hearn, \u003cb\u003e1996\u003c/b\u003e): _ \u003cb\u003e...\u003c/b\u003e In \u003cbr\u003e  the time period between \u003cb\u003eJanuary\u003c/b\u003e 2006 and March 2008, our database for the Pn \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SncVpbfhL5gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ford",
+      "creationdate": "D:20100602103736-04'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20100721112503-04'00'",
+      "producer": "Acrobat Distiller 9.3.2 (Windows)",
+      "title": "Microsoft Word - 07C0001_final_b.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indian Earthquakes : An Overview ABSTRACT 1.0 INTRODUCTION ...",
+   "htmlTitle": "Indian \u003cb\u003eEarthquakes\u003c/b\u003e : An Overview ABSTRACT 1.0 INTRODUCTION \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nicee.org/readings/paper4.pdf",
+   "displayLink": "www.nicee.org",
+   "snippet": "to the movement of the Indian plate towards the Eurasian plate at the rate of   about .... This 8.4 magnitude earthquake occurred on January 15, 1934 at around   .... Latur district killing about 8,000 persons (GSI, 1996; Jain et. al, 1994; Seeber   et ...",
+   "htmlSnippet": "to the movement of the Indian plate towards the \u003cb\u003eEurasian\u003c/b\u003e plate at the rate of \u003cbr\u003e  about \u003cb\u003e....\u003c/b\u003e This 8.4 magnitude \u003cb\u003eearthquake\u003c/b\u003e occurred on \u003cb\u003eJanuary 15\u003c/b\u003e, 1934 at around \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Latur district killing about 8,000 persons (GSI, \u003cb\u003e1996\u003c/b\u003e; Jain et. al, 1994; Seeber \u003cbr\u003e  et \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FfyX3idetkoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nicee.org/readings/paper4.pdf",
+   "htmlFormattedUrl": "www.nicee.org/readings/paper4.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20031127115451+05'30'",
+      "moddate": "D:20031127115451+05'30'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "snehal",
+      "creator": "ADOBEPS4.DRV Version 4.50",
+      "title": "Microsoft Word - paper4.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ZetaTalk Newsletter",
+   "htmlTitle": "ZetaTalk Newsletter",
+   "link": "http://www.zetatalk.com/newsletr/issue201.htm",
+   "displayLink": "www.zetatalk.com",
+   "snippet": "Sep 5, 2010 ... Up until this week, I would say that 95% of all the 5.x earthquakes in this region ...   We have predicted that as the tongue of the Eurasian Plate holding .... ZetaTalk   Prediction 1/15/1996: A second countdown sign is a fine red ...",
+   "htmlSnippet": "Sep 5, 2010 \u003cb\u003e...\u003c/b\u003e Up until this week, I would say that 95% of all the 5.x \u003cb\u003eearthquakes\u003c/b\u003e in this region \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  We have predicted that as the tongue of the \u003cb\u003eEurasian\u003c/b\u003e Plate holding \u003cb\u003e....\u003c/b\u003e ZetaTalk \u003cbr\u003e  Prediction \u003cb\u003e1/15/1996\u003c/b\u003e: A second countdown sign is a fine red \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6KZLPz_D-U8J",
+   "formattedUrl": "www.zetatalk.com/newsletr/issue201.htm",
+   "htmlFormattedUrl": "www.zetatalk.com/newsletr/issue201.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.zetatalk.com/ning/04sp005.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "219",
+      "height": "231",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkQ30qxUWzZ1QehIG3dKks-A0mFubTap0NwiViOjpLbcm9SeWJ4kQnCT4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Himalayan Frontal Thrust of India is not blind",
+   "htmlTitle": "The Himalayan Frontal Thrust of India is not blind",
+   "link": "http://cires.colorado.edu/~bilham/HimalayanEarthquakes/Himalayan_thrust.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "We report evidence of surface rupturing earthquakes at Chandigarh, Kala ... The   ongoing collision of India into Eurasia has resulted in three major earthquakes ...   (Seeber and Armbruster, 1981; Zhao et al., 1993; Brown et al., 1996; Nelson, ......   earthquake of 15 January 1934 and bounds on the extent of the rupture zone.",
+   "htmlSnippet": "We report evidence of surface rupturing \u003cb\u003eearthquakes\u003c/b\u003e at Chandigarh, Kala \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  ongoing collision of India into \u003cb\u003eEurasia\u003c/b\u003e has resulted in three major \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  (Seeber and Armbruster, 1981; Zhao et al., 1993; Brown et al., \u003cb\u003e1996\u003c/b\u003e; Nelson, \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e15 January\u003c/b\u003e 1934 and bounds on the extent of the rupture zone.",
+   "cacheId": "gwopp5zmbEMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/HimalayanEarthquakes/Himalayan_thrust.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Himalayan\u003cb\u003eEarthquakes\u003c/b\u003e/Himalayan_thrust.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20040706112931-07'00'",
+      "creationdate": "D:20040630201106-04'00'",
+      "title": "Microsoft Word - 148206_0_art_file_1_1088640500.doc",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "producer": "Acrobat Distiller 6.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Effects in Kobe, Japan",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Effects in Kobe, Japan",
+   "link": "http://crack.seismo.unr.edu/ftp/pub/louie/class/100/effects-kobe.html",
+   "displayLink": "crack.seismo.unr.edu",
+   "snippet": "Jan. 17, 1995 Hyogo-Ken Nanbu Earthquake. The worst earthquake catastrophe   in ... the dangerous intersection of three tectonic plates: the Pacific, Eurasian, and   Philippine. .... On the left are three records of the sharp pulse, lasting less than 15   s, recorded at a station founded in relatively solid rock. .... J. Louie, 9 Oct. 1996 ...",
+   "htmlSnippet": "\u003cb\u003eJan\u003c/b\u003e. 17, 1995 Hyogo-Ken Nanbu \u003cb\u003eEarthquake\u003c/b\u003e. The worst \u003cb\u003eearthquake\u003c/b\u003e catastrophe \u003cbr\u003e  in \u003cb\u003e...\u003c/b\u003e the dangerous intersection of three tectonic plates: the Pacific, \u003cb\u003eEurasian\u003c/b\u003e, and \u003cbr\u003e  Philippine. \u003cb\u003e....\u003c/b\u003e On the left are three records of the sharp pulse, lasting less than \u003cb\u003e15\u003c/b\u003e \u003cbr\u003e  s, recorded at a station founded in relatively solid rock. \u003cb\u003e....\u003c/b\u003e J. Louie, 9 Oct. \u003cb\u003e1996\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "t7y4qHogXzwJ",
+   "formattedUrl": "crack.seismo.unr.edu/ftp/pub/louie/class/100/effects-kobe.html",
+   "htmlFormattedUrl": "crack.seismo.unr.edu/ftp/pub/louie/class/100/effects-kobe.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://crack.seismo.unr.edu/ftp/pub/louie/class/100/kobe/usgsmap-detail.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "323",
+      "height": "156",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXOx4M7Bp-hTN6s-5PTbnzx8xJAjjVJ9YNN5b9Qi_ot_ViT-3f8XlwfFY"
+     }
+    ]
+   }
+  }
+ ]
+}
