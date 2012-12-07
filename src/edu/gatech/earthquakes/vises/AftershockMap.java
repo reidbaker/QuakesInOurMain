@@ -98,7 +98,7 @@ public class AftershockMap extends Individual implements Interactable,
 
 	// make and label the longitude tick marks
 	double lat = 0;
-	for (int i = 0; i < (h - buffer * 2); i += 50) {
+	for (int i = 50; i < (h - buffer * 2); i += 50) {
 	    lat = (((latRange[1] - latRange[0]) * i) / (h - buffer * 2))
 		    + latRange[0];
 	    parent.line(x + buffer - 2, y + h - buffer - i, x + buffer + 2, y

@@ -144,6 +144,9 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 		}
 	}
 	
+	private void drawAxes(PApplet parent){
+	    
+	}
 
 	@Override
 	public void filterBy(DataSet filteredData) {

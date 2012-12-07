@@ -1,0 +1,77 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 8 1900 India Earthquake",
+    "totalResults": "3",
+    "searchTerms": "Feb 8 1900 India Earthquake",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.566306,
+  "formattedSearchTime": "0.57",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "AFP: Japan quake: live report",
+   "htmlTitle": "AFP: Japan \u003cb\u003equake\u003c/b\u003e: live report",
+   "link": "http://www.google.com/hostednews/afp/article/ALeqM5gVOgtUqk2LAPbAFFPDbwv35JzOMA?docId=CNG.86b7fca081287d5952255dcdbb99177e.811",
+   "displayLink": "www.google.com",
+   "snippet": "Mar 11, 2011 ... Here's a recap of the key points following the 8.9-magnitude quake -- the ... that   devastated coastlines in countries around the Indian Ocean as far away as Africa.   ... between 6:00 and 8:00 pm local time (0000 to 0200 GMT Saturday). ... 8.8   magnitude earthquake that struck the country in late February 2010 ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e Here&#39;s a recap of the key points following the 8.9-magnitude \u003cb\u003equake\u003c/b\u003e -- the \u003cb\u003e...\u003c/b\u003e that \u003cbr\u003e  devastated coastlines in countries around the \u003cb\u003eIndian\u003c/b\u003e Ocean as far away as Africa. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e between 6:00 and \u003cb\u003e8\u003c/b\u003e:00 pm local time (0000 to 0200 GMT Saturday). \u003cb\u003e...\u003c/b\u003e 8.8 \u003cbr\u003e  magnitude \u003cb\u003eearthquake\u003c/b\u003e that struck the country in late \u003cb\u003eFebruary\u003c/b\u003e 2010 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/.../ALeqM5gVOgtUqk2LAPbAFFPDbwv35JzOMA?...",
+   "htmlFormattedUrl": "www.google.com/.../ALeqM5gVOgtUqk2LAPbAFFPDbwv35JzOMA?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:title": "Japan quake: live report",
+      "og:type": "article",
+      "og:url": "http://www.google.com/hostednews/afp/article/ALeqM5gVOgtUqk2LAPbAFFPDbwv35JzOMA?docId=CNG.86b7fca081287d5952255dcdbb99177e.811",
+      "og:site_name": "Google News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "htmlTitle": "Google Fusion Tables | not_cph_embassy_confidential.csv",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV-eRaZ-tBHsbnSjwuJUSQ0iqNhk",
+   "displayLink": "www.google.com",
+   "snippet": "He said Turkey had not invited India to the neighbors summit in deference to .....   Press reported that on February 8, Montenegrin police arrested two Saric ......   response and development cooperation in the wake of the Haiti earthquake. ......   Last year, Sweden took 1,900 of the 4,800 quota refugees who arrived in Europe.",
+   "htmlSnippet": "He said Turkey had not invited \u003cb\u003eIndia\u003c/b\u003e to the neighbors summit in deference to \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Press reported that on \u003cb\u003eFebruary 8\u003c/b\u003e, Montenegrin police arrested two Saric \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  response and development cooperation in the wake of the Haiti \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  Last year, Sweden took \u003cb\u003e1,900\u003c/b\u003e of the 4,800 quota refugees who arrived in Europe.",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV...",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1201d3LuY9H6UV..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Google Fusion Tables | AKv2",
+   "htmlTitle": "Google Fusion Tables | AKv2",
+   "link": "http://www.google.com/fusiontables/DataSource?docid=1E-mlqcBdjdJh9iRpXyrUSoprW7D5Hfo1_D20rg",
+   "displayLink": "www.google.com",
+   "snippet": "Number, Status, Port of Call, Country, Location, Blog, Photo ...",
+   "htmlSnippet": "Number, Status, Port of Call, Country, Location, Blog, Photo \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZKdcpLNApXsJ",
+   "formattedUrl": "www.google.com/fusiontables/DataSource?docid=1E...D20rg",
+   "htmlFormattedUrl": "www.google.com/fusiontables/DataSource?docid=1E...D20rg"
+  }
+ ]
+}
