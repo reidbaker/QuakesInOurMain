@@ -177,13 +177,13 @@ public class Workspace extends AbstractVisualization implements Interactable {
 	int indexInRow = 0;
 	int rowCount = 0;
 	
-	while(index < openVises.size()){
-	    
-	    if(indexInRow == maxPerRow){
-		rowCount++;
-		indexInRow = 0;
-	    }
-	}
+//	while(index < openVises.size()){
+//	    
+//	    if(indexInRow == maxPerRow){
+//		rowCount++;
+//		indexInRow = 0;
+//	    }
+//	}
 
 	for (AbstractVisualization v : openVises) {
 	    v.resizeTo(new Rectangle(bounds.x
