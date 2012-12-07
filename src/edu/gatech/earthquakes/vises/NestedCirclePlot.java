@@ -210,7 +210,8 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
                 }
             }
         }
-        computedValues.get(continent).add(new TypeCount(type, count));
+        if(continent != null)
+            computedValues.get(continent).add(new TypeCount(type, count));
 
         calculateTotals();
         computeMaxVal();
