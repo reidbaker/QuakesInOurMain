@@ -26,6 +26,8 @@ public class Workspace extends AbstractVisualization implements Interactable {
     List<AbstractVisualization> allVises;
     List<AbstractVisualization> openVises;
 
+    private final float MAX_ASPECT_RATIO = 2.0f;
+    
     private int numHighlighted;
 
     private static final int BAR_WIDTH = 75, CORNER_RADIUS = 10,
@@ -170,7 +172,7 @@ public class Workspace extends AbstractVisualization implements Interactable {
 	    int numRows = 1;
 	    int maxPerRow = openVises.size();
 
-	    while (height / (float) width > 2.0f) {
+	    while (height / (float) width > MAX_ASPECT_RATIO) {
 		numRows++;
 		maxPerRow = openVises.size() / numRows;
 		if (openVises.size() % numRows != 0) {

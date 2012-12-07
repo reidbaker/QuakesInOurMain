@@ -67,20 +67,9 @@ public abstract class AbstractVisualization implements Drawable, Resizable {
 	    parent.fill(Theme.getDarkUIColor());
 	    parent.textSize(FRAME_TOP - 8);
 	    parent.textAlign(PApplet.LEFT);
-	    parent.text(title, fb.x + BASE_INSET + CORNER_RADIUS, fb.y
-		    + FRAME_TOP - 4);
-
-//	    int closeX = fb.x+fb.width-(FRAME_TOP-BASE_INSET * 3);
-//	    int closeY = fb.y + BASE_INSET*3;
-//	    int closeSize = FRAME_TOP - BASE_INSET * 6;
-//	    
-//	    parent.noFill();
-//	    parent.strokeJoin(PApplet.ROUND);
-//	    parent.rect(closeX, closeY, closeSize, closeSize);
-//	    parent.line(closeX + 2*BASE_INSET, closeY + 2*BASE_INSET, closeX
-//		    + closeSize - 2*BASE_INSET, closeY + closeSize - 2*BASE_INSET);
-//	    parent.line(closeX + 2*BASE_INSET, closeY + closeSize - 2*BASE_INSET, closeX
-//		    + closeSize - 2*BASE_INSET, closeY + 2*BASE_INSET);
+	    parent.text(title, fb.x + BASE_INSET + CORNER_RADIUS, fb.y,
+		    fb.width - 2 * BASE_INSET - CORNER_RADIUS, FRAME_TOP);
+	    ;
 	}
     }
 
@@ -107,8 +96,8 @@ public abstract class AbstractVisualization implements Drawable, Resizable {
 	    this.h = fb.height - (FRAME_TOP + FRAME_BOTTOM);
 	}
     }
-    
-    public String getTitle(){
+
+    public String getTitle() {
 	return title;
     }
 }
