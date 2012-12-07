@@ -23,9 +23,11 @@ import edu.gatech.earthquakes.web.CustomSearch;
 public class DetailedInfo extends Individual implements Brushable {
     // Display Strings
     private static final String NUMBER_OF_RESULTS = "Number of Results";
+    private static final String TITLE = "Top result title";
 
     // Calculated Data
     private volatile int numResults;
+    private volatile String title;
 
     // To keep from spamming custom search
     private volatile boolean searching;
@@ -57,13 +59,20 @@ public class DetailedInfo extends Individual implements Brushable {
                     try {
                         numResults = CustomSearch.getTotalCount(CustomSearch
                                 .getInstance().getQuery(getWebQuery()));
+                        title = CustomSearch.getTitles(0, CustomSearch
+                                .getInstance().getQuery(getWebQuery()));
                         searching = false;
                     } catch (UnknownHostException uhe) {
                         numResults = -1;
+                        title = "";
                         System.err.println("Unknown Host: " + uhe.getMessage());
                     } catch (NoSuchAlgorithmException | IOException e) {
                         numResults = -1;
+                        title = "";
                         e.printStackTrace();
+                    } catch (Exception e){
+                        numResults = -1;
+                        title = "";
                     } finally {
                         searching = false;
                     }
@@ -129,9 +138,17 @@ public class DetailedInfo extends Individual implements Brushable {
         sb.append(cal.get(Calendar.YEAR));
         sb.append("\n\n");
 
-        sb.append("Google Search Results for Earthquake: ");
-        sb.append(numResults);
-        sb.append('\n');
+        if(numResults >=0){
+            sb.append("Google Search Results for Earthquake: ");
+            sb.append(numResults);
+            sb.append('\n');
+        }
+        if(title.length() > 0){
+            sb.append(TITLE);
+            sb.append(": ");
+            sb.append(title);
+            sb.append('\n');
+        }
 
         return sb.toString();
     }

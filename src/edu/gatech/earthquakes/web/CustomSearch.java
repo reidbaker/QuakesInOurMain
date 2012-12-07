@@ -15,6 +15,8 @@ import java.security.NoSuchAlgorithmException;
 import java.util.Properties;
 import java.util.Scanner;
 
+import org.jsoup.Jsoup;
+
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
 
@@ -142,4 +144,16 @@ public class CustomSearch {
         return Integer.parseInt(result);
     }
 
+    public static String getTitles(int index, String jsonLine){
+        //jdata['items'][1]['htmlTitle']
+        JsonElement jelement = new JsonParser().parse(jsonLine);
+        String result = jelement.
+                getAsJsonObject().
+                getAsJsonArray("items").
+                get(index).
+                getAsJsonObject().
+                get("htmlTitle").
+                toString();
+        return Jsoup.parse(result).text();
+    }
 }
