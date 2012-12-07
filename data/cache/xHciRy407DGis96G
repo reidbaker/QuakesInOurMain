@@ -1,0 +1,131 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 4 2001 Africa Earthquake",
+    "totalResults": "3",
+    "searchTerms": "Nov 4 2001 Africa Earthquake",
+    "count": 3,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.48361,
+  "formattedSearchTime": "0.48",
+  "totalResults": "3",
+  "formattedTotalResults": "3"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4442149 - Cable tension gluing process - Google Patents",
+   "htmlTitle": "Patent US4442149 - Cable tension gluing process - Google Patents",
+   "link": "http://www.google.com/patents/US4442149",
+   "displayLink": "www.google.com",
+   "snippet": "The process for the gluing together of free form wood shapes in which ... South   African Inventions Development Corporation, Pallet with tensioned strips and   bulk ... US6877283, Mar 28, 2001, Apr 12, 2005, Manufacture and use of   earthquake resistant ... US7908808, Nov 4, 2008, Mar 22, 2011, Roof, ceiling or   wall element ...",
+   "htmlSnippet": "The process \u003cb\u003efor\u003c/b\u003e the gluing together of free form wood shapes in which \u003cb\u003e...\u003c/b\u003e South \u003cbr\u003e  \u003cb\u003eAfrican\u003c/b\u003e Inventions Development Corporation, Pallet with tensioned strips and \u003cbr\u003e  bulk \u003cb\u003e...\u003c/b\u003e US6877283, Mar 28, \u003cb\u003e2001\u003c/b\u003e, Apr 12, 2005, Manufacture and use of \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e resistant \u003cb\u003e...\u003c/b\u003e US7908808, \u003cb\u003eNov 4\u003c/b\u003e, 2008, Mar 22, 2011, Roof, ceiling or \u003cbr\u003e  wall element \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4442149",
+   "htmlFormattedUrl": "www.google.com/patents/US\u003cb\u003e444\u003c/b\u003e2149",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=oFM-AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuYqThbnvm_m_Beq5FfXv4U-X6WGXelXHbXMVv4N6lEURh-JFarNHfBw"
+     }
+    ],
+    "book": [
+     {
+      "description": "The process for the gluing together of free form wood shapes in which individually pre-cut pieces are drawn into position, and correct, even, gluing pressure is applied by tension taken on...",
+      "url": "http://www.google.com/patents/US4442149?utm_source=gb-gplus-share",
+      "name": "Patent US4442149 - Cable tension gluing process",
+      "image": "http://www.google.com/patents?id=oFM-AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4442149",
+      "title": "Patent US4442149 - Cable tension gluing process",
+      "og:title": "Patent US4442149 - Cable tension gluing process",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=oFM-AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Our history in depth ??? Company ??? Google",
+   "htmlTitle": "Our history in depth ??? Company ??? Google",
+   "link": "http://www.google.com/about/company/history/",
+   "displayLink": "www.google.com",
+   "snippet": "November. Charlie Ayers joins as Google's first chef. He wins the job in a cook-off   judged by the company's 40 employees. Previous claim to fame: catering for ...",
+   "htmlSnippet": "\u003cb\u003eNovember\u003c/b\u003e. Charlie Ayers joins as Google&#39;s first chef. He wins the job in a cook-off \u003cbr\u003e  judged by the company&#39;s 40 employees. Previous claim to fame: catering \u003cb\u003efor\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ex81iG3sJZAJ",
+   "formattedUrl": "www.google.com/about/company/history/",
+   "htmlFormattedUrl": "www.google.com/about/company/history/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent EP1853670A2 - Novel uses of calcium hydroxide - Google ...",
+   "htmlTitle": "Patent EP1853670A2 - Novel uses of calcium hydroxide - Google \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/EP1853670A2?cl=en",
+   "displayLink": "www.google.com",
+   "snippet": "4. The HVAC system components of claim 1, wherein the soluble binder polymer   .... 60/624,991, entitled \"Novel Uses of Calcium Hydroxide\" filed on November 4,   .... et al. on May 15, 2001, (\"the '650 Patent\") described a hydrated lime paint or   ...... Vero (strain E6)- African green monkey kidney cell line, passage 32 and 33, ...",
+   "htmlSnippet": "\u003cb\u003e4\u003c/b\u003e. The HVAC system components of claim 1, wherein the soluble binder polymer \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 60/624,991, entitled &quot;Novel Uses of Calcium Hydroxide&quot; filed on \u003cb\u003eNovember 4\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e et al. on May 15, \u003cb\u003e2001\u003c/b\u003e, (&quot;the &#39;650 Patent&quot;) described a hydrated lime paint or \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e Vero (strain E6)- \u003cb\u003eAfrican\u003c/b\u003e green monkey kidney cell line, passage 32 and 33, \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/EP1853670A2?cl=en",
+   "htmlFormattedUrl": "www.google.com/patents/EP1853670A2?cl=en",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "book": [
+     {
+      "description": "A heating ventilation and air conditioning (???HVAC???) system having bacterial spore, viral, and fungal killing activity. The HVAC system components are at least partially coated with a biocidal...",
+      "url": "http://www.google.com/patents/EP1853670A2?cl=en&utm_source=gb-gplus-share",
+      "name": "Patent EP1853670A2 - Novel uses of calcium hydroxide",
+      "image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/EP1853670A2?cl=en",
+      "title": "Patent EP1853670A2 - Novel uses of calcium hydroxide",
+      "og:title": "Patent EP1853670A2 - Novel uses of calcium hydroxide",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}
