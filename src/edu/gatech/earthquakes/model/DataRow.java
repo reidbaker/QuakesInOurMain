@@ -6,7 +6,7 @@ import edu.gatech.earthquakes.components.Theme;
 
 public class DataRow implements Comparable<DataRow>{
 	
-	public static int getColorFor(String enumText){
+	public static int getColorFor(final String enumText){
 		int result = -1;
 		for(Continent c : DataRow.Continent.values()){
 			if(c.toString().equals(enumText)){
@@ -14,19 +14,23 @@ public class DataRow implements Comparable<DataRow>{
 			}
 		}
 		for(Type t: Type.values()){
-			if(t.toString().equals(enumText))
+			if(t.toString().equals(enumText)){
 				result = t.getColor();
+			}
 		}
 		for(Dependency d: Dependency.values())
-		    if(d.toString().equals(enumText))
+		    if(d.toString().equals(enumText)){
 		        result = d.getColor();
+		    }
 		
-		if(enumText.equals(DEPTH))
+		if(enumText.equals(DEPTH)){
 			result = Theme.getPalletteColor(15);
-		if(result == -1)
+		}
+		if(result == -1){
 			throw new IllegalArgumentException("Name has no corresponding enum");
-		else
+		} else {
 			return result;
+		}
 	}
 	
     public final static String DATE = "Date";
@@ -47,7 +51,7 @@ public class DataRow implements Comparable<DataRow>{
         private String text;
         private int color;
 
-        private Continent(String text, int color){
+        private Continent(final String text, final int color){
         	this.text = text;
         	this.color = color;
         }
@@ -76,7 +80,7 @@ public class DataRow implements Comparable<DataRow>{
         private String text;
         private int color;
 
-        private Dependency(String text, int color){
+        private Dependency(final String text, final int color){
         	this.text = text;
         	this.color = color;
         }

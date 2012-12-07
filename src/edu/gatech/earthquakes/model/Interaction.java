@@ -4,11 +4,11 @@ import processing.core.PApplet;
 
 public class Interaction {
 
-	private boolean firstPress, dragged, released;
-	private PApplet parentApplet;
+	final private boolean firstPress, dragged, released;
+	final private PApplet parentApplet;
 	
-	public Interaction(boolean firstPress, boolean dragged, boolean released,
-			PApplet parentApplet) {
+	public Interaction(final boolean firstPress, final boolean dragged,
+	        final boolean released, final PApplet parentApplet) {
 		super();
 		this.firstPress = firstPress;
 		this.dragged = dragged;

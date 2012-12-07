@@ -8,6 +8,6 @@ import edu.gatech.earthquakes.model.DataSet;
 public interface Brushable {
 
 	@Subscribe
-	public void brushData(DataSet ds);
+	public void brushData(DataSet newDataSet);
 	
 }

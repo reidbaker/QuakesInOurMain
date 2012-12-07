@@ -11,16 +11,22 @@ import edu.gatech.earthquakes.model.DataSet;
  */
 public abstract class Multi extends AbstractVisualization {
 
-	protected DataSet displayData;
+    protected DataSet displayData;
 
-	public Multi(int x, int y, int w, int h, DataSet displayData) {
-		super(x, y, w, h);
-		
-		this.displayData = displayData;
-		
-	}
+    public Multi(int x, int y, int w, int h, DataSet displayData) {
+	super(x, y, w, h, "Multi - FIX ME");
 
-	protected final void applyFilterGlobally() {
-		Controller.applyFilter(displayData);
-	}
+	this.displayData = displayData;
+
+    }
+
+    public Multi(int x, int y, int w, int h,
+	    DataSet displayData, String title) {
+	super(x, y, w, h, title);
+	this.displayData = displayData;
+    }
+
+    protected final void applyFilterGlobally() {
+	Controller.applyFilter(displayData);
+    }
 }

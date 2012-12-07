@@ -27,7 +27,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 	private int highlightedIndex;
 
 	public DepthPlot(int x, int y, int w, int h, DataSet displayData) {
-		super(x, y, w, h, displayData);
+		super(x, y, w, h, displayData, "Depth vs Time");
 		calculateRanges();
 		calculateDrawingValues();
 	}

@@ -14,7 +14,7 @@ public class NominalBarGraph extends BarGraph
 	private Hashtable<String, Integer> bars;
 
 	public NominalBarGraph(int x, int y, int w, int h, DataSet displayData, String dataType) {
-		super(x, y, w, h, displayData, dataType);
+		super(x, y, w, h, displayData, dataType, "Earthquake " + dataType);
 		createBars();
 	}
 
