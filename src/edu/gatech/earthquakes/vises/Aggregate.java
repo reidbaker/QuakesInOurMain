@@ -9,6 +9,10 @@ public abstract class Aggregate extends Multi{
 	private String aggregator;
 	
 	public Aggregate(int x, int y, int w, int h, DataSet displayData) {
-		super(x, y, w, h, displayData);
+		this(x, y, w, h, displayData, "Aggregate - FIX ME");
+	}
+	
+	public Aggregate(int x, int y, int w, int h, DataSet displayData, String title) {
+		super(x, y, w, h, displayData, title);
 	}
 }

@@ -74,6 +74,11 @@ public class Workspace extends AbstractVisualization implements Interactable {
 	Controller.registerVisualization(bars);
 	allVises.add(bars);
 
+	Multi nomiBars = new NominalBarGraph(x, y, w, h, masterData,
+	        DataRow.TYPE);
+	Controller.registerVisualization(nomiBars);
+	allVises.add(nomiBars);
+
 	openVises.addAll(allVises);
 
     }
@@ -117,17 +122,19 @@ public class Workspace extends AbstractVisualization implements Interactable {
 	for (AbstractVisualization av : allVises) {
 	    if (openVises.contains(av)) {
 		if (numHighlighted == i) {
-		    parent.fill(Theme.changeBrightness(Theme.rgba(Theme.getBrightUIColor(), 0xaa), 1.1f, true));
+		    parent.fill(Theme.changeBrightness(
+			    Theme.rgba(Theme.getBrightUIColor(), 0xaa), 1.1f,
+			    true));
 		} else {
 		    parent.fill(Theme.rgba(Theme.getBrightUIColor(), 0xaa));
 		}
 	    } else {
 		if (numHighlighted == i) {
-			parent.fill(Theme.changeBrightness(Theme.changeSaturation(Theme.getBrightUIColor(),
-			        0.0f, true), 0.75f, true));
+		    parent.fill(Theme.changeBrightness(Theme.changeSaturation(
+			    Theme.getBrightUIColor(), 0.0f, true), 0.75f, true));
 		} else {
-			parent.fill(Theme.changeSaturation(Theme.getBrightUIColor(),
-			        0.0f, true));
+		    parent.fill(Theme.changeSaturation(
+			    Theme.getBrightUIColor(), 0.0f, true));
 		}
 	    }
 	    int bx = x + w - BAR_WIDTH + BUTTON_PADDING;
@@ -150,6 +157,34 @@ public class Workspace extends AbstractVisualization implements Interactable {
     public void resizeTo(Rectangle bounds) {
 	super.resizeTo(bounds);
 	int index = 0;
+
+	// Determine vis aspect ratio
+	int width = (bounds.width - BAR_WIDTH - 10) / openVises.size();
+	int height = bounds.height;
+	int numRows = 1;
+	int maxPerRow = openVises.size();
+
+	while (height / (float) width > 2.0f) {
+	    numRows++;
+	    maxPerRow = openVises.size() / numRows;
+	    if (openVises.size() % numRows != 0) {
+		maxPerRow++;
+	    }
+	    width = (bounds.width - BAR_WIDTH - 10) / maxPerRow;
+	    height = bounds.height/numRows;
+	}
+	
+	int indexInRow = 0;
+	int rowCount = 0;
+	
+	while(index < openVises.size()){
+	    
+	    if(indexInRow == maxPerRow){
+		rowCount++;
+		indexInRow = 0;
+	    }
+	}
+
 	for (AbstractVisualization v : openVises) {
 	    v.resizeTo(new Rectangle(bounds.x
 		    + (index * (bounds.width - BAR_WIDTH - 10) / openVises

@@ -10,7 +10,11 @@ public abstract class BarGraph extends Aggregate implements Filterable{
 	
 
 	public BarGraph(int x, int y, int w, int h, DataSet displayData, String dataType) {
-		super(x, y, w, h, displayData);
+		this(x, y, w, h, displayData, dataType, "Bargraph - FIX ME");
+	}
+	
+	public BarGraph(int x, int y, int w, int h, DataSet displayData, String dataType, String title) {
+		super(x, y, w, h, displayData, title);
 		
 		this.dataType = dataType;
 	}

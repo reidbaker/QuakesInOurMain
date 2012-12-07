@@ -36,7 +36,7 @@ public class DetailedInfo extends Individual implements Brushable {
     private int textSize;
 
     public DetailedInfo(int x, int y, int w, int h, DataRow displayData) {
-	super(x, y, w, h, displayData);
+	super(x, y, w, h, displayData, "Detailed Information");
 	setFormatting(w);
 	recalculateNumResults();
 	searching = false;
