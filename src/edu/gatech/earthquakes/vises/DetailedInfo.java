@@ -37,15 +37,15 @@ public class DetailedInfo extends Individual implements Brushable {
 
     public DetailedInfo(int x, int y, int w, int h, DataRow displayData) {
         super(x, y, w, h, displayData, "Detailed Information");
-        setFormatting(w);
+        setFormatting(w, h);
         recalculateNumResults();
         searching = false;
     }
 
-    private void setFormatting(int w) {
-        xPadding = w / 50;
-        yPadding = w / 50;
-        textSize = w / 15;
+    private void setFormatting(int width, int height) {
+        xPadding = width / 50;
+        yPadding = width / 50;
+        textSize = Math.min(width / 15, height / 15);
     }
 
     private void recalculateNumResults() {
@@ -82,7 +82,8 @@ public class DetailedInfo extends Individual implements Brushable {
         p.textAlign(PApplet.LEFT);
         p.textSize(textSize);
         String displayOutput = getDisplayString();
-        p.text(displayOutput, x + xPadding, y + yPadding, x + w, y + h);
+        // magical 2's are to keep text from drawing outside the box
+        p.text(displayOutput, x + xPadding, y + yPadding, x + w - xPadding, y + h - 2*yPadding - 2*textSize);
     }
 
     private String getDisplayString() {
@@ -114,7 +115,7 @@ public class DetailedInfo extends Individual implements Brushable {
         sb.append("\n");
 
         sb.append(DataRow.DATE);
-        sb.append(":");
+        sb.append(": ");
 
         Calendar cal = Calendar.getInstance();
         Locale loc = Locale.getDefault(Category.DISPLAY);
@@ -165,7 +166,7 @@ public class DetailedInfo extends Individual implements Brushable {
     @Override
     public void resizeTo(Rectangle bounds) {
         super.resizeTo(bounds);
-        setFormatting(bounds.width);
+        setFormatting(bounds.width, bounds.height);
     }
 
 }
