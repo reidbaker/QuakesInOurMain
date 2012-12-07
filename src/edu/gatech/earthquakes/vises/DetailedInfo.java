@@ -47,7 +47,7 @@ public class DetailedInfo extends Individual implements Brushable {
     private void setFormatting(int width, int height) {
         xPadding = width / 50;
         yPadding = width / 50;
-        textSize = Math.min(width / 15, height / 15);
+        textSize = Math.min(width / 20, height / 20);
     }
 
     private void recalculateNumResults() {
