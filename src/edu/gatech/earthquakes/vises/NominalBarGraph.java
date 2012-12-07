@@ -68,10 +68,15 @@ public class NominalBarGraph extends BarGraph
 		int tickLabel = 0;
 
 		parent.textSize(8);
+		parent.textAlign(PApplet.CENTER);
 		for(int i=0; i<= h-buffer*2; i+= (h-buffer*2)/numTicks){
+		    parent.pushMatrix();
 			parent.line(x+buffer-2, y+h-buffer-i, x+buffer+2, y+h-buffer-i);
-			parent.text(tickLabel  + "", x+buffer/2, y+h-buffer-i + 4 );
+			parent.translate(x+buffer/2, y+h-buffer-i);
+			parent.rotate(-PApplet.PI/2);
+			parent.text(tickLabel  + "", 0, 0);
 			tickLabel += tickVal;
+			parent.popMatrix();
 		}
 	}
 

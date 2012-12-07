@@ -34,7 +34,7 @@ public class AftershockMap extends Individual implements Interactable,
 
     public AftershockMap(int x, int y, int w, int h, DataRow displayData,
 	    DataSet filterData) {
-	super(x, y, w, h, displayData);
+	super(x, y, w, h, displayData, "Aftershock Locations");
 	filterBy(filterData);
     }
 
