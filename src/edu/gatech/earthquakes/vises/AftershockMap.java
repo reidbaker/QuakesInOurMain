@@ -1,11 +1,8 @@
 package edu.gatech.earthquakes.vises;
 
 import java.awt.Rectangle;
-import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.Date;
 import java.util.HashSet;
 import java.util.Set;
@@ -15,7 +12,6 @@ import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
 import edu.gatech.earthquakes.interfaces.Filterable;
 import edu.gatech.earthquakes.interfaces.Interactable;
-import edu.gatech.earthquakes.model.DataComparator;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 import edu.gatech.earthquakes.model.Interaction;
@@ -44,26 +40,26 @@ public class AftershockMap extends Individual implements Interactable,
 
 	double[][] coords = getCoordinates();
 	double[] m = getMagnitudes();
-	double[] mainCoords = getDrawingCoord((double)displayData.getValue(DataRow.LONGITUDE), (double)displayData.getValue(DataRow.LATTITUDE));
-	//System.out.println(mainCoords[0]);
+	double[] mainCoords = getDrawingCoord(
+	        (double) displayData.getValue(DataRow.LONGITUDE),
+	        (double) displayData.getValue(DataRow.LATTITUDE));
+	// System.out.println(mainCoords[0]);
 	for (int i = 0; i < coords.length; i++) {
 
 	    // for magnitude, min and max are assumed to be 3 and 7 based on
 	    // moment magnitude numbers
 	    double[] c = getDrawingCoord(coords[i][0], coords[i][1]);
-	    //System.out.println(c[0]);
+	    // System.out.println(c[0]);
 
 	    if (highlightedPos != null && coords[i][0] == highlightedPos[0]
 		    && coords[i][1] == highlightedPos[1]) {
 		parent.fill(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 0x55));
 		parent.stroke(Theme.rgba(Theme.HIGHLIGHTED_COLOR, 0xbb));
-	    } 
-	    else if(c[0] == mainCoords[0] && c[1] == mainCoords[1] ){
-	       
-	        parent.fill(Theme.rgba(mainColor, 0x88));
-                parent.stroke(Theme.rgba(mainColor, 0xdd));
-	    }
-	    else {
+	    } else if (c[0] == mainCoords[0] && c[1] == mainCoords[1]) {
+
+		parent.fill(Theme.rgba(mainColor, 0x88));
+		parent.stroke(Theme.rgba(mainColor, 0xdd));
+	    } else {
 		parent.fill(Theme.rgba(shockColor, 0x55));
 		parent.stroke(Theme.rgba(shockColor, 0xbb));
 	    }
@@ -84,10 +80,8 @@ public class AftershockMap extends Individual implements Interactable,
 	parent.rect(x + buffer, y + buffer, w - buffer * 2, h - buffer * 2);
 
 	parent.fill(Theme.getDarkUIColor());
-	if(w/30 > 16)
-	    parent.textSize(16);
-	else
-	    parent.textSize(w / 30);
+
+	parent.textSize(Math.min(w / 30, 12));
 
 	// make and label the latitude tick marks
 	double lon = 0;
@@ -156,10 +150,9 @@ public class AftershockMap extends Individual implements Interactable,
 	    lon[i] = coords[i][0];
 	    lat[i] = coords[i][1];
 	}
-	
+
 	Arrays.sort(lon);
 	Arrays.sort(lat);
-	
 
 	double dif = 0;
 	double buffer = .1;
@@ -231,9 +224,9 @@ public class AftershockMap extends Individual implements Interactable,
 
     /*
      * All of th scaling is done with the formula of:
-     *
+     * 
      * f(x) = (b-a)(x-min)/(max-min) + a
-     *
+     * 
      * where [min,max] maps to [a,b]
      */
 
@@ -256,19 +249,18 @@ public class AftershockMap extends Individual implements Interactable,
 
 	return new double[] { x + qx + buffer, y + h - qy - buffer };
     }
-    
+
     public void resizeTo(Rectangle bounds) {
-       super.resizeTo(bounds);
-       if (aftershocks.getDatum().size() > 0) {
-           calculateRanges();
-       }
+	super.resizeTo(bounds);
+	if (aftershocks.getDatum().size() > 0) {
+	    calculateRanges();
+	}
     }
-    
 
     @Override
     public void filterBy(DataSet filteredData) {
 	Date date = (Date) displayData.getValue(DataRow.DATE);
-	//System.out.println(date);
+	// System.out.println(date);
 	Set<DataRow> shocks = new HashSet<DataRow>();
 
 	for (DataRow quake : filteredData) {
@@ -276,10 +268,12 @@ public class AftershockMap extends Individual implements Interactable,
 		    DataRow.Dependency.DEPENDENT)
 		    && quake.getValue(DataRow.MAIN_DATE).equals(date))
 		shocks.add(quake);
-	    if (quake.getValue(DataRow.LATTITUDE).equals(displayData.getValue(DataRow.LATTITUDE))
-	            && quake.getValue(DataRow.LONGITUDE).equals(displayData.getValue(DataRow.LONGITUDE))){
+	    if (quake.getValue(DataRow.LATTITUDE).equals(
+		    displayData.getValue(DataRow.LATTITUDE))
+		    && quake.getValue(DataRow.LONGITUDE).equals(
+		            displayData.getValue(DataRow.LONGITUDE))) {
 		shocks.add(displayData);
-		//System.out.println("added");
+		// System.out.println("added");
 	    }
 	}
 	aftershocks = new DataSet(shocks);
