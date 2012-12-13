@@ -1,0 +1,251 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 25 2001 Africa Earthquake",
+    "totalResults": "775000",
+    "searchTerms": "Sep 25 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 25 2001 Africa Earthquake",
+    "totalResults": "775000",
+    "searchTerms": "Sep 25 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.261995,
+  "formattedSearchTime": "0.26",
+  "totalResults": "775000",
+  "formattedTotalResults": "775,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Algeria earthquake list",
+   "htmlTitle": "Algeria \u003cb\u003eearthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/02/18/algeria-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 26, 2012 ... The list below shows the last earthquakes in Algeria ... senti et c'??tait fort, pas   comme celui de Boumerdes en 2001 mais il n'y a pas vraiment ... EMSC,   Northern Algeria, Sep 25 07:12 AM, 3.7, 1.0, MAP ?? I Felt It .... Worldwide   EARTHQUAKE related news ??? To remember : South-Africa 1976 - Magnitude 5.2 ...",
+   "htmlSnippet": "Apr 26, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in Algeria \u003cb\u003e...\u003c/b\u003e senti et c&#39;??tait fort, pas \u003cbr\u003e  comme celui de Boumerdes en \u003cb\u003e2001\u003c/b\u003e mais il n&#39;y a pas vraiment \u003cb\u003e...\u003c/b\u003e EMSC, \u003cbr\u003e  Northern Algeria, \u003cb\u003eSep 25\u003c/b\u003e 07:12 AM, 3.7, 1.0, MAP &middot; I Felt It \u003cb\u003e....\u003c/b\u003e Worldwide \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South-\u003cb\u003eAfrica\u003c/b\u003e 1976 - Magnitude 5.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "F6R1_yAQc0cJ",
+   "formattedUrl": "earthquake-report.com/2012/02/18/algeria-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/02/18/algeria-\u003cb\u003eearthquake\u003c/b\u003e-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 5.2, NEAR THE COAST OF TAMIL NADU, INDIA, Sep 25 2001 ... 4.9, SOUTH   AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 5.2, NEAR THE COAST OF TAMIL NADU, INDIA, \u003cb\u003eSep 25 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 4.9, SOUTH \u003cbr\u003e  \u003cb\u003eAFRICA\u003c/b\u003e, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 25 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember 25\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_25",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 25 is the 268th day of the year (269th in leap years) in the Gregorian   calendar. ... 2003 ??? A magnitude-8.0 earthquake strikes just offshore Hokkaid??,   Japan. ... 2001); 1923 ??? Sam Rivers, American musician, composer, and   bandleader (d. ... French actor; 1936 ??? Juliet Prowse, South African actress and   dancer (d.",
+   "htmlSnippet": "\u003cb\u003eSeptember 25\u003c/b\u003e is the 268th day of the year (269th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e 2003 ??? A magnitude-8.0 \u003cb\u003eearthquake\u003c/b\u003e strikes just offshore Hokkaid??, \u003cbr\u003e  Japan. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e); 1923 ??? Sam Rivers, American musician, composer, and \u003cbr\u003e  bandleader (d. \u003cb\u003e...\u003c/b\u003e French actor; 1936 ??? Juliet Prowse, South \u003cb\u003eAfrican\u003c/b\u003e actress and \u003cbr\u003e  dancer (d.",
+   "cacheId": "xbjHtbCFCOQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_25",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e25\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Tuesday, 25 September 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Tuesday, \u003cb\u003e25 September\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-sep-25.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Earthquake list: Tuesday, 25 September 2012 (M\u003e=2.5) (180 quakes) ... Please   wait until the recent earthquake list is loaded. ...... Tue, 25 Sep 01:43 UTC, M 5.2 /   15.7 km - [info], (1127 km), South of Africa .... etna paroxysm 9 july 2011 may   2008 november 2006 october 2006 2001 2000 1999 stromboli new september   2011 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e list: Tuesday, \u003cb\u003e25 September\u003c/b\u003e 2012 (M&gt;=2.5) (180 quakes) \u003cb\u003e...\u003c/b\u003e Please \u003cbr\u003e  wait until the recent \u003cb\u003eearthquake\u003c/b\u003e list is loaded. \u003cb\u003e......\u003c/b\u003e Tue, \u003cb\u003e25 Sep\u003c/b\u003e 01:43 UTC, M 5.2 / \u003cbr\u003e  15.7 km - [info], (1127 km), South of \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e etna paroxysm 9 july 2011 may \u003cbr\u003e  2008 november 2006 october 2006 \u003cb\u003e2001\u003c/b\u003e 2000 1999 stromboli new \u003cb\u003eseptember\u003c/b\u003e \u003cbr\u003e  2011 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YP2v4zlN2tIJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-sep-25.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003esep\u003c/b\u003e-\u003cb\u003e25\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 Gujarat earthquake, 23.39, 70.23, 20,085, 7.7, Mw (HRV) ... 02002-03-  25March 3, 2002, 12:08, Hindu Kush Region, Afghanistan ... September 8, 2002,   18:44, North coast of New Guinea, Papua New Guinea, ???3.302, 142.945, 4, 7.6 ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e, 23.39, 70.23, 20,085, 7.7, Mw (HRV) \u003cb\u003e...\u003c/b\u003e 02002-03-\u003cbr\u003e  \u003cb\u003e25\u003c/b\u003eMarch 3, 2002, 12:08, Hindu Kush Region, Afghanistan \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 8, 2002, \u003cbr\u003e  18:44, North coast of New Guinea, Papua New Guinea, ???3.302, 142.945, 4, 7.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BBC News | SCI/TECH | How reptiles survived the big one",
+   "htmlTitle": "BBC News | SCI/TECH | How reptiles survived the big one",
+   "link": "http://news.bbc.co.uk/2/hi/science/nature/1562191.stm",
+   "displayLink": "news.bbc.co.uk",
+   "snippet": "Tuesday, 25 September, 2001, 14:51 GMT 15:51 UK ... The reptile lived about   250 million years ago in what is now South Africa ... an amount of energy   equivalent to about one million times the largest earthquake recorded in the 20th   Century.",
+   "htmlSnippet": "\u003cb\u003eTuesday, 25 September, 2001\u003c/b\u003e, 14:51 GMT 15:51 UK \u003cb\u003e...\u003c/b\u003e The reptile lived about \u003cbr\u003e  250 million years ago in what is now South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e an amount of energy \u003cbr\u003e  equivalent to about one million times the largest \u003cb\u003eearthquake\u003c/b\u003e recorded in the 20th \u003cbr\u003e  Century.",
+   "cacheId": "9UBLxcdy9NsJ",
+   "formattedUrl": "news.bbc.co.uk/2/hi/science/nature/1562191.stm",
+   "htmlFormattedUrl": "news.bbc.co.uk/2/hi/science/nature/1562191.stm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.bbc.co.uk/olmedia/1560000/images/_1562191_fossil300.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "144",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTago80PTJpMJorlt5v7VNDCAifBoYsnfPqk5EyPjt5Im3CpH9RBsMhq8rb"
+     }
+    ],
+    "metatags": [
+     {
+      "olbbc_story": "YES",
+      "headline": "How reptiles survived the big one",
+      "section": "Sci/Tech",
+      "originalpublicationdate": "2001/09/25 14:51:36"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list (worldwide) for Saturday, 25 Aug",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list (worldwide) for Saturday, \u003cb\u003e25 Aug\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-aug-25.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Earthquake list: Saturday, 25 August 2012 (M\u003e=2.5) (192 quakes) ... Sat, 25 Aug   22:25 UTC, M 3.2 / 101 km - [info], (94 km), 26 km al SUROESTE de ...... Jan 2012   photos. Africa. Nyiragongo lava lake & mountain gorillas .... Eruption 2001 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e list: Saturday, \u003cb\u003e25\u003c/b\u003e August 2012 (M&gt;=2.5) (192 quakes) \u003cb\u003e...\u003c/b\u003e Sat, \u003cb\u003e25 Aug\u003c/b\u003e \u003cbr\u003e  22:\u003cb\u003e25\u003c/b\u003e UTC, M 3.2 / 101 km - [info], (94 km), 26 km al SUROESTE de \u003cb\u003e......\u003c/b\u003e Jan 2012 \u003cbr\u003e  photos. \u003cb\u003eAfrica\u003c/b\u003e. Nyiragongo lava lake &amp; mountain gorillas \u003cb\u003e....\u003c/b\u003e Eruption \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3rwtIjeu7VYJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-aug-25.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003eaug\u003c/b\u003e-\u003cb\u003e25\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Most in quake zone had no coverage - Los Angeles Times",
+   "htmlTitle": "Most in \u003cb\u003equake\u003c/b\u003e zone had no coverage - Los Angeles Times",
+   "link": "http://articles.latimes.com/2008/jun/24/business/fi-chinaquake24",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Jun 24, 2008 ... That's because in all but rare cases, earthquakes are specifically ... About 3   million houses collapsed in the quake. ... September 25, 2001 ...",
+   "htmlSnippet": "Jun 24, 2008 \u003cb\u003e...\u003c/b\u003e That&#39;s because in all but rare cases, \u003cb\u003eearthquakes\u003c/b\u003e are specifically \u003cb\u003e...\u003c/b\u003e About 3 \u003cbr\u003e  million houses collapsed in the \u003cb\u003equake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember 25, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B0dI2NbFrMkJ",
+   "formattedUrl": "articles.latimes.com/2008/jun/24/business/fi-chinaquake24",
+   "htmlFormattedUrl": "articles.latimes.com/2008/jun/24/business/fi-china\u003cb\u003equake\u003c/b\u003e24",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:admins": "100001837105818",
+      "fb:app_id": "186620898040944",
+      "og:title": "Most in quake zone had no coverage",
+      "og:type": "article",
+      "og:url": "http://articles.latimes.com/2008/jun/24/business/fi-chinaquake24",
+      "og:description": "As a customer-service manager at China Pacific Property Insurance Co., Shen Jie paid visits to dozens of policyholders whose homes and cars were destroyed or damaged by the May 12 earthquake. After...",
+      "og:site_name": "Los Angeles Times Articles"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Museum of African Art / Art and Programs / Virtual Exhibitions",
+   "htmlTitle": "National Museum of \u003cb\u003eAfrican\u003c/b\u003e Art / Art and Programs / Virtual Exhibitions",
+   "link": "http://africa.si.edu/exhibits/past.html",
+   "displayLink": "africa.si.edu",
+   "snippet": "Resonance from the Past: African Sculpture from the New Orleans Museum ... the   National Museum of Ethnology, Lisbon, June 10???September 16, 2001 ... Audible   Artworks: Selected African Musical Instruments, June 25, 2000???April 8, 2001 ...   The Healing Power of Art: Works of Art by Haitian Children after the Earthquake.",
+   "htmlSnippet": "Resonance from the Past: \u003cb\u003eAfrican\u003c/b\u003e Sculpture from the New Orleans Museum \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  National Museum of Ethnology, Lisbon, June 10???\u003cb\u003eSeptember\u003c/b\u003e 16, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Audible \u003cbr\u003e  Artworks: Selected \u003cb\u003eAfrican\u003c/b\u003e Musical Instruments, June \u003cb\u003e25\u003c/b\u003e, 2000???April 8, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The Healing Power of Art: Works of Art by Haitian Children after the \u003cb\u003eEarthquake\u003c/b\u003e.",
+   "cacheId": "JXeGBQPQnEcJ",
+   "formattedUrl": "africa.si.edu/exhibits/past.html",
+   "htmlFormattedUrl": "\u003cb\u003eafrica\u003c/b\u003e.si.edu/exhibits/past.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stricken Suburb | PBS NewsHour | Sept. 25, 2001 | PBS",
+   "htmlTitle": "Stricken Suburb | PBS NewsHour | \u003cb\u003eSept. 25, 2001\u003c/b\u003e | PBS",
+   "link": "http://www.pbs.org/newshour/bb/terrorism/july-dec01/manhasset_9-25.html",
+   "displayLink": "www.pbs.org",
+   "snippet": "Sep 25, 2001 ... Betty Ann Bowser tells the story of Long Island's Manhasset community, which   suffered great losses from the September 11th attacks.",
+   "htmlSnippet": "Sep 25, 2001 \u003cb\u003e...\u003c/b\u003e Betty Ann Bowser tells the story of Long Island&#39;s Manhasset community, which \u003cbr\u003e  suffered great losses from the \u003cb\u003eSeptember\u003c/b\u003e 11th attacks.",
+   "cacheId": "T4JOysbIYZcJ",
+   "formattedUrl": "www.pbs.org/newshour/bb/terrorism/july.../manhasset_9-25.html",
+   "htmlFormattedUrl": "www.pbs.org/newshour/bb/terrorism/july.../manhasset_9-\u003cb\u003e25\u003c/b\u003e.html",
+   "pagemap": {
+    "mediaobject": [
+     {
+      "name": "Stricken Suburb",
+      "description": "Betty Ann Bowser tells the story of Long Island's Manhasset community, which suffered great losses from the September 11th attacks."
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Stricken Suburb | PBS NewsHour | Sept. 25, 2001",
+      "date": "2001-09-25T00:00:00-04:00",
+      "author": "PBS NewsHour",
+      "copyright": "Copyright 2011 PBS NewsHour",
+      "og:title": "Stricken Suburb | PBS NewsHour | Sept. 25, 2001",
+      "og:description": "Betty Ann Bowser tells the story of Long Island's Manhasset community, which suffered great losses from the September 11th attacks."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,252 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 3 1981 India Earthquake",
+    "totalResults": "115000",
+    "searchTerms": "Mar 3 1981 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 3 1981 India Earthquake",
+    "totalResults": "115000",
+    "searchTerms": "Mar 3 1981 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.384176,
+  "formattedSearchTime": "0.38",
+  "totalResults": "115000",
+  "formattedTotalResults": "115,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Indonesia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndonesia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Indonesia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the major 2004 earthquake and tsunami, see 2004 Indian Ocean earthquake   and tsunami. ... 1 List of Indonesian earthquakes; 2 See also; 3 References; 4   Historical maps; 5 External links ... Further information: 1981 Irian Jaya   earthquake ...",
+   "htmlSnippet": "For the major 2004 \u003cb\u003eearthquake\u003c/b\u003e and tsunami, see 2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  and tsunami. \u003cb\u003e...\u003c/b\u003e 1 List of Indonesian \u003cb\u003eearthquakes\u003c/b\u003e; 2 See also; \u003cb\u003e3\u003c/b\u003e References; 4 \u003cbr\u003e  Historical maps; 5 External links \u003cb\u003e...\u003c/b\u003e Further information: \u003cb\u003e1981\u003c/b\u003e Irian Jaya \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Sjf-9qCIPpAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Indonesia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Indonesia",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/COLLECTIE_TROPENMUSEUM_Een_door_een_aardbeving_verwoeste_Chinese_woonwijk_TMnr_10003972.jpg/220px-COLLECTIE_TROPENMUSEUM_Een_door_een_aardbeving_verwoeste_Chinese_woonwijk_TMnr_10003972.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "129",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZHbauO7DuTNToC9WXBLH9Kj-smli4tRavGBZg-VeGBIjz9eZjgobEMWh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Significant Earthquakes of the World, 1981",
+   "htmlTitle": "Significant \u003cb\u003eEarthquakes\u003c/b\u003e of the World, \u003cb\u003e1981\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/significant/sig_1981.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jan 5, 2010 ... Jan 23 21 54 41.6 29.68 S 60.84 E 10 G 6.1 6.8 1.0 229 ATLANTIC-INDIAN RISE  . ... Mar 4 21 58 05.9 38.21 N 23.29 E 29 6.0 6.4 1.1 210 GREECE. ... Sep 3 05 35   44.8 43.62 N 147.03 E 46 D 6.6 6.6 0.8 324 KURIL ISLANDS.",
+   "htmlSnippet": "Jan 5, 2010 \u003cb\u003e...\u003c/b\u003e Jan 23 21 54 41.6 29.68 S 60.84 E 10 G 6.1 6.8 1.0 229 ATLANTIC-\u003cb\u003eINDIAN\u003c/b\u003e RISE\u003cbr\u003e  . \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMar\u003c/b\u003e 4 21 58 05.9 38.21 N 23.29 E 29 6.0 6.4 1.1 210 GREECE. \u003cb\u003e...\u003c/b\u003e Sep \u003cb\u003e3\u003c/b\u003e 05 35 \u003cbr\u003e  44.8 43.62 N 147.03 E 46 D 6.6 6.6 0.8 324 KURIL ISLANDS.",
+   "cacheId": "txDx72xEvAMJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/.../sig_1981.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/.../sig_\u003cb\u003e1981\u003c/b\u003e.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1897 Jun 12, Possibly the most severe quake in history struck Assam, India. ....   1959 Mar 3, A SF Bay Area earthquake measured 5.5 on the Richter scale in   Berkeley. .... 1981 Jun 11, Earthquake in southeast Iran killed at least 1,500   people.",
+   "htmlSnippet": "1897 Jun 12, Possibly the most severe \u003cb\u003equake\u003c/b\u003e in history struck Assam, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  1959 \u003cb\u003eMar 3\u003c/b\u003e, A SF Bay Area \u003cb\u003eearthquake\u003c/b\u003e measured 5.5 on the Richter scale in \u003cbr\u003e  Berkeley. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1981\u003c/b\u003e Jun 11, \u003cb\u003eEarthquake\u003c/b\u003e in southeast Iran killed at least 1,500 \u003cbr\u003e  people.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Earthquake Engineering Online Archive - (Nisee e-library)",
+   "htmlTitle": "The \u003cb\u003eEarthquake\u003c/b\u003e Engineering Online Archive - (Nisee e-library)",
+   "link": "http://nisee.berkeley.edu/elibrary/earthquake/c",
+   "displayLink": "nisee.berkeley.edu",
+   "snippet": "The Earthquake Engineering Online Archive - (Nisee e-library)",
+   "htmlSnippet": "The \u003cb\u003eEarthquake\u003c/b\u003e Engineering Online Archive - (Nisee e-library)",
+   "cacheId": "zUy8jZHdoVEJ",
+   "formattedUrl": "nisee.berkeley.edu/elibrary/earthquake/c",
+   "htmlFormattedUrl": "nisee.berkeley.edu/elibrary/\u003cb\u003eearthquake\u003c/b\u003e/c"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today in History March 3",
+   "htmlTitle": "Today in History March \u003cb\u003e3\u003c/b\u003e",
+   "link": "http://timelines.ws/days/03_03.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1707 Mar 3, Aurangzeb (88), Emperor of India (1658-1707), died. ..... 1959 Mar 3,   A SF Bay Area earthquake measured 5.5 on the Richter scale in Berkeley. ....   1981 Mar 3, In Los Angeles, Ca., Stanley \"Tookie\" Williams (1953-2005) was ...",
+   "htmlSnippet": "1707 \u003cb\u003eMar 3\u003c/b\u003e, Aurangzeb (88), Emperor of \u003cb\u003eIndia\u003c/b\u003e (1658-1707), died. \u003cb\u003e.....\u003c/b\u003e 1959 \u003cb\u003eMar 3\u003c/b\u003e, \u003cbr\u003e  A SF Bay Area \u003cb\u003eearthquake\u003c/b\u003e measured 5.5 on the Richter scale in Berkeley. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1981 Mar 3\u003c/b\u003e, In Los Angeles, Ca., Stanley &quot;Tookie&quot; Williams (1953-2005) was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "U_yITyD4YzEJ",
+   "formattedUrl": "timelines.ws/days/03_03.HTML",
+   "htmlFormattedUrl": "timelines.ws/days/03_03.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algis Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Prof John McCloskey - Environmental Sciences Research Institute",
+   "htmlTitle": "Prof John McCloskey - Environmental Sciences Research Institute",
+   "link": "http://www.science.ulster.ac.uk/esri/John-McCloskey.html",
+   "displayLink": "www.science.ulster.ac.uk",
+   "snippet": "His research interests involve the study of crustal systems and earthquake ...   University of Ulster Mar - Nov 1993 Research Officer Environmental Science, ...",
+   "htmlSnippet": "His research interests involve the study of crustal systems and \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  University of Ulster \u003cb\u003eMar\u003c/b\u003e - Nov 1993 Research Officer Environmental Science, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ammGFSjXsEUJ",
+   "formattedUrl": "www.science.ulster.ac.uk/esri/John-McCloskey.html",
+   "htmlFormattedUrl": "www.science.ulster.ac.uk/esri/John-McCloskey.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.science.ulster.ac.uk/esri/sites/esri/local/cache-vignettes/L151xH213/johnmccloskey-faebd.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "170",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_07ZSsBxyaTY0hjSCrOa5AeOn2CJujLPNkppPqNU2LZdQw-e0xSqd2bM"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Leanne Blair",
+      "reply-to": "jf.coyle@ulster.ac.uk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Landslides, earthquakes, and erosion",
+   "htmlTitle": "Landslides, \u003cb\u003eearthquakes\u003c/b\u003e, and erosion",
+   "link": "http://www.kcl.ac.uk/sspp/departments/geography/people/academic/malamud/erosion.pdf",
+   "displayLink": "www.kcl.ac.uk",
+   "snippet": "earthquake magnitudes that will generate landslides is M=4.3F0.4. .... region of   Italy in January 1997 [8,9]; (3) 9594 landslides triggered by heavy rainfall from   Hurricane Mitch in Guatemala ..... Assam, India ... 22 Mar 1957 ..... 3 (1981) 15???  22.",
+   "htmlSnippet": "\u003cb\u003eearthquake\u003c/b\u003e magnitudes that will generate landslides is M=4.3F0.4. \u003cb\u003e....\u003c/b\u003e region of \u003cbr\u003e  Italy in January 1997 [8,9]; (\u003cb\u003e3\u003c/b\u003e) 9594 landslides triggered by heavy rainfall from \u003cbr\u003e  Hurricane Mitch in Guatemala \u003cb\u003e.....\u003c/b\u003e Assam, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 22 \u003cb\u003eMar\u003c/b\u003e 1957 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e3\u003c/b\u003e (\u003cb\u003e1981\u003c/b\u003e) 15???\u003cbr\u003e  22.",
+   "cacheId": "Bjuo-rSTgEAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.kcl.ac.uk/sspp/departments/geography/people/academic/.../erosion.pdf",
+   "htmlFormattedUrl": "www.kcl.ac.uk/sspp/departments/geography/people/academic/.../erosion.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20041222072924-08'00'",
+      "creationdate": "D:20041208025345Z",
+      "title": "doi:10.1016/j.epsl.2004.10.018",
+      "creator": "Elsevier",
+      "producer": "Acrobat Distiller 4.05 for Windows"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "34. Earthquake Prediction through Animal Behavior: A Review",
+   "htmlTitle": "34. \u003cb\u003eEarthquake\u003c/b\u003e Prediction through Animal Behavior: A Review",
+   "link": "http://www.iitr.ac.in/ISB/uploads/File/ISB/pdf/Neeti_Bhargava.pdf",
+   "displayLink": "www.iitr.ac.in",
+   "snippet": "3. Department of Earthquake Engineering, IIT Roorkee. Abstract. This paper ...   Japan and America with comments on its feasibility in Indian context. 2. ...   According to (Buskirk et al., 1981 and Ikea et al., 1997) aquatic animals ..... 11,   Mar 2006.",
+   "htmlSnippet": "\u003cb\u003e3\u003c/b\u003e. Department of \u003cb\u003eEarthquake\u003c/b\u003e Engineering, IIT Roorkee. Abstract. This paper \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Japan and America with comments on its feasibility in \u003cb\u003eIndian\u003c/b\u003e context. 2. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  According to (Buskirk et al., \u003cb\u003e1981\u003c/b\u003e and Ikea et al., 1997) aquatic animals \u003cb\u003e.....\u003c/b\u003e 11, \u003cbr\u003e  \u003cb\u003eMar\u003c/b\u003e 2006.",
+   "cacheId": "NMt7ZOOiXs4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitr.ac.in/ISB/uploads/File/ISB/pdf/Neeti_Bhargava.pdf",
+   "htmlFormattedUrl": "www.iitr.ac.in/ISB/uploads/File/ISB/pdf/Neeti_Bhargava.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100104161345",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "moddate": "D:20100104161345+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Forbes India Magazine - Are You Ready For an Earthquake?",
+   "htmlTitle": "Forbes \u003cb\u003eIndia\u003c/b\u003e Magazine - Are You Ready For an \u003cb\u003eEarthquake\u003c/b\u003e?",
+   "link": "http://forbesindia.com/article/cheat-sheet/are-you-ready-for-an-earthquake/23652/1",
+   "displayLink": "forbesindia.com",
+   "snippet": "Apr 8, 2011 ... Life/Cheat Sheet | Mar 30, 2011 | 3549 views ... Training, Training, Training:   Preparing for an earthquake is a lesson that begins early in school. Children   learn ... Japan changed its building norms in 1981 and further upgraded them in   2000. ... 3. Should Pay-for-Performance Compensation be Replaced? 4 ...",
+   "htmlSnippet": "Apr 8, 2011 \u003cb\u003e...\u003c/b\u003e Life/Cheat Sheet | \u003cb\u003eMar\u003c/b\u003e 30, 2011 | 3549 views \u003cb\u003e...\u003c/b\u003e Training, Training, Training: \u003cbr\u003e  Preparing for an \u003cb\u003eearthquake\u003c/b\u003e is a lesson that begins early in school. Children \u003cbr\u003e  learn \u003cb\u003e...\u003c/b\u003e Japan changed its building norms in \u003cb\u003e1981\u003c/b\u003e and further upgraded them in \u003cbr\u003e  2000. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e3\u003c/b\u003e. Should Pay-for-Performance Compensation be Replaced? 4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gZRgC_1--NoJ",
+   "formattedUrl": "forbesindia.com/article/cheat-sheet/are-you-ready...earthquake/.../1",
+   "htmlFormattedUrl": "forbes\u003cb\u003eindia\u003c/b\u003e.com/article/cheat-sheet/are-you-ready...\u003cb\u003eearthquake\u003c/b\u003e/.../1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://forbesindia.com/media/images/2011/Mar/topimg_12282_disater_management_600x400.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjM5k5iGTkeqS2Fs4hfMcGSVwHi39APLXEZ4Hnm-X2onsbVhdNpFx67EE5"
+     }
+    ]
+   }
+  }
+ ]
+}

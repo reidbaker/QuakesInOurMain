@@ -1,0 +1,305 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 2 2001 Australia Earthquake",
+    "totalResults": "774000",
+    "searchTerms": "Nov 2 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 2 2001 Australia Earthquake",
+    "totalResults": "774000",
+    "searchTerms": "Nov 2 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.225519,
+  "formattedSearchTime": "0.23",
+  "totalResults": "774000",
+  "formattedTotalResults": "774,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Tohoku earthquake and tsunami : CATDAT 41 report ...",
+   "htmlTitle": "Japan Tohoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami : CATDAT 41 report \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/02/japan-tohoku-earthquake-and-tsunami-catdat-41-report-october-2-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 5, 2011 ... CATDAT #41 October 2, 2011 report is one of the most complete ... Around 35%   of buildings in the area were built pre-1980, around 55% from 1981-2000 and 10  % post 2001. ... For further information, come to the Australian Earthquake   Engineering conference in the Barossa Valley in November 2011.",
+   "htmlSnippet": "Oct 5, 2011 \u003cb\u003e...\u003c/b\u003e CATDAT #41 October \u003cb\u003e2\u003c/b\u003e, 2011 report is one of the most complete \u003cb\u003e...\u003c/b\u003e Around 35% \u003cbr\u003e  of buildings in the area were built pre-1980, around 55% from 1981-2000 and 10\u003cbr\u003e  % post \u003cb\u003e2001\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e For further information, come to the \u003cb\u003eAustralian Earthquake\u003c/b\u003e \u003cbr\u003e  Engineering conference in the Barossa Valley in \u003cb\u003eNovember\u003c/b\u003e 2011.",
+   "cacheId": "35ovD4FI7OwJ",
+   "formattedUrl": "earthquake-report.com/.../japan-tohoku-earthquake-and-tsunami-catdat-41- report-october-2-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../japan-tohoku-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami-catdat-41- report-october-\u003cb\u003e2\u003c/b\u003e-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/JMA-Intensity.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "270",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpowXEZ0UgNHafUonfrPTdaftD1Q_A5_YcnKK4LO_B08MpxlkwlmmdRHrQ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "anon",
+      "nickname": "anon"
+     },
+     {
+      "fn": "Ana Paula Silva Correia and Jos?? Rodrigues Ribeiro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 1, 2001, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5, Mw (HRV)  . January 9 ... see 2001 Geiyo earthquake, 34.083, 132.526, 2, 6.7, Mw (USGS) ...   November 14, 2001, 09:26, Qinghai, China ... December 12, 2001, 14:02, South   of Australia, ???42.813, 124.688, 0, 7.1, Mw (HRV, USGS) ...",
+   "htmlSnippet": "January 1, \u003cb\u003e2001\u003c/b\u003e, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5, Mw (HRV)\u003cbr\u003e  . January 9 \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e2001\u003c/b\u003e Geiyo \u003cb\u003eearthquake\u003c/b\u003e, 34.083, 132.526, \u003cb\u003e2\u003c/b\u003e, 6.7, Mw (USGS) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember\u003c/b\u003e 14, \u003cb\u003e2001\u003c/b\u003e, 09:26, Qinghai, China \u003cb\u003e...\u003c/b\u003e December 12, \u003cb\u003e2001\u003c/b\u003e, 14:02, South \u003cbr\u003e  of \u003cb\u003eAustralia\u003c/b\u003e, ???42.813, 124.688, 0, 7.1, Mw (HRV, USGS) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... Table 2 ??? List of homeless-bearing earthquakes in 2011 ... This database has   been presented at the Australian Earthquake .... The Van earthquakes in Turkey   in October and November caused 604 deaths and 40 deaths respectively. .....   BTE [2001] ???Economic Costs of Natural Disasters in Australia???, Bureau ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e Table \u003cb\u003e2\u003c/b\u003e ??? List of homeless-bearing \u003cb\u003eearthquakes\u003c/b\u003e in 2011 \u003cb\u003e...\u003c/b\u003e This database has \u003cbr\u003e  been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e The Van \u003cb\u003eearthquakes\u003c/b\u003e in Turkey \u003cbr\u003e  in October and \u003cb\u003eNovember\u003c/b\u003e caused 604 deaths and 40 deaths respectively. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  BTE [\u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in \u003cb\u003eAustralia\u003c/b\u003e???, Bureau \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Historical earthquakes - Tasmania#2",
+   "htmlTitle": "2012 Historical \u003cb\u003eearthquakes\u003c/b\u003e - Tasmania#\u003cb\u003e2\u003c/b\u003e",
+   "link": "http://www.aees.org.au/Articles/McCue_TAS_EQs.pdf",
+   "displayLink": "www.aees.org.au",
+   "snippet": "Abstract Several hundred earthquakes felt in Australia have been ... should have   been felt throughout Tasmania and in Victoria so McCue (2001), using data ...",
+   "htmlSnippet": "Abstract Several hundred \u003cb\u003eearthquakes\u003c/b\u003e felt in \u003cb\u003eAustralia\u003c/b\u003e have been \u003cb\u003e...\u003c/b\u003e should have \u003cbr\u003e  been felt throughout Tasmania and in Victoria so McCue (\u003cb\u003e2001\u003c/b\u003e), using data \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hkfgnIjMf-AJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.aees.org.au/Articles/McCue_TAS_EQs.pdf",
+   "htmlFormattedUrl": "www.aees.org.au/Articles/McCue_TAS_EQs.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "K F McCue",
+      "creationdate": "D:20120615082914Z",
+      "creator": "Microsoft Word",
+      "moddate": "D:20120619153227+10'00'",
+      "producer": "Mac OS X 10.6.8 Quartz PDFContext",
+      "title": "2012 Historical earthquakes - Tasmania#2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comparing the current impact of the ???Van??? Earthquake to past ...",
+   "htmlTitle": "Comparing the current impact of the ???Van??? \u003cb\u003eEarthquake\u003c/b\u003e to past \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/11/03/comparing-the-current-impact-of-the-van-earthquake-to-past-earthquakes-in-eastern-turkey/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 3, 2011 ... (Status: Wednesday November 2, 2011 @ 18:00 CET) ... We also thank the   General Sir John Monash Foundation, Australia. ..... The number of sold policies   was at 2.43 million in 2001 (19% of the insurable buildings), fell after ...",
+   "htmlSnippet": "Nov 3, 2011 \u003cb\u003e...\u003c/b\u003e (Status: Wednesday \u003cb\u003eNovember 2\u003c/b\u003e, 2011 @ 18:00 CET) \u003cb\u003e...\u003c/b\u003e We also thank the \u003cbr\u003e  General Sir John Monash Foundation, \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e The number of sold policies \u003cbr\u003e  was at 2.43 million in \u003cb\u003e2001\u003c/b\u003e (19% of the insurable buildings), fell after \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0rEQokH4BMUJ",
+   "formattedUrl": "earthquake-report.com/.../comparing-the-current-impact-of-the-van- earthquake-to-past-earthquakes-in-eastern-turkey/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../comparing-the-current-impact-of-the-van- \u003cb\u003eearthquake\u003c/b\u003e-to-past-\u003cb\u003eearthquakes\u003c/b\u003e-in-eastern-turkey/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/11/1b.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "249",
+      "height": "202",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScMd0yudLtcsUEHE7rZLKKte2CkHjAYBtKRdbD4nsSqAKOo-xRsNVT9arM"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "pejman",
+      "nickname": "pejman"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   Unless otherwise stated ... Contents. 1 List of earthquakes; 2 Other significant   earthquakes; 3 See also; 4 References; 5 External links ..... 1 November 1842.   http://trove.nla.gov.au/ndp/del/article/25639669? .... a b Past Earthquake News:   2001.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  Unless otherwise stated \u003cb\u003e...\u003c/b\u003e Contents. 1 List of \u003cb\u003eearthquakes\u003c/b\u003e; \u003cb\u003e2\u003c/b\u003e Other significant \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e; 3 See also; 4 References; 5 External links \u003cb\u003e.....\u003c/b\u003e 1 \u003cb\u003eNovember\u003c/b\u003e 1842. \u003cbr\u003e  http://trove.nla.gov.au/ndp/del/article/25639669? \u003cb\u003e....\u003c/b\u003e a b Past \u003cb\u003eEarthquake\u003c/b\u003e News: \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Scientists study Tsunami deposits in Sendai, Japan to improve ...",
+   "htmlTitle": "Scientists study Tsunami deposits in Sendai, Japan to improve \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/01/scientists-study-tsunami-deposits-in-sendai-japan-to-improve-understanding-tsunami-hazards/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 1, 2011 ... The earthquake was one of the five most powerful earthquakes recorded in ... that   an area of almost 500 km2 (200 mi2) was inundated by the tsunami. ... The 11   members of the team came from Japan, the United States, Australia, ... published   a paper in 2001 describing J??gan tsunami sand deposits and ...",
+   "htmlSnippet": "Jul 1, 2011 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was one of the five most powerful \u003cb\u003eearthquakes\u003c/b\u003e recorded in \u003cb\u003e...\u003c/b\u003e that \u003cbr\u003e  an area of almost 500 km\u003cb\u003e2\u003c/b\u003e (200 mi\u003cb\u003e2\u003c/b\u003e) was inundated by the tsunami. \u003cb\u003e...\u003c/b\u003e The 11 \u003cbr\u003e  members of the team came from Japan, the United States, \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e published \u003cbr\u003e  a paper in \u003cb\u003e2001\u003c/b\u003e describing J??gan tsunami sand deposits and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_xVc-sWvISoJ",
+   "formattedUrl": "earthquake-report.com/.../scientists-study-tsunami-deposits-in-sendai-japan-to -improve-understanding-tsunami-hazards/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../scientists-study-tsunami-deposits-in-sendai-japan-to -improve-understanding-tsunami-hazards/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://soundwaves.usgs.gov/2011/06/TsuGroupWordCVdes.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "286",
+      "height": "176",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUR--wJezXcJ54jd-bKfNZ7pEJdLsAYVGAWXFMiqFjHF_5u1BB7KfUS5Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Western Australia has had a regular history of earthquakes throughout its   geological history. ... Burakin Swarm 2000-2001; 2.14 South of Albany 2001; 2.15   Kalgoorlie 2010 ... near Yericoin, which started with a magnitude 5.1 earthquake   on 2 May 1949. .... of an earthquake he experienced in the Ashburton district, 19   Nov.",
+   "htmlSnippet": "Western \u003cb\u003eAustralia\u003c/b\u003e has had a regular history of \u003cb\u003eearthquakes\u003c/b\u003e throughout its \u003cbr\u003e  geological history. \u003cb\u003e...\u003c/b\u003e Burakin Swarm 2000-\u003cb\u003e2001\u003c/b\u003e; 2.14 South of Albany \u003cb\u003e2001\u003c/b\u003e; 2.15 \u003cbr\u003e  Kalgoorlie 2010 \u003cb\u003e...\u003c/b\u003e near Yericoin, which started with a magnitude 5.1 \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  on \u003cb\u003e2\u003c/b\u003e May 1949. \u003cb\u003e....\u003c/b\u003e of an \u003cb\u003eearthquake\u003c/b\u003e he experienced in the Ashburton district, 19 \u003cbr\u003e  \u003cb\u003eNov\u003c/b\u003e.",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Friday, 2 November 2012 (Earthquakes ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Friday, \u003cb\u003e2 November\u003c/b\u003e 2012 (\u003cb\u003eEarthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-nov-2.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Nov 2, 2012 ... Fri, 2 Nov (196 earthquakes). Fri, 2 Nov 23:49 UTC, M 3.0 / 48 km - [info], 68km N   of San Juan, Puerto Rico I FELT IT, [Map], USGS. Fri, 2 Nov ...",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e Fri, \u003cb\u003e2 Nov\u003c/b\u003e (196 \u003cb\u003eearthquakes\u003c/b\u003e). Fri, \u003cb\u003e2 Nov\u003c/b\u003e 23:49 UTC, M 3.0 / 48 km - [info], 68km N \u003cbr\u003e  of San Juan, Puerto Rico I FELT IT, [Map], USGS. Fri, \u003cb\u003e2 Nov\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "82qqmdqs9VMJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-nov-2.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003enov\u003c/b\u003e-\u003cb\u003e2\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minerals | Recent earthquakes in SA",
+   "htmlTitle": "Minerals | Recent \u003cb\u003eearthquakes\u003c/b\u003e in SA",
+   "link": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "displayLink": "www.pir.sa.gov.au",
+   "snippet": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals   division. ... 13 November 2012, 09:09, -33.180??, 138.314??, 2 km NE of Laura, 1.7 ...",
+   "htmlSnippet": "Most recent \u003cb\u003eearthquakes\u003c/b\u003e recorded in South \u003cb\u003eAustralia\u003c/b\u003e by PIRSA&#39;s Minerals \u003cbr\u003e  division. \u003cb\u003e...\u003c/b\u003e 13 \u003cb\u003eNovember\u003c/b\u003e 2012, 09:09, -33.180??, 138.314??, \u003cb\u003e2\u003c/b\u003e km NE of Laura, 1.7 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SS6ROhNnXxwJ",
+   "formattedUrl": "www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "htmlFormattedUrl": "www.pir.sa.gov.au/minerals/\u003cb\u003eearthquakes\u003c/b\u003e/recent_\u003cb\u003eearthquakes\u003c/b\u003e_in_sa",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en",
+      "dc.creator.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.publisher.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.title": "Recent earthquakes in SA",
+      "dc.date.created": "2008-05-20CST10:03:29",
+      "dc.date.modified": "2012-12-10CST16:13:05",
+      "dc.rights": "Copyright (c) Department of Primary Industries and Regions, South Australia",
+      "dc.identifier": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+      "dc.subject": "earthquake, latest, South Australia, recent",
+      "dc.description": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals division",
+      "subject": "earthquake, latest, South Australia, recent"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 22 2001 Australia Earthquake",
+    "totalResults": "764000",
+    "searchTerms": "Sep 22 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 22 2001 Australia Earthquake",
+    "totalResults": "764000",
+    "searchTerms": "Sep 22 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.239758,
+  "formattedSearchTime": "0.24",
+  "totalResults": "764000",
+  "formattedTotalResults": "764,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 22 2001 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 22 2001 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... This database has been presented at the Australian Earthquake .... Mamasani, IR  , 05.01.2011, 0, (0-0), 22, 15 .... The Sikkim earthquake on the 18th September   2011 was deemed to ..... BTE [2001] ???Economic Costs of Natural Disasters in   Australia???, Bureau of Transport Economics Report 103, Canberra.",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Mamasani, IR\u003cbr\u003e  , 05.01.2011, 0, (0-0), \u003cb\u003e22\u003c/b\u003e, 15 \u003cb\u003e....\u003c/b\u003e The Sikkim \u003cb\u003eearthquake\u003c/b\u003e on the 18th \u003cb\u003eSeptember\u003c/b\u003e \u003cbr\u003e  2011 was deemed to \u003cb\u003e.....\u003c/b\u003e BTE [\u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in \u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e???, Bureau of Transport Economics Report 103, Canberra.",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "Issue date: Sep 13, 2011. Application number: 12/130,922 ...",
+   "htmlSnippet": "Issue date: \u003cb\u003eSep\u003c/b\u003e 13, 2011. Application number: 12/130,922 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   .... 5.8, Felt in Perth, Epicentre near Gabalong, about 30 km east of Moora and   200 km NNE of Perth .... Bass Strait, 17 September 1855, magnitude 5.5, just   about felt by and awoken everyone in Melbourne, .... a b Past Earthquake News:   2001.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 5.8, Felt in Perth, Epicentre near Gabalong, about 30 km east of Moora and \u003cbr\u003e  200 km NNE of Perth \u003cb\u003e....\u003c/b\u003e Bass Strait, 17 \u003cb\u003eSeptember\u003c/b\u003e 1855, magnitude 5.5, just \u003cbr\u003e  about felt by and awoken everyone in Melbourne, \u003cb\u003e....\u003c/b\u003e a b Past \u003cb\u003eEarthquake\u003c/b\u003e News: \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Recent West Australian earthquakes",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Recent West \u003cb\u003eAustralian earthquakes\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_of_western_australia/last_years_eqs",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Mar 11, 2011 ... WEST AUSTRALIAN EARTHQUAKES 2005, Jan01 - Sep 22 .... swarm at Burakin  , approximately 200 km NE of Perth, in 2001 and 2002.",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e WEST \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e 2005, Jan01 - \u003cb\u003eSep 22\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e swarm at Burakin\u003cbr\u003e  , approximately 200 km NE of Perth, in \u003cb\u003e2001\u003c/b\u003e and 2002.",
+   "cacheId": "t94WKFk9LscJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity...australia/last_years_eqs",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity...\u003cb\u003eaustralia\u003c/b\u003e/last_years_eqs",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=118789"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsyYfY0AXMqG09ahqBDxaOKIiym2-1pD96hRdMAz-2HVjzQpbGacoBKDM"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Recent West Australian earthquakes",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/37822",
+      "dc.date.modified": "2011-03-11",
+      "dc.date.created": "2003-12-16",
+      "dc.date.valid": "2012-03-11",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/37822",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Western Australia has had a regular history of earthquakes throughout its   geological history. ... Burakin Swarm 2000-2001; 2.14 South of Albany 2001; 2.15   Kalgoorlie 2010 .... 1849, p.3a - see also Report of an earthquake at Cossack on   Sept.",
+   "htmlSnippet": "Western \u003cb\u003eAustralia\u003c/b\u003e has had a regular history of \u003cb\u003eearthquakes\u003c/b\u003e throughout its \u003cbr\u003e  geological history. \u003cb\u003e...\u003c/b\u003e Burakin Swarm 2000-\u003cb\u003e2001\u003c/b\u003e; 2.14 South of Albany \u003cb\u003e2001\u003c/b\u003e; 2.15 \u003cbr\u003e  Kalgoorlie 2010 \u003cb\u003e....\u003c/b\u003e 1849, p.3a - see also Report of an \u003cb\u003eearthquake\u003c/b\u003e at Cossack on \u003cbr\u003e  \u003cb\u003eSept\u003c/b\u003e.",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dr Michael Griffith | The University of Adelaide Staff Directory",
+   "htmlTitle": "Dr Michael Griffith | The University of Adelaide Staff Directory",
+   "link": "http://www.adelaide.edu.au/directory/michael.griffith",
+   "displayLink": "www.adelaide.edu.au",
+   "snippet": "2010 Awarded Honorary Life Membership to Australian Earthquake Engineering   Society .... $12,000. ARC IREX Scheme (2001-02), 1st CI with Monti & Oehlers ...",
+   "htmlSnippet": "2010 Awarded Honorary Life Membership to \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering \u003cbr\u003e  Society \u003cb\u003e....\u003c/b\u003e $12,000. ARC IREX Scheme (\u003cb\u003e2001\u003c/b\u003e-02), 1st CI with Monti &amp; Oehlers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkmfXOVrDJwJ",
+   "formattedUrl": "www.adelaide.edu.au/directory/michael.griffith",
+   "htmlFormattedUrl": "www.adelaide.edu.au/directory/michael.griffith",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.publisher": "The University of Adelaide",
+      "dc.rights": "Copyright ?? 2009 The University of Adelaide",
+      "dc.language": "en",
+      "dc.date.modified": "2009-07-21",
+      "dc.format": "text/html",
+      "rating": "General",
+      "classification": "Education"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NRC: Earthquake shook nuclear plant past design limits - Los ...",
+   "htmlTitle": "NRC: \u003cb\u003eEarthquake\u003c/b\u003e shook nuclear plant past design limits - Los \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://articles.latimes.com/2011/sep/08/news/la-pn-earthquake-nuclear-20110908",
+   "displayLink": "articles.latimes.com",
+   "snippet": "September 08, 2011|By Melanie Mason ... who has pressed the NRC for stricter   seismic standards, called the data ???another strong ... September 22, 2001 ...",
+   "htmlSnippet": "September 08, 2011|By Melanie Mason \u003cb\u003e...\u003c/b\u003e who has pressed the NRC for stricter \u003cbr\u003e  \u003cb\u003eseismic\u003c/b\u003e standards, called the data ???another strong \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember 22, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vTYOJwgSRJgJ",
+   "formattedUrl": "articles.latimes.com/2011/sep/.../la-pn-earthquake-nuclear-20110908",
+   "htmlFormattedUrl": "articles.latimes.com/2011/\u003cb\u003esep\u003c/b\u003e/.../la-pn-\u003cb\u003eearthquake\u003c/b\u003e-nuclear-20110908",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.latimes.com/media/photo/2011-09/64589160-08161603.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "100001837105818",
+      "fb:app_id": "186620898040944",
+      "og:title": "NRC: Earthquake shook nuclear plant past design limits",
+      "og:type": "article",
+      "og:url": "http://articles.latimes.com/2011/sep/08/news/la-pn-earthquake-nuclear-20110908",
+      "og:image": "http://www.latimes.com/media/photo/2011-09/64589160-08161603.jpg",
+      "og:description": "A nuclear power plant in central Virginia may have experienced twice as much shaking as it was designed to withstand during last month???s rare East Coast earthquake, according to federal...",
+      "og:site_name": "Los Angeles Times Articles"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hip hooray | Travel | The Guardian",
+   "htmlTitle": "Hip hooray | Travel | The Guardian",
+   "link": "http://www.guardian.co.uk/travel/2001/sep/22/hotels.teacherstimeoff.guardiansaturdaytravelsection",
+   "displayLink": "www.guardian.co.uk",
+   "snippet": "The Guardian, Saturday 22 September 2001. Gastwerk Hotel. H??tel Le Corbusier  , Marseilles. Marseilles used to be the place to avoid on a trip to the south of ...",
+   "htmlSnippet": "The Guardian, \u003cb\u003eSaturday 22 September 2001\u003c/b\u003e. Gastwerk Hotel. H??tel Le Corbusier\u003cbr\u003e  , Marseilles. Marseilles used to be the place to avoid on a trip to the south of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J9gd65Z3goAJ",
+   "formattedUrl": "www.guardian.co.uk/.../2001/sep/22/hotels.teacherstimeoff. guardiansaturdaytravelsection",
+   "htmlFormattedUrl": "www.guardian.co.uk/.../\u003cb\u003e2001\u003c/b\u003e/\u003cb\u003esep\u003c/b\u003e/\u003cb\u003e22\u003c/b\u003e/hotels.teacherstimeoff. guardiansaturdaytravelsection",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.guim.co.uk/sys-images/Travel/Pix/pictures/2001/06/04/gast.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "102",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhBMc3c0nJ8WPeleU6rhywFQk08bAhu5t3GFsCQQ423LcvAgSltYtb"
+     }
+    ],
+    "newsarticle": [
+     {
+      "name": "Hip hooray",
+      "headline": "Hip hooray",
+      "description": "Designer hotels do not have to cost the earth. Herbert Ypma has scoured the world to find some affordable style classics for his latest book, Hip Hotels: Budget Buy it at BOL",
+      "publisher": "The Guardian",
+      "datepublished": "2001-09-22"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Travel",
+      "url": "Travel"
+     },
+     {
+      "title": "Hotels",
+      "url": "Hotels"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.date.issued": "2006-11-22",
+      "og:title": "Hip hooray",
+      "og:type": "article",
+      "article:published_time": "2006-11-22T00:00:00Z",
+      "article:modified_time": "2002-01-24T18:02:43Z",
+      "article:tag": "Hotels",
+      "article:section": "Travel",
+      "og:url": "http://www.guardian.co.uk/travel/2001/sep/22/hotels.teacherstimeoff.guardiansaturdaytravelsection",
+      "og:image": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/8/1312810126887/gu_192x115.jpg",
+      "og:site_name": "the Guardian",
+      "og:description": "Designer hotels do not have to cost the earth. Herbert Ypma has scoured the world to find some affordable style classics for his latest book, Hip Hotels: Budget.",
+      "fb:app_id": "180444840287",
+      "content-id": "/travel/2001/sep/22/hotels.teacherstimeoff.guardiansaturdaytravelsection"
+     }
+    ],
+    "imageobject": [
+     {
+      "contenturl": "http://static.guim.co.uk/sys-images/Travel/Pix/pictures/2001/06/04/gast.gif",
+      "representativeofpage": "http://static.guim.co.uk/sys-images/Travel/Pix/pictures/2001/06/04/gast.gif",
+      "caption": "Gastwerk Hotel"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Largest and Deadliest Earthquakes by Year",
+   "htmlTitle": "Largest and Deadliest \u003cb\u003eEarthquakes\u003c/b\u003e by Year",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 30, 2012 ... 2001, 06/23, 8.4, 138, Near Coast of Peru, 2001, 01/26, 7.7, 20023 ... 1991, 04/22  , 7.6, 75, Costa Rica, 1991, 10/19, 6.8, 2000, Northern India ...",
+   "htmlSnippet": "Oct 30, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e, 06/23, 8.4, 138, Near Coast of Peru, \u003cb\u003e2001\u003c/b\u003e, 01/26, 7.7, 20023 \u003cb\u003e...\u003c/b\u003e 1991, 04/\u003cb\u003e22\u003c/b\u003e\u003cbr\u003e  , 7.6, 75, Costa Rica, 1991, 10/19, 6.8, 2000, Northern India \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mhiAOqI2nBAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/year/byyear.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today in History September 22",
+   "htmlTitle": "Today in History \u003cb\u003eSeptember 22\u003c/b\u003e",
+   "link": "http://timelines.ws/days/09_22.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1850 Sep 22, An earthquake in Sichuan, China, killed some 300,000 people. ...   B7)(MC, 9/22/01)(SSFC, 10/5/03, p.C3) ..... 1996 Sep 22, In Australia Bob Dent   became the first person to kill himself legally under the world's only voluntary ...",
+   "htmlSnippet": "1850 Sep 22, An \u003cb\u003eearthquake\u003c/b\u003e in Sichuan, China, killed some 300,000 people. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  B7)(MC, \u003cb\u003e9/22/01\u003c/b\u003e)(SSFC, 10/5/03, p.C3) \u003cb\u003e.....\u003c/b\u003e 1996 Sep 22, In \u003cb\u003eAustralia\u003c/b\u003e Bob Dent \u003cbr\u003e  became the first person to kill himself legally under the world&#39;s only voluntary \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gj9dRGKPaT8J",
+   "formattedUrl": "timelines.ws/days/09_22.HTML",
+   "htmlFormattedUrl": "timelines.ws/days/09_\u003cb\u003e22\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algis Ratnikas"
+     }
+    ]
+   }
+  }
+ ]
+}

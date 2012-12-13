@@ -1,0 +1,329 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 17 1974 Africa Earthquake",
+    "totalResults": "81700",
+    "searchTerms": "Mar 17 1974 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 17 1974 Africa Earthquake",
+    "totalResults": "81700",
+    "searchTerms": "Mar 17 1974 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.223146,
+  "formattedSearchTime": "0.22",
+  "totalResults": "81700",
+  "formattedTotalResults": "81,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Worldwide earthquakes M 4.4 or higher. Earthquakes of M 2.5 or more, click here  .Keep this page open (in a browser tab) ??? NEW POSTINGS WILL APPEAR ...",
+   "htmlSnippet": "Worldwide \u003cb\u003eearthquakes\u003c/b\u003e M 4.4 or higher. \u003cb\u003eEarthquakes\u003c/b\u003e of M 2.5 or more, click here\u003cbr\u003e  .Keep this page open (in a browser tab) ??? NEW POSTINGS WILL APPEAR \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Earthquakes",
+   "htmlTitle": "Historical \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/index.php?option=com_content&view=article&id=1612:historical-earthquakes&catid=138:seismology-unit-activities&Itemid=615",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "The knowledge of early earthquakes in South Africa, as in other parts of the .... In   Tulbagh/Ceres area 10 tremors were felt on 4 Mar 1970; at Ceres at 01:00 a ... 17  :03, Southwestern Cape Province, IV-V, 4,8, Station PRE of the WWSSN ...   Theron, J.H., 1974, The earthquake of 29 September 1969 in the southwestern   Cape ...",
+   "htmlSnippet": "The knowledge of early \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAfrica\u003c/b\u003e, as in other parts of the \u003cb\u003e....\u003c/b\u003e In \u003cbr\u003e  Tulbagh/Ceres area 10 tremors were felt on 4 \u003cb\u003eMar\u003c/b\u003e 1970; at Ceres at 01:00 a \u003cb\u003e...\u003c/b\u003e \u003cb\u003e17\u003c/b\u003e\u003cbr\u003e  :03, Southwestern Cape Province, IV-V, 4,8, Station PRE of the WWSSN \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Theron, J.H., \u003cb\u003e1974\u003c/b\u003e, The \u003cb\u003eearthquake\u003c/b\u003e of 29 September 1969 in the southwestern \u003cbr\u003e  Cape \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HzRAmQ_5o1MJ",
+   "formattedUrl": "www.geoscience.org.za/index.php?...earthquakes...",
+   "htmlFormattedUrl": "www.geoscience.org.za/index.php?...\u003cb\u003eearthquakes\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Historical Earthquakes",
+      "author": "Malcolm Simpson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900. Sorted by ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900. Sorted by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Wp53QF265fgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths_sort.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "One Year Anniversary: Magnitude 5.8 Virginia Earthquake | Science ...",
+   "htmlTitle": "One Year Anniversary: Magnitude 5.8 Virginia \u003cb\u003eEarthquake\u003c/b\u003e | Science \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.usgs.gov/blogs/features/usgs_top_story/one-year-anniversary-magnitude-5-8-virginia-earthquake/",
+   "displayLink": "www.usgs.gov",
+   "snippet": "Aug 22, 2012 ... Several small earthquakes occur every month in the eastern U.S., but this   earthquake was among the largest to occur in this region in the last ...",
+   "htmlSnippet": "Aug 22, 2012 \u003cb\u003e...\u003c/b\u003e Several small \u003cb\u003eearthquakes\u003c/b\u003e occur every month in the eastern U.S., but this \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e was among the largest to occur in this region in the last \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Z08ub4dG6mAJ",
+   "formattedUrl": "www.usgs.gov/.../one-year-anniversary-magnitude-5-8-virginia-earthquake/",
+   "htmlFormattedUrl": "www.usgs.gov/.../one-year-anniversary-magnitude-5-8-virginia-\u003cb\u003eearthquake\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.usgs.gov/blogs/features/files/2012/08/NEW-Did-You-Feel-It-268x300.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "212",
+      "height": "238",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqp9taWS1Sc3hDtTX9IBnZZ7zA_Vc3Jvb65tLDpNUlpNPQ2ctaPSSPhl79"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1974",
+   "htmlTitle": "\u003cb\u003e1974\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1974",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, ... 5.6,   CENTRAL MEDITERRANEAN SEA, Sep 04 1974, 06:29:17, 33.103 ... 5.0,   SOUTH AFRICA, Jul 23 1974, 14:09:56, -26.604, 26.996, 197407231409 ... 6.6,   SOLOMON ISLANDS, Mar 09 1974, 20:18:10, -7.416, 156.082, 197403092018 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, \u003cb\u003e...\u003c/b\u003e 5.6, \u003cbr\u003e  CENTRAL MEDITERRANEAN SEA, Sep 04 \u003cb\u003e1974\u003c/b\u003e, 06:29:\u003cb\u003e17\u003c/b\u003e, 33.103 \u003cb\u003e...\u003c/b\u003e 5.0, \u003cbr\u003e  SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Jul 23 \u003cb\u003e1974\u003c/b\u003e, 14:09:56, -26.604, 26.996, 197407231409 \u003cb\u003e...\u003c/b\u003e 6.6, \u003cbr\u003e  SOLOMON ISLANDS, \u003cb\u003eMar\u003c/b\u003e 09 \u003cb\u003e1974\u003c/b\u003e, 20:18:10, -7.416, 156.082, 197403092018 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gsd7OSokMnEJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1974",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1974\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake devastates Moroccan city ??? History.com This Day in ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e devastates Moroccan city ??? History.com This Day in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/earthquake-devastates-moroccan-city",
+   "displayLink": "www.history.com",
+   "snippet": "Northeastern Africa was not generally an area known for earthquakes, though ...   Mar 02, 1944: Train passengers suffocate; Mar 03, 1974: Faulty door dooms ...",
+   "htmlSnippet": "Northeastern \u003cb\u003eAfrica\u003c/b\u003e was not generally an area known for \u003cb\u003eearthquakes\u003c/b\u003e, though \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eMar\u003c/b\u003e 02, 1944: Train passengers suffocate; \u003cb\u003eMar\u003c/b\u003e 03, \u003cb\u003e1974\u003c/b\u003e: Faulty door dooms \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nuddOEiMV9YJ",
+   "formattedUrl": "www.history.com/this-day-in.../earthquake-devastates-moroccan-city",
+   "htmlFormattedUrl": "www.history.com/this-day-in.../\u003cb\u003eearthquake\u003c/b\u003e-devastates-moroccan-city",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "/imgs/template/tdih.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Earthquake devastates Moroccan city ??? History.com This Day in History ??? 2/29/1960",
+      "asset_type_id": "6",
+      "network": "History",
+      "display_description": "The city of Agadir in Morocco is reduced to ruins by an earthquake on this day in 1960. Northeastern Africa was not generally an area known for earthquakes, though there had been a deadly tremor in Algeria six years earlier.",
+      "asset_id": "1092856",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Earthquake devastates Moroccan city ??? History.com This Day in History ??? 2/29/1960",
+      "og:description": "The city of Agadir in Morocco is reduced to ruins by an earthquake on this day in 1960. Northeastern Africa was not generally an area known for earthquakes, though there had been a deadly tremor in Algeria six years earlier.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/earthquake-devastates-moroccan-city"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Road to Recovery",
+   "htmlTitle": "Road to Recovery",
+   "link": "http://www.kantei.go.jp/foreign/policy/documents/2012/__icsFiles/afieldfile/2012/03/07/road_to_recovery.pdf",
+   "displayLink": "www.kantei.go.jp",
+   "snippet": "Estimated Economic Damage of the Great East Japan Earthquake ?????????10 ... of ???  Roadmap towards Restoration from the Accident at Fukushima Daiichi Nuclear   Power Station, TEPCO??? (Step2 completion) ?????????17 ... Magnitude : 9.0 (Mar. .... Unit   2 784 MW, 1974- ...... South Africa (19th - 25th March) Team of 45 rescue   members ...",
+   "htmlSnippet": "Estimated Economic Damage of the Great East Japan \u003cb\u003eEarthquake\u003c/b\u003e ?????????10 \u003cb\u003e...\u003c/b\u003e of ???\u003cbr\u003e  Roadmap towards Restoration from the Accident at Fukushima Daiichi Nuclear \u003cbr\u003e  Power Station, TEPCO??? (Step2 completion) ?????????\u003cb\u003e17\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Magnitude : 9.0 (\u003cb\u003eMar\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e Unit \u003cbr\u003e  2 784 MW, \u003cb\u003e1974\u003c/b\u003e- \u003cb\u003e......\u003c/b\u003e South \u003cb\u003eAfrica\u003c/b\u003e (19th - 25th March) Team of 45 rescue \u003cbr\u003e  members \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iUJfiX2hY0YJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.kantei.go.jp/foreign/policy/documents/.../road_to_recovery.pdf",
+   "htmlFormattedUrl": "www.kantei.go.jp/foreign/policy/documents/.../road_to_recovery.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "CS863417",
+      "creationdate": "D:20120307094156+09'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20120307094156+09'00'",
+      "producer": "Acrobat Distiller 9.5.0 (Windows)",
+      "title": "Microsoft PowerPoint - 120301???set???RoadtoRecovery.pptx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Special Report: Mistakes, misfortune, meltdown: Japan's quake ...",
+   "htmlTitle": "Special Report: Mistakes, misfortune, meltdown: Japan&#39;s \u003cb\u003equake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.reuters.com/article/2011/03/17/us-japan-quake-meltdown-specialreport-idUSTRE72G65Z20110317",
+   "displayLink": "www.reuters.com",
+   "snippet": "TOKYO | Thu Mar 17, 2011 5:33pm EDT. TOKYO (Reuters) - By Thursday   morning the last line of defense came down to this: a police water cannon, a   helicopter ...",
+   "htmlSnippet": "TOKYO | Thu \u003cb\u003eMar 17\u003c/b\u003e, 2011 5:33pm EDT. TOKYO (Reuters) - By Thursday \u003cbr\u003e  morning the last line of defense came down to this: a police water cannon, a \u003cbr\u003e  helicopter \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_Y3K8Ycwre8J",
+   "formattedUrl": "www.reuters.com/.../17/us-japan-quake-meltdown-specialreport- idUSTRE72G65Z20110317",
+   "htmlFormattedUrl": "www.reuters.com/.../\u003cb\u003e17\u003c/b\u003e/us-japan-\u003cb\u003equake\u003c/b\u003e-meltdown-specialreport- idUSTRE72G65Z20110317",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s2.reutersmedia.net/resources/r/?m=02&d=20110317&t=2&i=365178914&w=130&fh=&fw=&ll=&pl=&r=2011-03-17T211142Z_01_BTRE72G1DN300_RTROPTP_0_JAPAN-QUAKE"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "104",
+      "height": "71",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVQkKX11BsRyAOJRqb6NIkXsa7v2aDcndzjISRXbHanB4TUBdDGi_8"
+     }
+    ],
+    "metatags": [
+     {
+      "dcsext.channellist": "newsOne;worldNews;newsMaps;FixedIncome;MichiganEconDvpmt;corporateResponsibility;Renault;Nissan;Infrastructure;Piracy;japan;creditMarkets;everything;treasuryMarkets;Schwab;Deals;forexNewsCopy;Cargill;Amtrak;tsunami;yahoo3;echoActivityStream;HSBC_US;FedExSMB;Hyundai;everythingButHugin;OutloudFeed;nuclear-power;Small Business(THD);Latam Drug Violence(THD);United Nations(THD)",
+      "revision_date": "Thu Mar 17 21:33:35 UTC 2011",
+      "dcsext.comments": "1",
+      "og:title": "Special Report: Mistakes, misfortune, meltdown: Japan's quake",
+      "og:type": "article",
+      "og:site_name": "Reuters",
+      "og:url": "http://www.reuters.com/article/2011/03/17/us-japan-quake-meltdown-specialreport-idUSTRE72G65Z20110317",
+      "fb:app_id": "169549326390879",
+      "og:image": "http://s2.reutersmedia.net/resources/r/?m=02&d=20110317&t=2&i=365178914&w=130&fh=&fw=&ll=&pl=&r=2011-03-17T211142Z_01_BTRE72G1DN300_RTROPTP_0_JAPAN-QUAKE",
+      "dcsext.vbc": "libertymutual",
+      "dcsext.artcms": "1",
+      "dcsext.contenttype": "Text",
+      "dcsext.contentid": "USTRE72G65Z20110317",
+      "dcsext.contentchannel": "worldNews",
+      "dcsext.contentid_worldnews": "USTRE72G65Z20110317",
+      "dcsext.contentheadline": "Special+Report%3A+Mistakes%2C+misfortune%2C+meltdown%3A+Japan%27s+quake",
+      "dcsext.pagenumber": "1",
+      "dcsext.pagetotal": "5",
+      "dcsext.rchannel": "News",
+      "dcsext.rcountry": "BETAUS",
+      "wt.cg_n": "News - World",
+      "wt.cg_s": "worldNews",
+      "dcsext.dartzone": "us.reuters/news/world/article"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Asian???African Conference - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Asian???\u003cb\u003eAfrican\u003c/b\u003e Conference - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Asian%E2%80%93African_Conference",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The first large-scale Asian???African or Afro???Asian Conference???also known as the   .... and the Joint Asian African Leaders' Statement on Tsunami, Earthquake and   other ... 2, No. 1.(Mar., 1969), pp. 1-17. ^ Cowie, H.R. (1993). Australia and Asia.   ... Syrian coup d'??tat ?? Argentine Revolution ?? Greek military junta of 1967???1974 ...",
+   "htmlSnippet": "The first large-scale Asian???\u003cb\u003eAfrican\u003c/b\u003e or Afro???Asian Conference???also known as the \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e and the Joint Asian \u003cb\u003eAfrican\u003c/b\u003e Leaders&#39; Statement on Tsunami, \u003cb\u003eEarthquake\u003c/b\u003e and \u003cbr\u003e  other \u003cb\u003e...\u003c/b\u003e 2, No. 1.(\u003cb\u003eMar\u003c/b\u003e., 1969), pp. 1-\u003cb\u003e17\u003c/b\u003e. ^ Cowie, H.R. (1993). Australia and Asia. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Syrian coup d&#39;??tat &middot; Argentine Revolution &middot; Greek military junta of 1967???\u003cb\u003e1974\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WBvmWqOcyT0J",
+   "formattedUrl": "en.wikipedia.org/wiki/Asian???African_Conference",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Asian???\u003cb\u003eAfrican\u003c/b\u003e_Conference",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Musium_KAA.jpg/220px-Musium_KAA.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjF_KPXZ8Byd-EA6-uKryd7-HAgqQHt1p-bLtkMbzdEYt3l8HtFNWu47vR"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake swarms of Mt Cameroon, West Africa",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e swarms of Mt Cameroon, West \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://www.sciencedirect.com/science/article/pii/S0899536297000729",
+   "displayLink": "www.sciencedirect.com",
+   "snippet": "Journal of African Earth Sciences ... Analyses of more than 3000 micro-  earthquakes recorded between 1985 and 1992 show a well-defined seismic   pattern ...",
+   "htmlSnippet": "Journal of \u003cb\u003eAfrican\u003c/b\u003e Earth Sciences \u003cb\u003e...\u003c/b\u003e Analyses of more than 3000 micro-\u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e recorded between 1985 and 1992 show a well-defined \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  pattern \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.sciencedirect.com/science/article/pii/S0899536297000729",
+   "htmlFormattedUrl": "www.sciencedirect.com/science/article/pii/S0899536297000729",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_publisher": "Pergamon",
+      "citation_journal_title": "Journal of African Earth Sciences",
+      "citation_issn": "1464-343X",
+      "citation_volume": "24",
+      "citation_issue": "4",
+      "citation_date": "1997/05/31",
+      "citation_title": "Earthquake swarms of Mt Cameroon, West Africa",
+      "citation_firstpage": "413",
+      "citation_lastpage": "424",
+      "citation_type": "JOUR",
+      "citation_pii": "S0899536297000729",
+      "citation_doi": "10.1016/S0899-5362(97)00072-9",
+      "citation_authors": "Ubangoh, Richard U.;Ateba, Bekoa;Ayonghe, Samuel N.;Ekodeck, G.E."
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 16 2001 Africa Earthquake",
+    "totalResults": "775000",
+    "searchTerms": "Oct 16 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 16 2001 Africa Earthquake",
+    "totalResults": "775000",
+    "searchTerms": "Oct 16 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.22195,
+  "formattedSearchTime": "0.22",
+  "totalResults": "775000",
+  "formattedTotalResults": "775,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "October 16 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eOctober 16\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/October_16",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "October 16 is the 289th day of the year (290th in leap years) in the Gregorian   calendar. .... 2006 ??? Hawaii Earthquake: A magnitude 6.7 earthquake rocks   Hawaii, causing property damage, ... 1942); 1876 ??? Jimmy Sinclair, South African   cricketer and rugby player (d. 1913) ... 2001); 1923 ??? Linda Darnell, American   actress (d.",
+   "htmlSnippet": "\u003cb\u003eOctober 16\u003c/b\u003e is the 289th day of the year (290th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e....\u003c/b\u003e 2006 ??? Hawaii \u003cb\u003eEarthquake\u003c/b\u003e: A magnitude 6.7 \u003cb\u003eearthquake\u003c/b\u003e rocks \u003cbr\u003e  Hawaii, causing property damage, \u003cb\u003e...\u003c/b\u003e 1942); 1876 ??? Jimmy Sinclair, South \u003cb\u003eAfrican\u003c/b\u003e \u003cbr\u003e  cricketer and rugby player (d. 1913) \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e); 1923 ??? Linda Darnell, American \u003cbr\u003e  actress (d.",
+   "cacheId": "QIRM2RhS5OoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/October_16",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eOctober\u003c/b\u003e_\u003cb\u003e16\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Popular Articles & Stories for October 16, 2001 - Los Angeles Times",
+   "htmlTitle": "Popular Articles &amp; Stories for \u003cb\u003eOctober 16, 2001\u003c/b\u003e - Los Angeles Times",
+   "link": "http://articles.latimes.com/2001/oct/16",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Oct 16, 2001 ... Popular articles, stories & photos for October 16, 2001 in the Los ... Last Two   Months for Northridge Quake Claims DAVID PIERSON, TIMES ... Laborers in   South Africa Get Reprieve ANN M. SIMMONS, TIMES STAFF WRITER ...",
+   "htmlSnippet": "Oct 16, 2001 \u003cb\u003e...\u003c/b\u003e Popular articles, stories &amp; photos for \u003cb\u003eOctober 16\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e in the Los \u003cb\u003e...\u003c/b\u003e Last Two \u003cbr\u003e  Months for Northridge \u003cb\u003eQuake\u003c/b\u003e Claims DAVID PIERSON, TIMES \u003cb\u003e...\u003c/b\u003e Laborers in \u003cbr\u003e  South \u003cb\u003eAfrica\u003c/b\u003e Get Reprieve ANN M. SIMMONS, TIMES STAFF WRITER \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4N5u3jtryNsJ",
+   "formattedUrl": "articles.latimes.com/2001/oct/16",
+   "htmlFormattedUrl": "articles.latimes.com/\u003cb\u003e2001\u003c/b\u003e/\u003cb\u003eoct\u003c/b\u003e/\u003cb\u003e16\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chad - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Chad - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Chad",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "It is bordered by Libya to the north, Sudan to the east, the Central African .... [16]   Libya's adventure ended in disaster in 1987; the French-supported ... year,   starting in March and October, and can hold special sessions when called by the   prime minister. ... Chad has been affected by a humanitarian crisis since at least   2001.",
+   "htmlSnippet": "It is bordered by Libya to the north, Sudan to the east, the Central \u003cb\u003eAfrican\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e [\u003cb\u003e16\u003c/b\u003e] \u003cbr\u003e  Libya&#39;s adventure ended in disaster in 1987; the French-supported \u003cb\u003e...\u003c/b\u003e year, \u003cbr\u003e  starting in March and \u003cb\u003eOctober\u003c/b\u003e, and can hold special sessions when called by the \u003cbr\u003e  prime minister. \u003cb\u003e...\u003c/b\u003e Chad has been affected by a humanitarian crisis since at least \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "TR-_-4A6KfkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Chad",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Chad",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Chad)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ???????????? ??? ?????? ????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Chad",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/b55046705ef484c3.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900. Sorted by ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900. Sorted by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Wp53QF265fgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths_sort.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1868 Arica earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1868 Arica \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1868_Arica_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Sketches of Arica after the earthquake and tsunami from the Illustrated London   News ... The first wave arrived at Arica 52 minutes after the earthquake, with a 12   m height, followed by the largest 16 m wave 73 minutes later. ... a b c d e USGS (  26 October 2009). ... a b c Rabinovich, A.B.; Kulikov E.A. & Thomson R.E. (2001).",
+   "htmlSnippet": "Sketches of \u003cb\u003eArica\u003c/b\u003e after the \u003cb\u003eearthquake\u003c/b\u003e and tsunami from the Illustrated London \u003cbr\u003e  News \u003cb\u003e...\u003c/b\u003e The first wave arrived at \u003cb\u003eArica\u003c/b\u003e 52 minutes after the \u003cb\u003eearthquake\u003c/b\u003e, with a 12 \u003cbr\u003e  m height, followed by the largest \u003cb\u003e16\u003c/b\u003e m wave 73 minutes later. \u003cb\u003e...\u003c/b\u003e a b c d e USGS (\u003cbr\u003e  26 \u003cb\u003eOctober\u003c/b\u003e 2009). \u003cb\u003e...\u003c/b\u003e a b c Rabinovich, A.B.; Kulikov E.A. &amp; Thomson R.E. (\u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "t0Tt-czFX0gJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1868_Arica_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1868_Arica_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arica_after_the_earthquake_(1868).JPG/220px-Arica_after_the_earthquake_(1868).JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "137",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUKfDQAfjUe9aoouEGDURrNud0ypTVWYcuPC6Z-W17n8TyhK6p2_AS22WE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "1947 Oct 16 02:09:52.5, 64.28N, 148.23W, 7.2, Wood River. 1948 May 14 ...   2001 Jan 10 16:02:44.2, 57.07N, 153.21W, 7.0, Kodiak Island Region. 2002 Nov   03 ...",
+   "htmlSnippet": "1947 \u003cb\u003eOct 16\u003c/b\u003e 02:09:52.5, 64.28N, 148.23W, 7.2, Wood River. 1948 May 14 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e Jan 10 \u003cb\u003e16\u003c/b\u003e:02:44.2, 57.07N, 153.21W, 7.0, Kodiak Island Region. 2002 Nov \u003cbr\u003e  03 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Listed below are all known earthquakes measured or estimated to have a ...   01615-09-16September 16, 1615, Arica, Chile (then part of the Spanish Empire),   1615 Arica earthquake, 8.8 (est.) ... 01575-12-16December 16, 1575, Valdivia,   Chile (then part of the Spanish Empire) .... Archived from the original on October   9, 2006.",
+   "htmlSnippet": "Listed below are all known \u003cb\u003eearthquakes\u003c/b\u003e measured or estimated to have a \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  01615-09-\u003cb\u003e16\u003c/b\u003eSeptember \u003cb\u003e16\u003c/b\u003e, 1615, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of the Spanish Empire), \u003cbr\u003e  1615 Arica \u003cb\u003eearthquake\u003c/b\u003e, 8.8 (est.) \u003cb\u003e...\u003c/b\u003e 01575-12-\u003cb\u003e16\u003c/b\u003eDecember \u003cb\u003e16\u003c/b\u003e, 1575, Valdivia, \u003cbr\u003e  Chile (then part of the Spanish Empire) \u003cb\u003e....\u003c/b\u003e Archived from the original on \u003cb\u003eOctober\u003c/b\u003e \u003cbr\u003e  9, 2006.",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Graph_of_largest_earthquakes_1906-2005.png/400px-Graph_of_largest_earthquakes_1906-2005.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "258",
+      "height": "195",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_63_NLO-ldQ1_H4rXy_--LyHu28R1kMs-QGz6KXe7gWgM1lmjJ0adExi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of Africa Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eAfrica\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/Africa_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. ... located by the USGS and contributing networks for the Map of Africa   Region. ... 16:52:24, -56.087, -27.400, 103.6, SOUTH SANDWICH ISLANDS   REGION ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e located by the USGS and contributing networks for the Map of \u003cb\u003eAfrica\u003c/b\u003e \u003cbr\u003e  Region. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e16\u003c/b\u003e:52:24, -56.087, -27.400, 103.6, SOUTH SANDWICH ISLANDS \u003cbr\u003e  REGION \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B_1KVeotS4sJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/Maps/.../Africa_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/Maps/.../\u003cb\u003eAfrica\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current earthquakes world-wide, Thursday, 13 December 2012 ...",
+   "htmlTitle": "Current \u003cb\u003eearthquakes\u003c/b\u003e world-wide, Thursday, 13 December 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/today.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Interactive Map of Active Volcanoes and recent Earthquakes world-wide - click to   show/ ... Wed, 12 Dec 23:16 UTC, M 2.5 / 6 km - [info], CENTRAL ITALY, [Map],   EMSC ..... Africa. Nyiragongo lava lake & mountain gorillas. Desert, Salt &   Volcanoes (Danakil, .... M6.4 on 9 Oct 2012 - Balleny Islands region ... Eruption   2001 ...",
+   "htmlSnippet": "Interactive Map of Active Volcanoes and recent \u003cb\u003eEarthquakes\u003c/b\u003e world-wide - click to \u003cbr\u003e  show/ \u003cb\u003e...\u003c/b\u003e Wed, 12 Dec 23:\u003cb\u003e16\u003c/b\u003e UTC, M 2.5 / 6 km - [info], CENTRAL ITALY, [Map], \u003cbr\u003e  EMSC \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eAfrica\u003c/b\u003e. Nyiragongo lava lake &amp; mountain gorillas. Desert, Salt &amp; \u003cbr\u003e  Volcanoes (Danakil, \u003cb\u003e....\u003c/b\u003e M6.4 on 9 \u003cb\u003eOct\u003c/b\u003e 2012 - Balleny Islands region \u003cb\u003e...\u003c/b\u003e Eruption \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uSi_y8RoXw0J",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/today.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/today.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Marine seismic survey area: Off Middle- / South America - Reflection ...",
+   "htmlTitle": "Marine \u003cb\u003eseismic\u003c/b\u003e survey area: Off Middle- / South America - Reflection \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.bgr.bund.de/EN/Themen/GG_Geophysik/Marine_Geophysik/Seismik/Messgebiete/southamerica.html",
+   "displayLink": "www.bgr.bund.de",
+   "snippet": "The high lateral variability let BGR to complement the 2-D seismic coverage at   this .... and 3 have been conducted between october 16th and november 29th,   2001, off central .... boundary structures previously recognized by us off South   Africa.",
+   "htmlSnippet": "The high lateral variability let BGR to complement the 2-D \u003cb\u003eseismic\u003c/b\u003e coverage at \u003cbr\u003e  this \u003cb\u003e....\u003c/b\u003e and 3 have been conducted between \u003cb\u003eoctober 16th\u003c/b\u003e and november 29th, \u003cbr\u003e  2001, off central \u003cb\u003e....\u003c/b\u003e boundary structures previously recognized by us off South \u003cbr\u003e  \u003cb\u003eAfrica\u003c/b\u003e.",
+   "cacheId": "zM4y_RlTlakJ",
+   "formattedUrl": "www.bgr.bund.de/EN/Themen/GG.../Marine.../southamerica.html",
+   "htmlFormattedUrl": "www.bgr.bund.de/EN/Themen/GG.../Marine.../southamerica.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bgr.bund.de/EN/Themen/GG_Geophysik/Marine_Geophysik/Seismik/Bilder/messgebiete_samerica_g_en.jpg?__blob=normal&v=2"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "193",
+      "height": "261",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMh4bDYAk1GWV4tSzMACLmJg4s9HvRIRSp79v114vDPriFGTcolhJuKnU"
+     }
+    ],
+    "metatags": [
+     {
+      "gentime": "Sat Dec 08 06:38:17 CET 2012",
+      "publisher": "BGR"
+     }
+    ]
+   }
+  }
+ ]
+}

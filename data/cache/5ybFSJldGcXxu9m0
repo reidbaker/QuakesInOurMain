@@ -1,0 +1,262 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 15 1999 Australia Earthquake",
+    "totalResults": "531000",
+    "searchTerms": "Apr 15 1999 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 15 1999 Australia Earthquake",
+    "totalResults": "531000",
+    "searchTerms": "Apr 15 1999 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.252528,
+  "formattedSearchTime": "0.25",
+  "totalResults": "531000",
+  "formattedTotalResults": "531,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Australia earthquake list",
+   "htmlTitle": "\u003cb\u003eAustralia earthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/04/28/australia-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 20, 2012 ... The list below shows the last earthquakes in Australia ... Moderate shallow   earthquake and aftershocks near Townsville, Queensland, Australia ??? April 16,   2011 .... Melbourne, Australia - 10 to 15 seconds feeling the house moving ...... off   the coast of Croatia in 1999 after Turkeys devastating earthquake but ...",
+   "htmlSnippet": "Jun 20, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Moderate shallow \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e and aftershocks near Townsville, Queensland, \u003cb\u003eAustralia\u003c/b\u003e ??? \u003cb\u003eApril\u003c/b\u003e 16, \u003cbr\u003e  2011 \u003cb\u003e....\u003c/b\u003e Melbourne, \u003cb\u003eAustralia\u003c/b\u003e - 10 to \u003cb\u003e15\u003c/b\u003e seconds feeling the house moving \u003cb\u003e......\u003c/b\u003e off \u003cbr\u003e  the coast of Croatia in \u003cb\u003e1999\u003c/b\u003e after Turkeys devastating \u003cb\u003eearthquake\u003c/b\u003e but \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "L4ABAq2S-lwJ",
+   "formattedUrl": "earthquake-report.com/2012/04/28/australia-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/04/28/\u003cb\u003eaustralia\u003c/b\u003e-\u003cb\u003eearthquake\u003c/b\u003e-list/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Darryl",
+      "nickname": "Darryl"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Southwest Of New Caledonia",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Southwest Of New Caledonia",
+   "link": "http://earthquaketrack.com/r/southwest-of-new-caledonia",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Recent Earthquake Near Southwest Of New Caledonia. Recent Quakes ... 0   earthquakes today; 1 earthquake in the past year ... Near East Coast Of Australia ...",
+   "htmlSnippet": "Recent \u003cb\u003eEarthquake\u003c/b\u003e Near Southwest Of New Caledonia. Recent Quakes \u003cb\u003e...\u003c/b\u003e 0 \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e today; 1 \u003cb\u003eearthquake\u003c/b\u003e in the past year \u003cb\u003e...\u003c/b\u003e Near East Coast Of \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Kyt_v1ACR4IJ",
+   "formattedUrl": "earthquaketrack.com/r/southwest-of-new-caledonia",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/r/southwest-of-new-caledonia",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "Sg5pZL0Xs6nh66oX+R6/o/9NQakvqiS1w0kSwSsPzYM="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... This database has been presented at the Australian Earthquake ..... of 15th   March and the Tohoku aftershock on the 7th April also caused significant losses.   .... =8, Izmit, Turkey, 17.08.1999, $3.38bn-$7.89bn, RMS (1999) ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e of \u003cb\u003e15\u003c/b\u003eth \u003cbr\u003e  March and the Tohoku aftershock on the 7th \u003cb\u003eApril\u003c/b\u003e also caused significant losses. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e =8, Izmit, Turkey, 17.08.\u003cb\u003e1999\u003c/b\u003e, $3.38bn-$7.89bn, RMS (\u003cb\u003e1999\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ZetaTalk Newsletter",
+   "htmlTitle": "ZetaTalk Newsletter",
+   "link": "http://www.zetatalk.com/newsletr/issue254.htm",
+   "displayLink": "www.zetatalk.com",
+   "snippet": "Aug 14, 2011 ... This was addressed in Issue 198 of this newsletter on August 15, ... ZetaTalk   Prediction 4/15/1999: You're going to have increasing earthquake tremblers. ...   end of the Indo-Australian Plate lifts, the Sunda Plate slides down, ...",
+   "htmlSnippet": "Aug 14, 2011 \u003cb\u003e...\u003c/b\u003e This was addressed in Issue 198 of this newsletter on August 15, \u003cb\u003e...\u003c/b\u003e ZetaTalk \u003cbr\u003e  Prediction \u003cb\u003e4/15/1999\u003c/b\u003e: You&#39;re going to have increasing \u003cb\u003eearthquake\u003c/b\u003e tremblers. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  end of the Indo-\u003cb\u003eAustralian\u003c/b\u003e Plate lifts, the Sunda Plate slides down, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UWNO9QfcT4gJ",
+   "formattedUrl": "www.zetatalk.com/newsletr/issue254.htm",
+   "htmlFormattedUrl": "www.zetatalk.com/newsletr/issue254.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.zetatalk.com/newsletr/image141.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "177",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE_s5Uji5qcOQ4PocqWqrmxzwEBlkcPnE6KPnGrklnRbp3xTL_KicjgVGI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "4 days ago ... Complex event, with major subevent occurring about 15 seconds after onset of   ..... The epicenter of the November 12, 1999 earthquake was at 40.8 N , 31.6 E ...   But Finance Minister Bill English said in April the Government's ..... Hawaii; 37 cm   at Pago Pago, American Samoa; 4 cm at Southport, Australia.",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e Complex event, with major subevent occurring about \u003cb\u003e15\u003c/b\u003e seconds after onset of \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e The epicenter of the November 12, \u003cb\u003e1999 earthquake\u003c/b\u003e was at 40.8 N , 31.6 E \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  But Finance Minister Bill English said in \u003cb\u003eApril\u003c/b\u003e the Government&#39;s \u003cb\u003e.....\u003c/b\u003e Hawaii; 37 cm \u003cbr\u003e  at Pago Pago, American Samoa; 4 cm at Southport, \u003cb\u003eAustralia\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   ... Strongest earthquake recorded in an Australian territory. ... Gunning, New   South Wales, 01934-11-1515 November 1934, 5.6, Damaged a majority of the   buildings in Gunning. ..... Retrieved 5 April 2009. .... Past Earthquake News: 1999  .",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Strongest \u003cb\u003eearthquake\u003c/b\u003e recorded in an \u003cb\u003eAustralian\u003c/b\u003e territory. \u003cb\u003e...\u003c/b\u003e Gunning, New \u003cbr\u003e  South Wales, 01934-11-\u003cb\u003e1515\u003c/b\u003e November 1934, 5.6, Damaged a majority of the \u003cbr\u003e  buildings in Gunning. \u003cb\u003e.....\u003c/b\u003e Retrieved 5 \u003cb\u003eApril\u003c/b\u003e 2009. \u003cb\u003e....\u003c/b\u003e Past \u003cb\u003eEarthquake\u003c/b\u003e News: \u003cb\u003e1999\u003c/b\u003e\u003cbr\u003e  .",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Largest and Deadliest Earthquakes by Year",
+   "htmlTitle": "Largest and Deadliest \u003cb\u003eEarthquakes\u003c/b\u003e by Year",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 30, 2012 ... 2007, 09/12, 8.5, 25, Southern Sumatera, Indonesia, 2007, 08/15, 8.0, 514 ...   1999, 09/20, 7.7, 2297, Taiwan, 1999, 08/17, 7.6, 17118, Turkey ...",
+   "htmlSnippet": "Oct 30, 2012 \u003cb\u003e...\u003c/b\u003e 2007, 09/12, 8.5, 25, Southern Sumatera, Indonesia, 2007, 08/\u003cb\u003e15\u003c/b\u003e, 8.0, 514 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1999\u003c/b\u003e, 09/20, 7.7, 2297, Taiwan, \u003cb\u003e1999\u003c/b\u003e, 08/17, 7.6, 17118, Turkey \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mhiAOqI2nBAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/year/byyear.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... see San   Francisco earthquake of 1906, 37.75, ???122.55, 3,000, 7.8, Mw (Bakun, 1999),   USGS ... 01906-11-19November 19, 1906, Off the coast of Western Australia,   Australia, 7.6, Mw ..... 01941-04-15April 15, 1941, 19:09 UTC, Michoac??n, Mexico ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e see San \u003cbr\u003e  Francisco \u003cb\u003eearthquake\u003c/b\u003e of 1906, 37.75, ???122.55, 3,000, 7.8, Mw (Bakun, \u003cb\u003e1999\u003c/b\u003e), \u003cbr\u003e  USGS \u003cb\u003e...\u003c/b\u003e 01906-11-19November 19, 1906, Off the coast of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e.....\u003c/b\u003e 01941-04-\u003cb\u003e15April 15\u003c/b\u003e, 1941, 19:09 UTC, Michoac??n, Mexico \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... California - M 6.9 ?? 2009 07   15 - Off West Coast of the South Island, New Zealand - M 7.8 ..... 1999 06 15 -   Central Mexico - M 7.0 ?? 1999 05 16 - New Britain region, Papua ... 1988 03 06 -   Gulf of Alaska - M 7.7; 1988 01 22 - Tennant Creek, Australia - M 6.6 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e California - M 6.9 &middot; 2009 07 \u003cbr\u003e  \u003cb\u003e15\u003c/b\u003e - Off West Coast of the South Island, New Zealand - M 7.8 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1999\u003c/b\u003e 06 \u003cb\u003e15\u003c/b\u003e - \u003cbr\u003e  Central Mexico - M 7.0 &middot; \u003cb\u003e1999\u003c/b\u003e 05 16 - New Britain region, Papua \u003cb\u003e...\u003c/b\u003e 1988 03 06 - \u003cbr\u003e  Gulf of Alaska - M 7.7; 1988 01 22 - Tennant Creek, \u003cb\u003eAustralia\u003c/b\u003e - M 6.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Video questions",
+   "htmlTitle": "Video questions",
+   "link": "http://www.preventionweb.net/files/3975_HazardsLessonplansAU.pdf",
+   "displayLink": "www.preventionweb.net",
+   "snippet": "Earthquakes and landslides. 33. Heatwaves ... INTRODUCTION. Many   geological or meteorological hazards affect Australia and have the potential to   seriously .... 15 1999, page 5. Source: The Sydney Morning Herald, 15 April 1999  , page 5.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e and landslides. 33. Heatwaves \u003cb\u003e...\u003c/b\u003e INTRODUCTION. Many \u003cbr\u003e  geological or meteorological hazards affect \u003cb\u003eAustralia\u003c/b\u003e and have the potential to \u003cbr\u003e  seriously \u003cb\u003e....\u003c/b\u003e 15 1999, page 5. Source: The Sydney Morning Herald, \u003cb\u003e15 April 1999\u003c/b\u003e\u003cbr\u003e  , page 5.",
+   "cacheId": "f4sAT5loR5EJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.preventionweb.net/files/3975_HazardsLessonplansAU.pdf",
+   "htmlFormattedUrl": "www.preventionweb.net/files/3975_HazardsLessonplansAU.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20000804110901",
+      "producer": "Acrobat Distiller 3.01 for Power Macintosh",
+      "subject": "N/Disaster f/a",
+      "creator": "Adobe PageMaker 6.52",
+      "title": "N/Disaster f/a",
+      "author": "Infographics",
+      "moddate": "D:20000814143421+10'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

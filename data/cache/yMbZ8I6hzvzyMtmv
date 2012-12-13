@@ -1,0 +1,279 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 5 2001 Australia Earthquake",
+    "totalResults": "771000",
+    "searchTerms": "Aug 5 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 5 2001 Australia Earthquake",
+    "totalResults": "771000",
+    "searchTerms": "Aug 5 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.24857,
+  "formattedSearchTime": "0.25",
+  "totalResults": "771000",
+  "formattedTotalResults": "771,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... SOS Earthquakes was founded in August 2010. ... Figure 5 ??? The fatal   earthquakes in 2011 in the CATDAT Damaging Earthquakes Database. ... This   database has been presented at the Australian Earthquake Engineering ...... BTE   [2001] ???Economic Costs of Natural Disasters in Australia???, Bureau of ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e SOS \u003cb\u003eEarthquakes\u003c/b\u003e was founded in \u003cb\u003eAugust\u003c/b\u003e 2010. \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e5\u003c/b\u003e ??? The fatal \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in 2011 in the CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database. \u003cb\u003e...\u003c/b\u003e This \u003cbr\u003e  database has been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering \u003cb\u003e......\u003c/b\u003e BTE \u003cbr\u003e  [\u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in \u003cb\u003eAustralia\u003c/b\u003e???, Bureau of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "Issue date: Sep 13, 2011. Application number: 12/130,922 ...",
+   "htmlSnippet": "Issue date: \u003cb\u003eSep\u003c/b\u003e 13, 2011. Application number: 12/130,922 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Tohoku earthquake and tsunami : CATDAT 41 report ...",
+   "htmlTitle": "Japan Tohoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami : CATDAT 41 report \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/02/japan-tohoku-earthquake-and-tsunami-catdat-41-report-october-2-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 5, 2011 ... Around 35% of buildings in the area were built pre-1980, around 55% from 1981-  2000 and 10% post 2001. In terms of seismic code, this ...",
+   "htmlSnippet": "Oct 5, 2011 \u003cb\u003e...\u003c/b\u003e Around 35% of buildings in the area were built pre-1980, around 55% from 1981-\u003cbr\u003e  2000 and 10% post \u003cb\u003e2001\u003c/b\u003e. In terms of \u003cb\u003eseismic\u003c/b\u003e code, this \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "35ovD4FI7OwJ",
+   "formattedUrl": "earthquake-report.com/.../japan-tohoku-earthquake-and-tsunami-catdat-41- report-october-2-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../japan-tohoku-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami-catdat-41- report-\u003cb\u003eoct\u003c/b\u003eober-2-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/JMA-Intensity.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "270",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpowXEZ0UgNHafUonfrPTdaftD1Q_A5_YcnKK4LO_B08MpxlkwlmmdRHrQ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "anon",
+      "nickname": "anon"
+     },
+     {
+      "fn": "Ana Paula Silva Correia and Jos?? Rodrigues Ribeiro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "August 5 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAugust 5\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/August_5",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "August 5 is the 217th day of the year (218th in leap years) in the Gregorian   calendar. ... POWs attempt to escape outside the town of Cowra, New South   Wales, Australia. ... 1949 ??? In Ecuador, an earthquake destroys 50 towns and kills   more than 6,000. ..... 1929); 2001 ??? Christopher Skase, Australian businessman (  b. 1948) ...",
+   "htmlSnippet": "\u003cb\u003eAugust 5\u003c/b\u003e is the 217th day of the year (218th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e POWs attempt to escape outside the town of Cowra, New South \u003cbr\u003e  Wales, \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 1949 ??? In Ecuador, an \u003cb\u003eearthquake\u003c/b\u003e destroys 50 towns and kills \u003cbr\u003e  more than 6,000. \u003cb\u003e.....\u003c/b\u003e 1929); \u003cb\u003e2001\u003c/b\u003e ??? Christopher Skase, \u003cb\u003eAustralian\u003c/b\u003e businessman (\u003cbr\u003e  b. 1948) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XwfMbMUwdd4J",
+   "formattedUrl": "en.wikipedia.org/wiki/August_5",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAugust\u003c/b\u003e_\u003cb\u003e5\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Important Historical Earthquakes in Western Australia",
+   "htmlTitle": "Important Historical \u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_of_western_australia/wa_historical",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Sep 18, 2012 ... The most significant West Australian earthquake was that which ... Giles, who, on   15 Dec 1873 was in the Barrow Ranges, in far eastern WA, near the SA/NT   border. ... A severe earthquake was experienced in the Geraldton area, in the   evening of 5 January, 1885, .... South of Albany, 12 Dec 2001, Mag 7.1 ...",
+   "htmlSnippet": "Sep 18, 2012 \u003cb\u003e...\u003c/b\u003e The most significant West \u003cb\u003eAustralian earthquake\u003c/b\u003e was that which \u003cb\u003e...\u003c/b\u003e Giles, who, on \u003cbr\u003e  15 \u003cb\u003eDec\u003c/b\u003e 1873 was in the Barrow Ranges, in far eastern WA, near the SA/NT \u003cbr\u003e  border. \u003cb\u003e...\u003c/b\u003e A severe \u003cb\u003eearthquake\u003c/b\u003e was experienced in the Geraldton area, in the \u003cbr\u003e  evening of \u003cb\u003e5\u003c/b\u003e January, 1885, \u003cb\u003e....\u003c/b\u003e South of Albany, 12 \u003cb\u003eDec 2001\u003c/b\u003e, Mag 7.1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qpeWLwpcb5UJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity...australia/wa_historical",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity...\u003cb\u003eaustralia\u003c/b\u003e/wa_historical",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "Large earthquakes of Western Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/37821",
+      "dc.date.modified": "2012-09-18",
+      "dc.date.created": "2003-12-16",
+      "dc.date.valid": "2013-09-18",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/37821",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   ... 1 List of earthquakes; 2 Other significant earthquakes; 3 See also; 4   References; 5 External links ..... Broome, 16 August 1929, magnitude 6.6,   offshore earthquake to the north-west of Broome, Western .... a b Past Earthquake   News: 2001.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 1 List of \u003cb\u003eearthquakes\u003c/b\u003e; 2 Other significant \u003cb\u003eearthquakes\u003c/b\u003e; 3 See also; 4 \u003cbr\u003e  References; \u003cb\u003e5\u003c/b\u003e External links \u003cb\u003e.....\u003c/b\u003e Broome, 16 \u003cb\u003eAugust\u003c/b\u003e 1929, magnitude 6.6, \u003cbr\u003e  offshore \u003cb\u003eearthquake\u003c/b\u003e to the north-west of Broome, Western \u003cb\u003e....\u003c/b\u003e a b Past \u003cb\u003eEarthquake\u003c/b\u003e \u003cbr\u003e  News: \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Ritzwoller's publications",
+   "htmlTitle": "Mike Ritzwoller&#39;s publications",
+   "link": "http://ciei.colorado.edu/ritzwoller.html",
+   "displayLink": "ciei.colorado.edu",
+   "snippet": "M.H. Ritzwoller, and S.C. Myers, Earthquake location accuary in the ..... A   resolved mantle anomaly as the cause of the Australian-Antarctic Discordance, J.   Geophys. Res. ... Worldwide Monitoring of Nuclear Explosions, 258-269, Oct 2-5,   2001.",
+   "htmlSnippet": "M.H. Ritzwoller, and S.C. Myers, \u003cb\u003eEarthquake\u003c/b\u003e location accuary in the \u003cb\u003e.....\u003c/b\u003e A \u003cbr\u003e  resolved mantle anomaly as the cause of the \u003cb\u003eAustralian\u003c/b\u003e-Antarctic Discordance, J. \u003cbr\u003e  Geophys. Res. \u003cb\u003e...\u003c/b\u003e Worldwide Monitoring of Nuclear Explosions, 258-269, \u003cb\u003eOct\u003c/b\u003e 2-\u003cb\u003e5\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "H7XO1f79qaUJ",
+   "formattedUrl": "ciei.colorado.edu/ritzwoller.html",
+   "htmlFormattedUrl": "ciei.colorado.edu/ritzwoller.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "3 Southwest region earthquakes; 4 See also; 5 Notes .... This very large   earthquake on 12 Dec 2001, magnitude 7.1 occurred about 1000 km southeast of ...",
+   "htmlSnippet": "3 Southwest region \u003cb\u003eearthquakes\u003c/b\u003e; 4 See also; \u003cb\u003e5\u003c/b\u003e Notes \u003cb\u003e....\u003c/b\u003e This very large \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e on 12 \u003cb\u003eDec 2001\u003c/b\u003e, magnitude 7.1 occurred about 1000 km southeast of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nikolai Shapiro publications",
+   "htmlTitle": "Nikolai Shapiro publications",
+   "link": "http://www.ipgp.fr/~nshapiro/PUBLICATIONS/index.html",
+   "displayLink": "www.ipgp.fr",
+   "snippet": "5. Singh S. K., J. Pacheco, and N. M. Shapiro, the earthquake of 16 november, ....   mantle anomaly as the cause of the Australian-Antarctic Discordance, J. Geophys  . Res. ..... Worldwide Monitoring of Nuclear Explosions, 270-279, Oct 2-5, 2001.",
+   "htmlSnippet": "\u003cb\u003e5\u003c/b\u003e. Singh S. K., J. Pacheco, and N. M. Shapiro, the \u003cb\u003eearthquake\u003c/b\u003e of 16 november, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  mantle anomaly as the cause of the \u003cb\u003eAustralian\u003c/b\u003e-Antarctic Discordance, J. Geophys\u003cbr\u003e  . Res. \u003cb\u003e.....\u003c/b\u003e Worldwide Monitoring of Nuclear Explosions, 270-279, \u003cb\u003eOct\u003c/b\u003e 2-\u003cb\u003e5\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "UMwzML_mCnoJ",
+   "formattedUrl": "www.ipgp.fr/~nshapiro/PUBLICATIONS/index.html",
+   "htmlFormattedUrl": "www.ipgp.fr/~nshapiro/PUBLICATIONS/index.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in 2012 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in 2012 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_2012",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude Ranging Between, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007   .... A magnitude 6.1 earthquake struck near Isangel, Vanuatu on February 5, at a   .... Australia A magnitude 6.0 quake struck 24 km northwest of Macquarie Island   ... A magnitude 6.1 earthquake struck Central Peru on August 2, at a depth of ...",
+   "htmlSnippet": "Magnitude Ranging Between, 2000, \u003cb\u003e2001\u003c/b\u003e, 2002, 2003, 2004, 2005, 2006, 2007 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e A magnitude 6.1 \u003cb\u003eearthquake\u003c/b\u003e struck near Isangel, Vanuatu on February \u003cb\u003e5\u003c/b\u003e, at a \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e A magnitude 6.0 \u003cb\u003equake\u003c/b\u003e struck 24 km northwest of Macquarie Island \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e A magnitude 6.1 \u003cb\u003eearthquake\u003c/b\u003e struck Central Peru on \u003cb\u003eAugust\u003c/b\u003e 2, at a depth of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M-8y9TakcusJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_2012",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_2012",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Earthmap1000x500compac.jpg/300px-Earthmap1000x500compac.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFF4RtJZotJOf_s3ciCEnr4Z1FUSHv6QYVr4f_kK6G680i1DMLdpRFsw"
+     }
+    ]
+   }
+  }
+ ]
+}

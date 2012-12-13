@@ -1,0 +1,316 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 2 1993 Africa Earthquake",
+    "totalResults": "508000",
+    "searchTerms": "Jun 2 1993 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 2 1993 Africa Earthquake",
+    "totalResults": "508000",
+    "searchTerms": "Jun 2 1993 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.26459,
+  "formattedSearchTime": "0.26",
+  "totalResults": "508000",
+  "formattedTotalResults": "508,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 2 1993 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 2 1993 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Dec 1, 2012 ... Archive 2012 : Jan/Febr March April/June July/August ... Did you know this   earthquake happened on the same day in history ? ... Some damage caused to 2   ships at sea in the epicentral area; felt .... She died in 1993 at the age of 105. .....   and faulting that extends north-south in eastern Africa for more than ...",
+   "htmlSnippet": "Dec 1, 2012 \u003cb\u003e...\u003c/b\u003e Archive 2012 : Jan/Febr March April/\u003cb\u003eJune\u003c/b\u003e July/August \u003cb\u003e...\u003c/b\u003e Did you know this \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in history ? \u003cb\u003e...\u003c/b\u003e Some damage caused to \u003cb\u003e2\u003c/b\u003e \u003cbr\u003e  ships at sea in the epicentral area; felt \u003cb\u003e....\u003c/b\u003e She died in \u003cb\u003e1993\u003c/b\u003e at the age of 105. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  and faulting that extends north-south in eastern \u003cb\u003eAfrica\u003c/b\u003e for more than \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Cadoux, WA, earthquake of 2 June 1979",
+   "htmlTitle": "The Cadoux, WA, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e2 June\u003c/b\u003e 1979",
+   "link": "http://www.seismicity.see.uwa.edu.au/welcome/seismicity_of_western_australia/wa_historical/cadoux",
+   "displayLink": "www.seismicity.see.uwa.edu.au",
+   "snippet": "Mar 28, 2004 ... Seismic activity in the region in the Cadoux- Burakin region was relatively low   before the major earthquake just east of Cadoux on 2 June 1979.",
+   "htmlSnippet": "Mar 28, 2004 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeismic\u003c/b\u003e activity in the region in the Cadoux- Burakin region was relatively low \u003cbr\u003e  before the major \u003cb\u003eearthquake\u003c/b\u003e just east of Cadoux on \u003cb\u003e2 June\u003c/b\u003e 1979.",
+   "cacheId": "5IUp0vPXAxYJ",
+   "formattedUrl": "www.seismicity.see.uwa.edu.au/welcome/seismicity_of.../cadoux",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.see.uwa.edu.au/welcome/\u003cb\u003eseismic\u003c/b\u003eity_of.../cadoux",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=27328"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "266",
+      "height": "190",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOE2MS91UUzsA85XWNlR9wlHusU0zWY4LdlLPxFVXNYupK1K-Juh1kqx5V"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "The Cadoux, WA, earthquake of 2 June 1979",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/43831",
+      "dc.date.modified": "2004-03-28",
+      "dc.date.created": "2004-02-09",
+      "dc.date.valid": "2005-03-28",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/43831",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "sources 2- recurrence",
+   "htmlTitle": "sources \u003cb\u003e2\u003c/b\u003e- recurrence",
+   "link": "http://www.a-alamri.com/index/download/id/87/lang/ar",
+   "displayLink": "www.a-alamri.com",
+   "snippet": "On June 2, 1993, an earthquake of magnitude 4.7 occurred in Kuwait near the ....   The Arabian shield isolated the Arabian platform from the north African Tethys ...",
+   "htmlSnippet": "On \u003cb\u003eJune 2, 1993\u003c/b\u003e, an \u003cb\u003eearthquake\u003c/b\u003e of magnitude 4.7 occurred in Kuwait near the \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The Arabian shield isolated the Arabian platform from the north \u003cb\u003eAfrican\u003c/b\u003e Tethys \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9oijDPK-s6UJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.a-alamri.com/index/download/id/87/lang/ar",
+   "htmlFormattedUrl": "www.a-alamri.com/index/download/id/87/lang/ar",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Mastour",
+      "creator": "Microsoft?? Office Word 2007",
+      "creationdate": "D:20101009014651",
+      "moddate": "D:20101009014651",
+      "producer": "Microsoft?? Office Word 2007"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquake locations are taken from the Centennial Catalog and the updated   Engdahl, van der Hilst and Buland earthquake catalog, which is complete to ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e locations are taken from the Centennial Catalog and the updated \u003cbr\u003e  Engdahl, van der Hilst and Buland \u003cb\u003eearthquake\u003c/b\u003e catalog, which is complete to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Real-time Earthquake Map",
+   "htmlTitle": "Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map",
+   "link": "http://earthquake.usgs.gov/earthquakes/map/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 16, 2012 ... To use this earthquake mapping interface, you must enable javascript, otherwise   use our earthquake feeds instead. Old version: World US CA/ ...",
+   "htmlSnippet": "Jul 16, 2012 \u003cb\u003e...\u003c/b\u003e To use this \u003cb\u003eearthquake\u003c/b\u003e mapping interface, you must enable javascript, otherwise \u003cbr\u003e  use our \u003cb\u003eearthquake\u003c/b\u003e feeds instead. Old version: World US CA/ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J6jpr2cLg9wJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/map/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/map/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/template/images/usgs.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "142",
+      "height": "57",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeYwNuPVrwXqSyNMxiixaL7Qd7G3Pyju96YADWaB_KC5twJcsdpSfpWw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Contents. 1 Geology; 2 Notable earthquakes. 2.1 1356 Basel earthquake ... by   the continuing effects of the Alpine orogeny as the African Plate continues to ....   der Geophysik in Deutschland, 29 February 2008 (German), retrieved 3 June   2010.",
+   "htmlSnippet": "Contents. 1 Geology; \u003cb\u003e2\u003c/b\u003e Notable \u003cb\u003eearthquakes\u003c/b\u003e. 2.1 1356 Basel \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e by \u003cbr\u003e  the continuing effects of the Alpine orogeny as the \u003cb\u003eAfrican\u003c/b\u003e Plate continues to \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  der Geophysik in Deutschland, 29 February 2008 (German), retrieved 3 \u003cb\u003eJune\u003c/b\u003e \u003cbr\u003e  2010.",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Hazard and Risk Assessment for Tulbagh, South Africa: Part II",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Hazard and Risk Assessment for Tulbagh, South \u003cb\u003eAfrica\u003c/b\u003e: Part \u003cb\u003eII\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/content/tulbagh_risk.pdf",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "South Africa: Part II ??? Assessment of Seismic Risk. A. KIJKO, S. J. P. ... (Received:   12 June 2001; accepted: 4 December 2001). Abstract. This is .... Zealand (  Dowrick and Rhoades, 1990; 1993), Italy (Barmerini et al., 1995; Orsini,. 1999)   and ...",
+   "htmlSnippet": "South \u003cb\u003eAfrica\u003c/b\u003e: Part \u003cb\u003eII\u003c/b\u003e ??? Assessment of \u003cb\u003eSeismic\u003c/b\u003e Risk. A. KIJKO, S. J. P. \u003cb\u003e...\u003c/b\u003e (Received: \u003cbr\u003e  12 \u003cb\u003eJune\u003c/b\u003e 2001; accepted: 4 December 2001). Abstract. This is \u003cb\u003e....\u003c/b\u003e Zealand (\u003cbr\u003e  Dowrick and Rhoades, 1990; \u003cb\u003e1993\u003c/b\u003e), Italy (Barmerini et al., 1995; Orsini,. 1999) \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9VhU2mOs4QgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geoscience.org.za/content/tulbagh_risk.pdf",
+   "htmlFormattedUrl": "www.geoscience.org.za/content/tulbagh_risk.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030805090108+01'00'",
+      "moddate": "D:20030805090108+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "2 Lists of natural disasters by cause. 2.1 Avalanches; 2.2 Blizzards; 2.3   Communicable diseases; 2.4 Cyclones (including hurricanes); 2.5 Earthquakes ...",
+   "htmlSnippet": "\u003cb\u003e2\u003c/b\u003e Lists of natural disasters by cause. 2.1 Avalanches; 2.2 Blizzards; 2.3 \u003cbr\u003e  Communicable diseases; 2.4 Cyclones (including hurricanes); 2.5 \u003cb\u003eEarthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic activity in Ghana: past, present and future",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e activity in Ghana: past, present and future",
+   "link": "http://www.earth-prints.org/bitstream/2122/778/1/16Amponsah.pdf",
+   "displayLink": "www.earth-prints.org",
+   "snippet": "47, N. 2/3,April/June 2004 ... of the West Africa craton and is far away from ...   Though Ghana is far away from the major earthquake zones of the world, it is   prone ...",
+   "htmlSnippet": "47, N. \u003cb\u003e2\u003c/b\u003e/3,April/\u003cb\u003eJune\u003c/b\u003e 2004 \u003cb\u003e...\u003c/b\u003e of the West \u003cb\u003eAfrica\u003c/b\u003e craton and is far away from \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Though Ghana is far away from the major \u003cb\u003eearthquake\u003c/b\u003e zones of the world, it is \u003cbr\u003e  prone \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Vja7iax61hMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth-prints.org/bitstream/2122/778/1/16Amponsah.pdf",
+   "htmlFormattedUrl": "www.earth-prints.org/bitstream/2122/778/1/16Amponsah.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050322104934+01'00'",
+      "moddate": "D:20050322104934+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "Utente",
+      "creator": "QuarkXPress Passport?? 4.04: AdobePS 8.7.2 8.7.2 (104)",
+      "title": "16Amponsah.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Tsunami - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Tsunami",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "2011 T??hoku earthquake and tsunami, An aerial view of damage in the Sendai   region with ... or /tsu????n????mi/ tsoo-NAH-mee) is a series of water waves   caused by the ..... The western pulse hit coastal Africa and other western areas. ...   two to five minutes of the earthquake on July 12, 1993 created waves as much as   30 ...",
+   "htmlSnippet": "2011 T??hoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami, An aerial view of damage in the Sendai \u003cbr\u003e  region with \u003cb\u003e...\u003c/b\u003e or /tsu????n????mi/ tsoo-NAH-mee) is a series of water waves \u003cbr\u003e  caused by the \u003cb\u003e.....\u003c/b\u003e The western pulse hit coastal \u003cb\u003eAfrica\u003c/b\u003e and other western areas. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  two to five minutes of the \u003cb\u003eearthquake\u003c/b\u003e on July 12, \u003cb\u003e1993\u003c/b\u003e created waves as much as \u003cbr\u003e  30 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ExNXajALCAIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Tsunami",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Tsunami",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/300px-SH-60B_helicopter_flies_over_Sendai.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "160",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmBGyhqLzvGczeDCY4Nv6_GTEHGErrSICxREa-Yp3ogHK2n8gY2V4h2Yf2"
+     }
+    ]
+   }
+  }
+ ]
+}

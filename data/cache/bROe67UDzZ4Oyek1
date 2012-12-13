@@ -1,0 +1,288 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 22 1971 Africa Earthquake",
+    "totalResults": "114000",
+    "searchTerms": "Feb 22 1971 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 22 1971 Africa Earthquake",
+    "totalResults": "114000",
+    "searchTerms": "Feb 22 1971 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.181048,
+  "formattedSearchTime": "0.18",
+  "totalResults": "114000",
+  "formattedTotalResults": "114,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Moderate earthquake close to Nairobi, Kenya",
+   "htmlTitle": "Moderate \u003cb\u003eearthquake\u003c/b\u003e close to Nairobi, Kenya",
+   "link": "http://earthquake-report.com/2012/04/17/moderate-earthquake-close-to-nairobi-kenya/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 21, 2012 ... If the earthquake has been felt across the border with Tanzania, please let us   know too. - The East African Rift is an active continental rift zone ...",
+   "htmlSnippet": "Apr 21, 2012 \u003cb\u003e...\u003c/b\u003e If the \u003cb\u003eearthquake\u003c/b\u003e has been felt across the border with Tanzania, please let us \u003cbr\u003e  know too. - The East \u003cb\u003eAfrican\u003c/b\u003e Rift is an active continental rift zone \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GsIc0uAGmKEJ",
+   "formattedUrl": "earthquake-report.com/.../moderate-earthquake-close-to-nairobi-kenya/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../moderate-\u003cb\u003eearthquake\u003c/b\u003e-close-to-nairobi-kenya/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/kn-17042012-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "219",
+      "height": "230",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8DyGBSBpGesbVJLGkesM_gE-bf5GDGWqnF-Xc1dGH4EEe9HsNywZ4ChU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on February 22 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eFebruary 22\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/feb22.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "February 22, 1071 Battle of Cassel-Robert I the Frisian defeats Arnulf III/I;   February .... February 22, 1900 \"Battle at Wynne's Hill, South-Africa (Boers vs   British army)\" ... February 22, 1971 Lieutenant General Hafiz al-Assad becomes   President of Syria .... February 22, 2011 \"A magnitude 6.3 earthquake occurred   very close to ...",
+   "htmlSnippet": "February 22, 1071 Battle of Cassel-Robert I the Frisian defeats Arnulf III/I; \u003cbr\u003e  February \u003cb\u003e....\u003c/b\u003e February 22, 1900 &quot;Battle at Wynne&#39;s Hill, South-\u003cb\u003eAfrica\u003c/b\u003e (Boers vs \u003cbr\u003e  British army)&quot; \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFebruary 22\u003c/b\u003e, \u003cb\u003e1971\u003c/b\u003e Lieutenant General Hafiz al-Assad becomes \u003cbr\u003e  President of Syria \u003cb\u003e....\u003c/b\u003e February 22, 2011 &quot;A magnitude 6.3 \u003cb\u003eearthquake\u003c/b\u003e occurred \u003cbr\u003e  very close to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2hPp_ofcVq0J",
+   "formattedUrl": "www.datesinhistory.com/feb22.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003efeb22\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... Earthquake overview : An 8.6 magnitude earthquake occurred 500 km out of the   coast of Sumatra. A second massive earthquake (aftershock) ...",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : An 8.6 magnitude \u003cb\u003eearthquake\u003c/b\u003e occurred 500 km out of the \u003cbr\u003e  coast of Sumatra. A second massive \u003cb\u003eearthquake\u003c/b\u003e (aftershock) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "February 22 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eFebruary 22\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/February_22",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "February 22 is the 53rd day of the year in the Gregorian calendar. ... 2011 ??? An   earthquake measuring 6.3 in magnitude strikes Christchurch, New Zealand, ...",
+   "htmlSnippet": "\u003cb\u003eFebruary 22\u003c/b\u003e is the 53rd day of the year in the Gregorian calendar. \u003cb\u003e...\u003c/b\u003e 2011 ??? An \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e measuring 6.3 in magnitude strikes Christchurch, New Zealand, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hrppiAw6ut8J",
+   "formattedUrl": "en.wikipedia.org/wiki/February_22",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eFebruary\u003c/b\u003e_\u003cb\u003e22\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2011 submarine volcanic eruption in El Hierro (Canary Islands ...",
+   "htmlTitle": "The 2011 submarine volcanic eruption in El Hierro (Canary Islands \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/18/the-2011-submarine-volcanic-eruption-in-el-hierro-canary-islands-spain-eruption-overview/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 18, 2012 ... Forty years after the Tenegu??a Volcano (La Palma, 1971), a submarine eruption   took place off the town of La Restinga, south of El Hierro, the ...",
+   "htmlSnippet": "May 18, 2012 \u003cb\u003e...\u003c/b\u003e Forty years after the Tenegu??a Volcano (La Palma, \u003cb\u003e1971\u003c/b\u003e), a submarine eruption \u003cbr\u003e  took place off the town of La Restinga, south of El Hierro, the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "E5zYBMl7OdYJ",
+   "formattedUrl": "earthquake-report.com/.../the-2011-submarine-volcanic-eruption-in-el-hierro -canary-islands-spain-eruption-overview/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../the-2011-submarine-volcanic-eruption-in-el-hierro -canary-islands-spain-eruption-overview/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/eh-car-0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "181",
+      "height": "136",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSGtb5nfFswbtIZ3uCednJE153bGmsDHevBcJa4LlrlJXuxgbWh2VFYG_"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "jono b"
+     },
+     {
+      "fn": "KarenZ",
+      "nickname": "KarenZ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Earthquakes",
+   "htmlTitle": "Historical \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/index.php?option=com_content&view=article&id=1612:historical-earthquakes&catid=138:seismology-unit-activities&Itemid=615",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "The knowledge of early earthquakes in South Africa, as in other parts of the world  , is based on ... A modern national network of seismological stations has   gradually developed in South Africa since 1971 and is operated by the ... 22:08,   Three strong quakes, second most violent on 4th, loud reports, everybody ... 20   Feb 1912 ...",
+   "htmlSnippet": "The knowledge of early \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAfrica\u003c/b\u003e, as in other parts of the world\u003cbr\u003e  , is based on \u003cb\u003e...\u003c/b\u003e A modern national network of seismological stations has \u003cbr\u003e  gradually developed in South \u003cb\u003eAfrica\u003c/b\u003e since \u003cb\u003e1971\u003c/b\u003e and is operated by the \u003cb\u003e...\u003c/b\u003e \u003cb\u003e22\u003c/b\u003e:08, \u003cbr\u003e  Three strong quakes, second most violent on 4th, loud reports, everybody \u003cb\u003e...\u003c/b\u003e 20 \u003cbr\u003e  \u003cb\u003eFeb\u003c/b\u003e 1912 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HzRAmQ_5o1MJ",
+   "formattedUrl": "www.geoscience.org.za/index.php?...earthquakes...",
+   "htmlFormattedUrl": "www.geoscience.org.za/index.php?...\u003cb\u003eearthquakes\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Historical Earthquakes",
+      "author": "Malcolm Simpson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "February 22 Events in History",
+   "htmlTitle": "\u003cb\u003eFebruary 22\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/february_22.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "February 22 in history.",
+   "htmlSnippet": "\u003cb\u003eFebruary 22\u003c/b\u003e in history.",
+   "cacheId": "IfRgnIANVmgJ",
+   "formattedUrl": "www.brainyhistory.com/days/february_22.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003efebruary\u003c/b\u003e_\u003cb\u003e22\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "February 22 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/february_22.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... caused by the continuing effects of the Alpine orogeny as the African Plate   continues to push ... On 18 February 1756, at about 8 am, one of the strongest   earthquakes in Central ... with mining confirmed by a 3.1 magnitude aftershock   on 31 July 2009. ... 19 February 1971, Roermond, Netherlands, ML=4.7,   Earthquake with ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e caused by the continuing effects of the Alpine orogeny as the \u003cb\u003eAfrican\u003c/b\u003e Plate \u003cbr\u003e  continues to push \u003cb\u003e...\u003c/b\u003e On 18 \u003cb\u003eFebruary\u003c/b\u003e 1756, at about 8 am, one of the strongest \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in Central \u003cb\u003e...\u003c/b\u003e with mining confirmed by a 3.1 magnitude aftershock \u003cbr\u003e  on 31 July 2009. \u003cb\u003e...\u003c/b\u003e 19 \u003cb\u003eFebruary 1971\u003c/b\u003e, Roermond, Netherlands, ML=4.7, \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity and Seismic Hazard Assessment of the Arid Western ...",
+   "htmlTitle": "Seismicity and \u003cb\u003eSeismic\u003c/b\u003e Hazard Assessment of the Arid Western \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ctbto.org/fileadmin/user_upload/SandT_2011/presentations/T1-O13%20H_Malephane%20Seismicity%20and%20seismic%20hazaard%20assessment.pdf",
+   "displayLink": "www.ctbto.org",
+   "snippet": "seismic activity as well as conduct a seismic ... Largest earthquake - MW = 7.0 ;   February 22, 2006 in ... ???1971 - South African Seismic Network (SANSN) ...",
+   "htmlSnippet": "\u003cb\u003eseismic\u003c/b\u003e activity as well as conduct a \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Largest \u003cb\u003eearthquake\u003c/b\u003e - MW = 7.0 ; \u003cbr\u003e  \u003cb\u003eFebruary 22\u003c/b\u003e, 2006 in \u003cb\u003e...\u003c/b\u003e ???\u003cb\u003e1971\u003c/b\u003e - South \u003cb\u003eAfrican Seismic\u003c/b\u003e Network (SANSN) \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ctbto.org/.../T1-O13%20H_ Malephane%20Seismicity%20and%20seismic%20hazaard%20assessment.p...",
+   "htmlFormattedUrl": "www.ctbto.org/.../T1-O13%20H_ Malephane%20\u003cb\u003eSeismic\u003c/b\u003eity%20and%20\u003cb\u003eseismic\u003c/b\u003e%20hazaard%20assessment.p...",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110629120436+02'00'",
+      "creator": "Acrobat PDFMaker 10.0 for PowerPoint",
+      "moddate": "D:20110629120442+02'00'",
+      "producer": "Adobe PDF Library 10.0",
+      "title": "Seismicity and Seismic Hazard  Assessment of the Arid Western Regions of South Africa"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "1935 Feb 22 17:05:54, 52.25N, 175.0W, 7.1, Near Islands. 1937 Jul 22 ... 7.0, Rat   Islands. 1971 May 02 06:08:27.8, 51.23N, 177.17W, 7.1, Andreanof Islands ...",
+   "htmlSnippet": "1935 \u003cb\u003eFeb 22\u003c/b\u003e 17:05:54, 52.25N, 175.0W, 7.1, Near Islands. 1937 Jul \u003cb\u003e22\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 7.0, Rat \u003cbr\u003e  Islands. \u003cb\u003e1971\u003c/b\u003e May 02 06:08:27.8, 51.23N, 177.17W, 7.1, Andreanof Islands \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  }
+ ]
+}

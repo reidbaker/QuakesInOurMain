@@ -1,0 +1,307 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 21 1931 Asia Earthquake",
+    "totalResults": "78000",
+    "searchTerms": "Sep 21 1931 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 21 1931 Asia Earthquake",
+    "totalResults": "78000",
+    "searchTerms": "Sep 21 1931 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.211381,
+  "formattedSearchTime": "0.21",
+  "totalResults": "78000",
+  "formattedTotalResults": "78,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Damaging earthquake Myanmar ??? IRC : 26 fatalities and 231 people ...",
+   "htmlTitle": "Damaging \u003cb\u003eearthquake\u003c/b\u003e Myanmar ??? IRC : 26 fatalities and 231 people \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/11/11/extremely-dangerous-and-maybe-destructive-earthquake-in-central-myanmar/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 14, 2012... 11/06 ?? Sichuan / Yunnan, China 24/06 ?? Yunnan, China ??? Sept. ... The strong   quake damaged 21 religious buildings, 4 schools, .... caused the 1912 quake)   and the Sagaing fault (1931 and 1956 quakes). .... The river streaming nearby the   epicenter is the Irrawaddy river, one of the bigger rivers in Asia ...",
+   "htmlSnippet": "Nov 14, 2012\u003cb\u003e...\u003c/b\u003e 11/06 &middot; Sichuan / Yunnan, China 24/06 &middot; Yunnan, China ??? \u003cb\u003eSept\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The strong \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e damaged \u003cb\u003e21\u003c/b\u003e religious buildings, 4 schools, \u003cb\u003e....\u003c/b\u003e caused the 1912 \u003cb\u003equake\u003c/b\u003e) \u003cbr\u003e  and the Sagaing fault (\u003cb\u003e1931\u003c/b\u003e and 1956 quakes). \u003cb\u003e....\u003c/b\u003e The river streaming nearby the \u003cbr\u003e  epicenter is the Irrawaddy river, one of the bigger rivers in \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tWYLiTIAXTwJ",
+   "formattedUrl": "earthquake-report.com/.../extremely-dangerous-and-maybe-destructive- earthquake-in-central-myanmar/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../extremely-dangerous-and-maybe-destructive- \u003cb\u003eearthquake\u003c/b\u003e-in-central-myanmar/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/11/web1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwGlKZJCgb-YUZ79BPNNhEy2v9qAPX61K2Z8x9sDlJ8c8nLzxH1z-jLIqO"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on September 21st This Day in History",
+   "htmlTitle": "What Happened on \u003cb\u003eSeptember 21st\u003c/b\u003e This Day in History",
+   "link": "http://www.thepeoplehistory.com/september21st.html",
+   "displayLink": "www.thepeoplehistory.com",
+   "snippet": "21st Sept. 1931 : As well as being the low point in the 30's depression years also   was a .... 21st September 1999 : A 7.6-magnitude earthquake in Taiwan kills ...",
+   "htmlSnippet": "\u003cb\u003e21st Sept. 1931\u003c/b\u003e : As well as being the low point in the 30&#39;s depression years also \u003cbr\u003e  was a \u003cb\u003e....\u003c/b\u003e 21st September 1999 : A 7.6-magnitude \u003cb\u003eearthquake\u003c/b\u003e in Taiwan kills \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZnpPzqJX-ggJ",
+   "formattedUrl": "www.thepeoplehistory.com/september21st.html",
+   "htmlFormattedUrl": "www.thepeoplehistory.com/\u003cb\u003eseptember21\u003c/b\u003est.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thepeoplehistory.com/publicdomain/thehobbit.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "83",
+      "height": "122",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmWuxnufF_pkc0WjjuNGyrGtwUbnJNjJ9PoWHCuYjXXCJgVf_aodye"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "The People History -- Steve Pearson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Many fatalities, hundreds injured, devastated buildings with trapped ...",
+   "htmlTitle": "Many fatalities, hundreds injured, devastated buildings with trapped \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/02/22/many-fatalities-hundreds-injured-devastated-buildings-with-trapped-people-in-christchurch-new-zealand-part-2/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 25, 2011 ... Twitpic picture from the earthquake damage in Christchurch New ... Many   masonry buildings have collapsed (those with minor damage in the September   Earthquake). ... UPDATE 08:21 UTC : Unfortunately it is raining in Christchurch,   but on ... earthquake in history ??? after the 256 people killed in the 1931 ...",
+   "htmlSnippet": "Jul 25, 2011 \u003cb\u003e...\u003c/b\u003e Twitpic picture from the \u003cb\u003eearthquake\u003c/b\u003e damage in Christchurch New \u003cb\u003e...\u003c/b\u003e Many \u003cbr\u003e  masonry buildings have collapsed (those with minor damage in the \u003cb\u003eSeptember\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e). \u003cb\u003e...\u003c/b\u003e UPDATE 08:\u003cb\u003e21\u003c/b\u003e UTC : Unfortunately it is raining in Christchurch, \u003cbr\u003e  but on \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e in history ??? after the 256 people killed in the \u003cb\u003e1931\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XBc4kMOz3lYJ",
+   "formattedUrl": "earthquake-report.com/.../many-fatalities-hundreds-injured-devastated- buildings-with-trapped-people-in-christchurch-new-zealand-part-2/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../many-fatalities-hundreds-injured-devastated- buildings-with-trapped-people-in-christchurch-new-zealand-part-2/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/02/christchurch-3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "268",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKf1A6DVtW_4CvVBpQr5kTxXdgmE_HXbVuR_3dN6937pFMeRRTxxFWNdg"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "JOY",
+      "nickname": "JOY",
+      "url": "http://www.formspring.me/lamelamiya",
+      "url_text": "JOY"
+     },
+     {
+      "fn": "Justin Arroyo"
+     },
+     {
+      "fn": "Vi@Travel Tips",
+      "url": "http://www.shorttraveltips.com/",
+      "url_text": "Vi@Travel Tips"
+     },
+     {
+      "fn": "Marius",
+      "nickname": "Marius",
+      "url": "http://iwanttovolunteertohelpwiththerescueinchchiamcapableofunderstandingthesituationandwilldowhatittakesforhowlongevermightbetoassistinanyhelpneededinanywaypossible/",
+      "url_text": "Marius"
+     },
+     {
+      "fn": "Justin Arroyo"
+     },
+     {
+      "fn": "glenn McCarthy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IMPORTANCE or HISTORICAL SEISMOGRAMS FOR ...",
+   "htmlTitle": "IMPORTANCE or HISTORICAL SEISMOGRAMS FOR \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.gps.caltech.edu/uploads/File/People/kanamori/HKhsew88.pdf",
+   "displayLink": "www.gps.caltech.edu",
+   "snippet": "Asia, and determined the spatial and temporal deformation patterns in the area.   Stein and Okal .... earthquake of September 21, 1931, J. Geophys. Res., 79 ...",
+   "htmlSnippet": "\u003cb\u003eAsia\u003c/b\u003e, and determined the spatial and temporal deformation patterns in the area. \u003cbr\u003e  Stein and Okal \u003cb\u003e....\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eSeptember 21, 1931\u003c/b\u003e, J. Geophys. Res., 79 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZZnOGi-qsj8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.gps.caltech.edu/uploads/File/People/kanamori/HKhsew88.pdf",
+   "htmlFormattedUrl": "www.gps.caltech.edu/uploads/File/People/kanamori/HKhsew88.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "sspdflib 1.0 http://www.scansoft.com",
+      "creator": "PaperPort http://www.scansoft.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Damaging Earthquakes Database 2010 ??? The Year in Review ...",
+   "htmlTitle": "Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2010 ??? The Year in Review \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/wp-content/uploads/2011/03/CATDAT-EQ-Data-1st-Annual-Review-2010-James-Daniell-03-03-2011.pdf",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Feb 27, 2011 ... that were entered into the CATDAT Damaging Earthquake Database in .....   disaster cumulative from 1900 to 2010. Daniell et al. (2010a), Daniell (2010f)........  ............... 21 ... September, causing another high insured loss, but no structural ...   and the data was also used to form an Asia-Pacific comparison of ...",
+   "htmlSnippet": "Feb 27, 2011 \u003cb\u003e...\u003c/b\u003e that were entered into the CATDAT Damaging \u003cb\u003eEarthquake\u003c/b\u003e Database in \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  disaster cumulative from 1900 to 2010. Daniell et al. (2010a), Daniell (2010f)........\u003cbr\u003e  ............... \u003cb\u003e21\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e, causing another high insured loss, but no structural \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  and the data was also used to form an \u003cb\u003eAsia\u003c/b\u003e-Pacific comparison of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cAitKwePwBgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110303154353+01'00'",
+      "author": "admin",
+      "creator": "Acrobat PDFMaker 7.0.7 f??r Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20110303154744+01'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Full text",
+   "htmlTitle": "Full text",
+   "link": "http://www.terrapub.co.jp/journals/EPS/pdf/free/2011/63030301.pdf",
+   "displayLink": "www.terrapub.co.jp",
+   "snippet": "Mar 4, 2011 ... Function ( CFF) due to eight large historical earthquakes (since 1923, ..... Nishi-  Saitama earthquake, which occurred on September. 21, 1931 ...... Asian   Seismological Commission and Seismological Society of Japan, ...",
+   "htmlSnippet": "Mar 4, 2011 \u003cb\u003e...\u003c/b\u003e Function ( CFF) due to eight large historical \u003cb\u003eearthquakes\u003c/b\u003e (since 1923, \u003cb\u003e.....\u003c/b\u003e Nishi-\u003cbr\u003e  Saitama \u003cb\u003eearthquake\u003c/b\u003e, which occurred on \u003cb\u003eSeptember\u003c/b\u003e. \u003cb\u003e21, 1931\u003c/b\u003e \u003cb\u003e......\u003c/b\u003e \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  Seismological Commission and Seismological Society of Japan, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qMddhh_YXe0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.terrapub.co.jp/journals/EPS/pdf/free/2011/63030301.pdf",
+   "htmlFormattedUrl": "www.terrapub.co.jp/journals/EPS/pdf/free/2011/63030301.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20110304134220+09'00'",
+      "creationdate": "D:20110304134220+09'00'",
+      "title": "2953EFT",
+      "creator": "New Textures???: PSPrinter 8.3.2J",
+      "producer": "Acrobat Distiller 6.0.0 for Macintosh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Science: Forecaster Bendandi - TIME",
+   "htmlTitle": "Science: Forecaster Bendandi - TIME",
+   "link": "http://www.time.com/time/magazine/article/0,9171,742289,00.html",
+   "displayLink": "www.time.com",
+   "snippet": "Monday, Sept. 21, 1931 ... announced that the morrow would bring a violent   earthquake to the Euro-Asiatic border, that America would feel repercussions.",
+   "htmlSnippet": "\u003cb\u003eMonday, Sept. 21, 1931\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e announced that the morrow would bring a violent \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e to the Euro-\u003cb\u003eAsiatic\u003c/b\u003e border, that America would feel repercussions.",
+   "formattedUrl": "www.time.com/time/magazine/article/0,9171,742289,00.html",
+   "htmlFormattedUrl": "www.time.com/time/magazine/article/0,9171,742289,00.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "date": "Monday, Sept. 21, 1931",
+      "paid-content-url": "/time/subscriber/article/0,33009,742289,00.html",
+      "path": "/time/magazine/article/0,9171,742289,00.html",
+      "rurl": "http://www.time.com/time/magazine/article/0,9171,742289,00.html#paid-wall",
+      "turl": "http://www.time.com/time/subscriber/article/0,33009,742289,00.html",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "fb:admins": "1124331582,512158401,808970553,100000018008769",
+      "fb:app_id": "53177223193",
+      "fb:page_id": "10606591490",
+      "og:site_name": "TIME.com",
+      "og:title": "Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews - TIME.com",
+      "og:type": "website",
+      "og:url": "http://www.time.com/time/magazine/article/0,9171,742289,00.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? Asia Minor ??? Atlantic ...   1931 04 27 - Zangezur Mountains, Armenia - Azerbaijan border - M 5.7 ... 2004   11 21 - Leeward Islands - M 6.3 Fatalities 1; 2004 12 14 - Cayman ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? \u003cb\u003eAsia\u003c/b\u003e Minor ??? Atlantic \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1931\u003c/b\u003e 04 27 - Zangezur Mountains, Armenia - Azerbaijan border - M 5.7 \u003cb\u003e...\u003c/b\u003e 2004 \u003cbr\u003e  11 \u003cb\u003e21\u003c/b\u003e - Leeward Islands - M 6.3 Fatalities 1; 2004 12 14 - Cayman \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes, Floods and Landslides",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e, Floods and Landslides",
+   "link": "http://www.icsu.org/icsu-asia/publications/science-planning-reports/science-plan-on-hazards-and-disasters/Earthquake-%20Floods%20-%20Landslides.pdf",
+   "displayLink": "www.icsu.org",
+   "snippet": "The new office will promote the development of science throughout Asia and the   Pacific ... V. Role of the Private Sector and Civil Societies. 21. Capacity Building.   21 .... earthquake in Latur, western India, on 29 September 1993 claimed an   estimated .... July 1931. 3,700,000. China P Rep. July 1959. 2,000,000. China P   Rep ...",
+   "htmlSnippet": "The new office will promote the development of science throughout \u003cb\u003eAsia\u003c/b\u003e and the \u003cbr\u003e  Pacific \u003cb\u003e...\u003c/b\u003e V. Role of the Private Sector and Civil Societies. \u003cb\u003e21\u003c/b\u003e. Capacity Building. \u003cbr\u003e  \u003cb\u003e21\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e in Latur, western India, on 29 \u003cb\u003eSeptember\u003c/b\u003e 1993 claimed an \u003cbr\u003e  estimated \u003cb\u003e....\u003c/b\u003e July \u003cb\u003e1931\u003c/b\u003e. 3,700,000. China P Rep. July 1959. 2,000,000. China P \u003cbr\u003e  Rep \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gkywd6I53kEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.icsu.org/...asia/.../Earthquake-%20Floods%20-%20Landslides.pdf",
+   "htmlFormattedUrl": "www.icsu.org/...\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-%20Floods%20-%20Landslides.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081128230311-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20081129072011+08'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,286 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 8 1993 India Earthquake",
+    "totalResults": "481000",
+    "searchTerms": "Oct 8 1993 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 8 1993 India Earthquake",
+    "totalResults": "481000",
+    "searchTerms": "Oct 8 1993 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.230267,
+  "formattedSearchTime": "0.23",
+  "totalResults": "481000",
+  "formattedTotalResults": "481,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 8, 2012 at 8:10 am by By Armand Vervaeck and James   Daniell .... generated that caused damage at Karachi and damage and casualties   in the Mumbai (Bombay) area, India. .... She died in 1993 at the age of 105. ....   After the quake struck off the west coast of Haida Gwaii on Oct. 27 at 8:04 p.m. PT  , ...",
+   "htmlSnippet": "Last update: December \u003cb\u003e8\u003c/b\u003e, 2012 at \u003cb\u003e8\u003c/b\u003e:10 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e....\u003c/b\u003e generated that caused damage at Karachi and damage and casualties \u003cbr\u003e  in the Mumbai (Bombay) area, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e She died in \u003cb\u003e1993\u003c/b\u003e at the age of 105. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  After the \u003cb\u003equake\u003c/b\u003e struck off the west coast of Haida Gwaii on \u003cb\u003eOct\u003c/b\u003e. 27 at \u003cb\u003e8\u003c/b\u003e:04 p.m. PT\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in India - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Indian subcontinent has a history of devastating earthquakes. ... 02005-10-  08October 8, 2005, 03:50:38 UTC, 08:50:38 Local Time October 8, Kashmir   Himachal Pradesh ... see 1993 Latur earthquake, 18.08??N, 76.52??E, 9,748, 6.2 ...",
+   "htmlSnippet": "The \u003cb\u003eIndian\u003c/b\u003e subcontinent has a history of devastating \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 02005-10-\u003cbr\u003e  08\u003cb\u003eOctober 8\u003c/b\u003e, 2005, 03:50:38 UTC, 08:50:38 Local Time \u003cb\u003eOctober 8\u003c/b\u003e, Kashmir \u003cbr\u003e  Himachal Pradesh \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1993\u003c/b\u003e Latur \u003cb\u003eearthquake\u003c/b\u003e, 18.08??N, 76.52??E, 9,748, 6.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EBwHZvfyZioJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eIndia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "An investigation into the Latur earthquake of September 29, 1993 in ...",
+   "htmlTitle": "An investigation into the Latur \u003cb\u003eearthquake\u003c/b\u003e of September 29, \u003cb\u003e1993\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ingentaconnect.com/content/els/00401951/1998/00000287/00000001/art00231",
+   "displayLink": "www.ingentaconnect.com",
+   "snippet": "Mar 20, 1998 ... With an Imax of VIII, the earthquake was felt to an average distance of 750 km. ...   a network of up to 21 stations between October 8, 1993 and January 31, 1994. ...   The main stress regime in Peninsular India is NE compressive ...",
+   "htmlSnippet": "Mar 20, 1998 \u003cb\u003e...\u003c/b\u003e With an Imax of VIII, the \u003cb\u003eearthquake\u003c/b\u003e was felt to an average distance of 750 km. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  a network of up to 21 stations between \u003cb\u003eOctober 8, 1993\u003c/b\u003e and January 31, 1994. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The main stress regime in Peninsular \u003cb\u003eIndia\u003c/b\u003e is NE compressive \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.ingentaconnect.com/content/els/00401951/1998/.../art00231",
+   "htmlFormattedUrl": "www.ingentaconnect.com/content/els/00401951/1998/.../art00231",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "An investigation into the Latur earthquake of September 29, 1993 in southern India",
+      "dc.type": "Text",
+      "dc.creator": "Gupta H.K.",
+      "dc.publisher": "Elsevier",
+      "dc.subject": "SCR earthquake",
+      "dc.identifier": "info:doi/10.1016/S0040-1951(97)00231-X",
+      "dc.language": "en",
+      "dcterms.issued": "20 March 1998",
+      "dcterms.ispartof": "urn:ISSN:0040-1951",
+      "dcterms.bibliographiccitation": "Tectonophysics, 287, 1, 299-318(20)",
+      "ic.identifier": "els/00401951/1998/00000287/00000001/art00231",
+      "crawler.indexentrylink": "http://www.ingentaconnect.com/content/els/00401951/1998/00000287/00000001/art00231"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption,   landslide, ... September, October, 1887 .... 7002318000000000000318, 1993   North American Storm Complex ?? United States, 01993-01-011993. 6. ... [8]   Declared eradicated May 8, 1980. 2. ..... 1,500, 2003 Southern India heat wave,   India, 2003 ...",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cbr\u003e  landslide, \u003cb\u003e...\u003c/b\u003e September, \u003cb\u003eOctober\u003c/b\u003e, 1887 \u003cb\u003e....\u003c/b\u003e 7002318000000000000318, \u003cb\u003e1993\u003c/b\u003e \u003cbr\u003e  North American Storm Complex &middot; United States, 01993-01-01\u003cb\u003e1993\u003c/b\u003e. 6. \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e8\u003c/b\u003e] \u003cbr\u003e  Declared eradicated May \u003cb\u003e8\u003c/b\u003e, 1980. 2. \u003cb\u003e.....\u003c/b\u003e 1,500, 2003 Southern \u003cb\u003eIndia\u003c/b\u003e heat wave, \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e, 2003 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dr.D.Shanker, Department of Earthquake Engineering, Indian ...",
+   "htmlTitle": "Dr.D.Shanker, Department of \u003cb\u003eEarthquake\u003c/b\u003e Engineering, \u003cb\u003eIndian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "displayLink": "www.iitr.ac.in",
+   "snippet": "Lesson for Architects & Engineers from recent Indian earthquakes, The Institution   of ... 1995,; Eighteenth Annual Convention of AEG January 24-26, 1993. ....   model for long-term earthquake predictionin the vicinity of October 8, 2005   Kashmir ...",
+   "htmlSnippet": "Lesson for Architects &amp; Engineers from recent \u003cb\u003eIndian earthquakes\u003c/b\u003e, The Institution \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e 1995,; Eighteenth Annual Convention of AEG January 24-26, \u003cb\u003e1993\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  model for long-term \u003cb\u003eearthquake\u003c/b\u003e predictionin the vicinity of \u003cb\u003eOctober 8\u003c/b\u003e, 2005 \u003cbr\u003e  Kashmir \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hHwFGSSoXkwJ",
+   "formattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "htmlFormattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iitr.ac.in/departments/EQ/uploads/Image/faculty/dayasfeq.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu_bdrlQOpb_1Wbl2uX4msnwe12PH6PLiAfVChL8t2pocU2dbwugf2Wa3-"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee",
+      "dc.title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee Index",
+      "dc.creator": "Information Management Group, IIT Roorkee",
+      "dc.creator.address": "img@iitr.ernet.in",
+      "dc.subject.keyword": "Department of Earthquake Engineering,Earthquake Engineering,Structural Dynamics,Soil Dynamics,Seismology,Seismotectonics,Instrumentation,DEQ,IIT Roorkee,Indian Institute of Technology,technology,roorkee,academics,b.tech,m.tech,PhD,Student Homepages,Research,Alumni,SRTEE,events,School of Research and Training in Earthquake Engineering,Codal Provisions,Disaster Mitigation,seismic zoning map,Strong Motion Instruments,Undergraduate,Shake and Shock tables,quasi static testing lab,Activities,Facilities",
+      "dc.subject.description": "Earthquake Engineering, IIT Roorkee involves b.tech,m.tech.undergraduate students for research activities and training in Seismology,Seismotectonics,Instrumentation,soil dynamics technology etc.",
+      "dc.type": "webpage",
+      "dc.image.like": "/Main/template/IIT_Roorkee_Main_Building.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in South Asia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in South Asia - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_South_Asia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "October 8, 2005, 03:50:38 UTC, 08:50:38 Local Time October 8, Kashmir   Pakistan ... 1993, 03:50:38 UTC, 22:25 Local Time September 29, Latur-Killari,   India see ... 96.7??E, Largest earthquake recorded in mainland India since   Independence.",
+   "htmlSnippet": "\u003cb\u003eOctober 8\u003c/b\u003e, 2005, 03:50:38 UTC, 08:50:38 Local Time \u003cb\u003eOctober 8\u003c/b\u003e, Kashmir \u003cbr\u003e  Pakistan \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1993\u003c/b\u003e, 03:50:38 UTC, 22:25 Local Time September 29, Latur-Killari, \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e see \u003cb\u003e...\u003c/b\u003e 96.7??E, Largest \u003cb\u003eearthquake\u003c/b\u003e recorded in mainland \u003cb\u003eIndia\u003c/b\u003e since \u003cbr\u003e  Independence.",
+   "cacheId": "KGSQJPlFwKkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_South_Asia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_South_Asia",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/South_asia.jpg/220px-South_asia.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "220",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQszhl69E3gMXVvy_WlUzkwBwd-EPU0-mwkR8ncQG5FFdQP7YWk8QzO6Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1865 Oct 8-1865 Oct 9, An earthquake hit San Francisco. (SFC, 4/14/96, ... 1897   Jun 12, Possibly the most severe quake in history struck Assam, India. Shock   waves ..... 1993 Jan 15, A 7.5 earthquake struck northern Japan and 2 people   died.",
+   "htmlSnippet": "1865 \u003cb\u003eOct 8\u003c/b\u003e-1865 \u003cb\u003eOct\u003c/b\u003e 9, An \u003cb\u003eearthquake\u003c/b\u003e hit San Francisco. (SFC, 4/14/96, \u003cb\u003e...\u003c/b\u003e 1897 \u003cbr\u003e  Jun 12, Possibly the most severe \u003cb\u003equake\u003c/b\u003e in history struck Assam, \u003cb\u003eIndia\u003c/b\u003e. Shock \u003cbr\u003e  waves \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1993\u003c/b\u003e Jan 15, A 7.5 \u003cb\u003eearthquake\u003c/b\u003e struck northern Japan and 2 people \u003cbr\u003e  died.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "October 8 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eOctober 8\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/October_8",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "October 8 is the 281st day of the year (282nd in leap years) in the Gregorian   calendar. .... of people are killed by a magnitude 7.6 earthquake in parts of   Pakistan, India and Afghanistan. ... 1993); 1917 ??? Walter Lord, American author (  d. 2002) ...",
+   "htmlSnippet": "\u003cb\u003eOctober 8\u003c/b\u003e is the 281st day of the year (282nd in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e....\u003c/b\u003e of people are killed by a magnitude 7.6 \u003cb\u003eearthquake\u003c/b\u003e in parts of \u003cbr\u003e  Pakistan, \u003cb\u003eIndia\u003c/b\u003e and Afghanistan. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1993\u003c/b\u003e); 1917 ??? Walter Lord, American author (\u003cbr\u003e  d. 2002) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tTABy1Ged1UJ",
+   "formattedUrl": "en.wikipedia.org/wiki/October_8",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eOctober\u003c/b\u003e_\u003cb\u003e8\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Volcanic Eruptions ??? Infoplease.com",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions ??? Infoplease.com",
+   "link": "http://www.infoplease.com/ipa/A0001439.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "1993: Aug. 8, Guam: earthquake measuring 8.1 in magnitude caused severe   damage to many structures but no fatalities. Sept. 29, India: earthquake   measuring ...",
+   "htmlSnippet": "\u003cb\u003e1993\u003c/b\u003e: Aug. \u003cb\u003e8\u003c/b\u003e, Guam: \u003cb\u003eearthquake\u003c/b\u003e measuring 8.1 in magnitude caused severe \u003cbr\u003e  damage to many structures but no fatalities. Sept. 29, \u003cb\u003eIndia\u003c/b\u003e: \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  measuring \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eiPTxuWU3LMJ",
+   "formattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "htmlFormattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "chunk": "ART",
+      "idx": "Disasters",
+      "isub": "earthquake in (1755)",
+      "title": "Earthquakes and Volcanic Eruptions",
+      "waif": "Earthquakes",
+      "uniqid": "A0001439",
+      "parent": "A0001437",
+      "subchannel": "world",
+      "channel": "world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "October 8 Events in History",
+   "htmlTitle": "\u003cb\u003eOctober 8\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/october_8.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "October 8 in history.",
+   "htmlSnippet": "\u003cb\u003eOctober 8\u003c/b\u003e in history.",
+   "cacheId": "gt6uSpCHGdQJ",
+   "formattedUrl": "www.brainyhistory.com/days/october_8.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003eoctober\u003c/b\u003e_\u003cb\u003e8\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "October 8 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/october_8.html"
+     }
+    ]
+   }
+  }
+ ]
+}

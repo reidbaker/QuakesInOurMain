@@ -1,0 +1,357 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 10 1997 Australia Earthquake",
+    "totalResults": "528000",
+    "searchTerms": "Aug 10 1997 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 10 1997 Australia Earthquake",
+    "totalResults": "528000",
+    "searchTerms": "Aug 10 1997 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.246508,
+  "formattedSearchTime": "0.25",
+  "totalResults": "528000",
+  "formattedTotalResults": "528,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? \u003cb\u003e10\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 fatalities (all of   them indirect). Last update: April 23, 2012 at 8:29 am by By Armand Vervaeck ...",
+   "htmlSnippet": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? \u003cb\u003e10\u003c/b\u003e fatalities (all of \u003cbr\u003e  them indirect). Last update: April 23, 2012 at 8:29 am by By Armand Vervaeck \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   Unless ..... Broome, 16 August 1929, magnitude 6.6, offshore earthquake to the ...",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  Unless \u003cb\u003e.....\u003c/b\u003e Broome, 16 \u003cb\u003eAugust\u003c/b\u003e 1929, magnitude 6.6, offshore \u003cb\u003eearthquake\u003c/b\u003e to the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "6 days ago ... Did you know this earthquake happened on the same day in history ? .... India,   1997 - Magnitude : 6.1 ??? 23 people killed .... 45 miles east of the region hit by the   August earthquake. .... On the Roberd's ranch, an earthquake fountain created   between 10 and 20 sand ..... Australia, 1968 ??? Magnitude : 6.9 ...",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e Did you know this \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in history ? \u003cb\u003e....\u003c/b\u003e India, \u003cbr\u003e  \u003cb\u003e1997\u003c/b\u003e - Magnitude : 6.1 ??? 23 people killed \u003cb\u003e....\u003c/b\u003e 45 miles east of the region hit by the \u003cbr\u003e  \u003cb\u003eAugust earthquake\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e On the Roberd&#39;s ranch, an \u003cb\u003eearthquake\u003c/b\u003e fountain created \u003cbr\u003e  between \u003cb\u003e10\u003c/b\u003e and 20 sand \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e, 1968 ??? Magnitude : 6.9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This earthquake, 10 Aug 1997, magnitude 6.3 just off the WA north coast, was the   largest Australian earthquake since the ...",
+   "htmlSnippet": "This \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e10 Aug 1997\u003c/b\u003e, magnitude 6.3 just off the WA north coast, was the \u003cbr\u003e  largest \u003cb\u003eAustralian earthquake\u003c/b\u003e since the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Shallow and very dangerous 6.1 magnitude earthquake struck ...",
+   "htmlTitle": "Shallow and very dangerous 6.1 magnitude \u003cb\u003eearthquake\u003c/b\u003e struck \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://thewatchers.adorraeli.com/2012/03/23/shallow-and-very-dangerous-6-1-magnitude-earthquake-struck-south-australia/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Mar 23, 2012 ... Magnitude 6.1 earthquake struck sparsely populated area of South ... off Collier   Bay, on Western Australia's north coast, on August 10, 1997.",
+   "htmlSnippet": "Mar 23, 2012 \u003cb\u003e...\u003c/b\u003e Magnitude 6.1 \u003cb\u003eearthquake\u003c/b\u003e struck sparsely populated area of South \u003cb\u003e...\u003c/b\u003e off Collier \u003cbr\u003e  Bay, on Western \u003cb\u003eAustralia&#39;s\u003c/b\u003e north coast, on \u003cb\u003eAugust 10, 1997\u003c/b\u003e.",
+   "cacheId": "KCCbw8AlNuoJ",
+   "formattedUrl": "thewatchers.adorraeli.com/.../shallow-and-very-dangerous-6-1-magnitude- earthquake-struck-south-australia/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/.../shallow-and-very-dangerous-6-1-magnitude- \u003cb\u003eearthquake\u003c/b\u003e-struck-south-\u003cb\u003eaustralia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/03/march-23-mag-5_6-ge.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "296",
+      "height": "170",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9sjpRNvJnnh1WRTjA2rBsiz4NvW3gLPhxqxhx6gBwpktKcV_ChXZ8q8sS"
+     }
+    ],
+    "article": [
+     {
+      "name": "Shallow and very dangerous 6.1 magnitude earthquake struck South Australia",
+      "description": "Magnitude 6.1 earthquake struck sparsely populated area of South Australia's Far North at 09:25:16 UTC on March 23, 2012 according to Geoscience, Australia. USGS reported magnitude 5.6 earthquake....",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Shallow and very dangerous 6.1 magnitude earthquake struck South Australia",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2012/03/23/shallow-and-very-dangerous-6-1-magnitude-earthquake-struck-south-australia?year=2012&monthnum=03&day=23&name=shallow-and-very-dangerous-6-1-magnitude-earthquake-struck-south-australia",
+      "og:description": "Magnitude 6.1 earthquake struck sparsely populated area of South Australia???s Far North??at 09:25:16 UTC??on March 23, 2012 according to Geoscience, Australia. USGS reported magnitude 5.6 earthquake. The epicenter was located 317 km (196 miles) SSW of??Alice Springs, Northern Terr., Australia (26.068??S, 132.123??E). The depth of epicenter reported by Geoscience was only 3 km! USGS reported depth at 10.7 km (6.6 miles).??Australia???s Geoscience is the organization with multiple instruments installed all over Australia and has to be considered as most accurate. Australian scientists have calculated that it was probably felt in a radius of 507 km around the epicenter. Damage might...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:image": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/03/march-23-mag-5_6-ge.gif",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Robert nelson",
+      "url": "http://www.rexresearch.com/",
+      "url_text": "Robert nelson"
+     },
+     {
+      "fn": "Thinking one"
+     },
+     {
+      "fn": "jacksprat",
+      "nickname": "jacksprat"
+     },
+     {
+      "fn": "PRicha5391"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1997",
+   "htmlTitle": "\u003cb\u003e1997\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 6.2, Collier Bay, Australia, Aug 10 1997, 09:20:33 UTC, -16.159, 124.333,   199708100920. 6.6, FIJI REGION, Aug 08 1997, 22:27:22, -15.656 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 6.2, Collier Bay, \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAug 10 1997\u003c/b\u003e, 09:20:33 UTC, -16.159, 124.333, \u003cbr\u003e  199708100920. 6.6, FIJI REGION, Aug 08 1997, 22:27:22, -15.656 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HMUJ7bMGrqcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1997\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake hits South Australia's Far North | News.com.au",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e hits South \u003cb\u003eAustralia&#39;s\u003c/b\u003e Far North | News.com.au",
+   "link": "http://www.news.com.au/national-old/strong-earthquake-hits-states-far-north/story-e6frfkvr-1226308753204",
+   "displayLink": "www.news.com.au",
+   "snippet": "Mar 24, 2012 ... A MAGNITUDE 6.1 earthquake, the biggest in the country for 15 years ... off   Collier Bay, on Western Australia's north coast, on August 10, 1997.",
+   "htmlSnippet": "Mar 24, 2012 \u003cb\u003e...\u003c/b\u003e A MAGNITUDE 6.1 \u003cb\u003eearthquake\u003c/b\u003e, the biggest in the country for 15 years \u003cb\u003e...\u003c/b\u003e off \u003cbr\u003e  Collier Bay, on Western \u003cb\u003eAustralia&#39;s\u003c/b\u003e north coast, on \u003cb\u003eAugust 10, 1997\u003c/b\u003e.",
+   "formattedUrl": "www.news.com.au/national...earthquake.../story-e6frfkvr-1226308753204",
+   "htmlFormattedUrl": "www.news.com.au/national...\u003cb\u003eearthquake\u003c/b\u003e.../story-e6frfkvr-1226308753204",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://resources1.news.com.au/images/2010/10/11/1225937/280377-richter-scale.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "89",
+      "height": "66",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROKpb63PifMO1fkwtKpZE8VhmZ8oNcJsVg-d1OpCuo4v7IEgHKDY4aCg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://resources1.news.com.au/images/2010/10/11/1225937/280377-richter-scale.jpg",
+      "og:title": "Strong earthquake hits South Australia's Far North",
+      "og:type": "article",
+      "og:url": "http://www.news.com.au/national-old/strong-earthquake-hits-states-far-north/story-e6frfkvr-1226308753204",
+      "og:site_name": "NewsComAu",
+      "fb:app_id": "113758722003364",
+      "fb:admins": "100000875899514",
+      "og:description": "A MAGNITUDE 6.1 earthquake, the biggest in the country for 15 years, has rattled Far North South Australia.",
+      "og:country-name": "Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic Events - Earthquakes - Geoscience Australia",
+   "htmlTitle": "Historic Events - \u003cb\u003eEarthquakes\u003c/b\u003e - Geoscience \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.ga.gov.au/hazards/earthquakes/earthquake-basics/historic.html",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "1997 - Western Australia - Collier Bay. This magnitude 6.3 earthquake at 5.20pm   WST on 10 August 1997 was felt strongly across the Kimberley region of ...",
+   "htmlSnippet": "1997 - Western \u003cb\u003eAustralia\u003c/b\u003e - Collier Bay. This magnitude 6.3 \u003cb\u003eearthquake\u003c/b\u003e at 5.20pm \u003cbr\u003e  WST on \u003cb\u003e10 August 1997\u003c/b\u003e was felt strongly across the Kimberley region of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JhDevNXPNjcJ",
+   "formattedUrl": "www.ga.gov.au/hazards/earthquakes/earthquake-basics/historic.html",
+   "htmlFormattedUrl": "www.ga.gov.au/hazards/\u003cb\u003eearthquakes\u003c/b\u003e/\u003cb\u003eearthquake\u003c/b\u003e-basics/historic.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "Historic Events - Earthquakes",
+      "dc.creator": "c\\=AU\\;o\\=Australia Government\\;ou\\=Geoscience Australia",
+      "dc.publisher": "c\\=AU\\;o\\=Australian Government\\;ou\\=Geoscience Australia",
+      "agls.function": "Earth Science",
+      "dc.identifier": "historic.html",
+      "dc.format": "text/html",
+      "dc.language": "en-AU",
+      "agls.audience": "all",
+      "dc.coverage.jurisdiction": "Commonwealth of Australia",
+      "dc.rights": "; \u003cmeta name=\"DC.Rights\" scheme=\"URI\" content=\"http://creativecommons.org/licenses/by/2.5/au/\"\u003e",
+      "dc.date.created": "2010-06-22 10:34:20",
+      "dc.date.modified": "2012-11-23 17:46:06",
+      "dc.description": "Historically, bushfires, floods, earthquakes, landslides and cyclones have caused loss of life and significant damage to property and infrastructure.",
+      "topic": "Hazards",
+      "topic id": "700",
+      "multimedia products url": "http://www.ga.gov.au/cedda/multimedia/",
+      "publication products url": "http://www.ga.gov.au/cedda/publications/",
+      "map products url": "http://www.ga.gov.au/cedda/maps/",
+      "data and application products url": "http://www.ga.gov.au/cedda/data/",
+      "genericemail": "earthquakes@ga.gov.au",
+      "newsitemdate": "01 January 2010"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SA hit by a 6.1-strong earthquake considered the biggest in ...",
+   "htmlTitle": "SA hit by a 6.1-strong \u003cb\u003eearthquake\u003c/b\u003e considered the biggest in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.heraldsun.com.au/news/victoria/adelaide-hit-by-a-61-strong-earthquake-considered-the-biggest-in-australia-in-15-years/story-fn7x8me2-1226308719140",
+   "displayLink": "www.heraldsun.com.au",
+   "snippet": "Mar 24, 2012 ... UPDATE: A MAGNITUDE 6.1 earthquake, the biggest in the country for ... Collier   Bay, on Western Australia's north coast, on August 10, 1997.",
+   "htmlSnippet": "Mar 24, 2012 \u003cb\u003e...\u003c/b\u003e UPDATE: A MAGNITUDE 6.1 \u003cb\u003eearthquake\u003c/b\u003e, the biggest in the country for \u003cb\u003e...\u003c/b\u003e Collier \u003cbr\u003e  Bay, on Western \u003cb\u003eAustralia&#39;s\u003c/b\u003e north coast, on \u003cb\u003eAugust 10, 1997\u003c/b\u003e.",
+   "formattedUrl": "www.heraldsun.com.au/...earthquake...australia.../story-fn7x8me2- 1226308719140",
+   "htmlFormattedUrl": "www.heraldsun.com.au/...\u003cb\u003eearthquake\u003c/b\u003e...\u003cb\u003eaustralia\u003c/b\u003e.../story-fn7x8me2- 1226308719140",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://resources0.news.com.au/images/2011/01/03/1225980/861120-earthquake.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://resources0.news.com.au/images/2011/01/03/1225980/861120-earthquake.gif",
+      "og:title": "SA hit by a 6.1-strong earthquake considered the biggest in Australia in 15 years",
+      "og:type": "article",
+      "og:url": "http://www.heraldsun.com.au/news/victoria/adelaide-hit-by-a-61-strong-earthquake-considered-the-biggest-in-australia-in-15-years/story-fn7x8me2-1226308719140",
+      "og:site_name": "HeraldSun",
+      "fb:app_id": "135469303148773",
+      "fb:admins": "100000875899514",
+      "og:description": "UPDATE: A MAGNITUDE 6.1 earthquake, the biggest in the country for 15 years, rattled Far North South Australia yesterday.",
+      "og:country-name": "Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "9/56 YEAR CYCLE: AUSTRALIAN EARTHQUAKES",
+   "htmlTitle": "9/56 YEAR CYCLE: \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.davidmcminn.com/eqpages/appendaust.htm",
+   "displayLink": "www.davidmcminn.com",
+   "snippet": "The 56 year Sequence 12 was the most important in Australian seismic ... 6.7,   August 16, 1929, Offshore Broome, WA ... 6.3, August 10, 1997, Collier Bay, WA ...",
+   "htmlSnippet": "The 56 year Sequence 12 was the most important in \u003cb\u003eAustralian seismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 6.7, \u003cbr\u003e  August 16, 1929, Offshore Broome, WA \u003cb\u003e...\u003c/b\u003e 6.3, \u003cb\u003eAugust 10, 1997\u003c/b\u003e, Collier Bay, WA \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Pj3M1ZRiI8J",
+   "formattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "htmlFormattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  }
+ ]
+}
