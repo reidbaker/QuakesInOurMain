@@ -1,0 +1,365 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 28 1943 Eurasia Earthquake",
+    "totalResults": "12600",
+    "searchTerms": "May 28 1943 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 28 1943 Eurasia Earthquake",
+    "totalResults": "12600",
+    "searchTerms": "May 28 1943 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.216993,
+  "formattedSearchTime": "0.22",
+  "totalResults": "12600",
+  "formattedTotalResults": "12,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1903 Malazgirt earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1903 Malazgirt \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1903 Malazgirt earthquake struck Malazgirt of Muￅﾟ Province in eastern ...   The country of Turkey is situated on a highly active section of the Eurasian Plate   boundary. ... Retrieved May 3, 2010. ... a b c d \"Today in Earthquake History: April   28\". ... 1941 Van-Erciￅﾟ ￂﾷ 1942 Niksar-Erbaa ￂﾷ 1943 Adapazarￄﾱ-Hendek ￂﾷ 1943   Tosya- ...",
+   "htmlSnippet": "The 1903 Malazgirt \u003cb\u003eearthquake\u003c/b\u003e struck Malazgirt of Muￅﾟ Province in eastern \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The country of Turkey is situated on a highly active section of the \u003cb\u003eEurasian\u003c/b\u003e Plate \u003cbr\u003e  boundary. \u003cb\u003e...\u003c/b\u003e Retrieved \u003cb\u003eMay\u003c/b\u003e 3, 2010. \u003cb\u003e...\u003c/b\u003e a b c d &quot;Today in \u003cb\u003eEarthquake\u003c/b\u003e History: April \u003cbr\u003e  \u003cb\u003e28\u003c/b\u003e&quot;. \u003cb\u003e...\u003c/b\u003e 1941 Van-Erciￅﾟ &middot; 1942 Niksar-Erbaa &middot; \u003cb\u003e1943\u003c/b\u003e Adapazarￄﾱ-Hendek &middot; \u003cb\u003e1943\u003c/b\u003e \u003cbr\u003e  Tosya- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IyR5zRaIRWAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/260px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "130",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1APbrsyOCdPXD5DVrwAx3ljyjMFt3Pszt2hV1HxJ-abZ-bk8AxETmGj0q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Japan was originally attached to the eastern coast of the Eurasian continent. ...   the first to be reliably documented took place in Nara Prefecture on May 28, 599   during ... On October 28, 1891, the Mino-Owari earthquake struck the former   provinces of ... On September 10, 1943, the 1943 Tottori earthquake, measuring   7.2 M ...",
+   "htmlSnippet": "Japan was originally attached to the eastern coast of the \u003cb\u003eEurasian\u003c/b\u003e continent. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  the first to be reliably documented took place in Nara Prefecture on \u003cb\u003eMay 28\u003c/b\u003e, 599 \u003cbr\u003e  during \u003cb\u003e...\u003c/b\u003e On October \u003cb\u003e28\u003c/b\u003e, 1891, the Mino-Owari \u003cb\u003eearthquake\u003c/b\u003e struck the former \u003cbr\u003e  provinces of \u003cb\u003e...\u003c/b\u003e On September 10, \u003cb\u003e1943\u003c/b\u003e, the \u003cb\u003e1943\u003c/b\u003e Tottori \u003cb\u003eearthquake\u003c/b\u003e, measuring \u003cbr\u003e  7.2 M \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NuRGcOQIbpIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japan_separation.png/270px-Japan_separation.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAivkrzGCuUOdUUabCsPoOS7Ntz0yc_PFSUl2M5kTnoihqkPpJiCdL5c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Quake, Small Tsunami Hit Japan",
+   "htmlTitle": "\u003cb\u003eQuake\u003c/b\u003e, Small Tsunami Hit Japan",
+   "link": "http://www.voanews.com/content/tsunami-hits-japan-after-powerful-earthquake/1560215.html",
+   "displayLink": "www.voanews.com",
+   "snippet": "5 days ago ... Small undersea earthquake shakes northeastern coast triggering one-meter high   waves in Ishinomaki, Miyagi prefecture.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e Small undersea \u003cb\u003eearthquake\u003c/b\u003e shakes northeastern coast triggering one-meter high \u003cbr\u003e  waves in Ishinomaki, Miyagi prefecture.",
+   "cacheId": "EzWXmGubRskJ",
+   "formattedUrl": "www.voanews.com/content/tsunami...earthquake/1560215.html",
+   "htmlFormattedUrl": "www.voanews.com/content/tsunami...\u003cb\u003eearthquake\u003c/b\u003e/1560215.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gdb.voanews.eu/0FA931E6-D0C4-4355-9E47-F0D675B1E091_w113_r1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "101",
+      "height": "57",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuTppR1MuwiJm91vd8xmnjsohszb6sB3SfgYojK7Qm1US0GQ-PimXwCg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Quake, Small Tsunami Hit Japan",
+      "twitter:card": "summary",
+      "twitter:site": "@SomeAccount",
+      "og:title": "Quake, Small Tsunami Hit Japan",
+      "og:description": "Small undersea earthquake shakes northeastern coast triggering one-meter high waves in Ishinomaki, Miyagi prefecture",
+      "og:type": "article",
+      "og:url": "http://www.voanews.com/content/tsunami-hits-japan-after-powerful-earthquake/1560215.html",
+      "og:site_name": "VOA",
+      "author": "VOA  News - RFE/RL",
+      "og:image": "http://gdb.voanews.eu/F7249DF6-C42F-4FB7-9F91-A209442F1F9F_w308_r1.jpg",
+      "abstract": "The Voice of America is one of the world's most trusted sources for news and information from the United States and around the world. VOA is a  multimedia news organization using radio, television, and the internet to distribute content in 43 languages.",
+      "msvalidate.01": "BC94811461B7BF0C2662E5BC33B01969"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major Turkish Earthquakes of the 20th Century | MCEER Information ...",
+   "htmlTitle": "Major Turkish \u003cb\u003eEarthquakes\u003c/b\u003e of the 20th Century | MCEER Information \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://mceer.buffalo.edu/infoservice/reference_services/turkey-major-earthquakes.asp",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Turkey is located on a highly active Eurasian geological plate, the source of   numerous ... in the 20th century occurred in Erzincan on the night of December   28-29, 1939. ... Death toll may be overstated, since Ambraseys said quake \"is   alleged to ... This rupture zone is immediately to the west of the 1943 Ladik   earthquake.",
+   "htmlSnippet": "Turkey is located on a highly active \u003cb\u003eEurasian\u003c/b\u003e geological plate, the source of \u003cbr\u003e  numerous \u003cb\u003e...\u003c/b\u003e in the 20th century occurred in Erzincan on the night of December \u003cbr\u003e  \u003cb\u003e28\u003c/b\u003e-29, 1939. \u003cb\u003e...\u003c/b\u003e Death toll \u003cb\u003emay\u003c/b\u003e be overstated, since Ambraseys said \u003cb\u003equake\u003c/b\u003e &quot;is \u003cbr\u003e  alleged to \u003cb\u003e...\u003c/b\u003e This rupture zone is immediately to the west of the \u003cb\u003e1943\u003c/b\u003e Ladik \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e.",
+   "cacheId": "JEdB0VGhJikJ",
+   "formattedUrl": "mceer.buffalo.edu/infoservice/.../turkey-major-earthquakes.asp",
+   "htmlFormattedUrl": "mceer.buffalo.edu/infoservice/.../turkey-major-\u003cb\u003eearthquakes\u003c/b\u003e.asp"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Harmonization check of Mw within the central, northern, and ...",
+   "htmlTitle": "Harmonization check of Mw within the central, northern, and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ganymedes.lib.unideb.hu:8080/udpeer/bitstream/2437.2/7004/1/PEER_stage2_10.1007%252Fs10950-009-9154-2.pdf",
+   "displayLink": "ganymedes.lib.unideb.hu",
+   "snippet": "and northwestern European earthquake catalogue. (CENEC) ... Section 2.6   Earthquake Hazard and Stress Field, .... 1943 May 2. 48.27. 8.98. Albstadt. D. 4.9.   7. 9. 1943 May 28. 48.27. 8.98 ...... catalogue of Northern Eurasia from ancient   times ...",
+   "htmlSnippet": "and northwestern European \u003cb\u003eearthquake\u003c/b\u003e catalogue. (CENEC) \u003cb\u003e...\u003c/b\u003e Section 2.6 \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e Hazard and Stress Field, \u003cb\u003e....\u003c/b\u003e 1943 May 2. 48.27. 8.98. Albstadt. D. 4.9. \u003cbr\u003e  7. 9. \u003cb\u003e1943 May 28\u003c/b\u003e. 48.27. 8.98 \u003cb\u003e......\u003c/b\u003e catalogue of Northern \u003cb\u003eEurasia\u003c/b\u003e from ancient \u003cbr\u003e  times \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lC0GCSuyGRQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ganymedes.lib.unideb.hu:8080/.../PEER_stage2_10.1007%252Fs10950-009- 9154-2.pdf",
+   "htmlFormattedUrl": "ganymedes.lib.unideb.hu:8080/.../PEER_stage2_10.1007%252Fs10950-009- 9154-2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090717013023+08'00'",
+      "creator": "Springer",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20090717040100+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, ... One of the largest earthquakes ever was the Chile   event of 22 May 1960 with moment ... magnitude 8.7 Ms; Alaska, 28 March 1964,   moment magnitude 9.2 Mw. Although the magnitude ... 1913, 23, 1943, 41, 1973,   16 ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, \u003cb\u003e...\u003c/b\u003e One of the largest \u003cb\u003eearthquakes\u003c/b\u003e ever was the Chile \u003cbr\u003e  event of 22 \u003cb\u003eMay\u003c/b\u003e 1960 with moment \u003cb\u003e...\u003c/b\u003e magnitude 8.7 Ms; Alaska, \u003cb\u003e28\u003c/b\u003e March 1964, \u003cbr\u003e  moment magnitude 9.2 Mw. Although the magnitude \u003cb\u003e...\u003c/b\u003e 1913, 23, \u003cb\u003e1943\u003c/b\u003e, 41, 1973, \u003cbr\u003e  16 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Evidence for active strike-slip faulting along the Eurasia-Africa ...",
+   "htmlTitle": "Evidence for active strike-slip faulting along the \u003cb\u003eEurasia\u003c/b\u003e-Africa \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://geology.gsapubs.org/content/40/6/495.full",
+   "displayLink": "geology.gsapubs.org",
+   "snippet": "Apr 10, 2012 ... Estimates of earthquake source depths close to the fault planes indicate ... 6.6 (  Stich et al., 2005); 5: 28 February 1969, Mw 8.0 (Fukao, 1973); 6: 9 June 1969, ...   We evaluate the seismic potential of the SWIM lineaments, which may represent   a significant ..... Print ISSN 0091-7613; Online ISSN 1943-2682 ...",
+   "htmlSnippet": "Apr 10, 2012 \u003cb\u003e...\u003c/b\u003e Estimates of \u003cb\u003eearthquake\u003c/b\u003e source depths close to the fault planes indicate \u003cb\u003e...\u003c/b\u003e 6.6 (\u003cbr\u003e  Stich et al., 2005); 5: \u003cb\u003e28\u003c/b\u003e February 1969, Mw 8.0 (Fukao, 1973); 6: 9 June 1969, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  We evaluate the \u003cb\u003eseismic\u003c/b\u003e potential of the SWIM lineaments, which \u003cb\u003emay\u003c/b\u003e represent \u003cbr\u003e  a significant \u003cb\u003e.....\u003c/b\u003e Print ISSN 0091-7613; Online ISSN \u003cb\u003e1943\u003c/b\u003e-2682 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "geology.gsapubs.org/content/40/6/495.full",
+   "htmlFormattedUrl": "geology.gsapubs.org/content/40/6/495.full",
+   "pagemap": {
+    "person": [
+     {
+      "name": "Rafael Bartolome"
+     },
+     {
+      "name": "Eulￃﾠlia Grￃﾠcia"
+     },
+     {
+      "name": "Daniel Stich"
+     },
+     {
+      "name": "Sara Martￃﾭnez-Loriente"
+     },
+     {
+      "name": "Dirk Klaeschen"
+     },
+     {
+      "name": "Flor de Lis Mancilla"
+     },
+     {
+      "name": "Claudio Lo Iacono"
+     },
+     {
+      "name": "Juan Josￃﾩ Daￃﾱobeitia"
+     }
+    ],
+    "metatags": [
+     {
+      "hw.ad-path": "/cgi/content/full/40/6/495",
+      "hw.identifier": "/geology/40/6/495.atom",
+      "dc.format": "text/html",
+      "dc.language": "en",
+      "dc.title": "Evidence for active strike-slip faulting along the Eurasia-Africa convergence zone: Implications for seismic hazard in the southwest Iberian margin",
+      "dc.identifier": "10.1130/G33107.1",
+      "dc.date": "2012-06-01",
+      "dc.publisher": "Geological Society of America",
+      "dc.contributor": "Rafael Bartolome",
+      "citation_journal_title": "Geology",
+      "citation_journal_abbrev": "Geology",
+      "citation_issn": "0091-7613",
+      "citation_author": "Rafael Bartolome",
+      "citation_title": "Evidence for active strike-slip faulting along the Eurasia-Africa convergence zone: Implications for seismic hazard in the southwest Iberian margin",
+      "citation_volume": "40",
+      "citation_issue": "6",
+      "citation_firstpage": "495",
+      "citation_lastpage": "498",
+      "citation_id": "40/6/495",
+      "citation_mjid": "geology;40/6/495",
+      "citation_doi": "10.1130/G33107.1",
+      "citation_abstract_html_url": "http://geology.gsapubs.org/content/40/6/495.abstract",
+      "citation_fulltext_html_url": "http://geology.gsapubs.org/content/40/6/495.full",
+      "citation_pdf_url": "http://geology.gsapubs.org/content/40/6/495.full.pdf",
+      "citation_public_url": "http://geology.gsapubs.org/content/40/6/495",
+      "citation_section": "Articles"
+     }
+    ],
+    "scholarlyarticle": [
+     {
+      "articlebody": "Evidence for active strike-slip faulting along the Eurasia-Africa convergence zone: Implications for seismic hazard in the southwest Iberian margin Rafael Bartolome1, Eulￃﾠlia Grￃﾠcia1, Daniel...",
+      "headline": "Evidence for active strike-slip faulting along the Eurasia-Africa convergence zone: Implications for seismic hazard in the southwest Iberian margin",
+      "description": "Next Section Abstract New seismic imaging and seismotectonic data from the southwest Iberian margin, the site of the present-day boundary between the European and African plates, reveal that..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STATUS OF SEISMICITY IN THE NORTHEAST INDIA AND ...",
+   "htmlTitle": "STATUS OF SEISMICITY IN THE NORTHEAST INDIA AND \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "displayLink": "gbpihedenvis.nic.in",
+   "snippet": "Earthquakes may not at all occur in some regions; only small earthquakes (both   ... the collision tectonics between the Indian plate and the Eurasian plate in the   north ..... 1869-1943 during which 6 large earthquakes including 1897 one   occurred. ..... Indo-US workshop on Palaeoseismicity, March 26-28, WIGH, Abs.   Vol. pp.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes may\u003c/b\u003e not at all occur in some regions; only small \u003cb\u003eearthquakes\u003c/b\u003e (both \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e the collision tectonics between the Indian plate and the \u003cb\u003eEurasian\u003c/b\u003e plate in the \u003cbr\u003e  north \u003cb\u003e.....\u003c/b\u003e 1869-\u003cb\u003e1943\u003c/b\u003e during which 6 large \u003cb\u003eearthquakes\u003c/b\u003e including 1897 one \u003cbr\u003e  occurred. \u003cb\u003e.....\u003c/b\u003e Indo-US workshop on Palaeoseismicity, March 26-\u003cb\u003e28\u003c/b\u003e, WIGH, Abs. \u003cbr\u003e  Vol. pp.",
+   "cacheId": "1na7jotAy7UJ",
+   "formattedUrl": "gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "htmlFormattedUrl": "gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "ricepapr 001"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History of India and How Safe Are We? | MapsofIndia Blog",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History of India and How Safe Are We? | MapsofIndia Blog",
+   "link": "http://blog.mapsofindia.com/2010/01/17/earthquake-history-of-india-and-how-safe-are-we/",
+   "displayLink": "blog.mapsofindia.com",
+   "snippet": "Jan 17, 2010 ... Earthquakes have the power to uproot trees and send them ... ... The collision   with the Eurasian Plate along the boundary between India and Nepal ... 1943   OCT 23, ASSAM, 7.2, NA ... biscuits, and water under our bed. the transister is   needed as cell phones may not work in ... 25, 26, 27, 28, 29, 30, 31 ...",
+   "htmlSnippet": "Jan 17, 2010 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e have the power to uproot trees and send them ... \u003cb\u003e...\u003c/b\u003e The collision \u003cbr\u003e  with the \u003cb\u003eEurasian\u003c/b\u003e Plate along the boundary between India and Nepal \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1943\u003c/b\u003e \u003cbr\u003e  OCT 23, ASSAM, 7.2, NA \u003cb\u003e...\u003c/b\u003e biscuits, and water under our bed. the transister is \u003cbr\u003e  needed as cell phones \u003cb\u003emay\u003c/b\u003e not work in \u003cb\u003e...\u003c/b\u003e 25, 26, 27, \u003cb\u003e28\u003c/b\u003e, 29, 30, 31 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ffcqb1JllZMJ",
+   "formattedUrl": "blog.mapsofindia.com/.../earthquake-history-of-india-and-how-safe-are-we/",
+   "htmlFormattedUrl": "blog.mapsofindia.com/.../\u003cb\u003eearthquake\u003c/b\u003e-history-of-india-and-how-safe-are-we/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://198.65.139.229/~blogmap/wp-content/uploads/2010/01/india-map-seismiczone1.jpg?w=265"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "211",
+      "height": "239",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2leeGzDZT96uooxFP2gfNU4t1W15OAg7MNtlXS15kb4rRPTsY3xDus1hj"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "MapsofIndia Blog -",
+      "fb:admins": "100000703909807",
+      "og:title": "Earthquake History of India and How Safe Are We?",
+      "og:url": "http://blog.mapsofindia.com/2010/01/17/earthquake-history-of-india-and-how-safe-are-we/",
+      "og:type": "article"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "niharhazra",
+      "nickname": "niharhazra",
+      "photo": "http://0.gravatar.com/avatar/e8ae516e386da851f1974aff3c7d13d0?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "lowprice",
+      "nickname": "lowprice",
+      "url": "http://lowpricescan.com/",
+      "url_text": "lowprice",
+      "photo": "http://0.gravatar.com/avatar/e978566cceb0b568f4e55586667b24ce?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "glypeproxy US",
+      "url": "http://glypeproxy.us/",
+      "url_text": "glypeproxy US",
+      "photo": "http://0.gravatar.com/avatar/e1bf143e8e4cb8ce44d982164f721e67?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "mapsofindia1",
+      "photo": "http://1.gravatar.com/avatar/ffade411e9a37924af2b197e4d3c9eb7?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "Parvesh Malhotra",
+      "photo": "http://1.gravatar.com/avatar/7c742f2c045264f3b870508b003cd2fb?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "buy helmets online",
+      "url": "http://www.helmetwale.com/",
+      "url_text": "buy helmets online",
+      "photo": "http://0.gravatar.com/avatar/40b6c63f6b18f35725256c13a41796b4?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     }
+    ]
+   }
+  }
+ ]
+}

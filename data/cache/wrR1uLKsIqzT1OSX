@@ -1,0 +1,330 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 23 1909 Asia Earthquake",
+    "totalResults": "52500",
+    "searchTerms": "Apr 23 1909 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 23 1909 Asia Earthquake",
+    "totalResults": "52500",
+    "searchTerms": "Apr 23 1909 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.235464,
+  "formattedSearchTime": "0.24",
+  "totalResults": "52500",
+  "formattedTotalResults": "52,500"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake near Lorca and Murcia, Spain",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e near Lorca and Murcia, Spain",
+   "link": "http://earthquake-report.com/2011/05/13/moderate-earthquake-near-lorca-and-murcia-spain/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 1, 2011 ... UPDATE 20:23 UTC : The Spanish government has promised today that all .... In   1940, 1918, 1909 were also labeled as deadly earthquakes. .... Spanish   earthquake since that of Granada on the 19th April 1956 with 12-16 ..... to   earthquakes in European and Asian / Middle East sphere (4 and up) and a lot ...",
+   "htmlSnippet": "Jul 1, 2011 \u003cb\u003e...\u003c/b\u003e UPDATE 20:\u003cb\u003e23\u003c/b\u003e UTC : The Spanish government has promised today that all \u003cb\u003e....\u003c/b\u003e In \u003cbr\u003e  1940, 1918, \u003cb\u003e1909\u003c/b\u003e were also labeled as deadly \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e Spanish \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e since that of Granada on the 19th \u003cb\u003eApril\u003c/b\u003e 1956 with 12-16 \u003cb\u003e.....\u003c/b\u003e to \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a lot \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nbeVsqBqJ6sJ",
+   "formattedUrl": "earthquake-report.com/.../moderate-earthquake-near-lorca-and-murcia-spain/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../moderate-\u003cb\u003eearthquake\u003c/b\u003e-near-lorca-and-murcia-spain/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/lorca-filipe.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "325",
+      "height": "155",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8k-AXdy9qHTay7tKzeg-VxsyT1vK3tb7uplg8hl3tLALBIWNtLZpVRMDN"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Fatman",
+      "nickname": "Fatman"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Tracy",
+      "nickname": "Tracy"
+     },
+     {
+      "fn": "Fatman",
+      "nickname": "Fatman"
+     },
+     {
+      "fn": "Eveline Sullivan"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Amanda Akrigg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... 2010 09 03 - South Island of   New Zealand - M 7.0 ￂﾷ 2010 07 23 - Moro Gulf, ...... 1910 04 12 - Taiwan region -   M 7.6; 1909 09 27 - Wabash River Valley, Indiana - M .... 1290 09 27 - Chihli,   China Fatalities 100,000; 1268 - Silicia, Asia Minor Fatalities 60,000 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e 2010 09 03 - South Island of \u003cbr\u003e  New Zealand - M 7.0 &middot; 2010 07 \u003cb\u003e23\u003c/b\u003e - Moro Gulf, \u003cb\u003e......\u003c/b\u003e 1910 04 12 - Taiwan region - \u003cbr\u003e  M 7.6; \u003cb\u003e1909\u003c/b\u003e 09 27 - Wabash River Valley, Indiana - M \u003cb\u003e....\u003c/b\u003e 1290 09 27 - Chihli, \u003cbr\u003e  China Fatalities 100,000; 1268 - Silicia, \u003cb\u003eAsia\u003c/b\u003e Minor Fatalities 60,000 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in Portugal (mainland)",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in Portugal (mainland)",
+   "link": "http://earthquake-report.com/2011/02/07/killer-earthquakes-in-portugal-mainland/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Feb 8, 2011 ... This list includes all the earthquakes known to have caused deaths in ... M 6.3ￃﾂ   23-4-1909ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ Benaventeￃﾂ (Portugal) ￢ﾀﾓ killing 46 people .... to   earthquakes in European and Asian / Middle East sphere (4 and up) and a lot of   the rest of the world (5 and up). ... April 30, 2011 at 5:53 pm ...",
+   "htmlSnippet": "Feb 8, 2011 \u003cb\u003e...\u003c/b\u003e This list includes all the \u003cb\u003eearthquakes\u003c/b\u003e known to have caused deaths in \u003cb\u003e...\u003c/b\u003e M 6.3ￃﾂ \u003cbr\u003e  \u003cb\u003e23\u003c/b\u003e-4-\u003cb\u003e1909ￃﾂ\u003c/b\u003e ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ ￃﾂ Benaventeￃﾂ (Portugal) ￢ﾀﾓ killing 46 people \u003cb\u003e....\u003c/b\u003e to \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a lot of \u003cbr\u003e  the rest of the world (5 and up). \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 30, 2011 at 5:53 pm \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OMyqOnm0pOMJ",
+   "formattedUrl": "earthquake-report.com/.../killer-earthquakes-in-portugal-mainland/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-portugal-mainland/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i454.photobucket.com/albums/qq268/azores_21/flag_portugal.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQEaKbNsc9DWN4fVg2AdeTrB1AK_HGZnkQanLRAx5mleTkAHZTrwgbny4"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "evan",
+      "nickname": "evan"
+     },
+     {
+      "fn": "Henk Witkamp"
+     },
+     {
+      "fn": "Ana Paula Correia and Josￃﾩ Ribeiro (Portugal)"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://www.cedim.de/",
+      "url_text": "James Daniell"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://cedim.de/",
+      "url_text": "James Daniell"
+     },
+     {
+      "fn": "Ana Paula Correia and Josￃﾃￂﾩ Ribeiro (Portugal)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1906 San Francisco earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1906 San Francisco \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the 1989 earthquake, see 1989 Loma Prieta earthquake. ... which growing   US economic and military power was projected into the Pacific and Asia. ..... On   August 1, 1909, the California Senate enacted the California Standard Form of ....   Timeline of the San Francisco Earthquake April 18 ￢ﾀﾓ 23, 1906, The Virtual   Museum ...",
+   "htmlSnippet": "For the 1989 \u003cb\u003eearthquake\u003c/b\u003e, see 1989 Loma Prieta \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e which growing \u003cbr\u003e  US economic and military power was projected into the Pacific and \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e On \u003cbr\u003e  August 1, \u003cb\u003e1909\u003c/b\u003e, the California Senate enacted the California Standard Form of \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Timeline of the San Francisco \u003cb\u003eEarthquake April\u003c/b\u003e 18 ￢ﾀﾓ \u003cb\u003e23\u003c/b\u003e, 1906, The Virtual \u003cbr\u003e  Museum \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EOdHrDSYqjoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Post-and-Grant-Avenue.-Look.jpg/240px-Post-and-Grant-Avenue.-Look.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "143",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kQn3LhnMZO3RQrq_vzmYp69F1YB-4jjFmQE2YRVvuy_LDLiTC0lt6SZP"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Print this article",
+   "htmlTitle": "Print this article",
+   "link": "http://revistas.ucm.es/index.php/JIGE/article/download/39206/37803",
+   "displayLink": "revistas.ucm.es",
+   "snippet": "Jun 19, 2012 ... asia-Nubia plate boundary (eastern sector of the Azores. ￢ﾀﾓ Gibraltar .... On April   23rd, 1909 a violent earthquake took place in the Lower Tagus ...",
+   "htmlSnippet": "Jun 19, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003easia\u003c/b\u003e-Nubia plate boundary (eastern sector of the Azores. ￢ﾀﾓ Gibraltar \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eApril\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e23rd, 1909\u003c/b\u003e a violent \u003cb\u003eearthquake\u003c/b\u003e took place in the Lower Tagus \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7RoZRgP68YUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "revistas.ucm.es/index.php/JIGE/article/download/39206/37803",
+   "htmlFormattedUrl": "revistas.ucm.es/index.php/JIGE/article/download/39206/37803",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "J. Cabral",
+      "creationdate": "D:20120907135707+02'00'",
+      "creator": "Adobe InDesign CS4 (6.0)",
+      "moddate": "D:20120907140733+02'00'",
+      "producer": "Adobe PDF Library 9.0",
+      "subject": "Journal of Iberian Geology 38 (1) 2012",
+      "title": "Neotectonics of mainland Portugal: state of the art and future perspectives"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The list incorporates high quality earthquake source (i.e., origin time, location and   earthquake .... 1909-04-23 17:39, Portugal, 38.900, -8.800, 6.6 UK, 30 ...",
+   "htmlSnippet": "The list incorporates high quality \u003cb\u003eearthquake\u003c/b\u003e source (i.e., origin time, location and \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1909-04-23\u003c/b\u003e 17:39, Portugal, 38.900, -8.800, 6.6 UK, 30 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "23 Big Milestones in Asian American History 1/3 | GOLDSEA",
+   "htmlTitle": "\u003cb\u003e23\u003c/b\u003e Big Milestones in \u003cb\u003eAsian\u003c/b\u003e American History 1/3 | GOLDSEA",
+   "link": "http://goldsea.com/AAD/Milestones/milestones.html",
+   "displayLink": "goldsea.com",
+   "snippet": "23 Big Milestones in Asian American History 1/3 | GOLDSEA. ... We didn't include   the boulders rolled into our paths (e.g. Chinese Exclusion Act) or those social   earthquakes that remind us of ... April 12, 1847: First Asians arrive in the United   States ... It wasn't until November 9, 1909 that Asian immigrant farm workers were ...",
+   "htmlSnippet": "\u003cb\u003e23\u003c/b\u003e Big Milestones in \u003cb\u003eAsian\u003c/b\u003e American History 1/3 | GOLDSEA. \u003cb\u003e...\u003c/b\u003e We didn&#39;t include \u003cbr\u003e  the boulders rolled into our paths (e.g. Chinese Exclusion Act) or those social \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e that remind us of \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 12, 1847: First Asians arrive in the United \u003cbr\u003e  States \u003cb\u003e...\u003c/b\u003e It wasn&#39;t until November 9, \u003cb\u003e1909\u003c/b\u003e that \u003cb\u003eAsian\u003c/b\u003e immigrant farm workers were \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iM41UnSPJj8J",
+   "formattedUrl": "goldsea.com/AAD/Milestones/milestones.html",
+   "htmlFormattedUrl": "goldsea.com/AAD/Milestones/milestones.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://goldsea.com/AAD/Milestones/railroad.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxYZFEv9VW1r2VbOXgKvR9EIeSwvrJs1hj4h-Sk69i571FmzFnuHIHEZ0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Casualties, 604 killed and 4,152 injured in 23 October earthquake ... the   Eurasian Plate, beyond the eastern extent of the Armenian and Asia Minor fault   zones.",
+   "htmlSnippet": "Casualties, 604 killed and 4,152 injured in \u003cb\u003e23\u003c/b\u003e October \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  Eurasian Plate, beyond the eastern extent of the Armenian and \u003cb\u003eAsia\u003c/b\u003e Minor fault \u003cbr\u003e  zones.",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Full text of \"A catalogue of destructive earthquakes, AD 7 to AD 1899\"",
+   "htmlTitle": "Full text of &quot;A catalogue of destructive \u003cb\u003eearthquakes\u003c/b\u003e, AD 7 to AD 1899&quot;",
+   "link": "http://archive.org/stream/catalogueofdestr00britrich/catalogueofdestr00britrich_djvu.txt",
+   "displayLink": "archive.org",
+   "snippet": "The present Catalogue is an attempt to give a list of earthquakes which have .....   The English translation is to be found in the British Association Report, 1909. .....   5 or 7 July 30 June Asia Minor, Antioch III Ol. Japan (Totomi, Mikawa) I Mi. .....   CATALOGUE OF DESTRUCTIVE EARTHQUAKES 23 A.D. 1378 April 30 1378   Nov.",
+   "htmlSnippet": "The present Catalogue is an attempt to give a list of \u003cb\u003eearthquakes\u003c/b\u003e which have \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  The English translation is to be found in the British Association Report, \u003cb\u003e1909\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  5 or 7 July 30 June \u003cb\u003eAsia\u003c/b\u003e Minor, Antioch III Ol. Japan (Totomi, Mikawa) I Mi. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  CATALOGUE OF DESTRUCTIVE \u003cb\u003eEARTHQUAKES 23\u003c/b\u003e A.D. 1378 \u003cb\u003eApril\u003c/b\u003e 30 1378 \u003cbr\u003e  Nov.",
+   "cacheId": "HeQKomJaJrUJ",
+   "formattedUrl": "archive.org/stream/.../catalogueofdestr00britrich_djvu.txt",
+   "htmlFormattedUrl": "archive.org/stream/.../catalogueofdestr00britrich_djvu.txt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "01902-04-19April 19, 1902, Quetzaltenango, Guatemala ... 01905-07-23July 23,   1905, 02:46, Bulnain nuruu, Mongolia, 49, 95, 8.3￢ﾀﾓ8.5, Mw ... see 1909 Lambesc   earthquake, 43.64, 5.37, 46, 6.0, Ms Highest magnitude earthquake ever ...",
+   "htmlSnippet": "01902-04-19\u003cb\u003eApril\u003c/b\u003e 19, 1902, Quetzaltenango, Guatemala \u003cb\u003e...\u003c/b\u003e 01905-07-\u003cb\u003e23\u003c/b\u003eJuly \u003cb\u003e23\u003c/b\u003e, \u003cbr\u003e  1905, 02:46, Bulnain nuruu, Mongolia, 49, 95, 8.3￢ﾀﾓ8.5, Mw \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1909\u003c/b\u003e Lambesc \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, 43.64, 5.37, 46, 6.0, Ms Highest magnitude \u003cb\u003eearthquake\u003c/b\u003e ever \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  }
+ ]
+}

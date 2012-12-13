@@ -1,0 +1,262 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 20 1932 Eurasia Earthquake",
+    "totalResults": "12700",
+    "searchTerms": "Nov 20 1932 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 20 1932 Eurasia Earthquake",
+    "totalResults": "12700",
+    "searchTerms": "Nov 20 1932 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.236554,
+  "formattedSearchTime": "0.24",
+  "totalResults": "12700",
+  "formattedTotalResults": "12,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The northern part of Greece lies on the Eurasian Plate while the southern part   lies on the Aegean Sea Plate. The Aegean ... see 1932 Ierissos earthquake, 39.8,   23.8, 491, 7.0 ... The%20tsunami%20of%20426%20BC%20in%20the%  20Maliakos%20Gulf.pdf. .... This page was last modified on 29 November 2012 at   21:10.",
+   "htmlSnippet": "The northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the southern part \u003cbr\u003e  lies on the Aegean Sea Plate. The Aegean \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1932\u003c/b\u003e Ierissos \u003cb\u003eearthquake\u003c/b\u003e, 39.8, \u003cbr\u003e  23.8, 491, 7.0 \u003cb\u003e...\u003c/b\u003e The%\u003cb\u003e20tsunami\u003c/b\u003e%\u003cb\u003e20of\u003c/b\u003e%20426%\u003cb\u003e20BC\u003c/b\u003e%\u003cb\u003e20in\u003c/b\u003e%\u003cb\u003e20the\u003c/b\u003e%\u003cbr\u003e  \u003cb\u003e20Maliakos\u003c/b\u003e%\u003cb\u003e20Gulf\u003c/b\u003e.pdf. \u003cb\u003e....\u003c/b\u003e This page was last modified on 29 \u003cb\u003eNovember\u003c/b\u003e 2012 at \u003cbr\u003e  21:10.",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "20, 23 November 1932, Aachen, unknown. 22 January 1970, Tￃﾼbingen,   unknown, a quake in Baden-Wￃﾼrttemberg shook the metre-thick walls of the   castle tower ...",
+   "htmlSnippet": "\u003cb\u003e20\u003c/b\u003e, 23 \u003cb\u003eNovember 1932\u003c/b\u003e, Aachen, unknown. 22 January 1970, Tￃﾼbingen, \u003cbr\u003e  unknown, a \u003cb\u003equake\u003c/b\u003e in Baden-Wￃﾼrttemberg shook the metre-thick walls of the \u003cbr\u003e  castle tower \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes in china, including the tangshan earthquake",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e in china, including the tangshan \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://factsanddetails.com/china.php?itemid=396",
+   "displayLink": "factsanddetails.com",
+   "snippet": "Tangshan Earthquake in 1976 On average, China experiences 18 earthquake ...   the older heavier Indian crust wedges under Eurasia and thrust up the high   plateaus ... 26, 1932 (70,000);. Powerful Chinese Earthquakes in the 20th   Century ... 5) Kamchatka Peninsula in eastern Russia on November 4, 1952 (9.0)  ; 6) off the ...",
+   "htmlSnippet": "Tangshan \u003cb\u003eEarthquake\u003c/b\u003e in 1976 On average, China experiences 18 \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  the older heavier Indian crust wedges under \u003cb\u003eEurasia\u003c/b\u003e and thrust up the high \u003cbr\u003e  plateaus \u003cb\u003e...\u003c/b\u003e 26, \u003cb\u003e1932\u003c/b\u003e (70,000);. Powerful Chinese \u003cb\u003eEarthquakes\u003c/b\u003e in the \u003cb\u003e20th\u003c/b\u003e \u003cbr\u003e  Century \u003cb\u003e...\u003c/b\u003e 5) Kamchatka Peninsula in eastern Russia on \u003cb\u003eNovember\u003c/b\u003e 4, 1952 (9.0)\u003cbr\u003e  ; 6) off the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qsHmUIfuvOkJ",
+   "formattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "htmlFormattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20080317-tanshan1976%2032.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScOoH604SVx1lIDpfHg0Q0qhqY8sAjC9a4IM7umgB4cMHH8cygGk30fo9o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1932 Changma earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1932\u003c/b\u003e Changma \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1932_Changma_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1932 Changma earthquake is located in Tibetan Plateau ... This area of   thickened crust is a result of the ongoing collision of the Indo-Australian Plate   with the Eurasian Plate. ... Retrieved 2 November 2010. ... doi:10.1029/  2002JB002080. http://sims.ess.ucla.edu/PDF/Cowgill_et_al_2003_Jour%  20Geophys%20Res.pdf.",
+   "htmlSnippet": "\u003cb\u003e1932\u003c/b\u003e Changma \u003cb\u003eearthquake\u003c/b\u003e is located in Tibetan Plateau \u003cb\u003e...\u003c/b\u003e This area of \u003cbr\u003e  thickened crust is a result of the ongoing collision of the Indo-Australian Plate \u003cbr\u003e  with the \u003cb\u003eEurasian\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e Retrieved 2 \u003cb\u003eNovember\u003c/b\u003e 2010. \u003cb\u003e...\u003c/b\u003e doi:10.1029/\u003cbr\u003e  2002JB002080. http://sims.ess.ucla.edu/PDF/Cowgill_et_al_2003_Jour%\u003cbr\u003e  \u003cb\u003e20Geophys\u003c/b\u003e%\u003cb\u003e20Res\u003c/b\u003e.pdf.",
+   "cacheId": "3eN7dhUVCBUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1932_Changma_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1932\u003c/b\u003e_Changma_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Topografic_map_of_Tibetan_Plateau.png/250px-Topografic_map_of_Tibetan_Plateau.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "107",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuFsDI8Xjm_uX0hZjm5JcBjynDsKepCrIXRjkvuxqzsj1AwxYATP4YAhs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "Even in the 19th and early 20th century, communications have remained poor   due to the skeletal ... Revised estimates of the Arabia-Eurasia convergence rate   based on recent GPS ...... Kondorskaya N., Shebalin N. (1997) Nov'i katalog sil'  nih zemletriasenii na territorii SSSR, Izd. Nauka ..... 1932 9 8 72531.658.2 3 45   5.61 0 ...",
+   "htmlSnippet": "Even in the 19th and early \u003cb\u003e20th\u003c/b\u003e century, communications have remained poor \u003cbr\u003e  due to the skeletal \u003cb\u003e...\u003c/b\u003e Revised estimates of the Arabia-\u003cb\u003eEurasia\u003c/b\u003e convergence rate \u003cbr\u003e  based on recent GPS \u003cb\u003e......\u003c/b\u003e Kondorskaya N., Shebalin N. (1997) \u003cb\u003eNov\u003c/b\u003e&#39;i katalog sil&#39;\u003cbr\u003e  nih zemletriasenii na territorii SSSR, Izd. Nauka \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1932\u003c/b\u003e 9 8 72531.658.2 3 45 \u003cbr\u003e  5.61 0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mediterranean",
+   "htmlTitle": "Mediterranean",
+   "link": "http://www.tsunami-alarm-system.com/en/phenomenon-tsunami/occurrences-mediterranean.html",
+   "displayLink": "www.tsunami-alarm-system.com",
+   "snippet": "Tsunamis can occur in European waters due to earthquakes caused by the   African Plate drifting northwards underneath the Eurasian Plate. Ten percent of   all ... 09.07.1956, Greece, Amorgos Island, Aegean Islands, 7,5, 20,00 m, 53.   22.04.1948, Greece ... 26.09.1932, Greece, Gulf Of Hierissos, 7,0, k. A. k. A. 11.09  .1927 ...",
+   "htmlSnippet": "Tsunamis can occur in European waters due to \u003cb\u003eearthquakes\u003c/b\u003e caused by the \u003cbr\u003e  African Plate drifting northwards underneath the \u003cb\u003eEurasian\u003c/b\u003e Plate. Ten percent of \u003cbr\u003e  all \u003cb\u003e...\u003c/b\u003e 09.07.1956, Greece, Amorgos Island, Aegean Islands, 7,5, \u003cb\u003e20\u003c/b\u003e,00 m, 53. \u003cbr\u003e  22.04.1948, Greece \u003cb\u003e...\u003c/b\u003e 26.09.\u003cb\u003e1932\u003c/b\u003e, Greece, Gulf Of Hierissos, 7,0, k. A. k. A. 11.09\u003cbr\u003e  .1927 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fRSOxdRVUZ0J",
+   "formattedUrl": "www.tsunami-alarm-system.com/.../occurrences-mediterranean.html",
+   "htmlFormattedUrl": "www.tsunami-alarm-system.com/.../occurrences-mediterranean.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.tsunami-alarm-system.com/uploads/pics/tsunami_mediterranean.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "264",
+      "height": "191",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpnzYOIevHxl9vVWuFm8vWQ5BKSbOl6wZdJT09HLSNpdowMPcqBYZDR-0"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c) Tsunami Alarm Institute",
+      "author": "(c) Tsunami Alarm Institute",
+      "email": "info[at]sunami-alarm-system[dot]com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African ... earthquakes include Lisbon, 1 November 1755, magnitude 8.7 Ms;   Assam, ... 1902, 8, 1932, 13, 1962, 15 ... Total 1900-1989 = 1822 events = 20 per   year ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e include Lisbon, 1 \u003cb\u003eNovember\u003c/b\u003e 1755, magnitude 8.7 Ms; \u003cbr\u003e  Assam, \u003cb\u003e...\u003c/b\u003e 1902, 8, \u003cb\u003e1932\u003c/b\u003e, 13, 1962, 15 \u003cb\u003e...\u003c/b\u003e Total 1900-1989 = 1822 events = \u003cb\u003e20\u003c/b\u003e per \u003cbr\u003e  year \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1755 Nov 1, An 8.7 earthquake hit Lisbon, Portugal, and killed some 70,000   people. ... 1835 Feb 20, Concepcion, Chile, was destroyed by earthquake and   some .... 1932 Dec 26, Some 70,000 were killed in a massive earthquake in   Kansu, China. ...... south of the boundary between the Indo-Australian and   Eurasian Plates.",
+   "htmlSnippet": "1755 \u003cb\u003eNov\u003c/b\u003e 1, An 8.7 \u003cb\u003eearthquake\u003c/b\u003e hit Lisbon, Portugal, and killed some 70,000 \u003cbr\u003e  people. \u003cb\u003e...\u003c/b\u003e 1835 Feb \u003cb\u003e20\u003c/b\u003e, Concepcion, Chile, was destroyed by \u003cb\u003eearthquake\u003c/b\u003e and \u003cbr\u003e  some \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1932\u003c/b\u003e Dec 26, Some 70,000 were killed in a massive \u003cb\u003eearthquake\u003c/b\u003e in \u003cbr\u003e  Kansu, China. \u003cb\u003e......\u003c/b\u003e south of the boundary between the Indo-Australian and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e Plates.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Insurance in Turkey - ISBN: 0821365835",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Insurance in Turkey - ISBN: 0821365835",
+   "link": "http://siteresources.worldbank.org/FINANCIALSECTOR/Resources/TurkeyEQInsurance_Book.pdf",
+   "displayLink": "siteresources.worldbank.org",
+   "snippet": "Nov. 1￢ﾀﾓOct. 31, 2001￢ﾀﾓ5. 65. 3.3 The TCIP's Current Information Technology   System. 68 ..... earthquakes of a magnitude higher than 6.8 occurred between   1932 and. 1999 ... The horizontal movement of the Anatolian and Eurasian plates   against ... damage of more than 20 percent of residential buildings and 15   percent of ...",
+   "htmlSnippet": "\u003cb\u003eNov\u003c/b\u003e. 1￢ﾀﾓOct. 31, 2001￢ﾀﾓ5. 65. 3.3 The TCIP&#39;s Current Information Technology \u003cbr\u003e  System. 68 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e of a magnitude higher than 6.8 occurred between \u003cbr\u003e  \u003cb\u003e1932\u003c/b\u003e and. 1999 \u003cb\u003e...\u003c/b\u003e The horizontal movement of the Anatolian and \u003cb\u003eEurasian\u003c/b\u003e plates \u003cbr\u003e  against \u003cb\u003e...\u003c/b\u003e damage of more than \u003cb\u003e20\u003c/b\u003e percent of residential buildings and 15 \u003cbr\u003e  percent of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b0aZ1Bk8GcsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "siteresources.worldbank.org/.../Resources/TurkeyEQInsurance_Book.pdf",
+   "htmlFormattedUrl": "siteresources.worldbank.org/.../Resources/TurkeyEQInsurance_Book.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070211084852+05'30'",
+      "author": "Eugene Gurenko, Rodney Lester, Olivier Mahul and Serap Oguz Gonulal",
+      "creator": "Adobe Acrobat 7.0",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20070215085124-05'00'",
+      "title": "Earthquake Insurance in Turkey - ISBN: 0821365835"
+     }
+    ]
+   }
+  }
+ ]
+}

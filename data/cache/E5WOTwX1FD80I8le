@@ -1,0 +1,255 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 24 1927 Eurasia Earthquake",
+    "totalResults": "6650",
+    "searchTerms": "Jan 24 1927 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 24 1927 Eurasia Earthquake",
+    "totalResults": "6650",
+    "searchTerms": "Jan 24 1927 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.18407,
+  "formattedSearchTime": "0.18",
+  "totalResults": "6650",
+  "formattedTotalResults": "6,650"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes in china, including the tangshan earthquake",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e in china, including the tangshan \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://factsanddetails.com/china.php?itemid=396",
+   "displayLink": "factsanddetails.com",
+   "snippet": "Tangshan Earthquake in 1976 On average, China experiences 18 earthquake of   ... the older heavier Indian crust wedges under Eurasia and thrust up the high ...   Historic Earthquakes Pacific Earthquake Engineering Researc Center, Jan Kozak   ... in Qinghai China in 1927, 200,000 dead (8.3); 4) Haiyuan in Gansu, China in ...",
+   "htmlSnippet": "Tangshan \u003cb\u003eEarthquake\u003c/b\u003e in 1976 On average, China experiences 18 \u003cb\u003eearthquake\u003c/b\u003e of \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e the older heavier Indian crust wedges under \u003cb\u003eEurasia\u003c/b\u003e and thrust up the high \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Historic \u003cb\u003eEarthquakes\u003c/b\u003e Pacific \u003cb\u003eEarthquake\u003c/b\u003e Engineering Researc Center, \u003cb\u003eJan\u003c/b\u003e Kozak \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e in Qinghai China in \u003cb\u003e1927\u003c/b\u003e, 200,000 dead (8.3); 4) Haiyuan in Gansu, China in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qsHmUIfuvOkJ",
+   "formattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "htmlFormattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20080317-tanshan1976%2032.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScOoH604SVx1lIDpfHg0Q0qhqY8sAjC9a4IM7umgB4cMHH8cygGk30fo9o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.2 - 39km ENE of Roshtqal'a, Tajikistan 2012-12-04 16:38:42 UTC",
+   "htmlTitle": "M4.2 - 39km ENE of Roshtqal&#39;a, Tajikistan 2012-12-04 16:38:42 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/us2012itak",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Dec 4, 2012 ... Location and Magnitude contributed by: USGS National Earthquake .... 39km (  24mi) ENE of Roshtqal'a, Tajikistan ... Northward underthrusting of India beneath   Eurasia generates numerous earthquakes and consequently makes this area ....   people and the 22 May 1927 M7.6 earthquake that killed 40,912.",
+   "htmlSnippet": "Dec 4, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e 39km (\u003cbr\u003e  \u003cb\u003e24mi\u003c/b\u003e) ENE of Roshtqal&#39;a, Tajikistan \u003cb\u003e...\u003c/b\u003e Northward underthrusting of India beneath \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e generates numerous \u003cb\u003eearthquakes\u003c/b\u003e and consequently makes this area \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  people and the 22 May \u003cb\u003e1927\u003c/b\u003e M7.6 \u003cb\u003eearthquake\u003c/b\u003e that killed 40,912.",
+   "cacheId": "9gGN5VaqJD0J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/us2012itak",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/us2012itak"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Most of the earthquakes registered in Taiwan actually occur off the east coast and   cause little damage, whereas smaller quakes beneath the ... January 30, 1736,   Tainan, 23.1, 120.5, -, ~6.5, 372, 698 ... April 24, 1904, 14:39, Chiayi, 23.5, 120.3,   -, 6.1, 3, 66 ... August 25, 1927, 02:09, Tainan, 23.3, 120.3, 20, 6.5, 11, 214 ...",
+   "htmlSnippet": "Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in Taiwan actually occur off the east coast and \u003cbr\u003e  cause little damage, whereas smaller quakes beneath the \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary\u003c/b\u003e 30, 1736, \u003cbr\u003e  Tainan, 23.1, 120.5, -, ~6.5, 372, 698 \u003cb\u003e...\u003c/b\u003e April \u003cb\u003e24\u003c/b\u003e, 1904, 14:39, Chiayi, 23.5, 120.3, \u003cbr\u003e  -, 6.1, 3, 66 \u003cb\u003e...\u003c/b\u003e August 25, \u003cb\u003e1927\u003c/b\u003e, 02:09, Tainan, 23.3, 120.3, 20, 6.5, 11, 214 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1950 Assam ￢ﾀﾓ Tibet earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1950 Assam ￢ﾀﾓ Tibet \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1950_Assam_%E2%80%93_Tibet_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1950 Assam ￢ﾀﾓ Tibet earthquake is located in Tibetan Plateau. Date, August 15,   1950 (1950-08-15) ... Retrieved January 24, 2012. ^ \"Largest Earthquakes in the ...",
+   "htmlSnippet": "1950 Assam ￢ﾀﾓ Tibet \u003cb\u003eearthquake\u003c/b\u003e is located in Tibetan Plateau. Date, August 15, \u003cbr\u003e  1950 (1950-08-15) \u003cb\u003e...\u003c/b\u003e Retrieved \u003cb\u003eJanuary 24\u003c/b\u003e, 2012. ^ &quot;Largest \u003cb\u003eEarthquakes\u003c/b\u003e in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Kr2T0RzfKDAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1950_Assam_￢ﾀﾓ_Tibet_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1950_Assam_￢ﾀﾓ_Tibet_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Topografic_map_of_Tibetan_Plateau.png/250px-Topografic_map_of_Tibetan_Plateau.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "107",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuFsDI8Xjm_uX0hZjm5JcBjynDsKepCrIXRjkvuxqzsj1AwxYATP4YAhs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Two M6.3+ earthquakes struck off the eastern coast of Greenland ...",
+   "htmlTitle": "Two M6.3+ \u003cb\u003eearthquakes\u003c/b\u003e struck off the eastern coast of Greenland \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://beforeitsnews.com/earthquakes/2012/08/two-m6-3-earthquakes-struck-off-the-eastern-coast-of-greenland-two-m5-4-indian-antartic-ridge-2444374.html",
+   "displayLink": "beforeitsnews.com",
+   "snippet": "Aug 30, 2012 ... A strong earthquake with magnitude 6.6 (EMSC) hit off Jan Mayen Island, ... was   recorded, 24km E of Olonkinbyen, Svalbard and Jan Mayen. ... in the outer   Oslofjord in 1904, M 5.4 and in the Viking Graben in 1927, M 5.3. ... within the   oceanic part of the western Eurasian Plate lying northeast of Iceland.",
+   "htmlSnippet": "Aug 30, 2012 \u003cb\u003e...\u003c/b\u003e A strong \u003cb\u003eearthquake\u003c/b\u003e with magnitude 6.6 (EMSC) hit off \u003cb\u003eJan\u003c/b\u003e Mayen Island, \u003cb\u003e...\u003c/b\u003e was \u003cbr\u003e  recorded, \u003cb\u003e24km\u003c/b\u003e E of Olonkinbyen, Svalbard and \u003cb\u003eJan\u003c/b\u003e Mayen. \u003cb\u003e...\u003c/b\u003e in the outer \u003cbr\u003e  Oslofjord in 1904, M 5.4 and in the Viking Graben in \u003cb\u003e1927\u003c/b\u003e, M 5.3. \u003cb\u003e...\u003c/b\u003e within the \u003cbr\u003e  oceanic part of the western \u003cb\u003eEurasian\u003c/b\u003e Plate lying northeast of Iceland.",
+   "cacheId": "tROySylP7nYJ",
+   "formattedUrl": "beforeitsnews.com/earthquakes/.../two-m6-3-earthquakes-struck-off-the- eastern-coast-of-greenland-two-m5-4-indian-antartic-ridge-244437...",
+   "htmlFormattedUrl": "beforeitsnews.com/\u003cb\u003eearthquakes\u003c/b\u003e/.../two-m6-3-\u003cb\u003eearthquakes\u003c/b\u003e-struck-off-the- eastern-coast-of-greenland-two-m5-4-indian-antartic-ridge-244437...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/08/270_90.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "220",
+      "height": "229",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3uTgs5l-dPQ4B9cwbSEI--c2iXcCcUaUqiVJUXRuDgoY3oNWcKHoIcH-m"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Japan was originally attached to the eastern coast of the Eurasian continent. ...   On December 24, 1854, an earthquake of 8.4 M on the Richter scale, the Ansei   Tￅﾍkai Quake hit ... On March 27, 1927, an earthquake measuring 7.6 M, the 1927   Kita Tango ... On January 13, 1945 at 0338 AM, the 1945 Mikawa earthquake   struck ...",
+   "htmlSnippet": "Japan was originally attached to the eastern coast of the \u003cb\u003eEurasian\u003c/b\u003e continent. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  On December \u003cb\u003e24\u003c/b\u003e, 1854, an \u003cb\u003eearthquake\u003c/b\u003e of 8.4 M on the Richter scale, the Ansei \u003cbr\u003e  Tￅﾍkai \u003cb\u003eQuake\u003c/b\u003e hit \u003cb\u003e...\u003c/b\u003e On March 27, \u003cb\u003e1927\u003c/b\u003e, an \u003cb\u003eearthquake\u003c/b\u003e measuring 7.6 M, the \u003cb\u003e1927\u003c/b\u003e \u003cbr\u003e  Kita Tango \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eJanuary\u003c/b\u003e 13, 1945 at 0338 AM, the 1945 Mikawa \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  struck \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NuRGcOQIbpIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japan_separation.png/270px-Japan_separation.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAivkrzGCuUOdUUabCsPoOS7Ntz0yc_PFSUl2M5kTnoihqkPpJiCdL5c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1927 Mar 7, Earthquake measuring 8 on Richter scale struck Tango, Japan. ...   1929 Jan 24, An earthquake in northern Morocco did material damage in Fez.   ...... miles south of the boundary between the Indo-Australian and Eurasian Plates  .",
+   "htmlSnippet": "\u003cb\u003e1927\u003c/b\u003e Mar 7, \u003cb\u003eEarthquake\u003c/b\u003e measuring 8 on Richter scale struck Tango, Japan. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1929 \u003cb\u003eJan 24\u003c/b\u003e, An \u003cb\u003eearthquake\u003c/b\u003e in northern Morocco did material damage in Fez. \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e miles south of the boundary between the Indo-Australian and \u003cb\u003eEurasian\u003c/b\u003e Plates\u003cbr\u003e  .",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Burma earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Burma \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Burma_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2011 Burma earthquake (Burmese: ￡ﾁﾂ￡ﾁﾀ￡ﾁﾁ￡ﾁﾁ ￡ﾀﾙ￡ﾀﾼ￡ﾀﾔ￡ﾀﾺ￡ﾀﾙ￡ﾀﾬ￡ﾀﾄ￡ﾀﾜ￡ﾀﾻ￡ﾀﾄ￡ﾀﾺ) was a   magnitude ... between the northward moving Indo-Australian Plate and the   Eurasian Plate, ... After sunrise, the casualty toll increased to 24 in Burma, in   addition to the one ... 9 January 2012. http://earthquake-report.com/2012/01/09/  catdat-damaging- ...",
+   "htmlSnippet": "The 2011 Burma \u003cb\u003eearthquake\u003c/b\u003e (Burmese: ￡ﾁﾂ￡ﾁﾀ￡ﾁﾁ￡ﾁﾁ ￡ﾀﾙ￡ﾀﾼ￡ﾀﾔ￡ﾀﾺ￡ﾀﾙ￡ﾀﾬ￡ﾀﾄ￡ﾀﾜ￡ﾀﾻ￡ﾀﾄ￡ﾀﾺ) was a \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e between the northward moving Indo-Australian Plate and the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e Plate, \u003cb\u003e...\u003c/b\u003e After sunrise, the casualty toll increased to \u003cb\u003e24\u003c/b\u003e in Burma, in \u003cbr\u003e  addition to the one \u003cb\u003e...\u003c/b\u003e 9 \u003cb\u003eJanuary\u003c/b\u003e 2012. http://\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/01/09/\u003cbr\u003e  catdat-damaging- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BtCnQXMlecEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Burma_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Burma_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. Central ....   accommodate as much as 19-24 mm/yr of strike-slip motion (Lawrence et al 1992  ). At latitude ...... Stein, S., G. Sella, and E. Okal, The January 26, 2001 Bhuj   earthquake and the diffuse western boundary of ... Am., vol.54, pp.1927-1940.   Tatar, M ...",
+   "htmlSnippet": "of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. Central \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  accommodate as much as 19-\u003cb\u003e24\u003c/b\u003e mm/yr of strike-slip motion (Lawrence et al 1992\u003cbr\u003e  ). At latitude \u003cb\u003e......\u003c/b\u003e Stein, S., G. Sella, and E. Okal, The \u003cb\u003eJanuary\u003c/b\u003e 26, 2001 Bhuj \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e and the diffuse western boundary of \u003cb\u003e...\u003c/b\u003e Am., vol.54, pp.\u003cb\u003e1927\u003c/b\u003e-1940. \u003cbr\u003e  Tatar, M \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  }
+ ]
+}

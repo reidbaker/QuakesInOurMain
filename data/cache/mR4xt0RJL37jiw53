@@ -1,0 +1,346 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 5 1944 North America Earthquake",
+    "totalResults": "99900",
+    "searchTerms": "Sep 5 1944 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 5 1944 North America Earthquake",
+    "totalResults": "99900",
+    "searchTerms": "Sep 5 1944 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.195645,
+  "formattedSearchTime": "0.20",
+  "totalResults": "99900",
+  "formattedTotalResults": "99,900"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 5 1944 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 5 1944 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1944 Cornwall-Massena earthquake - Wikipedia, the free ...",
+   "htmlTitle": "\u003cb\u003e1944\u003c/b\u003e Cornwall-Massena \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/1944_Cornwall-Massena_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Isoseismal map for the earthquake. The 1944 Cornwall-Massena earthquake   occurred on Tuesday, September 5, 1944, at roughly 12:40am EST in Massena, ...",
+   "htmlSnippet": "Isoseismal map for the \u003cb\u003eearthquake\u003c/b\u003e. The 1944 Cornwall-Massena \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  occurred on \u003cb\u003eTuesday, September 5, 1944\u003c/b\u003e, at roughly 12:40am EST in Massena, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4vQOiEhmHhoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1944_Cornwall-Massena_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1944\u003c/b\u003e_Cornwall-Massena_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/1944_Cornwall_Massena_Isoseismal_Map.png/220px-1944_Cornwall_Massena_Isoseismal_Map.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "143",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwWR5gWfECtdcJ1z7WIeXwA_pOmiHWJg5l-CiSxRSI_xE-qPruubHBoXi-"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ Archive \u003cb\u003eSeptember\u003c/b\u003e 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The most recent earthquake related news : Click here .... The North American and   Eurasian plates are spreading apart along ..... Institute's head Telman Aliyev says   that in the last two years it has been established 5 seismic telemetry stations for   forecasting earthquakes. .... New York, 1944 ￢ﾀﾓ Magnitude : 5.8 ...",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The most recent \u003cb\u003eearthquake\u003c/b\u003e related news : Click here \u003cb\u003e....\u003c/b\u003e The \u003cb\u003eNorth American\u003c/b\u003e and \u003cbr\u003e  Eurasian plates are spreading apart along \u003cb\u003e.....\u003c/b\u003e Institute&#39;s head Telman Aliyev says \u003cbr\u003e  that in the last two years it has been established \u003cb\u003e5 seismic\u003c/b\u003e telemetry stations for \u003cbr\u003e  forecasting \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e New York, \u003cb\u003e1944\u003c/b\u003e ￢ﾀﾓ Magnitude : 5.8 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- \u003cb\u003eseptember\u003c/b\u003e-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Cornwall-Massena Earthquake, September 5, 1944 (with Plates ...",
+   "htmlTitle": "The Cornwall-Massena \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003eSeptember 5, 1944\u003c/b\u003e (with Plates \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://adsabs.harvard.edu/full/1945JRASC..39....5H",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "THE CORNWALL-MASSENA EARTHQUAKE SEPTEMBER 5, 1944 By .....   Seismograms from all seismograph stations in North America have been   requested.",
+   "htmlSnippet": "THE CORNWALL-MASSENA \u003cb\u003eEARTHQUAKE SEPTEMBER 5, 1944\u003c/b\u003e By \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Seismograms from all seismograph stations in \u003cb\u003eNorth America\u003c/b\u003e have been \u003cbr\u003e  requested.",
+   "formattedUrl": "adsabs.harvard.edu/full/1945JRASC..39....5H",
+   "htmlFormattedUrl": "adsabs.harvard.edu/full/1945JRASC..39....5H",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/1945JRASC..39....5H",
+      "citation_title": "The Cornwall-Massena Earthquake, September 5, 1944 (with Plates II-V)",
+      "citation_authors": "Hodgson, Ernest A.",
+      "citation_issn": "0035-872X",
+      "citation_date": "01/1945",
+      "citation_journal_title": "Journal of the Royal Astronomical Society of Canada",
+      "citation_volume": "39",
+      "citation_firstpage": "5",
+      "prism.publicationname": "Journal of the Royal Astronomical Society of Canada",
+      "prism.issn": "0035-872X",
+      "prism.volume": "39",
+      "prism.startingpage": "5",
+      "dc.language": "en",
+      "dc.date": "1945-01",
+      "dc.source": "Journal of the Royal Astronomical Society of Canada, Vol. 39, p.5",
+      "dc.title": "The Cornwall-Massena Earthquake, September 5, 1944 (with Plates II-V)",
+      "dc.creator": "Hodgson, Ernest A."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong earthquake near Iguala, Mexico ￢ﾀﾓ 2 people killed, 4 ...",
+   "htmlTitle": "Very strong \u003cb\u003eearthquake\u003c/b\u003e near Iguala, Mexico ￢ﾀﾓ 2 people killed, 4 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/12/11/very-strong-earthquake-at-intermediate-depth-near-iguala-mexico/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Dec 16, 2011 ... Update : This is a subduction earthquake where an oceanic plate glides below   the North American plate. The depth of 64 km is perfectly normal ...",
+   "htmlSnippet": "Dec 16, 2011 \u003cb\u003e...\u003c/b\u003e Update : This is a subduction \u003cb\u003eearthquake\u003c/b\u003e where an oceanic plate glides below \u003cbr\u003e  the \u003cb\u003eNorth American\u003c/b\u003e plate. The depth of 64 km is perfectly normal \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JsZsx7YEcCQJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-earthquake-at-intermediate-depth-near -iguala-mexico/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-\u003cb\u003eearthquake\u003c/b\u003e-at-intermediate-depth-near -iguala-mexico/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/mx-11122011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "286",
+      "height": "176",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAAJLTpsx0jJczlKwCACexZLFPvYg6KPUxIs4RwhkcGoH-7E0gJ4eoBUE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Eastern Canada: a threat that can be mitigated",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Eastern Canada: a threat that can be mitigated",
+   "link": "http://www.landslides.ggl.ulaval.ca/geohazard/0_Keynotes/lamontagne.pdf",
+   "displayLink": "www.landslides.ggl.ulaval.ca",
+   "snippet": "Although located in the middle of the North American plate, eastern Canada1 .....   September 5, 1944, Journal of the Royal Astronomical. Society of Canada ...",
+   "htmlSnippet": "Although located in the middle of the \u003cb\u003eNorth American\u003c/b\u003e plate, eastern Canada1 \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember 5, 1944\u003c/b\u003e, Journal of the Royal Astronomical. Society of Canada \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QCAejBraVCwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.landslides.ggl.ulaval.ca/geohazard/0_Keynotes/lamontagne.pdf",
+   "htmlFormattedUrl": "www.landslides.ggl.ulaval.ca/geohazard/0_Keynotes/lamontagne.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080318134529-04'00'",
+      "subject": "In Eastern Canada, some earthquakes can be considered significant, i.e. they caused some damage to buildings or had an impact on the natural environment (landslides, rock falls, surface faulting, liquefaction, submarine slumping, rock avalanches, railroad embankment slides, and tsunami). Together with smaller magnitude earthquakes, these larger events have been used to define magnitude-frequency rates for the seismically active zones of Eastern Canada. These rates and the attenuation of seismic waves are used to compute values of ground motions at different probability levels which define the earthquake hazard for eastern Canada, i.e. the probability of an earthquake occurring with a given level of ground motion. Our society demands more than seismic hazard: it requires that we assess the potential impact of earthquakes. For this reason, Natural Resources Canada, in partnerships with universities and local governments, has defined two projects to examine the potential for amplification of seismic ground motio",
+      "author": "Lamontagne M.",
+      "creator": "Acrobat PDFMaker 8.0 for Word",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20100308104404-05'00'",
+      "company": "NRCAN-RNCAN",
+      "sourcemodified": "D:20080318160823",
+      "title": "Earthquakes in Eastern Canada: a threat that can be mitigated"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Earthquake History",
+   "htmlTitle": "West Virginia \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/west_virginia/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... On September 5, 1944, a strong earthquake centered near Cornwall, ... Virginia,   Georgia, Kentucky, Maryland (one place), North Carolina, Ohio ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eSeptember 5, 1944\u003c/b\u003e, a strong \u003cb\u003eearthquake\u003c/b\u003e centered near Cornwall, \u003cb\u003e...\u003c/b\u003e Virginia, \u003cbr\u003e  Georgia, Kentucky, Maryland (one place), \u003cb\u003eNorth\u003c/b\u003e Carolina, Ohio \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kt_DrH7sKlsJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/west_virginia/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/west_virginia/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 1935 M6.1 Timiskaming earthquake",
+   "htmlTitle": "The 1935 M6.1 Timiskaming \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/19351101-eng.php",
+   "displayLink": "www.earthquakescanada.nrcan.gc.ca",
+   "snippet": "Nov 7, 2011 ... Description of earthquakes. ... In Mattawa and North Bay (both about 70 km from   the epicentre), many chimneys ... Bulletin of the Seismological Society of America  , v. ... The Cornwall-Massena earthquake, September 5, 1944.",
+   "htmlSnippet": "Nov 7, 2011 \u003cb\u003e...\u003c/b\u003e Description of \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e In Mattawa and \u003cb\u003eNorth\u003c/b\u003e Bay (both about 70 km from \u003cbr\u003e  the epicentre), many chimneys \u003cb\u003e...\u003c/b\u003e Bulletin of the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e\u003cbr\u003e  , v. \u003cb\u003e...\u003c/b\u003e The Cornwall-Massena \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eSeptember 5, 1944\u003c/b\u003e.",
+   "cacheId": "IaY1xrbmN0YJ",
+   "formattedUrl": "www.earthquakescanada.nrcan.gc.ca/historic.../19351101-eng.php",
+   "htmlFormattedUrl": "www.\u003cb\u003eearthquakes\u003c/b\u003ecanada.nrcan.gc.ca/historic.../19351101-eng.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/images/19351101_tn_1935TimiskamingIsoseis_e.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "230",
+      "height": "219",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4ueSI29rdAz4l18Wjw_70nvl06Uc1xfTmjB7pGp-5jbRfOsSdzTalL8E"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.description": "Description of earthquakes",
+      "dc.creator": "Maurice Lamontagne",
+      "dc.title": "The 1935 M6.1 Timiskaming earthquake",
+      "dcterms.issued": "1999-03-01",
+      "dcterms.modified": "2011-11-07",
+      "dc.subject": "The 1935 M6.1 Timiskaming earthquake",
+      "dc.language": "eng",
+      "dc.date.modified": "2011-11-07",
+      "dc.date.created": "1999-03-01",
+      "author": "Maurice Lamontagne",
+      "orgid": "42;916;8832;8831;9115"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Massena Earthquake of 1944 | The Adirondack Almanack",
+   "htmlTitle": "The Massena \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003e1944\u003c/b\u003e | The Adirondack Almanack",
+   "link": "http://www.adirondackalmanack.com/2012/10/the-massena-earthquake-of-1944.html",
+   "displayLink": "www.adirondackalmanack.com",
+   "snippet": "Oct 22, 2012 ... At about 12:40 a.m. on September 5, 1944, a loud rumbling sound filled the ...   Thirty-two earthquake stations across North America, from Nova ...",
+   "htmlSnippet": "Oct 22, 2012 \u003cb\u003e...\u003c/b\u003e At about 12:40 a.m. on \u003cb\u003eSeptember 5, 1944\u003c/b\u003e, a loud rumbling sound filled the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Thirty-two \u003cb\u003eearthquake\u003c/b\u003e stations across \u003cb\u003eNorth America\u003c/b\u003e, from Nova \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "i4P5TnYeQv8J",
+   "formattedUrl": "www.adirondackalmanack.com/.../the-massena-earthquake-of-1944.html",
+   "htmlFormattedUrl": "www.adirondackalmanack.com/.../the-massena-\u003cb\u003eearthquake\u003c/b\u003e-of-\u003cb\u003e1944\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.adirondackalmanack.com/wp-content/uploads/2012/10/Massena-living-room-damage-3-x-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "173",
+      "height": "117",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRt2GXajxEyDSo0RC4jmAlO8S8kWejIO-P35aQLp5mj2gThMldlq583I2g"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dave Gibson",
+      "photo": "http://0.gravatar.com/avatar/4d5a55eca45426c9a60c2c4f56031a53?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "Larry Gooley",
+      "photo": "http://1.gravatar.com/avatar/377a1d8c20d1dd105dff7238490ae4d2?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "Gordie Little",
+      "photo": "http://1.gravatar.com/avatar/fa29d534d4577f44b45299064fbe9358?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ontario-geofish: Cornwall Earthquake 1944",
+   "htmlTitle": "Ontario-geofish: Cornwall \u003cb\u003eEarthquake 1944\u003c/b\u003e",
+   "link": "http://ontario-geofish.blogspot.com/2007/07/cornwall-earthquake-1944-im-enjoying-my.html",
+   "displayLink": "ontario-geofish.blogspot.com",
+   "snippet": "Jul 2, 2007 ... 5, 1944, and its bearing on the proposed St. Lawrence River project\", ... type of   earthquake as most anywhere else in eastern North America (ENA). ... noises,   including sounds and loud rumblings, at 12:38 am Sept. 5, 1944.",
+   "htmlSnippet": "Jul 2, 2007 \u003cb\u003e...\u003c/b\u003e 5, 1944, and its bearing on the proposed St. Lawrence River project&quot;, \u003cb\u003e...\u003c/b\u003e type of \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e as most anywhere else in eastern \u003cb\u003eNorth America\u003c/b\u003e (ENA). \u003cb\u003e...\u003c/b\u003e noises, \u003cbr\u003e  including sounds and loud rumblings, at 12:38 am \u003cb\u003eSept. 5, 1944\u003c/b\u003e.",
+   "cacheId": "v1JAv7GpN_QJ",
+   "formattedUrl": "ontario-geofish.blogspot.com/.../cornwall-earthquake-1944-im-enjoying-my. html",
+   "htmlFormattedUrl": "ontario-geofish.blogspot.com/.../cornwall-\u003cb\u003eearthquake\u003c/b\u003e-\u003cb\u003e1944\u003c/b\u003e-im-enjoying-my. html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://4.bp.blogspot.com/_viWbhRtuOio/RokSVxyxyDI/AAAAAAAAAFo/wZsC5mFMZq8/s400/corndamage.jpg"
+     }
+    ],
+    "person": [
+     {
+      "url": "https://plus.google.com/112688517462752633928",
+      "name": "Harold Asmis"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "247",
+      "height": "204",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr9JB7RUqheq6v069C-FqU0qIo4r7qvKAo3JDJZhx9byCVjGbPFE6VPIf3"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1100"
+     }
+    ],
+    "blogposting": [
+     {
+      "image_url": "http://4.bp.blogspot.com/_viWbhRtuOio/RokSVxyxyDI/AAAAAAAAAFo/wZsC5mFMZq8/s72-c/corndamage.jpg",
+      "blogid": "9020935292186960688",
+      "postid": "8757509784981887929",
+      "name": "Cornwall Earthquake 1944",
+      "description": "I'm enjoying my post-work sabbatical. Unfortunately, I couldn't get to the dock this weekend because of teenager commitments, my daughter is off to Prague to represent Ontario in water polo!...",
+      "articlebody": "I'm enjoying my post-work sabbatical. Unfortunately, I couldn't get to the dock this weekend because of teenager commitments, my daughter is off to Prague to represent Ontario in water polo!...",
+      "url": "http://ontario-geofish.blogspot.com/2007/07/cornwall-earthquake-1944-im-enjoying-my.html",
+      "datepublished": "10:56 AM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History of Vermont",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History of Vermont",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/vermont/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... A violent earthquake, probably centered in the St. Lawrence Valley, was ...   September 5, 1944), was felt strongly at Burlington, Rutland, and St. Albans,   Vermont. ... apart were observed in the North End. The earthquake was also felt   at ... Notices ￂﾷ In partnership with nehrp ￂﾷ Take Pride in America; USA.gov ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e A violent \u003cb\u003eearthquake\u003c/b\u003e, probably centered in the St. Lawrence Valley, was \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember 5, 1944\u003c/b\u003e), was felt strongly at Burlington, Rutland, and St. Albans, \u003cbr\u003e  Vermont. \u003cb\u003e...\u003c/b\u003e apart were observed in the \u003cb\u003eNorth\u003c/b\u003e End. The \u003cb\u003eearthquake\u003c/b\u003e was also felt \u003cbr\u003e  at \u003cb\u003e...\u003c/b\u003e Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W5Wd_7kbqOEJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/vermont/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/vermont/history.php"
+  }
+ ]
+}

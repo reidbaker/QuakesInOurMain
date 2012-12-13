@@ -1,0 +1,280 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 20 1936 Eurasia Earthquake",
+    "totalResults": "14200",
+    "searchTerms": "Jun 20 1936 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 20 1936 Eurasia Earthquake",
+    "totalResults": "14200",
+    "searchTerms": "Jun 20 1936 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.218896,
+  "formattedSearchTime": "0.22",
+  "totalResults": "14200",
+  "formattedTotalResults": "14,200"
+ },
+ "spelling": {
+  "correctedQuery": "June 20 1936 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 20 1936 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1896 Meiji-Sanriku earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1896 Meiji-Sanriku \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1896_Meiji-Sanriku_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 8.5 magnitude earthquake occurred at 19:32 (local time) on June 15, ... The   trench forms part of the convergent boundary between the Pacific and Eurasian   plates. ... The effects of a 20ￂﾰ dipping fault along the top of the subducting plate   was .... 1896 Meiji-Sanriku earthquake; 1936 Miyagi earthquake ￂﾷ 1968 Tokachi ...",
+   "htmlSnippet": "The 8.5 magnitude \u003cb\u003eearthquake\u003c/b\u003e occurred at 19:32 (local time) on \u003cb\u003eJune\u003c/b\u003e 15, \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  trench forms part of the convergent boundary between the Pacific and \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  plates. \u003cb\u003e...\u003c/b\u003e The effects of a \u003cb\u003e20\u003c/b\u003eￂﾰ dipping fault along the top of the subducting plate \u003cbr\u003e  was \u003cb\u003e....\u003c/b\u003e 1896 Meiji-Sanriku \u003cb\u003eearthquake\u003c/b\u003e; \u003cb\u003e1936\u003c/b\u003e Miyagi \u003cb\u003eearthquake\u003c/b\u003e &middot; 1968 Tokachi \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VumgJoA1tGoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1896_Meiji-Sanriku_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1896_Meiji-Sanriku_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/250px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "180",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTPsgMcRYyiK-ejEqZZomw2cIPag3yg6ztfEF9-hnRZwRh0Hsluvk7dbE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SURFACE-WAVE MAGNITUDES OF EURASIAN EARTHQUAKES ...",
+   "htmlTitle": "SURFACE-WAVE MAGNITUDES OF \u003cb\u003eEURASIAN EARTHQUAKES\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "693-709. June 1975. SURFACE-WAVE MAGNITUDES OF EURASIAN.   EARTHQUAKES AND EXPLOSIONS. BY OTTO W. NUTTLI AND SO Gt: KIM.   ABSTRACT ...",
+   "htmlSnippet": "693-709. \u003cb\u003eJune\u003c/b\u003e 1975. SURFACE-WAVE MAGNITUDES OF \u003cb\u003eEURASIAN\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003eEARTHQUAKES\u003c/b\u003e AND EXPLOSIONS. BY OTTO W. NUTTLI AND SO Gt: KIM. \u003cbr\u003e  ABSTRACT \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010282008.TIF",
+      "creationdate": "Tue Aug 02 19:47:49 2005",
+      "title": "010282008.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20051010114911+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Plate tectonics - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Plate tectonics - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Plate_tectonics",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The tectonic plates of the world were mapped in the second half of the 20th   century. ... Earthquakes, volcanic activity, mountain-building, and oceanic trench   formation ..... The same holds for the African, Eurasian, and Antarctic plates. .... In   that book (re-issued in four successive editions up to the final one in 1936), he   noted ...",
+   "htmlSnippet": "The tectonic plates of the world were mapped in the second half of the \u003cb\u003e20th\u003c/b\u003e \u003cbr\u003e  century. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e, volcanic activity, mountain-building, and oceanic trench \u003cbr\u003e  formation \u003cb\u003e.....\u003c/b\u003e The same holds for the African, \u003cb\u003eEurasian\u003c/b\u003e, and Antarctic plates. \u003cb\u003e....\u003c/b\u003e In \u003cbr\u003e  that book (re-issued in four successive editions up to the final one in \u003cb\u003e1936\u003c/b\u003e), he \u003cbr\u003e  noted \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "63PsD3Mc70MJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Plate_tectonics",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Plate_tectonics",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e￭ﾌﾐ ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ (Plate tectonics)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "￭ﾌﾐ ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ￬ﾝﾀ ￫ﾌﾀ￫ﾥﾙ ￬ﾝﾴ￫ﾏﾙ ￬ﾝﾄ ￬ﾄﾤ￫ﾪﾅ￭ﾕﾘ￫ﾊﾔ ￬ﾧﾀ￬ﾧﾈ￭ﾕﾙ ￬ﾝﾴ￫ﾡﾠ￬ﾝﾴ￫ﾋﾤ. ￭ﾌﾐ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ￬ﾝﾀ '￫ﾌﾀ￫ﾥﾙ￬ﾝﾴ￫ﾏﾙ￬ﾄﾤ'￬ﾝﾄ ￬ﾄﾤ￫ﾪﾅ￭ﾕﾘ￫ﾊﾔ ￪ﾲﾃ￬ﾜﾼ￫ﾡﾜ￫ﾶﾀ￭ﾄﾰ ￫ﾰﾜ￬ﾠﾄ￭ﾕﾴ ￬ﾙﾔ￬ﾜﾼ￫ﾩﾰ ￭ﾘﾄ￬ﾞﾬ ￬ﾝﾴ ￫ﾶﾄ￬ﾕﾼ￬ﾝﾘ ￪ﾳﾼ￭ﾕﾙ￬ﾞﾐ ￫ﾌﾀ￫ﾶﾀ￫ﾶﾄ￬ﾝﾴ ￭ﾌﾐ ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ￬ﾝﾄ ￫ﾰﾛ￬ﾕﾄ￫ﾓﾤ￬ﾝﾴ￪ﾳﾠ ￬ﾞﾈ￫ﾋﾤ. ￭ﾌﾐ ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ￬ﾗﾐ ￫ﾔﾰ￫ﾥﾴ￫ﾩﾴ ￬ﾧﾀ￪ﾵﾬ ￫ﾂﾴ￫ﾶﾀ￬ﾝﾘ ￪ﾰﾀ￬ﾞﾥ ￫ﾰﾔ￪ﾹﾥ ￫ﾶﾀ￫ﾶﾄ￬ﾝﾀ ￬ﾕﾔ￬ﾄﾝ￪ﾶﾌ ￪ﾳﾼ ￬ﾗﾰ￬ﾕﾽ￪ﾶﾌ ￬ﾝﾘ ￫ﾑﾐ ￬ﾸﾵ￬ﾜﾼ￫ﾡﾜ ￬ﾝﾴ￫ﾣﾨ￬ﾖﾴ￬ﾠﾸ ￬ﾞﾈ￫ﾋﾤ. ￬ﾕﾔ￬ﾄﾝ￪ﾶﾌ￬ﾝﾀ ￬ﾧﾀ￪ﾰﾁ￪ﾳﾼ ￬ﾋﾝ￬ﾖﾴ￬ﾄﾜ ￪ﾵﾳ￬ﾖﾴ￬ﾧﾄ ￬ﾵﾜ￬ﾃﾁ￫ﾶﾀ￬ﾝﾘ ￫ﾧﾨ￭ﾋﾀ￫ﾡﾜ ￪ﾵﾬ￬ﾄﾱ￫ﾐﾘ￫ﾩﾰ,...",
+      "Output::gray1b": "- ￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Plate_tectonics",
+      "Output::link2": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ (￬ﾘﾁ￫ﾬﾸ)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://www.encyber.com/search_w/ctdetail.php?masterno=180405&contentno=180405",
+      "Output::link2c": "￬ﾗﾔ￬ﾂﾬ￬ﾝﾴ￫ﾲﾄ",
+      "Output::text2d": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2e": "http://ko.wikipedia.org/wiki/￭ﾌﾐ_￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ",
+      "Output::link2e": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "result_group_header": "￫ﾰﾱ￪ﾳﾼ￬ﾂﾬ￬ﾠﾄ",
+      "Output::image_url": "/images/icons/onebox/dictionary-40.gif",
+      "image_size": "40x40",
+      "Output::inline_image_width": "40",
+      "Output::inline_image_height": "40"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The accommodation of Arabia-Eurasia Plate convergence in Iran",
+   "htmlTitle": "The accommodation of Arabia-\u003cb\u003eEurasia\u003c/b\u003e Plate convergence in Iran",
+   "link": "http://www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "displayLink": "www.agu.org",
+   "snippet": "Continental convergence between Arabia and Eurasia is taken up by distributed   ..... largest earthquake in our data set is that of June 20, 1990 .... June 30, 1936 ...",
+   "htmlSnippet": "Continental convergence between Arabia and \u003cb\u003eEurasia\u003c/b\u003e is taken up by distributed \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e largest \u003cb\u003eearthquake\u003c/b\u003e in our data set is that of \u003cb\u003eJune 20\u003c/b\u003e, 1990 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eJune\u003c/b\u003e 30, \u003cb\u003e1936\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "htmlFormattedUrl": "www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "James Jackson, John Haines, William Holt",
+      "creationdate": "D:20070524134205Z",
+      "creator": "www.PrincetonImaging.com",
+      "moddate": "D:20121011152108-04'00'",
+      "producer": "escape 1.1",
+      "subject": "Tectonophysics: Continental neotectonics; Seismology: Seismicity and seismotectonics; Tectonophysics: Dynamics, seismotectonics; Tectonophysics: Continental tectonics&mdash;general",
+      "title": "The accommodation of Arabia-Eurasia Plate convergence in Iran"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and ... 1   November 1755, magnitude 8.7 Ms; Assam, 12 June 1897, magnitude 8.7 Ms; ...   1906, 32, 1936, 21, 1966, 19 ... Total 1900-1989 = 1822 events = 20 per year ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e 1 \u003cbr\u003e  November 1755, magnitude 8.7 Ms; Assam, 12 \u003cb\u003eJune\u003c/b\u003e 1897, magnitude 8.7 Ms; \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1906, 32, \u003cb\u003e1936\u003c/b\u003e, 21, 1966, 19 \u003cb\u003e...\u003c/b\u003e Total 1900-1989 = 1822 events = \u003cb\u003e20\u003c/b\u003e per year \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Curriculum Vitae Roger Bilham",
+   "htmlTitle": "Curriculum Vitae Roger Bilham",
+   "link": "http://cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "Bilham, The 1737 Calcutta Earthquake and Cyclone Evaluated, Bull. Seism. ...   India, 16 June 1819, earthquake, quantified from contemporary accounts. ...   Kinematics of the India-Eurasia Collision Zone from GPS measurements. ... for   Earthquake Hazards and future geodetic networks, Himalayan Geology, 20, 59-  72, 1999.",
+   "htmlSnippet": "Bilham, The 1737 Calcutta \u003cb\u003eEarthquake\u003c/b\u003e and Cyclone Evaluated, Bull. Seism. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  India, 16 \u003cb\u003eJune\u003c/b\u003e 1819, \u003cb\u003eearthquake\u003c/b\u003e, quantified from contemporary accounts. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Kinematics of the India-\u003cb\u003eEurasia\u003c/b\u003e Collision Zone from GPS measurements. \u003cb\u003e...\u003c/b\u003e for \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e Hazards and future geodetic networks, Himalayan Geology, \u003cb\u003e20\u003c/b\u003e, 59-\u003cbr\u003e  72, 1999.",
+   "cacheId": "zPj_TcY3wqsJ",
+   "formattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Curriculum Vitae  Roger Bilham",
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 14"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes - anonymous (2 mb pdf)",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e - anonymous (2 mb pdf)",
+   "link": "http://www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "displayLink": "www.arvindguptatoys.com",
+   "snippet": "The impacts of earthquakes normally cover large areas causing deaths.   IHJUHGS and .... (which included what are now North America and Eurasia) and   ... Richter scale and located 20 km northot Bhui. ... June 26, 1941 Andaman   islands (8.1) ..... Laboratory at the Calitorma Institute of Technology from 1936 to.   1976.",
+   "htmlSnippet": "The impacts of \u003cb\u003eearthquakes\u003c/b\u003e normally cover large areas causing deaths. \u003cbr\u003e  IHJUHGS and \u003cb\u003e....\u003c/b\u003e (which included what are now North America and \u003cb\u003eEurasia\u003c/b\u003e) and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Richter scale and located \u003cb\u003e20\u003c/b\u003e km northot Bhui. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJune\u003c/b\u003e 26, 1941 Andaman \u003cbr\u003e  islands (8.1) \u003cb\u003e.....\u003c/b\u003e Laboratory at the Calitorma Institute of Technology from \u003cb\u003e1936\u003c/b\u003e to. \u003cbr\u003e  1976.",
+   "cacheId": "noMHUn-Du88J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "htmlFormattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-\u003cb\u003eearthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Thu Feb 16 16:50:09 2006",
+      "moddate": "Thu Jul 13 23:23:24 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Medieval earthquakes in Barcelona",
+   "htmlTitle": "Medieval \u003cb\u003eearthquakes\u003c/b\u003e in Barcelona",
+   "link": "http://iberianature.com/barcelona/history-of-barcelona/old-history-of-barcelona/medieval-earthquakes-in-barcelona/",
+   "displayLink": "iberianature.com",
+   "snippet": "Various earthquakes shook Barcelona ￢ﾀﾓ and Catalonia ￢ﾀﾓ in the latter third of the   ... September 21 2004 earthquake, a 4.7 earthquake on the adjoining Eurasian ...",
+   "htmlSnippet": "Various \u003cb\u003eearthquakes\u003c/b\u003e shook Barcelona ￢ﾀﾓ and Catalonia ￢ﾀﾓ in the latter third of the \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e September 21 2004 \u003cb\u003eearthquake\u003c/b\u003e, a 4.7 \u003cb\u003eearthquake\u003c/b\u003e on the adjoining \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9rhhX9tWqa4J",
+   "formattedUrl": "iberianature.com/.../medieval-earthquakes-in-barcelona/",
+   "htmlFormattedUrl": "iberianature.com/.../medieval-\u003cb\u003eearthquakes\u003c/b\u003e-in-barcelona/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patterns of Historical Earthquake Rupture in the Iranian Plateau",
+   "htmlTitle": "Patterns of Historical \u003cb\u003eEarthquake\u003c/b\u003e Rupture in the Iranian Plateau",
+   "link": "http://www.gsinet.ir/photos/pics/latine-article-seismotectonic-iran-16.pdf",
+   "displayLink": "www.gsinet.ir",
+   "snippet": "tween the Eurasian and Arabian plates by strike-slip and reverse faults with   relatively low slip rates ... The Dasht-e-Bayaz sequence of 1936 to 1997 .....   Guidoboni and Traina (1995) dispute the location of the March to June 743 (exact   date is unknown) .... e-Bayaz fault was followed 20 h later by an earthquake of.   Ms 6.4 on ...",
+   "htmlSnippet": "tween the \u003cb\u003eEurasian\u003c/b\u003e and Arabian plates by strike-slip and reverse faults with \u003cbr\u003e  relatively low slip rates \u003cb\u003e...\u003c/b\u003e The Dasht-e-Bayaz sequence of \u003cb\u003e1936\u003c/b\u003e to 1997 \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Guidoboni and Traina (1995) dispute the location of the March to \u003cb\u003eJune\u003c/b\u003e 743 (exact \u003cbr\u003e  date is unknown) \u003cb\u003e....\u003c/b\u003e e-Bayaz fault was followed \u003cb\u003e20\u003c/b\u003e h later by an \u003cb\u003eearthquake\u003c/b\u003e of. \u003cbr\u003e  Ms 6.4 on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nTdbYv_lZgUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.gsinet.ir/photos/pics/latine-article-seismotectonic-iran-16.pdf",
+   "htmlFormattedUrl": "www.gsinet.ir/photos/pics/latine-article-seismotectonic-iran-16.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "ExperVision",
+      "producer": "TypeReader 6.0 Professional"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Investigation of the earthquake sequence off Miyagi prefecture with ...",
+   "htmlTitle": "Investigation of the \u003cb\u003eearthquake\u003c/b\u003e sequence off Miyagi prefecture with \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://svr4.terrapub.co.jp/journals/EPS/pdf/2006/5812/58121533.pdf",
+   "displayLink": "svr4.terrapub.co.jp",
+   "snippet": "2, 20:45 UT), 1937 (July 26, 19:56 UT), 1978 (June 12, 08:14 UT), and 2005 (Aug  . 16, 02:46 UT). A characteristic earthquake model for the sequence of the 1936,   1978, and .... tion boundary between the Pacific and the Eurasia (or the ...",
+   "htmlSnippet": "2, \u003cb\u003e20\u003c/b\u003e:45 UT), 1937 (July 26, 19:56 UT), 1978 (\u003cb\u003eJune\u003c/b\u003e 12, 08:14 UT), and 2005 (Aug\u003cbr\u003e  . 16, 02:46 UT). A characteristic \u003cb\u003eearthquake\u003c/b\u003e model for the sequence of the \u003cb\u003e1936\u003c/b\u003e, \u003cbr\u003e  1978, and \u003cb\u003e....\u003c/b\u003e tion boundary between the Pacific and the \u003cb\u003eEurasia\u003c/b\u003e (or the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x1ongp588gEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "svr4.terrapub.co.jp/journals/EPS/pdf/2006/5812/58121533.pdf",
+   "htmlFormattedUrl": "svr4.terrapub.co.jp/journals/EPS/pdf/2006/5812/58121533.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070202175350",
+      "producer": "Acrobat Distiller 4.0 for Macintosh"
+     }
+    ]
+   }
+  }
+ ]
+}

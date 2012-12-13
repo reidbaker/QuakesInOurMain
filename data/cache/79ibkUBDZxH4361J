@@ -1,0 +1,271 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 26 1920 Eurasia Earthquake",
+    "totalResults": "20300",
+    "searchTerms": "Nov 26 1920 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 26 1920 Eurasia Earthquake",
+    "totalResults": "20300",
+    "searchTerms": "Nov 26 1920 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.244712,
+  "formattedSearchTime": "0.24",
+  "totalResults": "20300",
+  "formattedTotalResults": "20,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "M5.5 - 296km SSE of Turpan, China 2012-11-26 05:33:50 UTC",
+   "htmlTitle": "M5.5 - 296km SSE of Turpan, China 2012-11-\u003cb\u003e26\u003c/b\u003e 05:33:50 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dy6h",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 26, 2012 ... Earthquake location 40.419ￂﾰN, 90.374ￂﾰE .... Page Last Modified: November 26,   2012 16:38:30 UTC ... china seismotectonics himalaya vicinity himalaya   dominantly from continental collision india eurasia ... north east the december   1920 m7 8 that killed approximately 200,000 people and the 22 1927 m7 6 ...",
+   "htmlSnippet": "Nov 26, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e location 40.419ￂﾰN, 90.374ￂﾰE \u003cb\u003e....\u003c/b\u003e Page Last Modified: \u003cb\u003eNovember 26\u003c/b\u003e, \u003cbr\u003e  2012 16:38:30 UTC \u003cb\u003e...\u003c/b\u003e china seismotectonics himalaya vicinity himalaya \u003cbr\u003e  dominantly from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e north east the december \u003cbr\u003e  \u003cb\u003e1920\u003c/b\u003e m7 8 that killed approximately 200,000 people and the 22 1927 m7 6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "j_JGLwBTyKMJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dy6h",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dy6h"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes in china, including the tangshan earthquake",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e in china, including the tangshan \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://factsanddetails.com/china.php?itemid=396",
+   "displayLink": "factsanddetails.com",
+   "snippet": "At the Himalayas, the Indian subcontinent rams into the Eurasian plate, . ... 4)   December 26, 2004, Sumatra, Thailand and Sri Lanka (225,000); 5) Antioch, ... 5)   Kamchatka Peninsula in eastern Russia on November 4, 1952 (9.0); 6) off ... The   1920 earthquake in Gansu measured 8.6 on the Richter scale and killed 200,000  .",
+   "htmlSnippet": "At the Himalayas, the Indian subcontinent rams into the \u003cb\u003eEurasian\u003c/b\u003e plate, . \u003cb\u003e...\u003c/b\u003e 4) \u003cbr\u003e  December \u003cb\u003e26\u003c/b\u003e, 2004, Sumatra, Thailand and Sri Lanka (225,000); 5) Antioch, \u003cb\u003e...\u003c/b\u003e 5) \u003cbr\u003e  Kamchatka Peninsula in eastern Russia on \u003cb\u003eNovember\u003c/b\u003e 4, 1952 (9.0); 6) off \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  \u003cb\u003e1920 earthquake\u003c/b\u003e in Gansu measured 8.6 on the Richter scale and killed 200,000\u003cbr\u003e  .",
+   "cacheId": "qsHmUIfuvOkJ",
+   "formattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "htmlFormattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20080317-tanshan1976%2032.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScOoH604SVx1lIDpfHg0Q0qhqY8sAjC9a4IM7umgB4cMHH8cygGk30fo9o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.2 - 11km N of Murghob, Tajikistan 2012-07-26 01:06:30 UTC",
+   "htmlTitle": "M5.2 - 11km N of Murghob, Tajikistan 2012-07-\u003cb\u003e26\u003c/b\u003e 01:06:30 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000bgc5",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 26, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... Eurasia generates numerous earthquakes and consequently makes   this .... producing large earthquakes such as the 8th November 1997, M7.6 ...   December 1920, M7.8 earthquake that killed approximately 200,000 ...",
+   "htmlSnippet": "Jul 26, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e generates numerous \u003cb\u003eearthquakes\u003c/b\u003e and consequently makes \u003cbr\u003e  this \u003cb\u003e....\u003c/b\u003e producing large \u003cb\u003eearthquakes\u003c/b\u003e such as the 8th \u003cb\u003eNovember\u003c/b\u003e 1997, M7.6 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  December \u003cb\u003e1920\u003c/b\u003e, M7.8 \u003cb\u003eearthquake\u003c/b\u003e that killed approximately 200,000 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "i6Bct-hBGMQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000bgc5",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000bgc5"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Most of the earthquakes registered in Taiwan actually occur off the east coast and   cause little damage, whereas smaller quakes ... November 15, 1916, 06:31,   Central Taiwan, 24.1, 120.9, 3, 6.2, 1, 97 ... June 5, 1920, 12:21, Hualien, 24.6,   121.9, 20, 8.3, 5, 273 ... February 24, 1957, 04:26, Hualien, 23.8, 121.8, 30, 7.3,   11, 44 ...",
+   "htmlSnippet": "Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in Taiwan actually occur off the east coast and \u003cbr\u003e  cause little damage, whereas smaller quakes \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNovember\u003c/b\u003e 15, 1916, 06:31, \u003cbr\u003e  Central Taiwan, 24.1, 120.9, 3, 6.2, 1, 97 \u003cb\u003e...\u003c/b\u003e June 5, \u003cb\u003e1920\u003c/b\u003e, 12:21, Hualien, 24.6, \u003cbr\u003e  121.9, 20, 8.3, 5, 273 \u003cb\u003e...\u003c/b\u003e February 24, 1957, 04:\u003cb\u003e26\u003c/b\u003e, Hualien, 23.8, 121.8, 30, 7.3, \u003cbr\u003e  11, 44 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.2 - 26km ESE of Sary-Tash, Kyrgyzstan 2012-11-15 00:25:52 UTC",
+   "htmlTitle": "M4.2 - \u003cb\u003e26km\u003c/b\u003e ESE of Sary-Tash, Kyrgyzstan 2012-11-15 00:25:52 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/us2012hzae",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 15, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center ... Page Last Modified: November 23, 2012 12:48:31 UTC ... himalaya   dominantly results from continental collision india eurasia plates which ... the   december 1920 m7 8 that killed approximately 200,000 people and the ...",
+   "htmlSnippet": "Nov 15, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eNovember\u003c/b\u003e 23, 2012 12:48:31 UTC \u003cb\u003e...\u003c/b\u003e himalaya \u003cbr\u003e  dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e plates which \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  december \u003cb\u003e1920\u003c/b\u003e m7 8 that killed approximately 200,000 people and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "X8NBlz1umQgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/us2012hzae",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/us2012hzae"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001 Kunlun earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2001 Kunlun \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2001_Kunlun_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2001 Kunlun earthquake also known as the 2001 Kokoxili earthquake,   occurred on 14 November 2001 at 09:26 UTC (17:26 local time), with an   epicenter ...",
+   "htmlSnippet": "The 2001 Kunlun \u003cb\u003eearthquake\u003c/b\u003e also known as the 2001 Kokoxili \u003cb\u003eearthquake\u003c/b\u003e, \u003cbr\u003e  occurred on 14 \u003cb\u003eNovember\u003c/b\u003e 2001 at 09:\u003cb\u003e26\u003c/b\u003e UTC (17:\u003cb\u003e26\u003c/b\u003e local time), with an \u003cbr\u003e  epicenter \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KzFgFxP3Y-4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2001_Kunlun_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2001_Kunlun_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2001_Kunlun_earthquake_location.png/240px-2001_Kunlun_earthquake_location.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "169",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNSodHmCAe0TY_WNWe5I0V4BDN9DDhchAh9HKF2Rr2nInxoIL5ySWoLyw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Azerbaijan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Azerbaijan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Azerbaijan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This article is about the country in Eurasia. ... 12 November 1995 ... Republic was   established in 1918, but was incorporated into the Soviet Union in 1920. ... the   name of Azerbaijan derives from that of Atropates, a Persian satrap under the ......   of earthquake prediction stations and earthquake-resistant buildings that now ...",
+   "htmlSnippet": "This article is about the country in \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 12 \u003cb\u003eNovember\u003c/b\u003e 1995 \u003cb\u003e...\u003c/b\u003e Republic was \u003cbr\u003e  established in 1918, but was incorporated into the Soviet Union in \u003cb\u003e1920\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  name of Azerbaijan derives from that of Atropates, a Persian satrap under the \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  of \u003cb\u003eearthquake\u003c/b\u003e prediction stations and \u003cb\u003eearthquake\u003c/b\u003e-resistant buildings that now \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "coFFJLlBtW8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Azerbaijan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Azerbaijan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Azerbaijan_with_Nagorno_Karabakh_region.svg/250px-Azerbaijan_with_Nagorno_Karabakh_region.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "200",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwBylarkMgbp6qVmaa7aldhGT0yJCdoaYXB6PM7EKT90atBdf75tb5vhF"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Republic of Azerbaijan"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "English",
+   "htmlTitle": "English",
+   "link": "http://www.theeurasia.kz/index.php?lang=eng",
+   "displayLink": "www.theeurasia.kz",
+   "snippet": "Eurasia became the leader of the Kazakh insurance market on premium volume;   .... In the mid-1920's, in order to develop USSR foreign trade, the State Insurance   ..... on 28 November 1918 ￢ﾀﾜAbout organization of insurance in Russian Republic￢ﾀﾝ.   .... \"Japanese quake could reveal risk management breaches, says KPMG\".",
+   "htmlSnippet": "\u003cb\u003eEurasia\u003c/b\u003e became the leader of the Kazakh insurance market on premium volume; \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e In the mid-\u003cb\u003e1920&#39;s\u003c/b\u003e, in order to develop USSR foreign trade, the State Insurance \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e on 28 \u003cb\u003eNovember\u003c/b\u003e 1918 ￢ﾀﾜAbout organization of insurance in Russian Republic￢ﾀﾝ. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e &quot;Japanese \u003cb\u003equake\u003c/b\u003e could reveal risk management breaches, says KPMG&quot;.",
+   "cacheId": "4EP671b2ugoJ",
+   "formattedUrl": "www.theeurasia.kz/index.php?lang=eng",
+   "htmlFormattedUrl": "www.the\u003cb\u003eeurasia\u003c/b\u003e.kz/index.php?lang=eng",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.theeurasia.kz/i/banner_1_eng.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "80",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRltbiDL-rUqWCl4k6FrYVUDUYxTk-VhgE6LV_aca6p8fMXAxNtqVJVI2k"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Plate tectonics - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Plate tectonics - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Plate_tectonics",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquakes, volcanic activity, mountain-building, and oceanic trench ..... The   same holds for the African, Eurasian, and Antarctic plates. ... In a recent paper, it   was suggested that, on the other hand, it can easily be ... During the 1920s,   1930s and 1940s, the former reached important ..... Hess, H. H. (November 1962)  .",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e, volcanic activity, mountain-building, and oceanic trench \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  same holds for the African, \u003cb\u003eEurasian\u003c/b\u003e, and Antarctic plates. \u003cb\u003e...\u003c/b\u003e In a recent paper, it \u003cbr\u003e  was suggested that, on the other hand, it can easily be \u003cb\u003e...\u003c/b\u003e During the \u003cb\u003e1920s\u003c/b\u003e, \u003cbr\u003e  1930s and 1940s, the former reached important \u003cb\u003e.....\u003c/b\u003e Hess, H. H. (\u003cb\u003eNovember\u003c/b\u003e 1962)\u003cbr\u003e  .",
+   "cacheId": "63PsD3Mc70MJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Plate_tectonics",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Plate_tectonics",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e￭ﾌﾐ ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ (Plate tectonics)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "￭ﾌﾐ ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ￬ﾝﾀ ￫ﾌﾀ￫ﾥﾙ ￬ﾝﾴ￫ﾏﾙ ￬ﾝﾄ ￬ﾄﾤ￫ﾪﾅ￭ﾕﾘ￫ﾊﾔ ￬ﾧﾀ￬ﾧﾈ￭ﾕﾙ ￬ﾝﾴ￫ﾡﾠ￬ﾝﾴ￫ﾋﾤ. ￭ﾌﾐ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ￬ﾝﾀ '￫ﾌﾀ￫ﾥﾙ￬ﾝﾴ￫ﾏﾙ￬ﾄﾤ'￬ﾝﾄ ￬ﾄﾤ￫ﾪﾅ￭ﾕﾘ￫ﾊﾔ ￪ﾲﾃ￬ﾜﾼ￫ﾡﾜ￫ﾶﾀ￭ﾄﾰ ￫ﾰﾜ￬ﾠﾄ￭ﾕﾴ ￬ﾙﾔ￬ﾜﾼ￫ﾩﾰ ￭ﾘﾄ￬ﾞﾬ ￬ﾝﾴ ￫ﾶﾄ￬ﾕﾼ￬ﾝﾘ ￪ﾳﾼ￭ﾕﾙ￬ﾞﾐ ￫ﾌﾀ￫ﾶﾀ￫ﾶﾄ￬ﾝﾴ ￭ﾌﾐ ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ￬ﾝﾄ ￫ﾰﾛ￬ﾕﾄ￫ﾓﾤ￬ﾝﾴ￪ﾳﾠ ￬ﾞﾈ￫ﾋﾤ. ￭ﾌﾐ ￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ￬ﾗﾐ ￫ﾔﾰ￫ﾥﾴ￫ﾩﾴ ￬ﾧﾀ￪ﾵﾬ ￫ﾂﾴ￫ﾶﾀ￬ﾝﾘ ￪ﾰﾀ￬ﾞﾥ ￫ﾰﾔ￪ﾹﾥ ￫ﾶﾀ￫ﾶﾄ￬ﾝﾀ ￬ﾕﾔ￬ﾄﾝ￪ﾶﾌ ￪ﾳﾼ ￬ﾗﾰ￬ﾕﾽ￪ﾶﾌ ￬ﾝﾘ ￫ﾑﾐ ￬ﾸﾵ￬ﾜﾼ￫ﾡﾜ ￬ﾝﾴ￫ﾣﾨ￬ﾖﾴ￬ﾠﾸ ￬ﾞﾈ￫ﾋﾤ. ￬ﾕﾔ￬ﾄﾝ￪ﾶﾌ￬ﾝﾀ ￬ﾧﾀ￪ﾰﾁ￪ﾳﾼ ￬ﾋﾝ￬ﾖﾴ￬ﾄﾜ ￪ﾵﾳ￬ﾖﾴ￬ﾧﾄ ￬ﾵﾜ￬ﾃﾁ￫ﾶﾀ￬ﾝﾘ ￫ﾧﾨ￭ﾋﾀ￫ﾡﾜ ￪ﾵﾬ￬ﾄﾱ￫ﾐﾘ￫ﾩﾰ,...",
+      "Output::gray1b": "- ￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Plate_tectonics",
+      "Output::link2": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ (￬ﾘﾁ￫ﾬﾸ)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://www.encyber.com/search_w/ctdetail.php?masterno=180405&contentno=180405",
+      "Output::link2c": "￬ﾗﾔ￬ﾂﾬ￬ﾝﾴ￫ﾲﾄ",
+      "Output::text2d": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2e": "http://ko.wikipedia.org/wiki/￭ﾌﾐ_￪ﾵﾬ￬ﾡﾰ￫ﾡﾠ",
+      "Output::link2e": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "result_group_header": "￫ﾰﾱ￪ﾳﾼ￬ﾂﾬ￬ﾠﾄ",
+      "Output::image_url": "/images/icons/onebox/dictionary-40.gif",
+      "image_size": "40x40",
+      "Output::inline_image_width": "40",
+      "Output::inline_image_height": "40"
+     }
+    ]
+   }
+  }
+ ]
+}

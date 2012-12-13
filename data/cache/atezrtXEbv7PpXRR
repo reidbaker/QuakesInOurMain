@@ -1,0 +1,305 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 14 1922 Eurasia Earthquake",
+    "totalResults": "16700",
+    "searchTerms": "Aug 14 1922 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 14 1922 Eurasia Earthquake",
+    "totalResults": "16700",
+    "searchTerms": "Aug 14 1922 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.182111,
+  "formattedSearchTime": "0.18",
+  "totalResults": "16700",
+  "formattedTotalResults": "16,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... of the Philippine Sea plate and the Eurasian Plate to the east of the island.   Most of the earthquakes registered in Taiwan actually occur off the east coast and   ... August 28, 1916, 15:27, Central Taiwan, 24.0, 121.0, 45, 6.8, 16, 614, 1916-17   Nantou earthquakes ... September 2, 1922, 03:16, Hualien, 24.5, 122, 20, 7.6, 5,   14 ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e of the Philippine Sea plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate to the east of the island. \u003cbr\u003e  Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in Taiwan actually occur off the east coast and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e 28, 1916, 15:27, Central Taiwan, 24.0, 121.0, 45, 6.8, 16, 614, 1916-17 \u003cbr\u003e  Nantou \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e September 2, \u003cb\u003e1922\u003c/b\u003e, 03:16, Hualien, 24.5, 122, 20, 7.6, 5, \u003cbr\u003e  \u003cb\u003e14\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a band of ... 1922, 14, 1952, 17, 1982, 10 ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a band of \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1922\u003c/b\u003e, \u003cb\u003e14\u003c/b\u003e, 1952, 17, 1982, 10 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1923 Great Kantￅﾍ earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1923 Great Kantￅﾍ \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Great Kantￅﾍ earthquake (￩ﾖﾢ￦ﾝﾱ￥ﾤﾧ￩ﾜﾇ￧ﾁﾽ, Kantￅﾍ daishinsai) struck the Kantￅﾍ .... [  14] Anti-Korean sentiment was heightened by fear of the Korean ... (August 2011)   ... carrier in Yokosuka in compliance with the Washington Naval Treaty of 1922. ...   Eurasian plates, the Sagami Trough ruptures in a magnitude 8.5 earthquake, ...",
+   "htmlSnippet": "The Great Kantￅﾍ \u003cb\u003eearthquake\u003c/b\u003e (￩ﾖﾢ￦ﾝﾱ￥ﾤﾧ￩ﾜﾇ￧ﾁﾽ, Kantￅﾍ daishinsai) struck the Kantￅﾍ \u003cb\u003e....\u003c/b\u003e [\u003cbr\u003e  \u003cb\u003e14\u003c/b\u003e] Anti-Korean sentiment was heightened by fear of the Korean \u003cb\u003e...\u003c/b\u003e (\u003cb\u003eAugust\u003c/b\u003e 2011) \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e carrier in Yokosuka in compliance with the Washington Naval Treaty of \u003cb\u003e1922\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plates, the Sagami Trough ruptures in a magnitude 8.5 \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XUJCfGAs7-IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1923_Great_Kantￅﾍ_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1923_Great_Kantￅﾍ_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/8-2earthquake-kanto.jpg/220px-8-2earthquake-kanto.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAsFBNu-5dy6Ra78FuMCjVNXT9axtqBdbG9O70lkqmHlt84TsOWWZCaqM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Velocity field along the northern Algeria from seismic moment ...",
+   "htmlTitle": "Velocity field along the northern Algeria from \u003cb\u003eseismic\u003c/b\u003e moment \u003cb\u003e...\u003c/b\u003e",
+   "link": "ftp://ftp.ecgs.lu/public/publications/jlg/jlg95/JLG95-P5_Ousadou_etal.pdf",
+   "displayLink": "ftp.ecgs.lu",
+   "snippet": "The Africa-Eurasia slow oblique plate convergence induced a regional NW-SE   compressive ... seismic catalogue used for the purpose of this study is distributed   by Centre de Recherche .... C03 C04 C01 C05 C06 C11 C08 C09 C10 C12. B10.   B13. B11. B09. B14 .... 1922 (Ms = 5.9). ... August 18th 1994, Mw = 5.7, Ms = 6.0.",
+   "htmlSnippet": "The Africa-\u003cb\u003eEurasia\u003c/b\u003e slow oblique plate convergence induced a regional NW-SE \u003cbr\u003e  compressive \u003cb\u003e...\u003c/b\u003e \u003cb\u003eseismic\u003c/b\u003e catalogue used for the purpose of this study is distributed \u003cbr\u003e  by Centre de Recherche \u003cb\u003e....\u003c/b\u003e C03 C04 C01 C05 C06 C11 C08 C09 C10 C12. B10. \u003cbr\u003e  B13. B11. B09. \u003cb\u003eB14\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1922\u003c/b\u003e (Ms = 5.9). \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e 18th 1994, Mw = 5.7, Ms = 6.0.",
+   "cacheId": "PQOxuEf5uXMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ftp://ftp.ecgs.lu/public/publications/jlg/jlg95/JLG95-P5_Ousadou_etal.pdf",
+   "htmlFormattedUrl": "ftp://ftp.ecgs.lu/public/publications/jlg/jlg95/JLG95-P5_Ousadou_etal.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100110140657+01'00'",
+      "author": "oussadou",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20100110140657+01'00'",
+      "title": "Microsoft Word - Article_JLG_99.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Azerbaijan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Azerbaijan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Azerbaijan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This article is about the country in Eurasia. ... GUAM, the Commonwealth of   Independent States (CIS) and Organization for the Prohibition ...... of earthquake   prediction stations and earthquake-resistant buildings that now ... orbit in July or   August 2012 from Guiana Space Centre in French Guiana at orbital positions 46ￂﾰ   East.",
+   "htmlSnippet": "This article is about the country in \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e GUAM, the Commonwealth of \u003cbr\u003e  Independent States (CIS) and Organization for the Prohibition \u003cb\u003e......\u003c/b\u003e of \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  prediction stations and \u003cb\u003eearthquake\u003c/b\u003e-resistant buildings that now \u003cb\u003e...\u003c/b\u003e orbit in July or \u003cbr\u003e  \u003cb\u003eAugust\u003c/b\u003e 2012 from Guiana Space Centre in French Guiana at orbital positions 46ￂﾰ \u003cbr\u003e  East.",
+   "cacheId": "coFFJLlBtW8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Azerbaijan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Azerbaijan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Azerbaijan_with_Nagorno_Karabakh_region.svg/250px-Azerbaijan_with_Nagorno_Karabakh_region.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "200",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwBylarkMgbp6qVmaa7aldhGT0yJCdoaYXB6PM7EKT90atBdf75tb5vhF"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Republic of Azerbaijan"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Planet Earth Facts: 50 Interesting Facts About Earth | LiveScience",
+   "htmlTitle": "Planet Earth Facts: 50 Interesting Facts About Earth | LiveScience",
+   "link": "http://www.livescience.com/19102-amazing-facts-earth.html",
+   "displayLink": "www.livescience.com",
+   "snippet": "Mar 18, 2012 ... Reply ￂﾷ Like ￂﾷ November 16 at 10:14pm ... That Good Friday Earthquake actually   occurred in Alaska on Friday, March 27, 1964, as verified and ...",
+   "htmlSnippet": "Mar 18, 2012 \u003cb\u003e...\u003c/b\u003e Reply ￂﾷ Like ￂﾷ November 16 at 10:\u003cb\u003e14pm\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e That Good Friday \u003cb\u003eEarthquake\u003c/b\u003e actually \u003cbr\u003e  occurred in Alaska on Friday, March 27, 1964, as verified and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-eAmeZJ5EOsJ",
+   "formattedUrl": "www.livescience.com/19102-amazing-facts-earth.html",
+   "htmlFormattedUrl": "www.livescience.com/19102-amazing-facts-earth.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.livescience.com/images/i/000/024/938/i235/suomi-npp-photo-earth-blue-marble-east.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "188",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmzZZqNQUR06peiXKZiDWjbDGM-gHjtrh6biQZWJBfU2qGyuNx7mxk6g"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "438608976204523",
+      "og:title": "50 Interesting Facts About The Earth",
+      "og:url": "http://www.livescience.com/19102-amazing-facts-earth.html",
+      "og:type": "article",
+      "og:site_name": "LiveScience.com",
+      "og:description": "Take a journey through the wild tales of the orb we call home.",
+      "og:image": "http://i.livescience.com/images/i/000/024/938/i01/suomi-npp-photo-earth-blue-marble-east.jpg?1330734423"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tectonic Evolution of the Active \"Chelif\" Basin (Northern Algeria ...",
+   "htmlTitle": "Tectonic Evolution of the Active &quot;Chelif&quot; Basin (Northern Algeria \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://cdn.intechopen.com/pdfs/17658/InTech-Tectonic_evolution_of_the_active_chelif_basin_northern_algeria_from_paleomagnetic_and_magnetic_fabric_investigations.pdf",
+   "displayLink": "cdn.intechopen.com",
+   "snippet": "The convergence movement between Africa and Eurasia plates involves a   tectonic ... fault (1 m average coseismic deformation during the 1922 Ms 6   earthquake - Philippe & ..... 14 perpendicular to the shortening direction within   the stratification plane ( ..... Earthquake Symposium Kocaeli, Turkey, 17-19   August 2009. Aￃﾯfa, T.",
+   "htmlSnippet": "The convergence movement between Africa and \u003cb\u003eEurasia\u003c/b\u003e plates involves a \u003cbr\u003e  tectonic \u003cb\u003e...\u003c/b\u003e fault (1 m average coseismic deformation during the \u003cb\u003e1922\u003c/b\u003e Ms 6 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e - Philippe &amp; \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e14\u003c/b\u003e perpendicular to the shortening direction within \u003cbr\u003e  the stratification plane ( \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e Symposium Kocaeli, Turkey, 17-19 \u003cbr\u003e  \u003cb\u003eAugust\u003c/b\u003e 2009. Aￃﾯfa, T.",
+   "cacheId": "_DOTXNG7DMAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cdn.intechopen.com/.../InTech-Tectonic_evolution_of_the_active_chelif_ basin_northern_algeria_from_paleomagnetic_and_magnetic_fabric_ ...",
+   "htmlFormattedUrl": "cdn.intechopen.com/.../InTech-Tectonic_evolution_of_the_active_chelif_ basin_northern_algeria_from_paleomagnetic_and_magnetic_fabric_ ...",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 9.05",
+      "creationdate": "D:20120629151358+02'00'",
+      "moddate": "D:20120629151358+02'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes guide from the BGS (pdf)",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e guide from the BGS (pdf)",
+   "link": "http://www.thinkgeography.org.uk/Year%2010%20Geog/Year%2010/Earthquakes/earthquakes%202.pdf",
+   "displayLink": "www.thinkgeography.org.uk",
+   "snippet": "The computers have ring buffers which contain between 3 and 14 davs   ofcontinuous data which can be extracted if required. Seismic Waves. A   seismogram. see ...",
+   "htmlSnippet": "The computers have ring buffers which contain between 3 and \u003cb\u003e14\u003c/b\u003e davs \u003cbr\u003e  ofcontinuous data which can be extracted if required. \u003cb\u003eSeismic\u003c/b\u003e Waves. A \u003cbr\u003e  seismogram. see \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wiDDyaJolpcJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.thinkgeography.org.uk/.../Earthquakes/earthquakes%202.pdf",
+   "htmlFormattedUrl": "www.thinkgeography.org.uk/.../\u003cb\u003eEarthquakes\u003c/b\u003e/\u003cb\u003eearthquakes\u003c/b\u003e%202.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "CorelDRAW Version 10.0",
+      "author": "BGS",
+      "producer": "Corel PDF Engine Version 10.427",
+      "moddate": "Mon Aug 19 14:13:56 2002",
+      "creationdate": "Mon Aug 19 12:05:13 2002"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "18 Seismicity and Earth's Interior",
+   "htmlTitle": "18 Seismicity and Earth&#39;s Interior",
+   "link": "http://www.earthds.info/pdfs/EDS_18.PDF",
+   "displayLink": "www.earthds.info",
+   "snippet": "being squeezed out of Asia by the ongoing collision of Africa and Arabia with the   Eurasian plate. Earthquakes occur with tragic regularity in Turkey; its last great ...",
+   "htmlSnippet": "being squeezed out of Asia by the ongoing collision of Africa and Arabia with the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cb\u003eEarthquakes\u003c/b\u003e occur with tragic regularity in Turkey; its last great \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kb42bUpnhD0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earthds.info/pdfs/EDS_18.PDF",
+   "htmlFormattedUrl": "www.earthds.info/pdfs/EDS_18.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080821185230-06'00'",
+      "moddate": "D:20080821185230-06'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "History of Geology: Historic earthquakes in Japan",
+   "htmlTitle": "History of Geology: Historic \u003cb\u003eearthquakes\u003c/b\u003e in Japan",
+   "link": "http://historyofgeology.fieldofscience.com/2011/03/historic-earthquakes-in-japan.html",
+   "displayLink": "historyofgeology.fieldofscience.com",
+   "snippet": "Mar 11, 2011 ... Destructive earthquakes, often followed by a tsunami, occured in Japan for ...   studied the occurrence of earthquakes around Tokyo and wrote in 1922: .... In the   night of April 14, 1912 the passenger liner \" R.M.S. Titanic ... area of at least four   great lithospheric plates : the Eurasian/Chinese Plate, ... August (8) ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e Destructive \u003cb\u003eearthquakes\u003c/b\u003e, often followed by a tsunami, occured in Japan for \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  studied the occurrence of \u003cb\u003eearthquakes\u003c/b\u003e around Tokyo and wrote in \u003cb\u003e1922\u003c/b\u003e: \u003cb\u003e....\u003c/b\u003e In the \u003cbr\u003e  night of April \u003cb\u003e14\u003c/b\u003e, 1912 the passenger liner &quot; R.M.S. Titanic \u003cb\u003e...\u003c/b\u003e area of at least four \u003cbr\u003e  great lithospheric plates : the \u003cb\u003eEurasian\u003c/b\u003e/Chinese Plate, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e (8) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RSkn4_ipsEsJ",
+   "formattedUrl": "historyofgeology.fieldofscience.com/.../historic-earthquakes-in-japan.html",
+   "htmlFormattedUrl": "historyofgeology.fieldofscience.com/.../historic-\u003cb\u003eearthquakes\u003c/b\u003e-in-japan.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://2.bp.blogspot.com/--Kc99y-tywM/TXtZIsx2XvI/AAAAAAAACmY/ojkW7yEM12A/s400/Anonymous_1855_Daimyojin_Namazu.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "271",
+      "height": "186",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPkiXOFZSO54Y63CnWFW5SvwFAkrLsGaHwObq5dYplsh0fkTQzqfAmqKY"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1100"
+     }
+    ]
+   }
+  }
+ ]
+}
