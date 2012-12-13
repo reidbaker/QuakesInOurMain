@@ -1,0 +1,257 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 11 1997 Africa Earthquake",
+    "totalResults": "527000",
+    "searchTerms": "Oct 11 1997 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 11 1997 Africa Earthquake",
+    "totalResults": "527000",
+    "searchTerms": "Oct 11 1997 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.251615,
+  "formattedSearchTime": "0.25",
+  "totalResults": "527000",
+  "formattedTotalResults": "527,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "4 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed ... Russia (Kamchatka),   1997 - Magnitude : 7.8 ... The largest fissure was 250 km (155 mi) long with as   much as 9-11 m (30-36 ft) of vertical and 3 m (10 ft) of horizontal offset. ..... After   the quake struck off the west coast of Haida Gwaii on Oct. 27 at 8:04 ...",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e...\u003c/b\u003e Russia (Kamchatka), \u003cbr\u003e  \u003cb\u003e1997\u003c/b\u003e - Magnitude : 7.8 \u003cb\u003e...\u003c/b\u003e The largest fissure was 250 km (155 mi) long with as \u003cbr\u003e  much as 9-\u003cb\u003e11\u003c/b\u003e m (30-36 ft) of vertical and 3 m (10 ft) of horizontal offset. \u003cb\u003e.....\u003c/b\u003e After \u003cbr\u003e  the \u003cb\u003equake\u003c/b\u003e struck off the west coast of Haida Gwaii on \u003cb\u003eOct\u003c/b\u003e. 27 at 8:04 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1997",
+   "htmlTitle": "\u003cb\u003e1997\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.9, SOUTH AFRICA, Dec 11 1997, 05:29:47, -26.901, 26.678, 199712110529 ...   4.7, DEMOCRATIC REPUBLIC OF THE CONGO, Oct 11 1997 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.9, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Dec 11 1997, 05:29:47, -26.901, 26.678, 199712110529 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  4.7, DEMOCRATIC REPUBLIC OF THE CONGO, \u003cb\u003eOct 11 1997\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HMUJ7bMGrqcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1997\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive September 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... April 11 Indonesia earthquake triggers earthquakes all over the globe.   Seismologists ... Italy, 1997 ??? Magnitude : 5.7 and 6.4 ..... In East Africa,   spreading processes have torn Saudi Arabia away from the rest of the African   continent, forming the Red Sea. ... See also the El Asnam earthquake of 1980 Oct   10.",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e April \u003cb\u003e11\u003c/b\u003e Indonesia \u003cb\u003eearthquake\u003c/b\u003e triggers \u003cb\u003eearthquakes\u003c/b\u003e all over the globe. \u003cbr\u003e  Seismologists \u003cb\u003e...\u003c/b\u003e Italy, \u003cb\u003e1997\u003c/b\u003e ??? Magnitude : 5.7 and 6.4 \u003cb\u003e.....\u003c/b\u003e In East \u003cb\u003eAfrica\u003c/b\u003e, \u003cbr\u003e  spreading processes have torn Saudi Arabia away from the rest of the \u003cb\u003eAfrican\u003c/b\u003e \u003cbr\u003e  continent, forming the Red Sea. \u003cb\u003e...\u003c/b\u003e See also the El Asnam \u003cb\u003eearthquake\u003c/b\u003e of 1980 \u003cb\u003eOct\u003c/b\u003e \u003cbr\u003e  10.",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../11/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e11\u003c/b\u003e/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- september-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 11th October | HistoryOrb.com",
+   "htmlTitle": "Historical Events on \u003cb\u003e11th October\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/october/11",
+   "displayLink": "www.historyorb.com",
+   "snippet": "Historical events for the 11th of October. See what famous, interesting and   notable events happened throughout history on 11 October.",
+   "htmlSnippet": "Historical events for the 11th of \u003cb\u003eOctober\u003c/b\u003e. See what famous, interesting and \u003cbr\u003e  notable events happened throughout history on \u003cb\u003e11 October\u003c/b\u003e.",
+   "cacheId": "iygSObK04LwJ",
+   "formattedUrl": "www.historyorb.com/events/october/11",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003eoctober\u003c/b\u003e/\u003cb\u003e11\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "October 11 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eOctober 11\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/October_11",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "October 11 is the 284th day of the year (285th in leap years) in the Gregorian   calendar. There are 81 days ... 1138 ??? A massive earthquake strikes Aleppo,   Syria.",
+   "htmlSnippet": "\u003cb\u003eOctober 11\u003c/b\u003e is the 284th day of the year (285th in leap years) in the Gregorian \u003cbr\u003e  calendar. There are 81 days \u003cb\u003e...\u003c/b\u003e 1138 ??? A massive \u003cb\u003eearthquake\u003c/b\u003e strikes Aleppo, \u003cbr\u003e  Syria.",
+   "cacheId": "fnXyQ16VmIAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/October_11",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eOctober\u003c/b\u003e_\u003cb\u003e11\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "October 11 Events in History",
+   "htmlTitle": "\u003cb\u003eOctober 11\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/october_11.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "October 11 in history.",
+   "htmlSnippet": "\u003cb\u003eOctober 11\u003c/b\u003e in history.",
+   "cacheId": "nMBWbP-qj68J",
+   "formattedUrl": "www.brainyhistory.com/days/october_11.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003eoctober\u003c/b\u003e_\u003cb\u003e11\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "October 11 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/october_11.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption,   landslide, hurricanes etc ... September, October, 1887 ...... Retrieved 2010-08-11.",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cbr\u003e  landslide, hurricanes etc \u003cb\u003e...\u003c/b\u003e September, \u003cb\u003eOctober\u003c/b\u003e, 1887 \u003cb\u003e......\u003c/b\u003e Retrieved 2010-08-\u003cb\u003e11\u003c/b\u003e.",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "!!!!!! 11/17/2012 ??? ALERT! NEEDS VERIFICATION NOW !! Africa 9.9 ...",
+   "htmlTitle": "!!!!!! \u003cb\u003e11\u003c/b\u003e/17/2012 ??? ALERT! NEEDS VERIFICATION NOW !! \u003cb\u003eAfrica\u003c/b\u003e 9.9 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.treasurenet.com/forums/psychics-mediums-paranormal/321399-11-17-2012-alert-needs-verification-now-africa-9-9m-earthquake.html",
+   "displayLink": "www.treasurenet.com",
+   "snippet": "Nov 17, 2012 ... Oct 2012. Constitutional Republic. White's, Fisher. 156. 74 times ... 11/17/2012 --   6.1M earthquake in Tonga -- EIGHT 6.0M+ in the past 7 days (week) - YouTube   ..... In a April 28, 1997 DoD News Briefing at the Conference on ...",
+   "htmlSnippet": "Nov 17, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eOct\u003c/b\u003e 2012. Constitutional Republic. White&#39;s, Fisher. 156. 74 times \u003cb\u003e...\u003c/b\u003e \u003cb\u003e11\u003c/b\u003e/17/2012 -- \u003cbr\u003e  6.1M \u003cb\u003eearthquake\u003c/b\u003e in Tonga -- EIGHT 6.0M+ in the past 7 days (week) - YouTube \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e In a April 28, \u003cb\u003e1997\u003c/b\u003e DoD News Briefing at the Conference on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9kDMk2dcu4kJ",
+   "formattedUrl": "www.treasurenet.com/.../321399-11-17-2012-alert-needs-verification-now- africa-9-9m-earthquake.html",
+   "htmlFormattedUrl": "www.treasurenet.com/.../321399-\u003cb\u003e11\u003c/b\u003e-17-2012-alert-needs-verification-now- \u003cb\u003eafrica\u003c/b\u003e-9-9m-\u003cb\u003eearthquake\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "vb_meta_bburl": "http://www.treasurenet.com/forums"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude (misc units) over time for deadly earthquakes since 1900. The   following list .... 1904-08-11 05:56, Greece, 37.750, 27.000, 10, 6.2 UK, 4. 1904-  08-30 ...",
+   "htmlSnippet": "Magnitude (misc units) over time for deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900. The \u003cbr\u003e  following list \u003cb\u003e....\u003c/b\u003e 1904-08-\u003cb\u003e11\u003c/b\u003e 05:56, Greece, 37.750, 27.000, 10, 6.2 UK, 4. 1904-\u003cbr\u003e  08-30 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Free State, South Africa",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Free State, South \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/p/south-africa/free-state/recent",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The latest earthquakes in Free State, South Africa. ... Depth: 5 km. J. almost 11   years ago, 4.8 magnitude, 5 km depth. Welkom, Free State, South Africa ...",
+   "htmlSnippet": "The latest \u003cb\u003eearthquakes\u003c/b\u003e in Free State, South \u003cb\u003eAfrica\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Depth: 5 km. J. almost \u003cb\u003e11\u003c/b\u003e \u003cbr\u003e  years ago, 4.8 magnitude, 5 km depth. Welkom, Free State, South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SeyZeAI58R4J",
+   "formattedUrl": "earthquaketrack.com/p/south-africa/free-state/recent",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/p/south-\u003cb\u003eafrica\u003c/b\u003e/free-state/recent",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "1VmuXVRUxWdXUmPB00JcsJN8mF2Iwrgjt3A6zpTvC3o="
+     }
+    ]
+   }
+  }
+ ]
+}

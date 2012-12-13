@@ -1,0 +1,313 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 17 1999 Asia Earthquake",
+    "totalResults": "532000",
+    "searchTerms": "Aug 17 1999 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 17 1999 Asia Earthquake",
+    "totalResults": "532000",
+    "searchTerms": "Aug 17 1999 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.181873,
+  "formattedSearchTime": "0.18",
+  "totalResults": "532000",
+  "formattedTotalResults": "532,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Total Disaster Risk Management: Concept and Best Practices",
+   "htmlTitle": "Total Disaster Risk Management: Concept and Best Practices",
+   "link": "http://www.adrc.asia/publications/recovery_reports/pdf/Marmara.pdf",
+   "displayLink": "www.adrc.asia",
+   "snippet": "the Earthquake in Marmara, Turkey on August 17, 1999. Tetsushi Kurita. Senior   Researcher, Asian Disaster Reduction Center. Overview of the Earthquake ...",
+   "htmlSnippet": "the \u003cb\u003eEarthquake\u003c/b\u003e in Marmara, Turkey on \u003cb\u003eAugust 17, 1999\u003c/b\u003e. Tetsushi Kurita. Senior \u003cbr\u003e  Researcher, \u003cb\u003eAsian\u003c/b\u003e Disaster Reduction Center. Overview of the \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tyYPVQxPE3cJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.adrc.asia/publications/recovery_reports/pdf/Marmara.pdf",
+   "htmlFormattedUrl": "www.adrc.\u003cb\u003easia\u003c/b\u003e/publications/recovery_reports/pdf/Marmara.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20050411143543+09'00'",
+      "creationdate": "D:20050411143359+09'00'",
+      "title": "Total Disaster Risk Management: Concept and Best Practices",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "producer": "Acrobat Distiller 6.0.1 (Windows)",
+      "author": "sanker",
+      "company": "ADRC",
+      "sourcemodified": "D:20050318083318"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKE AND TSUNAMI OF AUGUST 17, 1999 IN THE SEA ...",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e AND TSUNAMI OF \u003cb\u003eAUGUST 17, 1999\u003c/b\u003e IN THE SEA \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://drgeorgepc.com/Tsunami1999Turkey.html",
+   "displayLink": "drgeorgepc.com",
+   "snippet": "On August 17, 1999, a large destructive earthquake struck northwest Turkey ... is   a major fracture that transverses the Northern part of Asia Minor and marks the ...",
+   "htmlSnippet": "On \u003cb\u003eAugust 17, 1999\u003c/b\u003e, a large destructive \u003cb\u003eearthquake\u003c/b\u003e struck northwest Turkey \u003cb\u003e...\u003c/b\u003e is \u003cbr\u003e  a major fracture that transverses the Northern part of \u003cb\u003eAsia\u003c/b\u003e Minor and marks the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SxLNlEBL-vYJ",
+   "formattedUrl": "drgeorgepc.com/Tsunami1999Turkey.html",
+   "htmlFormattedUrl": "drgeorgepc.com/Tsunami\u003cb\u003e1999\u003c/b\u003eTurkey.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://drgeorgepc.com/tsu1999TurkeyDam1sm.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "203",
+      "height": "124",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXn4UT7I22Q3VkIaGaIs0Ln7xgNko4E8LhI50tEgx7kGFbbl75y2_mWA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geog.ucsb.edu/~dylan/mtpe/geosphere/wh/eq/eq1.html",
+   "displayLink": "www.geog.ucsb.edu",
+   "snippet": "On August 17th, 1999, a moment magnitude 7.4 earthquake shook the area of ...   Large earthquakes occur in this area for a reason; Anatolia (a portion of Asia ...",
+   "htmlSnippet": "On \u003cb\u003eAugust 17th, 1999\u003c/b\u003e, a moment magnitude 7.4 \u003cb\u003eearthquake\u003c/b\u003e shook the area of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Large \u003cb\u003eearthquakes\u003c/b\u003e occur in this area for a reason; Anatolia (a portion of \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ph-qHhlcXh8J",
+   "formattedUrl": "www.geog.ucsb.edu/~dylan/mtpe/geosphere/wh/eq/eq1.html",
+   "htmlFormattedUrl": "www.geog.ucsb.edu/~dylan/mtpe/geosphere/wh/eq/eq1.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.geog.ucsb.edu/~dylan/mtpe/geosphere/wh/eq/damage13.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNYfX6M7-BrnuUZ5c_S86y-x5qzMcwQmG9vDe1ovNpE2H6TTSvxxhS_Q98"
+     }
+    ],
+    "metatags": [
+     {
+      "publisher": "Museums Teaching Planet Earth",
+      "content-language": "en-us",
+      "copyright": "Museums Teaching Planet Earth",
+      "page-topic": "Geosphere and Biosphere from Earth Update",
+      "author": "Dylan Prentiss",
+      "audience": "All",
+      "creationdate": "08 May 2001 00:00:00 GMT",
+      "documenttype": "WebDocument"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "4 days ago ... As a member of the Apollo 17 party, he was able to conduct field surveys on the   moon. ... Movie about Asian tsunami shuns 'disaster' label .... The epicenter of the   November 12, 1999 earthquake was at 40.8 N , 31.6 E (Strasburg ... and   approximately 45 miles east of the region hit by the August earthquake.",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e As a member of the Apollo \u003cb\u003e17\u003c/b\u003e party, he was able to conduct field surveys on the \u003cbr\u003e  moon. \u003cb\u003e...\u003c/b\u003e Movie about \u003cb\u003eAsian\u003c/b\u003e tsunami shuns &#39;disaster&#39; label \u003cb\u003e....\u003c/b\u003e The epicenter of the \u003cbr\u003e  November 12, \u003cb\u003e1999 earthquake\u003c/b\u003e was at 40.8 N , 31.6 E (Strasburg \u003cb\u003e...\u003c/b\u003e and \u003cbr\u003e  approximately 45 miles east of the region hit by the \u003cb\u003eAugust earthquake\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Contributors",
+   "htmlTitle": "Contributors",
+   "link": "http://profile.usgs.gov/myscience/upload_folder/ci2010Jul011724424296629%20USGS%20Risk%20Reduction%20USGSC%20200.pdf",
+   "displayLink": "profile.usgs.gov",
+   "snippet": "August 17 Kocaeli earthquake. Photograph by ... the Kocaeli province of   northwestern Turkey on Tuesday, August 17, 1999, at. 3:02 a.m. ..... asian plate (  fig. 5).",
+   "htmlSnippet": "August 17 Kocaeli \u003cb\u003eearthquake\u003c/b\u003e. Photograph by \u003cb\u003e...\u003c/b\u003e the Kocaeli province of \u003cbr\u003e  northwestern Turkey on \u003cb\u003eTuesday, August 17, 1999\u003c/b\u003e, at. 3:02 a.m. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003easian\u003c/b\u003e plate (\u003cbr\u003e  fig. 5).",
+   "cacheId": "_QeXKxsH8hcJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "profile.usgs.gov/.../ ci2010Jul011724424296629%20USGS%20Risk%20Reduction%20USGSC...",
+   "htmlFormattedUrl": "profile.usgs.gov/.../ ci2010Jul011724424296629%20USGS%20Risk%20Reduction%20USGSC...",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20000124083643",
+      "producer": "Acrobat Distiller 4.0 for Macintosh",
+      "moddate": "D:20000125070500-07'00'",
+      "title": "USGS Circular 1193",
+      "subject": "Kocaeli, Turkey Earthquake of August 17, 1999",
+      "author": "Tom Holzer"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CNN - At least 100 feared dead in powerful Turkey quake - August ...",
+   "htmlTitle": "CNN - At least 100 feared dead in powerful Turkey \u003cb\u003equake\u003c/b\u003e - \u003cb\u003eAugust\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://edition.cnn.com/WORLD/europe/9908/17/turkey.quake.01/",
+   "displayLink": "edition.cnn.com",
+   "snippet": "Aug 17, 1999 ... At least 100 feared dead in powerful Turkey quake ... August 17, 1999 ...   ISTANBUL, Turkey -- A powerful earthquake leveled buildings and cut power to ...   There was no electricity in his area of the city, on the Asian side of the ...",
+   "htmlSnippet": "Aug 17, 1999 \u003cb\u003e...\u003c/b\u003e At least 100 feared dead in powerful Turkey \u003cb\u003equake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust 17, 1999\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  ISTANBUL, Turkey -- A powerful \u003cb\u003eearthquake\u003c/b\u003e leveled buildings and cut power to \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  There was no electricity in his area of the city, on the \u003cb\u003eAsian\u003c/b\u003e side of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Tdp29F7rZCYJ",
+   "formattedUrl": "edition.cnn.com/WORLD/europe/9908/17/turkey.quake.01/",
+   "htmlFormattedUrl": "edition.cnn.com/WORLD/europe/9908/\u003cb\u003e17\u003c/b\u003e/turkey.\u003cb\u003equake\u003c/b\u003e.01/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://edition.cnn.com/WORLD/europe/9908/17/turkey.quake.01/story.rescue.ntv.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "134",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNysXmsBm2TDb2iku0CchGGwyx-PDW6EpAYrzql21uaebsp2tnApiqzqpB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKE - ANKARA , TURKEY - AUGUST 17, 1999",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e - ANKARA , TURKEY - \u003cb\u003eAUGUST 17, 1999\u003c/b\u003e",
+   "link": "http://www.greatdreams.com/turkey.htm",
+   "displayLink": "www.greatdreams.com",
+   "snippet": "EARTHQUAKE ANKARA, TURKEY AUGUST 17, 1999. AUGUST 31, 1999. Use   Hot link to jump down to this date quake. Early news turned out to be extremely ...",
+   "htmlSnippet": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e ANKARA, TURKEY \u003cb\u003eAUGUST 17, 1999\u003c/b\u003e. AUGUST 31, 1999. Use \u003cbr\u003e  Hot link to jump down to this date \u003cb\u003equake\u003c/b\u003e. Early news turned out to be extremely \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0g2kZsfeKQoJ",
+   "formattedUrl": "www.greatdreams.com/turkey.htm",
+   "htmlFormattedUrl": "www.greatdreams.com/turkey.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Structural engineering reconnaissance of the August 17, 1999 ...",
+   "htmlTitle": "Structural engineering reconnaissance of the \u003cb\u003eAugust 17, 1999\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.preventionweb.net/english/professional/publications/v.php?id=2589",
+   "displayLink": "www.preventionweb.net",
+   "snippet": "In late August and early September 1999, a team of structural engineers ... and   lifeline infrastructure affected by the August 17, 1999, Izmit earthquake. ...   Themes:Risk Identification & Assessment; Hazards:Earthquake; Countries/  Regions:Asia, ...",
+   "htmlSnippet": "In late August and early September 1999, a team of structural engineers \u003cb\u003e...\u003c/b\u003e and \u003cbr\u003e  lifeline infrastructure affected by the \u003cb\u003eAugust 17\u003c/b\u003e, \u003cb\u003e1999\u003c/b\u003e, Izmit \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Themes:Risk Identification &amp; Assessment; Hazards:\u003cb\u003eEarthquake\u003c/b\u003e; Countries/\u003cbr\u003e  Regions:\u003cb\u003eAsia\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "48lva2wa6V8J",
+   "formattedUrl": "www.preventionweb.net/english/professional/publications/v.php?id...",
+   "htmlFormattedUrl": "www.preventionweb.net/english/professional/publications/v.php?id...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.preventionweb.net/files/2589_thumb.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "97",
+      "height": "125",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQio9mDFjvvbGiL2xe5vF-D3yRJqzchsUMYAccnLwdHsQu8jUohheBI-Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The August 17, 1999, Kocaeli (Turkey) earthquake ??? lifelines and ...",
+   "htmlTitle": "The \u003cb\u003eAugust 17, 1999\u003c/b\u003e, Kocaeli (Turkey) \u003cb\u003eearthquake\u003c/b\u003e ??? lifelines and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.acgp.uottawa.ca/Publications/Lessonf%20grom%20previous%20EQs/PDF%20Files/Kocaeli2.pdf",
+   "displayLink": "www.acgp.uottawa.ca",
+   "snippet": "The August 17, 1999, Kocaeli (Turkey) earthquake ??? lifelines and preparedness.   Antony G. Gillies, Donald L. Anderson, Denis Mitchell, Rene Tinawi, ...",
+   "htmlSnippet": "The \u003cb\u003eAugust 17, 1999\u003c/b\u003e, Kocaeli (Turkey) \u003cb\u003eearthquake\u003c/b\u003e ??? lifelines and preparedness. \u003cbr\u003e  Antony G. Gillies, Donald L. Anderson, Denis Mitchell, Rene Tinawi, \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.acgp.uottawa.ca/Publications/.../PDF%20Files/Kocaeli2.pdf",
+   "htmlFormattedUrl": "www.acgp.uottawa.ca/Publications/.../PDF%20Files/Kocaeli2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20011017133557",
+      "producer": "Acrobat Distiller 3.02",
+      "creator": "AdobePS5.dll Version 5.2",
+      "title": "L01-055.vp",
+      "moddate": "D:20011017134408-04'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Survey report on the reconstruction following the earthquake in ...",
+   "htmlTitle": "Survey report on the reconstruction following the \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.preventionweb.net/english/professional/publications/v.php?id=2955",
+   "displayLink": "www.preventionweb.net",
+   "snippet": "Survey report on the reconstruction following the earthquake in Marmara, Turkey   on August 17, 1999. Source(s): Asian Disaster Reduction Centre (ADRC) ...",
+   "htmlSnippet": "Survey report on the reconstruction following the \u003cb\u003eearthquake\u003c/b\u003e in Marmara, Turkey \u003cbr\u003e  on \u003cb\u003eAugust 17, 1999\u003c/b\u003e. Source(s): \u003cb\u003eAsian\u003c/b\u003e Disaster Reduction Centre (ADRC) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CB_O9lmriQQJ",
+   "formattedUrl": "www.preventionweb.net/english/professional/publications/v.php?id...",
+   "htmlFormattedUrl": "www.preventionweb.net/english/professional/publications/v.php?id...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.preventionweb.net/files/2955_thumb.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "97",
+      "height": "125",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwDrWYFVyNMVSrdIquIn1limWGv1jrPlLaJglXtHXFikId3LrpHPe6Zg"
+     }
+    ]
+   }
+  }
+ ]
+}

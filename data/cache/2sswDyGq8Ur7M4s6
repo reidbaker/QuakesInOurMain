@@ -1,0 +1,303 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 28 1988 North America Earthquake",
+    "totalResults": "467000",
+    "searchTerms": "Jan 28 1988 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 28 1988 North America Earthquake",
+    "totalResults": "467000",
+    "searchTerms": "Jan 28 1988 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.246447,
+  "formattedSearchTime": "0.25",
+  "totalResults": "467000",
+  "formattedTotalResults": "467,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "4 days ago ... Did you know this earthquake happened on the same day in history ? Iran, 1988 -   Magnitude : 5.7. Seven people injured and damage to more ...",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e Did you know this \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in history ? Iran, \u003cb\u003e1988\u003c/b\u003e - \u003cbr\u003e  Magnitude : 5.7. Seven people injured and damage to more \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Significant Earthquakes of the World, 1988",
+   "htmlTitle": "Significant \u003cb\u003eEarthquakes\u003c/b\u003e of the World, \u003cb\u003e1988\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/significant/sig_1988.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jan 5, 2010 ... JAN 19 07 30 31.8 24.710 S 70.568 W 33 N 6.3 6.7 1.3 296 NEAR .... JUL 25 06   46 06.6 6.081 S 133.667 E 28 G 6.5 6.7 1.0 419 AROE ISLANDS REGION. ....   OTHER NOTABLE NORTH AMERICAN EARTHQUAKES - 1988 ...",
+   "htmlSnippet": "Jan 5, 2010 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJAN\u003c/b\u003e 19 07 30 31.8 24.710 S 70.568 W 33 N 6.3 6.7 1.3 296 NEAR \u003cb\u003e....\u003c/b\u003e JUL 25 06 \u003cbr\u003e  46 06.6 6.081 S 133.667 E \u003cb\u003e28\u003c/b\u003e G 6.5 6.7 1.0 419 AROE ISLANDS REGION. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  OTHER NOTABLE \u003cb\u003eNORTH AMERICAN EARTHQUAKES\u003c/b\u003e - \u003cb\u003e1988\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6ZwwguvR_QIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/.../sig_1988.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/.../sig_\u003cb\u003e1988\u003c/b\u003e.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive July ??? August 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive July ??? August 2012",
+   "link": "http://earthquake-report.com/2012/09/27/worldwide-earthquake-related-news-archive-july-august-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Sep 27, 2012 ... August 28, 2012. Did you know this earthquake happened on the same day in   history ? Mexico, 1973 ??? Magnitude : 7.2. More than 600 ...",
+   "htmlSnippet": "Sep 27, 2012 \u003cb\u003e...\u003c/b\u003e August \u003cb\u003e28\u003c/b\u003e, 2012. Did you know this \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in \u003cbr\u003e  history ? Mexico, 1973 ??? Magnitude : 7.2. More than 600 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HaxPeAcZA3EJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive-july- august-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive-july- august-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/07/Screen-Shot-2012-08-25-at-09.58.29.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "309",
+      "height": "163",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzypNNy5tko_c6aX69Wn810jyC7Y09K0GD8f5NfAM7xdjFanrHoJnPCxE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1988",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... Earthquake Hazards Program ... 5.9, NEAR NORTH COAST OF NEW GUINEA,   P.N.G., Dec 30 1988, 00:27:51 .... 5.2, NEAR THE COAST OF LIBYA, Jan 28   1988, 15:48:11, 32.266, 21.059 ... Accessibility ?? FOIA ?? Privacy ?? Policies and   Notices ?? In partnership with nehrp ?? Take Pride in America; USA.gov ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program \u003cb\u003e...\u003c/b\u003e 5.9, NEAR \u003cb\u003eNORTH\u003c/b\u003e COAST OF NEW GUINEA, \u003cbr\u003e  P.N.G., Dec 30 1988, 00:27:51 \u003cb\u003e....\u003c/b\u003e 5.2, NEAR THE COAST OF LIBYA, \u003cb\u003eJan 28\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1988\u003c/b\u003e, 15:48:11, 32.266, 21.059 \u003cb\u003e...\u003c/b\u003e Accessibility &middot; FOIA &middot; Privacy &middot; Policies and \u003cbr\u003e  Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aM-o3itKSogJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1988",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1988\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive September 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The American Red Cross today released its official Earthquake App, putting ....   The North American and Eurasian plates are spreading apart along the .... A pre-  event quake of magnitude 5.2 occurred on 28 May 1985. ..... Worldwide   EARTHQUAKE related news ??? To remember : Iran 1988, Magnitude 5.7 ...",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The American Red Cross today released its official \u003cb\u003eEarthquake\u003c/b\u003e App, putting \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The \u003cb\u003eNorth American\u003c/b\u003e and Eurasian plates are spreading apart along the \u003cb\u003e....\u003c/b\u003e A pre-\u003cbr\u003e  event \u003cb\u003equake\u003c/b\u003e of magnitude 5.2 occurred on \u003cb\u003e28\u003c/b\u003e May 1985. \u003cb\u003e.....\u003c/b\u003e Worldwide \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Iran \u003cb\u003e1988\u003c/b\u003e, Magnitude 5.7 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- september-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Canada - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Canada - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Canada",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 26, 1700, 21:00 (local time) ... see 1929 Grand Banks earthquake, 44.5, -  56.30, 28, 7.2, Mw Triggered a major ... see 1988 Saguenay earthquake, 48.12, -  71.18, 5.9, Mw ... see 1989 Ungava earthquake, 60.12, -73.60, 6.3, Ms This was   the first earthquake in eastern North America confirmed to have produced ...",
+   "htmlSnippet": "\u003cb\u003eJanuary\u003c/b\u003e 26, 1700, 21:00 (local time) \u003cb\u003e...\u003c/b\u003e see 1929 Grand Banks \u003cb\u003eearthquake\u003c/b\u003e, 44.5, -\u003cbr\u003e  56.30, \u003cb\u003e28\u003c/b\u003e, 7.2, Mw Triggered a major \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1988\u003c/b\u003e Saguenay \u003cb\u003eearthquake\u003c/b\u003e, 48.12, -\u003cbr\u003e  71.18, 5.9, Mw \u003cb\u003e...\u003c/b\u003e see 1989 Ungava \u003cb\u003eearthquake\u003c/b\u003e, 60.12, -73.60, 6.3, Ms This was \u003cbr\u003e  the first \u003cb\u003eearthquake\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e confirmed to have produced \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0gxr8h4LpdYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Canada",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Canada"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timpson, Texas earthquake updated to M4.8 (from M4.3) + I Felt It ...",
+   "htmlTitle": "Timpson, Texas \u003cb\u003eearthquake\u003c/b\u003e updated to M4.8 (from M4.3) + I Felt It \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/17/second-earthquake-in-7-days-near-timpson-texas-usa/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 19, 2012 ... USGS has updated the Magnitude of the earthquake from Mw4.3 to Mw4.8. ...   Update 09:28 UTC : On May 10, we had a surprisingly ???more than ..... Most of   North America east of the Rocky Mountains has infrequent earthquakes. ....   Worldwide EARTHQUAKE related news ??? To remember : Iran 1988, ...",
+   "htmlSnippet": "May 19, 2012 \u003cb\u003e...\u003c/b\u003e USGS has updated the Magnitude of the \u003cb\u003eearthquake\u003c/b\u003e from Mw4.3 to Mw4.8. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Update 09:\u003cb\u003e28\u003c/b\u003e UTC : On May 10, we had a surprisingly ???more than \u003cb\u003e.....\u003c/b\u003e Most of \u003cbr\u003e  \u003cb\u003eNorth America\u003c/b\u003e east of the Rocky Mountains has infrequent \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Iran \u003cb\u003e1988\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-kAlRDZm7XIJ",
+   "formattedUrl": "earthquake-report.com/.../second-earthquake-in-7-days-near-timpson-texas- usa/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../second-\u003cb\u003eearthquake\u003c/b\u003e-in-7-days-near-timpson-texas- usa/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/tx-17052012-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "257",
+      "height": "196",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSpQxUoGlJFtWZV1Tyy_LCOn_KPmnfA69sFusbEEInH8X08hE9qA2gClU"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "John",
+      "nickname": "John"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Tom",
+      "nickname": "Tom"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PROGRESS REPORT, JANUARY 28, 2000",
+   "htmlTitle": "PROGRESS REPORT, \u003cb\u003eJANUARY 28\u003c/b\u003e, 2000",
+   "link": "http://earthquake.usgs.gov/hazards/products/conterminous/2002/99HQGR0098.pdf",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "distribution of slip on the fault for three earthquakes in eastern North America: the   1983 Miramichi, 1988. Saguenay and 1989 Ungava earthquakes. The slip ...",
+   "htmlSnippet": "distribution of slip on the fault for three \u003cb\u003eearthquakes\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e: the \u003cbr\u003e  1983 Miramichi, \u003cb\u003e1988\u003c/b\u003e. Saguenay and 1989 Ungava \u003cb\u003eearthquakes\u003c/b\u003e. The slip \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4MSfu0G4REoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake.usgs.gov/hazards/products/conterminous/.../99HQGR0098.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/hazards/products/conterminous/.../99HQGR0098.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "Microsoft Word 8.0",
+      "moddate": "D:20020917122411-07'00'",
+      "author": "Paul Somerville",
+      "title": "PROGRESS REPORT, JANUARY 28, 2000",
+      "creationdate": "D:20020304171306"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1700 Cascadia earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1700 Cascadia \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1700_Cascadia_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The evidence suggests that it took place at about 21:00 on January 26, 1700 (NS  ) ... Local Indigenous American oral traditions describing a large quake also ...   The rate of convergence between the Juan de Fuca Plate and the North   American Plate ... Queen Charlotte Islands ?? 1985 Nahanni ?? 1988 Saguenay ??   1989 Ungava ...",
+   "htmlSnippet": "The evidence suggests that it took place at about 21:00 on \u003cb\u003eJanuary\u003c/b\u003e 26, 1700 (NS\u003cbr\u003e  ) \u003cb\u003e...\u003c/b\u003e Local Indigenous American oral traditions describing a large \u003cb\u003equake\u003c/b\u003e also \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The rate of convergence between the Juan de Fuca Plate and the \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerican\u003c/b\u003e Plate \u003cb\u003e...\u003c/b\u003e Queen Charlotte Islands &middot; 1985 Nahanni &middot; \u003cb\u003e1988\u003c/b\u003e Saguenay &middot; \u003cbr\u003e  1989 Ungava \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IU5iewDXLTMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1700_Cascadia_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1700_Cascadia_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cascadia_subduction_zone_USGS.png/250px-Cascadia_subduction_zone_USGS.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "188",
+      "height": "268",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJiRiTekwSSYVn0vntl9PsDqUm0GP11N44r4zDPepCcGqqUJt-ArlNovsf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The earthquake threat in British Columbia",
+   "htmlTitle": "The \u003cb\u003eearthquake\u003c/b\u003e threat in British Columbia",
+   "link": "http://www.cbc.ca/archives/categories/environment/natural-disasters/canadas-earthquakes-and-tsunamis/the-threat-to-british-columbia.html",
+   "displayLink": "www.cbc.ca",
+   "snippet": "Oct 19, 2012 ... This clip from a 1988 CBC Television documentary investigates the likelihood of   a such a megaquake in the country's earthquake hotspot.",
+   "htmlSnippet": "Oct 19, 2012 \u003cb\u003e...\u003c/b\u003e This clip from a \u003cb\u003e1988\u003c/b\u003e CBC Television documentary investigates the likelihood of \u003cbr\u003e  a such a megaquake in the country&#39;s \u003cb\u003eearthquake\u003c/b\u003e hotspot.",
+   "cacheId": "rTSNIWgi_UsJ",
+   "formattedUrl": "www.cbc.ca/...earthquakes.../the-threat-to-british-columbia.html",
+   "htmlFormattedUrl": "www.cbc.ca/...\u003cb\u003eearthquakes\u003c/b\u003e.../the-threat-to-british-columbia.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cbc.ca/archives/assets_c/2012/01/earthquakes_10_br_en-thumb-120x90-153919.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqn8ZPvQOZ8lwJ1A6wlPQxqYKwj0IuMOipiUy1avZHetptDXcU_Dg8kg"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "www.cbc.ca",
+      "msapplication-tooltip": "CBC.ca is Canada's Online Information Source.",
+      "msapplication-starturl": "/?cmp=pinned-ie9",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=CBC;action-uri=http://www.cbc.ca/?cmp=pinned-ie9;icon-uri=/favicon.ico",
+      "date": "2012/10/19",
+      "og:image": "http://www.cbc.ca/archives/assets_c/2012/01/earthquakes_10_br_en-thumb-120x90-153919.jpg",
+      "og:title": "The earthquake threat in British Columbia",
+      "og:url": "http://www.cbc.ca/archives/categories/environment/natural-disasters/canadas-earthquakes-and-tsunamis/the-threat-to-british-columbia.html",
+      "og:type": "cause",
+      "og:description": "What causes earthquakes? And should people on the West Coast be worried?",
+      "fb:admins": "cbc",
+      "og:site_name": "CBC Digital Archives"
+     }
+    ]
+   }
+  }
+ ]
+}

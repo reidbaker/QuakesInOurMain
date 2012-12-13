@@ -1,0 +1,309 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 26 1988 South America Earthquake",
+    "totalResults": "470000",
+    "searchTerms": "Jun 26 1988 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 26 1988 South America Earthquake",
+    "totalResults": "470000",
+    "searchTerms": "Jun 26 1988 South America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.205004,
+  "formattedSearchTime": "0.21",
+  "totalResults": "470000",
+  "formattedTotalResults": "470,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 26 1988 South America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 26 1988 South America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : \u003cb\u003eSouth\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "4 days ago ... Archive 2012 : Jan/Febr March April/June July/August ... The earthquake was   centered in the gold mining area of Welkom about 300 .... November 26 2012 ...   The Pacific Plate is moving northwest with respect to the North American Plate at   approximately 56 ... Quebec (Canada), 1988 - Magnitude : 5.9 ...",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e Archive 2012 : Jan/Febr March April/\u003cb\u003eJune\u003c/b\u003e July/August \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  centered in the gold mining area of Welkom about 300 \u003cb\u003e....\u003c/b\u003e November \u003cb\u003e26\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The Pacific Plate is moving northwest with respect to the North \u003cb\u003eAmerican\u003c/b\u003e Plate at \u003cbr\u003e  approximately 56 \u003cb\u003e...\u003c/b\u003e Quebec (Canada), \u003cb\u003e1988\u003c/b\u003e - Magnitude : 5.9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1888 R??o de la Plata earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1888 R??o de la Plata \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1888_R%C3%ADo_de_la_Plata_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1888 R??o de la Plata earthquake occurred on June 5, 1888, measuring 5.5   on ... as evidenced by the 26th June 1988 and 10 January 1990 earthquakes, the   ... Regional Centre for South America) Earthquakes in the easternmost edge of ...",
+   "htmlSnippet": "The 1888 R??o de la Plata \u003cb\u003eearthquake\u003c/b\u003e occurred on June 5, 1888, measuring 5.5 \u003cbr\u003e  on \u003cb\u003e...\u003c/b\u003e as evidenced by the \u003cb\u003e26th June 1988\u003c/b\u003e and 10 January 1990 \u003cb\u003eearthquakes\u003c/b\u003e, the \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Regional Centre for \u003cb\u003eSouth America\u003c/b\u003e) \u003cb\u003eEarthquakes\u003c/b\u003e in the easternmost edge of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mdqcSC67oIEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1888_R??o_de_la_Plata_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1888_R??o_de_la_Plata_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Uruguay_location_map.svg/240px-Uruguay_location_map.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "202",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMgrxztNxR0WehjGEP41bbo-8z-xMm5us3vhLey5mGzjackImJplnmpQc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Precise relocations and stress change calculations for the Upland ...",
+   "htmlTitle": "Precise relocations and stress change calculations for the Upland \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://mahi.ucsd.edu/shearer/PDF/64JGR00a.pdf",
+   "displayLink": "mahi.ucsd.edu",
+   "snippet": "initial month of aftershocks of the 1988 Upland earthquake, which delineate a ...   Copyright 2000 by the American Geophysical Union. ... tains west of the   Cucamonga fault indicate north-south ... On June 26, 1988, at 1504 UT, a ML :   4.7 earth- ...",
+   "htmlSnippet": "initial month of aftershocks of the 1988 Upland \u003cb\u003eearthquake\u003c/b\u003e, which delineate a \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Copyright 2000 by the \u003cb\u003eAmerican\u003c/b\u003e Geophysical Union. \u003cb\u003e...\u003c/b\u003e tains west of the \u003cbr\u003e  Cucamonga fault indicate north-\u003cb\u003esouth\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eJune 26, 1988\u003c/b\u003e, at 1504 UT, a ML : \u003cbr\u003e  4.7 earth- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5wa6P-NWCIkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "mahi.ucsd.edu/shearer/PDF/64JGR00a.pdf",
+   "htmlFormattedUrl": "mahi.ucsd.edu/shearer/PDF/64JGR00a.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Wed Feb 16 17:36:26 2000",
+      "producer": "Acrobat PDFWriter 4.0 for Windows NT",
+      "author": "admin",
+      "creationdate": "Wed Feb 16 17:35:50 2000",
+      "creator": "Acrobat Capture Server 2.01"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Significant L.A. Area Earthquakes: 1769-Present ?? Quake City",
+   "htmlTitle": "Significant L.A. Area \u003cb\u003eEarthquakes\u003c/b\u003e: 1769-Present ?? Quake City",
+   "link": "http://foreshock.wordpress.com/significant-la-area-earthquakes-1769-present/",
+   "displayLink": "foreshock.wordpress.com",
+   "snippet": "July 22, 1923 @ 11:28pm-Estimated 6.3M quake located 7 miles south of San ....   The Bank of America building on W. Seventh St. had a three-story long crack, ....   June 26, 1988 @ 8:05 am-A 4.7M quake located 2 miles northwest of Upland ...",
+   "htmlSnippet": "July 22, 1923 @ 11:28pm-Estimated 6.3M quake located 7 miles \u003cb\u003esouth\u003c/b\u003e of San \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The Bank of \u003cb\u003eAmerica\u003c/b\u003e building on W. Seventh St. had a three-story long crack, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eJune 26, 1988\u003c/b\u003e @ 8:05 am-A 4.7M quake located 2 miles northwest of Upland \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_LPH2VGPcVYJ",
+   "formattedUrl": "foreshock.wordpress.com/significant-la-area-earthquakes-1769-present/",
+   "htmlFormattedUrl": "foreshock.wordpress.com/significant-la-area-\u003cb\u003eearthquakes\u003c/b\u003e-1769-present/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "Significant L.A. Area Earthquakes:??1769-Present",
+      "og:url": "http://foreshock.wordpress.com/significant-la-area-earthquakes-1769-present/",
+      "og:description": "July 28, 1769 @ 4pm-Felt by members of the Portola Expedition in the Los Angeles basin-specifically the Santa Ana River area about 50km SE of Los Angeles-as noted in the diary of??Father Juan Crespi...",
+      "og:site_name": "Quake City",
+      "twitter:site": "@wordpressdotcom",
+      "twitter:card": "summary",
+      "fb:app_id": "249643311490",
+      "application-name": "Quake City",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "Life's Journey-Sponsored by www.stores.ebay.com/Holiday-Bros-Art-and-Gift-Gallery",
+      "msapplication-task": "name=Subscribe;action-uri=http://foreshock.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico",
+      "title": "Significant L.A. Area Earthquakes:??1769-Present | Quake City on WordPress.com"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Hans Laetz"
+     },
+     {
+      "fn": "Billy",
+      "nickname": "Billy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History in Illinois",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History in Illinois",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/illinois/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Among the largest earthquakes occurring in Illinois was the May 26, 1909, shock   ... [Abridged from Earthquake Information Bulletin, Volume 4, Number 3, May-  June 1972.] ... The earthquake was felt at the south end of Lake Michigan and at   Fort .... In partnership with nehrp ?? Take Pride in America ?? USA.gov ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Among the largest \u003cb\u003eearthquakes\u003c/b\u003e occurring in Illinois was the May \u003cb\u003e26\u003c/b\u003e, 1909, shock \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e [Abridged from \u003cb\u003eEarthquake\u003c/b\u003e Information Bulletin, Volume 4, Number 3, May-\u003cbr\u003e  \u003cb\u003eJune\u003c/b\u003e 1972.] \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was felt at the \u003cb\u003esouth\u003c/b\u003e end of Lake Michigan and at \u003cbr\u003e  Fort \u003cb\u003e....\u003c/b\u003e In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e &middot; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Sa-stx80lVkJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/illinois/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/illinois/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A slow seismic event recorded in Pasadena",
+   "htmlTitle": "A slow \u003cb\u003eseismic\u003c/b\u003e event recorded in Pasadena",
+   "link": "http://mh-gps-p1.caltech.edu/uploads/File/People/kanamori/HKgrl89.pdf",
+   "displayLink": "mh-gps-p1.caltech.edu",
+   "snippet": "system in Pasadena on June 18, 1988. This wave was not ... associated with the   larger earthquakes which occurred in southern ... While examining the record of   the June 18, 1988, Gulf of .... 1988, and the Upland earthquake, M]_=4.5, on June   26, 1988, ... D.W. Simpson and P. G. Richards, American Geophysical. Union, pp ...",
+   "htmlSnippet": "system in Pasadena on June 18, 1988. This wave was not \u003cb\u003e...\u003c/b\u003e associated with the \u003cbr\u003e  larger \u003cb\u003eearthquakes\u003c/b\u003e which occurred in southern \u003cb\u003e...\u003c/b\u003e While examining the record of \u003cbr\u003e  the June 18, 1988, Gulf of \u003cb\u003e....\u003c/b\u003e 1988, and the Upland \u003cb\u003eearthquake\u003c/b\u003e, M]_=4.5, on \u003cb\u003eJune\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e26, 1988\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e D.W. Simpson and P. G. Richards, \u003cb\u003eAmerican\u003c/b\u003e Geophysical. Union, pp \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "v8xt1GH5l20J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "mh-gps-p1.caltech.edu/uploads/File/People/kanamori/HKgrl89.pdf",
+   "htmlFormattedUrl": "mh-gps-p1.caltech.edu/uploads/File/People/kanamori/HKgrl89.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "sspdflib 1.0 http://www.scansoft.com",
+      "creator": "PaperPort http://www.scansoft.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Alaska, 1898 Jun 29 18:36, 52.0N, 172.0E, 7.6, Near Islands. 1899 Jul 14 13:32   ... 1916 Feb 06 21:51:19, 48.5N, 178.5E, 7.7, South of Rat Islands. 1916 Apr 18 ...   1923 May 04 16:26:39.3, 55.55N, 156.75W, 7.1, Alaska Peninsula. 1926 Oct 13   ... 1988 Mar 06 22:35:38.1, 56.95N, 143.03W, 7.8, Gulf of Alaska. 1989 Sep 04 ...",
+   "htmlSnippet": "Alaska, 1898 \u003cb\u003eJun\u003c/b\u003e 29 18:36, 52.0N, 172.0E, 7.6, Near Islands. 1899 Jul 14 13:32 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 1916 Feb 06 21:51:19, 48.5N, 178.5E, 7.7, \u003cb\u003eSouth\u003c/b\u003e of Rat Islands. 1916 Apr 18 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1923 May 04 16:\u003cb\u003e26\u003c/b\u003e:39.3, 55.55N, 156.75W, 7.1, Alaska Peninsula. 1926 Oct 13 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1988\u003c/b\u003e Mar 06 22:35:38.1, 56.95N, 143.03W, 7.8, Gulf of Alaska. 1989 Sep 04 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Volcanic Eruptions ??? Infoplease.com",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions ??? Infoplease.com",
+   "link": "http://www.infoplease.com/ipa/A0001439.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "1877: June 26, north-central Ecuador: eruption of Mt. Cotopaxi caused severe ....   14, South America: Earthquake with 7.7 magnitude kills at least two people and ...",
+   "htmlSnippet": "1877: \u003cb\u003eJune 26\u003c/b\u003e, north-central Ecuador: eruption of Mt. Cotopaxi caused severe \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  14, \u003cb\u003eSouth America\u003c/b\u003e: \u003cb\u003eEarthquake\u003c/b\u003e with 7.7 magnitude kills at least two people and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eiPTxuWU3LMJ",
+   "formattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "htmlFormattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "chunk": "ART",
+      "idx": "Disasters",
+      "isub": "earthquake in (1755)",
+      "title": "Earthquakes and Volcanic Eruptions",
+      "waif": "Earthquakes",
+      "uniqid": "A0001439",
+      "parent": "A0001437",
+      "subchannel": "world",
+      "channel": "world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Huge earthquake hits Chile ??? History.com This Day in History ??? 5 ...",
+   "htmlTitle": "Huge \u003cb\u003eearthquake\u003c/b\u003e hits Chile ??? History.com This Day in History ??? 5 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/huge-earthquake-hits-chile",
+   "displayLink": "www.history.com",
+   "snippet": "Lead Story: American Red Cross founded, 1881; American Revolution ...   consolidates power, 1988; Crime: Leopold and Loeb gain national attention,   1924: Long ... There, the Nazca oceanic plate plunged 50 feet down under the   South American plate. ... At 4:20 p.m., a 26-foot wave hit the shore, taking most   structures and ...",
+   "htmlSnippet": "Lead Story: American Red Cross founded, 1881; American Revolution \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  consolidates power, \u003cb\u003e1988\u003c/b\u003e; Crime: Leopold and Loeb gain national attention, \u003cbr\u003e  1924: Long \u003cb\u003e...\u003c/b\u003e There, the Nazca oceanic plate plunged 50 feet down under the \u003cbr\u003e  \u003cb\u003eSouth American\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e At 4:20 p.m., a \u003cb\u003e26\u003c/b\u003e-foot wave hit the shore, taking most \u003cbr\u003e  structures and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mD_wj6WWiZEJ",
+   "formattedUrl": "www.history.com/this-day-in-history/huge-earthquake-hits-chile",
+   "htmlFormattedUrl": "www.history.com/this-day-in-history/huge-\u003cb\u003eearthquake\u003c/b\u003e-hits-chile",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "/imgs/template/tdih.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Huge earthquake hits Chile ??? History.com This Day in History ??? 5/21/1960",
+      "asset_type_id": "6",
+      "network": "History",
+      "display_description": "On this day in 1960, the first tremor of a series hits Valdivia, Chile.  By the time they end, the quakes and their aftereffects kill 5,000 people and leave another 2 million homeless.",
+      "asset_id": "1094925",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Huge earthquake hits Chile ??? History.com This Day in History ??? 5/21/1960",
+      "og:description": "On this day in 1960, the first tremor of a series hits Valdivia, Chile.  By the time they end, the quakes and their aftereffects kill 5,000 people and leave another 2 million homeless.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/huge-earthquake-hits-chile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "APPENDIX E",
+   "htmlTitle": "APPENDIX E",
+   "link": "http://www.cityofsandimas.com/download.cfm?ID=31864",
+   "displayLink": "www.cityofsandimas.com",
+   "snippet": "South-facing slopes and ridge tops tended to be less ..... source of a ML 4.7   earthquake on June 26, 1988 and a larger ML 5.4 earthquake on February 28,   1990 ...",
+   "htmlSnippet": "\u003cb\u003eSouth\u003c/b\u003e-facing slopes and ridge tops tended to be less \u003cb\u003e.....\u003c/b\u003e source of a ML 4.7 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e on \u003cb\u003eJune 26, 1988\u003c/b\u003e and a larger ML 5.4 \u003cb\u003eearthquake\u003c/b\u003e on February 28, \u003cbr\u003e  1990 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XK0wtJfq6aQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.cityofsandimas.com/download.cfm?ID=31864",
+   "htmlFormattedUrl": "www.cityofsandimas.com/download.cfm?ID=31864",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100713124644-08'00'",
+      "creator": "Xerox ColorQube 9203",
+      "producer": "Xerox ColorQube 9203",
+      "moddate": "D:20100916140213-07'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

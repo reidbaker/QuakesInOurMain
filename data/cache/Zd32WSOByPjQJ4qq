@@ -1,0 +1,320 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 13 1987 North America Earthquake",
+    "totalResults": "433000",
+    "searchTerms": "Dec 13 1987 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 13 1987 North America Earthquake",
+    "totalResults": "433000",
+    "searchTerms": "Dec 13 1987 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.233079,
+  "formattedSearchTime": "0.23",
+  "totalResults": "433000",
+  "formattedTotalResults": "433,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 8, 2012 at 8:10 am by By Armand Vervaeck and James ...   Alaska, 1987 - Magnitude : 7.8 ... The Pacific Plate is moving northwest with   respect to the North American Plate at approximately 56 .... November 13 2012 ...",
+   "htmlSnippet": "Last update: \u003cb\u003eDecember\u003c/b\u003e 8, 2012 at 8:10 am by By Armand Vervaeck and James \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Alaska, \u003cb\u003e1987\u003c/b\u003e - Magnitude : 7.8 \u003cb\u003e...\u003c/b\u003e The Pacific Plate is moving northwest with \u003cbr\u003e  respect to the \u003cb\u003eNorth American\u003c/b\u003e Plate at approximately 56 \u003cb\u003e....\u003c/b\u003e November \u003cb\u003e13\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../13/template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e13\u003c/b\u003e/template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Breaking News (BreakingNews) on Twitter",
+   "htmlTitle": "Breaking News (BreakingNews) on Twitter",
+   "link": "https://twitter.com/BreakingNews",
+   "displayLink": "twitter.com",
+   "snippet": "Software developer John McAfee arrives in US after being deported from ... North   Korean satellite 'tumbling out of control,' US officials say - @NBCNews ...",
+   "htmlSnippet": "Software developer John McAfee arrives in \u003cb\u003eUS\u003c/b\u003e after being deported from \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  Korean satellite &#39;tumbling out of control,&#39; US officials say - @NBCNews \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-08AXk7EnhkJ",
+   "formattedUrl": "https://twitter.com/BreakingNews",
+   "htmlFormattedUrl": "https://twitter.com/BreakingNews",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://si0.twimg.com/profile_images/2620258409/fhyuov6w63lmoklljorg_bigger.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "70",
+      "height": "70",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1DgWDhQTihbo1lUXO4i39CadAY7OoHB0i7RIYql1WaObTUBkwffO"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "US4636956, Mar 20, 1984, Jan 13, 1987, Societe Nationale Elf Aquitaine ....   US6327537, Jul 19, 1999, Dec 4, 2001, Multi-shooting approach to seismic ....   US7725266, May 31, 2007, May 25, 2010, BP Corporation North America Inc.   System ...",
+   "htmlSnippet": "US4636956, Mar 20, 1984, Jan \u003cb\u003e13\u003c/b\u003e, \u003cb\u003e1987\u003c/b\u003e, Societe Nationale Elf Aquitaine \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  US6327537, Jul 19, 1999, \u003cb\u003eDec\u003c/b\u003e 4, 2001, Multi-shooting approach to \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth America\u003c/b\u003e Inc. \u003cbr\u003e  System \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Giant, Underestimated Earthquake Threat to North America",
+   "htmlTitle": "The Giant, Underestimated \u003cb\u003eEarthquake\u003c/b\u003e Threat to \u003cb\u003eNorth America\u003c/b\u003e",
+   "link": "http://discovermagazine.com/2012/extreme-earth/01-big-one-earthquake-could-devastate-pacific-northwest",
+   "displayLink": "discovermagazine.com",
+   "snippet": "The Giant, Underestimated Earthquake Threat to North America. The enormous   fault off the coast of the Pacific Northwest has been silent for three centuries.",
+   "htmlSnippet": "The Giant, Underestimated \u003cb\u003eEarthquake\u003c/b\u003e Threat to \u003cb\u003eNorth America\u003c/b\u003e. The enormous \u003cbr\u003e  fault off the coast of the Pacific Northwest has been silent for three centuries.",
+   "cacheId": "NuiKGiPNFuwJ",
+   "formattedUrl": "discovermagazine.com/.../01-big-one-earthquake-could-devastate-pacific- northwest",
+   "htmlFormattedUrl": "discovermagazine.com/.../01-big-one-\u003cb\u003eearthquake\u003c/b\u003e-could-devastate-pacific- \u003cb\u003enorth\u003c/b\u003ewest",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://discovermagazine.com/2012/extreme-earth/~/media/import/images/2/5/7/copalis"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "253",
+      "height": "200",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zlqJ9b4-GTsjan5mHjkNmXiEia4_ix45aXlhmdVK2OpCjzYvxCcilyE"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0",
+      "og:type": "article",
+      "og:site_name": "Discover Magazine",
+      "og:image": "http://discovermagazine.comhttp://cdn.media.discovermagazine.com/~/media/Images/Issue Covers/2012/DSC121201.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8121823 - Iterative inversion of data from simultaneous ...",
+   "htmlTitle": "Patent US8121823 - Iterative inversion of data from simultaneous \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8121823",
+   "displayLink": "www.google.com",
+   "snippet": "US4636956, Mar 20, 1984, Jan 13, 1987, Societe Nationale Elf Aquitaine ...   US6327537, Jul 19, 1999, Dec 4, 2001, Multi-shooting approach to seismic   modeling .... US7725266, May 31, 2007, May 25, 2010, BP Corporation North   America Inc.",
+   "htmlSnippet": "US4636956, Mar 20, 1984, Jan \u003cb\u003e13\u003c/b\u003e, \u003cb\u003e1987\u003c/b\u003e, Societe Nationale Elf Aquitaine \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US6327537, Jul 19, 1999, \u003cb\u003eDec\u003c/b\u003e 4, 2001, Multi-shooting approach to \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  modeling \u003cb\u003e....\u003c/b\u003e US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e Inc.",
+   "formattedUrl": "www.google.com/patents/US8121823",
+   "htmlFormattedUrl": "www.google.com/patents/US8121823",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0TCwxQzj2yASXEPyp88Z__B3I4k0NfjDGjx5u6qG-5VYlAALARvEnh4Q"
+     }
+    ],
+    "book": [
+     {
+      "description": "Method for reducing the time needed to perform geophysical inversion by using simultaneous encoded sources in the simulation steps of the inversion process. The geophysical survey data are...",
+      "url": "http://www.google.com/patents/US8121823?utm_source=gb-gplus-share",
+      "name": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8121823",
+      "title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 01902-12-16  December 16, 1902, Andijan, Uzbekistan, 40.8, 72.3, 4,700, 6.4, ML (USGS 1000  +), USGS ... 01906-04-18April 18, 1906, 13:12, San Francisco, United States (  San Andreas fault from .... see 1930 North Izu earthquake, 35.00, 139.00, 7.3, Ms ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 01902-12-16\u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e 16, 1902, Andijan, Uzbekistan, 40.8, 72.3, 4,700, 6.4, ML (USGS 1000\u003cbr\u003e  +), USGS \u003cb\u003e...\u003c/b\u003e 01906-04-18April 18, 1906, \u003cb\u003e13\u003c/b\u003e:12, San Francisco, United States (\u003cbr\u003e  San Andreas fault from \u003cb\u003e....\u003c/b\u003e see 1930 \u003cb\u003eNorth\u003c/b\u003e Izu \u003cb\u003eearthquake\u003c/b\u003e, 35.00, 139.00, 7.3, Ms \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Popular Articles & Stories for December 13, 1987 - Los Angeles Times",
+   "htmlTitle": "Popular Articles &amp; Stories for \u003cb\u003eDecember 13, 1987\u003c/b\u003e - Los Angeles Times",
+   "link": "http://articles.latimes.com/1987/dec/13",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Dec 13, 1987 ... Popular articles, stories & photos for December 13, 1987 in the Los Angeles ...   Quake Jolts 2 Counties on Georgia, Carolina Border United Press International   .... An American in Austria Endures Agony and Expense of Getting a Driver's ....   North County Paper Becomes a Voice for Spanish-Speaking ERIC ...",
+   "htmlSnippet": "Dec 13, 1987 \u003cb\u003e...\u003c/b\u003e Popular articles, stories &amp; photos for \u003cb\u003eDecember 13\u003c/b\u003e, \u003cb\u003e1987\u003c/b\u003e in the Los Angeles \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eQuake\u003c/b\u003e Jolts 2 Counties on Georgia, Carolina Border United Press International \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e An \u003cb\u003eAmerican\u003c/b\u003e in Austria Endures Agony and Expense of Getting a Driver&#39;s \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNorth\u003c/b\u003e County Paper Becomes a Voice for Spanish-Speaking ERIC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pRASOcGKBrEJ",
+   "formattedUrl": "articles.latimes.com/1987/dec/13",
+   "htmlFormattedUrl": "articles.latimes.com/\u003cb\u003e1987\u003c/b\u003e/\u003cb\u003edec\u003c/b\u003e/\u003cb\u003e13\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "David M. Boore pubs online",
+   "htmlTitle": "David M. Boore pubs online",
+   "link": "http://www.daveboore.com/pubs_online.php",
+   "displayLink": "www.daveboore.com",
+   "snippet": "[Revised 13 May 2011] .... Strong-motion data from the Pingtung earthquake   doublet of December 26, 2006, Taiwan ... Earthquake ground-motion prediction   equations for eastern North America, Bull. ..... Boore, D. M. and G. M. Atkinson (  1987).",
+   "htmlSnippet": "[Revised \u003cb\u003e13\u003c/b\u003e May 2011] \u003cb\u003e....\u003c/b\u003e Strong-motion data from the Pingtung \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  doublet of \u003cb\u003eDecember\u003c/b\u003e 26, 2006, Taiwan \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e ground-motion prediction \u003cbr\u003e  equations for eastern \u003cb\u003eNorth America\u003c/b\u003e, Bull. \u003cb\u003e.....\u003c/b\u003e Boore, D. M. and G. M. Atkinson (\u003cbr\u003e  \u003cb\u003e1987\u003c/b\u003e).",
+   "cacheId": "RaE5TqxKYpQJ",
+   "formattedUrl": "www.daveboore.com/pubs_online.php",
+   "htmlFormattedUrl": "www.daveboore.com/pubs_online.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes and tsunamis in the United States - Wikipedia ...",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e and tsunamis in the United States - Wikipedia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The following is a list of notable earthquakes and/or tsunamis which had their   epicenter in ... 01811-12-16December 16, 1811, Missouri, 7.2 - 8.1, Unknown,   1811-1812 New ... 1872, Washington, 6.5 - 7.0, 0, 1872 North Cascades   earthquake ... 01925-06-29June 29, 1925, California, 6.8, 13, 1925 Santa   Barbara earthquake ...",
+   "htmlSnippet": "The following is a list of notable \u003cb\u003eearthquakes\u003c/b\u003e and/or tsunamis which had their \u003cbr\u003e  epicenter in \u003cb\u003e...\u003c/b\u003e 01811-12-16\u003cb\u003eDecember\u003c/b\u003e 16, 1811, Missouri, 7.2 - 8.1, Unknown, \u003cbr\u003e  1811-1812 New \u003cb\u003e...\u003c/b\u003e 1872, Washington, 6.5 - 7.0, 0, 1872 \u003cb\u003eNorth\u003c/b\u003e Cascades \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 01925-06-29June 29, 1925, California, 6.8, \u003cb\u003e13\u003c/b\u003e, 1925 Santa \u003cbr\u003e  Barbara \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nwZ6NjulnOwJ",
+   "formattedUrl": "en.wikipedia.org/.../List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "htmlFormattedUrl": "en.wikipedia.org/.../List_of_\u003cb\u003eearthquakes\u003c/b\u003e_and_tsunamis_in_the_United_States"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rupture Histories of Eastern North American Earthquakes",
+   "htmlTitle": "Rupture Histories of Eastern \u003cb\u003eNorth American Earthquakes\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/84/6/1703.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "Bulletin of the Seismological Society of America, Vol. 84, No. 6, pp. 1703-1724,   December 1994. Rupture Histories of Eastern North American Earthquakes ...",
+   "htmlSnippet": "Bulletin of the Seismological Society of America, Vol. 84, No. 6, pp. 1703-1724, \u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e 1994. Rupture Histories of Eastern \u003cb\u003eNorth American Earthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/84/6/1703.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/84/6/1703.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010402001.TIF",
+      "creationdate": "Mon Sep 19 12:34:53 2005",
+      "title": "010402001.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050919132414+08'00'"
+     }
+    ]
+   }
+  }
+ ]
+}
