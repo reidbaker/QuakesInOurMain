@@ -6,7 +6,7 @@ import edu.gatech.earthquakes.model.DataSet;
 
 public interface Filterable {
 
-	@Subscribe
-	public void filterBy(DataSet filteredData);
-	
+    @Subscribe
+    public void filterBy(DataSet filteredData);
+
 }

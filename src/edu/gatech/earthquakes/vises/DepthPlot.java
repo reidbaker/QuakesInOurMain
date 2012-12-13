@@ -25,7 +25,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
     private int highlightedIndex;
     private int numberMissing;
     private int textSize;
-    
+
     private long minTime, maxTime;
 
     public DepthPlot(int x, int y, int w, int h, DataSet displayData) {
@@ -87,26 +87,27 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 
 	drawingCoordinates = new float[displayData.getDatum().size()][2];
 	quakeRadii = new float[displayData.getDatum().size()];
-	
+
 	minTime = Long.MAX_VALUE;
 	maxTime = Long.MIN_VALUE;
 	for (DataRow d : displayData) {
-	    Date date = (Date)d.getValue(DataRow.DATE);
+	    Date date = (Date) d.getValue(DataRow.DATE);
 	    long time = date.getTime();
-	    if(time < minTime){
+	    if (time < minTime) {
 		minTime = time;
 	    }
-	    if(time > maxTime){
+	    if (time > maxTime) {
 		maxTime = time;
 	    }
 	}
-	
+
 	int index = 0;
 	for (DataRow d : displayData) {
 	    // calculate the x coordinate
-	    Date date = (Date)d.getValue(DataRow.DATE);
+	    Date date = (Date) d.getValue(DataRow.DATE);
 	    long time = date.getTime();
-	    drawingCoordinates[index][0] = PApplet.map(time, minTime, maxTime, x+buffer, x+w-buffer);
+	    drawingCoordinates[index][0] = PApplet.map(time, minTime, maxTime,
+		    x + buffer, x + w - buffer);
 
 	    // calculate the y coordinate
 	    if (d.getValue(DataRow.DEPTH) != null)

@@ -239,8 +239,8 @@ public class Slider extends AbstractVisualization implements Interactable {
 	    double mag = (double) r.getVariables()
 		    .get(DataRow.MOMENT_MAGNITUDE);
 	    if (year > prevYear || mag > prevMag) { // Optimization, dont draw
-						    // line unless new year or
-						    // magnitude is larger
+		                                    // line unless new year or
+		                                    // magnitude is larger
 		float xLocation = xLocationMap(year, fullYears[0],
 		        fullYears[fullYears.length - 1], x, x + w, left, right);
 		float height = PApplet.map((float) mag, 4.0f, 8.0f, 0f,

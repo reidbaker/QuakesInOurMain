@@ -6,7 +6,7 @@ import processing.core.PApplet;
 
 public interface Drawable {
 
-	@Subscribe
-	public void drawComponent(PApplet parent);
-	
+    @Subscribe
+    public void drawComponent(PApplet parent);
+
 }
