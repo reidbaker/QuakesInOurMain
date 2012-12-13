@@ -1,0 +1,315 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 12 2002 Africa Earthquake",
+    "totalResults": "671000",
+    "searchTerms": "Jul 12 2002 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 12 2002 Africa Earthquake",
+    "totalResults": "671000",
+    "searchTerms": "Jul 12 2002 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.193711,
+  "formattedSearchTime": "0.19",
+  "totalResults": "671000",
+  "formattedTotalResults": "671,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 12 2002 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 12 2002 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed ..... A submarine slide   triggered by the earthquake caused the fracture of 12 trans-atlantic cables. In   each ..... Alaska (USA), 2002 - Magnitude : 7.9 ..... The seismic activity began on   July 24, 1969, when a magnitude 5.9 shock caused severe damage.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e.....\u003c/b\u003e A submarine slide \u003cbr\u003e  triggered by the \u003cb\u003eearthquake\u003c/b\u003e caused the fracture of \u003cb\u003e12\u003c/b\u003e trans-atlantic cables. In \u003cbr\u003e  each \u003cb\u003e.....\u003c/b\u003e Alaska (USA), \u003cb\u003e2002\u003c/b\u003e - Magnitude : 7.9 \u003cb\u003e.....\u003c/b\u003e The \u003cb\u003eseismic\u003c/b\u003e activity began on \u003cbr\u003e  \u003cb\u003eJuly\u003c/b\u003e 24, 1969, when a magnitude 5.9 shock caused severe damage.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-\u003cb\u003ejuly\u003c/b\u003e-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Mpumalanga, South Africa",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Mpumalanga, South \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/p/south-africa/mpumalanga/recent",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Today: 6.3 magnitude earthquake near Tokoroa, Auckland, New Zealand ...   Recent Earthquake Near Mpumalanga, South Africa ... July 12, 2002 UTC.   Location: ...",
+   "htmlSnippet": "Today: 6.3 magnitude \u003cb\u003eearthquake\u003c/b\u003e near Tokoroa, Auckland, New Zealand \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Recent \u003cb\u003eEarthquake\u003c/b\u003e Near Mpumalanga, South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly 12, 2002\u003c/b\u003e UTC. \u003cbr\u003e  Location: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7YiNDz82-esJ",
+   "formattedUrl": "earthquaketrack.com/p/south-africa/mpumalanga/recent",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/p/south-\u003cb\u003eafrica\u003c/b\u003e/mpumalanga/recent",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "L1zn4tgVpsB+quoh44bPtxdGdgFNZPCKck7LJ+2u1+s="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on July 12 - What happened on my birthday. Today ...",
+   "htmlTitle": "What happened on \u003cb\u003eJuly 12\u003c/b\u003e - What happened on my birthday. Today \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/jul12.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "July 12, 0927 \"a gathering of kings from throughout Great Britain led by King   Athelstan ... July 12, 1944 \"Near Sheep Mountain, Idaho a 6.1 earthquake was   recorded\" ... July 12, 1960 \"Congo, Chad & Central African Republic declare   independence\" ... July 12, 2002 Gay rights: The Superior Court of Ontario orders   Ontario to ...",
+   "htmlSnippet": "July 12, 0927 &quot;a gathering of kings from throughout Great Britain led by King \u003cbr\u003e  Athelstan \u003cb\u003e...\u003c/b\u003e July 12, 1944 &quot;Near Sheep Mountain, Idaho a 6.1 \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  recorded&quot; \u003cb\u003e...\u003c/b\u003e July 12, 1960 &quot;Congo, Chad &amp; Central \u003cb\u003eAfrican\u003c/b\u003e Republic declare \u003cbr\u003e  independence&quot; \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly 12, 2002\u003c/b\u003e Gay rights: The Superior Court of Ontario orders \u003cbr\u003e  Ontario to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Pk_vgqnqbroJ",
+   "formattedUrl": "www.datesinhistory.com/jul12.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003ejul12\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, and   ... 4.7, SOUTH AFRICA, Jul 12 2002, 03:16:57, -26.447, 29.086 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 4.7, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eJul 12 2002\u003c/b\u003e, 03:16:57, -26.447, 29.086 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3H1QGN8v88wJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2002\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Obituary: Peter Mokaba | World news | The Guardian",
+   "htmlTitle": "Obituary: Peter Mokaba | World news | The Guardian",
+   "link": "http://www.guardian.co.uk/news/2002/jul/12/guardianobituaries.aids",
+   "displayLink": "www.guardian.co.uk",
+   "snippet": "The Guardian, Friday 12 July 2002 02.59 BST. Peter Mokaba, who has died aged   43, was a fiery youth leader in the South African freedom struggle, and a   controversial politician .... Magnitude 7.3 earthquake hits same region as 2011   quake ...",
+   "htmlSnippet": "The Guardian, \u003cb\u003eFriday 12 July 2002 02.59\u003c/b\u003e BST. Peter Mokaba, who has died aged \u003cbr\u003e  43, was a fiery youth leader in the South \u003cb\u003eAfrican\u003c/b\u003e freedom struggle, and a \u003cbr\u003e  controversial politician \u003cb\u003e....\u003c/b\u003e Magnitude 7.3 \u003cb\u003eearthquake\u003c/b\u003e hits same region as 2011 \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J_ACW-H-zwMJ",
+   "formattedUrl": "www.guardian.co.uk/news/2002/jul/12/guardianobituaries.aids",
+   "htmlFormattedUrl": "www.guardian.co.uk/news/\u003cb\u003e2002\u003c/b\u003e/\u003cb\u003ejul\u003c/b\u003e/\u003cb\u003e12\u003c/b\u003e/guardianobituaries.aids",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/8/1312810126887/gu_192x115.jpg"
+     }
+    ],
+    "newsarticle": [
+     {
+      "name": "Peter Mokaba",
+      "headline": "Peter Mokaba",
+      "publisher": "The Guardian",
+      "datepublished": "2002-07-12T02:59BST"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "News",
+      "url": "News"
+     },
+     {
+      "title": "World news",
+      "url": "World news"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.date.issued": "2002-07-12",
+      "og:title": "Peter Mokaba",
+      "og:type": "article",
+      "article:published_time": "2002-07-12T02:59:17+01:00",
+      "article:modified_time": "2002-07-12T02:59:17+01:00",
+      "article:tag": "World news",
+      "article:section": "World news",
+      "og:url": "http://www.guardian.co.uk/news/2002/jul/12/guardianobituaries.aids",
+      "og:image": "https://static-secure.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/8/8/1312810126887/gu_192x115.jpg",
+      "og:site_name": "the Guardian",
+      "og:description": "Peter Mokaba, who has died aged 43, was a fiery youth leader in the South African freedom struggle, and a controversial politician in adult life who denied the existence of HIV and described anti-retroviral medication for Aids as \"poison\".",
+      "fb:app_id": "180444840287",
+      "content-id": "/news/2002/jul/12/guardianobituaries.aids"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "July 7, 2001, 09:38, Near coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV).   August 21 ... 02002-03-25March 3, 2002, 12:08, Hindu Kush Region, Afghanistan ...",
+   "htmlSnippet": "\u003cb\u003eJuly\u003c/b\u003e 7, 2001, 09:38, Near coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV). \u003cbr\u003e  August 21 \u003cb\u003e...\u003c/b\u003e 02002-03-25March 3, \u003cb\u003e2002\u003c/b\u003e, \u003cb\u003e12\u003c/b\u003e:08, Hindu Kush Region, Afghanistan \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today in History July 12",
+   "htmlTitle": "Today in History \u003cb\u003eJuly 12\u003c/b\u003e",
+   "link": "http://timelines.ws/days/07_12.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1908 Jul 12, Milton Berle (d.2002), comedian, was born as Mendel Berlinger in   New .... 1993 Jul 12, 196 people were killed when an earthquake measuring a ...   The group advocated killing Jews, deporting African-Americans and setting up a ...",
+   "htmlSnippet": "1908 \u003cb\u003eJul 12\u003c/b\u003e, Milton Berle (d.\u003cb\u003e2002\u003c/b\u003e), comedian, was born as Mendel Berlinger in \u003cbr\u003e  New \u003cb\u003e....\u003c/b\u003e 1993 \u003cb\u003eJul 12\u003c/b\u003e, 196 people were killed when an \u003cb\u003eearthquake\u003c/b\u003e measuring a \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The group advocated killing Jews, deporting \u003cb\u003eAfrican\u003c/b\u003e-Americans and setting up a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "R_Ppc2S5o0sJ",
+   "formattedUrl": "timelines.ws/days/07_12.HTML",
+   "htmlFormattedUrl": "timelines.ws/days/07_\u003cb\u003e12\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algis Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... is caused by the continuing effects of the Alpine orogeny as the African Plate   continues to ... On 24 July 2009 at 4:58 am, an earthquake with a magnitude of   3.3 MW struck in western Germany, 20 km (12 mi) northwest of the city of   Duisburg. ... 22 July 2002, Alsdorf, 5.0, At 7:41 am, magnitude 5.0, VI on the   Mercalli scale at ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e is caused by the continuing effects of the Alpine orogeny as the \u003cb\u003eAfrican\u003c/b\u003e Plate \u003cbr\u003e  continues to \u003cb\u003e...\u003c/b\u003e On 24 \u003cb\u003eJuly\u003c/b\u003e 2009 at 4:58 am, an \u003cb\u003eearthquake\u003c/b\u003e with a magnitude of \u003cbr\u003e  3.3 MW struck in western Germany, 20 km (\u003cb\u003e12\u003c/b\u003e mi) northwest of the city of \u003cbr\u003e  Duisburg. \u003cb\u003e...\u003c/b\u003e 22 \u003cb\u003eJuly 2002\u003c/b\u003e, Alsdorf, 5.0, At 7:41 am, magnitude 5.0, VI on the \u003cbr\u003e  Mercalli scale at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disasters Emergency Committee | Together We're Stronger",
+   "htmlTitle": "Disasters Emergency Committee | Together We&#39;re Stronger",
+   "link": "http://www.dec.org.uk/",
+   "displayLink": "www.dec.org.uk",
+   "snippet": "Fundraising for this appeal is closed and money raised will be spent up to July   2013. DEC Ethiopia visit. DEC Chair in Mogadishu. DEC East Africa visit - Wajir ...",
+   "htmlSnippet": "Fundraising for this appeal is closed and money raised will be spent up to \u003cb\u003eJuly\u003c/b\u003e \u003cbr\u003e  2013. DEC Ethiopia visit. DEC Chair in Mogadishu. DEC East \u003cb\u003eAfrica\u003c/b\u003e visit - Wajir \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WYtqF9Cq5xUJ",
+   "formattedUrl": "www.dec.org.uk/",
+   "htmlFormattedUrl": "www.dec.org.uk/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.youtube.com/vi/1q0z6pmbmB4/0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBWGWxQlBj_JVzLpaNzpPfc6TB6nIhnXLy1Ndf_r1im3gqMateTKhjDxu"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude (misc units) over time for deadly earthquakes since 1900 .... 1902-12-  16 05:07, Uzbekistan, 40.800, 72.300, 9, 6.4 UK, 4725. 1903-03-29 22:30 ...",
+   "htmlSnippet": "Magnitude (misc units) over time for deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 \u003cb\u003e....\u003c/b\u003e 1902-\u003cb\u003e12\u003c/b\u003e-\u003cbr\u003e  16 05:07, Uzbekistan, 40.800, 72.300, 9, 6.4 UK, 4725. 1903-03-29 22:30 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  }
+ ]
+}

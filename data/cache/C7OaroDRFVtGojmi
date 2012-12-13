@@ -1,0 +1,272 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 16 2001 Africa Earthquake",
+    "totalResults": "771000",
+    "searchTerms": "Nov 16 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 16 2001 Africa Earthquake",
+    "totalResults": "771000",
+    "searchTerms": "Nov 16 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.273838,
+  "formattedSearchTime": "0.27",
+  "totalResults": "771000",
+  "formattedTotalResults": "771,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 9, 2001, 16:49, Vanuatu, ???14.928, 167.170, 0, 7.1, Mw (USGS). January   10, 2001 ... see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV  ) ... November 14, 2001, 09:26, Qinghai, China see 2001 ...",
+   "htmlSnippet": "January 9, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003e16\u003c/b\u003e:49, Vanuatu, ???14.928, 167.170, 0, 7.1, Mw (USGS). January \u003cbr\u003e  10, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV\u003cbr\u003e  ) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNovember\u003c/b\u003e 14, \u003cb\u003e2001\u003c/b\u003e, 09:26, Qinghai, China see \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/index.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 28, 2012 ... Get real-time earthquake notifications sent to you using a number of ... M 6.5,   163km SSW of Severo-Kuril'sk, Russia Friday, November 16, ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of \u003cb\u003e...\u003c/b\u003e M 6.5, \u003cbr\u003e  163km SSW of Severo-Kuril&#39;sk, Russia Friday, \u003cb\u003eNovember 16\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D_0uDpIsu6kJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/index.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Listed below are all known earthquakes measured or estimated to have a ... 16,   1615, Arica, Chile (then part of the Spanish Empire), 1615 Arica earthquake, 8.8 (  est.) ... 01575-12-16December 16, 1575, Valdivia, Chile (then part of the Spanish   ... a historical conflation of this earthquake with earthquakes in November 1137 ...",
+   "htmlSnippet": "Listed below are all known \u003cb\u003eearthquakes\u003c/b\u003e measured or estimated to have a \u003cb\u003e...\u003c/b\u003e \u003cb\u003e16\u003c/b\u003e, \u003cbr\u003e  1615, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of the Spanish Empire), 1615 Arica \u003cb\u003eearthquake\u003c/b\u003e, 8.8 (\u003cbr\u003e  est.) \u003cb\u003e...\u003c/b\u003e 01575-12-\u003cb\u003e16\u003c/b\u003eDecember \u003cb\u003e16\u003c/b\u003e, 1575, Valdivia, Chile (then part of the Spanish \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e a historical conflation of this \u003cb\u003eearthquake\u003c/b\u003e with \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eNovember\u003c/b\u003e 1137 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Graph_of_largest_earthquakes_1906-2005.png/400px-Graph_of_largest_earthquakes_1906-2005.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "258",
+      "height": "195",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_63_NLO-ldQ1_H4rXy_--LyHu28R1kMs-QGz6KXe7gWgM1lmjJ0adExi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "November 16 Events in History",
+   "htmlTitle": "\u003cb\u003eNovember 16\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/november_16.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "November 16 in history.",
+   "htmlSnippet": "\u003cb\u003eNovember 16\u003c/b\u003e in history.",
+   "cacheId": "1OILExPbPO8J",
+   "formattedUrl": "www.brainyhistory.com/days/november_16.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003enovember\u003c/b\u003e_\u003cb\u003e16\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "November 16 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/november_16.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of Africa Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eAfrica\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/Africa_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. ... located by the USGS and contributing networks for the Map of Africa   Region. ... 16:52:24, -56.087, -27.400, 103.6, SOUTH SANDWICH ISLANDS   REGION ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e located by the USGS and contributing networks for the Map of \u003cb\u003eAfrica\u003c/b\u003e \u003cbr\u003e  Region. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e16\u003c/b\u003e:52:24, -56.087, -27.400, 103.6, SOUTH SANDWICH ISLANDS \u003cbr\u003e  REGION \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B_1KVeotS4sJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/Maps/.../Africa_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/Maps/.../\u003cb\u003eAfrica\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for past 24 hours (Earthquakes archive ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for past 24 hours (\u003cb\u003eEarthquakes\u003c/b\u003e archive \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-nov-26.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Nov 26, 2012 ... Please wait until the recent earthquake list is loaded. ... Sun, 4 Nov 00:16 UTC, M   4.9 / 147.36 km - [info], 35km NE of Port-Olry, Vanuatu ..... our tours indonesia   photos guatemala's volcanoes jan photos africa nyiragongo lava ... 9 july 2011   may 2008 november 2006 october 2006 2001 2000 1999 stromboli ...",
+   "htmlSnippet": "Nov 26, 2012 \u003cb\u003e...\u003c/b\u003e Please wait until the recent \u003cb\u003eearthquake\u003c/b\u003e list is loaded. \u003cb\u003e...\u003c/b\u003e Sun, 4 \u003cb\u003eNov\u003c/b\u003e 00:\u003cb\u003e16\u003c/b\u003e UTC, M \u003cbr\u003e  4.9 / 147.36 km - [info], 35km NE of Port-Olry, Vanuatu \u003cb\u003e.....\u003c/b\u003e our tours indonesia \u003cbr\u003e  photos guatemala&#39;s volcanoes jan photos \u003cb\u003eafrica\u003c/b\u003e nyiragongo lava \u003cb\u003e...\u003c/b\u003e 9 july 2011 \u003cbr\u003e  may 2008 \u003cb\u003enovember\u003c/b\u003e 2006 october 2006 \u003cb\u003e2001\u003c/b\u003e 2000 1999 stromboli \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cOzWckKVKjsJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-nov-26.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003enov\u003c/b\u003e-26.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Museum of African Art / Art and Programs / Virtual Exhibitions",
+   "htmlTitle": "National Museum of \u003cb\u003eAfrican\u003c/b\u003e Art / Art and Programs / Virtual Exhibitions",
+   "link": "http://africa.si.edu/exhibits/past.html",
+   "displayLink": "africa.si.edu",
+   "snippet": "Resonance from the Past: African Sculpture from the New Orleans Museum ...   Making the Grade: African Arts of Initiation, December 16, 2001???March 3, 2002 ...   African Forms in the Furniture of Pierre Legrain, August 16???November 29, 1998   ... The Healing Power of Art: Works of Art by Haitian Children after the Earthquake  .",
+   "htmlSnippet": "Resonance from the Past: \u003cb\u003eAfrican\u003c/b\u003e Sculpture from the New Orleans Museum \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Making the Grade: \u003cb\u003eAfrican\u003c/b\u003e Arts of Initiation, December \u003cb\u003e16\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e???March 3, 2002 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAfrican\u003c/b\u003e Forms in the Furniture of Pierre Legrain, August \u003cb\u003e16\u003c/b\u003e???\u003cb\u003eNovember\u003c/b\u003e 29, 1998 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e The Healing Power of Art: Works of Art by Haitian Children after the \u003cb\u003eEarthquake\u003c/b\u003e\u003cbr\u003e  .",
+   "cacheId": "JXeGBQPQnEcJ",
+   "formattedUrl": "africa.si.edu/exhibits/past.html",
+   "htmlFormattedUrl": "\u003cb\u003eafrica\u003c/b\u003e.si.edu/exhibits/past.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Wednesday, 7 November 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Wednesday, 7 \u003cb\u003eNovember\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-nov-7.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Earthquake list: Wednesday, 7 November 2012 (M\u003e=2.5) (193 quakes) ..... Wed,   7 Nov 16:58 UTC, M 2.5 / 9.9 km - [info], 14 Km NE from Karpathos, [Map] ..... Jan   2012 photos. Africa. Nyiragongo lava lake & mountain gorillas .... Eruption 2001 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e list: Wednesday, 7 \u003cb\u003eNovember\u003c/b\u003e 2012 (M&gt;=2.5) (193 quakes) \u003cb\u003e.....\u003c/b\u003e Wed, \u003cbr\u003e  7 \u003cb\u003eNov 16\u003c/b\u003e:58 UTC, M 2.5 / 9.9 km - [info], 14 Km NE from Karpathos, [Map] \u003cb\u003e.....\u003c/b\u003e Jan \u003cbr\u003e  2012 photos. \u003cb\u003eAfrica\u003c/b\u003e. Nyiragongo lava lake &amp; mountain gorillas \u003cb\u003e....\u003c/b\u003e Eruption \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1PtsLbgjAYQJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-nov-7.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003enov\u003c/b\u003e-7.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.eoearth.org/article/Earthquake",
+   "displayLink": "www.eoearth.org",
+   "snippet": "Sep 18, 2012 ... 7.6, 1.5 x 1016, Deadliest earthquake in the last 100 years. .... Kazakhstan,   Honduras, Japan, Malawi, Samoa, South Africa and Tonga, as well as the U.S.   territory of American Samoa. ... November 1, 1755 ... January 26, 2001 ...",
+   "htmlSnippet": "Sep 18, 2012 \u003cb\u003e...\u003c/b\u003e 7.6, 1.5 x 10\u003cb\u003e16\u003c/b\u003e, Deadliest \u003cb\u003eearthquake\u003c/b\u003e in the last 100 years. \u003cb\u003e....\u003c/b\u003e Kazakhstan, \u003cbr\u003e  Honduras, Japan, Malawi, Samoa, South \u003cb\u003eAfrica\u003c/b\u003e and Tonga, as well as the U.S. \u003cbr\u003e  territory of American Samoa. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNovember\u003c/b\u003e 1, 1755 \u003cb\u003e...\u003c/b\u003e January 26, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6EW6L0xuCUMJ",
+   "formattedUrl": "www.eoearth.org/article/Earthquake",
+   "htmlFormattedUrl": "www.eoearth.org/article/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.eoearth.org/images/163668/500x0/scale/Earthquake.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "USGS"
+     }
+    ],
+    "person": [
+     {
+      "name": "Michael Pidwirny"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "296",
+      "height": "170",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVj1MhkFXG056LCRiNsj017SBuq0sBJTJFANlEl3KADk13a3FgcbmejU8"
+     }
+    ],
+    "article": [
+     {
+      "name": "Earthquake",
+      "datepublished": "July 18, 2010, 2:05 pm",
+      "datemodified": "September 18, 2012, 5:06 pm",
+      "articlesection": "Hazards & Disasters",
+      "articlebody": "An earthquake is a sudden vibration or trembling in the Earth. More than 150,000 tremors strong enough to be felt by humans occur each year worldwide (see Chance of an Earthquake). Earthquake..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Tuesday, 13 November 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Tuesday, 13 \u003cb\u003eNovember\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-nov-13.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Earthquake list: Tuesday, 13 November 2012 (M\u003e=2.5) (213 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e list: Tuesday, 13 \u003cb\u003eNovember\u003c/b\u003e 2012 (M&gt;=2.5) (213 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4_6ZkOj3kBQJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-nov-13.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003enov\u003c/b\u003e-13.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  }
+ ]
+}

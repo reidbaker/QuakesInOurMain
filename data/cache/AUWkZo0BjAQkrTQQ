@@ -1,0 +1,368 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 15 2002 Australia Earthquake",
+    "totalResults": "754000",
+    "searchTerms": "Jun 15 2002 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 15 2002 Australia Earthquake",
+    "totalResults": "754000",
+    "searchTerms": "Jun 15 2002 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.227719,
+  "formattedSearchTime": "0.23",
+  "totalResults": "754000",
+  "formattedTotalResults": "754,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 15 2002 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 15 2002 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Ferrara, Italy : Extremely strong aftershock near ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Ferrara, Italy : Extremely strong aftershock near \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/20/very-strong-shallow-earthquake-kills-at-least-3-people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 29, 2012 ... Earthquake overview : A very strong shallow earthquake struck in ... Summary 29/  05 ??? 14:30 UTC ??? 15 people have died ??? 4 or 5 still missing ..... Innsbruck, Austria   - light shaking at 12:55 p.m.; Bologna - Not strong as the one of this morning, but   all was shaking. ..... Normally lessons are ending on June 9.",
+   "htmlSnippet": "May 29, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A very strong shallow \u003cb\u003eearthquake\u003c/b\u003e struck in \u003cb\u003e...\u003c/b\u003e Summary 29/\u003cbr\u003e  05 ??? 14:30 UTC ??? \u003cb\u003e15\u003c/b\u003e people have died ??? 4 or 5 still missing \u003cb\u003e.....\u003c/b\u003e Innsbruck, \u003cb\u003eAustria\u003c/b\u003e \u003cbr\u003e  - light shaking at 12:55 p.m.; Bologna - Not strong as the one of this morning, but \u003cbr\u003e  all was shaking. \u003cb\u003e.....\u003c/b\u003e Normally lessons are ending on \u003cb\u003eJune\u003c/b\u003e 9.",
+   "cacheId": "S2D3vnTpEv8J",
+   "formattedUrl": "earthquake-report.com/.../very-strong-shallow-earthquake-kills-at-least-3- people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-shallow-\u003cb\u003eearthquake\u003c/b\u003e-kills-at-least-3- people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/cavezzo_2952012_280xFree.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "167",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREYfIWEASGQQQUnGpE9naiIQ2xo8MO6e_3z4zlV_Fk1FxK1oYZ3PqxyYmh"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Stoapfalzer",
+      "nickname": "Stoapfalzer"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "gitte zakariasen"
+     },
+     {
+      "fn": "Bryan Bell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "htmlTitle": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... Jon Frimann (Iceland Earthquakes and Volcanoes blog) reports a cluster of ...   Based on seismic activity and visual observations, on 15 June CVGHM .....   largest in recent years since the start of near continuous activity in 2002.",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e Jon Frimann (Iceland \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanoes blog) reports a cluster of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Based on \u003cb\u003eseismic\u003c/b\u003e activity and visual observations, on \u003cb\u003e15 June\u003c/b\u003e CVGHM \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  largest in recent years since the start of near continuous activity in \u003cb\u003e2002\u003c/b\u003e.",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 5.5,   SIMEULUE, INDONESIA, Nov 13 2002, 15:53:09, 2.979, 96.009, 200211131553   .... 5.6, SOUTHERN QINGHAI, CHINA, Jun 29 2002, 06:54:43, 34.074, 94.377 ....   5.0, WESTERN AUSTRALIA, Mar 05 2002, 01:47:38, -30.472 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 5.5, \u003cbr\u003e  SIMEULUE, INDONESIA, Nov 13 \u003cb\u003e2002\u003c/b\u003e, \u003cb\u003e15\u003c/b\u003e:53:09, 2.979, 96.009, 200211131553 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 5.6, SOUTHERN QINGHAI, CHINA, \u003cb\u003eJun\u003c/b\u003e 29 \u003cb\u003e2002\u003c/b\u003e, 06:54:43, 34.074, 94.377 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  5.0, WESTERN \u003cb\u003eAUSTRALIA\u003c/b\u003e, Mar 05 \u003cb\u003e2002\u003c/b\u003e, 01:47:38, -30.472 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3H1QGN8v88wJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2002\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... Figure 15 ???Cumulative deaths and economic losses related to global 2011-dollar   ... This database has been presented at the Australian Earthquake ..... The   Christchurch earthquakes on the 21st February, 13th June and 23rd ..... Utsu, T. [  2002] ???A list of deadly earthquakes in the World: 1500-2000???, in Lee, ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e15\u003c/b\u003e ???Cumulative deaths and economic losses related to global 2011-dollar \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  Christchurch \u003cb\u003eearthquakes\u003c/b\u003e on the 21st February, 13th \u003cb\u003eJune\u003c/b\u003e and 23rd \u003cb\u003e.....\u003c/b\u003e Utsu, T. [\u003cbr\u003e  \u003cb\u003e2002\u003c/b\u003e] ???A list of deadly \u003cb\u003eearthquakes\u003c/b\u003e in the World: 1500-2000???, in Lee, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic Events - Earthquakes - Geoscience Australia",
+   "htmlTitle": "Historic Events - \u003cb\u003eEarthquakes\u003c/b\u003e - Geoscience \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.ga.gov.au/hazards/earthquakes/earthquake-basics/historic.html",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Australian Earthquake Engineering Society 2010 Conference, Perth, ... Source:   Atlas of isoseismal maps of Australian earthquakes, GA Record, January 2002 on   CD ... and the largest WA earthquake since the June 1979 earthquake at Cadoux  . ... The earthquake had a magnitude of 5.6 with an epicentre about 15km south ...",
+   "htmlSnippet": "\u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering Society 2010 Conference, Perth, \u003cb\u003e...\u003c/b\u003e Source: \u003cbr\u003e  Atlas of isoseismal maps of \u003cb\u003eAustralian earthquakes\u003c/b\u003e, GA Record, January \u003cb\u003e2002\u003c/b\u003e on \u003cbr\u003e  CD \u003cb\u003e...\u003c/b\u003e and the largest WA \u003cb\u003eearthquake\u003c/b\u003e since the \u003cb\u003eJune\u003c/b\u003e 1979 \u003cb\u003eearthquake\u003c/b\u003e at Cadoux\u003cbr\u003e  . \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e had a magnitude of 5.6 with an epicentre about \u003cb\u003e15km\u003c/b\u003e south \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JhDevNXPNjcJ",
+   "formattedUrl": "www.ga.gov.au/hazards/earthquakes/earthquake-basics/historic.html",
+   "htmlFormattedUrl": "www.ga.gov.au/hazards/\u003cb\u003eearthquakes\u003c/b\u003e/\u003cb\u003eearthquake\u003c/b\u003e-basics/historic.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "Historic Events - Earthquakes",
+      "dc.creator": "c\\=AU\\;o\\=Australia Government\\;ou\\=Geoscience Australia",
+      "dc.publisher": "c\\=AU\\;o\\=Australian Government\\;ou\\=Geoscience Australia",
+      "agls.function": "Earth Science",
+      "dc.identifier": "historic.html",
+      "dc.format": "text/html",
+      "dc.language": "en-AU",
+      "agls.audience": "all",
+      "dc.coverage.jurisdiction": "Commonwealth of Australia",
+      "dc.rights": "; \u003cmeta name=\"DC.Rights\" scheme=\"URI\" content=\"http://creativecommons.org/licenses/by/2.5/au/\"\u003e",
+      "dc.date.created": "2010-06-22 10:34:20",
+      "dc.date.modified": "2012-11-23 17:46:06",
+      "dc.description": "Historically, bushfires, floods, earthquakes, landslides and cyclones have caused loss of life and significant damage to property and infrastructure.",
+      "topic": "Hazards",
+      "topic id": "700",
+      "multimedia products url": "http://www.ga.gov.au/cedda/multimedia/",
+      "publication products url": "http://www.ga.gov.au/cedda/publications/",
+      "map products url": "http://www.ga.gov.au/cedda/maps/",
+      "data and application products url": "http://www.ga.gov.au/cedda/data/",
+      "genericemail": "earthquakes@ga.gov.au",
+      "newsitemdate": "01 January 2010"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   ..... Boolarra, 22 June 1969, magnitude 5.0, aftershock of 20 June earthquake.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Boolarra, 22 \u003cb\u003eJune\u003c/b\u003e 1969, magnitude 5.0, aftershock of 20 \u003cb\u003eJune earthquake\u003c/b\u003e.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kluwer Academic Publishers Dordrecht / Boston / London",
+   "htmlTitle": "Kluwer Academic Publishers Dordrecht / Boston / London",
+   "link": "http://www.euroscience.org/tl_files/Euroscience/Activities/Workgroups/Science%20And%20Urgents%20Problems%20Of%20Society/RiskSc_Sustainability-book.pdf",
+   "displayLink": "www.euroscience.org",
+   "snippet": "15-16 June 2002. Edited by. T. Beer. CSIRO Environmental Risk Network, CSIRO   Atmospheric Research, Aspendale, Australia. A. Ismail-Zadeh. International ...",
+   "htmlSnippet": "\u003cb\u003e15\u003c/b\u003e-16 June 2002. Edited by. T. Beer. CSIRO Environmental Risk Network, CSIRO \u003cbr\u003e  Atmospheric Research, Aspendale, \u003cb\u003eAustralia\u003c/b\u003e. A. Ismail-Zadeh. International \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SQ_wsfw4_ccJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.euroscience.org/tl_files/.../RiskSc_Sustainability-book.pdf",
+   "htmlFormattedUrl": "www.euroscience.org/tl_files/.../RiskSc_Sustainability-book.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030519183619Z",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "moddate": "D:20030521122043+02'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. Earthquakes of   ... 01906-01-31January 31, 1906, 15:36, Colombia???Ecuador see 1906 ... 01906-  11-19November 19, 1906, Off the coast of Western Australia, Australia, 7.6, Mw ...   01909-06-11June 11, 1909, 20:25 local time, Lambesc, France see 1909 ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003eEarthquakes\u003c/b\u003e of \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 01906-01-31January 31, 1906, \u003cb\u003e15\u003c/b\u003e:36, Colombia???Ecuador see 1906 \u003cb\u003e...\u003c/b\u003e 01906-\u003cbr\u003e  11-19November 19, 1906, Off the coast of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  01909-06-11\u003cb\u003eJune\u003c/b\u003e 11, 1909, 20:25 local time, Lambesc, France see 1909 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Most Recent Australian Earthquake",
+   "htmlTitle": "Most Recent \u003cb\u003eAustralian Earthquake\u003c/b\u003e",
+   "link": "http://www.brisbaneliveweather.com/earthquakes.php",
+   "displayLink": "www.brisbaneliveweather.com",
+   "snippet": "2 days ago ... Latest information on earthquakes in Australia and around the world. ... On 15   December 2002, an earthquake occurred at 11.39pm. Centered ...",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e Latest information on \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e and around the world. \u003cb\u003e...\u003c/b\u003e On \u003cb\u003e15\u003c/b\u003e \u003cbr\u003e  December \u003cb\u003e2002\u003c/b\u003e, an \u003cb\u003eearthquake\u003c/b\u003e occurred at 11.39pm. Centered \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EA3NYFASfCwJ",
+   "formattedUrl": "www.brisbaneliveweather.com/earthquakes.php",
+   "htmlFormattedUrl": "www.brisbaneliveweather.com/\u003cb\u003eearthquakes\u003c/b\u003e.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.designbuildsource.com.au/wp-content/uploads/2012/11/Australia-Earthquake-Map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "235",
+      "height": "215",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT44oYTkqOXag7qgucFSQUeuzdHAyQHBogzH1fOb2ffT3F94AsUPhx-Dmo"
+     }
+    ]
+   }
+  }
+ ]
+}

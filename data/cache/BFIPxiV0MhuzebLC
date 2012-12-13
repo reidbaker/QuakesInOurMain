@@ -1,0 +1,310 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 20 2001 Eurasia Earthquake",
+    "totalResults": "64200",
+    "searchTerms": "May 20 2001 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 20 2001 Eurasia Earthquake",
+    "totalResults": "64200",
+    "searchTerms": "May 20 2001 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.174599,
+  "formattedSearchTime": "0.17",
+  "totalResults": "64200",
+  "formattedTotalResults": "64,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Ferrara Earthquake Sequence 20.5.2012 ??? 29.5.2012",
+   "htmlTitle": "Ferrara \u003cb\u003eEarthquake\u003c/b\u003e Sequence 20.5.2012 ??? 29.5.2012",
+   "link": "http://www.cedim.de/2203.php",
+   "displayLink": "www.cedim.de",
+   "snippet": "May 29, 2012 ... M\u003e5.5 earthquake (Valensise and Pantosti, 2001, Burrato 2003). 3. ... From the   first earthquake on 20 May: 7 fatalities (4 direct, 3 indirect (heart ...",
+   "htmlSnippet": "May 29, 2012 \u003cb\u003e...\u003c/b\u003e M&gt;5.5 \u003cb\u003eearthquake\u003c/b\u003e (Valensise and Pantosti, \u003cb\u003e2001\u003c/b\u003e, Burrato 2003). 3. \u003cb\u003e...\u003c/b\u003e From the \u003cbr\u003e  first \u003cb\u003eearthquake\u003c/b\u003e on \u003cb\u003e20 May\u003c/b\u003e: 7 fatalities (4 direct, 3 indirect (heart \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2LyNriRCvu8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.cedim.de/2203.php",
+   "htmlFormattedUrl": "www.cedim.de/2203.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "tikupl",
+      "creationdate": "D:20120601103754+02'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20120601103754+02'00'",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "title": "Microsoft Word - 2012 May EQ Ferrara report v2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in India",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 27, 2011 ... This ???India deadly earthquake list??? has been compiled out of our Earthquake-  Report.com daily ???Deadly earthquakes lists???. The earthquakes ...",
+   "htmlSnippet": "Jan 27, 2011 \u003cb\u003e...\u003c/b\u003e This ???India deadly \u003cb\u003eearthquake\u003c/b\u003e list??? has been compiled out of our \u003cb\u003eEarthquake\u003c/b\u003e-\u003cbr\u003e  Report.com daily ???Deadly \u003cb\u003eearthquakes\u003c/b\u003e lists???. The \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/26/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-india/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Jos???? Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1903 Malazgirt earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1903 Malazgirt \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The country of Turkey is situated on a highly active section of the Eurasian Plate   boundary. ... Major earthquakes have taken place in the country as early as 411   B.C. In the 20th century, ... Retrieved May 3, 2010. ^ Ambraseys, N. (2001).",
+   "htmlSnippet": "The country of Turkey is situated on a highly active section of the \u003cb\u003eEurasian\u003c/b\u003e Plate \u003cbr\u003e  boundary. \u003cb\u003e...\u003c/b\u003e Major \u003cb\u003eearthquakes\u003c/b\u003e have taken place in the country as early as 411 \u003cbr\u003e  B.C. In the \u003cb\u003e20th\u003c/b\u003e century, \u003cb\u003e...\u003c/b\u003e Retrieved \u003cb\u003eMay\u003c/b\u003e 3, 2010. ^ Ambraseys, N. (\u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "IyR5zRaIRWAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/260px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "130",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1APbrsyOCdPXD5DVrwAx3ljyjMFt3Pszt2hV1HxJ-abZ-bk8AxETmGj0q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pn and Sn tomography across Eurasia to improve regional seismic ...",
+   "htmlTitle": "Pn and Sn tomography across \u003cb\u003eEurasia\u003c/b\u003e to improve regional \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://lemond.colorado.edu/pubs/2002/7.pdf",
+   "displayLink": "lemond.colorado.edu",
+   "snippet": "Received 13 September 2000; received in revised form 15 May 2001; accepted   15 June 2002. Abstract ... The Pn and Sn maps are estimated on a 1j ??1j grid   throughout Eurasia. ... (IMS) at regional distances less than 20???30j. Sparse   network ...",
+   "htmlSnippet": "Received 13 September 2000; received in revised form 15 \u003cb\u003eMay 2001\u003c/b\u003e; accepted \u003cbr\u003e  15 June 2002. Abstract \u003cb\u003e...\u003c/b\u003e The Pn and Sn maps are estimated on a 1j ??1j grid \u003cbr\u003e  throughout \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e (IMS) at regional distances less than \u003cb\u003e20\u003c/b\u003e???30j. Sparse \u003cbr\u003e  network \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WCq0r6y7bxwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "lemond.colorado.edu/pubs/2002/7.pdf",
+   "htmlFormattedUrl": "lemond.colorado.edu/pubs/2002/7.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20021030225805",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "title": "PII: S0040-1951(02)00416-X",
+      "moddate": "D:20021030225807+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This list of earthquakes in Greece includes notable earthquakes that have ... The   northern part of Greece lies on the Eurasian Plate while the southern part .... H.,   and Papanastassiou, D., R.; Lyon-Caen, H.; Papanastassiou, D. (May 9, 1991). ...   The%20tsunami%20of%20426%20BC%20in%20the%20Maliakos%20Gulf.pdf.",
+   "htmlSnippet": "This list of \u003cb\u003eearthquakes\u003c/b\u003e in Greece includes notable \u003cb\u003eearthquakes\u003c/b\u003e that have \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the southern part \u003cb\u003e....\u003c/b\u003e H., \u003cbr\u003e  and Papanastassiou, D., R.; Lyon-Caen, H.; Papanastassiou, D. (\u003cb\u003eMay\u003c/b\u003e 9, 1991). \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The%\u003cb\u003e20tsunami\u003c/b\u003e%\u003cb\u003e20of\u003c/b\u003e%20426%\u003cb\u003e20BC\u003c/b\u003e%\u003cb\u003e20in\u003c/b\u003e%\u003cb\u003e20the\u003c/b\u003e%\u003cb\u003e20Maliakos\u003c/b\u003e%\u003cb\u003e20Gulf\u003c/b\u003e.pdf.",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Tomography of the Arabian-Eurasian Collision Zone and ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Tomography of the Arabian-\u003cb\u003eEurasian\u003c/b\u003e Collision Zone and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "displayLink": "www.dtic.mil",
+   "snippet": "20 May 2010. APPROVED FOR ... Qualified requestors may obtain copies of this   report from the Defense. Technical Information ... SEISMIC TOMOGRAPHY OF   THE ARABIAN-EURASIAN COLLISION ZONE. 5a. ..... et al., 2001; Maggi and   Priestley, 2005) showing a thickened crust under the Caucasus and. Zagros, and   low ...",
+   "htmlSnippet": "\u003cb\u003e20 May\u003c/b\u003e 2010. APPROVED FOR \u003cb\u003e...\u003c/b\u003e Qualified requestors \u003cb\u003emay\u003c/b\u003e obtain copies of this \u003cbr\u003e  report from the Defense. Technical Information \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSEISMIC\u003c/b\u003e TOMOGRAPHY OF \u003cbr\u003e  THE ARABIAN-\u003cb\u003eEURASIAN\u003c/b\u003e COLLISION ZONE. 5a. \u003cb\u003e.....\u003c/b\u003e et al., \u003cb\u003e2001\u003c/b\u003e; Maggi and \u003cbr\u003e  Priestley, 2005) showing a thickened crust under the Caucasus and. Zagros, and \u003cbr\u003e  low \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SncVpbfhL5gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ford",
+      "creationdate": "D:20100602103736-04'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20100721112503-04'00'",
+      "producer": "Acrobat Distiller 9.3.2 (Windows)",
+      "title": "Microsoft Word - 07C0001_final_b.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "geotechnical aspects of may 20, 2012 m5.9 emilia earthquake, italy",
+   "htmlTitle": "geotechnical aspects of \u003cb\u003emay 20\u003c/b\u003e, 2012 m5.9 emilia \u003cb\u003eearthquake\u003c/b\u003e, italy",
+   "link": "http://www.geerassociation.org/GEER_Post%20EQ%20Reports/Italy_2012/2012_Emilia_Earthquake_Report.pdf",
+   "displayLink": "www.geerassociation.org",
+   "snippet": "Jul 13, 2012 ... kinematic situation (medium post-Pleistocene) with respect to the Eurasian. ...   number of earthquakes, which occurred in this area from May 19 through June 5   ... structures that generated the events of May 20th and May 29th. ..... (2001),   method B based on the approach proposed by Idriss and Boulanger ...",
+   "htmlSnippet": "Jul 13, 2012 \u003cb\u003e...\u003c/b\u003e kinematic situation (medium post-Pleistocene) with respect to the \u003cb\u003eEurasian\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  number of \u003cb\u003eearthquakes\u003c/b\u003e, which occurred in this area from \u003cb\u003eMay\u003c/b\u003e 19 through June 5 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e structures that generated the events of \u003cb\u003eMay 20th\u003c/b\u003e and \u003cb\u003eMay\u003c/b\u003e 29th. \u003cb\u003e.....\u003c/b\u003e (\u003cb\u003e2001\u003c/b\u003e), \u003cbr\u003e  method B based on the approach proposed by Idriss and Boulanger \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B0KRcvQYt1AJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geerassociation.org/GEER.../2012_Emilia_Earthquake_Report.pdf",
+   "htmlFormattedUrl": "www.geerassociation.org/GEER.../2012_Emilia_\u003cb\u003eEarthquake\u003c/b\u003e_Report.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Microsoft?? Office Word 2007",
+      "creator": "Microsoft?? Office Word 2007",
+      "creationdate": "D:20120713152309+02'00'",
+      "moddate": "D:20120713152309+02'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.5 - 32km NNE of Uttarkashi, India 2012-11-27 12:15:18 UTC",
+   "htmlTitle": "M4.5 - 32km NNE of Uttarkashi, India 2012-11-27 12:15:18 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dyx0",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 27, 2012 ... Earthquake Hazards Program ... Earthquake location 31.014??N, 78.530??E ....   However, if you do not provide contact information, we may be unable to ... 21.8   mi 32km 20mi nne uttarkashi india 70km 43mi n tehri india 75km 47mi ... vicinity   himalaya dominantly results from continental collision india eurasia ...",
+   "htmlSnippet": "Nov 27, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e location 31.014??N, 78.530??E \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  However, if you do not provide contact information, we \u003cb\u003emay\u003c/b\u003e be unable to \u003cb\u003e...\u003c/b\u003e 21.8 \u003cbr\u003e  mi 32km \u003cb\u003e20mi\u003c/b\u003e nne uttarkashi india 70km 43mi n tehri india 75km 47mi \u003cb\u003e...\u003c/b\u003e vicinity \u003cbr\u003e  himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RlaOukMnC0gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dyx0",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dyx0"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Watchers - Understanding the 6.9 Sikkim earthquake",
+   "htmlTitle": "The Watchers - Understanding the 6.9 Sikkim \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://thewatchers.adorraeli.com/2011/09/20/understanding-the-6-9-sikkim-earthquake/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Posted on September 20, 2011 Posted in: Seismic activity ... At the latitude of the   September 18 earthquake, the India plate converges with Eurasia at a rate of ...   number of signs in the last few days indicating major change may be unfolding.",
+   "htmlSnippet": "Posted on September \u003cb\u003e20\u003c/b\u003e, 2011 Posted in: \u003cb\u003eSeismic\u003c/b\u003e activity \u003cb\u003e...\u003c/b\u003e At the latitude of the \u003cbr\u003e  September 18 \u003cb\u003eearthquake\u003c/b\u003e, the India plate converges with \u003cb\u003eEurasia\u003c/b\u003e at a rate of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  number of signs in the last few days indicating major change \u003cb\u003emay\u003c/b\u003e be unfolding.",
+   "cacheId": "cW0lwAV-2nwJ",
+   "formattedUrl": "thewatchers.adorraeli.com/.../20/understanding-the-6-9-sikkim-earthquake/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/.../\u003cb\u003e20\u003c/b\u003e/understanding-the-6-9-sikkim-\u003cb\u003eearthquake\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2011/09/untitled-1-e1316509806389.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "297",
+      "height": "170",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3l4vCHI3_3CV6OwZeftg45s3LzdLJ-HMlZWYIybGAD6B1msCPRSBdk6bL"
+     }
+    ],
+    "article": [
+     {
+      "name": "Understanding the 6.9 Sikkim earthquake",
+      "description": "TECTONIC SUMMARY A magnitude 6.9 earthquake hit Sikkim, India 12:40:48 UT (10:48 PM at epicenter). The depth of the hypocenter was at 20.7 km. The earthquake caused victims and huge damage...",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Understanding the 6.9 Sikkim earthquake",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2011/09/20/understanding-the-6-9-sikkim-earthquake?year=2011&monthnum=09&day=20&name=understanding-the-6-9-sikkim-earthquake",
+      "og:description": "TECTONIC SUMMARY A magnitude 6.9 earthquake hit Sikkim, India 12:40:48 UT (10:48 PM at epicenter). The depth of the hypocenter was at 20.7 km. The earthquake caused victims and huge damage in Sikkim (India), India and Nepal. It was also well felt in Bangladesh. The September 18, 2011 in Sikkim region, India earthquake occurred near the boundary between the India and Eurasia plates, in the mountainous region of northeast India near the Nepalese border. Initial analysis suggest the earthquake was complex, likely a result of two events occurring close together in time at depths of approximately 20 km beneath the...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:image": "http://thewatchers.adorraeli.com/wp-content/uploads/2011/09/untitled-1-e1316509806389.jpg",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "ss",
+      "nickname": "ss"
+     },
+     {
+      "fn": "MARIO",
+      "nickname": "MARIO"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.7 - 21km W of Farkhor, Tajikistan 2012-10-20 17:31:59 UTC",
+   "htmlTitle": "M4.7 - 21km W of Farkhor, Tajikistan 2012-10-\u003cb\u003e20\u003c/b\u003e 17:31:59 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000d9me",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 20, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   .... However, if you do not provide contact information, we may be ... Eurasia   generates numerous earthquakes and consequently makes this .... M7.6 Manyi   earthquake and the 14th November 2001, M7.8 Kokoxili earthquake.",
+   "htmlSnippet": "Oct 20, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e However, if you do not provide contact information, we \u003cb\u003emay\u003c/b\u003e be \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e \u003cbr\u003e  generates numerous \u003cb\u003eearthquakes\u003c/b\u003e and consequently makes this \u003cb\u003e....\u003c/b\u003e M7.6 Manyi \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e and the 14th November \u003cb\u003e2001\u003c/b\u003e, M7.8 Kokoxili \u003cb\u003eearthquake\u003c/b\u003e.",
+   "cacheId": "Ns4d75QRDeQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000d9me",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000d9me"
+  }
+ ]
+}

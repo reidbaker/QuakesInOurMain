@@ -1,0 +1,316 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 26 2001 Africa Earthquake",
+    "totalResults": "731000",
+    "searchTerms": "Jun 26 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 26 2001 Africa Earthquake",
+    "totalResults": "731000",
+    "searchTerms": "Jun 26 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.220285,
+  "formattedSearchTime": "0.22",
+  "totalResults": "731000",
+  "formattedTotalResults": "731,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 26 2001 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 26 2001 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, ... 4.9, SOUTH   AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222 ... 6.7, NEAR   THE COAST OF SOUTHERN PERU, Jun 26 2001, 04:18:32 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, \u003cb\u003e...\u003c/b\u003e 4.9, SOUTH \u003cbr\u003e  \u003cb\u003eAFRICA\u003c/b\u003e, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222 \u003cb\u003e...\u003c/b\u003e 6.7, NEAR \u003cbr\u003e  THE COAST OF SOUTHERN PERU, \u003cb\u003eJun 26 2001\u003c/b\u003e, 04:18:32 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AIDS in India | PBS NewsHour | June 26, 2001 | PBS",
+   "htmlTitle": "AIDS in India | PBS NewsHour | \u003cb\u003eJune 26, 2001\u003c/b\u003e | PBS",
+   "link": "http://www.pbs.org/newshour/bb/health/jan-june01/aidsindia_6-26.html",
+   "displayLink": "www.pbs.org",
+   "snippet": "ANALYSIS AIR DATE: June 26, 2001 ... While much of the focus has been on the   devastation in Africa, Annan ... FRED DE SAM LAZARO: In a country that has had   to mobilize against massive earthquakes and killer floods, AIDS has seemed to ...",
+   "htmlSnippet": "ANALYSIS AIR DATE: \u003cb\u003eJune 26, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e While much of the focus has been on the \u003cbr\u003e  devastation in \u003cb\u003eAfrica\u003c/b\u003e, Annan \u003cb\u003e...\u003c/b\u003e FRED DE SAM LAZARO: In a country that has had \u003cbr\u003e  to mobilize against massive \u003cb\u003eearthquakes\u003c/b\u003e and killer floods, AIDS has seemed to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "F_YY_KZWlxQJ",
+   "formattedUrl": "www.pbs.org/newshour/bb/health/jan-june01/aidsindia_6-26.html",
+   "htmlFormattedUrl": "www.pbs.org/newshour/bb/health/jan-\u003cb\u003ejune\u003c/b\u003e01/aidsindia_6-\u003cb\u003e26\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pbs.org/newshour/images/health/jan-june01/tarb.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "87",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSD3_wF7d4utVr_lPD07dcueIWIR36Zd4RL71u3fzo3JKHnMP7ttR_uvg"
+     }
+    ],
+    "mediaobject": [
+     {
+      "name": "AIDS in India",
+      "description": "AIDS is spreading through India at an alarming rate, fueled by a brisk sex trade and a tradition of public silence."
+     }
+    ],
+    "metatags": [
+     {
+      "title": "AIDS in India  | PBS NewsHour | June 26, 2001",
+      "date": "2001-06-26T00:00:00-04:00",
+      "author": "PBS NewsHour",
+      "copyright": "Copyright 2012 PBS NewsHour",
+      "og:title": "AIDS in India  | PBS NewsHour | June 26, 2001",
+      "og:description": "AIDS is spreading through India at an alarming rate, fueled by a brisk sex trade and a tradition of public silence.",
+      "og:image": "http://www.pbs.org/newshour/images/health/jan-june01/tarb.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV). 02001-01  -26January 26, 2001, 03:16, Gujarat, India see 2001 ... June 3, 2001, 02:41,   Kermadec Islands, ???29.666, ???178.633, 0, 7.2, Mw (HRV) ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV). 02001-01\u003cbr\u003e  -\u003cb\u003e26\u003c/b\u003eJanuary \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, 03:16, Gujarat, India see \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJune\u003c/b\u003e 3, \u003cb\u003e2001\u003c/b\u003e, 02:41, \u003cbr\u003e  Kermadec Islands, ???29.666, ???178.633, 0, 7.2, Mw (HRV) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SCIENCE OF TSUNAMI HAZARDS",
+   "htmlTitle": "SCIENCE OF TSUNAMI HAZARDS",
+   "link": "http://tsunamisociety.org/312GPC.pdf",
+   "displayLink": "tsunamisociety.org",
+   "snippet": "earthquake. According to Peru's Civil Defense Institute, as of June 26, 2001, 118   people had been killed, another 1,578 were injured, 53 were unaccounted and ...",
+   "htmlSnippet": "\u003cb\u003eearthquake\u003c/b\u003e. According to Peru&#39;s Civil Defense Institute, as of \u003cb\u003eJune 26, 2001\u003c/b\u003e, 118 \u003cbr\u003e  people had been killed, another 1,578 were injured, 53 were unaccounted and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "E1IiwHVrDeQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "tsunamisociety.org/312GPC.pdf",
+   "htmlFormattedUrl": "tsunamisociety.org/312GPC.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "312GPC",
+      "author": "Admin",
+      "producer": "Mac OS X 10.7.4 Quartz PDFContext",
+      "creator": "Word",
+      "creationdate": "D:20120605053701Z00'00'",
+      "moddate": "D:20120605053701Z00'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Tsunamis",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Tsunamis",
+   "link": "http://na.unep.net/atlas/onePlanetManyPeople/images/chapters/Atlas_Chapter4_Screen.pdf",
+   "displayLink": "na.unep.net",
+   "snippet": "Northern Sumatra earthquake of December 26, 2004. .... 2001). Millions of tonnes   of sulfur di- oxide gas may reach the upper atmosphere ... 1983 and June 1986.   ...... What makes drought in the Horn of Africa an issue of global interest is its ...",
+   "htmlSnippet": "Northern Sumatra \u003cb\u003eearthquake\u003c/b\u003e of December \u003cb\u003e26\u003c/b\u003e, 2004. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e). Millions of tonnes \u003cbr\u003e  of sulfur di- oxide gas may reach the upper atmosphere \u003cb\u003e...\u003c/b\u003e 1983 and \u003cb\u003eJune\u003c/b\u003e 1986. \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e What makes drought in the Horn of \u003cb\u003eAfrica\u003c/b\u003e an issue of global interest is its \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7kqCtp7ciUEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "na.unep.net/atlas/onePlanetManyPeople/images/.../Atlas_Chapter4_Screen.pdf",
+   "htmlFormattedUrl": "na.unep.net/atlas/onePlanetManyPeople/images/.../Atlas_Chapter4_Screen.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20051110115322-06'00'",
+      "creationdate": "D:20051108194159-06'00'",
+      "title": "untitled",
+      "producer": "Acrobat Distiller 6.0 for Macintosh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reports | OCHA",
+   "htmlTitle": "Reports | OCHA",
+   "link": "http://www.unocha.org/what-we-do/policy/thematic-areas/evaluations-of-humanitarian-response/reports",
+   "displayLink": "www.unocha.org",
+   "snippet": "Regional IA RTE of the Response to the Horn of Africa Drought (June 2012) ....   Operations Following the Earthquake in Gujarat, India - 26 January 2001 A ...",
+   "htmlSnippet": "Regional IA RTE of the Response to the Horn of \u003cb\u003eAfrica\u003c/b\u003e Drought (\u003cb\u003eJune\u003c/b\u003e 2012) \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Operations Following the \u003cb\u003eEarthquake\u003c/b\u003e in Gujarat, India - \u003cb\u003e26\u003c/b\u003e January \u003cb\u003e2001\u003c/b\u003e A \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ky1ljaXBrfQJ",
+   "formattedUrl": "www.unocha.org/what-we-do/policy/thematic-areas/.../reports",
+   "htmlFormattedUrl": "www.unocha.org/what-we-do/policy/thematic-areas/.../reports",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.unocha.org/sites/default/files/OCHA_Category/PolicyConferenceVideo.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "99",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxBYqc5zlPT1WiOdEN3FZIC3rodssIrVYAbMPTkN4vdQXC2rdc4ZqPKw"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "UN Office for the Coordination of Humanitarian Affairs",
+      "abstract": "OCHA is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.eoearth.org/article/Earthquake",
+   "displayLink": "www.eoearth.org",
+   "snippet": "Sep 18, 2012 ... Figure 6: Earthquake of June 16, 1964 in Niigata, Japan had a magnitude of 7.4.   Liquefaction of some soils .... January 26, 2001. Gujarat, India ...",
+   "htmlSnippet": "Sep 18, 2012 \u003cb\u003e...\u003c/b\u003e Figure 6: \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eJune\u003c/b\u003e 16, 1964 in Niigata, Japan had a magnitude of 7.4. \u003cbr\u003e  Liquefaction of some soils \u003cb\u003e....\u003c/b\u003e January \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e. Gujarat, India \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6EW6L0xuCUMJ",
+   "formattedUrl": "www.eoearth.org/article/Earthquake",
+   "htmlFormattedUrl": "www.eoearth.org/article/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.eoearth.org/images/163668/500x0/scale/Earthquake.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "USGS"
+     }
+    ],
+    "person": [
+     {
+      "name": "Michael Pidwirny"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "296",
+      "height": "170",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVj1MhkFXG056LCRiNsj017SBuq0sBJTJFANlEl3KADk13a3FgcbmejU8"
+     }
+    ],
+    "article": [
+     {
+      "name": "Earthquake",
+      "datepublished": "July 18, 2010, 2:05 pm",
+      "datemodified": "September 18, 2012, 5:06 pm",
+      "articlesection": "Hazards & Disasters",
+      "articlebody": "An earthquake is a sudden vibration or trembling in the Earth. More than 150,000 tremors strong enough to be felt by humans occur each year worldwide (see Chance of an Earthquake). Earthquake..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.disasternews.net/news/news.php?topic=Earthquakes",
+   "displayLink": "www.disasternews.net",
+   "snippet": "Through original reporting, Disaster News Network (DNN) tells ...",
+   "htmlSnippet": "Through original reporting, Disaster News Network (DNN) tells \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JJ5O1ms-c8QJ",
+   "formattedUrl": "www.disasternews.net/news/news.php?topic=Earthquakes",
+   "htmlFormattedUrl": "www.disasternews.net/news/news.php?topic=\u003cb\u003eEarthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKE",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e",
+   "link": "http://www.greatdreams.com/earthquake_database.htm",
+   "displayLink": "www.greatdreams.com",
+   "snippet": "TOTAL SOLAR ECLIPSE - JUNE 21, 2001 - THE EARTHQUAKE CONNECTION .  .. EARTHQUAKE IN INDIA - 1-26-2001 ... Total path of 11 Aug 99 eclipse:Map ...",
+   "htmlSnippet": "TOTAL SOLAR ECLIPSE - \u003cb\u003eJUNE\u003c/b\u003e 21, \u003cb\u003e2001\u003c/b\u003e - THE \u003cb\u003eEARTHQUAKE\u003c/b\u003e CONNECTION .\u003cbr\u003e  .. \u003cb\u003eEARTHQUAKE\u003c/b\u003e IN INDIA - 1-\u003cb\u003e26\u003c/b\u003e-\u003cb\u003e2001\u003c/b\u003e ... Total path of 11 Aug 99 eclipse:Map \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "N4XKWMEeYKAJ",
+   "formattedUrl": "www.greatdreams.com/earthquake_database.htm",
+   "htmlFormattedUrl": "www.greatdreams.com/\u003cb\u003eearthquake\u003c/b\u003e_database.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Volcanic Eruptions ??? Infoplease.com",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions ??? Infoplease.com",
+   "link": "http://www.infoplease.com/ipa/A0001439.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "9, Aleppo, Syria: deadly earthquake claimed lives of 230,000 people. ... 1877:   June 26, north-central Ecuador: eruption of Mt. Cotopaxi caused severe   mudflows ...",
+   "htmlSnippet": "9, Aleppo, Syria: deadly \u003cb\u003eearthquake\u003c/b\u003e claimed lives of 230,000 people. \u003cb\u003e...\u003c/b\u003e 1877: \u003cbr\u003e  \u003cb\u003eJune 26\u003c/b\u003e, north-central Ecuador: eruption of Mt. Cotopaxi caused severe \u003cbr\u003e  mudflows \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eiPTxuWU3LMJ",
+   "formattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "htmlFormattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "chunk": "ART",
+      "idx": "Disasters",
+      "isub": "earthquake in (1755)",
+      "title": "Earthquakes and Volcanic Eruptions",
+      "waif": "Earthquakes",
+      "uniqid": "A0001439",
+      "parent": "A0001437",
+      "subchannel": "world",
+      "channel": "world"
+     }
+    ]
+   }
+  }
+ ]
+}

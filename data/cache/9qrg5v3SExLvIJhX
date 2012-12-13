@@ -1,0 +1,368 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 21 2002 Africa Earthquake",
+    "totalResults": "527000",
+    "searchTerms": "Mar 21 2002 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 21 2002 Africa Earthquake",
+    "totalResults": "527000",
+    "searchTerms": "Mar 21 2002 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.203201,
+  "formattedSearchTime": "0.20",
+  "totalResults": "527000",
+  "formattedTotalResults": "527,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "htmlTitle": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... Jon Frimann (Iceland Earthquakes and Volcanoes blog) reports a ..... A small   pyroclastic flow reaching 300 m length occurred during an explosion on 21 May.   ... in recent years since the start of near continuous activity in 2002.",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e Jon Frimann (Iceland \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanoes blog) reports a \u003cb\u003e.....\u003c/b\u003e A small \u003cbr\u003e  pyroclastic flow reaching 300 m length occurred during an explosion on \u003cb\u003e21\u003c/b\u003e May. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e in recent years since the start of near continuous activity in \u003cb\u003e2002\u003c/b\u003e.",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Earthquake Report, sign up for Facebook today. .... Earthquakes   to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4 people ...",
+   "htmlSnippet": "To connect with \u003cb\u003eEarthquake\u003c/b\u003e Report, sign up for Facebook today. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e \u003cbr\u003e  to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 people \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 4.6,   SOUTH AFRICA, Mar 21 2002, 16:05:33, -26.480, 27.408 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 4.6, \u003cbr\u003e  SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eMar 21 2002\u003c/b\u003e, 16:05:33, -26.480, 27.408 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3H1QGN8v88wJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2002\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes _ Plate Boundaries -",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e _ Plate Boundaries -",
+   "link": "http://www.docstoc.com/docs/50447633/Earthquakes-_-Plate-Boundaries--",
+   "displayLink": "www.docstoc.com",
+   "snippet": "Aug 15, 2010 ... Mr. Dedrick ??? Earth Science Name:Lab #17 ??? Earthquakes and Plate Boundaries   ... 3/21/02 16:05 26.477 S 27.596 E 5 4.6 SOUTH AFRICA ...",
+   "htmlSnippet": "Aug 15, 2010 \u003cb\u003e...\u003c/b\u003e Mr. Dedrick ??? Earth Science Name:Lab #17 ??? \u003cb\u003eEarthquakes\u003c/b\u003e and Plate Boundaries \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003e3/21/02\u003c/b\u003e 16:05 26.477 S 27.596 E 5 4.6 SOUTH \u003cb\u003eAFRICA\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NivGhyPeY7oJ",
+   "formattedUrl": "www.docstoc.com/docs/50447633/Earthquakes-_-Plate-Boundaries--",
+   "htmlFormattedUrl": "www.docstoc.com/docs/50447633/\u003cb\u003eEarthquakes\u003c/b\u003e-_-Plate-Boundaries--",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.docstoccdn.com/thumb/100/50447633.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdt9ymrojghGHyEukWoOgXCgRyEnhHQfkbQCQwV7UJsdUut93-Qd4-2Q"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Earthquakes _ Plate Boundaries -",
+      "dc_creator": "linqing",
+      "media_width": "420",
+      "media_height": "280",
+      "og:title": "Earthquakes _ Plate Boundaries -",
+      "og:site_name": "Docstoc.com",
+      "og:description": "Mr. Dedrick ??? Earth Science                                  Name:Lab #17 ??? Earthquakes and Plate Boundaries                   Date:IntroductionThe theory of plate tectonics attempts to explain changes in the earth's crust and its surface. Plate tectonicsdescribes the motion of these crustal plates as they 'float' upon the denser semi-liq",
+      "og:url": "http://www.docstoc.com/docs/50447633/Earthquakes-_-Plate-Boundaries--",
+      "og:image": "http://img.docstoccdn.com/thumb/100/50447633.png",
+      "fb:app_id": "127594755061",
+      "og:type": "docstoc_com:document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic wave",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e wave",
+   "link": "http://www.sciencedaily.com/articles/s/seismic_wave.htm",
+   "displayLink": "www.sciencedaily.com",
+   "snippet": "There are two types of seismic wave, namely, 'body wave' and 'surface wave'. ...   Weird Wave Behavior Near Earth's Core (March 21, 2002) ??? Strange things ...",
+   "htmlSnippet": "There are two types of \u003cb\u003eseismic\u003c/b\u003e wave, namely, &#39;body wave&#39; and &#39;surface wave&#39;. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Weird Wave Behavior Near Earth&#39;s Core (\u003cb\u003eMarch 21, 2002\u003c/b\u003e) ??? Strange things \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qCjelaHH1mUJ",
+   "formattedUrl": "www.sciencedaily.com/articles/s/seismic_wave.htm",
+   "htmlFormattedUrl": "www.sciencedaily.com/articles/s/\u003cb\u003eseismic\u003c/b\u003e_wave.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "last-modified": "Sat, 08 Dec 2012 18:02:53 GMT",
+      "expires": "Sun, 09 Dec 2012 18:02:53 GMT",
+      "pics-label": "(PICS-1.1 'http://www.rsac.org/ratingsv01.html' l gen true comment 'RSACi North America Server' by 'editor@sciencedaily.com' for 'http://www.sciencedaily.com' on '1997.05.07T20:05-0500' r (n 0 s 0 v 0 l 0))",
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Long Fall of Global Crossing | PBS NewsHour | March 21, 2002 ...",
+   "htmlTitle": "The Long Fall of Global Crossing | PBS NewsHour | \u003cb\u003eMarch 21, 2002\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pbs.org/newshour/bb/business/jan-june02/crossing_3-21.html",
+   "displayLink": "www.pbs.org",
+   "snippet": "Topics ?? Video ?? Recent Programs ?? Teacher Resources ?? The Rundown: news   blog ?? Subscribe rss | podcast; Search. ANALYSIS AIR DATE: March 21, 2002 ...",
+   "htmlSnippet": "Topics &middot; Video &middot; Recent Programs &middot; Teacher Resources &middot; The Rundown: news \u003cbr\u003e  blog &middot; Subscribe rss | podcast; Search. ANALYSIS AIR DATE: \u003cb\u003eMarch 21, 2002\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iYLD6CVyyZ4J",
+   "formattedUrl": "www.pbs.org/newshour/bb/business/jan.../crossing_3-21.html",
+   "htmlFormattedUrl": "www.pbs.org/newshour/bb/business/jan.../crossing_3-\u003cb\u003e21\u003c/b\u003e.html",
+   "pagemap": {
+    "mediaobject": [
+     {
+      "name": "The Long Fall of Global Crossing",
+      "description": "Jeffrey Kaye of KCET Los Angeles reports on the corporate collapse of Global Crossing."
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Long Fall of Global Crossing | PBS NewsHour | March 21, 2002",
+      "date": "2002-03-21T00:00:00-05:00",
+      "author": "PBS NewsHour",
+      "copyright": "Copyright 2012 PBS NewsHour",
+      "og:title": "The Long Fall of Global Crossing | PBS NewsHour | March 21, 2002",
+      "og:description": "Jeffrey Kaye of KCET Los Angeles reports on the corporate collapse of Global Crossing."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Discovery Supports Theory Of A Single Species Of Human Ancestor",
+   "htmlTitle": "Discovery Supports Theory Of A Single Species Of Human Ancestor",
+   "link": "http://www.sciencedaily.com/releases/2002/03/020321070818.htm",
+   "displayLink": "www.sciencedaily.com",
+   "snippet": "ScienceDaily (Mar. 21, 2002) ??? New Haven, Conn. - The discovery of a million-  year-old skull in Ethiopia indicates that a single species of human ancestor, ...",
+   "htmlSnippet": "ScienceDaily (\u003cb\u003eMar. 21, 2002\u003c/b\u003e) ??? New Haven, Conn. - The discovery of a million-\u003cbr\u003e  year-old skull in Ethiopia indicates that a single species of human ancestor, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YIstc5-2HLAJ",
+   "formattedUrl": "www.sciencedaily.com/releases/2002/03/020321070818.htm",
+   "htmlFormattedUrl": "www.sciencedaily.com/releases/\u003cb\u003e2002\u003c/b\u003e/03/020321070818.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "date": "2002-03-21",
+      "last-modified": "Tue, 04 Dec 2012 02:10:21 GMT",
+      "expires": "Tue, 04 Dec 2012 03:10:21 GMT",
+      "pics-label": "(PICS-1.1 'http://www.rsac.org/ratingsv01.html' l gen true comment 'RSACi North America Server' by 'editor@sciencedaily.com' for 'http://www.sciencedaily.com' on '1997.05.07T20:05-0500' r (n 0 s 0 v 0 l 0))",
+      "og:title": "Discovery Supports Theory Of A Single Species Of Human Ancestor",
+      "og:type": "article",
+      "og:url": "http://www.sciencedaily.com/releases/2002/03/020321070818.htm",
+      "og:description": "The discovery of a million-year-old skull in Ethiopia indicates that a single species of human ancestor, Homo erectus, ranged from Europe to Africa to Asia in the Pleistocene era, according to the cover article in the March 21 issue of the journal Nature.",
+      "og:site_name": "ScienceDaily"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Earthquakes",
+   "htmlTitle": "Historical \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/index.php?option=com_content&view=article&id=1612:historical-earthquakes&catid=138:seismology-unit-activities&Itemid=615",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "The knowledge of early earthquakes in South Africa, as in other parts of the world   .... to Mossel Bay, George; especially at Oudtshoorn: 33,5??S, 21,9??E (USCGS) ...   In Tulbagh/Ceres area 10 tremors were felt on 4 Mar 1970; at Ceres at 01:00 a   readning of 4 Richter Scale. ... Field map compilation in NE Mozambique 2002.  jpg ...",
+   "htmlSnippet": "The knowledge of early \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAfrica\u003c/b\u003e, as in other parts of the world \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e to Mossel Bay, George; especially at Oudtshoorn: 33,5??S, \u003cb\u003e21\u003c/b\u003e,9??E (USCGS) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  In Tulbagh/Ceres area 10 tremors were felt on 4 \u003cb\u003eMar\u003c/b\u003e 1970; at Ceres at 01:00 a \u003cbr\u003e  readning of 4 Richter Scale. \u003cb\u003e...\u003c/b\u003e Field map compilation in NE Mozambique \u003cb\u003e2002\u003c/b\u003e.\u003cbr\u003e  jpg \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HzRAmQ_5o1MJ",
+   "formattedUrl": "www.geoscience.org.za/index.php?...earthquakes...",
+   "htmlFormattedUrl": "www.geoscience.org.za/index.php?...\u003cb\u003eearthquakes\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Historical Earthquakes",
+      "author": "Malcolm Simpson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indian Ocean | Economist - World News, Politics, Economics ...",
+   "htmlTitle": "Indian Ocean | Economist - World News, Politics, Economics \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.economist.com/topics/indian-ocean",
+   "displayLink": "www.economist.com",
+   "snippet": "Mar 21st 2011, 5:30 from Graphic detail. The Japanese earthquake could be the   costliest disaster ever39. No stopping them ... South Africa diary: Over and out.   Dec 14th 2007, 5:36 ... Mar 21st 2002, 11:49 from Print edition0. 1; 2 ?? next ??? ?? last   ?? ...",
+   "htmlSnippet": "Mar 21st 2011, 5:30 from Graphic detail. The Japanese \u003cb\u003eearthquake\u003c/b\u003e could be the \u003cbr\u003e  costliest disaster ever39. No stopping them \u003cb\u003e...\u003c/b\u003e South \u003cb\u003eAfrica\u003c/b\u003e diary: Over and out. \u003cbr\u003e  Dec 14th 2007, 5:36 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMar 21st 2002\u003c/b\u003e, 11:49 from Print edition0. 1; 2 &middot; next ??? &middot; last \u003cbr\u003e  ?? \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UNTKcEGoHOUJ",
+   "formattedUrl": "www.economist.com/topics/indian-ocean",
+   "htmlFormattedUrl": "www.economist.com/topics/indian-ocean",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.economist.com/sites/default/files/imagecache/topics-thumbnail/20110205_IRP002_412.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "85",
+      "height": "85",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaHNVqGzRLN_rcqBtGj_H46A-mcGvV6hyTEDuKLBt0gZcWN-XUo5GJ"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:site": "@TheEconomist",
+      "fb:app_id": "173277756049645",
+      "og:site_name": "The Economist"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kinematics of the East African Rift from GPS and Earthquake Slip ...",
+   "htmlTitle": "Kinematics of the East \u003cb\u003eAfrican\u003c/b\u003e Rift from GPS and \u003cb\u003eEarthquake\u003c/b\u003e Slip \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "displayLink": "web.ics.purdue.edu",
+   "snippet": "Although the East African rift system (EAR) is often cited as the archetype for ... (  2002) used 2 GPS sites on the Somalian ...... Mar. Petrol. Geol., 17, 1131-1150.   Kaz'min, V.G., Zonenshayn L.P., Savostin, L.A. ... Geotectonics, 21, 452-460.",
+   "htmlSnippet": "Although the East \u003cb\u003eAfrican\u003c/b\u003e rift system (EAR) is often cited as the archetype for \u003cb\u003e...\u003c/b\u003e (\u003cbr\u003e  \u003cb\u003e2002\u003c/b\u003e) used 2 GPS sites on the Somalian \u003cb\u003e......\u003c/b\u003e \u003cb\u003eMar\u003c/b\u003e. Petrol. Geol., 17, 1131-1150. \u003cbr\u003e  Kaz&#39;min, V.G., Zonenshayn L.P., Savostin, L.A. \u003cb\u003e...\u003c/b\u003e Geotectonics, \u003cb\u003e21\u003c/b\u003e, 452-460.",
+   "cacheId": "l9mnsFHY0nAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "htmlFormattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060606100131-04'00'",
+      "creator": "Word",
+      "moddate": "D:20060606100131-04'00'",
+      "producer": "Mac OS X 10.3.9 Quartz PDFContext"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,377 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 8 1775 Eurasia Earthquake",
+    "totalResults": "991",
+    "searchTerms": "Sep 8 1775 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 8 1775 Eurasia Earthquake",
+    "totalResults": "991",
+    "searchTerms": "Sep 8 1775 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.196687,
+  "formattedSearchTime": "0.20",
+  "totalResults": "991",
+  "formattedTotalResults": "991"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1755 Lisbon earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1755 Lisbon \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1755 Lisbon earthquake, also known as the Great Lisbon Earthquake, ... 5   Development of seismology; 6 See also; 7 Notes; 8 References; 9 External links   ... the boundary between the African (Nubian) and the Eurasian continental   plates, ...",
+   "htmlSnippet": "The 1755 Lisbon \u003cb\u003eearthquake\u003c/b\u003e, also known as the Great Lisbon \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e 5 \u003cbr\u003e  Development of seismology; 6 See also; 7 Notes; \u003cb\u003e8\u003c/b\u003e References; 9 External links \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e the boundary between the African (Nubian) and the \u003cb\u003eEurasian\u003c/b\u003e continental \u003cbr\u003e  plates, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nCYGiJNDfNQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1755_Lisbon_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1755_Lisbon_Earthquake_Location.gif/240px-1755_Lisbon_Earthquake_Location.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "244",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjIgEQAQuNycIU8UKb4-dpEYE67xFco8cTRdBkFKtTcsX3iB-AU-Uaxcft"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "1755-11",
+      "summary": "1755 Lisbon earthquake"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "1755-11",
+      "summary": "1755 Lisbon earthquake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes of Dhaka | Syed Humayun Akhter - Academia.edu",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e of Dhaka | Syed Humayun Akhter - Academia.edu",
+   "link": "http://www.academia.edu/429823/Earthquakes_of_Dhaka",
+   "displayLink": "www.academia.edu",
+   "snippet": "These form two boundaries where plates converge??? the India-Eurasia plate ...   The potential for magnitude 8 or greater earthquakes on the nearby ... 1775   Earthquake Based on the degree of damage of the ground surface, .... The   earthquake was followed by eleven aftershocks during the period 21 July to 5   September ...",
+   "htmlSnippet": "These form two boundaries where plates converge??? the India-\u003cb\u003eEurasia\u003c/b\u003e plate \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The potential for magnitude \u003cb\u003e8\u003c/b\u003e or greater \u003cb\u003eearthquakes\u003c/b\u003e on the nearby \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1775\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e Based on the degree of damage of the ground surface, \u003cb\u003e....\u003c/b\u003e The \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e was followed by eleven aftershocks during the period 21 July to 5 \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oQzGGKBogVMJ",
+   "formattedUrl": "www.academia.edu/429823/Earthquakes_of_Dhaka",
+   "htmlFormattedUrl": "www.academia.edu/429823/\u003cb\u003eEarthquakes\u003c/b\u003e_of_Dhaka",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cfassets2.academia.edu/images/open-graph-icons/fb-paper.gif?a73840d740bdbb95f6ef159ee5afa482"
+     }
+    ],
+    "person": [
+     {
+      "url": "Syed Humayun Akhter",
+      "name": "Syed Humayun Akhter"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "2369844204",
+      "og:type": "article",
+      "og:url": "http://www.academia.edu/429823/Earthquakes_of_Dhaka",
+      "og:title": "Earthquakes of Dhaka",
+      "og:image": "http://cfassets2.academia.edu/images/open-graph-icons/fb-paper.gif?a73840d740bdbb95f6ef159ee5afa482",
+      "og:description": "\"Introduction: Dhaka, one of the oldest historical cities in the Indian sub-continent and now the capital of Bangladesh, is vulnerable to earthquakes. In broad terms, Bangladesh is an earthquake-prone country; its northern and eastern regions in",
+      "article:author": "http://univdhaka.academia.edu/SyedHumayunAkhter"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of tsunamis in Europe - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of tsunamis in Europe - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_tsunamis_in_Europe",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Most of the earthquakes occur on the Eurasian Plate but earthquakes and   submarine landslide also occur in western ... 5 September 1767, Republic of   Ireland ...",
+   "htmlSnippet": "Most of the \u003cb\u003eearthquakes\u003c/b\u003e occur on the \u003cb\u003eEurasian\u003c/b\u003e Plate but \u003cb\u003eearthquakes\u003c/b\u003e and \u003cbr\u003e  submarine landslide also occur in western \u003cb\u003e...\u003c/b\u003e 5 \u003cb\u003eSeptember\u003c/b\u003e 1767, Republic of \u003cbr\u003e  Ireland \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P7BKZxU97kcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_tsunamis_in_Europe",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_tsunamis_in_Europe",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/9/92/Messina_earthquake.jpg/220px-Messina_earthquake.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "110",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeL4l8__EdaDbwSE7XmVKR4nIdM6YHjePzwwDXKUbbL0VZto8Wb8vTeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Protection Against Severe Earthquake Risks in Central Asia ...",
+   "htmlTitle": "Protection Against Severe \u003cb\u003eEarthquake\u003c/b\u003e Risks in Central Asia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.brookings.edu/research/opinions/2010/03/23-central-asia-linn",
+   "displayLink": "www.brookings.edu",
+   "snippet": "Mar 23, 2010 ... On January 2, 2010, a 5.3 magnitude earthquake hit a number of remote villages   in Tajikistan. ... Located at the intersection of the Indian and Eurasian tectonic .... [  8]. The bottom line is that there has been little progress in this critical .... City in   the Republic of Kazakhstan, Interim Report, September 2008.",
+   "htmlSnippet": "Mar 23, 2010 \u003cb\u003e...\u003c/b\u003e On January 2, 2010, a 5.3 magnitude \u003cb\u003eearthquake\u003c/b\u003e hit a number of remote villages \u003cbr\u003e  in Tajikistan. \u003cb\u003e...\u003c/b\u003e Located at the intersection of the Indian and \u003cb\u003eEurasian\u003c/b\u003e tectonic \u003cb\u003e....\u003c/b\u003e [\u003cbr\u003e  \u003cb\u003e8\u003c/b\u003e]. The bottom line is that there has been little progress in this critical \u003cb\u003e....\u003c/b\u003e City in \u003cbr\u003e  the Republic of Kazakhstan, Interim Report, \u003cb\u003eSeptember\u003c/b\u003e 2008.",
+   "cacheId": "K839c_vVP5MJ",
+   "formattedUrl": "www.brookings.edu/research/opinions/2010/03/23-central-asia-linn",
+   "htmlFormattedUrl": "www.brookings.edu/research/opinions/2010/03/23-central-asia-linn",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Protection Against Severe Earthquake Risks in Central Asia",
+      "ces:title": "Protection Against Severe Earthquake Risks in Central Asia",
+      "ces:contentdate": "2010/03/23 13:12:00",
+      "ces:experts": "Johannes F. Linn",
+      "ces:topics": "Energy and Environment ; International Affairs ; Global Development ; Natural Disasters ; Global Governance ; Developing Countries ; Global Poverty",
+      "ces:topicsbroad": "Energy and Environment ; International Affairs ; Global Development",
+      "ces:topicsspecialized": "Natural Disasters ; Global Governance ; Developing Countries ; Global Poverty",
+      "ces:geographies": "Russia and Eurasia ; Central Asia",
+      "ces:geographiesbroad": "Russia and Eurasia",
+      "ces:geographiesspecialized": "Central Asia",
+      "ces:programs": "Global Economy and Development",
+      "ces:centers": "Wolfensohn Center for Development",
+      "ces:researchactivities": "Wolfensohn Center for Development ; Global Economy and Development",
+      "ces:broadcontenttype": "Commentary",
+      "ces:authors": "Johannes F. Linn",
+      "og:title": "Protection Against Severe Earthquake Risks in Central Asia",
+      "og:type": "article",
+      "og:url": "http://www.brookings.edu/research/opinions/2010/03/23-central-asia-linn",
+      "og:description": "The Haiti and Chile earthquakes should serve as a wakeup call for Central Asia, a region with a high risk of intensive seismic action that is poorly prepared to deal with this high disaster risk. Johannes Linn urges that national and international attention and action must be focused on developing better risk reduction, preparedness and response in the region.",
+      "og:determiner": "auto",
+      "og:locale": "en",
+      "og:site_name": "The Brookings Institution",
+      "article:author": "Johannes F. Linn",
+      "article:published_time": "2010-03-23",
+      "article:modified_time": "2012-4-02",
+      "article:section": "Opinions",
+      "article:tag": "Central Asia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 16 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember\u003c/b\u003e 16 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_16",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 16 is the 259th day of the year (260th in leap years) in the Gregorian   calendar. There are 106 days remaining until the end of the year.",
+   "htmlSnippet": "\u003cb\u003eSeptember\u003c/b\u003e 16 is the 259th day of the year (260th in leap years) in the Gregorian \u003cbr\u003e  calendar. There are 106 days remaining until the end of the year.",
+   "cacheId": "b6sbw9ZLvMIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_16",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_16"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Inside the White House During the Japan Earthquake | Brookings ...",
+   "htmlTitle": "Inside the White House During the Japan \u003cb\u003eEarthquake\u003c/b\u003e | Brookings \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.brookings.edu/research/opinions/2012/03/08-japan-fukushima-bader",
+   "displayLink": "www.brookings.edu",
+   "snippet": "Opinion | March 8, 2012 ... I was awakened at 1:45 am by a call from the White   House Situation Room reporting that an earthquake measuring 8.9 on the Richter ...",
+   "htmlSnippet": "Opinion | March \u003cb\u003e8\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e I was awakened at 1:45 am by a call from the White \u003cbr\u003e  House Situation Room reporting that an \u003cb\u003eearthquake\u003c/b\u003e measuring 8.9 on the Richter \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XkIvAkcJ4j8J",
+   "formattedUrl": "www.brookings.edu/research/opinions/.../08-japan-fukushima-bader",
+   "htmlFormattedUrl": "www.brookings.edu/research/opinions/.../08-japan-fukushima-bader",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brookings.edu/~/media/research/images/j/ja%20je/japan_medicalcenter001/japan_medicalcenter001_16x9.jpg?w=270"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "121",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiLOTYV9PPUXi0jVY_OcKIDIJS3QPhJarAfIhO89xWWywjGcBVd1w6Xg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Inside the White House During the Japan Earthquake",
+      "ces:title": "Inside the White House During the Japan Earthquake",
+      "ces:contentdate": "2012/03/08 00:00:00",
+      "ces:experts": "Jeffrey A. Bader",
+      "ces:topics": "Energy and Environment ; International Affairs ; U.S. Government ; Natural Disasters ; U.S. Foreign Policy ; The Presidency",
+      "ces:topicsbroad": "Energy and Environment ; International Affairs ; U.S. Government",
+      "ces:topicsspecialized": "Natural Disasters ; U.S. Foreign Policy ; The Presidency",
+      "ces:geographies": "Asia and the Pacific ; Japan",
+      "ces:geographiesbroad": "Asia and the Pacific",
+      "ces:geographiesspecialized": "Japan",
+      "ces:programs": "Foreign Policy",
+      "ces:centers": "John L. Thornton China Center",
+      "ces:researchactivities": "John L. Thornton China Center ; Foreign Policy",
+      "ces:broadcontenttype": "Commentary",
+      "ces:authors": "Jeffrey A. Bader",
+      "og:title": "Inside the White House During the Japan Earthquake",
+      "og:type": "article",
+      "og:url": "http://www.brookings.edu/research/opinions/2012/03/08-japan-fukushima-bader",
+      "og:description": "Jeffrey Bader was??senior director for East Asian affairs on the National Security Council when??the??9.0 Richter-scale??earthquake hit Japan on March 11, 2011. He recalls the Obama administration's response to the??quake and the ensuing??nuclear meltdown??that devastated the country and alarmed the world.",
+      "og:determiner": "auto",
+      "og:locale": "en",
+      "og:site_name": "The Brookings Institution",
+      "article:author": "Jeffrey A. Bader",
+      "article:published_time": "2012-03-08",
+      "article:modified_time": "2012-4-27",
+      "article:section": "Opinions",
+      "article:tag": "Japan"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "Adriatic Sea, AD 1303 August 8 earthquake 358. Aegean Sea ... AD 1887   October 8 earthquake 754???755 .... Anadolu Hisari, AD 1509 September 10   earthquake 422???433 ...... Eurasian Plate 815???816 .... AD 1775 April 18   earthquake 606 ...",
+   "htmlSnippet": "Adriatic Sea, AD 1303 August \u003cb\u003e8 earthquake\u003c/b\u003e 358. Aegean Sea \u003cb\u003e...\u003c/b\u003e AD 1887 \u003cbr\u003e  October \u003cb\u003e8 earthquake\u003c/b\u003e 754???755 \u003cb\u003e....\u003c/b\u003e Anadolu Hisari, AD 1509 \u003cb\u003eSeptember\u003c/b\u003e 10 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e 422???433 \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816 \u003cb\u003e....\u003c/b\u003e AD \u003cb\u003e1775\u003c/b\u003e April 18 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e 606 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive earthquake hits Kashmir region ??? History.com This Day in ...",
+   "htmlTitle": "Massive \u003cb\u003eearthquake\u003c/b\u003e hits Kashmir region ??? History.com This Day in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/massive-earthquake-hits-kashmir-region",
+   "displayLink": "www.history.com",
+   "snippet": "Oct 8, 2005 ... On this day in 2005, a massive 7.6-magnitude earthquake strikes the Kashmir ...   Kashmir is located at the juncture of the Eurasian and Indian ...",
+   "htmlSnippet": "Oct 8, 2005 \u003cb\u003e...\u003c/b\u003e On this day in 2005, a massive 7.6-magnitude \u003cb\u003eearthquake\u003c/b\u003e strikes the Kashmir \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Kashmir is located at the juncture of the \u003cb\u003eEurasian\u003c/b\u003e and Indian \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gN8X4bIAvYoJ",
+   "formattedUrl": "www.history.com/this-day.../massive-earthquake-hits-kashmir-region",
+   "htmlFormattedUrl": "www.history.com/this-day.../massive-\u003cb\u003eearthquake\u003c/b\u003e-hits-kashmir-region",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "/imgs/template/tdih.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Massive earthquake hits Kashmir region ??? History.com This Day in History ??? 10/8/2005",
+      "asset_type_id": "6",
+      "is_sponsored": "N",
+      "network": "History",
+      "display_description": "On this day in 2005, a massive 7.6-magnitude earthquake strikes the Kashmir border region between India and Pakistan. An estimated 70,000 people?nearly half of them children--were killed and 70,000 more were injured.",
+      "asset_id": "1095971",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Massive earthquake hits Kashmir region ??? History.com This Day in History ??? 10/8/2005",
+      "og:description": "On this day in 2005, a massive 7.6-magnitude earthquake strikes the Kashmir border region between India and Pakistan. An estimated 70,000 people?nearly half of them children--were killed and 70,000 more were injured.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/massive-earthquake-hits-kashmir-region"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Deterministic seismic hazard analysis for the city of",
+   "htmlTitle": "Deterministic \u003cb\u003eseismic\u003c/b\u003e hazard analysis for the city of",
+   "link": "http://www.balkangeophysoc.gr/online-journal/2011_V14/No1_March2011/JBGS_Vol_14_No1_March_2011_p00-14_Tsapanos_et_al.pdf",
+   "displayLink": "www.balkangeophysoc.gr",
+   "snippet": "The city was destroyed in 1858 by an earthquake of magnitude ... subduction of   the Africa plate under the Eurasia plate, south ..... 1775. 04. 16. 37.90. 22.90. 6.3.   6.0. 1788. 10. 15. 37.50. 22.80. 6.1. 49.4 ..... Kalamata 8-15 September, 427-448.",
+   "htmlSnippet": "The city was destroyed in 1858 by an \u003cb\u003eearthquake\u003c/b\u003e of magnitude \u003cb\u003e...\u003c/b\u003e subduction of \u003cbr\u003e  the Africa plate under the \u003cb\u003eEurasia\u003c/b\u003e plate, south \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1775\u003c/b\u003e. 04. 16. 37.90. 22.90. 6.3. \u003cbr\u003e  6.0. 1788. 10. 15. 37.50. 22.80. 6.1. 49.4 \u003cb\u003e.....\u003c/b\u003e Kalamata \u003cb\u003e8\u003c/b\u003e-15 \u003cb\u003eSeptember\u003c/b\u003e, 427-448.",
+   "cacheId": "GR_hRZH3wmUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.balkangeophysoc.gr/.../JBGS_Vol_14_No1_March_2011_p00-14_ Tsapanos_et_al.pdf",
+   "htmlFormattedUrl": "www.balkangeophysoc.gr/.../JBGS_Vol_14_No1_March_2011_p00-14_ Tsapanos_et_al.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110516101307+03'00'",
+      "author": "gkritik",
+      "creator": "Acrobat PDFMaker 7.0 for Word",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20110516101340+03'00'",
+      "company": "TUC",
+      "sourcemodified": "D:20110516071243",
+      "title": "Analysis of potential field anomalies in Pasinler-Horasan basin, Eastern Turkey"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Investigation in the United States",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Investigation in the United States",
+   "link": "http://docs.lib.noaa.gov/rescue/cgs_specpubs/QB275U35no282Reved1962.pdf",
+   "displayLink": "docs.lib.noaa.gov",
+   "snippet": "Figure 8.-College, Alaska, seismogram showing record of an earthquake on   February 22, .... tending across the southern ortion of Eurasia, through the ... On   September 5, 1044, ... November 18, 1775, centering probably near Cambridge, ...",
+   "htmlSnippet": "Figure \u003cb\u003e8\u003c/b\u003e.-College, Alaska, seismogram showing record of an \u003cb\u003eearthquake\u003c/b\u003e on \u003cbr\u003e  February 22, \u003cb\u003e....\u003c/b\u003e tending across the southern ortion of \u003cb\u003eEurasia\u003c/b\u003e, through the \u003cb\u003e...\u003c/b\u003e On \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 5, 1044, \u003cb\u003e...\u003c/b\u003e November 18, \u003cb\u003e1775\u003c/b\u003e, centering probably near Cambridge, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "y50YXZoPjqgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "docs.lib.noaa.gov/rescue/cgs_specpubs/QB275U35no282Reved1962.pdf",
+   "htmlFormattedUrl": "docs.lib.noaa.gov/rescue/cgs_specpubs/QB275U35no282Reved1962.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070303183108-05'00'",
+      "author": "U S Coast and Geodetic Survey - Neumann Frank",
+      "creator": "Acrobat Capture 3.0",
+      "producer": "Adobe PDF Library 4.0",
+      "moddate": "D:20070309210303-05'00'",
+      "title": "Earthquake Investigation in the United States"
+     }
+    ]
+   }
+  }
+ ]
+}

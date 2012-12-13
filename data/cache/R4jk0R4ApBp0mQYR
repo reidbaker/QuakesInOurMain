@@ -1,0 +1,344 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 1 1886 North America Earthquake",
+    "totalResults": "59800",
+    "searchTerms": "Sep 1 1886 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 1 1886 North America Earthquake",
+    "totalResults": "59800",
+    "searchTerms": "Sep 1 1886 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.207248,
+  "formattedSearchTime": "0.21",
+  "totalResults": "59800",
+  "formattedTotalResults": "59,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Historic Earthquakes",
+   "htmlTitle": "Historic \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/events/1886_09_01.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... 1886 September 01 02:51 UTC (local August 31) ... Southeast United States and   one of the largest historic shocks in Eastern North America.",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1886 September 01\u003c/b\u003e 02:51 UTC (local August 31) \u003cb\u003e...\u003c/b\u003e Southeast United States and \u003cbr\u003e  one of the largest historic shocks in Eastern \u003cb\u003eNorth America\u003c/b\u003e.",
+   "cacheId": "zSNwwS0PIfQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/events/1886_09_01.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/events/\u003cb\u003e1886\u003c/b\u003e_09_01.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/states/events/images/1886_09_01_loc.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "205",
+      "height": "246",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6Yi0FUYr6AGwxk5UY-kb-jPX1zLWD4KhWcMkamjTDnRYCBZ6LIS9vLhvl"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 1, 1886 Charleston USA earthquake",
+   "htmlTitle": "\u003cb\u003eSeptember 1\u003c/b\u003e, \u003cb\u003e1886\u003c/b\u003e Charleston USA \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://ngdc.noaa.gov/hazardimages/event/show/244",
+   "displayLink": "ngdc.noaa.gov",
+   "snippet": "September 1, 1886 Charleston USA earthquake ... earthquake to occur in the   southeastern U.S. and one of the largest historic shocks in eastern North America  .",
+   "htmlSnippet": "\u003cb\u003eSeptember 1, 1886\u003c/b\u003e Charleston USA \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e to occur in the \u003cbr\u003e  southeastern U.S. and one of the largest historic shocks in eastern \u003cb\u003eNorth America\u003c/b\u003e\u003cbr\u003e  .",
+   "cacheId": "ilfsGgtV828J",
+   "formattedUrl": "ngdc.noaa.gov/hazardimages/event/show/244",
+   "htmlFormattedUrl": "ngdc.noaa.gov/hazardimages/event/show/244",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ngdc.noaa.gov/hazard/icons/med_res/5/5_101.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyNOtI5_DWAOUgHZpW5URq0ugXlgN_Qgyh_9r5WzbG8Mrb4WojfVbMLtSN"
+     }
+    ],
+    "metatags": [
+     {
+      "questions": "haz.info",
+      "return": "hazards",
+      "dc.title": "NOAA/NESDIS/NGDC/MGG-Natural Hazards Images",
+      "dc.description": "Images depicting Natural Hazards from the NOAA National Geophysical Data Center.",
+      "dc.creator": "Heather.McCullough",
+      "dc.date.created": "2007-02-21",
+      "dc.date.reviewed": "2008-07-18",
+      "dc.language": "EN-US",
+      "dc.publisher": "U.S. Department of Commerce",
+      "dc.subject": "geoscientificInformation",
+      "layout": "main"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in the Azores and Madeira (Portugal)",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in the Azores and Madeira (Portugal)",
+   "link": "http://earthquake-report.com/2011/02/16/killer-earthquakes-in-the-azores-and-madeira-portugal/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2011 ... M ? 21-1-1886 Funchal (Madeira) ??? killing 1 person. Slightly felt in Funchal,   caused no material damage. As a result of the shock, a woman felt ...",
+   "htmlSnippet": "Apr 23, 2011 \u003cb\u003e...\u003c/b\u003e M ? 21-\u003cb\u003e1\u003c/b\u003e-\u003cb\u003e1886\u003c/b\u003e Funchal (Madeira) ??? killing \u003cb\u003e1\u003c/b\u003e person. Slightly felt in Funchal, \u003cbr\u003e  caused no material damage. As a result of the shock, a woman felt \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jsyGJGW9D3EJ",
+   "formattedUrl": "earthquake-report.com/.../killer-earthquakes-in-the-azores-and-madeira- portugal/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-the-azores-and-madeira- portugal/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.lisbon-and-portugal.com/images/azores-flag-1-300x180.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "144",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTdEG3kF0sxvzWi7jeuFdteIjOR5H4BvYZNqvbkHbpkST8W9Gag9XMI4gcp"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "James Daniell",
+      "url": "http://www.cedim.de/",
+      "url_text": "James Daniell"
+     },
+     {
+      "fn": "Ana Paula Correia and Jos???? Ribeiro (Portugal)"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://www.cedim.de/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Heather's earthquakes vs. Ann's: choose Heather's : The Last Word ...",
+   "htmlTitle": "Heather&#39;s \u003cb\u003eearthquakes\u003c/b\u003e vs. Ann&#39;s: choose Heather&#39;s : The Last Word \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.lastwordonnothing.com/2010/07/22/heathers-earthquakes-vs-anns-choose-heathers/",
+   "displayLink": "www.lastwordonnothing.com",
+   "snippet": "Jul 22, 2010 ... Seismogram of 7/16/10, magnitude 3.6 Baltimore earthquake ... plate named   Juan de Fuca slides under the western edge of the enormous North American   plate. ... Charleston 9/1/1886, magnitude 7.3, Mercalli intensity X ...",
+   "htmlSnippet": "Jul 22, 2010 \u003cb\u003e...\u003c/b\u003e Seismogram of 7/16/10, magnitude 3.6 Baltimore \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e plate named \u003cbr\u003e  Juan de Fuca slides under the western edge of the enormous \u003cb\u003eNorth American\u003c/b\u003e \u003cbr\u003e  plate. \u003cb\u003e...\u003c/b\u003e Charleston \u003cb\u003e9/1/1886\u003c/b\u003e, magnitude 7.3, Mercalli intensity X \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BlPe7vRA5o4J",
+   "formattedUrl": "www.lastwordonnothing.com/.../heathers-earthquakes-vs-anns-choose- heathers/",
+   "htmlFormattedUrl": "www.lastwordonnothing.com/.../heathers-\u003cb\u003eearthquakes\u003c/b\u003e-vs-anns-choose- heathers/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.lastwordonnothing.com/wp-content/uploads/2010/07/SDMD_HHZ_LD.20100716001-300x237.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "189",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTU0dYO3dM3Dbde7DbpqShn8FsVqt9gIYRL2E-yx3KdNsTzv75H7QtRXAY"
+     }
+    ],
+    "metatags": [
+     {
+      "distribution": "global",
+      "language": "en, sv"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "U. S. Department of the Interior U. S. Geological Survey Modified ...",
+   "htmlTitle": "U. S. Department of the Interior U. S. Geological Survey Modified \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://geopubs.wr.usgs.gov/open-file/of02-184/of02-184.pdf",
+   "displayLink": "geopubs.wr.usgs.gov",
+   "snippet": "standards or with the North American stratigraphic code. Any use of ... MMI for the   September 1, 1886 earthquake near Charleston, South Carolina (Table 4) ...",
+   "htmlSnippet": "standards or with the \u003cb\u003eNorth American\u003c/b\u003e stratigraphic code. Any use of \u003cb\u003e...\u003c/b\u003e MMI for the \u003cbr\u003e  \u003cb\u003eSeptember 1, 1886 earthquake\u003c/b\u003e near Charleston, South Carolina (Table 4) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pFHbYkEZUIQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "geopubs.wr.usgs.gov/open-file/of02-184/of02-184.pdf",
+   "htmlFormattedUrl": "geopubs.wr.usgs.gov/open-file/of02-184/of02-184.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20020503213103Z",
+      "moddate": "D:20020503144732-07'00'",
+      "producer": "Acrobat Distiller 5.00 for Macintosh",
+      "author": "Carolyn Donlin",
+      "creator": "Microsoft Word: LaserWriter 8 8.7.1",
+      "title": "Microsoft Word - OFR02-184  Text"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Why the Eastern US has Fewer Earthquakes than the Western US",
+   "htmlTitle": "Why the Eastern US has Fewer \u003cb\u003eEarthquakes\u003c/b\u003e than the Western US",
+   "link": "http://www.accuweather.com/en/weather-news/why-the-eastern-us-has-fewer-e/509496",
+   "displayLink": "www.accuweather.com",
+   "snippet": "\"For much of the interior and Eastern areas of North America, earthquakes are   relatively unknown,\" ... 1, 1886, was the largest to ever impact South Carolina.",
+   "htmlSnippet": "&quot;For much of the interior and Eastern areas of \u003cb\u003eNorth America\u003c/b\u003e, \u003cb\u003eearthquakes\u003c/b\u003e are \u003cbr\u003e  relatively unknown,&quot; \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1\u003c/b\u003e, \u003cb\u003e1886\u003c/b\u003e, was the largest to ever impact South Carolina.",
+   "cacheId": "UX35lXIUSicJ",
+   "formattedUrl": "www.accuweather.com/en/weather-news/why-the...us.../509496",
+   "htmlFormattedUrl": "www.accuweather.com/en/weather-news/why-the...us.../509496",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://vortex.accuweather.com/adc2004/pub/includes/columns/newsstory/2012/120x90_10211730_1886_09_01_001_small.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCbUal49ZZGZUxO5SBpHMOGrxyJJjBc3PGuEnq7vHmvPVyBEHo8BBQKw"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "132437483467956",
+      "og:site_name": "AccuWeather",
+      "og:title": "Why the Eastern US has Fewer Earthquakes than the Western US",
+      "og:type": "article",
+      "og:description": "There is no doubt that earthquakes in the western U.S. are more frequent than those east of the Rocky Mountains",
+      "og:image": "http://vortex.accuweather.com/adc2004/pub/includes/columns/newsstory/2012/120x90_10211730_1886_09_01_001_small.jpg",
+      "og:url": "http://www.accuweather.com/en/weather-news/why-the-eastern-us-has-fewer-e/509496"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Top 10 Historical Hurricanes and Earthquakes in the U.S.: What ...",
+   "htmlTitle": "Top 10 Historical Hurricanes and \u003cb\u003eEarthquakes\u003c/b\u003e in the U.S.: What \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.air-worldwide.com/Publications/AIR-Currents/2012/Top-10-Historical-Hurricanes-and-Earthquakes-in-the-U-S---What-Would-They-Cost-Today/",
+   "displayLink": "www.air-worldwide.com",
+   "snippet": "Oct 24, 2012 ... On September 1, 1886, Charleston, South Carolina was struck by a magnitude ...   one of the largest shocks on record for eastern North America.",
+   "htmlSnippet": "Oct 24, 2012 \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eSeptember 1, 1886\u003c/b\u003e, Charleston, South Carolina was struck by a magnitude \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  one of the largest shocks on record for eastern \u003cb\u003eNorth America\u003c/b\u003e.",
+   "cacheId": "DLTQZ2keTIoJ",
+   "formattedUrl": "www.air-worldwide.com/.../Top-10-Historical-Hurricanes-and-Earthquakes- in-the-U-S---What-Would-They-Cost-Today/",
+   "htmlFormattedUrl": "www.air-worldwide.com/.../Top-10-Historical-Hurricanes-and-\u003cb\u003eEarthquakes\u003c/b\u003e- in-the-U-S---What-Would-They-Cost-Today/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The great ShakeOut earthquake drill comes April 28 | TheDigitel ...",
+   "htmlTitle": "The great ShakeOut \u003cb\u003eearthquake\u003c/b\u003e drill comes April 28 | TheDigitel \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://beaufort.thedigitel.com/immigrants/great-shakeout-earthquake-drill-comes-april-28-25489-0425",
+   "displayLink": "beaufort.thedigitel.com",
+   "snippet": "Apr 27, 2011 ... For most, having an earthquake drill in South Carolina seems a bit out of ... North   America\ufeff occured in Charleston on September 1, 1886, with a ...",
+   "htmlSnippet": "Apr 27, 2011 \u003cb\u003e...\u003c/b\u003e For most, having an \u003cb\u003eearthquake\u003c/b\u003e drill in South Carolina seems a bit out of \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e\ufeff occured in Charleston on \u003cb\u003eSeptember 1, 1886\u003c/b\u003e, with a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DrqqfwByeE4J",
+   "formattedUrl": "beaufort.thedigitel.com/.../great-shakeout-earthquake-drill-comes-april-28- 25489-0425",
+   "htmlFormattedUrl": "beaufort.thedigitel.com/.../great-shakeout-\u003cb\u003eearthquake\u003c/b\u003e-drill-comes-april-28- 25489-0425",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://beaufort.thedigitel.com/files/imagecache/image_470/files/images/leadimages/earthquake.png",
+      "type": "1",
+      "width": "286",
+      "height": "176"
+     }
+    ],
+    "document": [
+     {
+      "title": "The great ShakeOut earthquake drill comes April 28",
+      "author": "Ken Hawkins",
+      "description": "\ufeffFor most, having an earthquake drill in South Carolina seems a bit out of the ordinary, but the threat is all too real. The Great Central U.S. ShakeOut aims to educate the masses about just what to do in case of an earthquake.On Thursday, April 28, many Beaufort area businesses, schools, and government offices will take part in The Great Central...",
+      "last_update": "04/27/2011"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://beaufort.thedigitel.com/files/imagecache/image_400-240/files/images/leadimages/earthquake.png",
+      "width": "400",
+      "height": "240"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://beaufort.thedigitel.com/files/imagecache/image_470/files/images/leadimages/earthquake.png",
+      "thumbnail": "http://beaufort.thedigitel.com/files/imagecache/image_400-240/files/images/leadimages/earthquake.png",
+      "geo.placename": "Beaufort, SC 29902 USA",
+      "geo.region": "US-SC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "US Earthquakes - Not Just In LA or San Francisco",
+   "htmlTitle": "US \u003cb\u003eEarthquakes\u003c/b\u003e - Not Just In LA or San Francisco",
+   "link": "http://www.chiff.com/a/earthquakes-USA.htm",
+   "displayLink": "www.chiff.com",
+   "snippet": "On September 1, 1886 the area was the site of one of the largest and most   destructive historic shocks in Eastern North America. The killer quake claimed 60 ...",
+   "htmlSnippet": "On \u003cb\u003eSeptember 1, 1886\u003c/b\u003e the area was the site of one of the largest and most \u003cbr\u003e  destructive historic shocks in Eastern \u003cb\u003eNorth America\u003c/b\u003e. The killer \u003cb\u003equake\u003c/b\u003e claimed 60 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7Dk4OdfoGOkJ",
+   "formattedUrl": "www.chiff.com/a/earthquakes-USA.htm",
+   "htmlFormattedUrl": "www.chiff.com/a/\u003cb\u003eearthquakes\u003c/b\u003e-USA.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.chiff.com/pics2/earthquake-map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "298",
+      "height": "169",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqS3W-f5fB4CGZsbGVmbNdUNMr_7FE26HRABHkZFKcsirJaDwR-_sHSwZC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Weather Guy: A minor quake for the Charlotte region",
+   "htmlTitle": "Weather Guy: A minor \u003cb\u003equake\u003c/b\u003e for the Charlotte region",
+   "link": "http://obsweatherguy.blogspot.com/2011/03/minor-quake-for-charlotte-region.html",
+   "displayLink": "obsweatherguy.blogspot.com",
+   "snippet": "Mar 22, 2011 ... 1, 1886, near Charleston. That temblor killed ... It was felt 600 miles away and   was among the most damaging earthquakes in U.S. history. ... In North Carolina,   the biggest quake was a 5.2 magnitude shake on Feb. 21, 1916.",
+   "htmlSnippet": "Mar 22, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1\u003c/b\u003e, \u003cb\u003e1886\u003c/b\u003e, near Charleston. That temblor killed \u003cb\u003e...\u003c/b\u003e It was felt 600 miles away and \u003cbr\u003e  was among the most damaging \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eU.S.\u003c/b\u003e history. \u003cb\u003e...\u003c/b\u003e In \u003cb\u003eNorth\u003c/b\u003e Carolina, \u003cbr\u003e  the biggest \u003cb\u003equake\u003c/b\u003e was a 5.2 magnitude shake on Feb. 21, 1916.",
+   "cacheId": "_5_lpCO1jmMJ",
+   "formattedUrl": "obsweatherguy.blogspot.com/.../minor-quake-for-charlotte-region.html",
+   "htmlFormattedUrl": "obsweatherguy.blogspot.com/.../minor-\u003cb\u003equake\u003c/b\u003e-for-charlotte-region.html"
+  }
+ ]
+}

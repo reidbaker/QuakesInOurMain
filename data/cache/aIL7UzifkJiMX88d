@@ -1,0 +1,323 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 3 1841 Eurasia Earthquake",
+    "totalResults": "1680",
+    "searchTerms": "Apr 3 1841 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 3 1841 Eurasia Earthquake",
+    "totalResults": "1680",
+    "searchTerms": "Apr 3 1841 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.166758,
+  "formattedSearchTime": "0.17",
+  "totalResults": "1680",
+  "formattedTotalResults": "1,680"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquake investigations in Greece",
+   "htmlTitle": "Historical \u003cb\u003eearthquake\u003c/b\u003e investigations in Greece",
+   "link": "http://www.geophysics.geol.uoa.gr/papers/makro/makro205.pdf",
+   "displayLink": "www.geophysics.geol.uoa.gr",
+   "snippet": "47, N. 2/3,April/June 2004. Key words ... of the Africa-Eurasia convergence. ...   earthquake is felt every 2-3 days on average (fig. 2). ... Von Hoff (1840, 1841),   Per- ...",
+   "htmlSnippet": "47, N. 2/\u003cb\u003e3\u003c/b\u003e,\u003cb\u003eApril\u003c/b\u003e/June 2004. Key words \u003cb\u003e...\u003c/b\u003e of the Africa-\u003cb\u003eEurasia\u003c/b\u003e convergence. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e is felt every 2-\u003cb\u003e3\u003c/b\u003e days on average (fig. 2). \u003cb\u003e...\u003c/b\u003e Von Hoff (1840, \u003cb\u003e1841\u003c/b\u003e), \u003cbr\u003e  Per- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Rl8mPwNUpoIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geophysics.geol.uoa.gr/papers/makro/makro205.pdf",
+   "htmlFormattedUrl": "www.geophysics.geol.uoa.gr/papers/makro/makro205.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050322110354+01'00'",
+      "moddate": "D:20050322110354+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "Utente",
+      "creator": "QuarkXPress Passport?? 4.04: AdobePS 8.7.2 8.7.2 (104)",
+      "title": "30Kouskouna.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australia's worst earthquakes: top 10 most devastating - Australian ...",
+   "htmlTitle": "Australia&#39;s worst \u003cb\u003eearthquakes\u003c/b\u003e: top 10 most devastating - Australian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.australiangeographic.com.au/journal/australias-worst-earthquakes-top-10-most-devastating.htm",
+   "displayLink": "www.australiangeographic.com.au",
+   "snippet": "Jul 10, 2012 ... Australia has few big earthquakes, but some of them have caused great ...   Earthquakes since 1841. ... with the Pacific plate in the east and the Eurasian   plate to the north. ... 3. Meckering, Western Australia, 14 October 1968 (  Magnitude 6.9) ... Meeberrie, Western Australia, 29 April 1941 (Magnitude 7.2) ...",
+   "htmlSnippet": "Jul 10, 2012 \u003cb\u003e...\u003c/b\u003e Australia has few big \u003cb\u003eearthquakes\u003c/b\u003e, but some of them have caused great \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e since \u003cb\u003e1841\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e with the Pacific plate in the east and the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  plate to the north. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e3\u003c/b\u003e. Meckering, Western Australia, 14 October 1968 (\u003cbr\u003e  Magnitude 6.9) \u003cb\u003e...\u003c/b\u003e Meeberrie, Western Australia, 29 \u003cb\u003eApril\u003c/b\u003e 1941 (Magnitude 7.2) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EcyP2GgfKjMJ",
+   "formattedUrl": "www.australiangeographic.com.au/.../australias-worst-earthquakes-top-10- most-devastating.htm",
+   "htmlFormattedUrl": "www.australiangeographic.com.au/.../australias-worst-\u003cb\u003eearthquakes\u003c/b\u003e-top-10- most-devastating.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "209",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlg8_OIjgcNebdL7N4vyhhGcMAiqTyf4CIY1s3_LkTKzBtigNrzmiSn7lQ"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "distribution": "global",
+      "og:title": "Australia's worst earthquakes",
+      "og:description": "Australia has few big earthquakes, but some of them have caused great devastation. Here are the 10 most significant.",
+      "og:image": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Research Reports - Earthquakes - Geoscience Australia",
+   "htmlTitle": "Research Reports - \u003cb\u003eEarthquakes\u003c/b\u003e - Geoscience Australia",
+   "link": "http://www.ga.gov.au/hazards/earthquakes/reports.html",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Future Directions for the National Earthquake Hazard Map for Australia ... hazard   in the Sydney Basin: proceedings volume of a one day workshop, April 2005 ...   and around the nation's capital, using records that date back from as early as   1841. ... where the Indo-Australian plate is being subducted under the Eurasia   Plate.",
+   "htmlSnippet": "Future Directions for the National \u003cb\u003eEarthquake\u003c/b\u003e Hazard Map for Australia \u003cb\u003e...\u003c/b\u003e hazard \u003cbr\u003e  in the Sydney Basin: proceedings volume of a one day workshop, \u003cb\u003eApril\u003c/b\u003e 2005 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  and around the nation&#39;s capital, using records that date back from as early as \u003cbr\u003e  \u003cb\u003e1841\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e where the Indo-Australian plate is being subducted under the \u003cb\u003eEurasia\u003c/b\u003e \u003cbr\u003e  Plate.",
+   "cacheId": "OF25lghddwgJ",
+   "formattedUrl": "www.ga.gov.au/hazards/earthquakes/reports.html",
+   "htmlFormattedUrl": "www.ga.gov.au/hazards/\u003cb\u003eearthquakes\u003c/b\u003e/reports.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "Research Reports - Earthquakes",
+      "dc.creator": "c\\=AU\\;o\\=Australia Government\\;ou\\=Geoscience Australia",
+      "dc.publisher": "c\\=AU\\;o\\=Australian Government\\;ou\\=Geoscience Australia",
+      "agls.function": "Earth Science",
+      "dc.identifier": "reports.html",
+      "dc.format": "text/html",
+      "dc.language": "en-AU",
+      "agls.audience": "all",
+      "dc.coverage.jurisdiction": "Commonwealth of Australia",
+      "dc.rights": "; \u003cmeta name=\"DC.Rights\" scheme=\"URI\" content=\"http://creativecommons.org/licenses/by/2.5/au/\"\u003e",
+      "dc.date.created": "2010-06-22 10:39:08",
+      "dc.date.modified": "2012-11-23 17:46:02",
+      "dc.description": "Historically, bushfires, floods, earthquakes, landslides and cyclones have caused loss of life and significant damage to property and infrastructure.",
+      "topic": "Hazards",
+      "topic id": "702",
+      "multimedia products url": "http://www.ga.gov.au/cedda/multimedia/",
+      "publication products url": "http://www.ga.gov.au/cedda/publications/",
+      "map products url": "http://www.ga.gov.au/cedda/maps/",
+      "data and application products url": "http://www.ga.gov.au/cedda/data/",
+      "genericemail": "earthquakes@ga.gov.au",
+      "newsitemdate": "01 January 2010"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 1983 Akita-Oki Earthquake (Mw =7.8)",
+   "htmlTitle": "The 1983 Akita-Oki \u003cb\u003eEarthquake\u003c/b\u003e (Mw =7.8)",
+   "link": "http://www.gps.caltech.edu/uploads/File/People/kanamori/HKepr85.pdf",
+   "displayLink": "www.gps.caltech.edu",
+   "snippet": "The source parameters of the May 26, 1983, earthquake off the coast of Akita ... V   between the North American and Eurasia plates is 1.1 cm/year along the Japan   Sea .... 3. Schematic figure showing the plate geometry of the Juan de Fuca   subduction zone. ..... The events in 1737 and 1841 may be similar to the 1952 ...",
+   "htmlSnippet": "The source parameters of the May 26, 1983, \u003cb\u003eearthquake\u003c/b\u003e off the coast of Akita \u003cb\u003e...\u003c/b\u003e V \u003cbr\u003e  between the North American and \u003cb\u003eEurasia\u003c/b\u003e plates is 1.1 cm/year along the Japan \u003cbr\u003e  Sea \u003cb\u003e....\u003c/b\u003e \u003cb\u003e3\u003c/b\u003e. Schematic figure showing the plate geometry of the Juan de Fuca \u003cbr\u003e  subduction zone. \u003cb\u003e.....\u003c/b\u003e The events in 1737 and \u003cb\u003e1841\u003c/b\u003e may be similar to the 1952 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QQpGdTdgs48J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.gps.caltech.edu/uploads/File/People/kanamori/HKepr85.pdf",
+   "htmlFormattedUrl": "www.gps.caltech.edu/uploads/File/People/kanamori/HKepr85.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "sspdflib 1.0 http://www.scansoft.com",
+      "creator": "PaperPort http://www.scansoft.com",
+      "author": "CLS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "al-Rawandan, AD 1344 January 3 earthquake 370 ... AD 1841 May 1 earthquake   654 .... AD 1881 April 3 earthquakes 745???747 ...... Eurasian Plate 815???816 ...",
+   "htmlSnippet": "al-Rawandan, AD 1344 January \u003cb\u003e3 earthquake\u003c/b\u003e 370 \u003cb\u003e...\u003c/b\u003e AD \u003cb\u003e1841\u003c/b\u003e May 1 \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  654 \u003cb\u003e....\u003c/b\u003e AD 1881 \u003cb\u003eApril 3 earthquakes\u003c/b\u003e 745???747 \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic and Tsunami Active ties in Myanmar",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e and Tsunami Active ties in Myanmar",
+   "link": "http://www.seis.nagoya-u.ac.jp/kimata/jica/kyawkyaw.pdf",
+   "displayLink": "www.seis.nagoya-u.ac.jp",
+   "snippet": "It also encourages the on-going activity for earthquake and tsunami disaster   prevention in ... marks the collision boundary between the under thrusting Indian   plate and the Eurasia plate; ... digital seismograph were installed in DMH at   Yangon and Mandalay in April 2003 ... Figure (3) Tide gauge stations in   Myanmar Coastal ...",
+   "htmlSnippet": "It also encourages the on-going activity for \u003cb\u003eearthquake\u003c/b\u003e and tsunami disaster \u003cbr\u003e  prevention in \u003cb\u003e...\u003c/b\u003e marks the collision boundary between the under thrusting Indian \u003cbr\u003e  plate and the \u003cb\u003eEurasia\u003c/b\u003e plate; \u003cb\u003e...\u003c/b\u003e digital seismograph were installed in DMH at \u003cbr\u003e  Yangon and Mandalay in \u003cb\u003eApril\u003c/b\u003e 2003 \u003cb\u003e...\u003c/b\u003e Figure (\u003cb\u003e3\u003c/b\u003e) Tide gauge stations in \u003cbr\u003e  Myanmar Coastal \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cNw8OixLfgIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.seis.nagoya-u.ac.jp/kimata/jica/kyawkyaw.pdf",
+   "htmlFormattedUrl": "www.seis.nagoya-u.ac.jp/kimata/jica/kyawkyaw.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080314211355+06'30'",
+      "author": "Kyaw",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "moddate": "D:20080315222332+09'00'",
+      "company": "MYANMAR",
+      "sourcemodified": "D:20080314144002",
+      "title": "Seismic and Tsunami Active ties in Myanmar"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "History of earthquake studies in Russia",
+   "htmlTitle": "History of \u003cb\u003eearthquake\u003c/b\u003e studies in Russia",
+   "link": "http://www.earth-prints.org/bitstream/2122/796/1/34Tatevossian.pdf",
+   "displayLink": "www.earth-prints.org",
+   "snippet": "47, N. 2/3,April/June 2004 .... 3. Main stages of earthquake studies. History of   earthquake study has never been ... Collection of Russian Chronicles (1841-  1982). ..... Earthquake catalogue of Northern Eurasia (Ulomov, 1993) (circle size   is pro- ...",
+   "htmlSnippet": "47, N. 2/\u003cb\u003e3\u003c/b\u003e,\u003cb\u003eApril\u003c/b\u003e/June 2004 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e3\u003c/b\u003e. Main stages of \u003cb\u003eearthquake\u003c/b\u003e studies. History of \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e study has never been \u003cb\u003e...\u003c/b\u003e Collection of Russian Chronicles (\u003cb\u003e1841\u003c/b\u003e-\u003cbr\u003e  1982). \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e catalogue of Northern \u003cb\u003eEurasia\u003c/b\u003e (Ulomov, 1993) (circle size \u003cbr\u003e  is pro- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "H3p4G6br29oJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth-prints.org/bitstream/2122/796/1/34Tatevossian.pdf",
+   "htmlFormattedUrl": "www.earth-prints.org/bitstream/2122/796/1/34Tatevossian.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050322110548+01'00'",
+      "moddate": "D:20050322110548+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "Utente",
+      "creator": "QuarkXPress Passport?? 4.04: AdobePS 8.7.2 8.7.2 (104)",
+      "title": "34Tatevossian.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Export.gov - Mission Statement Eurasia",
+   "htmlTitle": "Export.gov - Mission Statement \u003cb\u003eEurasia\u003c/b\u003e",
+   "link": "http://export.gov/trademissions/eurasia2011/eg_main_026765.asp",
+   "displayLink": "export.gov",
+   "snippet": "Mar 22, 2011 ... EURASIAN OIL & GAS SUPPLIERS TRADE MISSION. Almaty ... 2-D and 3-D   Seismic equipment and engineering services,. 3. Shale gas ...",
+   "htmlSnippet": "Mar 22, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEURASIAN\u003c/b\u003e OIL &amp; GAS SUPPLIERS TRADE MISSION. Almaty \u003cb\u003e...\u003c/b\u003e 2-D and \u003cb\u003e3\u003c/b\u003e-D \u003cbr\u003e  \u003cb\u003eSeismic\u003c/b\u003e equipment and engineering services,. \u003cb\u003e3\u003c/b\u003e. Shale gas \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0e_TwE-ciTQJ",
+   "formattedUrl": "export.gov/trademissions/eurasia2011/eg_main_026765.asp",
+   "htmlFormattedUrl": "export.gov/trademissions/\u003cb\u003eeurasia\u003c/b\u003e2011/eg_main_026765.asp",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ITA",
+      "creation date": "3/2/11 12:25 PM",
+      "content id": "eg_main_026765",
+      "type": "WEBCONTENT",
+      "revision": "2",
+      "released": "3/22/11 2:35 PM",
+      "security group": "Public"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Far-field tsunami hazard from mega-thrust earthquakes in the Indian ...",
+   "htmlTitle": "Far-field tsunami hazard from mega-thrust \u003cb\u003eearthquakes\u003c/b\u003e in the Indian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.earth.northwestern.edu/people/emile/PDF/EAO195.pdf",
+   "displayLink": "www.earth.northwestern.edu",
+   "snippet": "Emile A. Okal1 and Costas E. Synolakis2,3 ... tions of ten case studies of possible   mega earthquakes at the major seismic ...... and note Oldham's (1893) report,   based on an 1841 survey by. Captain Halsted, of a large event on 02 April 1762   along the coast .... Arabian???Eurasian triple junction, at 67???E. To the west of 61???E ...",
+   "htmlSnippet": "Emile A. Okal1 and Costas E. Synolakis2,\u003cb\u003e3\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e tions of ten case studies of possible \u003cbr\u003e  mega \u003cb\u003eearthquakes\u003c/b\u003e at the major \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e......\u003c/b\u003e and note Oldham&#39;s (1893) report, \u003cbr\u003e  based on an \u003cb\u003e1841\u003c/b\u003e survey by. Captain Halsted, of a large event on 02 \u003cb\u003eApril\u003c/b\u003e 1762 \u003cbr\u003e  along the coast \u003cb\u003e....\u003c/b\u003e Arabian???\u003cb\u003eEurasian\u003c/b\u003e triple junction, at 67???E. To the west of 61???E \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DTDT-wr0KDQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.northwestern.edu/people/emile/PDF/EAO195.pdf",
+   "htmlFormattedUrl": "www.earth.northwestern.edu/people/emile/PDF/EAO195.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080123115456+05'30'",
+      "producer": "Acrobat Distiller 7.0.5 for Macintosh",
+      "moddate": "D:20050204164627+05'30'",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Short Note Fault Geometry and Slip Distribution of the 2010 Yushu ...",
+   "htmlTitle": "Short Note Fault Geometry and Slip Distribution of the 2010 Yushu \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.gmat.unsw.edu.au/snap/publications/zha_etal2011.pdf",
+   "displayLink": "www.gmat.unsw.edu.au",
+   "snippet": "Abstract We construct a coseismic deformation interferogram for the April 2010.   Yushu earthquakes using ALOS/PALSAR data from the ascending track (path   487). We .... million to 1841. ... Yushu fault is marked in Figure 3 as thin dashed   lines labeled ... Eurasia. The color version of this figure is available only in the   elec- ...",
+   "htmlSnippet": "Abstract We construct a coseismic deformation interferogram for the \u003cb\u003eApril\u003c/b\u003e 2010. \u003cbr\u003e  Yushu \u003cb\u003eearthquakes\u003c/b\u003e using ALOS/PALSAR data from the ascending track (path \u003cbr\u003e  487). We \u003cb\u003e....\u003c/b\u003e million to \u003cb\u003e1841\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Yushu fault is marked in Figure \u003cb\u003e3\u003c/b\u003e as thin dashed \u003cbr\u003e  lines labeled \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e. The color version of this figure is available only in the \u003cbr\u003e  elec- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4XIRGYaDhPAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.gmat.unsw.edu.au/snap/publications/zha_etal2011.pdf",
+   "htmlFormattedUrl": "www.gmat.unsw.edu.au/snap/publications/zha_etal2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20110710221120-04'",
+      "title": "2010192 1951..1958",
+      "producer": "Acrobat Distiller 6.0.1 (Windows)",
+      "creator": "Arbortext Advanced Print Publisher 9.1.405/W Unicode",
+      "creationdate": "D:20110711070104+05'30'"
+     }
+    ]
+   }
+  }
+ ]
+}

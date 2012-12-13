@@ -1,0 +1,285 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 22 1884 Eurasia Earthquake",
+    "totalResults": "7950",
+    "searchTerms": "Apr 22 1884 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 22 1884 Eurasia Earthquake",
+    "totalResults": "7950",
+    "searchTerms": "Apr 22 1884 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.152644,
+  "formattedSearchTime": "0.15",
+  "totalResults": "7950",
+  "formattedTotalResults": "7,950"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African ... One of the largest earthquakes ever was the Chile event of 22 May   1960 with moment .... 22 Apr 1884, Colchester, 4.5, 1, Wivenhoe, shock, (  uncertain) ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African \u003cb\u003e...\u003c/b\u003e One of the largest \u003cb\u003eearthquakes\u003c/b\u003e ever was the Chile event of 22 May \u003cbr\u003e  1960 with moment \u003cb\u003e....\u003c/b\u003e \u003cb\u003e22 Apr 1884\u003c/b\u003e, Colchester, 4.5, 1, Wivenhoe, shock, (\u003cbr\u003e  uncertain) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquake investigations in Greece",
+   "htmlTitle": "Historical \u003cb\u003eearthquake\u003c/b\u003e investigations in Greece",
+   "link": "http://www.geophysics.geol.uoa.gr/papers/makro/makro205.pdf",
+   "displayLink": "www.geophysics.geol.uoa.gr",
+   "snippet": "of the Africa-Eurasia convergence. Within this framework ... In the present paper,   a review of historical earthquake studies in Greece is attempted. The seis- ...   1884), collected information on past Greek earth- quakes and ..... time of the   mainshock of (22 March) 4 April Chios (M 6.5) earthquake and its aftershocks are   listed.",
+   "htmlSnippet": "of the Africa-\u003cb\u003eEurasia\u003c/b\u003e convergence. Within this framework \u003cb\u003e...\u003c/b\u003e In the present paper, \u003cbr\u003e  a review of historical \u003cb\u003eearthquake\u003c/b\u003e studies in Greece is attempted. The seis- \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1884\u003c/b\u003e), collected information on past Greek earth- quakes and \u003cb\u003e.....\u003c/b\u003e time of the \u003cbr\u003e  mainshock of (\u003cb\u003e22\u003c/b\u003e March) 4 \u003cb\u003eApril\u003c/b\u003e Chios (M 6.5) \u003cb\u003eearthquake\u003c/b\u003e and its aftershocks are \u003cbr\u003e  listed.",
+   "cacheId": "Rl8mPwNUpoIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geophysics.geol.uoa.gr/papers/makro/makro205.pdf",
+   "htmlFormattedUrl": "www.geophysics.geol.uoa.gr/papers/makro/makro205.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050322110354+01'00'",
+      "moddate": "D:20050322110354+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "Utente",
+      "creator": "QuarkXPress Passport?? 4.04: AdobePS 8.7.2 8.7.2 (104)",
+      "title": "30Kouskouna.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1934 Bihar earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1934 Bihar \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1934_Bihar_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This 8.1 magnitude earthquake occurred on January 15, 1934 at around 2:13 PM   (I.S.T.) (08:43 UTC) and caused widespread damage in the northern Bihar and ...",
+   "htmlSnippet": "This 8.1 magnitude \u003cb\u003eearthquake\u003c/b\u003e occurred on January 15, 1934 at around 2:13 PM \u003cbr\u003e  (I.S.T.) (08:43 UTC) and caused widespread damage in the northern Bihar and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WEJqS7wLfSMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1934_Bihar_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1934_Bihar_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Topografic_map_of_Tibetan_Plateau.png/250px-Topografic_map_of_Tibetan_Plateau.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "107",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuFsDI8Xjm_uX0hZjm5JcBjynDsKepCrIXRjkvuxqzsj1AwxYATP4YAhs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHARACTERIZATION OF SEISMIC SOURCE AND PATH IN ...",
+   "htmlTitle": "CHARACTERIZATION OF \u003cb\u003eSEISMIC\u003c/b\u003e SOURCE AND PATH IN \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA305476",
+   "displayLink": "www.dtic.mil",
+   "snippet": "Eurasia Using Digital Seismograms from Borovoye ... ranges from 1879 to 1894   km with a mean distance of 1884 km (Table 1). .... 1000 0.04-0.1 312 22,23,24.   Low- ..... Lg-wave magnitude for two Balapan events (1980 April 25, and the   large ...",
+   "htmlSnippet": "\u003cb\u003eEurasia\u003c/b\u003e Using Digital Seismograms from Borovoye \u003cb\u003e...\u003c/b\u003e ranges from 1879 to 1894 \u003cbr\u003e  km with a mean distance of \u003cb\u003e1884\u003c/b\u003e km (Table 1). \u003cb\u003e....\u003c/b\u003e 1000 0.04-0.1 312 \u003cb\u003e22\u003c/b\u003e,23,24. \u003cbr\u003e  Low- \u003cb\u003e.....\u003c/b\u003e Lg-wave magnitude for two Balapan events (1980 \u003cb\u003eApril\u003c/b\u003e 25, and the \u003cbr\u003e  large \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KOK0j1kpR-4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA305476",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA305476",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:191030116154542",
+      "title": "/tardir/mig/a305476.tiff",
+      "creator": "LuraDocument PDF Compressor Server 5.7.66.46 (original: tif_convert_2_ps())",
+      "producer": "Recoded by LuraDocument PDF v2.46",
+      "moddate": "D:20111001121727-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AEES NEWSLETTER October 2010",
+   "htmlTitle": "AEES NEWSLETTER October 2010",
+   "link": "http://www.aees.org.au/Newsletters/AEES_2010_4.pdf",
+   "displayLink": "www.aees.org.au",
+   "snippet": "Oct 10, 2010 ... major shallow earthquake striking the South Island raised visions of the ...   Workshop dates: 11-13 April 2011 .... Britain is at the north-eastern edge of the   Eurasian plate, ... near the town of Colchester on 22 April 1884. The ...",
+   "htmlSnippet": "Oct 10, 2010 \u003cb\u003e...\u003c/b\u003e major shallow \u003cb\u003eearthquake\u003c/b\u003e striking the South Island raised visions of the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Workshop dates: 11-13 April 2011 \u003cb\u003e....\u003c/b\u003e Britain is at the north-eastern edge of the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plate, \u003cb\u003e...\u003c/b\u003e near the town of Colchester on \u003cb\u003e22 April 1884\u003c/b\u003e. The \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZkrUKYEab_gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.aees.org.au/Newsletters/AEES_2010_4.pdf",
+   "htmlFormattedUrl": "www.aees.org.au/Newsletters/AEES_2010_4.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20101025225011Z",
+      "author": "Adam",
+      "creator": "Microsoft Word",
+      "producer": "Mac OS X 10.6.4 Quartz PDFContext",
+      "moddate": "D:20101026095500+11'00'",
+      "title": "AEES_2010_4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "Abant, AD 1967 July 22 earthquake 15, 31, 33. Absari, AD 1742 February ... AD   1884 December 12 earthquake 750. AD 1885 November 29 ... Akhuri, AD 1646   April 7 earthquake 486. Aksa mosque ...... Eurasian Plate 815???816. Euripos   castle ...",
+   "htmlSnippet": "Abant, AD 1967 July \u003cb\u003e22 earthquake\u003c/b\u003e 15, 31, 33. Absari, AD 1742 February \u003cb\u003e...\u003c/b\u003e AD \u003cbr\u003e  \u003cb\u003e1884\u003c/b\u003e December 12 \u003cb\u003eearthquake\u003c/b\u003e 750. AD 1885 November 29 \u003cb\u003e...\u003c/b\u003e Akhuri, AD 1646 \u003cbr\u003e  \u003cb\u003eApril\u003c/b\u003e 7 \u003cb\u003eearthquake\u003c/b\u003e 486. Aksa mosque \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816. Euripos \u003cbr\u003e  castle \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Eurocode 8 seismic hazard zoning maps for the UK",
+   "htmlTitle": "Eurocode 8 \u003cb\u003eseismic\u003c/b\u003e hazard zoning maps for the UK",
+   "link": "http://www.earthquakes.bgs.ac.uk/hazard/UK_seismic_hazard_report.pdf",
+   "displayLink": "www.earthquakes.bgs.ac.uk",
+   "snippet": "This report provides national seismic hazard maps compiled by the BGS for the ...   convened at the Institute of Civil Engineers (ICE) on 26 April 2007; thus the   model ..... 18. Figure 9 - Seismicity above 3.0 Mw since 1970. 22. Figure 10 -   Seismicity ... (1884), and the (perhaps better known) map of Ballore (1896) does   show a ...",
+   "htmlSnippet": "This report provides national \u003cb\u003eseismic\u003c/b\u003e hazard maps compiled by the BGS for the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  convened at the Institute of Civil Engineers (ICE) on 26 \u003cb\u003eApril\u003c/b\u003e 2007; thus the \u003cbr\u003e  model \u003cb\u003e.....\u003c/b\u003e 18. Figure 9 - Seismicity above 3.0 Mw since 1970. \u003cb\u003e22\u003c/b\u003e. Figure 10 - \u003cbr\u003e  Seismicity \u003cb\u003e...\u003c/b\u003e (\u003cb\u003e1884\u003c/b\u003e), and the (perhaps better known) map of Ballore (1896) does \u003cbr\u003e  show a \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earthquakes.bgs.ac.uk/hazard/UK_seismic_hazard_report.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003eearthquakes\u003c/b\u003e.bgs.ac.uk/hazard/UK_\u003cb\u003eseismic\u003c/b\u003e_hazard_report.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "rmwm",
+      "creationdate": "D:20071106113821Z",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20090630155806+01'00'",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "title": "Microsoft Word - EC8NA.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismo-electromagnetic phenomena in the western part of the ...",
+   "htmlTitle": "Seismo-electromagnetic phenomena in the western part of the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nat-hazards-earth-syst-sci.net/11/241/2011/nhess-11-241-2011.pdf",
+   "displayLink": "www.nat-hazards-earth-syst-sci.net",
+   "snippet": "Jan 28, 2011 ... study the seismic activity in the Western Part of the Eurasia-. Nubia Plate ...   Seismo-electromagnetic phenomena. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28.   29 .... earthquake in 1755), southern Iberia (1829 and 1884) and in northern .....   Abruzzo earthquake (M = 6.3) occurred on 6 April 2009, Nat. Hazards ...",
+   "htmlSnippet": "Jan 28, 2011 \u003cb\u003e...\u003c/b\u003e study the \u003cb\u003eseismic\u003c/b\u003e activity in the Western Part of the \u003cb\u003eEurasia\u003c/b\u003e-. Nubia Plate \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Seismo-electromagnetic phenomena. 18. 19. 20. 21. \u003cb\u003e22\u003c/b\u003e. 23. 24. 25. 26. 27. 28. \u003cbr\u003e  29 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e in 1755), southern Iberia (1829 and \u003cb\u003e1884\u003c/b\u003e) and in northern \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Abruzzo \u003cb\u003eearthquake\u003c/b\u003e (M = 6.3) occurred on 6 \u003cb\u003eApril\u003c/b\u003e 2009, Nat. Hazards \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LBkNWZSYnMkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nat-hazards-earth-syst-sci.net/11/241/2011/nhess-11-241-2011.pdf",
+   "htmlFormattedUrl": "www.nat-hazards-earth-syst-sci.net/11/241/2011/nhess-11-241-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "copernicus.cls version 4.0",
+      "producer": "pdfeTeX-1.303",
+      "creationdate": "D:20110207143718+01'00'",
+      "fullbanner": "This is pdfeTeX, Version 3.141592--1.30.3--2.2 (Web2c 7.5.5) kpathsea version 3.5.5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHARACTERISTIC EARTHQUAKES AND SEISMIC GAPS ...",
+   "htmlTitle": "CHARACTERISTIC \u003cb\u003eEARTHQUAKES\u003c/b\u003e AND \u003cb\u003eSEISMIC\u003c/b\u003e GAPS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.springer.com/cda/content/document/cda_downloaddocument/solid+earth+sample+chapter+3fulltext.pdf?SGWID=0-0-45-1335834-p174077803",
+   "displayLink": "www.springer.com",
+   "snippet": "Gilbert (1884) argued that large earthquakes should be separated by ..... The   California Earthquake of April 18, 1906. .... Royal Astronomical Society, 5, 10???22.   Ortelius, A., 1596. ... Eurasia Earth Science Institute, Istanbul Technical.   University ...",
+   "htmlSnippet": "Gilbert (\u003cb\u003e1884\u003c/b\u003e) argued that large \u003cb\u003eearthquakes\u003c/b\u003e should be separated by \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  California \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eApril\u003c/b\u003e 18, 1906. \u003cb\u003e....\u003c/b\u003e Royal Astronomical Society, 5, 10???\u003cb\u003e22\u003c/b\u003e. \u003cbr\u003e  Ortelius, A., 1596. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e Earth Science Institute, Istanbul Technical. \u003cbr\u003e  University \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XY94qQ-emdEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springer.com/cda/.../solid+earth+sample+chapter+3fulltext.pdf?...",
+   "htmlFormattedUrl": "www.springer.com/cda/.../solid+earth+sample+chapter+3fulltext.pdf?...",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "iText 4.2.0 by 1T3XT",
+      "moddate": "D:20121212025535+01'00'",
+      "creationdate": "D:20121212025535+01'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SRL 79:5 - Historical Seismologist",
+   "htmlTitle": "SRL 79:5 - Historical Seismologist",
+   "link": "http://www.seismosoc.org/publications/SRL/SRL_79/srl_79-5_hs.html",
+   "displayLink": "www.seismosoc.org",
+   "snippet": "In 1494, the city of M??laga, in southern Spain, was shaken by an earthquake that   ... region are associated with the plate boundary between Eurasia and Africa. ...   on earthquakes with epicenters near M??laga city, so the 1884 earthquake is not   .... in 1494 between January and April, but the reason is unknown (Goded 2006).",
+   "htmlSnippet": "In 1494, the city of M??laga, in southern Spain, was shaken by an \u003cb\u003eearthquake\u003c/b\u003e that \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e region are associated with the plate boundary between \u003cb\u003eEurasia\u003c/b\u003e and Africa. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  on \u003cb\u003eearthquakes\u003c/b\u003e with epicenters near M??laga city, so the \u003cb\u003e1884 earthquake\u003c/b\u003e is not \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e in 1494 between January and \u003cb\u003eApril\u003c/b\u003e, but the reason is unknown (Goded 2006).",
+   "cacheId": "smAuYuya18AJ",
+   "formattedUrl": "www.seismosoc.org/publications/SRL/SRL_79/srl_79-5_hs.html",
+   "htmlFormattedUrl": "www.seismosoc.org/publications/SRL/SRL_79/srl_79-5_hs.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismosoc.org/graphics/HS-logo.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "270",
+      "height": "88",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7sw7hERD0NKFu0b22dNk4gfEGfPrJRdh49y1y7v2RX7m53EgMcNLG6iw"
+     }
+    ]
+   }
+  }
+ ]
+}

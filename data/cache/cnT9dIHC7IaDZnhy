@@ -1,0 +1,290 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 30 2001 Africa Earthquake",
+    "totalResults": "774000",
+    "searchTerms": "Aug 30 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 30 2001 Africa Earthquake",
+    "totalResults": "774000",
+    "searchTerms": "Aug 30 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.455702,
+  "formattedSearchTime": "0.46",
+  "totalResults": "774000",
+  "formattedTotalResults": "774,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Read also: links to all 30 prior parts of this eruption report please go to the ....   Earthquakes to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4 ...",
+   "htmlSnippet": "Read also: links to all \u003cb\u003e30\u003c/b\u003e prior parts of this eruption report please go to the \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hazard map assessment of Mount Merapi, Central Java, Indonesia ...",
+   "htmlTitle": "Hazard map assessment of Mount Merapi, Central Java, Indonesia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/01/11/hazard-map-assessment-of-mount-merapi-central-java-indonesia-references/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 11, 2012 ... Chester D.K, Degg M, Duncan A.M and Guest J.E (2001) ??? The ... (2003) ???   Regional Landslide Risk To The Cairns Community, Natural Hazards 30, 233 ???   249 ... Tephra Falls and Lahars, Science 29 August 1986, 233, no 4767, 961 ???   963 .... EARTHQUAKE related news ??? To remember : South-Africa 1976 ...",
+   "htmlSnippet": "Jan 11, 2012 \u003cb\u003e...\u003c/b\u003e Chester D.K, Degg M, Duncan A.M and Guest J.E (\u003cb\u003e2001\u003c/b\u003e) ??? The \u003cb\u003e...\u003c/b\u003e (2003) ??? \u003cbr\u003e  Regional Landslide Risk To The Cairns Community, Natural Hazards \u003cb\u003e30\u003c/b\u003e, 233 ??? \u003cbr\u003e  249 \u003cb\u003e...\u003c/b\u003e Tephra Falls and Lahars, Science 29 \u003cb\u003eAugust\u003c/b\u003e 1986, 233, no 4767, 961 ??? \u003cbr\u003e  963 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South-\u003cb\u003eAfrica\u003c/b\u003e 1976 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sEtIP5z8gP4J",
+   "formattedUrl": "earthquake-report.com/.../hazard-map-assessment-of-mount-merapi-central- java-indonesia-references/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../hazard-map-assessment-of-mount-merapi-central- java-indonesia-references/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1868 Arica earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1868 Arica \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1868_Arica_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Sketches of Arica after the earthquake and tsunami from the Illustrated London   News ... occurred on August 13, 1868, near Arica, then part of Peru, now part of   Chile, at 21:30 UTC. ... a b c Rabinovich, A.B.; Kulikov E.A. & Thomson R.E. (  2001).",
+   "htmlSnippet": "Sketches of \u003cb\u003eArica\u003c/b\u003e after the \u003cb\u003eearthquake\u003c/b\u003e and tsunami from the Illustrated London \u003cbr\u003e  News \u003cb\u003e...\u003c/b\u003e occurred on \u003cb\u003eAugust\u003c/b\u003e 13, 1868, near Arica, then part of Peru, now part of \u003cbr\u003e  Chile, at 21:\u003cb\u003e30\u003c/b\u003e UTC. \u003cb\u003e...\u003c/b\u003e a b c Rabinovich, A.B.; Kulikov E.A. &amp; Thomson R.E. (\u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "t0Tt-czFX0gJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1868_Arica_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1868_Arica_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arica_after_the_earthquake_(1868).JPG/220px-Arica_after_the_earthquake_(1868).JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "137",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUKfDQAfjUe9aoouEGDURrNud0ypTVWYcuPC6Z-W17n8TyhK6p2_AS22WE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 6.2, VANUATU, Sep 30 2001, 19:01:17, -18.460, 168.260, 200109301901 ... 4.9,   SOUTH AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 6.2, VANUATU, \u003cb\u003eSep 30 2001\u003c/b\u003e, 19:01:17, -18.460, 168.260, 200109301901 \u003cb\u003e...\u003c/b\u003e 4.9, \u003cbr\u003e  SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Jul 31 2001, 22:22:22, -26.937, 26.792 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Thursday, 30 August 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Thursday, \u003cb\u003e30 August\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-aug-30.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Aug 30, 2012 ... Time, Mag. / Depth, Nearest volcano (distance), Location, Map, Source. Thu, 30   Aug (214 earthquakes). Thu, 30 Aug 23:59 UTC, M 2.8 / 39 km ...",
+   "htmlSnippet": "Aug 30, 2012 \u003cb\u003e...\u003c/b\u003e Time, Mag. / Depth, Nearest volcano (distance), Location, Map, Source. Thu, \u003cb\u003e30\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAug\u003c/b\u003e (214 \u003cb\u003eearthquakes\u003c/b\u003e). Thu, \u003cb\u003e30 Aug\u003c/b\u003e 23:59 UTC, M 2.8 / 39 km \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TSnYqlbL6cEJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-aug-30.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003eaug\u003c/b\u003e-\u003cb\u003e30\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today in History August 30",
+   "htmlTitle": "Today in History \u003cb\u003eAugust 30\u003c/b\u003e",
+   "link": "http://timelines.ws/days/08_30.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "30BC Aug 30, Cleopatra, the 7th and most famous queen of ancient Egypt,   committed ..... 2001 Aug 30, In South Africa Govan Mbeki, the father of Pres. .....   2008 Aug 30, A 6.1 earthquake hit southwest China's Sichuan province, killing   least 36 ...",
+   "htmlSnippet": "\u003cb\u003e30BC Aug 30\u003c/b\u003e, Cleopatra, the 7th and most famous queen of ancient Egypt, \u003cbr\u003e  committed \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e2001 Aug 30\u003c/b\u003e, In South \u003cb\u003eAfrica\u003c/b\u003e Govan Mbeki, the father of Pres. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  2008 \u003cb\u003eAug 30\u003c/b\u003e, A 6.1 \u003cb\u003eearthquake\u003c/b\u003e hit southwest China&#39;s Sichuan province, killing \u003cbr\u003e  least 36 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RQnLL3JZZ80J",
+   "formattedUrl": "timelines.ws/days/08_30.HTML",
+   "htmlFormattedUrl": "timelines.ws/days/08_\u003cb\u003e30\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algis Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Tuesday, 30 October 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Tuesday, \u003cb\u003e30\u003c/b\u003e October 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-oct-30.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Oct 30, 2012 ... Please wait until the recent earthquake list is loaded. ... Tue, 30 Oct 23:46 UTC, M   3.0 / 386 km - [info], ?????????????????? (SE off Mie Pref.) ...... indonesia photos   guatemala's volcanoes photos africa nyiragongo lava lake & mountain ...   november 2006 october 2006 2001 2000 1999 stromboli new september 2011 ...",
+   "htmlSnippet": "Oct 30, 2012 \u003cb\u003e...\u003c/b\u003e Please wait until the recent \u003cb\u003eearthquake\u003c/b\u003e list is loaded. \u003cb\u003e...\u003c/b\u003e Tue, \u003cb\u003e30 Oct\u003c/b\u003e 23:46 UTC, M \u003cbr\u003e  3.0 / 386 km - [info], ?????????????????? (SE off Mie Pref.) \u003cb\u003e......\u003c/b\u003e indonesia photos \u003cbr\u003e  guatemala&#39;s volcanoes photos \u003cb\u003eafrica\u003c/b\u003e nyiragongo lava lake &amp; mountain \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  november 2006 october 2006 \u003cb\u003e2001\u003c/b\u003e 2000 1999 stromboli new september 2011 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A353VS6hiIYJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-oct-30.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003eoct\u003c/b\u003e-\u003cb\u003e30\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Gauteng, South Africa",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Gauteng, South \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/p/south-africa/gauteng/recent",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Gauteng, South Africa has had: 0 earthquakes today; 0 earthquakes in the past 7   days; 0 earthquakes in the past month; 1 earthquake in the past year ...",
+   "htmlSnippet": "Gauteng, South \u003cb\u003eAfrica\u003c/b\u003e has had: 0 \u003cb\u003eearthquakes\u003c/b\u003e today; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the past 7 \u003cbr\u003e  days; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the past month; 1 \u003cb\u003eearthquake\u003c/b\u003e in the past year \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zZhP8mCbw5sJ",
+   "formattedUrl": "earthquaketrack.com/p/south-africa/gauteng/recent",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/p/south-\u003cb\u003eafrica\u003c/b\u003e/gauteng/recent",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "IWL1eSb7v1G0mci9/M8zCN46CRv1Az0ri8y+T9BxTPo="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Humanitarian Service Medal (HSM) ??? APPROVED OPERATIONS ...",
+   "htmlTitle": "Humanitarian Service Medal (HSM) ??? APPROVED OPERATIONS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://prhome.defense.gov/rfm/mpp/OEPM/docs/HSM%20Approved%20Operations%20V2.pdf",
+   "displayLink": "prhome.defense.gov",
+   "snippet": "23-Sep-1980 30-Apr-1982 Puerto Rico. Algeria Earthquake Disaster. 12-Oct-  1980 21-Oct-1980 Algeria. Italian Disaster Relief. 1-Nov-1980 7-Dec-1980 Italy ...",
+   "htmlSnippet": "23-\u003cb\u003eSep\u003c/b\u003e-1980 \u003cb\u003e30\u003c/b\u003e-Apr-1982 Puerto Rico. Algeria \u003cb\u003eEarthquake\u003c/b\u003e Disaster. 12-\u003cb\u003eOct\u003c/b\u003e-\u003cbr\u003e  1980 21-\u003cb\u003eOct\u003c/b\u003e-1980 Algeria. Italian Disaster Relief. 1-Nov-1980 7-Dec-1980 Italy \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wyLEVObPCoEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "prhome.defense.gov/rfm/.../HSM%20Approved%20Operations%20V2.pdf",
+   "htmlFormattedUrl": "prhome.defense.gov/rfm/.../HSM%20Approved%20Operations%20V2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090406120447-04'00'",
+      "author": "Nittled",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "moddate": "D:20090406120447-04'00'",
+      "title": "Microsoft Word - HSM Approved Operations V2.DOC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Soil Science Education - Soil in the News",
+   "htmlTitle": "Soil Science Education - Soil in the News",
+   "link": "http://soil.gsfc.nasa.gov/index.php?section=66",
+   "displayLink": "soil.gsfc.nasa.gov",
+   "snippet": "August 8, 2011, \"A Colorful Way to Watch Evolution in Nebraska's Sand Dunes. ...   Soil liquefication in Japan post earthquake: ..... August 30, 2001: Desert Dust Kills   Florida Fish New research links huge African dust clouds with the \"red tides\" ...",
+   "htmlSnippet": "August 8, 2011, &quot;A Colorful Way to Watch Evolution in Nebraska&#39;s Sand Dunes. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Soil liquefication in Japan post \u003cb\u003eearthquake\u003c/b\u003e: \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eAugust 30\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e: Desert Dust Kills \u003cbr\u003e  Florida Fish New research links huge \u003cb\u003eAfrican\u003c/b\u003e dust clouds with the &quot;red tides&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5hcxnhe8XQUJ",
+   "formattedUrl": "soil.gsfc.nasa.gov/index.php?section=66",
+   "htmlFormattedUrl": "soil.gsfc.nasa.gov/index.php?section=66",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthobservatory.nasa.gov/images/imagerecords/49000/49987/AtlanticOcean_tmo_2011096.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3A5oJVmphbIyVyzcAbHh6wDQFVw31zY8-Pzfl1Rq1DywFIX9wHAcgEIm7"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Soil in the News",
+      "orgcode": "614.4",
+      "rno": "Eric Brown de Colstoun",
+      "content-owner": "Eric Brown de Colstoun",
+      "webmaster": "Susannah Pearce",
+      "dc.publisher": "Susannah Pearce",
+      "dc.publisher.address": "susannah.pearce@nasa.gov",
+      "dc.title": "Soil in the News",
+      "dc.creator": "Eric Brown de Colstoun",
+      "dc.subject": "Current and historical news stories in which the soil plays a role.",
+      "dc.description": "Current and historical news stories in which the soil plays a role.",
+      "dc.type": "Text",
+      "dc.format": "text/html",
+      "dc.identifier": "http://soil.gsfc.nasa.gov/index.php?section=66",
+      "dc.language": "en"
+     }
+    ]
+   }
+  }
+ ]
+}

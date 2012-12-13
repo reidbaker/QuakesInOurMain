@@ -1,0 +1,326 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 9 1852 Eurasia Earthquake",
+    "totalResults": "5200",
+    "searchTerms": "Nov 9 1852 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 9 1852 Eurasia Earthquake",
+    "totalResults": "5200",
+    "searchTerms": "Nov 9 1852 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.483456,
+  "formattedSearchTime": "0.48",
+  "totalResults": "5200",
+  "formattedTotalResults": "5,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Japan was originally attached to the eastern coast of the Eurasian continent. ...   Later, on November 11, 1855 an earthquake measuring 6.9 M struck near the ...   On April 9, 1858, the Hietsu Earthquake occurred on the Atotsugawa Fault, ..... in   the Years 1852, 1853 and 1854 under the Command of Commodore M.C. Perry, ...",
+   "htmlSnippet": "Japan was originally attached to the eastern coast of the \u003cb\u003eEurasian\u003c/b\u003e continent. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Later, on \u003cb\u003eNovember\u003c/b\u003e 11, 1855 an \u003cb\u003eearthquake\u003c/b\u003e measuring 6.9 M struck near the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  On April \u003cb\u003e9\u003c/b\u003e, 1858, the Hietsu \u003cb\u003eEarthquake\u003c/b\u003e occurred on the Atotsugawa Fault, \u003cb\u003e.....\u003c/b\u003e in \u003cbr\u003e  the Years \u003cb\u003e1852\u003c/b\u003e, 1853 and 1854 under the Command of Commodore M.C. Perry, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NuRGcOQIbpIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japan_separation.png/270px-Japan_separation.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAivkrzGCuUOdUUabCsPoOS7Ntz0yc_PFSUl2M5kTnoihqkPpJiCdL5c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. Central ....   descending order of preference, 9% from Engdahl et al (1998), for well   determined earthquakes ..... Kondorskaya N., Shebalin N. (1997) Nov'i katalog sil'  nih zemletriasenii na territorii SSSR, Izd. ..... 1852 124 345 29.3 68.63 6.7 5 26   26.6 Kahun ...",
+   "htmlSnippet": "of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. Central \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  descending order of preference, \u003cb\u003e9\u003c/b\u003e% from Engdahl et al (1998), for well \u003cbr\u003e  determined \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e Kondorskaya N., Shebalin N. (1997) \u003cb\u003eNov\u003c/b\u003e&#39;i katalog sil&#39;\u003cbr\u003e  nih zemletriasenii na territorii SSSR, Izd. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1852\u003c/b\u003e 124 345 29.3 68.63 6.7 5 26 \u003cbr\u003e  26.6 Kahun \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "AD 1862 November earthquakes 706 ... AD 1888 September 9 earthquake 755???  756 ..... AD 1852 October 26 wind damage 673 ...... Eurasian Plate 815???816 ...",
+   "htmlSnippet": "AD 1862 \u003cb\u003eNovember earthquakes\u003c/b\u003e 706 \u003cb\u003e...\u003c/b\u003e AD 1888 September \u003cb\u003e9 earthquake\u003c/b\u003e 755???\u003cbr\u003e  756 \u003cb\u003e.....\u003c/b\u003e AD \u003cb\u003e1852\u003c/b\u003e October 26 wind damage 673 \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 1833 Nepal Earthquake: epicentral proximity to the 1934 Bihar ...",
+   "htmlTitle": "The 1833 Nepal \u003cb\u003eEarthquake\u003c/b\u003e: epicentral proximity to the 1934 Bihar \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://cires.colorado.edu/~bilham/1833_Nepal.htm",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "Bilham, R., Location and magnitude of the 1833 Nepal earthquake and its ....   August 1833; Campbell, November and December 1833) compiled unofficial ...   1833 earthquake as the 1834 Nepal earthquake (Mallet, 1852 p.313) places   ??Mallai? ... at the correct range for news delays of 9-11 days, the phonetic   resemblances ...",
+   "htmlSnippet": "Bilham, R., Location and magnitude of the 1833 Nepal \u003cb\u003eearthquake\u003c/b\u003e and its \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  August 1833; Campbell, \u003cb\u003eNovember\u003c/b\u003e and December 1833) compiled unofficial \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1833 \u003cb\u003eearthquake\u003c/b\u003e as the 1834 Nepal \u003cb\u003eearthquake\u003c/b\u003e (Mallet, \u003cb\u003e1852\u003c/b\u003e p.313) places \u003cbr\u003e  ??Mallai? \u003cb\u003e...\u003c/b\u003e at the correct range for news delays of \u003cb\u003e9\u003c/b\u003e-11 days, the phonetic \u003cbr\u003e  resemblances \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MwC70Qfb4nUJ",
+   "formattedUrl": "cires.colorado.edu/~bilham/1833_Nepal.htm",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/1833_Nepal.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "The 1833 Nepal Earthquake: epicentral proximity to the 1934 Bihar event",
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 10"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKE DATABASE",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e DATABASE",
+   "link": "http://www.eird.org/cd/building-codes/pdf/eng/doc12294/doc12294-contenido.pdf",
+   "displayLink": "www.eird.org",
+   "snippet": "Bangladesh is suited adjacent to the plate margins of India and Eurasia where   devastating ... Earthquakes occurring in 1664, 1828, 1852 and 1885 are shown   to have Dhaka as. 59 .... and also consideration of 19'/'9 code, issoseismal maps   of past earthquakes indicates that zone coefficient ... Society, November, pp. 65-  75.",
+   "htmlSnippet": "Bangladesh is suited adjacent to the plate margins of India and \u003cb\u003eEurasia\u003c/b\u003e where \u003cbr\u003e  devastating \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e occurring in 1664, 1828, \u003cb\u003e1852\u003c/b\u003e and 1885 are shown \u003cbr\u003e  to have Dhaka as. 59 \u003cb\u003e....\u003c/b\u003e and also consideration of 19&#39;/&#39;\u003cb\u003e9\u003c/b\u003e code, issoseismal maps \u003cbr\u003e  of past \u003cb\u003eearthquakes\u003c/b\u003e indicates that zone coefficient \u003cb\u003e...\u003c/b\u003e Society, \u003cb\u003eNovember\u003c/b\u003e, pp. 65-\u003cbr\u003e  75.",
+   "cacheId": "gPzDfhEr7PYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.eird.org/cd/building-codes/pdf/eng/.../doc12294-contenido.pdf",
+   "htmlFormattedUrl": "www.eird.org/cd/building-codes/pdf/eng/.../doc12294-contenido.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat 5.0 Image Conversion Plug-in for Windows",
+      "creator": "Acrobat 5.0 Image Conversion Plug-in for Windows",
+      "creationdate": "Tue Nov 12 02:49:14 2002",
+      "moddate": "Tue Nov 12 02:49:31 2002"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Study reveals complex rupture process in surprising 2012 Sumatra ...",
+   "htmlTitle": "Study reveals complex rupture process in surprising 2012 Sumatra \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://article.wn.com/view/2012/09/27/Study_reveals_complex_rupture_process_in_surprising_2012_Sum/",
+   "displayLink": "article.wn.com",
+   "snippet": "Sep 27, 2012 ... April event was the largest earthquake ever recorded in the middle of a ... (  Images courtesy of Thorne Lay) The massive earthquake that struck ...",
+   "htmlSnippet": "Sep 27, 2012 \u003cb\u003e...\u003c/b\u003e April event was the largest \u003cb\u003eearthquake\u003c/b\u003e ever recorded in the middle of a \u003cb\u003e...\u003c/b\u003e (\u003cbr\u003e  Images courtesy of Thorne Lay) The massive \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Ti0_mWJAgYJ",
+   "formattedUrl": "article.wn.com/.../Study_reveals_complex_rupture_process_in_surprising_ 2012_Sum/",
+   "htmlFormattedUrl": "article.wn.com/.../Study_reveals_complex_rupture_process_in_surprising_ 2012_Sum/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/PjW6-U8r47c/0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXXjB0paeuMk-Q_ZRr1ym4HQXQlQrSt5QfX9ChS-cPOMKvVW3PCEzcy6k"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Study reveals complex rupture process in surprising 2012 Sumatra quake (University of California) (University of California)",
+      "og:url": "http://article.wn.com/view/2012/09/27/Study_reveals_complex_rupture_process_in_surprising_2012_Sum/",
+      "og:image": "http://i.ytimg.com/vi/PjW6-U8r47c/0.jpg",
+      "og:site_name": "World News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNCORRECTED PROOF",
+   "htmlTitle": "UNCORRECTED PROOF",
+   "link": "http://eost.u-strasbg.fr/semipgs/VitaFinzi_INDIA_qsr.pdf",
+   "displayLink": "eost.u-strasbg.fr",
+   "snippet": "As intraplate earthquakes are often not associated with major known faults their   ... roughly normal to the azimuth of convergence between the Indian and   Eurasian plates. .... Center website (21 November 2003); and (9) Cloetingh and   Wortel (1986). ..... 1852. Ellis, M., Gomberg, J., Schweig, E., 2001. Indian   earthquake may ...",
+   "htmlSnippet": "As intraplate \u003cb\u003eearthquakes\u003c/b\u003e are often not associated with major known faults their \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e roughly normal to the azimuth of convergence between the Indian and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plates. \u003cb\u003e....\u003c/b\u003e Center website (21 \u003cb\u003eNovember\u003c/b\u003e 2003); and (\u003cb\u003e9\u003c/b\u003e) Cloetingh and \u003cbr\u003e  Wortel (1986). \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1852\u003c/b\u003e. Ellis, M., Gomberg, J., Schweig, E., 2001. Indian \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e may \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FFoYV8wMYYYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "eost.u-strasbg.fr/semipgs/VitaFinzi_INDIA_qsr.pdf",
+   "htmlFormattedUrl": "eost.u-strasbg.fr/semipgs/VitaFinzi_INDIA_qsr.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040225142729+05'30'",
+      "moddate": "D:20040225142729+05'30'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "title": "doi:10.1016/j.quascirev.2004.01.008",
+      "creator": "Elsevier"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The earliest known human civilizations formed in earthquake ...",
+   "htmlTitle": "The earliest known human civilizations formed in \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://conservancy.umn.edu/bitstream/99438/1/Bluestone_umn_0130E_11718.pdf",
+   "displayLink": "conservancy.umn.edu",
+   "snippet": "Using historical sources comprised of earthquake stories of multiple genres ??? ....   of North America; continues across the Aleutian Islands and over to the Eurasian   .... 9. Although the catfish legend had been present in Japanese folklore for at ...   World 29 (November-December 1976), 10-13, and a longer, more recent one by ...",
+   "htmlSnippet": "Using historical sources comprised of \u003cb\u003eearthquake\u003c/b\u003e stories of multiple genres ??? \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  of North America; continues across the Aleutian Islands and over to the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003e9\u003c/b\u003e. Although the catfish legend had been present in Japanese folklore for at \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  World 29 (\u003cb\u003eNovember\u003c/b\u003e-December 1976), 10-13, and a longer, more recent one by \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "conservancy.umn.edu/bitstream/99438/.../Bluestone_umn_0130E_11718.pdf",
+   "htmlFormattedUrl": "conservancy.umn.edu/bitstream/99438/.../Bluestone_umn_0130E_11718.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "The earliest known human civilizations formed in earthquake country, from Mesopotamia, the Indus Region, and East-Central China during the fourth millennium BCE, to the entrep??ts budding along the Mediterranean Sea a thousand years later, to the cultures",
+      "author": "Jamie Stephenson",
+      "creator": "Microsoft?? Word 2010",
+      "creationdate": "D:20101222221935-06'00'",
+      "moddate": "D:20101222221935-06'00'",
+      "producer": "Microsoft?? Word 2010"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami Alarm System - Occurrence of Tsunamis - Indian Ocean",
+   "htmlTitle": "Tsunami Alarm System - Occurrence of Tsunamis - Indian Ocean",
+   "link": "http://www.tsunami-alarm-system.com/en/phenomenon-tsunami/occurrences-indian-ocean.html",
+   "displayLink": "www.tsunami-alarm-system.com",
+   "snippet": "The quake off Sumatra on 26 December 2006 caused a disastrous tsunami that   ... quake. It reached 9,3 on the Richter scale ??? one of the strongest quakes ever   measured. ... Since November 2005 the tsunami early warning system developed   under German ... curve where the Australia Plate sinks beneath the Eurasia Plate  .",
+   "htmlSnippet": "The \u003cb\u003equake\u003c/b\u003e off Sumatra on 26 December 2006 caused a disastrous tsunami that \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003equake\u003c/b\u003e. It reached \u003cb\u003e9\u003c/b\u003e,3 on the Richter scale ??? one of the strongest quakes ever \u003cbr\u003e  measured. \u003cb\u003e...\u003c/b\u003e Since \u003cb\u003eNovember\u003c/b\u003e 2005 the tsunami early warning system developed \u003cbr\u003e  under German \u003cb\u003e...\u003c/b\u003e curve where the Australia Plate sinks beneath the \u003cb\u003eEurasia\u003c/b\u003e Plate\u003cbr\u003e  .",
+   "cacheId": "0raS6fqq1NgJ",
+   "formattedUrl": "www.tsunami-alarm-system.com/en/.../occurrences-indian-ocean.html",
+   "htmlFormattedUrl": "www.tsunami-alarm-system.com/en/.../occurrences-indian-ocean.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.tsunami-alarm-system.com/uploads/pics/occurrence_tsunami_indian.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "238",
+      "height": "212",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMLw-0l57k5E4dhO68O9KO25zPum73XAvfrrHM8g0rp6a01yQYfGTLISrO"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c) Tsunami Alarm Institute",
+      "author": "(c) Tsunami Alarm Institute",
+      "email": "info[at]sunami-alarm-system[dot]com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity, earthquake mechanisms and tectonics along the ...",
+   "htmlTitle": "Seismicity, \u003cb\u003eearthquake\u003c/b\u003e mechanisms and tectonics along the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.sciencedirect.com/science/article/pii/0031920178900833",
+   "displayLink": "www.sciencedirect.com",
+   "snippet": "Seismicity maps of the region showing large earthquakes (magnitude 7.0 and ...   The earthquake epicenters generally follow the trend of the mountains with ...",
+   "htmlSnippet": "Seismicity maps of the region showing large \u003cb\u003eearthquakes\u003c/b\u003e (magnitude 7.0 and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The \u003cb\u003eearthquake\u003c/b\u003e epicenters generally follow the trend of the mountains with \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.sciencedirect.com/science/article/pii/0031920178900833",
+   "htmlFormattedUrl": "www.sciencedirect.com/science/article/pii/0031920178900833",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ars.els-cdn.com/content/image/S00319201.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "90",
+      "height": "120",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQlHyfESDGjLZfAHsP4YOjGCoB54tZMaXXfUjycJZLNwyjn-ELtdx_FQ"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_publisher": "Elsevier",
+      "citation_journal_title": "Physics of the Earth and Planetary Interiors",
+      "citation_issn": "0031-9201",
+      "citation_volume": "16",
+      "citation_issue": "2",
+      "citation_date": "1978/03/31",
+      "citation_title": "Seismicity, earthquake mechanisms and tectonics along the Himalayan mountain range and vicinity",
+      "citation_firstpage": "109",
+      "citation_lastpage": "131",
+      "citation_type": "JOUR",
+      "citation_pii": "0031920178900833",
+      "citation_doi": "10.1016/0031-9201(78)90083-3",
+      "citation_authors": "Chandra, Umesh"
+     }
+    ]
+   }
+  }
+ ]
+}

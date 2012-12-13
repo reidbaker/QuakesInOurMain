@@ -1,0 +1,335 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 1 1951 Asia Earthquake",
+    "totalResults": "110000",
+    "searchTerms": "Jan 1 1951 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 1 1951 Asia Earthquake",
+    "totalResults": "110000",
+    "searchTerms": "Jan 1 1951 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.191582,
+  "formattedSearchTime": "0.19",
+  "totalResults": "110000",
+  "formattedTotalResults": "110,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "htmlTitle": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... Today, a small, 1-2 days-long volcano-tectonic earthquake swarm ended at or   near Popocatepetl (Mexico). It was also a period where ...",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e Today, a small, \u003cb\u003e1\u003c/b\u003e-2 days-long volcano-tectonic \u003cb\u003eearthquake\u003c/b\u003e swarm ended at or \u003cbr\u003e  near Popocatepetl (Mexico). It was also a period where \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The impact of cultural and religious influences during natural ...",
+   "htmlTitle": "The impact of cultural and religious influences during natural \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/09/27/the-impact-of-cultural-and-religious-influences-during-natural-disasters-references/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Sep 27, 2012 ... Belshaw C.S (1951) ??? Social consequences of the Mount .... Biblical perspectives   on current events, January edition 7 (1), p. .... Tiedemann H (1992) ???   Earthquakes and volcanic eruptions, Zurich: Swiss Reinsurance Company,   Zurich .... hope they're not as angry as they were in South East Asia in 1883.",
+   "htmlSnippet": "Sep 27, 2012 \u003cb\u003e...\u003c/b\u003e Belshaw C.S (\u003cb\u003e1951\u003c/b\u003e) ??? Social consequences of the Mount \u003cb\u003e....\u003c/b\u003e Biblical perspectives \u003cbr\u003e  on current events, \u003cb\u003eJanuary\u003c/b\u003e edition 7 (\u003cb\u003e1\u003c/b\u003e), p. \u003cb\u003e....\u003c/b\u003e Tiedemann H (1992) ??? \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e and volcanic eruptions, Zurich: Swiss Reinsurance Company, \u003cbr\u003e  Zurich \u003cb\u003e....\u003c/b\u003e hope they&#39;re not as angry as they were in South East \u003cb\u003eAsia\u003c/b\u003e in 1883.",
+   "cacheId": "MGiw9Nw5nxwJ",
+   "formattedUrl": "earthquake-report.com/.../the-impact-of-cultural-and-religious-influences- during-natural-disasters-references/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../the-impact-of-cultural-and-religious-influences- during-natural-disasters-references/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic ... 1.   700420000000000000020,000, 1970 Huascar??n avalanche; triggered by ...   70064000000000000004,000,000, Asian Flu, Worldwide .... 1038 Shaanxi   earthquake, China, 01038-01-09January 9, 1038 .... 500, The Comoro Tornado,   Comoro, 1951 ...",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1\u003c/b\u003e. \u003cbr\u003e  700420000000000000020,000, 1970 Huascar??n avalanche; triggered by \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  70064000000000000004,000,000, \u003cb\u003eAsian\u003c/b\u003e Flu, Worldwide \u003cb\u003e....\u003c/b\u003e 1038 Shaanxi \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, China, 01038-01-09\u003cb\u003eJanuary\u003c/b\u003e 9, 1038 \u003cb\u003e....\u003c/b\u003e 500, The Comoro Tornado, \u003cbr\u003e  Comoro, \u003cb\u003e1951\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Great Central Himalayan Earthquake",
+   "htmlTitle": "Great Central Himalayan \u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://saarc-sdmc.nic.in/pdf/Publications/Journal/journal%202009/1-journal_new.pdf",
+   "displayLink": "saarc-sdmc.nic.in",
+   "snippet": "The recent devastating earthquakes, around south Asia and outside, such as   Southern ... 7.2, 17 January, 1995) are the reminders to us to realize how   vulnerable we are to ... Figure 1: Distribution of earthquake epicentres in the   Nepal Himalaya and .... After the democratic movement in the country in 1951,   Kathmandu, the ...",
+   "htmlSnippet": "The recent devastating \u003cb\u003eearthquakes\u003c/b\u003e, around south \u003cb\u003eAsia\u003c/b\u003e and outside, such as \u003cbr\u003e  Southern \u003cb\u003e...\u003c/b\u003e 7.2, 17 \u003cb\u003eJanuary\u003c/b\u003e, 1995) are the reminders to us to realize how \u003cbr\u003e  vulnerable we are to \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e1\u003c/b\u003e: Distribution of \u003cb\u003eearthquake\u003c/b\u003e epicentres in the \u003cbr\u003e  Nepal Himalaya and \u003cb\u003e....\u003c/b\u003e After the democratic movement in the country in \u003cb\u003e1951\u003c/b\u003e, \u003cbr\u003e  Kathmandu, the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "H4EeNYvx0MgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "saarc-sdmc.nic.in/pdf/Publications/Journal/.../1-journal_new.pdf",
+   "htmlFormattedUrl": "saarc-sdmc.nic.in/pdf/Publications/Journal/.../\u003cb\u003e1\u003c/b\u003e-journal_new.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20101119115610+05'30'",
+      "author": "admin",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20101119115610+05'30'",
+      "title": "1-journal new.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   ... Eurasian Plate, beyond the eastern extent of the Armenian and Asia Minor fault   zones. .... 3,051 kitchen sets, 6,899 catalytic stoves, 5,792 sleeping bags, and 1   mobile kitchen are present. ..... Tir??a, Chile (7.1, Jan 2); Pakistan (7.2, Jan 19) ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Eurasian Plate, beyond the eastern extent of the Armenian and \u003cb\u003eAsia\u003c/b\u003e Minor fault \u003cbr\u003e  zones. \u003cb\u003e....\u003c/b\u003e 3,051 kitchen sets, 6,899 catalytic stoves, 5,792 sleeping bags, and \u003cb\u003e1\u003c/b\u003e \u003cbr\u003e  mobile kitchen are present. \u003cb\u003e.....\u003c/b\u003e Tir??a, Chile (7.1, \u003cb\u003eJan\u003c/b\u003e 2); Pakistan (7.2, \u003cb\u003eJan\u003c/b\u003e 19) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BBC News - Japan profile - Timeline",
+   "htmlTitle": "BBC News - Japan profile - Timeline",
+   "link": "http://www.bbc.co.uk/news/world-asia-pacific-15219730",
+   "displayLink": "www.bbc.co.uk",
+   "snippet": "Nov 16, 2012 ... 1951 - Japan signs peace treaty with the US and other nations. ... 1995 January -   An earthquake hits central Japan, killing thousands and causing widespread   damage. ... war criminals; Ceremonies at the shrine raise hackles across Asia ....   2012 August - Japan's economic growth slows to 0.3% from 1% in ...",
+   "htmlSnippet": "Nov 16, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1951\u003c/b\u003e - Japan signs peace treaty with the US and other nations. \u003cb\u003e...\u003c/b\u003e 1995 \u003cb\u003eJanuary\u003c/b\u003e - \u003cbr\u003e  An \u003cb\u003eearthquake\u003c/b\u003e hits central Japan, killing thousands and causing widespread \u003cbr\u003e  damage. \u003cb\u003e...\u003c/b\u003e war criminals; Ceremonies at the shrine raise hackles across \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  2012 August - Japan&#39;s economic growth slows to 0.3% from \u003cb\u003e1\u003c/b\u003e% in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rfwzzMfeulcJ",
+   "formattedUrl": "www.bbc.co.uk/news/world-asia-pacific-15219730",
+   "htmlFormattedUrl": "www.bbc.co.uk/news/world-\u003cb\u003easia\u003c/b\u003e-pacific-15219730",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.bbcimg.co.uk/media/images/55912000/jpg/_55912632_night_tokyo.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "243",
+      "height": "136",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLV1313ZNUUP5jnRvB-QxQ2IrACSprCa7K4TjrzRDLD6em67BU2rk2bGWL"
+     }
+    ],
+    "metatags": [
+     {
+      "originalpublicationdate": "2012/11/16 09:22:06",
+      "ukfs_url": "/news/world-asia-pacific-15219730",
+      "headline": "Japan profile",
+      "ifs_url": "/news/world-asia-pacific-15219730",
+      "section": "Asia-Pacific",
+      "contentflavor": "STORY",
+      "cps_id": "15219730",
+      "cps_site_name": "BBC News",
+      "cps_section_path": "World/Asia Pacific",
+      "cps_asset_type": "STY",
+      "cps_platform": "HighWeb",
+      "cps_audience": "US",
+      "og:title": "Japan profile",
+      "og:type": "article",
+      "og:url": "http://www.bbc.co.uk/news/world-asia-pacific-15219730",
+      "og:site_name": "BBC News",
+      "bbcsearch_noindex": "atom",
+      "application-name": "BBC News",
+      "msapplication-tileimage": "/img/1_0_2/cream/hi/news/bbc-news-pin.png",
+      "msapplication-tilecolor": "#CC0101",
+      "viewport": "width = 996",
+      "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more",
+      "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquake locations are taken from the Centennial Catalog and the updated   Engdahl, van der ... From January 2006, earthquake locations are from the   United States Geological ...... 1951-07-09 00:04, Mexico, 16.100, -96.800, 50, 6.2   UK, 1 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e locations are taken from the Centennial Catalog and the updated \u003cbr\u003e  Engdahl, van der \u003cb\u003e...\u003c/b\u003e From \u003cb\u003eJanuary\u003c/b\u003e 2006, \u003cb\u003eearthquake\u003c/b\u003e locations are from the \u003cbr\u003e  United States Geological \u003cb\u003e......\u003c/b\u003e \u003cb\u003e1951\u003c/b\u003e-07-09 00:04, Mexico, 16.100, -96.800, 50, 6.2 \u003cbr\u003e  UK, \u003cb\u003e1\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAULTING ASSOCIATE!) wrra LARGE smrraqumcrs AND THE ...",
+   "htmlTitle": "FAULTING ASSOCIATE!) wrra LARGE smrraqumcrs AND THE \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.colorado.edu/geolsci/faculty/molnarpdf/1984JGR.M&Deng.EQs&AsianDeforma.pdf",
+   "displayLink": "www.colorado.edu",
+   "snippet": "Sep 15, 2012 ... 10 , 1951 0 30.90 91.69 0.0 6.6 , 3.0 130 90 100. Feb. 11 , 1956 0 ... 1166611 26   , 1966 1 37 .60 115.27 6.2 0.016 30 76 203. Jan. 5 , 1967 A 60 ... Mo lnar and   Deng: Earthquake Faulting and Deformation Asia in Central and ...",
+   "htmlSnippet": "Sep 15, 2012 \u003cb\u003e...\u003c/b\u003e 10 , \u003cb\u003e1951\u003c/b\u003e 0 30.90 91.69 0.0 6.6 , 3.0 130 90 100. Feb. 11 , 1956 0 \u003cb\u003e...\u003c/b\u003e 1166611 26 \u003cbr\u003e  , 1966 \u003cb\u003e1\u003c/b\u003e 37 .60 115.27 6.2 0.016 30 76 203. \u003cb\u003eJan\u003c/b\u003e. 5 , 1967 A 60 \u003cb\u003e...\u003c/b\u003e Mo lnar and \u003cbr\u003e  Deng: \u003cb\u003eEarthquake\u003c/b\u003e Faulting and Deformation \u003cb\u003eAsia\u003c/b\u003e in Central and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ocfcgRpbpaAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.colorado.edu/geolsci/.../1984JGR.M&Deng.EQs&AsianDeforma.pdf",
+   "htmlFormattedUrl": "www.colorado.edu/geolsci/.../1984JGR.M&amp;Deng.EQs&amp;\u003cb\u003eAsian\u003c/b\u003eDeforma.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creator": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creationdate": "Thu Jun  3 04:59:06 2004",
+      "moddate": "Thu Jun  3 05:09:30 2004"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "01906-01-31January 31, 1906, 15:36, Colombia???Ecuador see 1906 Ecuador-  Colombia earthquake, 1, ???81.5, 1,000, 8.8, Mw, USGS. 01906-04-18April 18,   1906 ...",
+   "htmlSnippet": "01906-01-31\u003cb\u003eJanuary\u003c/b\u003e 31, 1906, 15:36, Colombia???Ecuador see 1906 Ecuador-\u003cbr\u003e  Colombia \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e1\u003c/b\u003e, ???81.5, 1,000, 8.8, Mw, USGS. 01906-04-18April 18, \u003cbr\u003e  1906 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  }
+ ]
+}

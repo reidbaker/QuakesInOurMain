@@ -1,0 +1,291 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 31 2001 Africa Earthquake",
+    "totalResults": "701000",
+    "searchTerms": "Oct 31 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 31 2001 Africa Earthquake",
+    "totalResults": "701000",
+    "searchTerms": "Oct 31 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.336275,
+  "formattedSearchTime": "0.34",
+  "totalResults": "701000",
+  "formattedTotalResults": "701,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Earthquake Report, sign up for Facebook today. .... Earthquakes   to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4 people ...",
+   "htmlSnippet": "To connect with \u003cb\u003eEarthquake\u003c/b\u003e Report, sign up for Facebook today. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e \u003cbr\u003e  to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 people \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV) ... October   31, 2001, 09:10, New Britain region, Papua New Guinea ...",
+   "htmlSnippet": "see 2001 El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eOctober\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e31, 2001\u003c/b\u003e, 09:10, New Britain region, Papua New Guinea \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 5.2, Koyyeri, Turkey, Oct 31 2001, 12:33:58 UTC, 37.175, 36.127 ... 4.9, SOUTH   AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 5.2, Koyyeri, Turkey, \u003cb\u003eOct 31 2001\u003c/b\u003e, 12:33:58 UTC, 37.175, 36.127 \u003cb\u003e...\u003c/b\u003e 4.9, SOUTH \u003cbr\u003e  \u003cb\u003eAFRICA\u003c/b\u003e, Jul 31 2001, 22:22:22, -26.937, 26.792 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on October 31 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eOctober 31\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/oct31.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "October 31, 1759 Earthquake in Safed Palestine kills hundred .... October 31,   1996 Jean Chrtien becomes UN special envoy to the African Great Lakes. ...   October 31, 2001 Visitor posting - October 31st 2001 Michael & Vanessa Bond   were ...",
+   "htmlSnippet": "October 31, 1759 \u003cb\u003eEarthquake\u003c/b\u003e in Safed Palestine kills hundred \u003cb\u003e....\u003c/b\u003e October 31, \u003cbr\u003e  1996 Jean Chrtien becomes UN special envoy to the \u003cb\u003eAfrican\u003c/b\u003e Great Lakes. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eOctober 31, 2001\u003c/b\u003e Visitor posting - \u003cb\u003eOctober 31st 2001\u003c/b\u003e Michael &amp; Vanessa Bond \u003cbr\u003e  were \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "52FmkUHpDQAJ",
+   "formattedUrl": "www.datesinhistory.com/oct31.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eoct31\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Wednesday, 31 October 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Wednesday, \u003cb\u003e31 October\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-oct-31.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Earthquake list: Wednesday, 31 October 2012 (M\u003e=2.5) (171 quakes). all M\u003e3 M  \u003e4 M\u003e5 | latest ... X. Please wait until the recent earthquake list is loaded.",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e list: Wednesday, \u003cb\u003e31 October\u003c/b\u003e 2012 (M&gt;=2.5) (171 quakes). all M&gt;3 M\u003cbr\u003e  &gt;4 M&gt;5 | latest \u003cb\u003e...\u003c/b\u003e X. Please wait until the recent \u003cb\u003eearthquake\u003c/b\u003e list is loaded.",
+   "cacheId": "tz_2arlzy7gJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-oct-31.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003eoct\u003c/b\u003e-\u003cb\u003e31\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "special pay - duty subject to hostile fire or",
+   "htmlTitle": "special pay - duty subject to hostile fire or",
+   "link": "http://comptroller.defense.gov/fmr/07a/07a_10.pdf",
+   "displayLink": "comptroller.defense.gov",
+   "snippet": "Oct 31, 2001. *Mediterranean Sea. Water area of the Mediterranean Sea   extending from the North African Coast northward into Mediterranean Sea,   bounded ...",
+   "htmlSnippet": "\u003cb\u003eOct 31, 2001\u003c/b\u003e. *Mediterranean Sea. Water area of the Mediterranean Sea \u003cbr\u003e  extending from the North \u003cb\u003eAfrican\u003c/b\u003e Coast northward into Mediterranean Sea, \u003cbr\u003e  bounded \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HMFDIuXUPGcJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "comptroller.defense.gov/fmr/07a/07a_10.pdf",
+   "htmlFormattedUrl": "comptroller.defense.gov/fmr/07a/07a_10.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Rogelio Castillo",
+      "creationdate": "D:20110816125941-04'00'",
+      "creator": "Acrobat PDFMaker 9.1 for Word",
+      "moddate": "D:20110816125943-04'00'",
+      "producer": "Adobe PDF Library 9.0",
+      "sourcemodified": "D:20110816165933",
+      "title": "SUMMARY OF MAJOR CHANGES TO"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Insurance in Turkey - ISBN: 0821365835",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Insurance in Turkey - ISBN: 0821365835",
+   "link": "http://siteresources.worldbank.org/FINANCIALSECTOR/Resources/TurkeyEQInsurance_Book.pdf",
+   "displayLink": "siteresources.worldbank.org",
+   "snippet": "Earthquake Insurance Coverage Terms and Conditions. 31. Risk Financing   Strategy ... Compulsory Earthquake Insurance as Published in Official ... 1???Oct.   31, 2001???5 ..... caught by the major Eurasian, Arabian, and African plates,   respectively.",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e Insurance Coverage Terms and Conditions. 31. Risk Financing \u003cbr\u003e  Strategy \u003cb\u003e...\u003c/b\u003e Compulsory \u003cb\u003eEarthquake\u003c/b\u003e Insurance as Published in Official \u003cb\u003e...\u003c/b\u003e 1???\u003cb\u003eOct\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003e31\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e???5 \u003cb\u003e.....\u003c/b\u003e caught by the major Eurasian, Arabian, and \u003cb\u003eAfrican\u003c/b\u003e plates, \u003cbr\u003e  respectively.",
+   "cacheId": "b0aZ1Bk8GcsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "siteresources.worldbank.org/.../Resources/TurkeyEQInsurance_Book.pdf",
+   "htmlFormattedUrl": "siteresources.worldbank.org/.../Resources/TurkeyEQInsurance_Book.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070211084852+05'30'",
+      "author": "Eugene Gurenko, Rodney Lester, Olivier Mahul and Serap Oguz Gonulal",
+      "creator": "Adobe Acrobat 7.0",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20070215085124-05'00'",
+      "title": "Earthquake Insurance in Turkey - ISBN: 0821365835"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKES",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.msnucleus.org/membership/html/jh/earth/earthquakes/jhearth.pdf",
+   "displayLink": "www.msnucleus.org",
+   "snippet": "This reader gives students a scientific background of earthquakes. The .... In West   Africa, the Earth is ..... October 31, 1895 a magnitude 6.2 quake struck.",
+   "htmlSnippet": "This reader gives students a scientific background of \u003cb\u003eearthquakes\u003c/b\u003e. The \u003cb\u003e....\u003c/b\u003e In West \u003cbr\u003e  \u003cb\u003eAfrica\u003c/b\u003e, the Earth is \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eOctober 31\u003c/b\u003e, 1895 a magnitude 6.2 \u003cb\u003equake\u003c/b\u003e struck.",
+   "cacheId": "-mNcpSs-iKAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.msnucleus.org/membership/html/jh/earth/earthquakes/jhearth.pdf",
+   "htmlFormattedUrl": "www.msnucleus.org/membership/html/jh/earth/\u003cb\u003eearthquakes\u003c/b\u003e/jhearth.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20010426110528Z",
+      "producer": "Acrobat Distiller 4.0 for Windows",
+      "moddate": "D:20020109180453-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is the Recent Increase in Felt Earthquakes in the Central U.S. ...",
+   "htmlTitle": "Is the Recent Increase in Felt \u003cb\u003eEarthquakes\u003c/b\u003e in the Central U.S. \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.usgs.gov/blogs/features/usgs_top_story/is-the-recent-increase-in-felt-earthquakes-in-the-central-us-natural-or-manmade/",
+   "displayLink": "www.usgs.gov",
+   "snippet": "Apr 11, 2012 ... Beginning in 2001, the average number of earthquakes occurring per year of   magnitude 3 or greater increased significantly, culminating in a .... Added:   Wednesday, October 31st, 2012 .... Exploding Lakes in West Africa ...",
+   "htmlSnippet": "Apr 11, 2012 \u003cb\u003e...\u003c/b\u003e Beginning in \u003cb\u003e2001\u003c/b\u003e, the average number of \u003cb\u003eearthquakes\u003c/b\u003e occurring per year of \u003cbr\u003e  magnitude 3 or greater increased significantly, culminating in a \u003cb\u003e....\u003c/b\u003e Added: \u003cbr\u003e  Wednesday, \u003cb\u003eOctober 31st\u003c/b\u003e, 2012 \u003cb\u003e....\u003c/b\u003e Exploding Lakes in West \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_09QU8AS054J",
+   "formattedUrl": "www.usgs.gov/.../is-the-recent-increase-in-felt-earthquakes-in-the-central-us- natural-or-manmade/",
+   "htmlFormattedUrl": "www.usgs.gov/.../is-the-recent-increase-in-felt-\u003cb\u003eearthquakes\u003c/b\u003e-in-the-central-us- natural-or-manmade/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.usgs.gov/blogs/features/files/2012/04/Featured-Image2-e1334247535227.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "281",
+      "height": "179",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx9wuixnL8end9IMZMGDZiSPUvu95zzN8Wx04_a72qSr_QYOZXv0jfEjdZ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current earthquakes world-wide, Thursday, 13 December 2012 ...",
+   "htmlTitle": "Current \u003cb\u003eearthquakes\u003c/b\u003e world-wide, Thursday, 13 December 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/today.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Interactive Map of Active Volcanoes and recent Earthquakes world-wide - click to   show/ ... Wed, 12 Dec 19:31 UTC, M 2.7 / 21 km - [info], VALPARAISO, CHILE, [  Map], EMSC ..... Africa. Nyiragongo lava lake & mountain gorillas. Desert, Salt &   Volcanoes .... M6.4 on 9 Oct 2012 - Balleny Islands region ... Eruption 2001. 2000 ...",
+   "htmlSnippet": "Interactive Map of Active Volcanoes and recent \u003cb\u003eEarthquakes\u003c/b\u003e world-wide - click to \u003cbr\u003e  show/ \u003cb\u003e...\u003c/b\u003e Wed, 12 Dec 19:\u003cb\u003e31\u003c/b\u003e UTC, M 2.7 / 21 km - [info], VALPARAISO, CHILE, [\u003cbr\u003e  Map], EMSC \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eAfrica\u003c/b\u003e. Nyiragongo lava lake &amp; mountain gorillas. Desert, Salt &amp; \u003cbr\u003e  Volcanoes \u003cb\u003e....\u003c/b\u003e M6.4 on 9 \u003cb\u003eOct\u003c/b\u003e 2012 - Balleny Islands region \u003cb\u003e...\u003c/b\u003e Eruption \u003cb\u003e2001\u003c/b\u003e. 2000 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uSi_y8RoXw0J",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/today.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/today.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,308 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 26 1878 Eurasia Earthquake",
+    "totalResults": "4180",
+    "searchTerms": "Aug 26 1878 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 26 1878 Eurasia Earthquake",
+    "totalResults": "4180",
+    "searchTerms": "Aug 26 1878 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.165981,
+  "formattedSearchTime": "0.17",
+  "totalResults": "4180",
+  "formattedTotalResults": "4,180"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquakes in Germany are relatively weak but occur several times a year,   some ... as the African Plate continues to push northwards into the Eurasian Plate  . .... 26 August 1878, Tollhausen, unknown, One person killed, damage to   buildings.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany are relatively weak but occur several times a year, \u003cbr\u003e  some \u003cb\u003e...\u003c/b\u003e as the African Plate continues to push northwards into the \u003cb\u003eEurasian\u003c/b\u003e Plate\u003cbr\u003e  . \u003cb\u003e....\u003c/b\u003e \u003cb\u003e26 August 1878\u003c/b\u003e, Tollhausen, unknown, One person killed, damage to \u003cbr\u003e  buildings.",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Great Explosion of the Krakatau Volcano (\"Krakatoa\") of August ...",
+   "htmlTitle": "The Great Explosion of the Krakatau Volcano (&quot;Krakatoa&quot;) of \u003cb\u003eAugust\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.drgeorgepc.com/Volcano1883Krakatoa.html",
+   "displayLink": "www.drgeorgepc.com",
+   "snippet": "Tsunami, Earthquakes, Hurricanes, Volcanic Eruptions and other Natural ... The   volcano was formed by the subduction of the Indian-Australia Plate under the   Eurasian Plate. ... Chronology of Events Prior to the Great August 26, 1883   Eruption .... 1878), p. 106-136; year 1878 (pub. 1879), n.s.v. 2, p. 97-125; year   1883 (pub.",
+   "htmlSnippet": "Tsunami, \u003cb\u003eEarthquakes\u003c/b\u003e, Hurricanes, Volcanic Eruptions and other Natural \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  volcano was formed by the subduction of the Indian-Australia Plate under the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e Chronology of Events Prior to the Great \u003cb\u003eAugust 26\u003c/b\u003e, 1883 \u003cbr\u003e  Eruption \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1878\u003c/b\u003e), p. 106-136; year \u003cb\u003e1878\u003c/b\u003e (pub. 1879), n.s.v. 2, p. 97-125; year \u003cbr\u003e  1883 (pub.",
+   "cacheId": "x65QZ92ax-EJ",
+   "formattedUrl": "www.drgeorgepc.com/Volcano1883Krakatoa.html",
+   "htmlFormattedUrl": "www.drgeorgepc.com/Volcano1883Krakatoa.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.drgeorgepc.com/indonesia.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "105",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSo5z6pkkcaDpHiqZdMSDk5HAxPYOMXlPXGV9QZ3PvVhg_J6y3hjrwUIA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The August 17 Kocaeli and the November 12 Duzce earthquakes in ...",
+   "htmlTitle": "The \u003cb\u003eAugust\u003c/b\u003e 17 Kocaeli and the November 12 Duzce \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.terrapub.co.jp/journals/EPS/pdf/5210/52100753.pdf",
+   "displayLink": "www.terrapub.co.jp",
+   "snippet": "Two devastating earthquakes occurred in Turkey, one on August 17 and the   other on November 12, 1999. The magnitudes were ... bian Plates from the south   and Eurasian Plate from the north. .... Destroyed. 740 Oct. 26 ... 1878 Apr. 19.   Izmit ...",
+   "htmlSnippet": "Two devastating \u003cb\u003eearthquakes\u003c/b\u003e occurred in Turkey, one on \u003cb\u003eAugust\u003c/b\u003e 17 and the \u003cbr\u003e  other on November 12, 1999. The magnitudes were \u003cb\u003e...\u003c/b\u003e bian Plates from the south \u003cbr\u003e  and \u003cb\u003eEurasian\u003c/b\u003e Plate from the north. \u003cb\u003e....\u003c/b\u003e Destroyed. 740 Oct. \u003cb\u003e26\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1878\u003c/b\u003e Apr. 19. \u003cbr\u003e  Izmit \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fqzU6neVjv0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.terrapub.co.jp/journals/EPS/pdf/5210/52100753.pdf",
+   "htmlFormattedUrl": "www.terrapub.co.jp/journals/EPS/pdf/5210/52100753.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20010124172205",
+      "producer": "Acrobat Distiller 4.0 for Macintosh",
+      "moddate": "D:20010124172207+09'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "4 things to know about about earthquakes - Technology & Science ...",
+   "htmlTitle": "4 things to know about about \u003cb\u003eearthquakes\u003c/b\u003e - Technology &amp; Science \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cbc.ca/news/technology/story/2009/06/23/f-earthquakes-forces-nature.html",
+   "displayLink": "www.cbc.ca",
+   "snippet": "Jun 23, 2009 ... An earthquake is one of the most destructive events in the natural world. ... with   plates to the north, the Eurasian plate, [and] it's sliding and bumping with ... Aug.   11, 2012, Northwestern Iran, 6.4 and 6.3, 306. April 11, 2012, Indian ... 26, 2004,   Off the coast of Indonesia, 9.0, 230,000 (includes tsunami victims) ...",
+   "htmlSnippet": "Jun 23, 2009 \u003cb\u003e...\u003c/b\u003e An \u003cb\u003eearthquake\u003c/b\u003e is one of the most destructive events in the natural world. \u003cb\u003e...\u003c/b\u003e with \u003cbr\u003e  plates to the north, the \u003cb\u003eEurasian\u003c/b\u003e plate, [and] it&#39;s sliding and bumping with \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAug\u003c/b\u003e. \u003cbr\u003e  11, 2012, Northwestern Iran, 6.4 and 6.3, 306. April 11, 2012, Indian \u003cb\u003e...\u003c/b\u003e \u003cb\u003e26\u003c/b\u003e, 2004, \u003cbr\u003e  Off the coast of Indonesia, 9.0, 230,000 (includes tsunami victims) \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.cbc.ca/news/technology/story/.../f-earthquakes-forces-nature.html",
+   "htmlFormattedUrl": "www.cbc.ca/news/technology/story/.../f-\u003cb\u003eearthquakes\u003c/b\u003e-forces-nature.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cbc.ca/gfx/images/news/photos/2010/01/12/injured-cp-w-7933244.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ5waI9ILE1VLwFzBZImBf1MuTs6kQHRDCRdpkR0xJurL8hT_rGwmR0Rq4"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "www.cbc.ca",
+      "msapplication-tooltip": "CBC.ca is Canada's Online Information Source.",
+      "msapplication-starturl": "/?cmp=pinned-ie9",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=CBC;action-uri=http://www.cbc.ca/?cmp=pinned-ie9;icon-uri=/favicon.ico",
+      "date": "2012/11/26",
+      "twitter:card": "summary",
+      "twitter:url": "http://www.cbc.ca/news/technology/story/2009/06/23/f-earthquakes-forces-nature.html",
+      "twitter:site": "@CBCNews",
+      "twitter:title": "4 things to know about about earthquakes",
+      "twitter:description": "An earthquake is one of the most destructive events in the natural world. More than three million people were killed in earthquakes in the 20th century alone. Although scientists are able to predict which regions are most likely to be hit, it is impossible to predict when a major quake will occur."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Progressive failure on the North Anatolian fault since 1939 by ...",
+   "htmlTitle": "Progressive failure on the North Anatolian fault since 1939 by \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ipgp.fr/~armijo/paraseminario/Stein-97.pdf",
+   "displayLink": "www.ipgp.fr",
+   "snippet": "Ten M\u003e=6.7 earthquakes ruptured 1,000 km of the North Anatolian fault (Turkey)   during 1939- ..... The Sapanca fault last ruptured in 1878. .... 31.1??1.3??N) Anatolia  -Eurasia rotation pole, which lies at the intersection of the dashed red lines (Oral,   .... 13 Aug. 6.8. 1.4. 25. 1.7. 7. 11.0. 1957. 26 May. 6.8. 1.4. 22. 5.4. 25. 28.6 ...",
+   "htmlSnippet": "Ten M&gt;=6.7 \u003cb\u003eearthquakes\u003c/b\u003e ruptured 1,000 km of the North Anatolian fault (Turkey) \u003cbr\u003e  during 1939- \u003cb\u003e.....\u003c/b\u003e The Sapanca fault last ruptured in \u003cb\u003e1878\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 31.1??1.3??N) Anatolia\u003cbr\u003e  -\u003cb\u003eEurasia\u003c/b\u003e rotation pole, which lies at the intersection of the dashed red lines (Oral, \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 13 \u003cb\u003eAug\u003c/b\u003e. 6.8. 1.4. 25. 1.7. 7. 11.0. 1957. \u003cb\u003e26\u003c/b\u003e May. 6.8. 1.4. 22. 5.4. 25. 28.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mr0DdRlBbwQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipgp.fr/~armijo/paraseminario/Stein-97.pdf",
+   "htmlFormattedUrl": "www.ipgp.fr/~armijo/paraseminario/Stein-97.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20051026180646+02'00'",
+      "creationdate": "D:20051026175831+02'00'",
+      "creator": "Safari",
+      "producer": "Mac OS X 10.3.9 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "Adad al Arab, AD 1157 August 12 earthquake 305, 307. Adalia, AD 1863   September 26 earthquake 708. Adana. AD 1837 January ..... Boyabat, AD 1878   February 28 earthquake 743. Bozcaada, AD ...... Eurasian Plate 815???816.   Euripos castle ...",
+   "htmlSnippet": "Adad al Arab, AD 1157 \u003cb\u003eAugust\u003c/b\u003e 12 \u003cb\u003eearthquake\u003c/b\u003e 305, 307. Adalia, AD 1863 \u003cbr\u003e  September \u003cb\u003e26 earthquake\u003c/b\u003e 708. Adana. AD 1837 January \u003cb\u003e.....\u003c/b\u003e Boyabat, AD \u003cb\u003e1878\u003c/b\u003e \u003cbr\u003e  February 28 \u003cb\u003eearthquake\u003c/b\u003e 743. Bozcaada, AD \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816. \u003cbr\u003e  Euripos castle \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EURASIAN GAMBLES ??VER CYPRUS' EUROPEAN PROSPECTS*",
+   "htmlTitle": "\u003cb\u003eEURASIAN\u003c/b\u003e GAMBLES ??VER CYPRUS&#39; EUROPEAN PROSPECTS*",
+   "link": "http://dergiler.ankara.edu.tr/dergiler/44/673/8573.pdf",
+   "displayLink": "dergiler.ankara.edu.tr",
+   "snippet": "povver in the Eurasian region, and in its Near Eastern sub-region, to vvhich.   Cyprus ... leased Cyprus to Britain in 1878. Greece had its ...... 26 ff.; and Marios ...",
+   "htmlSnippet": "povver in the \u003cb\u003eEurasian\u003c/b\u003e region, and in its Near Eastern sub-region, to vvhich. \u003cbr\u003e  Cyprus \u003cb\u003e...\u003c/b\u003e leased Cyprus to Britain in \u003cb\u003e1878\u003c/b\u003e. Greece had its \u003cb\u003e......\u003c/b\u003e \u003cb\u003e26\u003c/b\u003e ff.; and Marios \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kFLe9r3MJXQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "dergiler.ankara.edu.tr/dergiler/44/673/8573.pdf",
+   "htmlFormattedUrl": "dergiler.ankara.edu.tr/dergiler/44/673/8573.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100210152001+02'00'",
+      "moddate": "D:20100210152031+02'00'",
+      "producer": "ABBYY FineReader 10"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SCIENCE OF TSUNAMI HAZARDS",
+   "htmlTitle": "SCIENCE OF TSUNAMI HAZARDS",
+   "link": "http://tsunamisociety.org/301GpcTheilen.pdf",
+   "displayLink": "tsunamisociety.org",
+   "snippet": "On August 17, 1999, a large destructive earthquake (named as the ???Kocaeli ....   Bay, tsunamis occurred in: 325; 24 August 358; 8 November 447; 26 ... 553; 15-  16 August 555; 14 December 557; 715; 740; 19 April 1878; 10 May 1878; ...   boundary between the Anatolian tectonic plate and the larger Eurasian   continental block.",
+   "htmlSnippet": "On \u003cb\u003eAugust\u003c/b\u003e 17, 1999, a large destructive \u003cb\u003eearthquake\u003c/b\u003e (named as the ???Kocaeli \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Bay, tsunamis occurred in: 325; 24 \u003cb\u003eAugust\u003c/b\u003e 358; 8 November 447; \u003cb\u003e26\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 553; 15-\u003cbr\u003e  16 \u003cb\u003eAugust\u003c/b\u003e 555; 14 December 557; 715; 740; 19 April \u003cb\u003e1878\u003c/b\u003e; 10 May \u003cb\u003e1878\u003c/b\u003e; \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  boundary between the Anatolian tectonic plate and the larger \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  continental block.",
+   "cacheId": "iPMcWvMpLjAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "tsunamisociety.org/301GpcTheilen.pdf",
+   "htmlFormattedUrl": "tsunamisociety.org/301GpcTheilen.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "George Carayannis",
+      "creator": "Microsoft Word",
+      "creationdate": "D:20110309080525-05'00'",
+      "moddate": "D:20110309080525-05'00'",
+      "producer": "Mac OS X 10.4.11 Quartz PDFContext",
+      "title": "Microsoft Word - 301GpcTheilen FINAL.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hazards from earthquakes",
+   "htmlTitle": "Hazards from \u003cb\u003eearthquakes\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/U1763013N833143Q.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "growth of dynamical procedures in earthquake engi- neering have ... Europe is   situated on the Eurasian plate which stretches from .... 26 Aug 1878. 27 Jan 1881 ...",
+   "htmlSnippet": "growth of dynamical procedures in \u003cb\u003eearthquake\u003c/b\u003e engi- neering have \u003cb\u003e...\u003c/b\u003e Europe is \u003cbr\u003e  situated on the \u003cb\u003eEurasian\u003c/b\u003e plate which stretches from \u003cb\u003e....\u003c/b\u003e \u003cb\u003e26 Aug 1878\u003c/b\u003e. 27 Jan 1881 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/U1763013N833143Q.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/U1763013N833143Q.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "704583002.TIF",
+      "creationdate": "Fri Oct 01 08:50:18 2004",
+      "title": "Hazards from earthquakes",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20041024042604+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Shifts in Eurasia: The Changing Relationship Between ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Shifts in \u003cb\u003eEurasia\u003c/b\u003e: The Changing Relationship Between \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.tandfonline.com/doi/abs/10.1080/14683850412331321648",
+   "displayLink": "www.tandfonline.com",
+   "snippet": "Nov 13, 2003 ... Eurasia would be tantamount to the reconciliation of .rance and. Germany after ...   culminating in the Russo-Turkish War of 1877???1878, which consolidated.   Russian ..... And, on 26 June 2002, the Armenian .oreign Minister formally   announced .... Azerbaijani airspace in August 2001 (Lelyveld 2001). Turkey ...",
+   "htmlSnippet": "Nov 13, 2003 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e would be tantamount to the reconciliation of .rance and. Germany after \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  culminating in the Russo-Turkish War of 1877???\u003cb\u003e1878\u003c/b\u003e, which consolidated. \u003cbr\u003e  Russian \u003cb\u003e.....\u003c/b\u003e And, on \u003cb\u003e26\u003c/b\u003e June 2002, the Armenian .oreign Minister formally \u003cbr\u003e  announced \u003cb\u003e....\u003c/b\u003e Azerbaijani airspace in \u003cb\u003eAugust\u003c/b\u003e 2001 (Lelyveld 2001). Turkey \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.tandfonline.com/doi/abs/10.1080/14683850412331321648",
+   "htmlFormattedUrl": "www.tandfonline.com/doi/abs/10.1080/14683850412331321648",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20031113143401Z",
+      "creator": "PSCRIPT.DRV Version 4.0",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "moddate": "D:20100828104313+05'30'",
+      "title": "33bss04.qxd"
+     }
+    ]
+   }
+  }
+ ]
+}

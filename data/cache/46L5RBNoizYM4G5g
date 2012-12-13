@@ -1,0 +1,308 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 23 1894 Eurasia Earthquake",
+    "totalResults": "10100",
+    "searchTerms": "Jul 23 1894 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 23 1894 Eurasia Earthquake",
+    "totalResults": "10100",
+    "searchTerms": "Jul 23 1894 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.188959,
+  "formattedSearchTime": "0.19",
+  "totalResults": "10100",
+  "formattedTotalResults": "10,100"
+ },
+ "spelling": {
+  "correctedQuery": "July 23 1894 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 23 1894 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "AD 1719 July 23 earthquake 545. AD 1733 December .... Alexandroupolis, AD   1894 July 31 earthquake 780. Almyros ... earthquake 395. Amorgos, AD 1733   December 23 earthquake 549???550 ...... Eurasian Plate 815???816. Euripos castle ...",
+   "htmlSnippet": "AD 1719 \u003cb\u003eJuly 23 earthquake\u003c/b\u003e 545. AD 1733 December \u003cb\u003e....\u003c/b\u003e Alexandroupolis, AD \u003cbr\u003e  \u003cb\u003e1894 July\u003c/b\u003e 31 \u003cb\u003eearthquake\u003c/b\u003e 780. Almyros \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e 395. Amorgos, AD 1733 \u003cbr\u003e  December \u003cb\u003e23 earthquake\u003c/b\u003e 549???550 \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816. Euripos castle \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   eastern Turkey near the city of Van on Sunday, 23 October 2011 at 13.41 local ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  eastern Turkey near the city of Van on Sunday, \u003cb\u003e23\u003c/b\u003e October 2011 at 13.41 local \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "We summarize the written history of earthquakes in Afghanistan from 734 AD to ...   of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. ...... Seismic   diturbances; Simla Observatory, Monthly Weather Review, July issue, ...   Sternwaarte zu Strassburg 1892-1894, Beitr??ge z. ..... 1918 324231434.960.7 3   23 61 0 ...",
+   "htmlSnippet": "We summarize the written history of \u003cb\u003eearthquakes\u003c/b\u003e in Afghanistan from 734 AD to \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. \u003cb\u003e......\u003c/b\u003e \u003cb\u003eSeismic\u003c/b\u003e \u003cbr\u003e  diturbances; Simla Observatory, Monthly Weather Review, \u003cb\u003eJuly\u003c/b\u003e issue, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Sternwaarte zu Strassburg 1892-\u003cb\u003e1894\u003c/b\u003e, Beitr??ge z. \u003cb\u003e.....\u003c/b\u003e 1918 324231434.960.7 3 \u003cbr\u003e  \u003cb\u003e23\u003c/b\u003e 61 0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Japan was originally attached to the eastern coast of the Eurasian continent. ...   The depth of the 1894 earthquake has not been determined, but it is thought to   have ..... Niigata earthquake death toll rises to eleven Japan News Review, July   23 ...",
+   "htmlSnippet": "Japan was originally attached to the eastern coast of the \u003cb\u003eEurasian\u003c/b\u003e continent. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The depth of the \u003cb\u003e1894 earthquake\u003c/b\u003e has not been determined, but it is thought to \u003cbr\u003e  have \u003cb\u003e.....\u003c/b\u003e Niigata \u003cb\u003eearthquake\u003c/b\u003e death toll rises to eleven Japan News Review, \u003cb\u003eJuly\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e23\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NuRGcOQIbpIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japan_separation.png/270px-Japan_separation.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAivkrzGCuUOdUUabCsPoOS7Ntz0yc_PFSUl2M5kTnoihqkPpJiCdL5c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The August 17 Kocaeli and the November 12 Duzce earthquakes in ...",
+   "htmlTitle": "The August 17 Kocaeli and the November 12 Duzce \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.terrapub.co.jp/journals/EPS/pdf/5210/52100753.pdf",
+   "displayLink": "www.terrapub.co.jp",
+   "snippet": "bian Plates from the south and Eurasian Plate from the north. .... 1064 Sep. 23.   Istanbul-Izmit. Damaged the region from Istanbul to Izmit. 1509 Sep. 10. Marmara   Sea ... Very destructive earthquake. 1878 Apr. 19. Izmit. Damaged. 1894 Jul. 10 ...",
+   "htmlSnippet": "bian Plates from the south and \u003cb\u003eEurasian\u003c/b\u003e Plate from the north. \u003cb\u003e....\u003c/b\u003e 1064 Sep. \u003cb\u003e23\u003c/b\u003e. \u003cbr\u003e  Istanbul-Izmit. Damaged the region from Istanbul to Izmit. 1509 Sep. 10. Marmara \u003cbr\u003e  Sea \u003cb\u003e...\u003c/b\u003e Very destructive \u003cb\u003eearthquake\u003c/b\u003e. 1878 Apr. 19. Izmit. Damaged. \u003cb\u003e1894 Jul\u003c/b\u003e. 10 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fqzU6neVjv0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.terrapub.co.jp/journals/EPS/pdf/5210/52100753.pdf",
+   "htmlFormattedUrl": "www.terrapub.co.jp/journals/EPS/pdf/5210/52100753.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20010124172205",
+      "producer": "Acrobat Distiller 4.0 for Macintosh",
+      "moddate": "D:20010124172207+09'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2008 Sichuan earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2008 Sichuan \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2008_Sichuan_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Official figures (as of July 21, 2008 12:00 CST) stated that 69,197 were ... a thrust   structure along the border of the Indo-Australian Plate and Eurasian Plate. ... The   earthquake generated deformations of the surface greater than 3 meters and ...",
+   "htmlSnippet": "Official figures (as of \u003cb\u003eJuly\u003c/b\u003e 21, 2008 12:00 CST) stated that 69,197 were \u003cb\u003e...\u003c/b\u003e a thrust \u003cbr\u003e  structure along the border of the Indo-Australian Plate and \u003cb\u003eEurasian\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e generated deformations of the surface greater than 3 meters and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jP7H2DyPA48J",
+   "formattedUrl": "en.wikipedia.org/wiki/2008_Sichuan_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2008_Sichuan_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Donation_box_for_earthquake_victims,_A-ma_Temple,_Macao_May,_2008.JPG/325px-Donation_box_for_earthquake_victims,_A-ma_Temple,_Macao_May,_2008.JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrLYOv3tzmYeJIJvNgBCIxBcnFLkzkPXwNLqwZI5fW8UlOKeciUjFOnAx9"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Sichuan earthquake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Probability map of the next M !???? 5.5 earthquakes in Italy",
+   "htmlTitle": "Probability map of the next M !???? 5.5 \u003cb\u003eearthquakes\u003c/b\u003e in Italy",
+   "link": "http://earthquake.bo.ingv.it/downloads/cinti.pdf",
+   "displayLink": "earthquake.bo.ingv.it",
+   "snippet": "Received 4 March 2004; Revised 15 July 2004; Accepted 24 August 2004;   Published 2 November 2004. Cinti, F. R., L. ..... 1894/11/16. 6.1 ... to the Eurasian   plate; north???south compression in .... [23] ??? Earthquake fault plane solutions:   Although ...",
+   "htmlSnippet": "Received 4 March 2004; Revised 15 \u003cb\u003eJuly\u003c/b\u003e 2004; Accepted 24 August 2004; \u003cbr\u003e  Published 2 November 2004. Cinti, F. R., L. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1894\u003c/b\u003e/11/16. 6.1 \u003cb\u003e...\u003c/b\u003e to the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  plate; north???south compression in \u003cb\u003e....\u003c/b\u003e [\u003cb\u003e23\u003c/b\u003e] ??? \u003cb\u003eEarthquake\u003c/b\u003e fault plane solutions: \u003cbr\u003e  Although \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pZj2mmYM1rEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake.bo.ingv.it/downloads/cinti.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.bo.ingv.it/downloads/cinti.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20041022155908Z",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "title": "gc000724 1..15",
+      "moddate": "D:20041028161559-04'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Active Tectonics of Turkey and Surroundings and Seismic Risk in ...",
+   "htmlTitle": "Active Tectonics of Turkey and Surroundings and \u003cb\u003eSeismic\u003c/b\u003e Risk in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://web.itu.edu.tr/~taymaz/docs/Taymaz_IWAM04_S3-09.pdf",
+   "displayLink": "web.itu.edu.tr",
+   "snippet": "lateral motion between Anatolia and the Eurasian plate. ... plate relative to   Eurasia. ..... [23] N.N. Ambraseys, the earthquake of 10 July 1894 in the Gulf od ...",
+   "htmlSnippet": "lateral motion between Anatolia and the \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e plate relative to \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e [\u003cb\u003e23\u003c/b\u003e] N.N. Ambraseys, the \u003cb\u003eearthquake\u003c/b\u003e of 10 \u003cb\u003eJuly 1894\u003c/b\u003e in the Gulf od \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gaEE6VzVpDQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "web.itu.edu.tr/~taymaz/docs/Taymaz_IWAM04_S3-09.pdf",
+   "htmlFormattedUrl": "web.itu.edu.tr/~taymaz/docs/Taymaz_IWAM04_S3-09.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040619012103Z",
+      "moddate": "D:20040619114242+09'00'",
+      "producer": "Acrobat Distiller 5.0.5 for Macintosh",
+      "author": "304.@.g.c",
+      "creator": "QuarkXPress.: AdobePS 8.5.2",
+      "title": "IWAM04+.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Recalculated probability of M ! 7 earthquakes beneath the Sea of ...",
+   "htmlTitle": "Recalculated probability of M ! 7 \u003cb\u003eearthquakes\u003c/b\u003e beneath the Sea of \u003cb\u003e...\u003c/b\u003e",
+   "link": "ftp://ftp.ecn.purdue.edu/sozen/Istanbul%20at%20the%20Threshold/Papers%20(in%20English)/Paper%2009%20JGR%20-%20Recalculated%20probability%20of%20M%20eqorgreaterthan%207%20EQs%20beneath%20the%20Sea%20of%20Marmara%20by%20Parsons.pdf",
+   "displayLink": "ftp.ecn.purdue.edu",
+   "snippet": "Received 1 July 2003; revised 23 December 2003; accepted 5 February 2004;   published 22 May ... lateral motion between Anatolia and the Eurasian plate [e.g.,   .... Earthquake Date. 1509. 1719. 1754. 1766a. 1766b. (5 Aug.) 1894. (10 July) ...",
+   "htmlSnippet": "Received 1 \u003cb\u003eJuly\u003c/b\u003e 2003; revised \u003cb\u003e23\u003c/b\u003e December 2003; accepted 5 February 2004; \u003cbr\u003e  published 22 May \u003cb\u003e...\u003c/b\u003e lateral motion between Anatolia and the \u003cb\u003eEurasian\u003c/b\u003e plate [e.g., \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e Date. 1509. 1719. 1754. 1766a. 1766b. (5 Aug.) \u003cb\u003e1894\u003c/b\u003e. (10 \u003cb\u003eJuly\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MQRKEubqVyUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ftp://ftp.ecn.purdue.edu/.../Paper%2009%20JGR%20- %20Recalculated%20probability%20of%20M%20eqorgreaterthan%207%2...",
+   "htmlFormattedUrl": "ftp://ftp.ecn.purdue.edu/.../Paper%2009%20JGR%20- %20Recalculated%20probability%20of%20M%20eqorgreaterthan%207%2...",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040513053510",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "title": "jb002667 1..21",
+      "moddate": "D:20040513053512+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Clustering due to Stress Interactions",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Clustering due to Stress Interactions",
+   "link": "http://www.rms.com/publications/Earthquake_Clustering_due_to_Stress_Interactions.pdf",
+   "displayLink": "www.rms.com",
+   "snippet": "In the development of probabilistic catastrophe models for earthquake risk, Risk   .... is a major active strike-slip fault along the boundary between the Eurasian ...   including well-resolved ruptures for the 1894, 1912, and 1999 events, .... The net   stress increase is shown at three different times: December 2004, July 2006, and ...",
+   "htmlSnippet": "In the development of probabilistic catastrophe models for \u003cb\u003eearthquake\u003c/b\u003e risk, Risk \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e is a major active strike-slip fault along the boundary between the \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  including well-resolved ruptures for the \u003cb\u003e1894\u003c/b\u003e, 1912, and 1999 events, \u003cb\u003e....\u003c/b\u003e The net \u003cbr\u003e  stress increase is shown at three different times: December 2004, \u003cb\u003eJuly\u003c/b\u003e 2006, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "40hWyBFgdfsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.rms.com/.../Earthquake_Clustering_due_to_Stress_Interactions.pdf",
+   "htmlFormattedUrl": "www.rms.com/.../\u003cb\u003eEarthquake\u003c/b\u003e_Clustering_due_to_Stress_Interactions.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080710171248Z",
+      "author": "RMS",
+      "creator": "Microsoft?? Office Word 2007",
+      "producer": "Microsoft?? Office Word 2007",
+      "moddate": "D:20080711074325-07'00'",
+      "title": "Earthquake Clustering due to Stress Interactions"
+     }
+    ]
+   }
+  }
+ ]
+}

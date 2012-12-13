@@ -1,0 +1,296 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 20 1940 North America Earthquake",
+    "totalResults": "413000",
+    "searchTerms": "Dec 20 1940 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 20 1940 North America Earthquake",
+    "totalResults": "413000",
+    "searchTerms": "Dec 20 1940 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.200534,
+  "formattedSearchTime": "0.20",
+  "totalResults": "413000",
+  "formattedTotalResults": "413,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1940 New Hampshire earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1940\u003c/b\u003e New Hampshire \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1940_New_Hampshire_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1940 New Hampshire earthquake struck on December 20, 1940, with a force   of Richter ... Reports of the 1940 earthquake extended as far north as Montreal   and Quebec in ... Bulletin of the Seismological Society of America 32 (2): 75???82.",
+   "htmlSnippet": "The 1940 New Hampshire \u003cb\u003eearthquake\u003c/b\u003e struck on \u003cb\u003eDecember 20, 1940\u003c/b\u003e, with a force \u003cbr\u003e  of Richter \u003cb\u003e...\u003c/b\u003e Reports of the 1940 \u003cb\u003eearthquake\u003c/b\u003e extended as far \u003cb\u003enorth\u003c/b\u003e as Montreal \u003cbr\u003e  and Quebec in \u003cb\u003e...\u003c/b\u003e Bulletin of the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e 32 (2): 75???82.",
+   "cacheId": "KsomASuyxrMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1940_New_Hampshire_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1940\u003c/b\u003e_New_Hampshire_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/1940_12_20_isoseismal_map.PNG/250px-1940_12_20_isoseismal_map.PNG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "164",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtx1Mcz27tZAvblltTrSD5PXhBiE6YMqZTojRA4K76dQff06ySQf8LM1E"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A study of the source parameters of some large earthquakes of ...",
+   "htmlTitle": "A study of the source parameters of some large \u003cb\u003eearthquakes\u003c/b\u003e of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.agu.org/pubs/crossref/1986/JB091iB08p08231.shtml",
+   "displayLink": "www.agu.org",
+   "snippet": "The source time functions found for the 1935, 1939, and December 20, 1940, ...   source parameters of some large earthquakes of northeastern North America, ...",
+   "htmlSnippet": "The source time functions found for the 1935, 1939, and \u003cb\u003eDecember 20, 1940\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  source parameters of some large \u003cb\u003eearthquakes\u003c/b\u003e of northeastern \u003cb\u003eNorth America\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.agu.org/pubs/crossref/1986/JB091iB08p08231.shtml",
+   "htmlFormattedUrl": "www.agu.org/pubs/crossref/1986/JB091iB08p08231.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.publisher": "American Geophysical Union",
+      "dc.language": "en",
+      "dc.rights": "?? 2008 American Geophysical Union",
+      "dc.title": "A study of the source parameters of some large earthquakes of northeastern North America",
+      "dc.creator": "John E. Ebel",
+      "dc.identifier": "doi:10.1029/JB091iB08p08231",
+      "dc.source": "Citation: Ebel, J. E., P. G. Somerville, and J. D. McIver (1986), A study of the source parameters of some large earthquakes of northeastern North America, J. Geophys. Res., 91(B8), 8231???8247, doi:10.1029/JB091iB08p08231.",
+      "dc.date": "NaN",
+      "prism.copyright": "?? 2008 American Geophysical Union",
+      "prism.rightsagent": "author.help@agu.org",
+      "prism.publicationname": "Journal of Geophysical Research",
+      "prism.issn": "0148-0227",
+      "prism.eissn": "0148-0227",
+      "prism.publicationdate": "NaN",
+      "prism.volume": "91",
+      "prism.number": "B8",
+      "prism.startingpage": "null",
+      "citation_journal_title": "Journal of Geophysical Research",
+      "citation_publisher": "American Geophysical Union",
+      "citation_authors": "John E. Ebel, Paul G. Somerville, J. D. McIver",
+      "citation_title": "A study of the source parameters of some large earthquakes of northeastern North America",
+      "citation_date": "NaN",
+      "citation_year": "1986",
+      "citation_volume": "91",
+      "citation_issue": "B8",
+      "citation_firstpage": "8231",
+      "citation_lastpage": "8247",
+      "citation_issn": "0148-0227",
+      "citation_language": "English",
+      "citation_doi": "doi:10.1029/JB091iB08p08231",
+      "citation_abstract": "Waveforms of body and surface waves for six moderately large north eastern North American earthquakes are analyzed for source information. The earthquakes studied are the 1925 Charlevoix, Quebec, earthquake (MS ??? 6.4), the 1935 Timiskaming, Quebec, earthquake (MS ??? 6.0), the 1939 Charlevoix, Quebec, earthquake (mb ??? 5.4), the 1940 Ossipee, New Hampshire, earthquakes (ML ??? 5.3 and 5.1), and the 1944 Cornwall, Ontario-Massena, New York, earthquake (M ??? 5.1). The focal depths for all of the earthquakes for which determinations could be made (1925, 1935, 1939, and December 20, 1940) were about 8 to 10 km. The waveforms of the 1925, 1935, 1939, and 1940 events are consistent with thrust mechanisms, although there is some ambiguity in the strike direction for each of the events. The favored focal mechanism for the 1925 and 1939 events had northeast-southwest nodal planes. For the 1935 event the available data suggest that the earthquake occurred on a northwest-southeast oriented fault plane. The strike of",
+      "citation_pdf_url": "http://www.agu.org/journals/jb/v091/iB08/JB091iB08p08231/JB091iB08p08231.pdf",
+      "citation_abstract_html_url": "http://www.agu.org/pubs/crossref/1986/JB091iB08p08231.shtml",
+      "fulltext_pdf": "http://www.agu.org/journals/jb/v091/iB08/JB091iB08p08231/JB091iB08p08231.pdf",
+      "citation_author_institution": "Weston Observatory, Boston College, Weston, Massachusetts",
+      "citation_journal_abbrev": "J. Geophys. Res.",
+      "citation_reference": "citation_title=A study of the source parameters of some large earthquakes of northeastern North America; citation_author=John E. Ebel; citation_author=Paul G. Somerville; citation_author=J. D. McIver; citation_journal_title=Journal of Geophysical Research; citation_volume=91; citation_number=B8; citation_pages=8231; citation_year=1986",
+      "indexterm": "7205 Seismology: Body waves"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes and tsunamis in the United States - Wikipedia ...",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e and tsunamis in the United States - Wikipedia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The following is a list of notable earthquakes and/or tsunamis which had their   epicenter in areas that are now part of the United ... 01872-12-14December 14,   1872, Washington, 6.5 - 7.0, 0, 1872 North Cascades earthquake ... 01940-12-20  December 20, 1940, New Hampshire, 5.5, 0, 1940 New Hampshire earthquake ...",
+   "htmlSnippet": "The following is a list of notable \u003cb\u003eearthquakes\u003c/b\u003e and/or tsunamis which had their \u003cbr\u003e  epicenter in areas that are now part of the United \u003cb\u003e...\u003c/b\u003e 01872-12-14December 14, \u003cbr\u003e  1872, Washington, 6.5 - 7.0, 0, 1872 \u003cb\u003eNorth\u003c/b\u003e Cascades \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 01940-12-20\u003cbr\u003e  \u003cb\u003eDecember 20, 1940\u003c/b\u003e, New Hampshire, 5.5, 0, 1940 New Hampshire \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nwZ6NjulnOwJ",
+   "formattedUrl": "en.wikipedia.org/.../List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "htmlFormattedUrl": "en.wikipedia.org/.../List_of_\u003cb\u003eearthquakes\u003c/b\u003e_and_tsunamis_in_the_United_States"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Weston Observatory New England Historical Earthquake Atlas",
+   "htmlTitle": "Weston Observatory New England Historical \u003cb\u003eEarthquake\u003c/b\u003e Atlas",
+   "link": "http://aki.bc.edu/quakes_historical.htm",
+   "displayLink": "aki.bc.edu",
+   "snippet": "Magnitude 5.5. Dec. 20, 1940, 2:27 a.m. local time. Dec. 24 8:43 a.m. local time   .... 1988 the largest earthquake in eastern North America in 53 years occurred 35 ...",
+   "htmlSnippet": "Magnitude 5.5. \u003cb\u003eDec. 20, 1940\u003c/b\u003e, 2:27 a.m. local time. Dec. 24 8:43 a.m. local time \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 1988 the largest \u003cb\u003eearthquake\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e in 53 years occurred 35 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rBYRg2jTBO4J",
+   "formattedUrl": "aki.bc.edu/quakes_historical.htm",
+   "htmlFormattedUrl": "aki.bc.edu/\u003cb\u003equake\u003c/b\u003es_historical.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://aki.bc.edu/nesn/nesn_topo.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "234",
+      "height": "216",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb2vDrA5Iu3oF-PS_y7rxH8dmm23YaiqO5LbuCXz4LSfczvFFI53K2lj4o"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Mike Hagerty, Weston Observatory, New England Earthquake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History of Vermont",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History of Vermont",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/vermont/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... On December 20, 1940, a strong earthquake (estimated magnitude ... apart were   observed in the North End. The earthquake was also felt at ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eDecember 20, 1940\u003c/b\u003e, a strong \u003cb\u003eearthquake\u003c/b\u003e (estimated magnitude \u003cb\u003e...\u003c/b\u003e apart were \u003cbr\u003e  observed in the \u003cb\u003eNorth\u003c/b\u003e End. The \u003cb\u003eearthquake\u003c/b\u003e was also felt at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W5Wd_7kbqOEJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/vermont/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/vermont/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Why Does the Earth Quake in New England?",
+   "htmlTitle": "Why Does the Earth \u003cb\u003eQuake\u003c/b\u003e in New England?",
+   "link": "https://www2.bc.edu/~kafka/Why_Quakes/why_quakes.html",
+   "displayLink": "www2.bc.edu",
+   "snippet": "Oct 2, 2006 ... On December 20, 1940, residents of Springfield, MA felt vibrations from an ...   Earthquakes in the Interior of the North American Plate. One of the ...",
+   "htmlSnippet": "Oct 2, 2006 \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eDecember 20, 1940\u003c/b\u003e, residents of Springfield, MA felt vibrations from an \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e in the Interior of the \u003cb\u003eNorth American\u003c/b\u003e Plate. One of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JxGXU2xnGTIJ",
+   "formattedUrl": "https://www2.bc.edu/~kafka/Why_Quakes/why_quakes.html",
+   "htmlFormattedUrl": "https://www2.bc.edu/~kafka/Why_\u003cb\u003eQuake\u003c/b\u003es/why_\u003cb\u003equake\u003c/b\u003es.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://www2.bc.edu/~kafka/Why_Quakes/WQ_Title.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "327",
+      "height": "154",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05_2fx4XI86_O9D4ZUxb9j9S8evQo-KhQHafBJfCkdJSyS3hZMQtD1zA4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rhode Island",
+   "htmlTitle": "Rhode Island",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/rhode_island/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Other earthquakes were felt in 1658, 1727, 1732, 1755, 1783, 1791, ... The strong   earthquakes centered near Lake Ossipee, New Hampshire, on December 20 and   24, 1940 ... and North Kingstown, but no damage was sustained; it was also felt ...   In partnership with nehrp ?? Take Pride in America ?? USA.gov ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Other \u003cb\u003eearthquakes\u003c/b\u003e were felt in 1658, 1727, 1732, 1755, 1783, 1791, \u003cb\u003e...\u003c/b\u003e The strong \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e centered near Lake Ossipee, New Hampshire, on \u003cb\u003eDecember 20\u003c/b\u003e and \u003cbr\u003e  24, 1940 \u003cb\u003e...\u003c/b\u003e and \u003cb\u003eNorth\u003c/b\u003e Kingstown, but no damage was sustained; it was also felt \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e &middot; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QHtDWMbjit8J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/rhode_island/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/rhode_island/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SEISMOLOGICAL NOTES Eureka, California, December 20, 1940 ...",
+   "htmlTitle": "SEISMOLOGICAL NOTES Eureka, California, \u003cb\u003eDecember 20, 1940\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.bssaonline.org/content/31/2/177.full.pdf",
+   "displayLink": "www.bssaonline.org",
+   "snippet": "the earthquake is reported.) Eureka, California, December 20, 1940.--A sharp   eart~hquake at 3:41 P.~. was felt strongly from Arcata on the north and Forest   Glen ...",
+   "htmlSnippet": "the \u003cb\u003eearthquake\u003c/b\u003e is reported.) Eureka, California, \u003cb\u003eDecember 20, 1940\u003c/b\u003e.--A sharp \u003cbr\u003e  eart~hquake at 3:41 P.~. was felt strongly from Arcata on the \u003cb\u003enorth\u003c/b\u003e and Forest \u003cbr\u003e  Glen \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.bssaonline.org/content/31/2/177.full.pdf",
+   "htmlFormattedUrl": "www.bssaonline.org/content/31/2/177.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010118010.TIF",
+      "creationdate": "Tue Jul 05 12:54:22 2005",
+      "title": "010118010.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050901165453+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CO-GEO-3 Earthquakes in New Hampshire",
+   "htmlTitle": "CO-GEO-3 \u003cb\u003eEarthquakes\u003c/b\u003e in New Hampshire",
+   "link": "http://des.nh.gov/organization/commissioner/pip/factsheets/geo/documents/geo-3.pdf",
+   "displayLink": "des.nh.gov",
+   "snippet": "similar effect. The most energetic of human-caused earthquakes are nuclear   detonations; the most energetic .... New Hampshire has a medial position in the   North. American plate and is rated to have a moderate earthquake risk. It has   been ... December 20 and 24, 1940, both with a measured magnitude of 5.8. At   least 262 ...",
+   "htmlSnippet": "similar effect. The most energetic of human-caused \u003cb\u003eearthquakes\u003c/b\u003e are nuclear \u003cbr\u003e  detonations; the most energetic \u003cb\u003e....\u003c/b\u003e New Hampshire has a medial position in the \u003cbr\u003e  \u003cb\u003eNorth\u003c/b\u003e. \u003cb\u003eAmerican\u003c/b\u003e plate and is rated to have a moderate \u003cb\u003eearthquake\u003c/b\u003e risk. It has \u003cbr\u003e  been \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember 20\u003c/b\u003e and 24, 1940, both with a measured magnitude of 5.8. At \u003cbr\u003e  least 262 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "do57bDroh0cJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "des.nh.gov/organization/commissioner/pip/factsheets/geo/.../geo-3.pdf",
+   "htmlFormattedUrl": "des.nh.gov/organization/commissioner/pip/factsheets/geo/.../geo-3.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 8.15",
+      "creationdate": "D:20080717143124",
+      "moddate": "D:20080717143124",
+      "title": "Microsoft Word - geo-3.doc",
+      "creator": "PScript5.dll Version 5.2.2",
+      "author": "Crystal.A.Carroll"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Hampshire Facts: Interesting, Strange & Weird NH Facts",
+   "htmlTitle": "New Hampshire Facts: Interesting, Strange &amp; Weird NH Facts",
+   "link": "http://www.nhtourguide.com/nh_facts.htm",
+   "displayLink": "www.nhtourguide.com",
+   "snippet": "The largest private wild game preserve in North America was established in ....   NH earthquakes to strike NH came only 4 days apart on December 20th and ...",
+   "htmlSnippet": "The largest private wild game preserve in \u003cb\u003eNorth America\u003c/b\u003e was established in \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  NH \u003cb\u003eearthquakes\u003c/b\u003e to strike NH came only 4 days apart on \u003cb\u003eDecember 20th\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VaR--Ie_sA8J",
+   "formattedUrl": "www.nhtourguide.com/nh_facts.htm",
+   "htmlFormattedUrl": "www.nhtourguide.com/nh_facts.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nhtourguide.com/images/purple_finch.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "95",
+      "height": "89",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHgjwA9yWxE9fIIIRriFL-tdTwKrhPWpIPBe6pXHog1jn77xPploJMjg"
+     }
+    ]
+   }
+  }
+ ]
+}

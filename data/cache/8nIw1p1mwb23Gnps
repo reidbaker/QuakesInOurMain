@@ -1,0 +1,295 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 31 2001 South America Earthquake",
+    "totalResults": "679000",
+    "searchTerms": "Jul 31 2001 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 31 2001 South America Earthquake",
+    "totalResults": "679000",
+    "searchTerms": "Jul 31 2001 South America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.194156,
+  "formattedSearchTime": "0.19",
+  "totalResults": "679000",
+  "formattedTotalResults": "679,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 31 2001 South America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 31 2001 South America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and South America",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and \u003cb\u003eSouth America\u003c/b\u003e",
+   "link": "http://gosouthamerica.about.com/od/earthquakes/a/earthquakes.htm",
+   "displayLink": "gosouthamerica.about.com",
+   "snippet": "Many of these earthquakes happen in South America, due to the Nazca and   South ... ice from Cerro Huascaran in 1962; On July 31, 1970 a 8 magnitude   earthquake ... 2001; On November 15, 2004 a 7.2 earthquake struck off the west   coast of ...",
+   "htmlSnippet": "Many of these \u003cb\u003eearthquakes\u003c/b\u003e happen in \u003cb\u003eSouth America\u003c/b\u003e, due to the Nazca and \u003cbr\u003e  South \u003cb\u003e...\u003c/b\u003e ice from Cerro Huascaran in 1962; On \u003cb\u003eJuly 31\u003c/b\u003e, 1970 a 8 magnitude \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e; On November 15, 2004 a 7.2 \u003cb\u003eearthquake\u003c/b\u003e struck off the west \u003cbr\u003e  coast of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XtniQaHiPcsJ",
+   "formattedUrl": "gosouthamerica.about.com/od/earthquakes/a/earthquakes.htm",
+   "htmlFormattedUrl": "go\u003cb\u003esouthamerica\u003c/b\u003e.about.com/od/\u003cb\u003eearthquakes\u003c/b\u003e/a/\u003cb\u003eearthquakes\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "pd": "Monday, 09-Apr-2012 22:31:54 UTC",
+      "og:title": "Earthquakes and South America",
+      "og:type": "article",
+      "og:url": "http://gosouthamerica.about.com/od/earthquakes/a/earthquakes.htm",
+      "og:site_name": "About.com South America Travel",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GeologyLink??",
+   "htmlTitle": "GeologyLink??",
+   "link": "http://college.cengage.com/geology/resources/geologylink/today/today_archive.html",
+   "displayLink": "college.cengage.com",
+   "snippet": "March 4, 2003 to March 31, 2003 ... Mexico felt a 4.3 magnitude earthquake, low-  frequency tremors occured at Veniaminof, ... July 5, 2001 to July 31, 2001 ....   Floods swept through South America, East Africa and Mexico; Ruapehu Volcano ...",
+   "htmlSnippet": "March 4, 2003 to March 31, 2003 \u003cb\u003e...\u003c/b\u003e Mexico felt a 4.3 magnitude \u003cb\u003eearthquake\u003c/b\u003e, low-\u003cbr\u003e  frequency tremors occured at Veniaminof, \u003cb\u003e...\u003c/b\u003e July 5, 2001 to \u003cb\u003eJuly 31, 2001\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Floods swept through \u003cb\u003eSouth America\u003c/b\u003e, East Africa and Mexico; Ruapehu Volcano \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zNtu4x6QIxMJ",
+   "formattedUrl": "college.cengage.com/geology/resources/.../today_archive.html",
+   "htmlFormattedUrl": "college.cengage.com/geology/resources/.../today_archive.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.9, SOUTH AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222.   5.4, SABAH, MALAYSIA, Jul 31 2001, 16:41:32, 7.991, 117.421 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.9, \u003cb\u003eSOUTH\u003c/b\u003e AFRICA, \u003cb\u003eJul 31 2001\u003c/b\u003e, 22:22:22, -26.937, 26.792, 200107312222. \u003cbr\u003e  5.4, SABAH, MALAYSIA, \u003cb\u003eJul 31 2001\u003c/b\u003e, 16:41:32, 7.991, 117.421 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in South America",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eSouth America\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/v/southamerica/biggest",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The Largest Earthquakes in South America. ... Biggest Earthquakes Near South   America. Recent Quakes .... G. 31 years ago, 7.5 magnitude, 33 km depth ...",
+   "htmlSnippet": "The Largest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eSouth America\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Biggest \u003cb\u003eEarthquakes\u003c/b\u003e Near \u003cb\u003eSouth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e. Recent Quakes \u003cb\u003e....\u003c/b\u003e G. \u003cb\u003e31\u003c/b\u003e years ago, 7.5 magnitude, 33 km depth \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4IMKfZTkGl0J",
+   "formattedUrl": "earthquaketrack.com/v/southamerica/biggest",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/\u003cb\u003esouthamerica\u003c/b\u003e/biggest",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ogZu9O8P6JUbafuHeyM1RPs6kIDYin8N5Qrz7DZRNnI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Historical earthquakes is a list of significant earthquakes from before the 20th   century. ... see 115 Antioch earthquake, 36.1, 36.1, ~260,000, 7.5, Ms ..... 26.10.  15-19; ^ For summaries of the sources, see Stiros, Stathis C. (2001). .... Journal of   Geophysical Research (American Geophysical Union). .... Retrieved 31 July   2010.",
+   "htmlSnippet": "Historical \u003cb\u003eearthquakes\u003c/b\u003e is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e from before the 20th \u003cbr\u003e  century. \u003cb\u003e...\u003c/b\u003e see 115 Antioch \u003cb\u003eearthquake\u003c/b\u003e, 36.1, 36.1, ~260,000, 7.5, M\u003cb\u003es\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e 26.10.\u003cbr\u003e  15-19; ^ For summaries of the sources, see Stiros, Stathis C. (\u003cb\u003e2001\u003c/b\u003e). \u003cb\u003e....\u003c/b\u003e Journal of \u003cbr\u003e  Geophysical Research (\u003cb\u003eAmerican\u003c/b\u003e Geophysical Union). \u003cb\u003e....\u003c/b\u003e Retrieved \u003cb\u003e31 July\u003c/b\u003e \u003cbr\u003e  2010.",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "El Salvador latest and breaking national news and regional news ...",
+   "htmlTitle": "El Salvador latest and breaking national news and regional news \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/elsalvador/",
+   "displayLink": "www.telegraph.co.uk",
+   "snippet": "In pictures: people in Latin America celebrate the Day of the Dead. ... 06 Jul 2009   ... 07 May 2001. Plea for calm as El Salvador quake deaths reach 260 ?? THE   number of dead from the latest earthquake in El Salvador rose to 260 yesterday   as ...",
+   "htmlSnippet": "In pictures: people in \u003cb\u003eLatin America\u003c/b\u003e celebrate the Day of the Dead. \u003cb\u003e...\u003c/b\u003e 06 \u003cb\u003eJul\u003c/b\u003e 2009 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 07 May \u003cb\u003e2001\u003c/b\u003e. Plea for calm as El Salvador quake deaths reach 260 &middot; THE \u003cbr\u003e  number of dead from the latest \u003cb\u003eearthquake\u003c/b\u003e in El Salvador rose to 260 yesterday \u003cbr\u003e  as \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.telegraph.co.uk/news/.../centralamericaandthecaribbean/elsalvador/",
+   "htmlFormattedUrl": "www.telegraph.co.uk/news/.../central\u003cb\u003eamerica\u003c/b\u003eandthecaribbean/elsalvador/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "tmgads.zone": "news.worldnews.centralamericaandthecaribbean.elsalvador",
+      "tmgads.channel": "news",
+      "tmgads.section": "news-world_news-central_america_and_the_caribbean-el_salvador",
+      "tmgads.pagetype": "index",
+      "tmgads.level": "4",
+      "tmgads.geo": "US",
+      "section-id": "2192",
+      "gsamlc": "news/worldnews/centralamericaandthecaribbean/elsalvador",
+      "gsachannel": "news",
+      "gsachannelname": "News",
+      "gsacategory": "worldnews",
+      "gsagenre": "centralamericaandthecaribbean",
+      "gsasectionuniquename": "news-world_news-central_america_and_the_caribbean-el_salvador",
+      "fb:app_id": "120118784736295",
+      "fb:admins": "686953094,531239902,100002344351237",
+      "og:description": "El Salvador breaking and latest national, regional and world news about El Salvador, including its people, politics and economy from the daily telegraph",
+      "og:site_name": "Telegraph.co.uk",
+      "og:title": "El Salvador latest and breaking national news and regional news from El Salvador - Telegraph",
+      "og:url": "http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/elsalvador/",
+      "og:image": "http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg",
+      "og:type": "author",
+      "twitter:card": "summary",
+      "twitter:site": "@Telegraph",
+      "dcsext.mlc": "/news/worldnews/centralamericaandthecaribbean/elsalvador",
+      "dcsext.genre": "centralamericaandthecaribbean",
+      "dcsext.category": "worldnews",
+      "wt.cg_s": "worldnews",
+      "dcsext.channel": "news",
+      "wt.cg_n": "news",
+      "dcsext.content_type": "Index",
+      "dcsext.level": "4",
+      "dcsext.cf": "0",
+      "dcsext.cn": "0",
+      "dcsext.cd": "0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 1, 2001, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5, Mw (HRV)   ... see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV) ... July 7  , 2001, 09:38, Near coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV) ... October   12, 2001, 15:02, South of Mariana Islands, 12.686 ...",
+   "htmlSnippet": "January 1, \u003cb\u003e2001\u003c/b\u003e, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5, Mw (HRV) \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 7\u003cbr\u003e  , \u003cb\u003e2001\u003c/b\u003e, 09:38, Near coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV) \u003cb\u003e...\u003c/b\u003e October \u003cbr\u003e  12, \u003cb\u003e2001\u003c/b\u003e, 15:02, \u003cb\u003eSouth\u003c/b\u003e of Mariana Islands, 12.686 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Carolina Earthquake Hazards: Preparing for the Next Big One",
+   "htmlTitle": "\u003cb\u003eSouth\u003c/b\u003e Carolina \u003cb\u003eEarthquake\u003c/b\u003e Hazards: Preparing for the Next Big One",
+   "link": "http://www.scearthquakes.com/",
+   "displayLink": "www.scearthquakes.com",
+   "snippet": "Jul 28, 2012 ... But unknown to virtually all Americans???South Carolinians included???the ...   Charleston Earthquake of August 31, 1886, in Summerville (left) and Charleston   .... 2012: As of July 28, 2012, there have already been twelve earthquakes in   South Carolina, ..... 2001 South Carolina Earthquake Vulnerability Study ...",
+   "htmlSnippet": "Jul 28, 2012 \u003cb\u003e...\u003c/b\u003e But unknown to virtually all \u003cb\u003eAmericans\u003c/b\u003e???\u003cb\u003eSouth\u003c/b\u003e Carolinians included???the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Charleston \u003cb\u003eEarthquake\u003c/b\u003e of August \u003cb\u003e31\u003c/b\u003e, 1886, in Summerville (left) and Charleston \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 2012: As of \u003cb\u003eJuly\u003c/b\u003e 28, 2012, there have already been twelve \u003cb\u003eearthquakes\u003c/b\u003e in \u003cbr\u003e  \u003cb\u003eSouth\u003c/b\u003e Carolina, \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e2001 South\u003c/b\u003e Carolina \u003cb\u003eEarthquake\u003c/b\u003e Vulnerability Study \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9dnMYrIdJUcJ",
+   "formattedUrl": "www.scearthquakes.com/",
+   "htmlFormattedUrl": "www.sc\u003cb\u003eearthquakes\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bookdoctor.com/southcarolinaearthquakes/earthquake-intensities-450x336.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "249",
+      "height": "202",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS38HXPnPhlfuWgrvca1XV6OcvVGgcq_QJMZFl_ARJaMHld2O3nMWlzBH8"
+     }
+    ],
+    "metatags": [
+     {
+      "resource-type": "document",
+      "distribution": "global, world",
+      "rating": "general",
+      "vw96.objecttype": "document",
+      "dc.title": "Corinthian Books",
+      "dc.creator": "Richard N. C??t?? /  dickcote@earthlink.net",
+      "dc.subject": "South Carolina Earthquake Hazards: Preparing the the Next Big One",
+      "dc.publisher": "The South Carolina Earthquake Memorial Association",
+      "dc.language": "en",
+      "dc.coverage.placename": "global, world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes and tsunamis in the United States - Wikipedia ...",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e and tsunamis in the United States - Wikipedia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The following is a list of notable earthquakes and/or tsunamis which had their   epicenter in ... 31, 1886, South Carolina, 7.3, 60-110, 1886 Charleston   earthquake ...",
+   "htmlSnippet": "The following is a list of notable \u003cb\u003eearthquakes\u003c/b\u003e and/or tsunamis which had their \u003cbr\u003e  epicenter in \u003cb\u003e...\u003c/b\u003e \u003cb\u003e31\u003c/b\u003e, 1886, \u003cb\u003eSouth\u003c/b\u003e Carolina, 7.3, 60-110, 1886 Charleston \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nwZ6NjulnOwJ",
+   "formattedUrl": "en.wikipedia.org/.../List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "htmlFormattedUrl": "en.wikipedia.org/.../List_of_\u003cb\u003eearthquakes\u003c/b\u003e_and_tsunamis_in_the_United_States"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Open-source archive of active faults for northwest South America",
+   "htmlTitle": "Open-source archive of active faults for northwest \u003cb\u003eSouth America\u003c/b\u003e",
+   "link": "http://www.geosociety.org/gsatoday/archive/22/10/article/i1052-5173-22-10-4.htm",
+   "displayLink": "www.geosociety.org",
+   "snippet": "Active deformation of northwest South America is characterized by interaction ....   GPS velocity vectors for the northern Andes from Kendrick et al., 2001 (red);   P??rez et ..... http://earthquake.usgs.gov/regional/qfaults/ (last accessed 31 July   2012).",
+   "htmlSnippet": "Active deformation of northwest \u003cb\u003eSouth America\u003c/b\u003e is characterized by interaction \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  GPS velocity vectors for the northern Andes from Kendrick et al., \u003cb\u003e2001\u003c/b\u003e (red); \u003cbr\u003e  P??rez et \u003cb\u003e.....\u003c/b\u003e http://\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/regional/qfaults/ (last accessed \u003cb\u003e31 July\u003c/b\u003e \u003cbr\u003e  2012).",
+   "cacheId": "zhF3eJIb9-4J",
+   "formattedUrl": "www.geosociety.org/gsatoday/archive/.../i1052-5173-22-10-4.htm",
+   "htmlFormattedUrl": "www.geosociety.org/gsatoday/archive/.../i1052-5173-22-10-4.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.geosociety.org/gsatoday/archive/22/10/figure/i1052-5173-22-10-4-f01-t.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "67",
+      "height": "88",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcGGKw4SJaelCNWs6idJvNPF-VQipNUMO0TGCtYUo5y1-OstryGsY7BA"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "All Material Copyright 2012, Geological Society of America"
+     }
+    ]
+   }
+  }
+ ]
+}

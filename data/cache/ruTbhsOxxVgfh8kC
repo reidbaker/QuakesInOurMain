@@ -1,0 +1,316 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 7 2001 India Earthquake",
+    "totalResults": "825000",
+    "searchTerms": "Nov 7 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 7 2001 India Earthquake",
+    "totalResults": "825000",
+    "searchTerms": "Nov 7 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.300336,
+  "formattedSearchTime": "0.30",
+  "totalResults": "825000",
+  "formattedTotalResults": "825,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... Figure 7 ??? The number of buildings damaged or destroyed in each 2011 ... from   the Van earthquake in October, in the India-Nepal-Tibet region in September, ....   The Van earthquakes in Turkey in October and November caused 604 ..... BTE [  2001] ???Economic Costs of Natural Disasters in Australia???, Bureau ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e7\u003c/b\u003e ??? The number of buildings damaged or destroyed in each 2011 \u003cb\u003e...\u003c/b\u003e from \u003cbr\u003e  the Van \u003cb\u003eearthquake\u003c/b\u003e in October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet region in September, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The Van \u003cb\u003eearthquakes\u003c/b\u003e in Turkey in October and \u003cb\u003eNovember\u003c/b\u003e caused 604 \u003cb\u003e.....\u003c/b\u003e BTE [\u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in Australia???, Bureau \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001 Gujarat earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2001 Gujarat earthquake occurred on January 26, 2001, India's 51st ... and   Anjar with hundreds of villages flattened in Taluka of Anjar, Bhuj & Bhachau. ...   on 20 November 2007. http://neic.usgs.gov/neis/eq_depot/2001/eq_010126/.",
+   "htmlSnippet": "The \u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e occurred on January 26, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003eIndia&#39;s\u003c/b\u003e 51st \u003cb\u003e...\u003c/b\u003e and \u003cbr\u003e  Anjar with hundreds of villages flattened in Taluka of Anjar, Bhuj \u003cb\u003e&amp;\u003c/b\u003e Bhachau. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  on 20 \u003cb\u003eNovember\u003c/b\u003e 2007. http://neic.usgs.gov/neis/eq_depot/\u003cb\u003e2001\u003c/b\u003e/eq_010126/.",
+   "cacheId": "LtzX9S90JqYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e2001\u003c/b\u003e_Gujarat_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2001_Gujarat_earthquake.jpg/240px-2001_Gujarat_earthquake.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "146",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTHda-3a5sGFabOisVtMRYCYGYvnKxmmbPv9njhrKDcTcig8Zo8QBVlW_"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today in History November 7",
+   "htmlTitle": "Today in History \u003cb\u003eNovember 7\u003c/b\u003e",
+   "link": "http://timelines.ws/days/11_07.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "921 Nov 7, Treaty of Bonn: East France and West France recognized each other.   .... Zafar II, the last Mughal emperor in India, was deposed in the 1857 sepoy ......   2005 Nov 7, India and Pakistan opened their frontier in Kashmir for earthquake ...",
+   "htmlSnippet": "921 \u003cb\u003eNov 7\u003c/b\u003e, Treaty of Bonn: East France and West France recognized each other. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Zafar II, the last Mughal emperor in \u003cb\u003eIndia\u003c/b\u003e, was deposed in the 1857 sepoy \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  2005 \u003cb\u003eNov 7\u003c/b\u003e, \u003cb\u003eIndia\u003c/b\u003e and Pakistan opened their frontier in Kashmir for \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HF9LQbiYyBQJ",
+   "formattedUrl": "timelines.ws/days/11_07.HTML",
+   "htmlFormattedUrl": "timelines.ws/days/11_07.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algis Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV). 02001-01  -26January 26, 2001, 03:16, Gujarat, India see 2001 Gujarat ... July 7, 2001, 09:  38, Near coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV). August 21, 2001 ...   November 14, 2001, 09:26, Qinghai, China see 2001 Kunlun ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV). 02001-01\u003cbr\u003e  -26January 26, \u003cb\u003e2001\u003c/b\u003e, 03:16, Gujarat, \u003cb\u003eIndia\u003c/b\u003e see \u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003e...\u003c/b\u003e July \u003cb\u003e7\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, 09:\u003cbr\u003e  38, Near coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV). August 21, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember\u003c/b\u003e 14, \u003cb\u003e2001\u003c/b\u003e, 09:26, Qinghai, China see \u003cb\u003e2001\u003c/b\u003e Kunlun \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dr.D.Shanker, Department of Earthquake Engineering, Indian ...",
+   "htmlTitle": "Dr.D.Shanker, Department of \u003cb\u003eEarthquake\u003c/b\u003e Engineering, \u003cb\u003eIndian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "displayLink": "www.iitr.ac.in",
+   "snippet": "geodata, Bangkok, Thailand October 22-November 06, 2006. ... development,   department of Civil Engg. University of Roorkee, Roorkee, April 27-28, 2001. ...   Lesson for Architects & Engineers from recent Indian earthquakes, The Institution   of ...",
+   "htmlSnippet": "geodata, Bangkok, Thailand October 22-\u003cb\u003eNovember\u003c/b\u003e 06, 2006. \u003cb\u003e...\u003c/b\u003e development, \u003cbr\u003e  department of Civil Engg. University of Roorkee, Roorkee, April 27-28, \u003cb\u003e2001\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Lesson for Architects \u003cb\u003e&amp;\u003c/b\u003e Engineers from recent \u003cb\u003eIndian earthquakes\u003c/b\u003e, The Institution \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hHwFGSSoXkwJ",
+   "formattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "htmlFormattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iitr.ac.in/departments/EQ/uploads/Image/faculty/dayasfeq.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu_bdrlQOpb_1Wbl2uX4msnwe12PH6PLiAfVChL8t2pocU2dbwugf2Wa3-"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee",
+      "dc.title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee Index",
+      "dc.creator": "Information Management Group, IIT Roorkee",
+      "dc.creator.address": "img@iitr.ernet.in",
+      "dc.subject.keyword": "Department of Earthquake Engineering,Earthquake Engineering,Structural Dynamics,Soil Dynamics,Seismology,Seismotectonics,Instrumentation,DEQ,IIT Roorkee,Indian Institute of Technology,technology,roorkee,academics,b.tech,m.tech,PhD,Student Homepages,Research,Alumni,SRTEE,events,School of Research and Training in Earthquake Engineering,Codal Provisions,Disaster Mitigation,seismic zoning map,Strong Motion Instruments,Undergraduate,Shake and Shock tables,quasi static testing lab,Activities,Facilities",
+      "dc.subject.description": "Earthquake Engineering, IIT Roorkee involves b.tech,m.tech.undergraduate students for research activities and training in Seismology,Seismotectonics,Instrumentation,soil dynamics technology etc.",
+      "dc.type": "webpage",
+      "dc.image.like": "/Main/template/IIT_Roorkee_Main_Building.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Listed below are all known earthquakes measured or estimated to have a   moment ... 2004, Indian Ocean, Sumatra, Indonesia, 2004 Indian Ocean   earthquake, 9.1???9.3 ... 01604-11-24November 24, 1604, Arica, Chile (then part of   the Spanish Empire), 1604 .... 7, 2011 Christchurch earthquake, New Zealand,   6.3, $12 billion ...",
+   "htmlSnippet": "Listed below are all known \u003cb\u003eearthquakes\u003c/b\u003e measured or estimated to have a \u003cbr\u003e  moment \u003cb\u003e...\u003c/b\u003e 2004, \u003cb\u003eIndian\u003c/b\u003e Ocean, Sumatra, Indonesia, 2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, 9.1???9.3 \u003cb\u003e...\u003c/b\u003e 01604-11-24\u003cb\u003eNovember\u003c/b\u003e 24, 1604, Arica, Chile (then part of \u003cbr\u003e  the Spanish Empire), 1604 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e7\u003c/b\u003e, 2011 Christchurch \u003cb\u003eearthquake\u003c/b\u003e, New Zealand, \u003cbr\u003e  6.3, $12 billion \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Selected earthquakes of general historic interest. ..... M 6.6 Fatalities 315; 2001   01 26 - Gujarat, India - M 7.6 Fatalities 20,023 ?? 2001 01 13 - El Salvador - M 7.7   ..... M 7.1 Fatalities 31; 1954 03 29 - Spain - M 7.9; 1953 12 12 - Tumbes, Peru -   M 7.4 Fatalities 7; 1953 ..... Page Last Modified: November 01, 2012 15:15:20   UTC ...",
+   "htmlSnippet": "Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e.....\u003c/b\u003e M 6.6 Fatalities 315; \u003cb\u003e2001\u003c/b\u003e \u003cbr\u003e  01 26 - Gujarat, \u003cb\u003eIndia\u003c/b\u003e - M 7.6 Fatalities 20,023 &middot; \u003cb\u003e2001\u003c/b\u003e 01 13 - El Salvador - M 7.7 \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e M 7.1 Fatalities 31; 1954 03 29 - Spain - M 7.9; 1953 12 12 - Tumbes, Peru - \u003cbr\u003e  M 7.4 Fatalities \u003cb\u003e7\u003c/b\u003e; 1953 \u003cb\u003e.....\u003c/b\u003e Page Last Modified: \u003cb\u003eNovember\u003c/b\u003e 01, 2012 15:15:20 \u003cbr\u003e  UTC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Total Solar Eclipse Nov. 13th - Will Earthquakes Follow",
+   "htmlTitle": "Total Solar Eclipse \u003cb\u003eNov\u003c/b\u003e. 13th - Will \u003cb\u003eEarthquakes\u003c/b\u003e Follow",
+   "link": "http://www.earthchangesmedia.com/publish/article-9162533476.php",
+   "displayLink": "www.earthchangesmedia.com",
+   "snippet": "Nov 7, 2012 - 7:38:52 PM ... 2001 Dec 14: Annular Solar Eclipse -. January 25   2001 - (India) A magnitude 7.6 earthquake shook the Indian Province of Gujarat.",
+   "htmlSnippet": "\u003cb\u003eNov 7\u003c/b\u003e, 2012 - \u003cb\u003e7\u003c/b\u003e:38:52 PM \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e Dec 14: Annular Solar Eclipse -. January 25 \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e - (\u003cb\u003eIndia\u003c/b\u003e) A magnitude 7.6 \u003cb\u003eearthquake\u003c/b\u003e shook the \u003cb\u003eIndian\u003c/b\u003e Province of Gujarat.",
+   "cacheId": "ctzckc9__w4J",
+   "formattedUrl": "www.earthchangesmedia.com/publish/article-9162533476.php",
+   "htmlFormattedUrl": "www.earthchangesmedia.com/publish/article-9162533476.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.earthchangesmedia.com/artman2/uploads/3/full_solar_eclipse2012_med.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "262",
+      "height": "192",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7F2x1hEEw8n1v2CxcIwbPsBY5UOBG_Y0rtJSQPboNIxa8V3AT17zCztA"
+     }
+    ],
+    "metatags": [
+     {
+      "language": "en-us",
+      "rating": "General",
+      "resource-type": "document",
+      "distribution": "Global",
+      "copyright": "Copyright 1995 - 2006 earthchangesmedia.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/index.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 28, 2012 ... Get real-time earthquake notifications sent to you using a number of popular   mediums: Feeds, Email, Twitter etc??? ... M 6.5, 163km SSW of Severo-Kuril'sk,   Russia Friday, November 16, ... Earthquake ???Top 10??? Lists & Maps ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of popular \u003cbr\u003e  mediums: Feeds, Email, Twitter etc??? \u003cb\u003e...\u003c/b\u003e M 6.5, 163km SSW of Severo-Kuril&#39;sk, \u003cbr\u003e  Russia Friday, \u003cb\u003eNovember\u003c/b\u003e 16, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e ???Top 10??? Lists \u003cb\u003e&amp;\u003c/b\u003e Maps \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D_0uDpIsu6kJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/index.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Protection of Masonry Buildings Using Fibre Reinforced ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Protection of Masonry Buildings Using Fibre Reinforced \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.newcastle.edu.au/research-centre/cipar/research/earthquake-protection.html",
+   "displayLink": "www.newcastle.edu.au",
+   "snippet": "Earthquake Protection of Masonry Buildings Using Fibre Reinforced Polymer ... of   Historical Constructions, Guimaraes, Portugal, November 7-9, 2001, pp.",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e Protection of Masonry Buildings Using Fibre Reinforced Polymer \u003cb\u003e...\u003c/b\u003e of \u003cbr\u003e  Historical Constructions, Guimaraes, Portugal, \u003cb\u003eNovember 7\u003c/b\u003e-9, 2001, pp.",
+   "cacheId": "PLWtBbQHMu0J",
+   "formattedUrl": "www.newcastle.edu.au/research-centre/.../earthquake-protection.html",
+   "htmlFormattedUrl": "www.newcastle.edu.au/research-centre/.../\u003cb\u003eearthquake\u003c/b\u003e-protection.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.newcastle.edu.au/Resources/Research%20Centres/CIPAR/Images/image%202.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "358",
+      "height": "141",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9TRFHjBt7GX1v_YpFnj4ujfCU6cM-8QD9hhJaivJ4LTolbD06h-17KgA"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.publisher": "The University of Newcastle, Australia",
+      "og:locale": "en_GB",
+      "dc.type": "Text",
+      "dc.format": "text/html;charset=UTF-8",
+      "dc.language": "en",
+      "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+      "fb:admins": "100000399824616",
+      "title": "Earthquake Protection of Masonry Buildings Using Fibre Reinforced Polymer Strengthening",
+      "dc.title": "Earthquake Protection of Masonry Buildings Using Fibre Reinforced Polymer Strengthening",
+      "og:title": "Earthquake Protection of Masonry Buildings Using Fibre Reinforced Polymer Strengthening",
+      "dc.identifier": "www.newcastle.edu.au/research-centre/cipar/research/earthquake-protection.html",
+      "og:url": "http://www.newcastle.edu.au/research-centre/cipar/research/earthquake-protection.html",
+      "uon-site-path": "www.newcastle.edu.au/research-centre/cipar/research/",
+      "uon-site-title": "Research",
+      "dc.audience": "Students,Staff,Alumni,Business,Community",
+      "dc.description": "The University of Newcastle, Australia",
+      "dcterms.created": "2008-11-17T15:01:09+1100",
+      "dc.date": "2012-12-03T11:00:37+1100",
+      "og:description": "Earthquake Protection of Masonry Buildings Using Fibre Reinforced Polymer Strengthening",
+      "dcterms.modified": "2012-12-03T11:00:37+1100"
+     }
+    ]
+   }
+  }
+ ]
+}

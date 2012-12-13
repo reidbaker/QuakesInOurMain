@@ -1,0 +1,290 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 10 2001 Asia Earthquake",
+    "totalResults": "760000",
+    "searchTerms": "Sep 10 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 10 2001 Asia Earthquake",
+    "totalResults": "760000",
+    "searchTerms": "Sep 10 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.248194,
+  "formattedSearchTime": "0.25",
+  "totalResults": "760000",
+  "formattedTotalResults": "760,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 10 2001 Asia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 10 2001 Asia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... SOS Earthquakes was founded in August 2010. ... Turkey from the Van   earthquake in October, in the India-Nepal-Tibet region in September, ... to form   an Asia-Pacific comparison of flood and earthquake socio-economic loss in the   ...... BTE [2001] ???Economic Costs of Natural Disasters in Australia???, Bureau of ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e SOS \u003cb\u003eEarthquakes\u003c/b\u003e was founded in August \u003cb\u003e2010\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Turkey from the Van \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in October, in the India-Nepal-Tibet region in \u003cb\u003eSeptember\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e to form \u003cbr\u003e  an \u003cb\u003eAsia\u003c/b\u003e-Pacific comparison of flood and \u003cb\u003eearthquake\u003c/b\u003e socio-economic loss in the \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e BTE [\u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in Australia???, Bureau of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.disasternews.net/news/news.php?topic=Earthquakes",
+   "displayLink": "www.disasternews.net",
+   "snippet": "Through original reporting, Disaster News Network (DNN) tells ...",
+   "htmlSnippet": "Through original reporting, Disaster News Network (DNN) tells \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JJ5O1ms-c8QJ",
+   "formattedUrl": "www.disasternews.net/news/news.php?topic=Earthquakes",
+   "htmlFormattedUrl": "www.disasternews.net/news/news.php?topic=\u003cb\u003eEarthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STARTLING REVELATION: NOW WE KNOW WHY THE ILLUMINATI ...",
+   "htmlTitle": "STARTLING REVELATION: NOW WE KNOW WHY THE ILLUMINATI \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cuttingedge.org/News/n2104.cfm",
+   "displayLink": "www.cuttingedge.org",
+   "snippet": "The top three were a terrorist attack on New York, an earthquake in San   Francisco ... On September 10, 2001, FEMA accurately \"predicted\" three\" most   likely and deadly .... thought -- caused the devastating December 26, 2004, Asian   tsunami.",
+   "htmlSnippet": "The top three were a terrorist attack on New York, an \u003cb\u003eearthquake\u003c/b\u003e in San \u003cbr\u003e  Francisco \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eSeptember 10, 2001\u003c/b\u003e, FEMA accurately &quot;predicted&quot; three&quot; most \u003cbr\u003e  likely and deadly \u003cb\u003e....\u003c/b\u003e thought -- caused the devastating December 26, 2004, \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  tsunami.",
+   "cacheId": "cLOcDqjjQ2gJ",
+   "formattedUrl": "www.cuttingedge.org/News/n2104.cfm",
+   "htmlFormattedUrl": "www.cuttingedge.org/News/n2104.cfm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Showcase: The World, as of 9/10/01 - NYTimes.com",
+   "htmlTitle": "Showcase: The World, as of \u003cb\u003e9/10/01\u003c/b\u003e - NYTimes.com",
+   "link": "http://lens.blogs.nytimes.com/2009/09/11/showcase-49/",
+   "displayLink": "lens.blogs.nytimes.com",
+   "snippet": "Sep 11, 2009 ... Showcase: The World, as of 9/10/01 ... lived where there would be no   earthquakes, no floods and no enemy missiles. ... Association and the Asian   American Journalists Association ??? for images of the trade center taken Sept.",
+   "htmlSnippet": "Sep 11, 2009 \u003cb\u003e...\u003c/b\u003e Showcase: The World, as of \u003cb\u003e9/10/01\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e lived where there would be no \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e, no floods and no enemy missiles. \u003cb\u003e...\u003c/b\u003e Association and the \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  American Journalists Association ??? for images of the trade center taken \u003cb\u003eSept.\u003c/b\u003e",
+   "cacheId": "jm4ljz-fyKQJ",
+   "formattedUrl": "lens.blogs.nytimes.com/2009/09/11/showcase-49/",
+   "htmlFormattedUrl": "lens.blogs.nytimes.com/2009/09/11/showcase-49/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/packages/flash/Lens/2009/09/20090911POD/20090911POD-165px.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "132",
+      "height": "88",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJpdF02SYX7INv1FCjyF5lLSxUIM3SMpHe5VrqlUawnkMB9I55ZbIrmtQ"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Showcase: The World, as of 9/10/01",
+      "og:type": "article",
+      "og:url": "http://lens.blogs.nytimes.com/2009/09/11/showcase-49/",
+      "og:site_name": "Lens Blog",
+      "og:description": "To help her own healing in a post-9/11 world, the curator Seolbin Park invited photographers to send their pictures of the twin towers before the attack.",
+      "og:image": "http://graphics8.nytimes.com/images/blogs_v3/../icons/t_logo_2048_black.png",
+      "pt": "Blogs",
+      "pst": "Blog Post",
+      "clmst": "By DAVID W. DUNLAP",
+      "byl": "By DAVID W. DUNLAP",
+      "author": "DAVID W. DUNLAP",
+      "pud": "20090911",
+      "pdate": "20090911",
+      "ptime": "20090911180000",
+      "utime": "20090911182239",
+      "gblc": "Showcase",
+      "puv": "normal",
+      "cg": "Multimedia",
+      "scg": "lens",
+      "bn": "lens",
+      "emailthishash": "gWjb1hqdjMIKMWz3nGTyyg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Widespread destruction from Japan earthquake, tsunamis - CNN",
+   "htmlTitle": "Widespread destruction from Japan \u003cb\u003eearthquake\u003c/b\u003e, tsunamis - CNN",
+   "link": "http://articles.cnn.com/2011-03-11/world/japan.quake_1_hokkaido-tsunami-east-japan-railway?_s=PM:WORLD",
+   "displayLink": "articles.cnn.com",
+   "snippet": "Mar 11, 2011 ... Some waves reached six miles (10 kilometers) inland in Miyagi Prefecture on   Japan's ... September 10, 2001. Tsunami warnings after quake ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e Some waves reached six miles (10 kilometers) inland in Miyagi Prefecture on \u003cbr\u003e  Japan&#39;s \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember 10, 2001\u003c/b\u003e. Tsunami warnings after \u003cb\u003equake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uWA-FjypuiYJ",
+   "formattedUrl": "articles.cnn.com/.../japan.quake_1_hokkaido-tsunami-east-japan-railway?_...",
+   "htmlFormattedUrl": "articles.cnn.com/.../japan.\u003cb\u003equake\u003c/b\u003e_1_hokkaido-tsunami-east-japan-railway?_...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/03/11/japan.quake/story.tsunami.fire.afp.gi.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "135",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlK6tnjG2umIIO01GRn8PCO7TcRbfIUPf_lwj0m75LDjNY0adW4ztSbU4"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "100001837105818",
+      "fb:app_id": "201770826516147",
+      "og:title": "Widespread destruction from Japan earthquake, tsunamis",
+      "og:type": "article",
+      "og:url": "http://articles.cnn.com/2011-03-11/world/japan.quake_1_hokkaido-tsunami-east-japan-railway?_s=PM:WORLD",
+      "og:image": "http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/03/11/japan.quake/story.tsunami.fire.afp.gi.jpg",
+      "og:description": "The morning after Japan was struck by the most powerful earthquake to hit the island nation in recorded history and the tsunami it unleashed -- and even as the earth continued to twitch with...",
+      "og:site_name": "CNN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of Asia Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eAsia\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/Asia_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Update time = Thu Dec 13 04:00:13 UTC 2012. Here is a list of the earthquakes   located by the USGS and contributing networks for the Map of Asia Region.",
+   "htmlSnippet": "Update time = Thu \u003cb\u003eDec\u003c/b\u003e 13 04:00:13 UTC 2012. Here is a list of the \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  located by the USGS and contributing networks for the Map of \u003cb\u003eAsia\u003c/b\u003e Region.",
+   "cacheId": "7q8t4MZRaIIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/Maps/.../Asia_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/Maps/.../\u003cb\u003eAsia\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 10 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember 10\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_10",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 10 is the 253rd day of the year (254th in leap years) in the ... 1509 ???   An earthquake known as \"The Lesser Judgment Day\" hits Constantinople. ...   2001 ??? Charles Ingram cheats his way into winning one million pounds on a   British ...",
+   "htmlSnippet": "\u003cb\u003eSeptember 10\u003c/b\u003e is the 253rd day of the year (254th in leap years) in the \u003cb\u003e...\u003c/b\u003e 1509 ??? \u003cbr\u003e  An \u003cb\u003eearthquake\u003c/b\u003e known as &quot;The Lesser Judgment Day&quot; hits Constantinople. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e ??? Charles Ingram cheats his way into winning one million pounds on a \u003cbr\u003e  British \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "e_Ji3yzCmesJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_10",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e10\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gujarat Earthquake 2001",
+   "htmlTitle": "Gujarat \u003cb\u003eEarthquake 2001\u003c/b\u003e",
+   "link": "http://www.adrc.asia/publications/recovery_reports/pdf/Gujarat.pdf",
+   "displayLink": "www.adrc.asia",
+   "snippet": "The Gujarat Earthquake 2001. Asian Disaster Reduction Center. THE GUJARAT   EARTHQUAKE 2001. Anil Kkumar Sinha,. Senior Technical Advisor, Asian ...",
+   "htmlSnippet": "The Gujarat \u003cb\u003eEarthquake 2001\u003c/b\u003e. \u003cb\u003eAsian\u003c/b\u003e Disaster Reduction Center. THE GUJARAT \u003cbr\u003e  \u003cb\u003eEARTHQUAKE 2001\u003c/b\u003e. Anil Kkumar Sinha,. Senior Technical Advisor, \u003cb\u003eAsian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3D7aOB8xjDEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.adrc.asia/publications/recovery_reports/pdf/Gujarat.pdf",
+   "htmlFormattedUrl": "www.adrc.\u003cb\u003easia\u003c/b\u003e/publications/recovery_reports/pdf/Gujarat.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20050616171603+09'00'",
+      "creationdate": "D:20050616171511+09'00'",
+      "title": "Total Disaster Risk Management: Concept and Best Practices",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "producer": "Acrobat Distiller 6.0.1 (Windows)",
+      "author": "sanker",
+      "company": "ADRC",
+      "sourcemodified": "D:20050616081108"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Yunnan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 Yunnan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_Yunnan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "On 7 September 2012, a series of earthquakes occurred in Yiliang, Zhaotong, in   the southwest Chinese province of Yunnan. The two main shocks occurred at ...",
+   "htmlSnippet": "On 7 \u003cb\u003eSeptember\u003c/b\u003e 2012, a series of \u003cb\u003eearthquakes\u003c/b\u003e occurred in Yiliang, Zhaotong, in \u003cbr\u003e  the southwest Chinese province of Yunnan. The two main shocks occurred at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "N7NubPxdJOMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_Yunnan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_Yunnan_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "JAPAN EARTHQUAKE : Federal Jack",
+   "htmlTitle": "JAPAN \u003cb\u003eEARTHQUAKE\u003c/b\u003e : Federal Jack",
+   "link": "http://www.federaljack.com/?tag=japan-earthquake",
+   "displayLink": "www.federaljack.com",
+   "snippet": "Mar 5, 2012 ... Japan earthquake triggered by HAARP-aerosol/chemtrails plasma weapon, ... Ms  . Moret notes that on September 10, 2001, FEMA (Federal ...",
+   "htmlSnippet": "Mar 5, 2012 \u003cb\u003e...\u003c/b\u003e Japan \u003cb\u003eearthquake\u003c/b\u003e triggered by HAARP-aerosol/chemtrails plasma weapon, \u003cb\u003e...\u003c/b\u003e Ms\u003cbr\u003e  . Moret notes that on \u003cb\u003eSeptember 10, 2001\u003c/b\u003e, FEMA (Federal \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bJDxRKa6LMUJ",
+   "formattedUrl": "www.federaljack.com/?tag=japan-earthquake",
+   "htmlFormattedUrl": "www.federaljack.com/?tag=japan-\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://img.youtube.com/vi/P_A9y_QJ7jI/0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvzrn6S5_xDHBulGrTsI8MKmcS29B0ioUm3vc3aihtMbCP61IqA5cHxoc"
+     }
+    ],
+    "metatags": [
+     {
+      "distribution": "global",
+      "language": "en",
+      "og:title": "Federal Jack",
+      "og:type": "blog",
+      "og:url": "http://www.federaljack.com",
+      "og:image": "http://www.federaljack.com/wp-content/plugins/facebook-likes-you/images/facebook.png",
+      "og:site_name": "Federal Jack"
+     }
+    ]
+   }
+  }
+ ]
+}

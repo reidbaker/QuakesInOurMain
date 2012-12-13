@@ -1,0 +1,278 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 11 2001 North America Earthquake",
+    "totalResults": "773000",
+    "searchTerms": "Jun 11 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 11 2001 North America Earthquake",
+    "totalResults": "773000",
+    "searchTerms": "Jun 11 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.236269,
+  "formattedSearchTime": "0.24",
+  "totalResults": "773000",
+  "formattedTotalResults": "773,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 11 2001 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 11 2001 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of N America Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eN America\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/N_America_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. ... located by the USGS and contributing networks for the Map of N   America Region. ... MAP, 2.6, 2012/12/11 22:29:59, 18.189, -67.095, 11.0,   PUERTO RICO ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e located by the USGS and contributing networks for the Map of \u003cb\u003eN\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e Region. \u003cb\u003e...\u003c/b\u003e MAP, 2.6, 2012/12/\u003cb\u003e11\u003c/b\u003e 22:29:59, 18.189, -67.095, 11.0, \u003cbr\u003e  PUERTO RICO \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LX2-MQ7UV7QJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/.../N_America_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/.../N_\u003cb\u003eAmerica\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Planet X: EARTHQUAKE Increase (Some Supporting Data)",
+   "htmlTitle": "Planet X: \u003cb\u003eEARTHQUAKE\u003c/b\u003e Increase (Some Supporting Data)",
+   "link": "http://www.zetatalk.com/usenet/use00873.htm",
+   "displayLink": "www.zetatalk.com",
+   "snippet": "On (an independently developed group of links to earthquake and ... you will), but   remember that there is a long standing American Indian prophesy which states ...   The quake, which rocked office blocks and homes, was located 20 miles north of   the city ... Monday June 11 4:58 AM ET Aftershocks on Eastern Aegean Islands ...",
+   "htmlSnippet": "On (an independently developed group of links to \u003cb\u003eearthquake\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e you will), but \u003cbr\u003e  remember that there is a long standing \u003cb\u003eAmerican\u003c/b\u003e Indian prophesy which states \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The \u003cb\u003equake\u003c/b\u003e, which rocked office blocks and homes, was located 20 miles \u003cb\u003enorth\u003c/b\u003e of \u003cbr\u003e  the city \u003cb\u003e...\u003c/b\u003e Monday \u003cb\u003eJune 11\u003c/b\u003e 4:58 AM ET Aftershocks on Eastern Aegean Islands \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "i3S-7FHEEsoJ",
+   "formattedUrl": "www.zetatalk.com/usenet/use00873.htm",
+   "htmlFormattedUrl": "www.zetatalk.com/usenet/use00873.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Canada - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Canada - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Canada",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 List of notable earthquakes; 2 See also; 3 References; 4 External links ...   October 20, 1870, 11:30 (local time), Charlevoix, 47.4, -70.5, 6.5 ... 6.3, Ms This   was the first earthquake in eastern North America confirmed to have produced   surface faulting ... see 2001 Nisqually earthquake, 47.15, -122.71, 1 (USA), 6.8,   Mw ...",
+   "htmlSnippet": "1 List of notable \u003cb\u003eearthquakes\u003c/b\u003e; 2 See also; 3 References; 4 External links \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  October 20, 1870, \u003cb\u003e11\u003c/b\u003e:30 (local time), Charlevoix, 47.4, -70.5, 6.5 \u003cb\u003e...\u003c/b\u003e 6.3, Ms This \u003cbr\u003e  was the first \u003cb\u003eearthquake\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e confirmed to have produced \u003cbr\u003e  surface faulting \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e2001\u003c/b\u003e Nisqually \u003cb\u003eearthquake\u003c/b\u003e, 47.15, -122.71, 1 (USA), 6.8, \u003cbr\u003e  Mw \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0gxr8h4LpdYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Canada",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Canada"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on June 11th This Day in History",
+   "htmlTitle": "What Happened on \u003cb\u003eJune 11th\u003c/b\u003e This Day in History",
+   "link": "http://www.thepeoplehistory.com/june11th.html",
+   "displayLink": "www.thepeoplehistory.com",
+   "snippet": "11th June 1937 : Union Men from the United Automobile Workers of America   wanting ... 11th June 1987 : A rare earthquake hit 14 states in the Midwest and   parts of ... 11th June 2001 : Timothy McVeigh was executed by lethal injection for   his ... Specific vaccines are developed and released in North America in late   October.",
+   "htmlSnippet": "11th June 1937 : Union Men from the United Automobile Workers of America \u003cbr\u003e  wanting \u003cb\u003e...\u003c/b\u003e 11th June 1987 : A rare \u003cb\u003eearthquake\u003c/b\u003e hit 14 states in the Midwest and \u003cbr\u003e  parts of \u003cb\u003e...\u003c/b\u003e \u003cb\u003e11th June 2001\u003c/b\u003e : Timothy McVeigh was executed by lethal injection for \u003cbr\u003e  his \u003cb\u003e...\u003c/b\u003e Specific vaccines are developed and released in \u003cb\u003eNorth America\u003c/b\u003e in late \u003cbr\u003e  October.",
+   "cacheId": "vdFj9OpkwVwJ",
+   "formattedUrl": "www.thepeoplehistory.com/june11th.html",
+   "htmlFormattedUrl": "www.thepeoplehistory.com/\u003cb\u003ejune11\u003c/b\u003eth.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "The People History -- Steve Pearson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Investment Management No-Action and Interpretive Letters",
+   "htmlTitle": "Investment Management No-Action and Interpretive Letters",
+   "link": "http://www.sec.gov/divisions/investment/im-noaction.shtml",
+   "displayLink": "www.sec.gov",
+   "snippet": "North American Security Trust and NASL Series Trust, February 2, 1993.   Affiliated ..... Legg Mason Wood Walker, Inc., June 11, 2001; National Football   League ...",
+   "htmlSnippet": "\u003cb\u003eNorth American\u003c/b\u003e Security Trust and NASL Series Trust, February 2, 1993. \u003cbr\u003e  Affiliated \u003cb\u003e.....\u003c/b\u003e Legg Mason Wood Walker, Inc., \u003cb\u003eJune 11\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e; National Football \u003cbr\u003e  League \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0di6tZW17kEJ",
+   "formattedUrl": "www.sec.gov/divisions/investment/im-noaction.shtml",
+   "htmlFormattedUrl": "www.sec.gov/divisions/investment/im-noaction.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worst American Disasters of the Last Century",
+   "htmlTitle": "Worst \u003cb\u003eAmerican\u003c/b\u003e Disasters of the Last Century",
+   "link": "http://disasters.albertarose.org/us_disasters.html",
+   "displayLink": "disasters.albertarose.org",
+   "snippet": "1888: March 11-14: Great White Hurricane, East Coast: The Blizzard of 1888   killed ... 1903: June 14: Flash flood - Heppner, Oregon: The entire village of   Heppner was .... largest earthquake in North America and the second largest   ever recorded ... Flight 11 and United Airlines Flight 175 in the September 11,   2001 attacks.",
+   "htmlSnippet": "1888: March \u003cb\u003e11\u003c/b\u003e-14: Great White Hurricane, East Coast: The Blizzard of 1888 \u003cbr\u003e  killed \u003cb\u003e...\u003c/b\u003e 1903: \u003cb\u003eJune\u003c/b\u003e 14: Flash flood - Heppner, Oregon: The entire village of \u003cbr\u003e  Heppner was \u003cb\u003e....\u003c/b\u003e largest \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eNorth America\u003c/b\u003e and the second largest \u003cbr\u003e  ever recorded \u003cb\u003e...\u003c/b\u003e Flight \u003cb\u003e11\u003c/b\u003e and United Airlines Flight 175 in the September \u003cb\u003e11\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e attacks.",
+   "cacheId": "dRlZFgqEyjEJ",
+   "formattedUrl": "disasters.albertarose.org/us_disasters.html",
+   "htmlFormattedUrl": "disasters.albertarose.org/us_disasters.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://disasters.albertarose.org/images/perfect_storm.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "118",
+      "height": "102",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5w4Nm3U4s-MCY3Lwl_t10eusa-slaPxGfqJmc8603VIS6fouBhShkFA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Supreme Court Rulings | PBS NewsHour | June 11, 2001 | PBS",
+   "htmlTitle": "Supreme Court Rulings | PBS NewsHour | \u003cb\u003eJune 11, 2001\u003c/b\u003e | PBS",
+   "link": "http://www.pbs.org/newshour/bb/law/jan-june01/scotus_6-11.html",
+   "displayLink": "www.pbs.org",
+   "snippet": "ANALYSIS AIR DATE: June 11, 2001 ... and whether American immigration law   can have different standards for men and women. .... April 18, 2001: The U.S.   Supreme Court ruled 5 to 4 race not the consideration in drawing boundaries in a   North Carolina. ... Long After Earthquake, Haiti Still Feels Devastating Effects of ...",
+   "htmlSnippet": "ANALYSIS AIR DATE: \u003cb\u003eJune 11, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e and whether \u003cb\u003eAmerican\u003c/b\u003e immigration law \u003cbr\u003e  can have different standards for men and women. \u003cb\u003e....\u003c/b\u003e April 18, 2001: The U.S. \u003cbr\u003e  Supreme Court ruled 5 to 4 race not the consideration in drawing boundaries in a \u003cbr\u003e  \u003cb\u003eNorth\u003c/b\u003e Carolina. \u003cb\u003e...\u003c/b\u003e Long After \u003cb\u003eEarthquake\u003c/b\u003e, Haiti Still Feels Devastating Effects of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4bTM0cKw5aEJ",
+   "formattedUrl": "www.pbs.org/newshour/bb/law/jan-june01/scotus_6-11.html",
+   "htmlFormattedUrl": "www.pbs.org/newshour/bb/law/jan-\u003cb\u003ejune\u003c/b\u003e01/scotus_6-\u003cb\u003e11\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pbs.org/newshour/images/law/jan-june01/supremecourtwatch.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "85",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTTnqRbHsb5AH95jiIW1p9avCfxdxDrF7EZPHeOyEnmu7dKhZpS1bJQg"
+     }
+    ],
+    "mediaobject": [
+     {
+      "name": "Supreme Court Rulings",
+      "description": "Supreme Court correspondent Marcia Coyle analyzes today's Supreme Court judgments on separation of church and state, search and seizure, and immigration."
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Supreme Court Rulings | PBS NewsHour | June 11, 2001",
+      "date": "2001-06-11T00:00:00-04:00",
+      "author": "PBS NewsHour",
+      "copyright": "Copyright 2011 PBS NewsHour",
+      "og:title": "Supreme Court Rulings | PBS NewsHour | June 11, 2001",
+      "og:description": "Supreme Court correspondent Marcia Coyle analyzes today's Supreme Court judgments on separation of church and state, search and seizure, and immigration.",
+      "og:image": "http://www.pbs.org/newshour/images/law/jan-june01/supremecourtwatch.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Six-year drought of large Pacific Northwest earthquakes | Pacific ...",
+   "htmlTitle": "Six-year drought of large Pacific Northwest \u003cb\u003eearthquakes\u003c/b\u003e | Pacific \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pnsn.org/blog/2012/11/11/six-year-drought-of-large-pacific-northwest-earthquakes",
+   "displayLink": "www.pnsn.org",
+   "snippet": "Nov 11, 2012 ... The line of earthquakes on the left mark deformation of the Juan de Fuca Plate   subducting under the North American Plate. The rest of the ...",
+   "htmlSnippet": "Nov 11, 2012 \u003cb\u003e...\u003c/b\u003e The line of \u003cb\u003eearthquakes\u003c/b\u003e on the left mark deformation of the Juan de Fuca Plate \u003cbr\u003e  subducting under the \u003cb\u003eNorth American\u003c/b\u003e Plate. The rest of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VAbfIKMILQEJ",
+   "formattedUrl": "www.pnsn.org/.../11/11/six-year-drought-of-large-pacific-northwest- earthquakes",
+   "htmlFormattedUrl": "www.pnsn.org/.../\u003cb\u003e11\u003c/b\u003e/\u003cb\u003e11\u003c/b\u003e/six-year-drought-of-large-pacific-\u003cb\u003enorth\u003c/b\u003ewest- \u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pnsn.org/blog/20yr_map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "252",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr9Yz_5OPBfSp8ka8XKyae72xfc6_SJp2EJsmCVDsFCM9Rvs4L5cgPzE0V"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=yes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Five mile long Alaska landslide showed up on earthquake monitors ...",
+   "htmlTitle": "Five mile long Alaska landslide showed up on \u003cb\u003eearthquake\u003c/b\u003e monitors \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dailymail.co.uk/news/article-2173372/Five-mile-long-Alaska-landslide-showed-earthquake-monitors.html",
+   "displayLink": "www.dailymail.co.uk",
+   "snippet": "Jul 13, 2012 ... When the cliff collapsed in the park in southeast Alaska on June 11, it sent ...   glacier in what could be the largest landslide recorded in North America. ...... after   the rapper headlined Reading in 2001; She's got her hands full!",
+   "htmlSnippet": "Jul 13, 2012 \u003cb\u003e...\u003c/b\u003e When the cliff collapsed in the park in southeast Alaska on \u003cb\u003eJune 11\u003c/b\u003e, it sent \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  glacier in what could be the largest landslide recorded in \u003cb\u003eNorth America\u003c/b\u003e. \u003cb\u003e......\u003c/b\u003e after \u003cbr\u003e  the rapper headlined Reading in \u003cb\u003e2001\u003c/b\u003e; She&#39;s got her hands full!",
+   "formattedUrl": "www.dailymail.co.uk/.../Five-mile-long-Alaska-landslide-showed-earthquake -monitors.html",
+   "htmlFormattedUrl": "www.dailymail.co.uk/.../Five-mile-long-Alaska-landslide-showed-\u003cb\u003eearthquake\u003c/b\u003e -monitors.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.dailymail.co.uk/i/pix/2012/07/13/article-2173372-140DD3F9000005DC-843_634x419.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "182",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQooTadnf9Mvq-okzUn1cSJbu0PY-EtLXe2OnVld0s548--sm3U1wbJs9y7"
+     }
+    ],
+    "metatags": [
+     {
+      "channel": "News",
+      "msvalidate.01": "12E6B4B813EB44C9BFC8F6A21F1D01F5",
+      "y_key": "1a7e912afbfcab2f",
+      "rating": "General",
+      "doc-class": "Living Document",
+      "original-source": "http://www.dailymail.co.uk/news/article-2173372/Five-mile-long-Alaska-landslide-showed-earthquake-monitors.html",
+      "articleid": "2173372",
+      "divclasspage": "articlePage",
+      "dartpagetype": "art",
+      "og:title": "Is this America's biggest landslide ever? Five mile long Alaska glacier collapse showed up on EARTHQUAKE monitors (but no one noticed it for a MONTH)",
+      "og:type": "article",
+      "og:url": "http://www.dailymail.co.uk/news/article-2173372/Five-mile-long-Alaska-landslide-showed-earthquake-monitors.html",
+      "og:image": "http://i.dailymail.co.uk/i/pix/2012/07/13/article-2173372-140DD3F9000005DC-523_308x185.jpg",
+      "og:site_name": "Mail Online",
+      "fb:app_id": "146202712090395",
+      "og:description": "The monumental geophysical event in Glacier Bay National Park was overlooked until a pilot happened to fly over where the cliff collapsed and snapped some photographs.",
+      "article:published_time": "2012-07-13 22:52:55 UTC",
+      "article:modified_time": "2012-07-14 02:02:48 UTC",
+      "article:tag": "Five mile long Alaska landslide showed earthquake monitors",
+      "article:section": "News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "David M. Boore pubs online",
+   "htmlTitle": "David M. Boore pubs online",
+   "link": "http://www.daveboore.com/pubs_online.php",
+   "displayLink": "www.daveboore.com",
+   "snippet": "Empirical improvements for estimating earthquake response spectra with random  -vibration .... on Earthquake Engineering,, Ottawa, Ontario, Canada, 26-29 June   2007, ... Earthquake ground-motion prediction equations for eastern North   America, Bull. .... Gibbs, J. F., D. M. Boore, J. C. Tinsley, and C. S. Mueller (2001).",
+   "htmlSnippet": "Empirical improvements for estimating \u003cb\u003eearthquake\u003c/b\u003e response spectra with random\u003cbr\u003e  -vibration \u003cb\u003e....\u003c/b\u003e on \u003cb\u003eEarthquake\u003c/b\u003e Engineering,, Ottawa, Ontario, Canada, 26-29 \u003cb\u003eJune\u003c/b\u003e \u003cbr\u003e  2007, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e ground-motion prediction equations for eastern \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e, Bull. \u003cb\u003e....\u003c/b\u003e Gibbs, J. F., D. M. Boore, J. C. Tinsley, and C. S. Mueller (\u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "RaE5TqxKYpQJ",
+   "formattedUrl": "www.daveboore.com/pubs_online.php",
+   "htmlFormattedUrl": "www.daveboore.com/pubs_online.php"
+  }
+ ]
+}

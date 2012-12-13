@@ -1,0 +1,295 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 11 2001 North America Earthquake",
+    "totalResults": "801000",
+    "searchTerms": "Sep 11 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 11 2001 North America Earthquake",
+    "totalResults": "801000",
+    "searchTerms": "Sep 11 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.250865,
+  "formattedSearchTime": "0.25",
+  "totalResults": "801000",
+  "formattedTotalResults": "801,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 11 2001 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 11 2001 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Observations during September 11, 2001, Terrorist Attack",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Observations during \u003cb\u003eSeptember 11, 2001\u003c/b\u003e, Terrorist Attack",
+   "link": "http://www.mgs.md.gov/esic/publications/download/911pentagon.pdf",
+   "displayLink": "www.mgs.md.gov",
+   "snippet": "Sep 11, 2001 ... Pentagon attack on September 11, 2001 based upon our seismic .... Kim, Won-  Young, The ML scale in eastern North America, Bulletine of the ...",
+   "htmlSnippet": "Sep 11, 2001 \u003cb\u003e...\u003c/b\u003e Pentagon attack on \u003cb\u003eSeptember 11, 2001\u003c/b\u003e based upon our \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Kim, Won-\u003cbr\u003e  Young, The ML scale in eastern \u003cb\u003eNorth America\u003c/b\u003e, Bulletine of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "djGz4GqDyN4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.mgs.md.gov/esic/publications/download/911pentagon.pdf",
+   "htmlFormattedUrl": "www.mgs.md.gov/esic/publications/download/911pentagon.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20020310175908",
+      "producer": "Acrobat Distiller Command 3.01 for Solaris 2.3 and later (SPARC)",
+      "author": "wykim",
+      "creator": "dvips(k) 5.86 Copyright 1999 Radical Eye Software",
+      "title": "pentagon.dvi",
+      "moddate": "D:20020314123938-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Report On Seismic Activity Due To WTC Collapse.",
+   "htmlTitle": "Report On \u003cb\u003eSeismic\u003c/b\u003e Activity Due To WTC Collapse.",
+   "link": "http://911research.wtc7.net/mirrors/guardian/WTC/Seismic/WTC_LDEO_KIM.htm",
+   "displayLink": "911research.wtc7.net",
+   "snippet": "an attempt to uncover the truth about September 11th 2001 ... observed for the   largest waves from earthquakes at regional distances in eastern North America.",
+   "htmlSnippet": "an attempt to uncover the truth about \u003cb\u003eSeptember 11th 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e observed for the \u003cbr\u003e  largest waves from \u003cb\u003eearthquakes\u003c/b\u003e at regional distances in eastern \u003cb\u003eNorth America\u003c/b\u003e.",
+   "cacheId": "onLaMov9S4UJ",
+   "formattedUrl": "911research.wtc7.net/mirrors/.../Seismic/WTC_LDEO_KIM.htm",
+   "htmlFormattedUrl": "911research.wtc7.net/mirrors/.../\u003cb\u003eSeismic\u003c/b\u003e/WTC_LDEO_KIM.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://911research.wtc7.net/mirrors/guardian/WTC/Seismic/kim-wtc-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "177",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYP0Y21thjV26HlxuR_f1jNkuDHtolshOZ9U9aVUSD7_DiowglEO_elkvj"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A New Study of The Seismic Signals on September 11, 2001 in New ...",
+   "htmlTitle": "A New Study of The \u003cb\u003eSeismic\u003c/b\u003e Signals on \u003cb\u003eSeptember 11, 2001\u003c/b\u003e in New \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_911_160.htm",
+   "displayLink": "www.bibliotecapleyades.net",
+   "snippet": "Jun 4, 2010 ... Seismic signals were recorded on September 11 2001 during the period ... it is   the Palisades recording station, located 34 km north-east of Manhattan, ..... New   York City, Eos, Transactions, American Geophysical Union, Vol.",
+   "htmlSnippet": "Jun 4, 2010 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeismic\u003c/b\u003e signals were recorded on \u003cb\u003eSeptember 11 2001\u003c/b\u003e during the period \u003cb\u003e...\u003c/b\u003e it is \u003cbr\u003e  the Palisades recording station, located 34 km \u003cb\u003enorth\u003c/b\u003e-east of Manhattan, \u003cb\u003e.....\u003c/b\u003e New \u003cbr\u003e  York City, Eos, Transactions, \u003cb\u003eAmerican\u003c/b\u003e Geophysical Union, Vol.",
+   "cacheId": "2CFXa5LK4mcJ",
+   "formattedUrl": "www.bibliotecapleyades.net/sociopolitica/esp_sociopol_911_160.htm",
+   "htmlFormattedUrl": "www.bibliotecapleyades.net/sociopolitica/esp_sociopol_911_160.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bibliotecapleyades.net/imagenes_titulos/911_160.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "334",
+      "height": "110",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVPfg5EUMs29B-OJ_096czsUDlz21BzYKLoR8_6WHUVhaD2_-Y9Ell1Gk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on September 11, 2001?",
+   "htmlTitle": "What Happened on \u003cb\u003eSeptember 11, 2001\u003c/b\u003e?",
+   "link": "http://www.wisegeek.com/what-happened-on-september-11-2001.htm",
+   "displayLink": "www.wisegeek.com",
+   "snippet": "Sep 11, 2001 ... On September 11, 2001 at 8:46 a.m. Eastern time, American Airlines Flight 11   was flown into the north tower of the World Trade Center. ..... Like how we helped   Haiti during the earthquake and also helped Japan's recent and ...",
+   "htmlSnippet": "Sep 11, 2001 \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eSeptember 11, 2001\u003c/b\u003e at 8:46 a.m. Eastern time, \u003cb\u003eAmerican\u003c/b\u003e Airlines Flight 11 \u003cbr\u003e  was flown into the \u003cb\u003enorth\u003c/b\u003e tower of the World Trade Center. \u003cb\u003e.....\u003c/b\u003e Like how we helped \u003cbr\u003e  Haiti during the \u003cb\u003eearthquake\u003c/b\u003e and also helped Japan&#39;s recent and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JWFqBuqypc4J",
+   "formattedUrl": "www.wisegeek.com/what-happened-on-september-11-2001.htm",
+   "htmlFormattedUrl": "www.wisegeek.com/what-happened-on-\u003cb\u003eseptember\u003c/b\u003e-\u003cb\u003e11\u003c/b\u003e-\u003cb\u003e2001\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.wisegeek.com/images/people/define-1.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "210552350553",
+      "og:type": "article",
+      "og:site_name": "wiseGEEK",
+      "og:url": "http://www.wisegeek.com/what-happened-on-september-11-2001.htm",
+      "og:image": "http://www.wisegeek.com/images/people/define-1.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Overview of Damage to Buildings Near Ground Zero Overview of ...",
+   "htmlTitle": "Overview of Damage to Buildings Near Ground Zero Overview of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://mceer.buffalo.edu/publications/wtc/02-SP02Screen.pdf",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "The Multidisciplinary Center for Earthquake Engineering Research (MCEER) is a   national center ... The terrorist attack that took place on September 11, 2001 in   New York City resulted in ... the most deadly and costly disasters in U. S. history.   In a very .... plane, flying southward, impacted the North side of the tower head-on  , ...",
+   "htmlSnippet": "The Multidisciplinary Center for \u003cb\u003eEarthquake\u003c/b\u003e Engineering Research (MCEER) is a \u003cbr\u003e  national center \u003cb\u003e...\u003c/b\u003e The terrorist attack that took place on \u003cb\u003eSeptember 11, 2001\u003c/b\u003e in \u003cbr\u003e  New York City resulted in \u003cb\u003e...\u003c/b\u003e the most deadly and costly disasters in \u003cb\u003eU. S.\u003c/b\u003e history. \u003cbr\u003e  In a very \u003cb\u003e....\u003c/b\u003e plane, flying southward, impacted the \u003cb\u003eNorth\u003c/b\u003e side of the tower head-on\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "mceer.buffalo.edu/publications/wtc/02-SP02Screen.pdf",
+   "htmlFormattedUrl": "mceer.buffalo.edu/publications/wtc/02-SP02Screen.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20020501125632Z",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "moddate": "D:20020508163843-04'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Urban Earthquakes, Nuclear Bombs and 9/11 - The Earth Institute ...",
+   "htmlTitle": "Urban \u003cb\u003eEarthquakes\u003c/b\u003e, Nuclear Bombs and 9/\u003cb\u003e11\u003c/b\u003e - The Earth Institute \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.earth.columbia.edu/articles/view/2278",
+   "displayLink": "www.earth.columbia.edu",
+   "snippet": "Oct 7, 2008... Seismological Association Award from the Seismological Society of America   for his ... Among other things, he has assessed earthquake hazards in New York   City ... On Sept. 11, 2001, the Lamont network recorded the impacts of two jets ...   On Oct. 9, 2006, when North Korea claimed it had carried out a ...",
+   "htmlSnippet": "Oct 7, 2008\u003cb\u003e...\u003c/b\u003e Seismological Association Award from the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e \u003cbr\u003e  for his \u003cb\u003e...\u003c/b\u003e Among other things, he has assessed \u003cb\u003eearthquake\u003c/b\u003e hazards in New York \u003cbr\u003e  City \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eSept. 11, 2001\u003c/b\u003e, the Lamont network recorded the impacts of two jets \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  On Oct. 9, 2006, when \u003cb\u003eNorth\u003c/b\u003e Korea claimed it had carried out a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BbwhOJ4fIXEJ",
+   "formattedUrl": "www.earth.columbia.edu/articles/view/2278",
+   "htmlFormattedUrl": "www.earth.columbia.edu/articles/view/2278",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.earth.columbia.edu/sitefiles/image/press_room/press_releases/Won-Young_Kim.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "152",
+      "height": "159",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqW82r-ObB2QEqBt0Rkbl9XGLqSJyIaLEN01kPx_Jpv5RuaPG79B13K8g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Were Explosives the Source of the Seismic Signals Emitted from ...",
+   "htmlTitle": "Were Explosives the Source of the \u003cb\u003eSeismic\u003c/b\u003e Signals Emitted from \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.911truth.org/article.php?story=20120120134709791",
+   "displayLink": "www.911truth.org",
+   "snippet": "Jan 20, 2012 ... Seismic signals were recorded at stations in New York and four neighboring   states on September 11, 2001 during the period when the North and South .....   Speed Study, American Airlines Flight 11, United Airlines Flight 175,\" ...",
+   "htmlSnippet": "Jan 20, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeismic\u003c/b\u003e signals were recorded at stations in New York and four neighboring \u003cbr\u003e  states on \u003cb\u003eSeptember 11, 2001\u003c/b\u003e during the period when the \u003cb\u003eNorth\u003c/b\u003e and South \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Speed Study, \u003cb\u003eAmerican\u003c/b\u003e Airlines Flight 11, United Airlines Flight 175,&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oIkDvhwZfTMJ",
+   "formattedUrl": "www.911truth.org/article.php?story=20120120134709791",
+   "htmlFormattedUrl": "www.911truth.org/article.php?story=20120120134709791",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Andr?? Rousseau"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Pentagon - Wikipedia, the free encyclopedia",
+   "htmlTitle": "The Pentagon - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/The_Pentagon",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Designed by the American architect George Bergstrom (1876???1955), and nuary   15, ... On September 11, 2001, exactly 60 years after the building's   groundbreaking, hijacked ... 1.4 September 11 attacks; 1.5 Shooting incidents;   1.6 Earthquake ..... It has five fa??ades, listed starting with the north side and   moving clockwise: the ...",
+   "htmlSnippet": "Designed by the \u003cb\u003eAmerican\u003c/b\u003e architect George Bergstrom (1876???1955), and nuary \u003cbr\u003e  15, \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eSeptember 11\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, exactly 60 years after the building&#39;s \u003cbr\u003e  groundbreaking, hijacked \u003cb\u003e...\u003c/b\u003e 1.4 September 11 attacks; 1.5 Shooting incidents; \u003cbr\u003e  1.6 \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e It has five fa??ades, listed starting with the \u003cb\u003enorth\u003c/b\u003e side and \u003cbr\u003e  moving clockwise: the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5fec8QoOT6EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/The_Pentagon",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/The_Pentagon",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pentagon_vietnam_protests.jpg/275px-Pentagon_vietnam_protests.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "220",
+      "height": "195",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnbE3bQwAGtbkrgUU55hLQ4sxEORHkk8S6LNDmpbqghNC4clFCtw7qoobL"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "The Pentagon",
+      "label": "Arlington County, Virginia",
+      "category": "Complete",
+      "note": "Completed January 15, 1943"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "911Timeline.net - The Most Comprehensive Minute By Minute ...",
+   "htmlTitle": "911Timeline.net - The Most Comprehensive Minute By Minute \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.911timeline.net/",
+   "displayLink": "www.911timeline.net",
+   "snippet": "On September 11, 2001 there were three such structures, which fell, World Trade   .... over North America, so they must have known that American Airlines Flight 11   was ..... 9:23 a.m.: A sonic boom occurs, which was picked up by an earthquake ...",
+   "htmlSnippet": "On \u003cb\u003eSeptember 11, 2001\u003c/b\u003e there were three such structures, which fell, World Trade \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e over \u003cb\u003eNorth America\u003c/b\u003e, so they must have known that American Airlines Flight 11 \u003cbr\u003e  was \u003cb\u003e.....\u003c/b\u003e 9:23 a.m.: A sonic boom occurs, which was picked up by an \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "j8JnTcX1vRkJ",
+   "formattedUrl": "www.911timeline.net/",
+   "htmlFormattedUrl": "www.911timeline.net/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.911timeline.net/911timeline.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "277",
+      "height": "182",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRTdvGSAkwcjcNhcUdFGc7dsVQBQEo2qlzffwTiw14ckurVtPyhdm-cOOg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Evidence Implies Controlled Demolition on 9/11 ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Evidence Implies Controlled Demolition on 9/\u003cb\u003e11\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.washingtonsblog.com/2012/12/seismic-evidence-prove-controlled-demolition-on-911.html",
+   "displayLink": "www.washingtonsblog.com",
+   "snippet": "Dec 1, 2012 ... Rousseau says that the seismic waves measured on September 11th proves ...   The seismic signals propagating from New York on September 11, 2001, ....   problem between Jews and Muslims stop affecting North America.",
+   "htmlSnippet": "Dec 1, 2012 \u003cb\u003e...\u003c/b\u003e Rousseau says that the \u003cb\u003eseismic\u003c/b\u003e waves measured on September 11th proves \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The \u003cb\u003eseismic\u003c/b\u003e signals propagating from New York on \u003cb\u003eSeptember 11, 2001\u003c/b\u003e, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  problem between Jews and Muslims stop affecting \u003cb\u003eNorth America\u003c/b\u003e.",
+   "cacheId": "YdLc1Vk5bIkJ",
+   "formattedUrl": "www.washingtonsblog.com/.../seismic-evidence-prove-controlled-demolition -on-911.html",
+   "htmlFormattedUrl": "www.washingtonsblog.com/.../\u003cb\u003eseismic\u003c/b\u003e-evidence-prove-controlled-demolition -on-911.html"
+  }
+ ]
+}

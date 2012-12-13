@@ -1,0 +1,342 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 7 1931 Eurasia Earthquake",
+    "totalResults": "8880",
+    "searchTerms": "Jun 7 1931 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 7 1931 Eurasia Earthquake",
+    "totalResults": "8880",
+    "searchTerms": "Jun 7 1931 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.200103,
+  "formattedSearchTime": "0.20",
+  "totalResults": "8880",
+  "formattedTotalResults": "8,880"
+ },
+ "spelling": {
+  "correctedQuery": "June 7 1931 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 7 1931 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African ... The North Sea earthquake of 7 June 1931, with a magnitude of 6.1ML   and ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African \u003cb\u003e...\u003c/b\u003e The North Sea \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e7 June 1931\u003c/b\u003e, with a magnitude of 6.1ML \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1755 Lisbon earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1755 Lisbon \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1755 Lisbon earthquake, also known as the Great Lisbon Earthquake, ...   Effect on society and philosophy; 5 Development of seismology; 6 See also; 7   Notes ... boundary between the African (Nubian) and the Eurasian continental   plates, ..... this one, from 1931, discusses the Lisbon earthquake and summarizes   some of ...",
+   "htmlSnippet": "The 1755 Lisbon \u003cb\u003eearthquake\u003c/b\u003e, also known as the Great Lisbon \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Effect on society and philosophy; 5 Development of seismology; 6 See also; \u003cb\u003e7\u003c/b\u003e \u003cbr\u003e  Notes \u003cb\u003e...\u003c/b\u003e boundary between the African (Nubian) and the \u003cb\u003eEurasian\u003c/b\u003e continental \u003cbr\u003e  plates, \u003cb\u003e.....\u003c/b\u003e this one, from \u003cb\u003e1931\u003c/b\u003e, discusses the Lisbon \u003cb\u003eearthquake\u003c/b\u003e and summarizes \u003cbr\u003e  some of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nCYGiJNDfNQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1755_Lisbon_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1755_Lisbon_Earthquake_Location.gif/240px-1755_Lisbon_Earthquake_Location.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "244",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjIgEQAQuNycIU8UKb4-dpEYE67xFco8cTRdBkFKtTcsX3iB-AU-Uaxcft"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "1755-11",
+      "summary": "1755 Lisbon earthquake"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "1755-11",
+      "summary": "1755 Lisbon earthquake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BBC NEWS | UK | Q&A: Kent earthquake",
+   "htmlTitle": "BBC NEWS | UK | Q&amp;A: Kent \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://news.bbc.co.uk/2/hi/uk_news/6603169.stm",
+   "displayLink": "news.bbc.co.uk",
+   "snippet": "Apr 29, 2007 ... An earthquake with a magnitude of at least 4.3 has damaged homes and   disrupted electricity supplies in Kent. ... The UK is on the British Eurasian plate. ...   of Great Yarmouth in the North Sea on 7 June, 1931 - it measured 6.1 ...",
+   "htmlSnippet": "Apr 29, 2007 \u003cb\u003e...\u003c/b\u003e An \u003cb\u003eearthquake\u003c/b\u003e with a magnitude of at least 4.3 has damaged homes and \u003cbr\u003e  disrupted electricity supplies in Kent. \u003cb\u003e...\u003c/b\u003e The UK is on the British \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  of Great Yarmouth in the North Sea on \u003cb\u003e7 June, 1931\u003c/b\u003e - it measured 6.1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "G9bU9fZnTiUJ",
+   "formattedUrl": "news.bbc.co.uk/2/hi/uk_news/6603169.stm",
+   "htmlFormattedUrl": "news.bbc.co.uk/2/hi/uk_news/6603169.stm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://newsimg.bbc.co.uk/media/images/42859000/jpg/_42859185_firefighter_getty203b.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "162",
+      "height": "121",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRD1GvdCGWkvWUa2Ib-OscfQLma1zfqtG8eln4EiacUiU_unN3UDxaEjg"
+     }
+    ],
+    "metatags": [
+     {
+      "contentflavor": "STORY",
+      "originalpublicationdate": "2007/04/29 07:34:39",
+      "ukfs_url": "/1/hi/uk/6603169.stm",
+      "ifs_url": "/2/hi/uk_news/6603169.stm",
+      "headline": "Q&A: Kent earthquake",
+      "section": "UK",
+      "thumbnail_url": "http://newsimg.bbc.co.uk/media/images/42859000/jpg/_42859203_oldladykent_getty203i.jpg",
+      "viewport": "width=760"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "6 Major earthquakes; 7 Prediction; 8 Preparedness; 9 Historical views .... Another   example is the strongly oblique convergent plate boundary between the Arabian   and Eurasian plates where .... The number of seismic stations has increased from   about 350 in 1931 to many thousands today ..... Madrigal, Alexis (4 June 2008).",
+   "htmlSnippet": "6 Major \u003cb\u003eearthquakes\u003c/b\u003e; \u003cb\u003e7\u003c/b\u003e Prediction; 8 Preparedness; 9 Historical views \u003cb\u003e....\u003c/b\u003e Another \u003cbr\u003e  example is the strongly oblique convergent plate boundary between the Arabian \u003cbr\u003e  and \u003cb\u003eEurasian\u003c/b\u003e plates where \u003cb\u003e....\u003c/b\u003e The number of \u003cb\u003eseismic\u003c/b\u003e stations has increased from \u003cbr\u003e  about 350 in \u003cb\u003e1931\u003c/b\u003e to many thousands today \u003cb\u003e.....\u003c/b\u003e Madrigal, Alexis (4 \u003cb\u003eJune\u003c/b\u003e 2008).",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ?????????, ????????? ???????????? ?????? ????????? ????????? ???????????? ????????????. ?????? ????????? ?????? ??? ??????????????? ??????????????? ???????????? ?????? ????????? ??????????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes: An Introduction",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e: An Introduction",
+   "link": "http://www.slideshare.net/kevinrchapman/earthquakes-an-introduction-3239394",
+   "displayLink": "www.slideshare.net",
+   "snippet": "Feb 21, 2010 ... Chapter 8outline; Earthquakes; Planet earth earthquake notes; Earth 2011-lec-02   .... and collides with the Eurasian plate which is moving southeast. .... The North   Sea earthquake of 7 June 1931, with a magnitude of 6.1ML ...",
+   "htmlSnippet": "Feb 21, 2010 \u003cb\u003e...\u003c/b\u003e Chapter 8outline; \u003cb\u003eEarthquakes\u003c/b\u003e; Planet earth \u003cb\u003eearthquake\u003c/b\u003e notes; Earth 2011-lec-02 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e and collides with the \u003cb\u003eEurasian\u003c/b\u003e plate which is moving southeast. \u003cb\u003e....\u003c/b\u003e The North \u003cbr\u003e  Sea \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e7 June 1931\u003c/b\u003e, with a magnitude of 6.1ML \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FmQ86g6gEMMJ",
+   "formattedUrl": "www.slideshare.net/.../earthquakes-an-introduction-3239394",
+   "htmlFormattedUrl": "www.slideshare.net/.../\u003cb\u003eearthquakes\u003c/b\u003e-an-introduction-3239394",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.slidesharecdn.com/ss_thumbnails/haiti-oneyearon-110221003042-phpapp02-thumbnail-2.jpg?1298269946"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwK5cKZOuxQZDhfnIfSai4HZXbY8H6g03Bp6KE9QOR6J1TTUPBSSiB"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1024",
+      "fb_app_id": "2490221586",
+      "og_type": "slideshare:presentation",
+      "og_url": "http://www.slideshare.net/kevinrchapman/earthquakes-an-introduction-3239394",
+      "og_image": "http://image.slidesharecdn.com/earthquakes-introduction-100221125939-phpapp01/95/slide-1-1024.jpg",
+      "og_title": "Earthquakes: An Introduction",
+      "og_description": "Earthquakes \u003cul\u003e\u003cli\u003eImage: Port-au-Prince, Haiti 12 January 2010 \u003c/li\u003e\u003c/ul\u003e",
+      "slideshow_published_time": "2010-02-21T12:59:38-06:00",
+      "slideshow_author": "http://www.slideshare.net/kevinrchapman",
+      "slideshow_view_count": "1791",
+      "slideshow_embed_count": "1",
+      "slideshow_comment_count": "0",
+      "slideshow_download_count": "100",
+      "slideshow_created_at": "Sun Feb 21 12:59:38 -0600 2010",
+      "slideshow_updated_at": "Sun Feb 21 13:01:26 -0600 2010",
+      "slideshow_favorites_count": "0",
+      "slideshow_category": "Education"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seamount subduction and earthquakes",
+   "htmlTitle": "seamount subduction and \u003cb\u003eearthquakes\u003c/b\u003e",
+   "link": "http://www.tos.org/oceanography/archive/23-1_watts.pdf",
+   "displayLink": "www.tos.org",
+   "snippet": "location of the 1982 Mw = 7.0 earthquake ... ce to: in fo@to. s.o rg o r Th e o cean   o g rap h. y s o ciety, P o. B o x 1931, r o ck v ille. , M d ..... M~7 earthquakes.",
+   "htmlSnippet": "location of the 1982 Mw = 7.0 \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e ce to: in fo@to. s.o rg o r Th e o cean \u003cbr\u003e  o g rap h. y s o ciety, P o. B o x \u003cb\u003e1931\u003c/b\u003e, r o ck v ille. , M d \u003cb\u003e.....\u003c/b\u003e M~\u003cb\u003e7 earthquakes\u003c/b\u003e.",
+   "cacheId": "vDJcfBPDhJAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.tos.org/oceanography/archive/23-1_watts.pdf",
+   "htmlFormattedUrl": "www.tos.org/oceanography/archive/23-1_watts.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100222103108-07'00'",
+      "creator": "Adobe InDesign CS3 (5.0.4)",
+      "producer": "Adobe PDF Library 8.0",
+      "moddate": "D:20100222103112-07'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Curriculum Vitae Roger Bilham",
+   "htmlTitle": "Curriculum Vitae Roger Bilham",
+   "link": "http://cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "7. Bilham, The 1737 Calcutta Earthquake and Cyclone Evaluated, Bull. ... of   Kachchh, India, 16 June 1819, earthquake, quantified from contemporary   accounts. ... J. Freymueller, Kinematics of the India-Eurasia Collision Zone from   GPS measurements. ..... fold belt: Evidence from the 1931 Mach Earthquake in   Baluchistan.",
+   "htmlSnippet": "\u003cb\u003e7\u003c/b\u003e. Bilham, The 1737 Calcutta \u003cb\u003eEarthquake\u003c/b\u003e and Cyclone Evaluated, Bull. \u003cb\u003e...\u003c/b\u003e of \u003cbr\u003e  Kachchh, India, 16 \u003cb\u003eJune\u003c/b\u003e 1819, \u003cb\u003eearthquake\u003c/b\u003e, quantified from contemporary \u003cbr\u003e  accounts. \u003cb\u003e...\u003c/b\u003e J. Freymueller, Kinematics of the India-\u003cb\u003eEurasia\u003c/b\u003e Collision Zone from \u003cbr\u003e  GPS measurements. \u003cb\u003e.....\u003c/b\u003e fold belt: Evidence from the \u003cb\u003e1931\u003c/b\u003e Mach \u003cb\u003eEarthquake\u003c/b\u003e in \u003cbr\u003e  Baluchistan.",
+   "cacheId": "zPj_TcY3wqsJ",
+   "formattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Curriculum Vitae  Roger Bilham",
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 14"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The accommodation of Arabia-Eurasia Plate convergence in Iran",
+   "htmlTitle": "The accommodation of Arabia-\u003cb\u003eEurasia\u003c/b\u003e Plate convergence in Iran",
+   "link": "http://www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "displayLink": "www.agu.org",
+   "snippet": "Continental convergence between Arabia and Eurasia is taken up by distributed   ..... largest earthquake in our data set is that of June 20, 1990 .... April 7, 1931 ...",
+   "htmlSnippet": "Continental convergence between Arabia and \u003cb\u003eEurasia\u003c/b\u003e is taken up by distributed \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e largest \u003cb\u003eearthquake\u003c/b\u003e in our data set is that of \u003cb\u003eJune\u003c/b\u003e 20, 1990 \u003cb\u003e....\u003c/b\u003e April \u003cb\u003e7\u003c/b\u003e, \u003cb\u003e1931\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "htmlFormattedUrl": "www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "James Jackson, John Haines, William Holt",
+      "creationdate": "D:20070524134205Z",
+      "creator": "www.PrincetonImaging.com",
+      "moddate": "D:20121011152108-04'00'",
+      "producer": "escape 1.1",
+      "subject": "Tectonophysics: Continental neotectonics; Seismology: Seismicity and seismotectonics; Tectonophysics: Dynamics, seismotectonics; Tectonophysics: Continental tectonics&mdash;general",
+      "title": "The accommodation of Arabia-Eurasia Plate convergence in Iran"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STATUS OF SEISMICITY IN THE NORTHEAST INDIA AND ...",
+   "htmlTitle": "STATUS OF SEISMICITY IN THE NORTHEAST INDIA AND \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "displayLink": "gbpihedenvis.nic.in",
+   "snippet": "The region has experienced 18 large earthquakes (M ??7) during the last hundred   ... to the collision tectonics between the Indian plate and the Eurasian plate in the   north and ... January 27, 1931. 7.6 ... It occurred on 12th June, 1897 at 5:15 pm.",
+   "htmlSnippet": "The region has experienced 18 large \u003cb\u003eearthquakes\u003c/b\u003e (M ??\u003cb\u003e7\u003c/b\u003e) during the last hundred \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e to the collision tectonics between the Indian plate and the \u003cb\u003eEurasian\u003c/b\u003e plate in the \u003cbr\u003e  north and \u003cb\u003e...\u003c/b\u003e January 27, \u003cb\u003e1931\u003c/b\u003e. 7.6 \u003cb\u003e...\u003c/b\u003e It occurred on 12th \u003cb\u003eJune\u003c/b\u003e, 1897 at 5:15 pm.",
+   "cacheId": "1na7jotAy7UJ",
+   "formattedUrl": "gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "htmlFormattedUrl": "gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "ricepapr 001"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The March 11, 2011 Mw 8.9 Sendai, Japan, earthquake : a ...",
+   "htmlTitle": "The March 11, 2011 Mw 8.9 Sendai, Japan, \u003cb\u003eearthquake\u003c/b\u003e : a \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ceas.iisc.ernet.in/events/Japan2011-1.pdf",
+   "displayLink": "ceas.iisc.ernet.in",
+   "snippet": "Mar 11, 2011 ... the west beneath Eurasia. Deformation of the ... zone has hosted 9 events of   magnitude 7 or ... In June of 1978, an Mw 7.7 earthquake 35 km occurred to its   southwest. ... 1931 03 09 0348 40.4 142.6 35 7.7. 1933 03 02 1731 ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e the west beneath \u003cb\u003eEurasia\u003c/b\u003e. Deformation of the \u003cb\u003e...\u003c/b\u003e zone has hosted 9 events of \u003cbr\u003e  magnitude \u003cb\u003e7\u003c/b\u003e or \u003cb\u003e...\u003c/b\u003e In \u003cb\u003eJune\u003c/b\u003e of 1978, an Mw 7.7 \u003cb\u003eearthquake\u003c/b\u003e 35 km occurred to its \u003cbr\u003e  southwest. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1931\u003c/b\u003e 03 09 0348 40.4 142.6 35 7.7. 1933 03 02 1731 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GGrg_AxRG-wJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ceas.iisc.ernet.in/events/Japan2011-1.pdf",
+   "htmlFormattedUrl": "ceas.iisc.ernet.in/events/Japan2011-1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Kusala Rajendran",
+      "creationdate": "D:20110314141407+05'30'",
+      "creator": "Microsoft PowerPoint: cgpdftops CUPS filter",
+      "moddate": "D:20110314141407+05'30'",
+      "producer": "Acrobat Distiller 9.0.0 (Macintosh)",
+      "title": "poster_final_japan2.pptx"
+     }
+    ]
+   }
+  }
+ ]
+}

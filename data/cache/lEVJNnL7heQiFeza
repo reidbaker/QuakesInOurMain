@@ -1,0 +1,217 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 24 2001 Africa Earthquake",
+    "totalResults": "771000",
+    "searchTerms": "Jan 24 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 24 2001 Africa Earthquake",
+    "totalResults": "771000",
+    "searchTerms": "Jan 24 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.331106,
+  "formattedSearchTime": "0.33",
+  "totalResults": "771000",
+  "formattedTotalResults": "771,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Free State, South Africa",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Free State, South \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/p/south-africa/free-state/recent",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Free State, South Africa has had: 0 earthquakes today; 0 earthquakes in the past   7 days; 0 earthquakes in the past month; 1 earthquake in the past year ...",
+   "htmlSnippet": "Free State, South \u003cb\u003eAfrica\u003c/b\u003e has had: 0 \u003cb\u003eearthquakes\u003c/b\u003e today; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the past \u003cbr\u003e  7 days; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the past month; 1 \u003cb\u003eearthquake\u003c/b\u003e in the past year \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SeyZeAI58R4J",
+   "formattedUrl": "earthquaketrack.com/p/south-africa/free-state/recent",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/p/south-\u003cb\u003eafrica\u003c/b\u003e/free-state/recent",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "1VmuXVRUxWdXUmPB00JcsJN8mF2Iwrgjt3A6zpTvC3o="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 1, 2001, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5 ...   February 24, 2001, 07:23, Northern Molucca Sea, 1.271, 126.249 ...",
+   "htmlSnippet": "\u003cb\u003eJanuary\u003c/b\u003e 1, \u003cb\u003e2001\u003c/b\u003e, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  February \u003cb\u003e24\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, 07:23, Northern Molucca Sea, 1.271, 126.249 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on January 24th This Day in History",
+   "htmlTitle": "What Happened on \u003cb\u003eJanuary 24th\u003c/b\u003e This Day in History",
+   "link": "http://www.thepeoplehistory.com/january24th.html",
+   "displayLink": "www.thepeoplehistory.com",
+   "snippet": "For Those With Birthdays 24th January looking for specific year these years are ...   1939 : 30,000 people are killed by a magnitude 8.3 devastating earthquake in ...   to the murder of Emmett Louis Till, A Chicago teen African-American native.",
+   "htmlSnippet": "For Those With Birthdays \u003cb\u003e24th January\u003c/b\u003e looking for specific year these years are \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1939 : 30,000 people are killed by a magnitude 8.3 devastating \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  to the murder of Emmett Louis Till, A Chicago teen \u003cb\u003eAfrican\u003c/b\u003e-American native.",
+   "cacheId": "QPavVFTrH-EJ",
+   "formattedUrl": "www.thepeoplehistory.com/january24th.html",
+   "htmlFormattedUrl": "www.thepeoplehistory.com/\u003cb\u003ejanuary24\u003c/b\u003eth.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "The People History -- Steve Pearson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "January 24 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eJanuary 24\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/January_24",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 24 is the 24th day of the year in the Gregorian calendar. There are 341   days remaining until the end of the year (342 in leap years).",
+   "htmlSnippet": "\u003cb\u003eJanuary 24\u003c/b\u003e is the \u003cb\u003e24th\u003c/b\u003e day of the year in the Gregorian calendar. There are 341 \u003cbr\u003e  days remaining until the end of the year (342 in leap years).",
+   "cacheId": "Yf54jfiN50YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/January_24",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eJanuary\u003c/b\u003e_\u003cb\u003e24\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Publication 354 - African Americans on Stamps",
+   "htmlTitle": "Publication 354 - \u003cb\u003eAfrican\u003c/b\u003e Americans on Stamps",
+   "link": "http://about.usps.com/publications/pub354.pdf",
+   "displayLink": "about.usps.com",
+   "snippet": "earthquake victims in Nicaragua on December 31, 1972. The 20-cent .....   Thurgood Marshall died on January 24, 1993, at the age of. 85. ..... January 24,   2001.",
+   "htmlSnippet": "\u003cb\u003eearthquake\u003c/b\u003e victims in Nicaragua on December 31, 1972. The 20-cent \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Thurgood Marshall died on January 24, 1993, at the age of. 85. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eJanuary 24\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "E6BD9tiW5XEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "about.usps.com/publications/pub354.pdf",
+   "htmlFormattedUrl": "about.usps.com/publications/pub354.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040115134541Z",
+      "moddate": "D:20040121111428-05'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "creator": "QuarkXPress.: AdobePS 8.7.3 (301)",
+      "title": "Publication 354 - African Americans on Stamps"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900. Sorted by ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900. Sorted by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Wp53QF265fgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths_sort.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Geology in the News, 2001",
+   "htmlTitle": "Geology in the News, \u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://mygeologypage.ucdavis.edu/cowen/geologynews2001.html",
+   "displayLink": "mygeologypage.ucdavis.edu",
+   "snippet": "New quake hazard map for southern San Francisco Bay area. ... 2001. New data   on ancient earthquakes in the Cascadia subduction zone. ... October 24, 2001. ...   and the East Coast of the United States (to say nothing about West Africa and   Portugal!). ... Later, I added this new story, from BBC News OnLine, January 2002  .",
+   "htmlSnippet": "New \u003cb\u003equake\u003c/b\u003e hazard map for southern San Francisco Bay area. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e. New data \u003cbr\u003e  on ancient \u003cb\u003eearthquakes\u003c/b\u003e in the Cascadia subduction zone. \u003cb\u003e...\u003c/b\u003e October \u003cb\u003e24\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  and the East Coast of the United States (to say nothing about West \u003cb\u003eAfrica\u003c/b\u003e and \u003cbr\u003e  Portugal!). \u003cb\u003e...\u003c/b\u003e Later, I added this new story, from BBC News OnLine, \u003cb\u003eJanuary\u003c/b\u003e 2002\u003cbr\u003e  .",
+   "cacheId": "hscjxRR3dasJ",
+   "formattedUrl": "mygeologypage.ucdavis.edu/cowen/geologynews2001.html",
+   "htmlFormattedUrl": "mygeologypage.ucdavis.edu/cowen/geologynews\u003cb\u003e2001\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of Africa Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eAfrica\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/Africa_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. ... located by the USGS and contributing networks for the Map of Africa   Region. ... 16:52:24, -56.087, -27.400, 103.6, SOUTH SANDWICH ISLANDS   REGION ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e located by the USGS and contributing networks for the Map of \u003cb\u003eAfrica\u003c/b\u003e \u003cbr\u003e  Region. \u003cb\u003e...\u003c/b\u003e 16:52:\u003cb\u003e24\u003c/b\u003e, -56.087, -27.400, 103.6, SOUTH SANDWICH ISLANDS \u003cbr\u003e  REGION \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B_1KVeotS4sJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/Maps/.../Africa_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/Maps/.../\u003cb\u003eAfrica\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for past 24 hours (Earthquakes archive ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for past \u003cb\u003e24\u003c/b\u003e hours (\u003cb\u003eEarthquakes\u003c/b\u003e archive \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-nov-26.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Nov 26, 2012 ... Earthquake list: past 24 hours (M\u003e=2.5) (122 quakes) ..... about our tours   indonesia photos guatemala's volcanoes jan photos africa nyiragongo ...   november 2006 october 2006 2001 2000 1999 stromboli new september 2011 ...",
+   "htmlSnippet": "Nov 26, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e list: past \u003cb\u003e24\u003c/b\u003e hours (M&gt;=2.5) (122 quakes) \u003cb\u003e.....\u003c/b\u003e about our tours \u003cbr\u003e  indonesia photos guatemala&#39;s volcanoes \u003cb\u003ejan\u003c/b\u003e photos \u003cb\u003eafrica\u003c/b\u003e nyiragongo \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  november 2006 october 2006 \u003cb\u003e2001\u003c/b\u003e 2000 1999 stromboli new september 2011 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cOzWckKVKjsJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-nov-26.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-nov-26.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 50,000 or More Deaths",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 50,000 or More Deaths",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/most_destructive.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Lqtp1s1LRLAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/most_destructive.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/most_destructive.php"
+  }
+ ]
+}

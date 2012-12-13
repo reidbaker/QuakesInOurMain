@@ -1,0 +1,360 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 27 2002 Africa Earthquake",
+    "totalResults": "691000",
+    "searchTerms": "May 27 2002 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 27 2002 Africa Earthquake",
+    "totalResults": "691000",
+    "searchTerms": "May 27 2002 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.184854,
+  "formattedSearchTime": "0.18",
+  "totalResults": "691000",
+  "formattedTotalResults": "691,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed ..... After the quake struck   off the west coast of Haida Gwaii on Oct. 27 at 8:04 p.m. PT, emergency officials   in B.C. did not .... Alaska (USA), 2002 - Magnitude : 7.9 .... This earthquake may   be the largest ???on land??? earthquake in the modern history of Japan.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e.....\u003c/b\u003e After the \u003cb\u003equake\u003c/b\u003e struck \u003cbr\u003e  off the west coast of Haida Gwaii on Oct. \u003cb\u003e27\u003c/b\u003e at 8:04 p.m. PT, emergency officials \u003cbr\u003e  in B.C. did not \u003cb\u003e....\u003c/b\u003e Alaska (USA), \u003cb\u003e2002\u003c/b\u003e - Magnitude : 7.9 \u003cb\u003e....\u003c/b\u003e This \u003cb\u003eearthquake may\u003c/b\u003e \u003cbr\u003e  be the largest ???on land??? \u003cb\u003eearthquake\u003c/b\u003e in the modern history of Japan.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 5.0,   SOUTH AFRICA, May 27 2002, 16:22:37, -26.992, 26.702 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 5.0, \u003cbr\u003e  SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eMay 27 2002\u003c/b\u003e, 16:22:37, -26.992, 26.702 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3H1QGN8v88wJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2002",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2002\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Ferrara, Italy : Extremely strong aftershock near ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Ferrara, Italy : Extremely strong aftershock near \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/20/very-strong-shallow-earthquake-kills-at-least-3-people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 29, 2012 ... The fortress had already been damaged by the earthquake of May 20 and the   shock ..... We have counted 27 aftershocks since the M4.3 strongest .... A group of   North African laborers and their families were not ..... From 2002 to 2008 6   smaller earthquakes (less than M4) occurred within a radius of 20 km.",
+   "htmlSnippet": "May 29, 2012 \u003cb\u003e...\u003c/b\u003e The fortress had already been damaged by the \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eMay\u003c/b\u003e 20 and the \u003cbr\u003e  shock \u003cb\u003e.....\u003c/b\u003e We have counted \u003cb\u003e27\u003c/b\u003e aftershocks since the M4.3 strongest \u003cb\u003e....\u003c/b\u003e A group of \u003cbr\u003e  North \u003cb\u003eAfrican\u003c/b\u003e laborers and their families were not \u003cb\u003e.....\u003c/b\u003e From \u003cb\u003e2002\u003c/b\u003e to 2008 6 \u003cbr\u003e  smaller \u003cb\u003eearthquakes\u003c/b\u003e (less than M4) occurred within a radius of 20 km.",
+   "cacheId": "S2D3vnTpEv8J",
+   "formattedUrl": "earthquake-report.com/.../very-strong-shallow-earthquake-kills-at-least-3- people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-shallow-\u003cb\u003eearthquake\u003c/b\u003e-kills-at-least-3- people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/cavezzo_2952012_280xFree.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "167",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREYfIWEASGQQQUnGpE9naiIQ2xo8MO6e_3z4zlV_Fk1FxK1oYZ3PqxyYmh"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Stoapfalzer",
+      "nickname": "Stoapfalzer"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "gitte zakariasen"
+     },
+     {
+      "fn": "Bryan Bell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Welkom, Free State, South Africa - Most Recent",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Welkom, Free State, South \u003cb\u003eAfrica\u003c/b\u003e - Most Recent",
+   "link": "http://earthquaketrack.com/za-03-welkom/recent",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Today: 6.3 magnitude earthquake near Tokoroa, Auckland, New Zealand ?? Today  : 6.2 magnitude ... Recent Earthquake Near Welkom, Free State, South Africa ...",
+   "htmlSnippet": "Today: 6.3 magnitude \u003cb\u003eearthquake\u003c/b\u003e near Tokoroa, Auckland, New Zealand &middot; Today\u003cbr\u003e  : 6.2 magnitude \u003cb\u003e...\u003c/b\u003e Recent \u003cb\u003eEarthquake\u003c/b\u003e Near Welkom, Free State, South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "el4BAiXB2IkJ",
+   "formattedUrl": "earthquaketrack.com/za-03-welkom/recent",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/za-03-welkom/recent",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "Pw37MioT9IElCBCPLeeY29CBMDJdXyQc1yC9U0d78Eg="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "htmlTitle": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... Jon Frimann (Iceland Earthquakes and Volcanoes blog) reports a .... The   eruption on 15 May was preceded by about 6 hours of very-low amplitude   harmonic tremor. ..... in recent years since the start of near continuous activity in   2002. ..... Gas-and-ash plumes rose 1.5 km above the crater on 25 and 27 April ...",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e Jon Frimann (Iceland \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanoes blog) reports a \u003cb\u003e....\u003c/b\u003e The \u003cbr\u003e  eruption on 15 \u003cb\u003eMay\u003c/b\u003e was preceded by about 6 hours of very-low amplitude \u003cbr\u003e  harmonic tremor. \u003cb\u003e.....\u003c/b\u003e in recent years since the start of near continuous activity in \u003cbr\u003e  \u003cb\u003e2002\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e Gas-and-ash plumes rose 1.5 km above the crater on 25 and \u003cb\u003e27\u003c/b\u003e April \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For lists of earthquakes by country, which may include smaller and less   destructive ... 1 2001; 2 2002; 3 2003; 4 2004; 5 2005; 6 2006; 7 2007; 8 2008; 9   2009 .... May 27, 2003, 17:11, Boumerd??s, Algeria, 36.939, 3.578, 9, 5.8, Mw (  USGS) ...",
+   "htmlSnippet": "For lists of \u003cb\u003eearthquakes\u003c/b\u003e by country, which \u003cb\u003emay\u003c/b\u003e include smaller and less \u003cbr\u003e  destructive \u003cb\u003e...\u003c/b\u003e 1 2001; 2 \u003cb\u003e2002\u003c/b\u003e; 3 2003; 4 2004; 5 2005; 6 2006; 7 2007; 8 2008; 9 \u003cbr\u003e  2009 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eMay 27\u003c/b\u003e, 2003, 17:11, Boumerd??s, Algeria, 36.939, 3.578, 9, 5.8, Mw (\u003cbr\u003e  USGS) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Mechanics of Earthquakes and Faulting (2nd Edition ...",
+   "htmlTitle": "The Mechanics of \u003cb\u003eEarthquakes\u003c/b\u003e and Faulting (2nd Edition \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.amazon.com/Mechanics-Earthquakes-Faulting-2nd/dp/0521655404",
+   "displayLink": "www.amazon.com",
+   "snippet": "First is the connection between fault and earthquake mechanics. ... Publication   Date: May 27, 2002 | ISBN-10: 0521655404 | ISBN-13: 978-0521655408 | Edition  : 2 .... the general reader on the excitement of discovering the tectonics of Africa, ...",
+   "htmlSnippet": "First is the connection between fault and \u003cb\u003eearthquake\u003c/b\u003e mechanics. \u003cb\u003e...\u003c/b\u003e Publication \u003cbr\u003e  Date: \u003cb\u003eMay 27\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e | ISBN-10: 0521655404 | ISBN-13: 978-0521655408 | Edition\u003cbr\u003e  : 2 \u003cb\u003e....\u003c/b\u003e the general reader on the excitement of discovering the tectonics of \u003cb\u003eAfrica\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fp7WGYbAI68J",
+   "formattedUrl": "www.amazon.com/Mechanics-Earthquakes-Faulting.../0521655404",
+   "htmlFormattedUrl": "www.amazon.com/Mechanics-\u003cb\u003eEarthquakes\u003c/b\u003e-Faulting.../0521655404",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://ecx.images-amazon.com/images/I/21FX3F7bWvL._BO2,204,203,200_PIsitb-sticker-arrow-click-small,TopRight,12,-30_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KLlmZX5RO7YQgeGAyy5KDtiglMQjxwsfW8P4_r0jJjfIpIEkup0CvbFf"
+     }
+    ],
+    "scraped": [
+     {
+      "image_link": "http://ecx.images-amazon.com/images/I/21FX3F7bWvL._BO2,204,203,200_PIsitb-sticker-arrow-click-small,TopRight,12,-30_AA300_SH20_OU01_.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Mechanics of Earthquakes and Faulting (2nd Edition): Christopher H. Scholz: 9780521655408: Amazon.com: Books"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Conference Papers",
+   "htmlTitle": "Conference Papers",
+   "link": "http://aelnash.cee.illinois.edu/conferences.htm",
+   "displayLink": "aelnash.cee.illinois.edu",
+   "snippet": "The Kalamata (Greece) earthquake: Performance of RC buildings. Elnashai ..... of   Recent Earthquake on Seismic Risk, Tokyo, Japan, May 27-29, 2002. ...   Proceedings of the International Conference SEMC 2004, South Africa, July 5-7,   2004.",
+   "htmlSnippet": "The Kalamata (Greece) \u003cb\u003eearthquake\u003c/b\u003e: Performance of RC buildings. Elnashai \u003cb\u003e.....\u003c/b\u003e of \u003cbr\u003e  Recent \u003cb\u003eEarthquake\u003c/b\u003e on \u003cb\u003eSeismic\u003c/b\u003e Risk, Tokyo, Japan, \u003cb\u003eMay 27\u003c/b\u003e-29, \u003cb\u003e2002\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Proceedings of the International Conference SEMC 2004, South \u003cb\u003eAfrica\u003c/b\u003e, July 5-7, \u003cbr\u003e  2004.",
+   "cacheId": "nMDKqxsXImUJ",
+   "formattedUrl": "aelnash.cee.illinois.edu/conferences.htm",
+   "htmlFormattedUrl": "aelnash.cee.illinois.edu/conferences.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "network 0011, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "About Swarms of Long - Period Earthquakes at Volcano ...",
+   "htmlTitle": "About Swarms of Long - Period \u003cb\u003eEarthquakes\u003c/b\u003e at Volcano \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dgt.uns.ac.rs/pannonica/papers/volume16_1_2.pdf",
+   "displayLink": "www.dgt.uns.ac.rs",
+   "snippet": "January 27, 2000; February 5, 2001; July 25, 2002;. May 8, 2004 and November   27, 2006. At volcano Nyamuragira, seismic swarm com- posed mainly of ...",
+   "htmlSnippet": "January \u003cb\u003e27\u003c/b\u003e, 2000; February 5, 2001; July 25, \u003cb\u003e2002\u003c/b\u003e;. \u003cb\u003eMay\u003c/b\u003e 8, 2004 and November \u003cbr\u003e  \u003cb\u003e27\u003c/b\u003e, 2006. At volcano Nyamuragira, \u003cb\u003eseismic\u003c/b\u003e swarm com- posed mainly of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7fsEvO4Cn6EJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dgt.uns.ac.rs/pannonica/papers/volume16_1_2.pdf",
+   "htmlFormattedUrl": "www.dgt.uns.ac.rs/pannonica/papers/volume16_1_2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20120323165837+01'00'",
+      "creator": "Adobe InDesign CS5 (7.0.4)",
+      "moddate": "D:20120323165840+01'00'",
+      "producer": "Adobe PDF Library 9.9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "May 27 Events in History",
+   "htmlTitle": "\u003cb\u003eMay 27\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/may_27.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "May 27 in history.",
+   "htmlSnippet": "\u003cb\u003eMay 27\u003c/b\u003e in history.",
+   "cacheId": "V-f36ZcqrfcJ",
+   "formattedUrl": "www.brainyhistory.com/days/may_27.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003emay\u003c/b\u003e_\u003cb\u003e27\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "May 27 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/may_27.html"
+     }
+    ]
+   }
+  }
+ ]
+}

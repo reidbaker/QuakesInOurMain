@@ -1,0 +1,288 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 22 2002 Eurasia Earthquake",
+    "totalResults": "47000",
+    "searchTerms": "Sep 22 2002 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 22 2002 Eurasia Earthquake",
+    "totalResults": "47000",
+    "searchTerms": "Sep 22 2002 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.189767,
+  "formattedSearchTime": "0.19",
+  "totalResults": "47000",
+  "formattedTotalResults": "47,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the Lorca, Spain May 11 2011 earthquake",
+   "htmlTitle": "Understanding the Lorca, Spain May 11 2011 \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/05/12/understanding-the-lorca-spain-may-11-2011-earthquake/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 12, 2011 ... The southeastern Spain earthquake of 11 May, 2011, occurred within the plate   boundary region that separates the Eurasia and Africa (Nubia) ...",
+   "htmlSnippet": "May 12, 2011 \u003cb\u003e...\u003c/b\u003e The southeastern Spain \u003cb\u003eearthquake\u003c/b\u003e of 11 May, 2011, occurred within the plate \u003cbr\u003e  boundary region that separates the \u003cb\u003eEurasia\u003c/b\u003e and Africa (Nubia) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zWWHwSVsn3QJ",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-lorca-spain-may-11-2011- earthquake/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-lorca-spain-may-11-2011- \u003cb\u003eearthquake\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://neic.usgs.gov/neis/eq_depot/2011/eq_110511_c0003c5s/neic_c0003c5s_w.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "212",
+      "height": "237",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMr5_9zov2Km8io-c7V-fBR_Pm1kh4lRtyNkDV0-89wtBejZr56JQiCR5d"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Murcia Property",
+      "url": "http://www.platinumholidayrentals.com/",
+      "url_text": "Murcia Property"
+     },
+     {
+      "fn": "elena sarri??n"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pn and Sn tomography across Eurasia to improve regional seismic ...",
+   "htmlTitle": "Pn and Sn tomography across \u003cb\u003eEurasia\u003c/b\u003e to improve regional \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://lemond.colorado.edu/pubs/2002/7.pdf",
+   "displayLink": "lemond.colorado.edu",
+   "snippet": "D 2002 Elsevier Science B.V. All rights reserved. Keywords: Eurasia; Upper   mantle; Tomography. 1. Introduction. Determination of accurate seismic locations ...",
+   "htmlSnippet": "D \u003cb\u003e2002\u003c/b\u003e Elsevier Science B.V. All rights reserved. Keywords: \u003cb\u003eEurasia\u003c/b\u003e; Upper \u003cbr\u003e  mantle; Tomography. 1. Introduction. Determination of accurate \u003cb\u003eseismic\u003c/b\u003e locations \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WCq0r6y7bxwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "lemond.colorado.edu/pubs/2002/7.pdf",
+   "htmlFormattedUrl": "lemond.colorado.edu/pubs/\u003cb\u003e2002\u003c/b\u003e/7.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20021030225805",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "title": "PII: S0040-1951(02)00416-X",
+      "moddate": "D:20021030225807+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1923 Great Kant?? earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1923 Great Kant?? \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In 1960, the government of Japan declared September 1, the anniversary of the   quake, .... Pacific and Eurasian plates, the Sagami Trough ruptures in a   magnitude 8.5 earthquake, ... Retrieved 2007-02-22. ... James, Charles D. (2002-  10-08).",
+   "htmlSnippet": "In 1960, the government of Japan declared \u003cb\u003eSeptember\u003c/b\u003e 1, the anniversary of the \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e, \u003cb\u003e....\u003c/b\u003e Pacific and \u003cb\u003eEurasian\u003c/b\u003e plates, the Sagami Trough ruptures in a \u003cbr\u003e  magnitude 8.5 \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e Retrieved 2007-02-\u003cb\u003e22\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e James, Charles D. (\u003cb\u003e2002\u003c/b\u003e-\u003cbr\u003e  10-08).",
+   "cacheId": "XUJCfGAs7-IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1923_Great_Kant??_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1923_Great_Kant??_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/8-2earthquake-kanto.jpg/220px-8-2earthquake-kanto.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAsFBNu-5dy6Ra78FuMCjVNXT9axtqBdbG9O70lkqmHlt84TsOWWZCaqM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes!",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e!",
+   "link": "http://www.geology.wisc.edu/courses/g115/quake/newquakeinfo.html",
+   "displayLink": "www.geology.wisc.edu",
+   "snippet": "On Sept 25th, 2003, the largest earthquake of 2003 took place just offshore   Japan. ... Western Iran was rocked by a magnitude 6.5 quake on June 22, 2002.   ... to the continued northward movement of the Indian subcontinent into Eurasia.",
+   "htmlSnippet": "On \u003cb\u003eSept\u003c/b\u003e 25th, 2003, the largest \u003cb\u003eearthquake\u003c/b\u003e of 2003 took place just offshore \u003cbr\u003e  Japan. \u003cb\u003e...\u003c/b\u003e Western Iran was rocked by a magnitude 6.5 \u003cb\u003equake\u003c/b\u003e on June \u003cb\u003e22\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e to the continued northward movement of the Indian subcontinent into \u003cb\u003eEurasia\u003c/b\u003e.",
+   "cacheId": "iwamOWkJJ1sJ",
+   "formattedUrl": "www.geology.wisc.edu/courses/g115/quake/newquakeinfo.html",
+   "htmlFormattedUrl": "www.geology.wisc.edu/courses/g115/\u003cb\u003equake\u003c/b\u003e/new\u003cb\u003equake\u003c/b\u003einfo.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.geology.wisc.edu/courses/g115/quake/images/Bam-tectonics.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "208",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStobFCuKIWKx73c0pDOoy13VeM9bEZDFoEdLVuPRVxx0KnueEWLbYfsgk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1962 Bou'in-Zahra earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1962 Bou&#39;in-Zahra \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1962_Bou'in-Zahra_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1962 Bou'in-Zahra earthquake occurred on September 1, 1962, in the area   ... Iran is an earthquake center of the world, lying between the converging   Eurasian and .... \"The 2002 June 22 Changureh (Avaj) earthquake in Qazvin   province, ...",
+   "htmlSnippet": "The 1962 Bou&#39;in-Zahra \u003cb\u003eearthquake\u003c/b\u003e occurred on \u003cb\u003eSeptember\u003c/b\u003e 1, 1962, in the area \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Iran is an \u003cb\u003eearthquake\u003c/b\u003e center of the world, lying between the converging \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e and \u003cb\u003e....\u003c/b\u003e &quot;The \u003cb\u003e2002\u003c/b\u003e June \u003cb\u003e22\u003c/b\u003e Changureh (Avaj) \u003cb\u003eearthquake\u003c/b\u003e in Qazvin \u003cbr\u003e  province, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B9Sasatc05kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1962_Bou'in-Zahra_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1962_Bou&#39;in-Zahra_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Photos-of-an-Old-Earthquake-in-Iran_4.jpg/220px-Photos-of-an-Old-Earthquake-in-Iran_4.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "118",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfdO2IZ0RC7PCHw2MRQ4XyJrwyIjlkxkEtPZ9bHcNlgxe2l01DK_oJA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mike Ritzwoller's publications",
+   "htmlTitle": "Mike Ritzwoller&#39;s publications",
+   "link": "http://ciei.colorado.edu/ritzwoller.html",
+   "displayLink": "ciei.colorado.edu",
+   "snippet": "(pdf); Moschetti, M.P., M.H. Ritzwoller, and F.C. Lin, Seismic evidence for ....   Nuclear Explosion Monitoring, Palm Springs, CA (Sept 20 - 22, 2005), 2005. (pdf)   .... Pn and Sn tomography across Eurasia, Tectonophys., 358 (1-4), 39-55, 2002.   (pdf ...",
+   "htmlSnippet": "(pdf); Moschetti, M.P., M.H. Ritzwoller, and F.C. Lin, \u003cb\u003eSeismic\u003c/b\u003e evidence for \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Nuclear Explosion Monitoring, Palm Springs, CA (\u003cb\u003eSept\u003c/b\u003e 20 - \u003cb\u003e22\u003c/b\u003e, 2005), 2005. (pdf) \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Pn and Sn tomography across \u003cb\u003eEurasia\u003c/b\u003e, Tectonophys., 358 (1-4), 39-55, \u003cb\u003e2002\u003c/b\u003e. \u003cbr\u003e  (pdf \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "H7XO1f79qaUJ",
+   "formattedUrl": "ciei.colorado.edu/ritzwoller.html",
+   "htmlFormattedUrl": "ciei.colorado.edu/ritzwoller.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 East Azerbaijan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2012 East Azerbaijan earthquakes occurred near the cities of Ahar and   Varzaqan in Iran's East ... strike-slip faulting in the shallow crust about 300 km   east of the Eurasia-Arabian Plate boundary. .... Tectonophysics (Elsevier) 506 (1-  4): 22???30. .... Nicoya Peninsula, Costa Rica (7.6, Sep 5); Yunnan, China (5.6,   Sep 7)??? ...",
+   "htmlSnippet": "The 2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e occurred near the cities of Ahar and \u003cbr\u003e  Varzaqan in Iran&#39;s East \u003cb\u003e...\u003c/b\u003e strike-slip faulting in the shallow crust about 300 km \u003cbr\u003e  east of the \u003cb\u003eEurasia\u003c/b\u003e-Arabian Plate boundary. \u003cb\u003e....\u003c/b\u003e Tectonophysics (Elsevier) 506 (1-\u003cbr\u003e  4): \u003cb\u003e22\u003c/b\u003e???30. \u003cb\u003e....\u003c/b\u003e Nicoya Peninsula, Costa Rica (7.6, \u003cb\u003eSep\u003c/b\u003e 5); Yunnan, China (5.6, \u003cbr\u003e  \u003cb\u003eSep\u003c/b\u003e 7)??? \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z3LJZUSFL8IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/250px-Iran_relief_location_map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlK7xfIu2EE120ax5sst5KSWyd5SxHE-3pbK-lYso7uZkfMn3WOONAqcQQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of earthquakes in Turkey, including any notable historical ... area   within the complex zone of collision between the Eurasian Plate and both the   African ... September 10, 1509, Istanbul ... October 22, 1926, 21:59 local time,   Kars .... 2002\". http://earthquake.usgs.gov/eqcenter/eqarchives/significant/  sig_2002.php.",
+   "htmlSnippet": "This is a list of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey, including any notable historical \u003cb\u003e...\u003c/b\u003e area \u003cbr\u003e  within the complex zone of collision between the \u003cb\u003eEurasian\u003c/b\u003e Plate and both the \u003cbr\u003e  African \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 10, 1509, Istanbul \u003cb\u003e...\u003c/b\u003e October \u003cb\u003e22\u003c/b\u003e, 1926, 21:59 local time, \u003cbr\u003e  Kars \u003cb\u003e....\u003c/b\u003e \u003cb\u003e2002\u003c/b\u003e&quot;. http://\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/eqcenter/eqarchives/significant/\u003cbr\u003e  \u003cb\u003esig_2002\u003c/b\u003e.php.",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The exceptional earthquakes in kaliningrad district, russia on ...",
+   "htmlTitle": "The exceptional \u003cb\u003eearthquakes\u003c/b\u003e in kaliningrad district, russia on \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://peer.ccsd.cnrs.fr/docs/00/53/21/18/PDF/PEER_stage2_10.1016%252Fj.pepi.2007.06.005.pdf",
+   "displayLink": "peer.ccsd.cnrs.fr",
+   "snippet": "Nov 4, 2010 ... The earthquakes on September 21, 2004 occurred in the territory of the Russian   ..... September 22, 2002, of magnitude 4.7 (Baptie et al., 2005). ... M??ntyniemi,   2005) and forces inflicted on the Eurasian Plate by the African ...",
+   "htmlSnippet": "Nov 4, 2010 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquakes\u003c/b\u003e on September 21, 2004 occurred in the territory of the Russian \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eSeptember 22, 2002\u003c/b\u003e, of magnitude 4.7 (Baptie et al., 2005). \u003cb\u003e...\u003c/b\u003e M??ntyniemi, \u003cbr\u003e  2005) and forces inflicted on the \u003cb\u003eEurasian\u003c/b\u003e Plate by the African \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "stw0uMmp340J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "peer.ccsd.cnrs.fr/.../PEER_stage2_10.1016%252Fj.pepi.2007.06.005.pdf",
+   "htmlFormattedUrl": "peer.ccsd.cnrs.fr/.../PEER_stage2_10.1016%252Fj.pepi.2007.06.005.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "hal_url": "http://peer.ccsd.cnrs.fr/peer-00532118/fr/",
+      "identifiant": "peer-00532118, v1",
+      "author": "Gregersen, S. et al",
+      "creator": "HAL - CCSd",
+      "title": "[peer-00532118, v1] The exceptional earthquakes in kaliningrad district, russia on september 21, 2004",
+      "creationdate": "D:20101104035122+01'00'",
+      "producer": "PDFlib+PDI 7.0.2 (PHP5/Linux)"
+     }
+    ]
+   }
+  }
+ ]
+}

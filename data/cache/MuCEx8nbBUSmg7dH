@@ -1,0 +1,240 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 13 2001 India Earthquake",
+    "totalResults": "807000",
+    "searchTerms": "Jul 13 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 13 2001 India Earthquake",
+    "totalResults": "807000",
+    "searchTerms": "Jul 13 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.375063,
+  "formattedSearchTime": "0.38",
+  "totalResults": "807000",
+  "formattedTotalResults": "807,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 13 2001 India Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 13 2001 India Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "02001-01-13January 13, 2001, 17:33, El Salvador see 2001 El ... 02001-01-26  January 26, 2001, 03:16, Gujarat, India see 2001 ... July 7, 2001, 09:38, Near   coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV). August 21 ...",
+   "htmlSnippet": "02001-01-\u003cb\u003e13\u003c/b\u003eJanuary \u003cb\u003e13\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, 17:33, El Salvador see \u003cb\u003e2001\u003c/b\u003e El \u003cb\u003e...\u003c/b\u003e 02001-01-26\u003cbr\u003e  January 26, \u003cb\u003e2001\u003c/b\u003e, 03:16, Gujarat, \u003cb\u003eIndia\u003c/b\u003e see \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 7, \u003cb\u003e2001\u003c/b\u003e, 09:38, Near \u003cbr\u003e  coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV). August 21 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "India Facing Inevitable Prospect Of Multiple Major Earthquakes",
+   "htmlTitle": "\u003cb\u003eIndia\u003c/b\u003e Facing Inevitable Prospect Of Multiple Major \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.spacedaily.com/news/earthquake-01d.html",
+   "displayLink": "www.spacedaily.com",
+   "snippet": "Aug 23, 2001 ... 23, 2001 - Following an exhaustive geophysical and historical analysis, a   research ... alternatives to one or more massive earthquakes occurring in India in   the near future, threatening millions of lives. ... Tempe - July 13, 2001 ...",
+   "htmlSnippet": "Aug 23, 2001 \u003cb\u003e...\u003c/b\u003e 23, 2001 - Following an exhaustive geophysical and historical analysis, a \u003cbr\u003e  research \u003cb\u003e...\u003c/b\u003e alternatives to one or more massive \u003cb\u003eearthquakes\u003c/b\u003e occurring in \u003cb\u003eIndia\u003c/b\u003e in \u003cbr\u003e  the near future, threatening millions of lives. \u003cb\u003e...\u003c/b\u003e Tempe - \u003cb\u003eJuly 13, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bjXlSStMEdAJ",
+   "formattedUrl": "www.spacedaily.com/news/earthquake-01d.html",
+   "htmlFormattedUrl": "www.spacedaily.com/news/\u003cb\u003eearthquake\u003c/b\u003e-01d.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.spacedaily.com/images/india-movement-meters-bg.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "166",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM_PVnhweFGJEf9hkDeCR6BCW2yXQc095zlpioJddp4ZIGIxro49S28WlR"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "India???Pakistan relations - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eIndia\u003c/b\u003e???Pakistan relations - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/India%E2%80%93Pakistan_relations",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "13 2001 Gujarat Earthquake in India; 14 2005 Earthquake in Pakistan ..... In July   2009, current President of Pakistan Asif Ali Zardari admitted that the Pakistani ...",
+   "htmlSnippet": "\u003cb\u003e13 2001\u003c/b\u003e Gujarat \u003cb\u003eEarthquake\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e; 14 2005 \u003cb\u003eEarthquake\u003c/b\u003e in Pakistan \u003cb\u003e.....\u003c/b\u003e In \u003cb\u003eJuly\u003c/b\u003e \u003cbr\u003e  2009, current President of Pakistan Asif Ali Zardari admitted that the Pakistani \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "h-KSaMohpYsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/India???Pakistan_relations",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eIndia\u003c/b\u003e???Pakistan_relations",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/4/45/Pakistan_India_Locator.svg/250px-Pakistan_India_Locator.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "88",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbVCLbp8T-9iFVlK0VYeqgiV6kyN3t3an1Ozlan02YXpshhxyYLhFiJw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Articles about Earth Quake - Times Of India",
+   "htmlTitle": "Articles about Earth \u003cb\u003eQuake\u003c/b\u003e - Times Of \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://articles.timesofindia.indiatimes.com/keyword/earth-quake",
+   "displayLink": "articles.timesofindia.indiatimes.com",
+   "snippet": "NEW DELHI: A slight intensity earth quake, measuring 4.2 on the Richter Scale,   shook Maharashtra's .... July 13, 2001 | THE TIMES OF INDIA NEWS SERVICE ...",
+   "htmlSnippet": "NEW DELHI: A slight intensity earth \u003cb\u003equake\u003c/b\u003e, measuring 4.2 on the Richter Scale, \u003cbr\u003e  shook Maharashtra&#39;s \u003cb\u003e....\u003c/b\u003e \u003cb\u003eJuly 13, 2001\u003c/b\u003e | THE TIMES OF \u003cb\u003eINDIA\u003c/b\u003e NEWS SERVICE \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Xh6s-lT43AEJ",
+   "formattedUrl": "articles.timesofindia.indiatimes.com/keyword/earth-quake",
+   "htmlFormattedUrl": "articles.timesof\u003cb\u003eindia\u003c/b\u003e.\u003cb\u003eindia\u003c/b\u003etimes.com/keyword/earth-\u003cb\u003equake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.7, GUJARAT, INDIA, Sep 20 2001, 13:34:33, 23.555, 70.372, 200109201334 ...   6.4, AEGEAN SEA, Jul 26 2001, 00:21:38, 39.080, 24.290 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.7, GUJARAT, \u003cb\u003eINDIA\u003c/b\u003e, Sep 20 \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003e13\u003c/b\u003e:34:33, 23.555, 70.372, 200109201334 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  6.4, AEGEAN SEA, \u003cb\u003eJul\u003c/b\u003e 26 \u003cb\u003e2001\u003c/b\u003e, 00:21:38, 39.080, 24.290 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Automated damage detection of buildings from aerial television ...",
+   "htmlTitle": "Automated damage detection of buildings from aerial television \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=976085",
+   "displayLink": "ieeexplore.ieee.org",
+   "snippet": "A severe earthquake, which heavily affected Gujarat Province in western India,   occurred on 26 January 2001. ... Meeting Date : 09 Jul 2001-13 Jul 2001 ...",
+   "htmlSnippet": "A severe \u003cb\u003eearthquake\u003c/b\u003e, which heavily affected Gujarat Province in western \u003cb\u003eIndia\u003c/b\u003e, \u003cbr\u003e  occurred on 26 January 2001. \u003cb\u003e...\u003c/b\u003e Meeting Date : 09 Jul 2001-\u003cb\u003e13 Jul 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=976085",
+   "htmlFormattedUrl": "ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=976085",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "IEEE Xplore - Automated damage detection of buildings from aerial television images of the 2001 Gujarat, India earthquake",
+      "citation_publisher": "IEEE",
+      "citation_author": "Mitomi, H.",
+      "citation_author_institution": "Earthquake Disaster Mitigation Res. Center, Hyogo",
+      "citation_title": "Automated damage detection of buildings from aerial television images of the 2001 Gujarat, India earthquake",
+      "citation_date": "2001",
+      "citation_volume": "1",
+      "citation_firstpage": "147",
+      "citation_lastpage": "149 vol.1",
+      "citation_doi": "10.1109/IGARSS.2001.976085",
+      "citation_abstract_html_url": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=976085",
+      "citation_pdf_url": "http://ieeexplore.ieee.org/iel5/7695/21054/00976085.pdf?arnumber=976085",
+      "citation_isbn": "0-7803-7031-7",
+      "citation_language": "English",
+      "citation_keywords": "26 January 2001;  AD 2001 01 26;  Gujarat;  India;  aerial television images;  automated damage detection;  buildings;  built environment;  color indices;  digital video;  edge elements;  image characteristics;  maximum likelihood classifier;  multi level slice method;  severe earthquake;  sunshine;  Digital cameras;  Ear;  Earthquakes;  Image edge detection;  Maximum likelihood detection;  Maximum likelihood estimation;  Pixel;  Reconnaissance;  Remote monitoring;  TV;",
+      "citation_conference": "Geoscience and Remote Sensing Symposium, 2001. IGARSS '01. IEEE 2001 International"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Information for 2001",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Information for \u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/2001/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 23, 2010 ... List of Significant Earthquakes of the World for 2001 ... Felt throughout northern   India and much of Pakistan. ... 21 -- Southern Idaho; 4.9 -- Hawaii, September 13   -- Hawaii region; 4.6 -- Nevada, October 08; 4.3 -- Utah, July 19 ...",
+   "htmlSnippet": "Jul 23, 2010 \u003cb\u003e...\u003c/b\u003e List of Significant \u003cb\u003eEarthquakes\u003c/b\u003e of the World for \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Felt throughout northern \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e and much of Pakistan. \u003cb\u003e...\u003c/b\u003e 21 -- Southern Idaho; 4.9 -- Hawaii, September \u003cb\u003e13\u003c/b\u003e \u003cbr\u003e  -- Hawaii region; 4.6 -- Nevada, October 08; 4.3 -- Utah, \u003cb\u003eJuly\u003c/b\u003e 19 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ymiyjotSyXcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/year/2001/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/year/\u003cb\u003e2001\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete List of Publications",
+   "htmlTitle": "Complete List of Publications",
+   "link": "http://www.iitk.ac.in/ce/CIVIL/faculty/skjain/skjain_pub.htm",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "Oakland, CA: Earthquake Engineering Research Institute, July 2002, pp. ... Jain   S K, \"Codes, Licensing and Education\", In 2001 Bhuj, India Earthquake .... 2004, \"  13th World Conference on Earthquake Engineering\", The Indian Concrete ...",
+   "htmlSnippet": "Oakland, CA: \u003cb\u003eEarthquake\u003c/b\u003e Engineering Research Institute, \u003cb\u003eJuly\u003c/b\u003e 2002, pp. \u003cb\u003e...\u003c/b\u003e Jain \u003cbr\u003e  S K, &quot;Codes, Licensing and Education&quot;, In \u003cb\u003e2001\u003c/b\u003e Bhuj, \u003cb\u003eIndia Earthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e 2004, &quot;\u003cbr\u003e  \u003cb\u003e13th\u003c/b\u003e World Conference on \u003cb\u003eEarthquake\u003c/b\u003e Engineering&quot;, The \u003cb\u003eIndian\u003c/b\u003e Concrete \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PUSGCe1-9mUJ",
+   "formattedUrl": "www.iitk.ac.in/ce/CIVIL/faculty/skjain/skjain_pub.htm",
+   "htmlFormattedUrl": "www.iitk.ac.in/ce/CIVIL/faculty/skjain/skjain_pub.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... Egypt ??? El Salvador ??? Fiji ???   Greece ??? Guatemala ??? Haiti ??? Honduras ??? India ??? Indian Ocean .... 1986 10 10 - El   Salvador - M 5.5 Fatalities 1,000; 2001 01 13 - El Salvador - M 7.7 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e Egypt ??? El Salvador ??? Fiji ??? \u003cbr\u003e  Greece ??? Guatemala ??? Haiti ??? Honduras ??? \u003cb\u003eIndia\u003c/b\u003e ??? \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003e....\u003c/b\u003e 1986 10 10 - El \u003cbr\u003e  Salvador - M 5.5 Fatalities 1,000; \u003cb\u003e2001\u003c/b\u003e 01 \u003cb\u003e13\u003c/b\u003e - El Salvador - M 7.7 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "A13) 373BC The Greek city of Helike was destroyed by an earthquake. ... 1201   Jul 5, An earthquake in Syria and upper Egypt killed some 1.1 million people. ......   2001 Feb 1, The India earthquake death toll estimates rose to between 35-50 ...",
+   "htmlSnippet": "\u003cb\u003eA13\u003c/b\u003e) 373BC The Greek city of Helike was destroyed by an \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 1201 \u003cbr\u003e  \u003cb\u003eJul\u003c/b\u003e 5, An \u003cb\u003eearthquake\u003c/b\u003e in Syria and upper Egypt killed some 1.1 million people. \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e Feb 1, The \u003cb\u003eIndia earthquake\u003c/b\u003e death toll estimates rose to between 35-50 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  }
+ ]
+}

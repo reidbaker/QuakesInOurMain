@@ -1,0 +1,303 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 3 2001 Africa Earthquake",
+    "totalResults": "773000",
+    "searchTerms": "Feb 3 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 3 2001 Africa Earthquake",
+    "totalResults": "773000",
+    "searchTerms": "Feb 3 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.201283,
+  "formattedSearchTime": "0.20",
+  "totalResults": "773000",
+  "formattedTotalResults": "773,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Making the Earth Shake: Understanding Induced Seismicity",
+   "htmlTitle": "Making the Earth Shake: Understanding Induced Seismicity",
+   "link": "http://cce.cornell.edu/EnergyClimateChange/NaturalGasDev/Documents/PRI%20Papers/Marcellus_issue3.pdf",
+   "displayLink": "cce.cornell.edu",
+   "snippet": "from this shale could cause earthquakes ... M A R C E L L U S S H A L E ???   I S S U E N U M B E R 3 ??? M A Y 2 0 1 1 .... Number 3 ??? May 2011. Marcellus   Shale ??? Issue Number 3 ??? May 2011 / 3. Africa. Eurasia .... On February 3, 2001, a   magnitude ...",
+   "htmlSnippet": "from this shale could cause \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e M A R C E L L U S S H A L E ??? \u003cbr\u003e  I S S U E N U M B E R 3 ??? M A Y 2 0 1 1 \u003cb\u003e....\u003c/b\u003e Number 3 ??? May 2011. Marcellus \u003cbr\u003e  Shale ??? Issue Number 3 ??? May 2011 / 3. \u003cb\u003eAfrica\u003c/b\u003e. Eurasia \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eFebruary 3, 2001\u003c/b\u003e, a \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FOc4UR-lmAYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cce.cornell.edu/EnergyClimateChange/.../Documents/.../Marcellus_issue3.pdf",
+   "htmlFormattedUrl": "cce.cornell.edu/EnergyClimateChange/.../Documents/.../Marcellus_issue3.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110524101535-04'00'",
+      "creator": "Adobe InDesign CS4 (6.0.6)",
+      "moddate": "D:20110524101555-04'00'",
+      "producer": "Adobe PDF Library 9.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Photo",
+   "htmlTitle": "Photo",
+   "link": "http://pib.nic.in/archieve/others/earthqphoto.html",
+   "displayLink": "pib.nic.in",
+   "snippet": "to present a cheque of Rs.3 lakh towards ' Prime Minister's National Relief ...   African High Commissioner in India Ms. M.E. Nkoana Mashabene on behalf of Dr  . Nelson .... the Gujarat earthquake victims, in New Delhi on February 15, 2001.",
+   "htmlSnippet": "to present a cheque of Rs.\u003cb\u003e3\u003c/b\u003e lakh towards &#39; Prime Minister&#39;s National Relief \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAfrican\u003c/b\u003e High Commissioner in India Ms. M.E. Nkoana Mashabene on behalf of Dr\u003cbr\u003e  . Nelson \u003cb\u003e....\u003c/b\u003e the Gujarat \u003cb\u003eearthquake\u003c/b\u003e victims, in New Delhi on \u003cb\u003eFebruary\u003c/b\u003e 15, \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "aDZOvqROoRYJ",
+   "formattedUrl": "pib.nic.in/archieve/others/earthqphoto.html",
+   "htmlFormattedUrl": "pib.nic.in/archieve/others/earthqphoto.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Vijay Kumar Sharma",
+      "microsoft theme": "none"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV) ... 02001-  02-13February 13, 2001, 14:22, El Salvador see 2001 El ... June 3, 2001, 02:41,   Kermadec Islands, ???29.666, ???178.633, 0, 7.2, Mw (HRV) ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV) \u003cb\u003e...\u003c/b\u003e 02001-\u003cbr\u003e  02-13\u003cb\u003eFebruary\u003c/b\u003e 13, \u003cb\u003e2001\u003c/b\u003e, 14:22, El Salvador see \u003cb\u003e2001\u003c/b\u003e El \u003cb\u003e...\u003c/b\u003e June \u003cb\u003e3\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, 02:41, \u003cbr\u003e  Kermadec Islands, ???29.666, ???178.633, 0, 7.2, Mw (HRV) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Risk in Africa: A community leader's guide",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Risk in \u003cb\u003eAfrica\u003c/b\u003e: A community leader&#39;s guide",
+   "link": "http://www.ipred-iisee.org/database/housing%20safety/Benouar-Booklet-Disaster-Community.pdf",
+   "displayLink": "www.ipred-iisee.org",
+   "snippet": "1.6 Earthquakes in Africa. The seismicity of Africa is mainly concentrated in two   main regions: North Africa and southeast Africa (Map 3). Since hundred million ...",
+   "htmlSnippet": "1.6 \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eAfrica\u003c/b\u003e. The seismicity of \u003cb\u003eAfrica\u003c/b\u003e is mainly concentrated in two \u003cbr\u003e  main regions: North \u003cb\u003eAfrica\u003c/b\u003e and southeast \u003cb\u003eAfrica\u003c/b\u003e (Map \u003cb\u003e3\u003c/b\u003e). Since hundred million \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M_jx6b7OIKoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipred-iisee.org/database/.../Benouar-Booklet-Disaster-Community.pdf",
+   "htmlFormattedUrl": "www.ipred-iisee.org/database/.../Benouar-Booklet-Disaster-Community.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050408084455+02'00'",
+      "moddate": "D:20050408084455+02'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "Benouar",
+      "creator": "PScript5.dll Version 5.2.2",
+      "title": "Microsoft Word - Final-Version-Earthquake Risk in Africa-Community -Guide-09.12.04.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1868 Arica earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1868 Arica \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1868_Arica_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Sketches of Arica after the earthquake and tsunami from the Illustrated London   News. The 1868 ... 1 Tectonic setting; 2 Damage; 3 Characteristics ... Retrieved   28 February 2010. ^ a b c Rabinovich, A.B.; Kulikov E.A. & Thomson R.E. (2001).",
+   "htmlSnippet": "Sketches of \u003cb\u003eArica\u003c/b\u003e after the \u003cb\u003eearthquake\u003c/b\u003e and tsunami from the Illustrated London \u003cbr\u003e  News. The 1868 \u003cb\u003e...\u003c/b\u003e 1 Tectonic setting; 2 Damage; \u003cb\u003e3\u003c/b\u003e Characteristics \u003cb\u003e...\u003c/b\u003e Retrieved \u003cbr\u003e  28 \u003cb\u003eFebruary\u003c/b\u003e 2010. ^ a b c Rabinovich, A.B.; Kulikov E.A. &amp; Thomson R.E. (\u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "t0Tt-czFX0gJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1868_Arica_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1868_Arica_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arica_after_the_earthquake_(1868).JPG/220px-Arica_after_the_earthquake_(1868).JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "137",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUKfDQAfjUe9aoouEGDURrNud0ypTVWYcuPC6Z-W17n8TyhK6p2_AS22WE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Museum of African Art / Art and Programs / Virtual Exhibitions",
+   "htmlTitle": "National Museum of \u003cb\u003eAfrican\u003c/b\u003e Art / Art and Programs / Virtual Exhibitions",
+   "link": "http://africa.si.edu/exhibits/past.html",
+   "displayLink": "africa.si.edu",
+   "snippet": "September 14, 2011???February 12, 2012. Treasures 2008. April 17, 2008???August   24, 2008. Resonance from the Past: African Sculpture from the New Orleans   Museum of ... Making the Grade: African Arts of Initiation, December 16, 2001???  March 3, ... Healing Power of Art: Works of Art by Haitian Children after the   Earthquake.",
+   "htmlSnippet": "September 14, 2011???\u003cb\u003eFebruary\u003c/b\u003e 12, 2012. Treasures 2008. April 17, 2008???August \u003cbr\u003e  24, 2008. Resonance from the Past: \u003cb\u003eAfrican\u003c/b\u003e Sculpture from the New Orleans \u003cbr\u003e  Museum of \u003cb\u003e...\u003c/b\u003e Making the Grade: \u003cb\u003eAfrican\u003c/b\u003e Arts of Initiation, December 16, \u003cb\u003e2001\u003c/b\u003e???\u003cbr\u003e  March \u003cb\u003e3\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e Healing Power of Art: Works of Art by Haitian Children after the \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e.",
+   "cacheId": "JXeGBQPQnEcJ",
+   "formattedUrl": "africa.si.edu/exhibits/past.html",
+   "htmlFormattedUrl": "\u003cb\u003eafrica\u003c/b\u003e.si.edu/exhibits/past.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 Main lists; 2 Lists of earthquakes by country; 3 Largest earthquakes by   magnitude ... earthquakes (1901???2000); List of 21st-century earthquakes (2001???  present) ... 1615, Arica, Chile (then part of the Spanish Empire), 1615 Arica   earthquake, 8.8 (est.) ... 01835-02-20February 20, 1835, Concepci??n, Chile,   1835 Concepci??n ...",
+   "htmlSnippet": "1 Main lists; 2 Lists of \u003cb\u003eearthquakes\u003c/b\u003e by country; \u003cb\u003e3\u003c/b\u003e Largest \u003cb\u003eearthquakes\u003c/b\u003e by \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e (1901???2000); List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e (\u003cb\u003e2001\u003c/b\u003e???\u003cbr\u003e  present) \u003cb\u003e...\u003c/b\u003e 1615, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of the Spanish Empire), 1615 Arica \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, 8.8 (est.) \u003cb\u003e...\u003c/b\u003e 01835-02-20\u003cb\u003eFebruary\u003c/b\u003e 20, 1835, Concepci??n, Chile, \u003cbr\u003e  1835 Concepci??n \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Is the Recent Increase in Felt Earthquakes in the Central U.S. ...",
+   "htmlTitle": "Is the Recent Increase in Felt \u003cb\u003eEarthquakes\u003c/b\u003e in the Central U.S. \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.usgs.gov/blogs/features/usgs_top_story/is-the-recent-increase-in-felt-earthquakes-in-the-central-us-natural-or-manmade/",
+   "displayLink": "www.usgs.gov",
+   "snippet": "Apr 11, 2012 ... This graph shows the cumulative number of earthquakes M 3 or greater in ...   Beginning in 2001, the average number of earthquakes occurring per year ...   Added: Friday, February 24th, 2012 ..... Exploding Lakes in West Africa ...",
+   "htmlSnippet": "Apr 11, 2012 \u003cb\u003e...\u003c/b\u003e This graph shows the cumulative number of \u003cb\u003eearthquakes\u003c/b\u003e M \u003cb\u003e3\u003c/b\u003e or greater in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Beginning in \u003cb\u003e2001\u003c/b\u003e, the average number of \u003cb\u003eearthquakes\u003c/b\u003e occurring per year \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Added: Friday, \u003cb\u003eFebruary\u003c/b\u003e 24th, 2012 \u003cb\u003e.....\u003c/b\u003e Exploding Lakes in West \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_09QU8AS054J",
+   "formattedUrl": "www.usgs.gov/.../is-the-recent-increase-in-felt-earthquakes-in-the-central-us- natural-or-manmade/",
+   "htmlFormattedUrl": "www.usgs.gov/.../is-the-recent-increase-in-felt-\u003cb\u003eearthquakes\u003c/b\u003e-in-the-central-us- natural-or-manmade/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.usgs.gov/blogs/features/files/2012/04/Featured-Image2-e1334247535227.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "281",
+      "height": "179",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTx9wuixnL8end9IMZMGDZiSPUvu95zzN8Wx04_a72qSr_QYOZXv0jfEjdZ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "San Jose Earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "San Jose \u003cb\u003eEarthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Earthquakes has won two MLS Cup titles, in 2001 and 2003, and two MLS ....   After losing the first game by a score of 1-0, the Earthquakes defeated the Red   Bulls in the second game by a score of 3-1 to ..... Mauricio Solis (1999???00); South   Africa ..... retrieved February 23, 2012; ^ San Jose Earthquakes Media Relations, ...",
+   "htmlSnippet": "The \u003cb\u003eEarthquakes\u003c/b\u003e has won two MLS Cup titles, in \u003cb\u003e2001\u003c/b\u003e and 2003, and two MLS \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  After losing the first game by a score of 1-0, the \u003cb\u003eEarthquakes\u003c/b\u003e defeated the Red \u003cbr\u003e  Bulls in the second game by a score of \u003cb\u003e3\u003c/b\u003e-1 to \u003cb\u003e.....\u003c/b\u003e Mauricio Solis (1999???00); South \u003cbr\u003e  \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e retrieved \u003cb\u003eFebruary\u003c/b\u003e 23, 2012; ^ San Jose \u003cb\u003eEarthquakes\u003c/b\u003e Media Relations, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IeWj28J6mu8J",
+   "formattedUrl": "en.wikipedia.org/wiki/San_Jose_Earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/San_Jose_\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/6/69/SanJoseEarthquakes_2008.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "140",
+      "height": "144",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqhSCa6dTdu2EbOxNTyDnX4f1eCd3sXpgz5I6G5n0s8EwOx-Xs4WdvLU"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "San Jose Earthquakes",
+      "bday": "1994-06-15"
+     },
+     {
+      "fn": "David Bingham"
+     },
+     {
+      "fn": "Bingham, DavidDavid Bingham"
+     },
+     {
+      "fn": "Jacob Hustedt"
+     },
+     {
+      "fn": "Hustedt, JacobJacob Hustedt"
+     },
+     {
+      "fn": "Sam Cronin"
+     },
+     {
+      "fn": "Cronin, SamSam Cronin"
+     },
+     {
+      "fn": "Brad Ring"
+     },
+     {
+      "fn": "Ring, BradBrad Ring"
+     },
+     {
+      "fn": "Shea Salinas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  }
+ ]
+}

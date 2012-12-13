@@ -1,0 +1,314 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 30 1889 Eurasia Earthquake",
+    "totalResults": "6650",
+    "searchTerms": "May 30 1889 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 30 1889 Eurasia Earthquake",
+    "totalResults": "6650",
+    "searchTerms": "May 30 1889 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.203208,
+  "formattedSearchTime": "0.20",
+  "totalResults": "6650",
+  "formattedTotalResults": "6,650"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Tomography of the Arabian-Eurasian Collision Zone and ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Tomography of the Arabian-\u003cb\u003eEurasian\u003c/b\u003e Collision Zone and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "displayLink": "www.dtic.mil",
+   "snippet": "Qualified requestors may obtain copies of this report from the Defense. Technical   ... SEISMIC TOMOGRAPHY OF THE ARABIAN-EURASIAN COLLISION ZONE.   5a. ..... square cells with dimensions of 30 km by 30 km. ..... Am., 93, 1875-1889.",
+   "htmlSnippet": "Qualified requestors \u003cb\u003emay\u003c/b\u003e obtain copies of this report from the Defense. Technical \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSEISMIC\u003c/b\u003e TOMOGRAPHY OF THE ARABIAN-\u003cb\u003eEURASIAN\u003c/b\u003e COLLISION ZONE. \u003cbr\u003e  5a. \u003cb\u003e.....\u003c/b\u003e square cells with dimensions of \u003cb\u003e30\u003c/b\u003e km by \u003cb\u003e30\u003c/b\u003e km. \u003cb\u003e.....\u003c/b\u003e Am., 93, 1875-\u003cb\u003e1889\u003c/b\u003e.",
+   "cacheId": "SncVpbfhL5gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ford",
+      "creationdate": "D:20100602103736-04'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20100721112503-04'00'",
+      "producer": "Acrobat Distiller 9.3.2 (Windows)",
+      "title": "Microsoft Word - 07C0001_final_b.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "data suggests that the Arabia's collision rate with Eurasia may have reduced to ...   29??-30??N slip is partitioned into strike-slip and convergent components separated   by ...... 1889 4 0. 0 36.3 59.60 0 0. 0. 00 Kabul. 188910 0. 0 36.7 67.13 0 0. 0 ...",
+   "htmlSnippet": "data suggests that the Arabia&#39;s collision rate with \u003cb\u003eEurasia may\u003c/b\u003e have reduced to \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  29??-\u003cb\u003e30\u003c/b\u003e??N slip is partitioned into strike-slip and convergent components separated \u003cbr\u003e  by \u003cb\u003e......\u003c/b\u003e \u003cb\u003e1889\u003c/b\u003e 4 0. 0 36.3 59.60 0 0. 0. 00 Kabul. 188910 0. 0 36.7 67.13 0 0. 0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "AD 1889 September 10 earthquake 758 ... Ak-Kerman, AD 1752 October 30   earthquake 576 ... AD 1881 May 30 earthquake 747 ...... Eurasian Plate 815???816 ...",
+   "htmlSnippet": "AD \u003cb\u003e1889\u003c/b\u003e September 10 \u003cb\u003eearthquake\u003c/b\u003e 758 \u003cb\u003e...\u003c/b\u003e Ak-Kerman, AD 1752 October \u003cb\u003e30\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e 576 \u003cb\u003e...\u003c/b\u003e AD 1881 \u003cb\u003eMay 30 earthquake\u003c/b\u003e 747 \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic waves and surface waves: past and present",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e waves and surface waves: past and present",
+   "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009",
+   "displayLink": "www.scielo.org.mx",
+   "snippet": "Published on line: September 30, 2011. ... While the subject may have seemed   rather exotic at the time ???and still is, at least in some parts of ... Rebeur???  Paschwitz in Potsdam somewhat coincidentally on 17 April, 1889 (Figure 1). ...   using the \"peak and trough\" method for Eurasian earthquakes (Figure 9) by D.   G??th (1962).",
+   "htmlSnippet": "Published on line: September \u003cb\u003e30\u003c/b\u003e, 2011. \u003cb\u003e...\u003c/b\u003e While the subject \u003cb\u003emay\u003c/b\u003e have seemed \u003cbr\u003e  rather exotic at the time ???and still is, at least in some parts of \u003cb\u003e...\u003c/b\u003e Rebeur???\u003cbr\u003e  Paschwitz in Potsdam somewhat coincidentally on 17 April, \u003cb\u003e1889\u003c/b\u003e (Figure 1). \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  using the &quot;peak and trough&quot; method for \u003cb\u003eEurasian earthquakes\u003c/b\u003e (Figure 9) by D. \u003cbr\u003e  G??th (1962).",
+   "cacheId": "l1ENIIrcteEJ",
+   "formattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016...",
+   "htmlFormattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0016...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.scielo.org.mx/img/revistas/geoint/v50n4/a9f3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWzENg6uD9O57Xz00pxuqTlyLxv1FuevlMnC6pM25BwqirfLDfFKZB3d-Y"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_journal_title": "Geof??sica internacional",
+      "citation_journal_title_abbrev": "Geof??s. Intl",
+      "citation_publisher": "Instituto de Geof??sica, UNAM",
+      "citation_title": "Seismic waves and surface waves: past and present",
+      "citation_date": "12/2011",
+      "citation_volume": "50",
+      "citation_issue": "4",
+      "citation_issn": "0016-7169",
+      "citation_abstract_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_fulltext_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_pdf_url": "http://www.scielo.org.mx/scielo.php?script=sci_pdf&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_author": "Malischewsky, Peter G.",
+      "citation_author_institution": "Friedrich-Schiller-Universitat Jena, Germany",
+      "citation_firstpage": "485",
+      "citation_lastpage": "493"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Traces of Ancient Earthquakes in Medieval Cities Along the Silk ...",
+   "htmlTitle": "Traces of Ancient \u003cb\u003eEarthquakes\u003c/b\u003e in Medieval Cities Along the Silk \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://journals.tubitak.gov.tr/earth/issues/yer-03-12-3/yer-12-3-3-0301-9.pdf",
+   "displayLink": "journals.tubitak.gov.tr",
+   "snippet": "Eurasian Continent, it is possible that abandonment of these cities was due to   natural disasters and not just to ... last 30 million years (the neotectonic period)   via the ... In July 11, 1889, the ... This includes, for example, an earthquake of   May ...",
+   "htmlSnippet": "\u003cb\u003eEurasian\u003c/b\u003e Continent, it is possible that abandonment of these cities was due to \u003cbr\u003e  natural disasters and not just to \u003cb\u003e...\u003c/b\u003e last \u003cb\u003e30\u003c/b\u003e million years (the neotectonic period) \u003cbr\u003e  via the \u003cb\u003e...\u003c/b\u003e In July 11, \u003cb\u003e1889\u003c/b\u003e, the \u003cb\u003e...\u003c/b\u003e This includes, for example, an \u003cb\u003eearthquake\u003c/b\u003e of \u003cbr\u003e  \u003cb\u003eMay\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aQwIjJDUxT4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "journals.tubitak.gov.tr/earth/issues/yer-03-12-3/yer-12-3-3-0301-9.pdf",
+   "htmlFormattedUrl": "journals.tubitak.gov.tr/earth/issues/yer-03-12-3/yer-12-3-3-0301-9.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20031231120520",
+      "producer": "Acrobat Distiller 3.01 for Power Macintosh",
+      "author": "sinem",
+      "creator": "QuarkXPress Passport??: LaserWriter 8 TU1-8.7",
+      "title": "yer-12-3-3-0301-9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Vulnerability vis-??-vis Active Faults in the Himalaya ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Vulnerability vis-??-vis Active Faults in the Himalaya \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://saarc-sdmc.nic.in/pdf/Publications/Journal/journal%202009/12-journal.pdf",
+   "displayLink": "saarc-sdmc.nic.in",
+   "snippet": "Due to under-thrusting of the lndian plate beneath the Eurasian plate stresses ...   in the modern times, in this region may create havoc with huge loss of life and ....   communities with wave upto 30m (100 feet) high. ..... Yakutat Bay (Alaska)-1889 ...",
+   "htmlSnippet": "Due to under-thrusting of the lndian plate beneath the \u003cb\u003eEurasian\u003c/b\u003e plate stresses \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  in the modern times, in this region \u003cb\u003emay\u003c/b\u003e create havoc with huge loss of life and \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  communities with wave upto \u003cb\u003e30m\u003c/b\u003e (100 feet) high. \u003cb\u003e.....\u003c/b\u003e Yakutat Bay (Alaska)-\u003cb\u003e1889\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LWDeTcQ6dYkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "saarc-sdmc.nic.in/pdf/Publications/Journal/journal%202009/12-journal.pdf",
+   "htmlFormattedUrl": "saarc-sdmc.nic.in/pdf/Publications/Journal/journal%202009/12-journal.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20101119120426+05'30'",
+      "author": "admin",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20101119120426+05'30'",
+      "title": "12-journal.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAULTING ASSOCIATE!) wrra LARGE smrraqumcrs AND THE ...",
+   "htmlTitle": "FAULTING ASSOCIATE!) wrra LARGE smrraqumcrs AND THE \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.colorado.edu/geolsci/faculty/molnarpdf/1984JGR.M&Deng.EQs&AsianDeforma.pdf",
+   "displayLink": "www.colorado.edu",
+   "snippet": "Sep 15, 2012 ... respect to Eurasia in the last 80 years with an uncertainty of ... with respect to   Eurasia, or that such. clisplace???lents ... earthquakes in the last 30 years with di   fferent types of ... May 23, 1927 0 30 .05 102.37 0 .3 6.3 110 (65) (65). 160 (65) (  65) ...... earthquake of 1889 ltlushke tov, 1891] , were comparable in ...",
+   "htmlSnippet": "Sep 15, 2012 \u003cb\u003e...\u003c/b\u003e respect to \u003cb\u003eEurasia\u003c/b\u003e in the last 80 years with an uncertainty of \u003cb\u003e...\u003c/b\u003e with respect to \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e, or that such. clisplace???lents \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e in the last \u003cb\u003e30\u003c/b\u003e years with di \u003cbr\u003e  fferent types of \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMay\u003c/b\u003e 23, 1927 0 \u003cb\u003e30\u003c/b\u003e .05 102.37 0 .3 6.3 110 (65) (65). 160 (65) (\u003cbr\u003e  65) \u003cb\u003e......\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e1889\u003c/b\u003e ltlushke tov, 1891] , were comparable in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ocfcgRpbpaAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.colorado.edu/geolsci/.../1984JGR.M&Deng.EQs&AsianDeforma.pdf",
+   "htmlFormattedUrl": "www.colorado.edu/geolsci/.../1984JGR.M&amp;Deng.EQs&amp;AsianDeforma.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creator": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creationdate": "Thu Jun  3 04:59:06 2004",
+      "moddate": "Thu Jun  3 05:09:30 2004"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Large seismic faults in the Hellenic arc",
+   "htmlTitle": "Large \u003cb\u003eseismic\u003c/b\u003e faults in the Hellenic arc",
+   "link": "http://www.earth-prints.org/bitstream/2122/1706/1/01%20papazachos.pdf",
+   "displayLink": "www.earth-prints.org",
+   "snippet": "that which produced a large earthquake (December 1303, MS = 8.0) in the   easternmost ..... 4 May 30, 1968 35.4 27.9 293 25 90 5.9 1 F .... 1889-1995, 114,2   6.5 ...",
+   "htmlSnippet": "that which produced a large \u003cb\u003eearthquake\u003c/b\u003e (December 1303, MS = 8.0) in the \u003cbr\u003e  easternmost \u003cb\u003e.....\u003c/b\u003e 4 \u003cb\u003eMay 30\u003c/b\u003e, 1968 35.4 27.9 293 25 90 5.9 1 F \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1889\u003c/b\u003e-1995, 114,2 \u003cbr\u003e  6.5 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OmILh2ymxmUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth-prints.org/bitstream/2122/1706/1/01%20papazachos.pdf",
+   "htmlFormattedUrl": "www.earth-prints.org/bitstream/2122/1706/1/01%20papazachos.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Tue Sep 12 14:32:52 2006",
+      "creationdate": "Tue Sep 12 14:32:36 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic imaging of continents and their margins: New research at ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e imaging of continents and their margins: New research at \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://rses.anu.edu.au/~nick/papers/tecto12.pdf",
+   "displayLink": "rses.anu.edu.au",
+   "snippet": "both classes of data may yield improved results compared to separate analyses.   ... Therefore, local earthquake tomography can offer similar ...... Abstracts 30 http:/  /dx.doi.org/10.1190/1.3627505. Nielsen, L. .... sional velocity structure beneath   northern Eurasia derived from the super long- ... Geophysics 65, 1882???1889.",
+   "htmlSnippet": "both classes of data \u003cb\u003emay\u003c/b\u003e yield improved results compared to separate analyses. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Therefore, local \u003cb\u003eearthquake\u003c/b\u003e tomography \u003cb\u003ecan\u003c/b\u003e offer similar \u003cb\u003e......\u003c/b\u003e Abstracts \u003cb\u003e30\u003c/b\u003e http:/\u003cbr\u003e  /dx.doi.org/10.1190/1.3627505. Nielsen, L. \u003cb\u003e....\u003c/b\u003e sional velocity structure beneath \u003cbr\u003e  northern \u003cb\u003eEurasia\u003c/b\u003e derived from the super long- \u003cb\u003e...\u003c/b\u003e Geophysics 65, 1882???\u003cb\u003e1889\u003c/b\u003e.",
+   "cacheId": "p_CGMEsQmdMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "rses.anu.edu.au/~nick/papers/tecto12.pdf",
+   "htmlFormattedUrl": "rses.anu.edu.au/~nick/papers/tecto12.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20120921154449+08'00'",
+      "creator": "Elsevier",
+      "moddate": "D:20120926153840Z00'00'",
+      "producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "title": "Seismic imaging of continents and their margins: New research at the confluence of active and passive seismology"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stress Coupling Between Earthquakes in Northwest Turkey and the ...",
+   "htmlTitle": "Stress Coupling Between \u003cb\u003eEarthquakes\u003c/b\u003e in Northwest Turkey and the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://seismologie.oma.be/CYCLE/Research/Publications_files/JGR_98AegeanCoulomb.pdf",
+   "displayLink": "seismologie.oma.be",
+   "snippet": "stress shadow can become regions where a damaging earthquake may occur. ...   Myr ago in eastern Turkey following the collision of Arabian and the Eurasian   plate. ..... The 1942 fault is located 30-35 km away in a region of .... Saros, to the   1889 earthquake in the Edremit Gulf and to the 1894 earthquake in the Izmit Bay, ...",
+   "htmlSnippet": "stress shadow \u003cb\u003ecan\u003c/b\u003e become regions where a damaging \u003cb\u003eearthquake may\u003c/b\u003e occur. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Myr ago in eastern Turkey following the collision of Arabian and the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  plate. \u003cb\u003e.....\u003c/b\u003e The 1942 fault is located \u003cb\u003e30\u003c/b\u003e-35 km away in a region of \u003cb\u003e....\u003c/b\u003e Saros, to the \u003cbr\u003e  \u003cb\u003e1889 earthquake\u003c/b\u003e in the Edremit Gulf and to the 1894 \u003cb\u003eearthquake\u003c/b\u003e in the Izmit Bay, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "I6eGYTtARkUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "seismologie.oma.be/CYCLE/Research/...files/JGR_98AegeanCoulomb.pdf",
+   "htmlFormattedUrl": "seismologie.oma.be/CYCLE/Research/...files/JGR_98AegeanCoulomb.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "D:20000929140116",
+      "author": "blues",
+      "producer": "Acrobat PDFWriter 4.0 for Power Macintosh",
+      "moddate": "D:20001003124959-04'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

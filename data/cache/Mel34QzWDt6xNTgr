@@ -1,0 +1,246 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 30 2002 Asia Earthquake",
+    "totalResults": "761000",
+    "searchTerms": "Apr 30 2002 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 30 2002 Asia Earthquake",
+    "totalResults": "761000",
+    "searchTerms": "Apr 30 2002 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.202456,
+  "formattedSearchTime": "0.20",
+  "totalResults": "761000",
+  "formattedTotalResults": "761,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... The earthquake was centered in the gold mining area of Welkom about 300   kilometers ... Mongolia, 1957 - Magnitude : 8.1 ??? 30 people killed .... Movie about   Asian tsunami shuns 'disaster' label .... But Finance Minister Bill English said in   April the Government's guarantee to .... Largest earthquake in 2002.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom about 300 \u003cbr\u003e  kilometers \u003cb\u003e...\u003c/b\u003e Mongolia, 1957 - Magnitude : 8.1 ??? \u003cb\u003e30\u003c/b\u003e people killed \u003cb\u003e....\u003c/b\u003e Movie about \u003cbr\u003e  \u003cb\u003eAsian\u003c/b\u003e tsunami shuns &#39;disaster&#39; label \u003cb\u003e....\u003c/b\u003e But Finance Minister Bill English said in \u003cbr\u003e  \u003cb\u003eApril\u003c/b\u003e the Government&#39;s guarantee to \u003cb\u003e....\u003c/b\u003e Largest \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e2002\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Sichuan Chongqing Border, China",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Sichuan Chongqing Border, China",
+   "link": "http://earthquaketrack.com/r/sichuan-chongqing-border-china",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Yesterday: 6.3 magnitude earthquake near Tokoroa, Auckland, New Zealand ...   Sichuan Chongqing Border, China is on the map of Southeast Asia and Asia and ...",
+   "htmlSnippet": "Yesterday: 6.3 magnitude \u003cb\u003eearthquake\u003c/b\u003e near Tokoroa, Auckland, New Zealand \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Sichuan Chongqing Border, China is on the map of Southeast \u003cb\u003eAsia\u003c/b\u003e and \u003cb\u003eAsia\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VVPXQyKiMgYJ",
+   "formattedUrl": "earthquaketrack.com/r/sichuan-chongqing-border-china",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/r/sichuan-chongqing-border-china",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "LEeO8kAKBzcquwEHn5xQfBX4UH0uBUwjFmR3Uy+6uNI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: January 30, 2012 at 9:41 pm by By Armand Vervaeck and James   Daniell .... form an Asia-Pacific comparison of flood and earthquake socio-  economic loss in the .... As was reported by earthquake-report.com from NPA   back in April about ...... Utsu, T. [2002] ???A list of deadly earthquakes in the World:   1500-2000???, ...",
+   "htmlSnippet": "Last update: January \u003cb\u003e30\u003c/b\u003e, 2012 at 9:41 pm by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e....\u003c/b\u003e form an \u003cb\u003eAsia\u003c/b\u003e-Pacific comparison of flood and \u003cb\u003eearthquake\u003c/b\u003e socio-\u003cbr\u003e  economic loss in the \u003cb\u003e....\u003c/b\u003e As was reported by \u003cb\u003eearthquake\u003c/b\u003e-report.com from NPA \u003cbr\u003e  back in \u003cb\u003eApril\u003c/b\u003e about \u003cb\u003e......\u003c/b\u003e Utsu, T. [\u003cb\u003e2002\u003c/b\u003e] ???A list of deadly \u003cb\u003eearthquakes\u003c/b\u003e in the World: \u003cbr\u003e  1500-2000???, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on April 30 - What happened on my birthday. Today ...",
+   "htmlTitle": "What happened on \u003cb\u003eApril 30\u003c/b\u003e - What happened on my birthday. Today \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/apr30.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "April 30, 0313 Roman emperor Licinius unifies the entire Eastern Roman Empire   under his rule. April 30, 0711 Islamic conquest of Hispania: Moorish troops led by   Tariq .... April 30, 1986 \"In the Michoacan, Mexico region a 7.0 earthquake   caused ... April 30, 2002 A referendum in Pakistan overwhelmingly approves the ...",
+   "htmlSnippet": "April 30, 0313 Roman emperor Licinius unifies the entire Eastern Roman Empire \u003cbr\u003e  under his rule. April 30, 0711 Islamic conquest of Hispania: Moorish troops led by \u003cbr\u003e  Tariq \u003cb\u003e....\u003c/b\u003e April 30, 1986 &quot;In the Michoacan, Mexico region a 7.0 \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  caused \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril 30\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e A referendum in Pakistan overwhelmingly approves the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gs12j6XsR10J",
+   "formattedUrl": "www.datesinhistory.com/apr30.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eapr30\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Damaging Earthquakes Database 2010 ??? The Year in Review ...",
+   "htmlTitle": "Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2010 ??? The Year in Review \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/wp-content/uploads/2011/03/CATDAT-EQ-Data-1st-Annual-Review-2010-James-Daniell-03-03-2011.pdf",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Feb 27, 2011 ... that were entered into the CATDAT Damaging Earthquake Database in .....   However, this earthquake did cause about 30 billion USD ... Australia, in the form   of 3 papers, and the data was also used to form an Asia-Pacific comparison of ...   earthquakes out of all databases, including over 10000 up to 2002.",
+   "htmlSnippet": "Feb 27, 2011 \u003cb\u003e...\u003c/b\u003e that were entered into the CATDAT Damaging \u003cb\u003eEarthquake\u003c/b\u003e Database in \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  However, this \u003cb\u003eearthquake\u003c/b\u003e did cause about \u003cb\u003e30\u003c/b\u003e billion USD \u003cb\u003e...\u003c/b\u003e Australia, in the form \u003cbr\u003e  of 3 papers, and the data was also used to form an \u003cb\u003eAsia\u003c/b\u003e-Pacific comparison of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e out of all databases, including over 10000 up to \u003cb\u003e2002\u003c/b\u003e.",
+   "cacheId": "cAitKwePwBgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110303154353+01'00'",
+      "author": "admin",
+      "creator": "Acrobat PDFMaker 7.0.7 f??r Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20110303154744+01'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GeologyLink??",
+   "htmlTitle": "GeologyLink??",
+   "link": "http://college.cengage.com/geology/resources/geologylink/today/today_archive.html",
+   "displayLink": "college.cengage.com",
+   "snippet": "December 6, 2002 to December 20, 2002 ... Mexico felt a 4.3 magnitude   earthquake, low-frequency tremors occured at ... April 1, 2002 to April 30, 2002   ..... Heavy rains and typhoons cause flooding in SE ASia, India, China, Romania,   Morocco ...",
+   "htmlSnippet": "December 6, 2002 to December 20, 2002 \u003cb\u003e...\u003c/b\u003e Mexico felt a 4.3 magnitude \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, low-frequency tremors occured at \u003cb\u003e...\u003c/b\u003e April 1, 2002 to \u003cb\u003eApril 30, 2002\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Heavy rains and typhoons cause flooding in SE \u003cb\u003eASia\u003c/b\u003e, India, China, Romania, \u003cbr\u003e  Morocco \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zNtu4x6QIxMJ",
+   "formattedUrl": "college.cengage.com/geology/resources/.../today_archive.html",
+   "htmlFormattedUrl": "college.cengage.com/geology/resources/.../today_archive.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of Asia Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eAsia\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/Asia_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. ... located by the USGS and contributing networks for the Map of Asia   Region. .... MAP, 4.9, 2012/12/07 20:30:39, 37.796, 143.603, 25.5, OFF THE   EAST ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e located by the USGS and contributing networks for the Map of \u003cb\u003eAsia\u003c/b\u003e \u003cbr\u003e  Region. \u003cb\u003e....\u003c/b\u003e MAP, 4.9, 2012/12/07 20:\u003cb\u003e30\u003c/b\u003e:39, 37.796, 143.603, 25.5, OFF THE \u003cbr\u003e  EAST \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7q8t4MZRaIIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/Maps/.../Asia_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/Maps/.../\u003cb\u003eAsia\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Does Information Released by Current Web-Based Earthquake ...",
+   "htmlTitle": "Does Information Released by Current Web-Based \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.disaster.org.tw/ENGLISH/annals/EarthquakeAlarm.pdf",
+   "displayLink": "www.disaster.org.tw",
+   "snippet": "the internet and the timing of earthquake information release from the Central.   Weather Bureau from November 2001 to April 2002. There were 171 ...   Philippines and the Euro-Asia tectonic plates, which may ... April 30 2002. The   differences of ...",
+   "htmlSnippet": "the internet and the timing of \u003cb\u003eearthquake\u003c/b\u003e information release from the Central. \u003cbr\u003e  Weather Bureau from November 2001 to April 2002. There were 171 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Philippines and the Euro-\u003cb\u003eAsia\u003c/b\u003e tectonic plates, which may \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril 30 2002\u003c/b\u003e. The \u003cbr\u003e  differences of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rE8XKa6yqIUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.disaster.org.tw/ENGLISH/annals/EarthquakeAlarm.pdf",
+   "htmlFormattedUrl": "www.disaster.org.tw/ENGLISH/annals/\u003cb\u003eEarthquake\u003c/b\u003eAlarm.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "??? Microsoft Word",
+      "creationdate": "D:20020703134549",
+      "title": "??? EarthquakeAlarm.PDF",
+      "author": "??? 2087",
+      "producer": "Acrobat PDFWriter 4.0 for Windows"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Largest and Deadliest Earthquakes by Year",
+   "htmlTitle": "Largest and Deadliest \u003cb\u003eEarthquakes\u003c/b\u003e by Year",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 30, 2012 ... 2009, 09/29, 8.1, 192, Samoa Islands region, 2009, 09/30, 7.5, 1117 ... 2002, 11/  03, 7.9, 0, Central Alaska, 2002, 03/25, 6.1, 1000, Hindu Kush ...",
+   "htmlSnippet": "Oct 30, 2012 \u003cb\u003e...\u003c/b\u003e 2009, 09/29, 8.1, 192, Samoa Islands region, 2009, 09/\u003cb\u003e30\u003c/b\u003e, 7.5, 1117 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2002\u003c/b\u003e, 11/\u003cbr\u003e  03, 7.9, 0, Central Alaska, \u003cb\u003e2002\u003c/b\u003e, 03/25, 6.1, 1000, Hindu Kush \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mhiAOqI2nBAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/year/byyear.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Destroyed 13 cities in Asia (minor), Described by the historians Tacitus and Pliny   the Elder .... 1,000s, 7.4, Ms Earthquake in same area on October 30 considered   to be a foreshock. April 2, 1762, Northeastern Bay of Bengal ..... [2002] (2002)   ????????????????????????: ?????????, ????????????, ?????????????????????, ?????????????????????, ????????????.",
+   "htmlSnippet": "Destroyed 13 cities in \u003cb\u003eAsia\u003c/b\u003e (minor), Described by the historians Tacitus and Pliny \u003cbr\u003e  the Elder \u003cb\u003e....\u003c/b\u003e 1,000s, 7.4, Ms \u003cb\u003eEarthquake\u003c/b\u003e in same area on October \u003cb\u003e30\u003c/b\u003e considered \u003cbr\u003e  to be a foreshock. \u003cb\u003eApril\u003c/b\u003e 2, 1762, Northeastern Bay of Bengal \u003cb\u003e.....\u003c/b\u003e [\u003cb\u003e2002\u003c/b\u003e] (\u003cb\u003e2002\u003c/b\u003e) \u003cbr\u003e  ????????????????????????: ?????????, ????????????, ?????????????????????, ?????????????????????, ????????????.",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  }
+ ]
+}

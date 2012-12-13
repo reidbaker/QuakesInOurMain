@@ -1,0 +1,353 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 18 2002 North America Earthquake",
+    "totalResults": "776000",
+    "searchTerms": "Jun 18 2002 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 18 2002 North America Earthquake",
+    "totalResults": "776000",
+    "searchTerms": "Jun 18 2002 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.232735,
+  "formattedSearchTime": "0.23",
+  "totalResults": "776000",
+  "formattedTotalResults": "776,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 18 2002 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 18 2002 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Afghanistan ??? 2 strong earthquakes hit a populated area! 71 ...",
+   "htmlTitle": "Afghanistan ??? 2 strong \u003cb\u003eearthquakes\u003c/b\u003e hit a populated area! 71 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/11/afghanistan-strong-earthquake-hits-populated-area/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: June 18, 2012 at 12:25 pm by By Armand Vervaeck and James ...   UPDATE: 50 deaths and 150 injuries were seen from a 2002 earthquake   occurring very close to the ... of Mw6.4, a destructive earthquake in north   Afghanistan occurred. .... of M 4.0 or higher with emphasis to earthquakes in the   America's and the ...",
+   "htmlSnippet": "Last update: \u003cb\u003eJune 18\u003c/b\u003e, 2012 at 12:25 pm by By Armand Vervaeck and James \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  UPDATE: 50 deaths and 150 injuries were seen from a \u003cb\u003e2002 earthquake\u003c/b\u003e \u003cbr\u003e  occurring very close to the \u003cb\u003e...\u003c/b\u003e of Mw6.4, a destructive \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003enorth\u003c/b\u003e \u003cbr\u003e  Afghanistan occurred. \u003cb\u003e....\u003c/b\u003e of M 4.0 or higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cbr\u003e  \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Xm4jZ38qAYwJ",
+   "formattedUrl": "earthquake-report.com/.../afghanistan-strong-earthquake-hits-populated-area/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../afghanistan-strong-\u003cb\u003eearthquake\u003c/b\u003e-hits-populated-area/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/06/Afghanistan_landslide2-268x300.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "212",
+      "height": "238",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4fohV0TQqva5VRHC9UDnCBpT6NVwSeiPtMmilByeatxWDhbO_Uh5R530"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "USGS Release: Quake hits Southern Indiana-Illinois Border Region ...",
+   "htmlTitle": "USGS Release: \u003cb\u003eQuake\u003c/b\u003e hits Southern Indiana-Illinois Border Region \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.usgs.gov/newsroom/article.asp?ID=372",
+   "displayLink": "www.usgs.gov",
+   "snippet": "Jun 18, 2002 ... The U.S. Geological Survey (USGS) reported an earthquake with a preliminary   magnitude of 5.0 near Darmstadt, Ind., on June 18, 2002 at 12:37 ... of the North   American plate, far from currently active plate boundaries,\" said ...",
+   "htmlSnippet": "Jun 18, 2002 \u003cb\u003e...\u003c/b\u003e The U.S. Geological Survey (USGS) reported an \u003cb\u003eearthquake\u003c/b\u003e with a preliminary \u003cbr\u003e  magnitude of 5.0 near Darmstadt, Ind., on \u003cb\u003eJune 18\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e at 12:37 \u003cb\u003e...\u003c/b\u003e of the \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerican\u003c/b\u003e plate, far from currently active plate boundaries,&quot; said \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dOF9YEcltCQJ",
+   "formattedUrl": "www.usgs.gov/newsroom/article.asp?ID=372",
+   "htmlFormattedUrl": "www.usgs.gov/newsroom/article.asp?ID=372",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Office of Communications",
+      "publisher": "USGS - U.S. Geological Survey",
+      "created": "6/18/2002",
+      "expires": "never",
+      "review": "2013725",
+      "revised": "6/18/2002"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... Archive 2012 : Jan/Febr March April/June July/August ... The earthquake was   centered in the gold mining area of Welkom .... northwest with respect to the   North American Plate at approximately ..... Several segments of surface faulting   were seen in a zone about 18 .... Alaska (USA), 2002 - Magnitude : 7.9 ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e Archive 2012 : Jan/Febr March April/\u003cb\u003eJune\u003c/b\u003e July/August \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  centered in the gold mining area of Welkom \u003cb\u003e....\u003c/b\u003e northwest with respect to the \u003cbr\u003e  \u003cb\u003eNorth American\u003c/b\u003e Plate at approximately \u003cb\u003e.....\u003c/b\u003e Several segments of surface faulting \u003cbr\u003e  were seen in a zone about \u003cb\u003e18\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Alaska (USA), \u003cb\u003e2002\u003c/b\u003e - Magnitude : 7.9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wabash Valley Seismic Zone - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Wabash Valley \u003cb\u003eSeismic\u003c/b\u003e Zone - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Wabash_Valley_Seismic_Zone",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "June 18, 2002 magnitude 4.6: The earthquake was located close to Evansville,   Indiana, with an epicenter ... Major seismically active faults of North America ...",
+   "htmlSnippet": "\u003cb\u003eJune 18, 2002\u003c/b\u003e magnitude 4.6: The \u003cb\u003eearthquake\u003c/b\u003e was located close to Evansville, \u003cbr\u003e  Indiana, with an epicenter \u003cb\u003e...\u003c/b\u003e Major seismically active faults of \u003cb\u003eNorth America\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M-ZCqxXp5YgJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Wabash_Valley_Seismic_Zone",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Wabash_Valley_\u003cb\u003eSeismic\u003c/b\u003e_Zone",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/New_Madrid_and_Wabash_seizmic_zones-USGS.png/350px-New_Madrid_and_Wabash_seizmic_zones-USGS.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "215",
+      "height": "235",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFLUMGA-dVnCxSDm96KHqB9h0tc63BNbX4Mm6rl_XWwbdf3wXh0LOp1ZA1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "htmlTitle": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... Jon Frimann (Iceland Earthquakes and Volcanoes blog) reports a cluster of 30 ...   Seismicity at Long Valley Caldera, California, USA on June 18 ..... Volcanic   activity from the American West to Colombia .... The eruption was one of its   largest in recent years since the start of near continuous activity in 2002.",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e Jon Frimann (Iceland \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanoes blog) reports a cluster of 30 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Seismicity at Long Valley Caldera, California, USA on \u003cb\u003eJune 18\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e Volcanic \u003cbr\u003e  activity from the \u003cb\u003eAmerican\u003c/b\u003e West to Colombia \u003cb\u003e....\u003c/b\u003e The eruption was one of its \u003cbr\u003e  largest in recent years since the start of near continuous activity in \u003cb\u003e2002\u003c/b\u003e.",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismotectonic Setting of the June 18, 2002, Evansville, Indiana ...",
+   "htmlTitle": "Seismotectonic Setting of the \u003cb\u003eJune 18, 2002\u003c/b\u003e, Evansville, Indiana \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://adsabs.harvard.edu/abs/2002AGUFM.S22D..03H",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "Seismotectonic Setting of the June 18, 2002, Evansville, Indiana Earthquake: Or   ... the region and subparallel to the absolute motion of the North American Plate.",
+   "htmlSnippet": "Seismotectonic Setting of the \u003cb\u003eJune 18, 2002\u003c/b\u003e, Evansville, Indiana \u003cb\u003eEarthquake\u003c/b\u003e: Or \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e the region and subparallel to the absolute motion of the \u003cb\u003eNorth American\u003c/b\u003e Plate.",
+   "formattedUrl": "adsabs.harvard.edu/abs/2002AGUFM.S22D..03H",
+   "htmlFormattedUrl": "adsabs.harvard.edu/abs/\u003cb\u003e2002\u003c/b\u003eAGUFM.S22D..03H",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/2002AGUFM.S22D..03H",
+      "citation_title": "Seismotectonic Setting of the June 18, 2002, Evansville, Indiana Earthquake: Or What's a Nice Earthquake Like You Doing in a Place Like This?",
+      "citation_authors": "Hamburger, M. W.; Pavlis, G. L.; Kim, W.; Haase, J. S.; Withers, M.",
+      "citation_keywords": "7215 Earthquake parameters, 7230 Seismicity and seismotectonics, 8110 Continental tectonics: general (0905)",
+      "citation_date": "12/2002",
+      "citation_journal_title": "AGU Fall Meeting Abstracts",
+      "citation_firstpage": "03",
+      "prism.publicationname": "AGU Fall Meeting Abstracts",
+      "prism.volume": "-1",
+      "prism.startingpage": "03",
+      "dc.language": "en",
+      "dc.date": "2002-12",
+      "dc.source": "American Geophysical Union, Fall Meeting 2002, abstract #S22D-03",
+      "dc.title": "Seismotectonic Setting of the June 18, 2002, Evansville, Indiana Earthquake: Or What's a Nice Earthquake Like You Doing in a Place Like This?",
+      "dc.creator": "Hamburger, M. W."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 5.4 - ILLINOIS",
+   "htmlTitle": "Magnitude 5.4 - ILLINOIS",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqinthenews/2008/us2008qza6/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Apr 18, 2008 ... Please use the new Real-time Earthquake Map instead and update your   bookmark. ... Friday, April 18, 2008 at 04:37:00 AM at epicenter; Time of   Earthquake in ... Mississippi, Missouri, Nebraska, North Carolina, Ohio,   Tennessee, .... and Notices ?? In partnership with nehrp ?? Take Pride in America;   USA.gov ...",
+   "htmlSnippet": "Apr 18, 2008 \u003cb\u003e...\u003c/b\u003e Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e Friday, April \u003cb\u003e18\u003c/b\u003e, 2008 at 04:37:00 AM at epicenter; Time of \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e Mississippi, Missouri, Nebraska, \u003cb\u003eNorth\u003c/b\u003e Carolina, Ohio, \u003cbr\u003e  Tennessee, \u003cb\u003e....\u003c/b\u003e and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; \u003cbr\u003e  USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6JtcMnTYVO4J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqinthenews/2008/us2008qza6/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqinthenews/2008/us2008qza6/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/images/globes/40_-90.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "116",
+      "height": "116",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgDNMwLfuLyrqNR_nnDgw36Q_UPsdNEoj7Hlkyil0FDGLVqE5YnwvN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Evansville, June 18, 2002",
+   "htmlTitle": "Evansville, \u003cb\u003eJune 18\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e",
+   "link": "http://www.geosci.ipfw.edu/observe/earthquake/061802/evansville0618.html",
+   "displayLink": "www.geosci.ipfw.edu",
+   "snippet": "Earthquake occurred at 12:37pm EST Tuesday June 18, 2002 ... generally stable   interior of the North American plate, far from currently active plate boundaries.",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e occurred at 12:37pm EST \u003cb\u003eTuesday June 18, 2002\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e generally stable \u003cbr\u003e  interior of the \u003cb\u003eNorth American\u003c/b\u003e plate, far from currently active plate boundaries.",
+   "cacheId": "bQXS2GICwm8J",
+   "formattedUrl": "www.geosci.ipfw.edu/observe/earthquake/.../evansville0618.html",
+   "htmlFormattedUrl": "www.geosci.ipfw.edu/observe/\u003cb\u003eearthquake\u003c/b\u003e/.../evansville0618.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.geosci.ipfw.edu/observe/earthquake/061802/quake0618wavesml.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "264",
+      "height": "191",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDiDBCQtnR65y5v5BJKkH4ejhK6wt-f7aqYaNw8Sc0zb7VZgvaTB7sFijI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Researchers Suggest that Ancient Fault Lines in Indiana Have Been ...",
+   "htmlTitle": "Researchers Suggest that Ancient Fault Lines in Indiana Have Been \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.columbia.edu/cu/record/archives/vol28/vol28_iss15/Pg8-2815.pdf",
+   "displayLink": "www.columbia.edu",
+   "snippet": "On June 18, 2002, a magnitude 5.0 earth- quake ... the earthquake's epicenter   occurred at a depth of 18??2 ... the North American Plate over the Earth's mantle.",
+   "htmlSnippet": "On \u003cb\u003eJune 18, 2002\u003c/b\u003e, a magnitude 5.0 earth- \u003cb\u003equake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e the \u003cb\u003eearthquake&#39;s\u003c/b\u003e epicenter \u003cbr\u003e  occurred at a depth of 18??2 \u003cb\u003e...\u003c/b\u003e the \u003cb\u003eNorth American\u003c/b\u003e Plate over the Earth&#39;s mantle.",
+   "cacheId": "cP9sxP8Up4gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.columbia.edu/cu/record/archives/vol28/vol28_iss15/Pg8-2815.pdf",
+   "htmlFormattedUrl": "www.columbia.edu/cu/record/archives/vol28/vol28_iss15/Pg8-2815.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030519122508",
+      "producer": "Acrobat Distiller 4.0 for Macintosh",
+      "author": "jason",
+      "creator": "QuarkXPress??: LaserWriter 8 8.7",
+      "title": "Pg8-2815"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Public Awareness - Media Coverage",
+   "htmlTitle": "Public Awareness - Media Coverage",
+   "link": "http://mae.cee.illinois.edu/general_public/media_coverage.html",
+   "displayLink": "mae.cee.illinois.edu",
+   "snippet": "WAND TV article and video about the earthquake on April 18, 2008. ... is the   director of the Mid-America Earthquake Center at the University of Illinois. ...   WICA TV News ??? June 18, 2002 ??? Report on Evansville, Indiana Earthquake ???   interviewed, Deputy Director of MAE Center ... 205 N. Mathews Avenue, Urbana,   IL 61801 ...",
+   "htmlSnippet": "WAND TV article and video about the \u003cb\u003eearthquake\u003c/b\u003e on April 18, 2008. \u003cb\u003e...\u003c/b\u003e is the \u003cbr\u003e  director of the Mid-\u003cb\u003eAmerica Earthquake\u003c/b\u003e Center at the University of Illinois. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  WICA TV News ??? \u003cb\u003eJune 18, 2002\u003c/b\u003e ??? Report on Evansville, Indiana \u003cb\u003eEarthquake\u003c/b\u003e ??? \u003cbr\u003e  interviewed, Deputy Director of MAE Center \u003cb\u003e...\u003c/b\u003e 205 \u003cb\u003eN\u003c/b\u003e. Mathews Avenue, Urbana, \u003cbr\u003e  IL 61801 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J9LbI8f-2VEJ",
+   "formattedUrl": "mae.cee.illinois.edu/general_public/media_coverage.html",
+   "htmlFormattedUrl": "mae.cee.illinois.edu/general_public/media_coverage.html"
+  }
+ ]
+}

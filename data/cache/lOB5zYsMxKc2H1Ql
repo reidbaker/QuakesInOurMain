@@ -1,0 +1,319 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 25 2001 South America Earthquake",
+    "totalResults": "790000",
+    "searchTerms": "Jul 25 2001 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 25 2001 South America Earthquake",
+    "totalResults": "790000",
+    "searchTerms": "Jul 25 2001 South America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.208548,
+  "formattedSearchTime": "0.21",
+  "totalResults": "790000",
+  "formattedTotalResults": "790,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 25 2001 South America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 25 2001 South America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and South America",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and \u003cb\u003eSouth America\u003c/b\u003e",
+   "link": "http://gosouthamerica.about.com/od/earthquakes/a/earthquakes.htm",
+   "displayLink": "gosouthamerica.about.com",
+   "snippet": "Many of these earthquakes happen in South America, due to the Nazca and   South ... the Philippines, and Japan, with waves measuring up to 25 meters high.   ... ice from Cerro Huascaran in 1962; On July 31, 1970 a 8 magnitude earthquake   struck ... 2001; On November 15, 2004 a 7.2 earthquake struck off the west coast   of ...",
+   "htmlSnippet": "Many of these \u003cb\u003eearthquakes\u003c/b\u003e happen in \u003cb\u003eSouth America\u003c/b\u003e, due to the Nazca and \u003cbr\u003e  South \u003cb\u003e...\u003c/b\u003e the Philippines, and Japan, with waves measuring up to \u003cb\u003e25\u003c/b\u003e meters high. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e ice from Cerro Huascaran in 1962; On \u003cb\u003eJuly\u003c/b\u003e 31, 1970 a 8 magnitude \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  struck \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e; On November 15, 2004 a 7.2 \u003cb\u003eearthquake\u003c/b\u003e struck off the west coast \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XtniQaHiPcsJ",
+   "formattedUrl": "gosouthamerica.about.com/od/earthquakes/a/earthquakes.htm",
+   "htmlFormattedUrl": "go\u003cb\u003esouthamerica\u003c/b\u003e.about.com/od/\u003cb\u003eearthquakes\u003c/b\u003e/a/\u003cb\u003eearthquakes\u003c/b\u003e.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "pd": "Monday, 09-Apr-2012 22:31:54 UTC",
+      "og:title": "Earthquakes and South America",
+      "og:type": "article",
+      "og:url": "http://gosouthamerica.about.com/od/earthquakes/a/earthquakes.htm",
+      "og:site_name": "About.com South America Travel",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "G. G. Green's Block - Wikipedia, the free encyclopedia",
+   "htmlTitle": "G. G. Green&#39;s Block - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/G._G._Green's_Block",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Location: 108 South Broad Street, Woodbury, New Jersey ... Added to NRHP:   July 25, 2001. Designated NJRHP: June 11, 2001 ... Following the 2011 Virginia   Earthquake the vacant building and attached structures, ... American Samoa ??   Guam ?? Minor Outlying Islands ?? Northern Mariana Islands ?? Puerto Rico ?? Virgin   Islands ...",
+   "htmlSnippet": "Location: 108 \u003cb\u003eSouth\u003c/b\u003e Broad Street, Woodbury, New Jersey \u003cb\u003e...\u003c/b\u003e Added to NRHP: \u003cbr\u003e  \u003cb\u003eJuly 25\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e. Designated NJRHP: June 11, 2001 \u003cb\u003e...\u003c/b\u003e Following the 2011 Virginia \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e the vacant building and attached structures, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAmerican\u003c/b\u003e Samoa &middot; \u003cbr\u003e  Guam &middot; Minor Outlying Islands &middot; Northern Mariana Islands &middot; Puerto Rico &middot; Virgin \u003cbr\u003e  Islands \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9cTpG5XFwgQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/G._G._Green's_Block",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/G._G._Green&#39;s_Block",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/G.G.GREEN_BLOCK_1880.JPG/250px-G.G.GREEN_BLOCK_1880.JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlC-frO1V9JjisOPFAEkTgwSvslbrjD14wewpeZXPb_l3-Eu4ypLRe-08N"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in South America",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eSouth America\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/v/southamerica/biggest",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The Largest Earthquakes in South America. ... Biggest Earthquakes Near South   America. Recent Quakes .... F. over 25 years ago, 7.3 magnitude, 62 km depth ...",
+   "htmlSnippet": "The Largest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eSouth America\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Biggest \u003cb\u003eEarthquakes\u003c/b\u003e Near \u003cb\u003eSouth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e. Recent Quakes \u003cb\u003e....\u003c/b\u003e F. over \u003cb\u003e25\u003c/b\u003e years ago, 7.3 magnitude, 62 km depth \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4IMKfZTkGl0J",
+   "formattedUrl": "earthquaketrack.com/v/southamerica/biggest",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/\u003cb\u003esouthamerica\u003c/b\u003e/biggest",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ogZu9O8P6JUbafuHeyM1RPs6kIDYin8N5Qrz7DZRNnI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 5.2, NEAR THE COAST OF TAMIL NADU, INDIA, Sep 25 2001 ... 4.9, SOUTH   AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 5.2, NEAR THE COAST OF TAMIL NADU, INDIA, \u003cb\u003eSep 25 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 4.9, \u003cb\u003eSOUTH\u003c/b\u003e \u003cbr\u003e  AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "El Salvador latest and breaking national news and regional news ...",
+   "htmlTitle": "El Salvador latest and breaking national news and regional news \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/elsalvador/",
+   "displayLink": "www.telegraph.co.uk",
+   "snippet": "In pictures: people in Latin America celebrate the Day of the Dead. ... 25 Jul 2002   ... 07 May 2001. Plea for calm as El Salvador quake deaths reach 260 ?? THE   number of dead from the latest earthquake in El Salvador rose to 260 yesterday   as ...",
+   "htmlSnippet": "In pictures: people in \u003cb\u003eLatin America\u003c/b\u003e celebrate the Day of the Dead. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e25 Jul\u003c/b\u003e 2002 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 07 May \u003cb\u003e2001\u003c/b\u003e. Plea for calm as El Salvador quake deaths reach 260 &middot; THE \u003cbr\u003e  number of dead from the latest \u003cb\u003eearthquake\u003c/b\u003e in El Salvador rose to 260 yesterday \u003cbr\u003e  as \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.telegraph.co.uk/news/.../centralamericaandthecaribbean/elsalvador/",
+   "htmlFormattedUrl": "www.telegraph.co.uk/news/.../central\u003cb\u003eamerica\u003c/b\u003eandthecaribbean/elsalvador/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "tmgads.zone": "news.worldnews.centralamericaandthecaribbean.elsalvador",
+      "tmgads.channel": "news",
+      "tmgads.section": "news-world_news-central_america_and_the_caribbean-el_salvador",
+      "tmgads.pagetype": "index",
+      "tmgads.level": "4",
+      "tmgads.geo": "US",
+      "section-id": "2192",
+      "gsamlc": "news/worldnews/centralamericaandthecaribbean/elsalvador",
+      "gsachannel": "news",
+      "gsachannelname": "News",
+      "gsacategory": "worldnews",
+      "gsagenre": "centralamericaandthecaribbean",
+      "gsasectionuniquename": "news-world_news-central_america_and_the_caribbean-el_salvador",
+      "fb:app_id": "120118784736295",
+      "fb:admins": "686953094,531239902,100002344351237",
+      "og:description": "El Salvador breaking and latest national, regional and world news about El Salvador, including its people, politics and economy from the daily telegraph",
+      "og:site_name": "Telegraph.co.uk",
+      "og:title": "El Salvador latest and breaking national news and regional news from El Salvador - Telegraph",
+      "og:url": "http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/elsalvador/",
+      "og:image": "http://www.telegraph.co.uk/template/ver1-0/i/telegraphFacebook.jpg",
+      "og:type": "author",
+      "twitter:card": "summary",
+      "twitter:site": "@Telegraph",
+      "dcsext.mlc": "/news/worldnews/centralamericaandthecaribbean/elsalvador",
+      "dcsext.genre": "centralamericaandthecaribbean",
+      "dcsext.category": "worldnews",
+      "wt.cg_s": "worldnews",
+      "dcsext.channel": "news",
+      "wt.cg_n": "news",
+      "dcsext.content_type": "Index",
+      "dcsext.level": "4",
+      "dcsext.cf": "0",
+      "dcsext.cn": "0",
+      "dcsext.cd": "0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Tuesday, 25 September 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Tuesday, \u003cb\u003e25\u003c/b\u003e September 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-sep-25.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Sep 25, 2012 ... Please wait until the recent earthquake list is loaded. .... Tue, 25 Sep 21:21 UTC,   M 2.8 / 22 km - [info], (107 km), 25 km south of Whanganui, [Map], GEONET (NZ)   ...... newer volcanics prov south america colombia ecuador peru bolivia ... 9 july   2011 may 2008 november 2006 october 2006 2001 2000 1999 ...",
+   "htmlSnippet": "Sep 25, 2012 \u003cb\u003e...\u003c/b\u003e Please wait until the recent \u003cb\u003eearthquake\u003c/b\u003e list is loaded. \u003cb\u003e....\u003c/b\u003e Tue, \u003cb\u003e25 Sep\u003c/b\u003e 21:21 UTC, \u003cbr\u003e  M 2.8 / 22 km - [info], (107 km), \u003cb\u003e25\u003c/b\u003e km south of Whanganui, [Map], GEONET (NZ) \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e newer volcanics prov \u003cb\u003esouth america\u003c/b\u003e colombia ecuador peru bolivia \u003cb\u003e...\u003c/b\u003e 9 \u003cb\u003ejuly\u003c/b\u003e \u003cbr\u003e  2011 may 2008 november 2006 october 2006 \u003cb\u003e2001\u003c/b\u003e 2000 1999 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YP2v4zlN2tIJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-sep-25.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003esep\u003c/b\u003e-\u003cb\u003e25\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Carolina Earthquake Hazards: Preparing for the Next Big One",
+   "htmlTitle": "\u003cb\u003eSouth\u003c/b\u003e Carolina \u003cb\u003eEarthquake\u003c/b\u003e Hazards: Preparing for the Next Big One",
+   "link": "http://www.scearthquakes.com/",
+   "displayLink": "www.scearthquakes.com",
+   "snippet": "Jul 28, 2012 ... But unknown to virtually all Americans???South Carolinians .... 2012: As of July 28,   2012, there have already been twelve earthquakes in South Carolina, the   greatest ... The minor earthquake registered 2.3 on the Richter scale, and   originated 25 miles ..... 2001 South Carolina Earthquake Vulnerability Study ...",
+   "htmlSnippet": "Jul 28, 2012 \u003cb\u003e...\u003c/b\u003e But unknown to virtually all \u003cb\u003eAmericans\u003c/b\u003e???\u003cb\u003eSouth\u003c/b\u003e Carolinians \u003cb\u003e....\u003c/b\u003e 2012: As of \u003cb\u003eJuly\u003c/b\u003e 28, \u003cbr\u003e  2012, there have already been twelve \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eSouth\u003c/b\u003e Carolina, the \u003cbr\u003e  greatest \u003cb\u003e...\u003c/b\u003e The minor \u003cb\u003eearthquake\u003c/b\u003e registered 2.3 on the Richter scale, and \u003cbr\u003e  originated \u003cb\u003e25\u003c/b\u003e miles \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e2001 South\u003c/b\u003e Carolina \u003cb\u003eEarthquake\u003c/b\u003e Vulnerability Study \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9dnMYrIdJUcJ",
+   "formattedUrl": "www.scearthquakes.com/",
+   "htmlFormattedUrl": "www.sc\u003cb\u003eearthquakes\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bookdoctor.com/southcarolinaearthquakes/earthquake-intensities-450x336.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "249",
+      "height": "202",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS38HXPnPhlfuWgrvca1XV6OcvVGgcq_QJMZFl_ARJaMHld2O3nMWlzBH8"
+     }
+    ],
+    "metatags": [
+     {
+      "resource-type": "document",
+      "distribution": "global, world",
+      "rating": "general",
+      "vw96.objecttype": "document",
+      "dc.title": "Corinthian Books",
+      "dc.creator": "Richard N. C??t?? /  dickcote@earthlink.net",
+      "dc.subject": "South Carolina Earthquake Hazards: Preparing the the Next Big One",
+      "dc.publisher": "The South Carolina Earthquake Memorial Association",
+      "dc.language": "en",
+      "dc.coverage.placename": "global, world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current earthquakes world-wide, Thursday, 13 December 2012 ...",
+   "htmlTitle": "Current \u003cb\u003eearthquakes\u003c/b\u003e world-wide, Thursday, 13 December 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/today.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Interactive Map of Active Volcanoes and recent Earthquakes world-wide .... Wed,   12 Dec 18:48 UTC, M 2.6 / 12.8 km - [info], 25 Km S from Chios, [Map], NOA_HL ...",
+   "htmlSnippet": "Interactive Map of Active Volcanoes and recent \u003cb\u003eEarthquakes\u003c/b\u003e world-wide \u003cb\u003e....\u003c/b\u003e Wed, \u003cbr\u003e  12 Dec 18:48 UTC, M 2.6 / 12.8 km - [info], \u003cb\u003e25\u003c/b\u003e Km \u003cb\u003eS\u003c/b\u003e from Chios, [Map], NOA_HL \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uSi_y8RoXw0J",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/today.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/today.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "San Andreas Fault Zone, California: M 5.5 Earthquake History",
+   "htmlTitle": "San Andreas Fault Zone, California: M 5.5 \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "ftp://www.ncedc.org/outgoing/peggy/HISTORICAL/toppozada2.pdf",
+   "displayLink": "www.ncedc.org",
+   "snippet": "Bulletin of the Seismological Society of America, Vol. 92, No. 7, pp. .... fault   rupture extended further south in 1838 than in. 1906. .... one of the 25   earthquakes in June and July 1841 noted, after the 29 July ...... dreas fault from   1857 to 2001.",
+   "htmlSnippet": "Bulletin of the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e, Vol. 92, No. 7, pp. \u003cb\u003e....\u003c/b\u003e fault \u003cbr\u003e  rupture extended further \u003cb\u003esouth\u003c/b\u003e in 1838 than in. 1906. \u003cb\u003e....\u003c/b\u003e one of the \u003cb\u003e25\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in June and \u003cb\u003eJuly\u003c/b\u003e 1841 noted, after the 29 \u003cb\u003eJuly\u003c/b\u003e \u003cb\u003e......\u003c/b\u003e dreas fault from \u003cbr\u003e  1857 to \u003cb\u003e2001\u003c/b\u003e.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ftp://www.ncedc.org/outgoing/peggy/HISTORICAL/toppozada2.pdf",
+   "htmlFormattedUrl": "ftp://www.ncedc.org/outgoing/peggy/HISTORICAL/toppozada2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20021205155747",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "moddate": "D:20040908162424-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity along the South American subduction zone: Review of ...",
+   "htmlTitle": "Seismicity along the \u003cb\u003eSouth American\u003c/b\u003e subduction zone: Review of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.unavco.org/community_science/science_highlights/2010/pdfs/Bilek2009.pdf",
+   "displayLink": "www.unavco.org",
+   "snippet": "Earthquakes along the shallow South American subduction zone exhibit   heterogeneous rupture characteristics ..... largest aftershock (Mw 7.5) occurred   on 2001/07/07 at the southern ..... Source time function and seismograms for the   2007/08/25 Peru earthquake. ..... July 1995: a precursor to the end of the large   1877 gap.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e along the shallow \u003cb\u003eSouth American\u003c/b\u003e subduction zone exhibit \u003cbr\u003e  heterogeneous rupture characteristics \u003cb\u003e.....\u003c/b\u003e largest aftershock (Mw 7.5) occurred \u003cbr\u003e  on \u003cb\u003e2001\u003c/b\u003e/07/07 at the southern \u003cb\u003e.....\u003c/b\u003e Source time function and seismograms for the \u003cbr\u003e  2007/08/\u003cb\u003e25\u003c/b\u003e Peru \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 1995: a precursor to the end of the large \u003cbr\u003e  1877 gap.",
+   "cacheId": "_p0lqwNDQM8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.unavco.org/community_science/science_highlights/.../Bilek2009.pdf",
+   "htmlFormattedUrl": "www.unavco.org/community_science/science_highlights/.../Bilek2009.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090327173326+08'00'",
+      "author": "Susan L. Bilek",
+      "creator": "Elsevier",
+      "authoritativedomain_1_": "elsevier.com",
+      "authoritativedomain_2_": "sciencedirect.com",
+      "moddate": "D:20090327225742+08'00'",
+      "title": "Seismicity along the South American subduction zone: Review of large earthquakes, tsunamis, and subduction zone complexity"
+     }
+    ]
+   }
+  }
+ ]
+}

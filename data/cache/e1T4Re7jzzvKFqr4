@@ -1,0 +1,338 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 9 1952 North America Earthquake",
+    "totalResults": "106000",
+    "searchTerms": "Apr 9 1952 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 9 1952 North America Earthquake",
+    "totalResults": "106000",
+    "searchTerms": "Apr 9 1952 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.25028,
+  "formattedSearchTime": "0.25",
+  "totalResults": "106000",
+  "formattedTotalResults": "106,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Oklahoma / Tulsa M 4.7 and M 5.6 earthquakes + November 7 ...",
+   "htmlTitle": "Oklahoma / Tulsa M 4.7 and M 5.6 \u003cb\u003eearthquakes\u003c/b\u003e + November 7 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/11/05/magnitude-4-7-earthquake-hits-the-greater-oklahoma-city-area/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 8, 2011 ... Earthquake overview : At 02:12 in the night, the people of the greater Oklahoma   .... and reports people as far north as Wichita felt the earthquake. ..... recorded in   Oklahoma occurred on April 9, 1952 and had a magnitude of 5.5. ..... 4.0 or   higher with emphasis to earthquakes in the America's and the Pacific ...",
+   "htmlSnippet": "Nov 8, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : At 02:12 in the night, the people of the greater Oklahoma \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e and reports people as far \u003cb\u003enorth\u003c/b\u003e as Wichita felt the \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e recorded in \u003cbr\u003e  Oklahoma occurred on \u003cb\u003eApril 9, 1952\u003c/b\u003e and had a magnitude of 5.5. \u003cb\u003e.....\u003c/b\u003e 4.0 or \u003cbr\u003e  higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the Pacific \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6qNgCb4kf3IJ",
+   "formattedUrl": "earthquake-report.com/.../magnitude-4-7-earthquake-hits-the-greater- oklahoma-city-area/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../magnitude-4-7-\u003cb\u003eearthquake\u003c/b\u003e-hits-the-greater- oklahoma-city-area/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/dyfi/events/us/b0006klz/us/usb0006klz_ciim.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "212",
+      "height": "237",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqqe76J0jrfIc-eegtCRHRNI0c5rU2_prUSmFZCaJ8jbMvHRg_qSrNl0Q"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Caroline",
+      "nickname": "Caroline"
+     },
+     {
+      "fn": "Peggy Thompson"
+     },
+     {
+      "fn": "Cap_Bondo"
+     },
+     {
+      "fn": "Mary",
+      "nickname": "Mary",
+      "url": "http://facebook/",
+      "url_text": "Mary"
+     },
+     {
+      "fn": "Jamie",
+      "nickname": "Jamie"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Notable Earthquakes Shake Texas on Occasion | Texas Almanac",
+   "htmlTitle": "Notable \u003cb\u003eEarthquakes\u003c/b\u003e Shake Texas on Occasion | Texas Almanac",
+   "link": "http://www.texasalmanac.com/topics/environment/notable-earthquakes-shake-texas-occasion",
+   "displayLink": "www.texasalmanac.com",
+   "snippet": "The shock was strongly recorded on all seismographs in North America and at ...   1952 (5.5) ??? This earthquake in central Oklahoma near El Reno on April 9, ...",
+   "htmlSnippet": "The shock was strongly recorded on all seismographs in \u003cb\u003eNorth America\u003c/b\u003e and at \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1952 (5.5) ??? This \u003cb\u003eearthquake\u003c/b\u003e in central Oklahoma near El Reno on \u003cb\u003eApril 9,\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xxQi0qeIcKgJ",
+   "formattedUrl": "www.texasalmanac.com/.../notable-earthquakes-shake-texas-occasion",
+   "htmlFormattedUrl": "www.texasalmanac.com/.../notable-\u003cb\u003eearthquakes\u003c/b\u003e-shake-texas-occasion",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.texasalmanac.com/sites/default/files/images/maps/quakemap2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGWTxdQSuGZx2pz6OFlpfvbBAig_uVCccZCFxzkjVg9ZYA6bVAjVdXVU-L"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "The Texas Almanac is a biennially published reference work providing information for the general public on the history of the state and its people, government and politics, economics, natural resources, holidays, culture, education, recreation, the arts, and other topics."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong aftershocks (seashocks) in the northern part of Honshu ...",
+   "htmlTitle": "Very strong aftershocks (seashocks) in the northern part of Honshu \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/04/21/very-strong-aftershocks-seashocks-in-the-northern-part-of-honshu/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 21, 2011... of Magnitude 9 in 1667 A.D., a magnitude 8.2 in 1952, a 1968 quake ... April 21   2011 earthquake (aftershocks) hazard map ... The location of the epicenter is   surprisingly more to the north of 90% of the other aftershocks. ... 4.0 or higher with   emphasis to earthquakes in the America's and the Pacific Ocean ...",
+   "htmlSnippet": "Apr 21, 2011\u003cb\u003e...\u003c/b\u003e of Magnitude \u003cb\u003e9\u003c/b\u003e in 1667 A.D., a magnitude 8.2 in \u003cb\u003e1952\u003c/b\u003e, a 1968 \u003cb\u003equake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 21 \u003cbr\u003e  2011 \u003cb\u003eearthquake\u003c/b\u003e (aftershocks) hazard map \u003cb\u003e...\u003c/b\u003e The location of the epicenter is \u003cbr\u003e  surprisingly more to the \u003cb\u003enorth\u003c/b\u003e of 90% of the other aftershocks. \u003cb\u003e...\u003c/b\u003e 4.0 or higher with \u003cbr\u003e  emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the Pacific Ocean \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5uimjR5MM5kJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-aftershocks-seashocks-in-the-northern- part-of-honshu/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-aftershocks-seashocks-in-the-\u003cb\u003enorth\u003c/b\u003eern- part-of-honshu/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/04/april21-2011.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YjELf48bH5YnjwbqRjW4czYMs3rJzD4Ld1rtqIBjGy-9lM9X90wBmh__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes and earthquake hazard",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e and \u003cb\u003eearthquake\u003c/b\u003e hazard",
+   "link": "http://www.ogs.ou.edu/level3-earthquakehazardT.php",
+   "displayLink": "www.ogs.ou.edu",
+   "snippet": "On April 9, 1952 the largest instrumentally recorded earthquake in Oklahoma ...   Madrid Seismic Zone to the east or the North America-Pacific plate boundary of ...",
+   "htmlSnippet": "On \u003cb\u003eApril 9, 1952\u003c/b\u003e the largest instrumentally recorded \u003cb\u003eearthquake\u003c/b\u003e in Oklahoma \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Madrid \u003cb\u003eSeismic\u003c/b\u003e Zone to the east or the \u003cb\u003eNorth America\u003c/b\u003e-Pacific plate boundary of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "s97HqwEl9KkJ",
+   "formattedUrl": "www.ogs.ou.edu/level3-earthquakehazardT.php",
+   "htmlFormattedUrl": "www.ogs.ou.edu/level3-\u003cb\u003eearthquake\u003c/b\u003ehazardT.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ogs.ou.edu/earthquakes/EQhazardmap.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "298",
+      "height": "169",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8VezhcwhoNCh8XUpJypjSl28S6UDsMx55EcbXk5DK_j737PMmXbntkrm"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oklahoma's largest quake in decades buckles highway; rattles ...",
+   "htmlTitle": "Oklahoma&#39;s largest \u003cb\u003equake\u003c/b\u003e in decades buckles highway; rattles \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cnn.com/2011/11/06/us/oklahoma-earthquake/index.html",
+   "displayLink": "www.cnn.com",
+   "snippet": "Nov 7, 2011 ... The 5.6-magnitude quake struck four miles east of Sparks in Lincoln ... The   strongest quake previously reported was of magnitude 5.5 on April 9, 1952, ...   interacting with the North American plate and generating pressure,\" ...",
+   "htmlSnippet": "Nov 7, 2011 \u003cb\u003e...\u003c/b\u003e The 5.6-magnitude \u003cb\u003equake\u003c/b\u003e struck four miles east of Sparks in Lincoln \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  strongest \u003cb\u003equake\u003c/b\u003e previously reported was of magnitude 5.5 on \u003cb\u003eApril 9, 1952\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  interacting with the \u003cb\u003eNorth American\u003c/b\u003e plate and generating pressure,&quot; \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.cnn.com/2011/11/06/us/oklahoma-earthquake/index.html",
+   "htmlFormattedUrl": "www.cnn.com/2011/11/06/us/oklahoma-\u003cb\u003eearthquake\u003c/b\u003e/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i2.cdn.turner.com/cnn/dam/assets/111106083820-quake-damage-video-tease.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "104",
+      "height": "58",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGD5EE3QYlMR1hbeFaxI7rn98YL15Vr1go13fw4Q1cv39AJ7jZ2HnPOw"
+     }
+    ],
+    "newsarticle": [
+     {
+      "genre": "news",
+      "inlanguage": "en-US",
+      "description": "Central Oklahoma continued to experience dozens of aftershocks Sunday, nearly 24 hours since the state's strongest earthquake since 1952 was felt throughout the region.",
+      "author": "the CNN Wire Staff",
+      "articlesection": "us",
+      "sourceorganization": "CNN",
+      "datepublished": "2011-11-06T05:53:37Z",
+      "datemodified": "2011-11-07T15:58:25Z",
+      "datecreated": "2011-11-06T05:53:37Z",
+      "headline": "Oklahoma's largest quake in decades buckles highway; rattles residents",
+      "url": "http://www.cnn.com/2011/11/06/us/oklahoma-earthquake/index.html",
+      "thumbnailurl": "http://i2.cdn.turner.com/cnn/dam/assets/111106083820-quake-damage-video-tease.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1024",
+      "medium": "news",
+      "title": "Oklahoma's largest quake in decades buckles highway; rattles residents - CNN.com",
+      "author": "the CNN Wire Staff",
+      "section": "us",
+      "source": "CNN",
+      "pubdate": "2011-11-06T05:53:37Z",
+      "lastmod": "2011-11-07T15:58:25Z",
+      "og:type": "article",
+      "og:url": "http://www.cnn.com/2011/11/06/us/oklahoma-earthquake/index.html",
+      "og:site_name": "CNN",
+      "og:image": "http://i2.cdn.turner.com/cnn/dam/assets/111106083820-quake-damage-video-tease.jpg",
+      "fb:admins": "690014395",
+      "fb:app_id": "80401312489",
+      "fb:page_id": "129343697106537",
+      "twitter:card": "summary",
+      "twitter:site": "@CNN",
+      "twitter:site:id": "759251",
+      "twitter:creator": "@CNN",
+      "twitter:creator:id": "759251",
+      "twitter:image": "http://i2.cdn.turner.com/cnn/dam/assets/111106083820-quake-damage-left-tease.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oklahoma Struck by Series of Quakes | Science Features",
+   "htmlTitle": "Oklahoma Struck by Series of Quakes | Science Features",
+   "link": "http://www.usgs.gov/blogs/features/usgs_top_story/oklahoma-struck-by-series-of-quakes/",
+   "displayLink": "www.usgs.gov",
+   "snippet": "Posted on November 9, 2011 at 7:02 pm By Tania Larson ... Oklahoma quake is   a magnitude-5.5 earthquake that occurred near El Reno on April 9, 1952. ...   These earthquakes are typical of the larger areas of North America east of the   Rocky ...",
+   "htmlSnippet": "Posted on November 9, 2011 at 7:02 pm By Tania Larson \u003cb\u003e...\u003c/b\u003e Oklahoma \u003cb\u003equake\u003c/b\u003e is \u003cbr\u003e  a magnitude-5.5 \u003cb\u003eearthquake\u003c/b\u003e that occurred near El Reno on \u003cb\u003eApril 9, 1952\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  These \u003cb\u003eearthquakes\u003c/b\u003e are typical of the larger areas of \u003cb\u003eNorth America\u003c/b\u003e east of the \u003cbr\u003e  Rocky \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vVl26M1-Q1kJ",
+   "formattedUrl": "www.usgs.gov/blogs/...top.../oklahoma-struck-by-series-of-quakes/",
+   "htmlFormattedUrl": "www.usgs.gov/blogs/...top.../oklahoma-struck-by-series-of-\u003cb\u003equake\u003c/b\u003es/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.usgs.gov/blogs/features/files/2011/11/did-you-feel-it-l-300x171.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "136",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQYFarnlK65Dbz11FBJIsHLu7__5CbMwtiVPFAoShlUYY5qY6cox29aM4c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "5.1 magnitude earthquake shakes Oklahoma | Tulsa World",
+   "htmlTitle": "5.1 magnitude \u003cb\u003eearthquake\u003c/b\u003e shakes Oklahoma | Tulsa World",
+   "link": "http://www.tulsaworld.com/site/articlepath.aspx?articleid=20101013_11_0_TheNat21493",
+   "displayLink": "www.tulsaworld.com",
+   "snippet": "Oct 13, 2010 ... A 5.1-magnitude earthquake shook Oklahoma just after 9 a.m. Wednesday, ...   The April 9, 1952, quake put a crack in the top of the Capitol building, he said. ...   Most of North America east of the Rocky Mountains has infrequent ...",
+   "htmlSnippet": "Oct 13, 2010 \u003cb\u003e...\u003c/b\u003e A 5.1-magnitude \u003cb\u003eearthquake\u003c/b\u003e shook Oklahoma just after 9 a.m. Wednesday, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The \u003cb\u003eApril 9, 1952\u003c/b\u003e, \u003cb\u003equake\u003c/b\u003e put a crack in the top of the Capitol building, he said. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Most of \u003cb\u003eNorth America\u003c/b\u003e east of the Rocky Mountains has infrequent \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbHu8Xq7cd0J",
+   "formattedUrl": "www.tulsaworld.com/site/articlepath.aspx?articleid=20101013...",
+   "htmlFormattedUrl": "www.tulsaworld.com/site/articlepath.aspx?articleid=20101013..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kansas: Earthquake History",
+   "htmlTitle": "Kansas: \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/kansas/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... A damaging earthquake centered near El Reno, Oklahoma on April 9, 1952,   affected a total area of 140,000 square miles, including all of the ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e A damaging \u003cb\u003eearthquake\u003c/b\u003e centered near El Reno, Oklahoma on \u003cb\u003eApril 9, 1952\u003c/b\u003e, \u003cbr\u003e  affected a total area of 140,000 square miles, including all of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "COB2ZjxeD8YJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/kansas/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/kansas/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on April 9 - What happened on my birthday. Today ...",
+   "htmlTitle": "What happened on \u003cb\u003eApril 9\u003c/b\u003e - What happened on my birthday. Today \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/apr09.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "April 9, 1865 \"American Civil War: Robert E. Lee surrenders the Army of ... April 9,   1941 \"Commissioning of USS North Carolina, which carried 9 16-inch guns\" ...   April 9, 1952 \"In El Reno, Oklahoma a 5.5 earthquake occurred the largest ...",
+   "htmlSnippet": "April 9, 1865 &quot;\u003cb\u003eAmerican\u003c/b\u003e Civil War: Robert E. Lee surrenders the Army of \u003cb\u003e...\u003c/b\u003e April 9, \u003cbr\u003e  1941 &quot;Commissioning of USS \u003cb\u003eNorth\u003c/b\u003e Carolina, which carried 9 16-inch guns&quot; \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApril 9, 1952\u003c/b\u003e &quot;In El Reno, Oklahoma a 5.5 \u003cb\u003eearthquake\u003c/b\u003e occurred the largest \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Mn16cUiWPWUJ",
+   "formattedUrl": "www.datesinhistory.com/apr09.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eapr\u003c/b\u003e09.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "effect of future new madrid region earthquakes on oklahoma",
+   "htmlTitle": "effect of future new madrid region \u003cb\u003eearthquakes\u003c/b\u003e on oklahoma",
+   "link": "http://www.okgeosurvey1.gov/newmadrid.pdf",
+   "displayLink": "www.okgeosurvey1.gov",
+   "snippet": "were larger than the April 9, 1952, El Reno, Oklahoma, earthquake of ... centered   on New Madrid (556 km [345 mi] along a north-south line, and 357 km. [222 mi]   ..... ground motion, and magnitudes: Seismological Society of America Bulletin, v.",
+   "htmlSnippet": "were larger than the \u003cb\u003eApril 9, 1952\u003c/b\u003e, El Reno, Oklahoma, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e...\u003c/b\u003e centered \u003cbr\u003e  on New Madrid (556 km [345 mi] along a \u003cb\u003enorth\u003c/b\u003e-south line, and 357 km. [222 mi] \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e ground motion, and magnitudes: Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e Bulletin, v.",
+   "cacheId": "jThQSmWASZYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.okgeosurvey1.gov/newmadrid.pdf",
+   "htmlFormattedUrl": "www.okgeosurvey1.gov/newmadrid.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Adobe Acrobat 6.0 Image Conversion Plug-in",
+      "creator": "Adobe Acrobat 6.0",
+      "creationdate": "Mon Dec 18 08:48:13 2006",
+      "moddate": "Mon Dec 18 08:48:13 2006"
+     }
+    ]
+   }
+  }
+ ]
+}

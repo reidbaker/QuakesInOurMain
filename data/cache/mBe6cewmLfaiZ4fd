@@ -1,0 +1,274 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 26 2001 Eurasia Earthquake",
+    "totalResults": "48800",
+    "searchTerms": "Jul 26 2001 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 26 2001 Eurasia Earthquake",
+    "totalResults": "48800",
+    "searchTerms": "Jul 26 2001 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.20507,
+  "formattedSearchTime": "0.21",
+  "totalResults": "48800",
+  "formattedTotalResults": "48,800"
+ },
+ "spelling": {
+  "correctedQuery": "July 26 2001 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 26 2001 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in India",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 27, 2011 ... Gujarat January 26 earthquake 2001 - - image courtesy IRC Red Cross. At least   20,085 ... The stress that caused this earthquake is due to the Indian plate   pushing northward into the Eurasian plate. ... July 18, 2011 at 4:07 pm ...",
+   "htmlSnippet": "Jan 27, 2011 \u003cb\u003e...\u003c/b\u003e Gujarat January \u003cb\u003e26 earthquake 2001\u003c/b\u003e - - image courtesy IRC Red Cross. At least \u003cbr\u003e  20,085 \u003cb\u003e...\u003c/b\u003e The stress that caused this \u003cb\u003eearthquake\u003c/b\u003e is due to the Indian plate \u003cbr\u003e  pushing northward into the \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 18, 2011 at 4:07 pm \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/\u003cb\u003e26\u003c/b\u003e/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-india/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Jos???? Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "8. Ganas, A. Methods for imaging earthquake deformation using ...",
+   "htmlTitle": "8. Ganas, A. Methods for imaging \u003cb\u003eearthquake\u003c/b\u003e deformation using \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.gein.noa.gr/el/dimosieuseis",
+   "displayLink": "www.gein.noa.gr",
+   "snippet": "Seismic attenuation in two geological distinct regions of central Greece. ...   parameters of the M 6.5 Skyros island (North Aegean Sea) earthquake of July 26,   2001. ..... Eurasia-Africa Plate Boundary Region Yields New Seismographic Data  .",
+   "htmlSnippet": "\u003cb\u003eSeismic\u003c/b\u003e attenuation in two geological distinct regions of central Greece. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  parameters of the M 6.5 Skyros island (North Aegean Sea) \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eJuly 26,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e-Africa Plate Boundary Region Yields New Seismographic Data\u003cbr\u003e  .",
+   "cacheId": "r8P4vNaJjboJ",
+   "formattedUrl": "www.gein.noa.gr/el/dimosieuseis",
+   "htmlFormattedUrl": "www.gein.noa.gr/el/dimosieuseis",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Super User",
+      "viewport": "width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The northern part of Greece lies on the Eurasian Plate while the southern part   lies on the Aegean Sea Plate. .... Retrieved 26 July 2010. ... Stiros, S.C. (2001).",
+   "htmlSnippet": "The northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the southern part \u003cbr\u003e  lies on the Aegean Sea Plate. \u003cb\u003e....\u003c/b\u003e Retrieved \u003cb\u003e26 July\u003c/b\u003e 2010. \u003cb\u003e...\u003c/b\u003e Stiros, S.C. (\u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DISTRIBUTED EARTHQUAKE FOCAL MECHANISMS IN THE ...",
+   "htmlTitle": "DISTRIBUTED \u003cb\u003eEARTHQUAKE\u003c/b\u003e FOCAL MECHANISMS IN THE \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://geolib.geo.auth.gr/digeo/index.php/bgsg/article/viewFile/4673/4485",
+   "displayLink": "geolib.geo.auth.gr",
+   "snippet": "in western Greece (Adria-Eurasia convergence) and along the Hellenic trench (Af   ...... Skyros island (North Aegean Sea) earthquake of July 26, 2001, Ann.",
+   "htmlSnippet": "in western Greece (Adria-\u003cb\u003eEurasia\u003c/b\u003e convergence) and along the Hellenic trench (Af \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e Skyros island (North Aegean Sea) \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eJuly 26, 2001\u003c/b\u003e, Ann.",
+   "cacheId": "xdx5zjTgqYsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "geolib.geo.auth.gr/digeo/index.php/bgsg/article/viewFile/4673/4485",
+   "htmlFormattedUrl": "geolib.geo.auth.gr/digeo/index.php/bgsg/article/viewFile/4673/4485",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081110113900+02'00'",
+      "creator": "WIA-hp scanjet 8200 series",
+      "producer": "Adobe Acrobat 8.12 Paper Capture Plug-in",
+      "moddate": "D:20100910133057+03'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes - anonymous (2 mb pdf)",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e - anonymous (2 mb pdf)",
+   "link": "http://www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "displayLink": "www.arvindguptatoys.com",
+   "snippet": "(which included what are now North America and Eurasia) and. Gondwanaland (  which ... on which the epicentre of the earthquake of 26 January 2001 tell, has   witnessed major earthquakes ... 1930 July 2 Dhubo Assam 7 1. 1934 Jan 15   Bihar ...",
+   "htmlSnippet": "(which included what are now North America and \u003cb\u003eEurasia\u003c/b\u003e) and. Gondwanaland (\u003cbr\u003e  which \u003cb\u003e...\u003c/b\u003e on which the epicentre of the \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e26\u003c/b\u003e January \u003cb\u003e2001\u003c/b\u003e tell, has \u003cbr\u003e  witnessed major \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 1930 \u003cb\u003eJuly\u003c/b\u003e 2 Dhubo Assam 7 1. 1934 Jan 15 \u003cbr\u003e  Bihar \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "noMHUn-Du88J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "htmlFormattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-\u003cb\u003eearthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Thu Feb 16 16:50:09 2006",
+      "moddate": "Thu Jul 13 23:23:24 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2001 Mw = 6.4 Skyros earthquake, conjugate strike-slip faulting ...",
+   "htmlTitle": "The \u003cb\u003e2001\u003c/b\u003e Mw = 6.4 Skyros \u003cb\u003eearthquake\u003c/b\u003e, conjugate strike-slip faulting \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://seismo.geology.upatras.gr/pdf/The%202001%20Mw%20=%206.4%20Skyros%20earthquake,Ganas,Sokos_05.pdf",
+   "displayLink": "seismo.geology.upatras.gr",
+   "snippet": "On July 26, 2001 at 00:21:39 GMT a strong earthquake of magnitude Mw=6.4 hit   the central ... field variation in view of the new data provided by the July 26, 2001   earthquake. ...... boundary zones of the Eurasian, African, and Arabian Plates.",
+   "htmlSnippet": "On \u003cb\u003eJuly 26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e at 00:21:39 GMT a strong \u003cb\u003eearthquake\u003c/b\u003e of magnitude Mw=6.4 hit \u003cbr\u003e  the central \u003cb\u003e...\u003c/b\u003e field variation in view of the new data provided by the \u003cb\u003eJuly 26, 2001\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e......\u003c/b\u003e boundary zones of the \u003cb\u003eEurasian\u003c/b\u003e, African, and Arabian Plates.",
+   "cacheId": "JnJdsxCSPR8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "seismo.geology.upatras.gr/.../The%202001%20Mw%20=%206. 4%20Skyros%20earthquake,Ganas,Sokos_05.pdf",
+   "htmlFormattedUrl": "seismo.geology.upatras.gr/.../The%20\u003cb\u003e2001\u003c/b\u003e%20Mw%20=%206. 4%20Skyros%20\u003cb\u003eearthquake\u003c/b\u003e,Ganas,Sokos_05.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "title": "doi:10.1016/j.jog.2004.09.001",
+      "creator": "Elsevier",
+      "creationdate": "D:20041215151220",
+      "moddate": "D:20041223183910+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.2 - 11km N of Murghob, Tajikistan 2012-07-26 01:06:30 UTC",
+   "htmlTitle": "M5.2 - 11km N of Murghob, Tajikistan 2012-07-\u003cb\u003e26\u003c/b\u003e 01:06:30 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000bgc5",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 26, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   .... (INTERIOR/USGS-2) published at 74 FR 34033 (July 14, 2009). ... Eurasia   generates numerous earthquakes and consequently makes this .... M7.6 Manyi   earthquake and the 14th November 2001, M7.8 Kokoxili earthquake.",
+   "htmlSnippet": "Jul 26, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e (INTERIOR/USGS-2) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e \u003cbr\u003e  generates numerous \u003cb\u003eearthquakes\u003c/b\u003e and consequently makes this \u003cb\u003e....\u003c/b\u003e M7.6 Manyi \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e and the 14th November \u003cb\u003e2001\u003c/b\u003e, M7.8 Kokoxili \u003cb\u003eearthquake\u003c/b\u003e.",
+   "cacheId": "i6Bct-hBGMQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000bgc5",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000bgc5"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 01/26/2001 Bhuj, India, Earthquake: Intraplate or Interplate?",
+   "htmlTitle": "The 01/\u003cb\u003e26\u003c/b\u003e/\u003cb\u003e2001\u003c/b\u003e Bhuj, India, \u003cb\u003eEarthquake\u003c/b\u003e: Intraplate or Interplate?",
+   "link": "http://web.missouri.edu/~yangyo/my-pub/Li-BHUJ.pdf",
+   "displayLink": "web.missouri.edu",
+   "snippet": "The Mw=7.7 Republic Day (01/26/2001) earthquake near Bhuj in western In- dia   killed nearly 20,000 .... and 5-14 mm yr-1 of N-. S motion between India-Eurasia   is accommo- ..... Anjar earthquake of July 21, 1956, India, and its seismotectonic ...",
+   "htmlSnippet": "The Mw=7.7 Republic Day (01/\u003cb\u003e26\u003c/b\u003e/\u003cb\u003e2001\u003c/b\u003e) \u003cb\u003eearthquake\u003c/b\u003e near Bhuj in western In- dia \u003cbr\u003e  killed nearly 20,000 \u003cb\u003e....\u003c/b\u003e and 5-14 mm yr-1 of N-. S motion between India-\u003cb\u003eEurasia\u003c/b\u003e \u003cbr\u003e  is accommo- \u003cb\u003e.....\u003c/b\u003e Anjar \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eJuly\u003c/b\u003e 21, 1956, India, and its seismotectonic \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HABaiL9_h-AJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "web.missouri.edu/~yangyo/my-pub/Li-BHUJ.pdf",
+   "htmlFormattedUrl": "web.missouri.edu/~yangyo/my-pub/Li-BHUJ.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "Mian Liu",
+      "creator": "Acrobat PDFMaker 5.0 for Word",
+      "moddate": "D:20030103122513-08'00'",
+      "title": "Title:",
+      "creationdate": "D:20030103122112-08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Information for 2001",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Information for \u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/2001/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 23, 2010 ... List of Significant Earthquakes of the World for 2001 ... January 26, India, 7.7. At   least ... is due to the Indian plate pushing northward into the Eurasian plate. ... 4.3   -- Utah, July 19; 4.3 -- Wyoming, September 27; 3.8 -- Montana, ...",
+   "htmlSnippet": "Jul 23, 2010 \u003cb\u003e...\u003c/b\u003e List of Significant \u003cb\u003eEarthquakes\u003c/b\u003e of the World for \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e January \u003cb\u003e26\u003c/b\u003e, India, 7.7. At \u003cbr\u003e  least \u003cb\u003e...\u003c/b\u003e is due to the Indian plate pushing northward into the \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e 4.3 \u003cbr\u003e  -- Utah, \u003cb\u003eJuly\u003c/b\u003e 19; 4.3 -- Wyoming, September 27; 3.8 -- Montana, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ymiyjotSyXcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/year/2001/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/year/\u003cb\u003e2001\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The January 26, 2001 Bhuj Earthquake, India .",
+   "htmlTitle": "The January \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e Bhuj \u003cb\u003eEarthquake\u003c/b\u003e, India .",
+   "link": "http://cires.colorado.edu/~bilham/gif_images/2001Bhuj.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "The Mw7.6 Bhuj earthquake that shook the Indian Province of Gujarat on the   morning of. January 26, 2001 was the most deadly in India's recorded history (  Figure 1). ..... 21 July, 1956 and its seismotectonic implications for the Kutch rift   basin, ... the Indian Shield: Effects of the collision between Indian and Eurasia.   Pageoph.",
+   "htmlSnippet": "The Mw7.6 Bhuj \u003cb\u003eearthquake\u003c/b\u003e that shook the Indian Province of Gujarat on the \u003cbr\u003e  morning of. January \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e was the most deadly in India&#39;s recorded history (\u003cbr\u003e  Figure 1). \u003cb\u003e.....\u003c/b\u003e 21 \u003cb\u003eJuly\u003c/b\u003e, 1956 and its seismotectonic implications for the Kutch rift \u003cbr\u003e  basin, \u003cb\u003e...\u003c/b\u003e the Indian Shield: Effects of the collision between Indian and \u003cb\u003eEurasia\u003c/b\u003e. \u003cbr\u003e  Pageoph.",
+   "cacheId": "Tzc3FKKHFFEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/gif_images/2001Bhuj.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/gif_images/\u003cb\u003e2001\u003c/b\u003eBhuj.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "D:20010306175503",
+      "title": "16Bhuj",
+      "author": "roger bilham",
+      "producer": "Acrobat PDFWriter 4.05  for Power Macintosh"
+     }
+    ]
+   }
+  }
+ ]
+}

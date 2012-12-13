@@ -1,0 +1,354 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 18 2001 North America Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Apr 18 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 18 2001 North America Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Apr 18 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.294704,
+  "formattedSearchTime": "0.29",
+  "totalResults": "777000",
+  "formattedTotalResults": "777,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1906 San Francisco earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1906 San Francisco \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the 1989 earthquake, see 1989 Loma Prieta earthquake. .... that forms part of   the boundary between the Pacific Plate and the North American Plate. .... On April   18, in response to riots among evacuees and looting, Mayor Schmitz ....   September 11, 2001, attacks, and the largest U.S. relief effort ever to this day,   including ...",
+   "htmlSnippet": "For the 1989 \u003cb\u003eearthquake\u003c/b\u003e, see 1989 Loma Prieta \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e that forms part of \u003cbr\u003e  the boundary between the Pacific Plate and the \u003cb\u003eNorth American\u003c/b\u003e Plate. \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eApril\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e18\u003c/b\u003e, in response to riots among evacuees and looting, Mayor Schmitz \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  September 11, \u003cb\u003e2001\u003c/b\u003e, attacks, and the largest U.S. relief effort ever to this day, \u003cbr\u003e  including \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EOdHrDSYqjoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sfbay_srt_1906108.jpg/300px-Sfbay_srt_1906108.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "203",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZM7XHytmNDz9r2ngWSgWJ5VUZ3jq5bh-jorISldC5wm3-aKjfiBCkMvQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on April 18 - What happened on my birthday. Today ...",
+   "htmlTitle": "What happened on \u003cb\u003eApril 18\u003c/b\u003e - What happened on my birthday. Today \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/apr18.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "April 18, 1775 \"American Revolution: Two lanterns were hung in the steeple of   the Old North Church in Boston, Massachusetts, indicating British advancement   by sea; Paul Revere, William Dawes and Samuel Prescott ride to warn ... April 18,   1889 In Germany First distant earthquake recorded. ... Died Jan 16, 2001) - USA\" ...",
+   "htmlSnippet": "\u003cb\u003eApril 18\u003c/b\u003e, 1775 &quot;\u003cb\u003eAmerican\u003c/b\u003e Revolution: Two lanterns were hung in the steeple of \u003cbr\u003e  the Old \u003cb\u003eNorth\u003c/b\u003e Church in Boston, Massachusetts, indicating British advancement \u003cbr\u003e  by sea; Paul Revere, William Dawes and Samuel Prescott ride to warn \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril 18\u003c/b\u003e, \u003cbr\u003e  1889 In Germany First distant \u003cb\u003eearthquake\u003c/b\u003e recorded. \u003cb\u003e...\u003c/b\u003e Died Jan 16, \u003cb\u003e2001\u003c/b\u003e) - USA&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cTvkkw2u6xIJ",
+   "formattedUrl": "www.datesinhistory.com/apr18.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eapr18\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of N America Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eN America\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/N_America_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your ...   located by the USGS and contributing networks for the Map of N America Region.   .... MAP, 3.3, 2012/12/09 18:26:49, 19.662, -64.415, 49.0, VIRGIN ISLANDS   REGION ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  located by the USGS and contributing networks for the Map of \u003cb\u003eN America\u003c/b\u003e Region. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e MAP, 3.3, 2012/12/09 \u003cb\u003e18\u003c/b\u003e:26:49, 19.662, -64.415, 49.0, VIRGIN ISLANDS \u003cbr\u003e  REGION \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LX2-MQ7UV7QJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/.../N_America_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/.../N_\u003cb\u003eAmerica\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "US4168485, Jun 30, 1976, Sep 18, 1979, Continental Oil Company ....   US6219621, Jun 25, 1999, Apr 17, 2001, ExxonMobil Upstream Research Co. ...   Apr 19, 2005, PGS Americas, Inc. Method for separating seismic signals from two   or more ... US7725266, May 31, 2007, May 25, 2010, BP Corporation North   America Inc.",
+   "htmlSnippet": "US4168485, Jun 30, 1976, Sep \u003cb\u003e18\u003c/b\u003e, 1979, Continental Oil Company \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  US6219621, Jun 25, 1999, \u003cb\u003eApr\u003c/b\u003e 17, \u003cb\u003e2001\u003c/b\u003e, ExxonMobil Upstream Research Co. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApr\u003c/b\u003e 19, 2005, PGS Americas, Inc. Method for separating \u003cb\u003eseismic\u003c/b\u003e signals from two \u003cbr\u003e  or more \u003cb\u003e...\u003c/b\u003e US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e Inc.",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "April 18, 1906 | Earthquake Destroys Much of San Francisco ...",
+   "htmlTitle": "\u003cb\u003eApril 18\u003c/b\u003e, 1906 | \u003cb\u003eEarthquake\u003c/b\u003e Destroys Much of San Francisco \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://learning.blogs.nytimes.com/2012/04/18/april-18-1906-earthquake-destroys-much-of-san-francisco/",
+   "displayLink": "learning.blogs.nytimes.com",
+   "snippet": "Apr 18, 2012 ... Arnold GenthePeople survey the destruction of the earthquake on Sacramento   Street in San Francisco on the morning of April 18, 1906.",
+   "htmlSnippet": "Apr 18, 2012 \u003cb\u003e...\u003c/b\u003e Arnold GenthePeople survey the destruction of the \u003cb\u003eearthquake\u003c/b\u003e on Sacramento \u003cbr\u003e  Street in San Francisco on the morning of \u003cb\u003eApril 18\u003c/b\u003e, 1906.",
+   "cacheId": "aXyekb6WjX8J",
+   "formattedUrl": "learning.blogs.nytimes.com/.../18/april-18-1906-earthquake-destroys-much- of-san-francisco/",
+   "htmlFormattedUrl": "learning.blogs.nytimes.com/.../\u003cb\u003e18\u003c/b\u003e/\u003cb\u003eapril\u003c/b\u003e-\u003cb\u003e18\u003c/b\u003e-1906-\u003cb\u003eearthquake\u003c/b\u003e-destroys-much- of-san-francisco/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/04/16/learning/Apr18LN/Apr18LN-blog480.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "291",
+      "height": "173",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqhZNJw5aMNDKGktky0hIAIN29Zs_IFDMYgXpKrLFuzIauVDEraRClwro"
+     }
+    ],
+    "metatags": [
+     {
+      "timespeople": "disallow",
+      "og:title": "April 18, 1906 | Earthquake Destroys Much of San Francisco",
+      "og:type": "article",
+      "og:url": "http://learning.blogs.nytimes.com/2012/04/18/april-18-1906-earthquake-destroys-much-of-san-francisco/",
+      "og:description": "On April 18, 1906, an earthquake struck San Francisco and set off raging fires.",
+      "og:image": "http://graphics8.nytimes.com/images/blogs_v3/../icons/t_logo_2048_black.png",
+      "pt": "Blogs",
+      "pst": "Blog Post",
+      "clmst": "By THE LEARNING NETWORK",
+      "byl": "By THE LEARNING NETWORK",
+      "author": "THE LEARNING NETWORK",
+      "pud": "20120418",
+      "pdate": "20120418",
+      "ptime": "20120418040420",
+      "utime": "20120418040421",
+      "gblc": "Historic Headlines",
+      "puv": "normal",
+      "cg": "U.S.",
+      "scg": "Education",
+      "bn": "learning",
+      "emailthishash": "cGefrL04AtM+rZRiPUz1dw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8121823 - Iterative inversion of data from simultaneous ...",
+   "htmlTitle": "Patent US8121823 - Iterative inversion of data from simultaneous \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8121823",
+   "displayLink": "www.google.com",
+   "snippet": "US4168485, Jun 30, 1976, Sep 18, 1979, Continental Oil Company ...   US4823326, Jun 23, 1987, Apr 18, 1989, The Standard Oil Company, Seismic   data acquisition ... US6219621, Jun 25, 1999, Apr 17, 2001, ExxonMobil   Upstream Research .... US7725266, May 31, 2007, May 25, 2010, BP   Corporation North America Inc ...",
+   "htmlSnippet": "US4168485, Jun 30, 1976, Sep \u003cb\u003e18\u003c/b\u003e, 1979, Continental Oil Company \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4823326, Jun 23, 1987, \u003cb\u003eApr 18\u003c/b\u003e, 1989, The Standard Oil Company, \u003cb\u003eSeismic\u003c/b\u003e \u003cbr\u003e  data acquisition \u003cb\u003e...\u003c/b\u003e US6219621, Jun 25, 1999, \u003cb\u003eApr\u003c/b\u003e 17, \u003cb\u003e2001\u003c/b\u003e, ExxonMobil \u003cbr\u003e  Upstream Research \u003cb\u003e....\u003c/b\u003e US7725266, May 31, 2007, May 25, 2010, BP \u003cbr\u003e  Corporation \u003cb\u003eNorth America\u003c/b\u003e Inc \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8121823",
+   "htmlFormattedUrl": "www.google.com/patents/US8121823",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0TCwxQzj2yASXEPyp88Z__B3I4k0NfjDGjx5u6qG-5VYlAALARvEnh4Q"
+     }
+    ],
+    "book": [
+     {
+      "description": "Method for reducing the time needed to perform geophysical inversion by using simultaneous encoded sources in the simulation steps of the inversion process. The geophysical survey data are...",
+      "url": "http://www.google.com/patents/US8121823?utm_source=gb-gplus-share",
+      "name": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8121823",
+      "title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Abstracts",
+   "htmlTitle": "Abstracts",
+   "link": "http://geomaps.wr.usgs.gov/pacnw/abstracts.html",
+   "displayLink": "geomaps.wr.usgs.gov",
+   "snippet": "Feb 10, 2012 ... American Geophysical Union, 2003 Fall Meeting Program and Abstracts, S42A-  0149. ... C.S., and Meagher, K.L., 2001, Cascadia earthquakes and forearc   blocks ... the Cordilleran Section, Geological Society of America, April, 2000, p.   ..... Haugerud, R.A., 1997, The North American Cordillera: A map for the ...",
+   "htmlSnippet": "Feb 10, 2012 \u003cb\u003e...\u003c/b\u003e American Geophysical Union, 2003 Fall Meeting Program and Abstracts, S42A-\u003cbr\u003e  0149. \u003cb\u003e...\u003c/b\u003e C.S., and Meagher, K.L., \u003cb\u003e2001\u003c/b\u003e, Cascadia \u003cb\u003eearthquakes\u003c/b\u003e and forearc \u003cbr\u003e  blocks \u003cb\u003e...\u003c/b\u003e the Cordilleran Section, Geological Society of America, \u003cb\u003eApril\u003c/b\u003e, 2000, p. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Haugerud, R.A., 1997, The \u003cb\u003eNorth American\u003c/b\u003e Cordillera: A map for the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rCWCVSRLJosJ",
+   "formattedUrl": "geomaps.wr.usgs.gov/pacnw/abstracts.html",
+   "htmlFormattedUrl": "geomaps.wr.usgs.gov/pacnw/abstracts.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Dave Frank",
+      "indextermscontrolled": "USGS, geophysics, land stewardship, environment, faults, remote sensing, geology, geology assessment, resource assessment, geochemistry, chemistry",
+      "publisher": "USGS Geology and Geophysics",
+      "publichomepage": "Geology and Geophysics Home Page.",
+      "created": "20010330",
+      "expires": "never",
+      "country": "USA",
+      "state": "WA, OR, ID, NV, UT, CA, AZ",
+      "resource-type": "document",
+      "distribution": "Global"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Washington",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Washington",
+   "link": "http://www.dnr.wa.gov/researchscience/topics/geologichazardsmapping/pages/earthquakes.aspx",
+   "displayLink": "www.dnr.wa.gov",
+   "snippet": "... which is the convergent boundary between the North America plate and the   Juan de ... For the February 28, 2001, Nisqually earthquake, the hypocenter, or   point ... The area of rupture was approximately 30 kilometers by 10 kilometers (18   ... The quake was felt as far north as Vancouver, British Columbia, as far south as ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e which is the convergent boundary between the \u003cb\u003eNorth America\u003c/b\u003e plate and the \u003cbr\u003e  Juan de \u003cb\u003e...\u003c/b\u003e For the February 28, \u003cb\u003e2001\u003c/b\u003e, Nisqually \u003cb\u003eearthquake\u003c/b\u003e, the hypocenter, or \u003cbr\u003e  point \u003cb\u003e...\u003c/b\u003e The area of rupture was approximately 30 kilometers by 10 kilometers (\u003cb\u003e18\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e The \u003cb\u003equake\u003c/b\u003e was felt as far north as Vancouver, British Columbia, as far south as \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.dnr.wa.gov/researchscience/topics/.../pages/earthquakes.aspx",
+   "htmlFormattedUrl": "www.dnr.wa.gov/researchscience/topics/.../pages/\u003cb\u003eearthquakes\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dnr.wa.gov/SiteCollectionImages/Places/ger_hazards_quakeblks.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgIR3rsN7T0ToZ3kphQngGS4_BTRqUHHbHtBpuTlxhSjMaOfnWN_muXo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESL Publications",
+   "htmlTitle": "ESL Publications",
+   "link": "http://civil.eng.buffalo.edu/engseislab/Publications.htm",
+   "displayLink": "civil.eng.buffalo.edu",
+   "snippet": "Mar 18, 2005 ... poster presented at the American Geophysical Union, Fall Meeting, San ....   Calibration of the specific barrier model to eastern North America earthquakes, ...   Society of America, San Francisco, CA, April 18-20, 2001 [Abstract ...",
+   "htmlSnippet": "Mar 18, 2005 \u003cb\u003e...\u003c/b\u003e poster presented at the American Geophysical Union, Fall Meeting, San \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Calibration of the specific barrier model to eastern \u003cb\u003eNorth America earthquakes\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Society of America, San Francisco, CA, \u003cb\u003eApril 18\u003c/b\u003e-20, 2001 [Abstract \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vOMYC3v6H0wJ",
+   "formattedUrl": "civil.eng.buffalo.edu/engseislab/Publications.htm",
+   "htmlFormattedUrl": "civil.eng.buffalo.edu/engseislab/Publications.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://civil.eng.buffalo.edu/engseislab/_derived/up_cmp_esl-1-based-on-zero010_vbtn.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "51",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWjeXmO1WD3gl-yPWWL75nxaR5uTMGLAWfubbtXLcqJ3d0qSHFyp5-"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "esl-1-based-on-zero 010, default",
+      "microsoft border": "tlb, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake hazards in the Pacific Northwest",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e hazards in the Pacific Northwest",
+   "link": "http://www.oregongeology.com/sub/earthquakes/EQs.htm",
+   "displayLink": "www.oregongeology.com",
+   "snippet": "Get the American Red Cross Earthquake app. ... \"Is Oregon ready for a big   earthquake? Experts don't think so\" (Helen Jung, Oregonian, Jan. 18, 2010) ...   Dress rehearsal for \"The Big One\" (Yumei Wang, GeoTimes, June 2001) ... occur   within the remains of the ocean floor that is beingsubducted beneath North   America.",
+   "htmlSnippet": "Get the American Red Cross \u003cb\u003eEarthquake\u003c/b\u003e app. \u003cb\u003e...\u003c/b\u003e &quot;Is Oregon ready for a big \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e? Experts don&#39;t think so&quot; (Helen Jung, Oregonian, Jan. \u003cb\u003e18\u003c/b\u003e, 2010) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Dress rehearsal for &quot;The Big One&quot; (Yumei Wang, GeoTimes, June \u003cb\u003e2001\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e occur \u003cbr\u003e  within the remains of the ocean floor that is beingsubducted beneath \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e.",
+   "cacheId": "mOsMTaGb9tIJ",
+   "formattedUrl": "www.oregongeology.com/sub/earthquakes/EQs.htm",
+   "htmlFormattedUrl": "www.oregongeology.com/sub/\u003cb\u003eearthquakes\u003c/b\u003e/EQs.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.oregongeology.com/sub/earthquakes/images/capitol.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "139",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQggcMNvJ476Ln2eP784RxOj8rELz5wHU4Q9gU-koHNwbXf4dcvIHJcyA"
+     }
+    ]
+   }
+  }
+ ]
+}

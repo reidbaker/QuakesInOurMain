@@ -1,0 +1,387 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 7 1914 Eurasia Earthquake",
+    "totalResults": "9980",
+    "searchTerms": "Jun 7 1914 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 7 1914 Eurasia Earthquake",
+    "totalResults": "9980",
+    "searchTerms": "Jun 7 1914 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.163184,
+  "formattedSearchTime": "0.16",
+  "totalResults": "9980",
+  "formattedTotalResults": "9,980"
+ },
+ "spelling": {
+  "correctedQuery": "June 7 1914 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 7 1914 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 1268 Cilicia earthquake, 37.5, 35.5, 60,000, ~7, ???. September 10 ... June 2,   1859, 10:30, Erzurum ... see 1914 Burdur earthquake, 37.82, 30.27, 300, 6.9, MS ...",
+   "htmlSnippet": "see 1268 Cilicia \u003cb\u003eearthquake\u003c/b\u003e, 37.5, 35.5, 60,000, ~\u003cb\u003e7\u003c/b\u003e, ???. September 10 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJune\u003c/b\u003e 2, \u003cbr\u003e  1859, 10:30, Erzurum \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1914\u003c/b\u003e Burdur \u003cb\u003eearthquake\u003c/b\u003e, 37.82, 30.27, 300, 6.9, MS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, ... 1914, 22, 1944, 31, 1974, 21 ... The North Sea   earthquake of 7 June 1931, with a magnitude of 6.1ML and with an epicentre   offshore in ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1914\u003c/b\u003e, 22, 1944, 31, 1974, 21 \u003cb\u003e...\u003c/b\u003e The North Sea \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e7 June\u003c/b\u003e 1931, with a magnitude of 6.1ML and with an epicentre \u003cbr\u003e  offshore in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "4 9 November earthquake; 5 See also; 6 References; 7 External links ... Plate   and the Eurasian Plate, beyond the eastern extent of the Armenian and Asia   Minor ...",
+   "htmlSnippet": "4 9 November \u003cb\u003eearthquake\u003c/b\u003e; 5 See also; 6 References; \u003cb\u003e7\u003c/b\u003e External links \u003cb\u003e...\u003c/b\u003e Plate \u003cbr\u003e  and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the Armenian and Asia \u003cbr\u003e  Minor \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Monitoring In Malaysia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Monitoring In Malaysia",
+   "link": "http://myiem.org.my/download/downloadlink.aspx?fn=984_Earthquake%20Monitoring%20In%20Malaysia.pdf&id=984",
+   "displayLink": "myiem.org.my",
+   "snippet": "originating from large earthquakes in the Sumatran plate margin. ... Malaysia is   situated on the southern edge of the Eurasian Plate (Figure 1). It is close to the ...   with an estimate velocity of the order of 7 cm/year. ... June 2000 (7.8). 1914 (7.6) ...",
+   "htmlSnippet": "originating from large \u003cb\u003eearthquakes\u003c/b\u003e in the Sumatran plate margin. \u003cb\u003e...\u003c/b\u003e Malaysia is \u003cbr\u003e  situated on the southern edge of the \u003cb\u003eEurasian\u003c/b\u003e Plate (Figure 1). It is close to the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  with an estimate velocity of the order of \u003cb\u003e7\u003c/b\u003e cm/year. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJune\u003c/b\u003e 2000 (7.8). \u003cb\u003e1914\u003c/b\u003e (7.6) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NCtFRwnzwIQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "myiem.org.my/.../downloadlink.aspx?... Earthquake%20Monitoring%20In%20Malaysia...",
+   "htmlFormattedUrl": "myiem.org.my/.../downloadlink.aspx?... \u003cb\u003eEarthquake\u003c/b\u003e%20Monitoring%20In%20Malaysia...",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript  9.0",
+      "creationdate": "D:20110809121851+08'00'",
+      "moddate": "D:20110809121851+08'00'",
+      "title": "Earthquake Monitoring In Malaysia",
+      "creator": "PDFCreator Version 1.2.0",
+      "author": "hou"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes - anonymous (2 mb pdf)",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e - anonymous (2 mb pdf)",
+   "link": "http://www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "displayLink": "www.arvindguptatoys.com",
+   "snippet": "The impacts of earthquakes normally cover large areas causing deaths. .... The   major plates are: Antartic Plate, Eurasian] plate, .... 1897 June 12 Shillong   plateau 8 7 ..... in astronomy and meteorology at the University of Marburg. in   1914 ...",
+   "htmlSnippet": "The impacts of \u003cb\u003eearthquakes\u003c/b\u003e normally cover large areas causing deaths. \u003cb\u003e....\u003c/b\u003e The \u003cbr\u003e  major plates are: Antartic Plate, \u003cb\u003eEurasian\u003c/b\u003e] plate, \u003cb\u003e....\u003c/b\u003e 1897 \u003cb\u003eJune\u003c/b\u003e 12 Shillong \u003cbr\u003e  plateau 8 \u003cb\u003e7\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e in astronomy and meteorology at the University of Marburg. in \u003cbr\u003e  \u003cb\u003e1914\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "noMHUn-Du88J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "htmlFormattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-\u003cb\u003eearthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Thu Feb 16 16:50:09 2006",
+      "moddate": "Thu Jul 13 23:23:24 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2010 - 2011 EndTime Timeline with EarthQuakes, Elenin ...",
+   "htmlTitle": "2010 - 2011 EndTime Timeline with \u003cb\u003eEarthQuakes\u003c/b\u003e, Elenin \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://alamongordo.com/apocalypse-armageddon/are-we-in-the-endtime/",
+   "displayLink": "alamongordo.com",
+   "snippet": "Sep 14, 2011 ... Timeline 2010-2011 with Earthquakes, Volcanic Eruptions, Elenin C/2010-X1 ...   Earthquake 7.0 Mag in Northern Argentina .... 1 1914. Note that Peter had in the   Bible's New Testament caught 153 fish in his net. .... June 7, 2011 .... Putin in   Russia has suggested the idea of a Eurasian Economic Union pact.",
+   "htmlSnippet": "Sep 14, 2011 \u003cb\u003e...\u003c/b\u003e Timeline 2010-2011 with \u003cb\u003eEarthquakes\u003c/b\u003e, Volcanic Eruptions, Elenin C/2010-X1 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e 7.0 Mag in Northern Argentina \u003cb\u003e....\u003c/b\u003e 1 \u003cb\u003e1914\u003c/b\u003e. Note that Peter had in the \u003cbr\u003e  Bible&#39;s New Testament caught 153 fish in his net. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eJune 7\u003c/b\u003e, 2011 \u003cb\u003e....\u003c/b\u003e Putin in \u003cbr\u003e  Russia has suggested the idea of a \u003cb\u003eEurasian\u003c/b\u003e Economic Union pact.",
+   "cacheId": "1QzIISSr0A8J",
+   "formattedUrl": "alamongordo.com/apocalypse-armageddon/are-we-in-the-endtime/",
+   "htmlFormattedUrl": "alamongordo.com/apocalypse-armageddon/are-we-in-the-endtime/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Bob Andrews",
+      "photo": "http://1.gravatar.com/avatar/57ff4409ce0e89fcb240bcb396c99695?s=48&d=&r=G"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic waves and surface waves: past and present",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e waves and surface waves: past and present",
+   "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009",
+   "displayLink": "www.scielo.org.mx",
+   "snippet": "This presentation was given on June 16, 2000 in the great hall of the .... In Figure   7, the ray paths in a tomographic experiment are shown with uniform ... K. Uller (  1914, 1918, 1928) provided new and unconventional contributions to the ... the \"  peak and trough\" method for Eurasian earthquakes (Figure 9) by D. G??th (1962).",
+   "htmlSnippet": "This presentation was given on \u003cb\u003eJune\u003c/b\u003e 16, 2000 in the great hall of the \u003cb\u003e....\u003c/b\u003e In Figure \u003cbr\u003e  \u003cb\u003e7\u003c/b\u003e, the ray paths in a tomographic experiment are shown with uniform \u003cb\u003e...\u003c/b\u003e K. Uller (\u003cbr\u003e  \u003cb\u003e1914\u003c/b\u003e, 1918, 1928) provided new and unconventional contributions to the \u003cb\u003e...\u003c/b\u003e the &quot;\u003cbr\u003e  peak and trough&quot; method for \u003cb\u003eEurasian earthquakes\u003c/b\u003e (Figure 9) by D. G??th (1962).",
+   "cacheId": "l1ENIIrcteEJ",
+   "formattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016...",
+   "htmlFormattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0016...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.scielo.org.mx/img/revistas/geoint/v50n4/a9f3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWzENg6uD9O57Xz00pxuqTlyLxv1FuevlMnC6pM25BwqirfLDfFKZB3d-Y"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_journal_title": "Geof??sica internacional",
+      "citation_journal_title_abbrev": "Geof??s. Intl",
+      "citation_publisher": "Instituto de Geof??sica, UNAM",
+      "citation_title": "Seismic waves and surface waves: past and present",
+      "citation_date": "12/2011",
+      "citation_volume": "50",
+      "citation_issue": "4",
+      "citation_issn": "0016-7169",
+      "citation_abstract_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_fulltext_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_pdf_url": "http://www.scielo.org.mx/scielo.php?script=sci_pdf&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_author": "Malischewsky, Peter G.",
+      "citation_author_institution": "Friedrich-Schiller-Universitat Jena, Germany",
+      "citation_firstpage": "485",
+      "citation_lastpage": "493"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The M9.0 Great Tohoku Earthquake (northeast Honshu, Japan) of ...",
+   "htmlTitle": "The M9.0 Great Tohoku \u003cb\u003eEarthquake\u003c/b\u003e (northeast Honshu, Japan) of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://aki.bc.edu/significant_events/global/2011/2011_Honshu_Japan_Summary.pdf",
+   "displayLink": "aki.bc.edu",
+   "snippet": "Mar 11, 2011 ... 1914. 1915. 1915. 1915. 1915. 1915. 1916. 1917. 1917. 1919. 1921. 1923. 1923.   1923. 1923 .... and Eurasia plates; these include the Okhotsk and Amur   microplates that are ... magnitude 7 or greater since 1973. The largest of ... In   June of 1978, a M 7.7 earthquake 35 km to the southwest of the March 11 ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1914\u003c/b\u003e. 1915. 1915. 1915. 1915. 1915. 1916. 1917. 1917. 1919. 1921. 1923. 1923. \u003cbr\u003e  1923. 1923 \u003cb\u003e....\u003c/b\u003e and \u003cb\u003eEurasia\u003c/b\u003e plates; these include the Okhotsk and Amur \u003cbr\u003e  microplates that are \u003cb\u003e...\u003c/b\u003e magnitude \u003cb\u003e7\u003c/b\u003e or greater since 1973. The largest of \u003cb\u003e...\u003c/b\u003e In \u003cbr\u003e  \u003cb\u003eJune\u003c/b\u003e of 1978, a M 7.7 \u003cb\u003eearthquake\u003c/b\u003e 35 km to the southwest of the March 11 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WcAXQcGMMNEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "aki.bc.edu/significant_events/global/.../2011_Honshu_Japan_Summary.pdf",
+   "htmlFormattedUrl": "aki.bc.edu/significant_events/global/.../2011_Honshu_Japan_Summary.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110316144707-06'00'",
+      "creator": "Adobe Illustrator CS5",
+      "moddate": "D:20110316144707-06'00'",
+      "producer": "Adobe PDF library 9.90",
+      "title": "20110311newest4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Far-field tsunami hazard from mega-thrust earthquakes in the Indian ...",
+   "htmlTitle": "Far-field tsunami hazard from mega-thrust \u003cb\u003eearthquakes\u003c/b\u003e in the Indian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.earth.northwestern.edu/people/emile/PDF/EAO195.pdf",
+   "displayLink": "www.earth.northwestern.edu",
+   "snippet": "following the earthquake of 1941 June 26 in the Andaman Islands. C 2008 The   Authors ... moment in excess of 7 ??1028 dyn ?? cm is required in this respect. (  Okal 2007a). ..... 1914 June 25, described more in detail in the Appendix. Farther   to .... along which the Arabian plate sinks under the Eurasian one (Fig. 7). It was   the ...",
+   "htmlSnippet": "following the \u003cb\u003eearthquake\u003c/b\u003e of 1941 \u003cb\u003eJune\u003c/b\u003e 26 in the Andaman Islands. C 2008 The \u003cbr\u003e  Authors \u003cb\u003e...\u003c/b\u003e moment in excess of \u003cb\u003e7\u003c/b\u003e ??1028 dyn ?? cm is required in this respect. (\u003cbr\u003e  Okal 2007a). \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1914 June\u003c/b\u003e 25, described more in detail in the Appendix. Farther \u003cbr\u003e  to \u003cb\u003e....\u003c/b\u003e along which the Arabian plate sinks under the \u003cb\u003eEurasian\u003c/b\u003e one (Fig. \u003cb\u003e7\u003c/b\u003e). It was \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DTDT-wr0KDQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.northwestern.edu/people/emile/PDF/EAO195.pdf",
+   "htmlFormattedUrl": "www.earth.northwestern.edu/people/emile/PDF/EAO195.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080123115456+05'30'",
+      "producer": "Acrobat Distiller 7.0.5 for Macintosh",
+      "moddate": "D:20050204164627+05'30'",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Madrid Adjustment under microscope - Earth Changes and the ...",
+   "htmlTitle": "New Madrid Adjustment under microscope - Earth Changes and the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://poleshift.ning.com/profiles/blogs/new-madrid-adjustment-under",
+   "displayLink": "poleshift.ning.com",
+   "snippet": "Feb 23, 2012 ... As per Nancy and zetas, we are in progress of the sequence of 7 / 10. ...   Indonesia has been sinking with lots of earthquakes, sinkholes, earth ... Written   June 19, 2010 ... Canada remains firmly attached at her border with the Eurasian   Plate ... the director of the U.S. Bureau of Reclamation from 1914 to 1932.",
+   "htmlSnippet": "Feb 23, 2012 \u003cb\u003e...\u003c/b\u003e As per Nancy and zetas, we are in progress of the sequence of \u003cb\u003e7\u003c/b\u003e / 10. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Indonesia has been sinking with lots of \u003cb\u003eearthquakes\u003c/b\u003e, sinkholes, earth \u003cb\u003e...\u003c/b\u003e Written \u003cbr\u003e  \u003cb\u003eJune\u003c/b\u003e 19, 2010 \u003cb\u003e...\u003c/b\u003e Canada remains firmly attached at her border with the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  Plate \u003cb\u003e...\u003c/b\u003e the director of the U.S. Bureau of Reclamation from \u003cb\u003e1914\u003c/b\u003e to 1932.",
+   "cacheId": "pazirEGN1wQJ",
+   "formattedUrl": "poleshift.ning.com/profiles/blogs/new-madrid-adjustment-under",
+   "htmlFormattedUrl": "poleshift.ning.com/profiles/blogs/new-madrid-adjustment-under",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://api.ning.com/files/9m3eQSBL65zzW0br-SNlgUjpCKiCM4pqUfepQ6PgbaY9iPYYv28DYnt-a165k8fdWuC38jvVWPSrzYgX04Mah9xy02nuyU3h/usapolitcalmap.jpg"
+     }
+    ],
+    "person": [
+     {
+      "role": "Utica officials monitoring water system after underground gas leak ..."
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKoCERXgufYj896QLlwpQnhoQVGRLfkWqHDW3TUVVfwXWThTWeHlaa2yc"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "New Madrid Adjustment under microscope",
+      "medium": "blog"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "bill",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     },
+     {
+      "fn": "bill",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     },
+     {
+      "fn": "bill",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     },
+     {
+      "fn": "bill",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     },
+     {
+      "fn": "bill",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     },
+     {
+      "fn": "bill",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     },
+     {
+      "fn": "bill",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     },
+     {
+      "fn": "bill",
+      "title": "Utica officials monitoring water system after underground gas leak ...",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     },
+     {
+      "fn": "bill",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     },
+     {
+      "fn": "bill",
+      "nickname": "bill",
+      "url": "http://poleshift.ning.com/profile/billwong",
+      "url_text": "bill",
+      "photo": "http://api.ning.com/files/0ftRYcSizX2QYtSBrIqMqVgcXuOayDc049aK8Cnm*UBhCCy28dvlTuSpPcvfhr46s6HvFxPYaY5P-Z2aVfruUEkAt9JrBQXm/leo.jpg?width=48&height=48&crop=1%3A1"
+     }
+    ]
+   }
+  }
+ ]
+}

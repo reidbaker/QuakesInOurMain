@@ -1,0 +1,268 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 7 2001 Asia Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Sep 7 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 7 2001 Asia Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Sep 7 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.185596,
+  "formattedSearchTime": "0.19",
+  "totalResults": "777000",
+  "formattedTotalResults": "777,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 7 2001 Asia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 7 2001 Asia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... Figure 7 ??? The number of buildings damaged or destroyed in each 2011 ... from   the Van earthquake in October, in the India-Nepal-Tibet region in September, ...   form an Asia-Pacific comparison of flood and earthquake socio-economic loss   ...... BTE [2001] ???Economic Costs of Natural Disasters in Australia???, ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e7\u003c/b\u003e ??? The number of buildings damaged or destroyed in each 2011 \u003cb\u003e...\u003c/b\u003e from \u003cbr\u003e  the Van \u003cb\u003eearthquake\u003c/b\u003e in October, in the India-Nepal-Tibet region in \u003cb\u003eSeptember\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  form an \u003cb\u003eAsia\u003c/b\u003e-Pacific comparison of flood and \u003cb\u003eearthquake\u003c/b\u003e socio-economic loss \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e BTE [\u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in Australia???, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Yunnan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 Yunnan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_Yunnan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "On 7 September 2012, a series of earthquakes occurred in Yiliang, Zhaotong, ...   September 7, 2012. http://www.bbc.co.uk/news/world-asia-china-19515445.",
+   "htmlSnippet": "On \u003cb\u003e7 September\u003c/b\u003e 2012, a series of \u003cb\u003eearthquakes\u003c/b\u003e occurred in Yiliang, Zhaotong, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember 7\u003c/b\u003e, 2012. http://www.bbc.co.uk/news/world-\u003cb\u003easia\u003c/b\u003e-china-19515445.",
+   "cacheId": "N7NubPxdJOMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_Yunnan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_Yunnan_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Weak earthquake right below Mount Rainier volcano, Washington ...",
+   "htmlTitle": "Weak \u003cb\u003eearthquake\u003c/b\u003e right below Mount Rainier volcano, Washington \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/09/13/weak-earthquake-right-below-mount-rainier-volcano-washington-usa/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: September 14, 2011 at 7:13 am by By Armand Vervaeck and ... to   take a look at this very interesting page describing the seismicity since 2001. ...   with emphasis to earthquakes in European and Asian / Middle East sphere (4   and ...",
+   "htmlSnippet": "Last update: \u003cb\u003eSeptember\u003c/b\u003e 14, 2011 at \u003cb\u003e7\u003c/b\u003e:13 am by By Armand Vervaeck and \u003cb\u003e...\u003c/b\u003e to \u003cbr\u003e  take a look at this very interesting page describing the seismicity since \u003cb\u003e2001\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1tgPOYF883oJ",
+   "formattedUrl": "earthquake-report.com/.../weak-earthquake-right-below-mount-rainier- volcano-washington-usa/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../weak-\u003cb\u003eearthquake\u003c/b\u003e-right-below-mount-rainier- volcano-washington-usa/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/09/rainier-13092011-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrYyiYvf3EbPZ7wnXvV0_ivPL23tXBiFg_khjGeowNQiqoTHD9S5ZAPDJ-"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "??? NEPAL SPEAKS ??? EARTHQUAKE TREMORS ??? STOLEN ...",
+   "htmlTitle": "??? NEPAL SPEAKS ??? \u003cb\u003eEARTHQUAKE\u003c/b\u003e TREMORS ??? STOLEN \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://himalaya.socanth.cam.ac.uk/collections/journals/spotlight/pdf/Spotlight_21_11.pdf",
+   "displayLink": "himalaya.socanth.cam.ac.uk",
+   "snippet": "SPOTLIGHT/SEPTEMBER 7. 2001. COVER STORY: Negotiating The Non-  negotiable ..... Tmd~ Treaty of 1996 ~hould be modcled after the South Asia   Preferen?? ...",
+   "htmlSnippet": "SPOTLIGHT/\u003cb\u003eSEPTEMBER 7\u003c/b\u003e. \u003cb\u003e2001\u003c/b\u003e. COVER STORY: Negotiating The Non-\u003cbr\u003e  negotiable \u003cb\u003e.....\u003c/b\u003e Tmd~ Treaty of 1996 ~hould be modcled after the South \u003cb\u003eAsia\u003c/b\u003e \u003cbr\u003e  Preferen?? \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AMHqGwYp_a4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "himalaya.socanth.cam.ac.uk/collections/journals/.../Spotlight_21_11.pdf",
+   "htmlFormattedUrl": "himalaya.socanth.cam.ac.uk/collections/journals/.../Spotlight_21_11.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Madhav Kumar Rimal",
+      "creationdate": "D:20100808133158+05'30'",
+      "creator": "Adobe Acrobat 8.23",
+      "moddate": "D:20100918022859+05'30'",
+      "producer": "Adobe Acrobat 9.34 Paper Capture Plug-in",
+      "subject": "Volume: 21, Number: 11, September 7, 2001",
+      "title": "Spotlight"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong damaging earthquake in the Nepal / Sikkim (India ...",
+   "htmlTitle": "Very strong damaging \u003cb\u003eearthquake\u003c/b\u003e in the Nepal / Sikkim (India \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/09/18/very-strong-earthquake-in-sikkim-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 2, 2011 ... Earthquake overview : A magnitude 6.9 earthquake hit the Himalayan states ....   Figures released on 23 September by the NEOC, indicate that the number of ....   This seems to be too high compared to the Bhuj disaster of 2001, so we will ...   From Tibet (Yadong County), 7 deaths and over 200 injuries are the ...",
+   "htmlSnippet": "Oct 2, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A magnitude 6.9 \u003cb\u003eearthquake\u003c/b\u003e hit the Himalayan states \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Figures released on 23 \u003cb\u003eSeptember\u003c/b\u003e by the NEOC, indicate that the number of \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  This seems to be too high compared to the Bhuj disaster of \u003cb\u003e2001\u003c/b\u003e, so we will \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  From Tibet (Yadong County), \u003cb\u003e7\u003c/b\u003e deaths and over 200 injuries are the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0hEt4bGhGegJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-earthquake-in-sikkim-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-\u003cb\u003eearthquake\u003c/b\u003e-in-sikkim-india/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/09/india-19092011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "236",
+      "height": "156",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7Zq3DEjg7bjf9SyfGLzsxsLzf2pwhzbCh2aTlCxNld3KGjAKNQSX6Zic"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Dipen Giri"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PubMed Result",
+   "htmlTitle": "PubMed Result",
+   "link": "http://www.sciencemag.org/external-ref?access_num=16888136&link_type=MED_NBRS",
+   "displayLink": "www.sciencemag.org",
+   "snippet": "Extent, duration and speed of the 2004 Sumatra-Andaman earthquake imaged   by the Hi-Net ... 2001 May 10;411(6834):180-3. ... 2001 Sep 7;293(5536):1814-8.",
+   "htmlSnippet": "Extent, duration and speed of the 2004 Sumatra-Andaman \u003cb\u003eearthquake\u003c/b\u003e imaged \u003cbr\u003e  by the Hi-Net \u003cb\u003e...\u003c/b\u003e 2001 May 10;411(6834):180-3. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001 Sep 7\u003c/b\u003e;293(5536):1814-8.",
+   "formattedUrl": "www.sciencemag.org/external-ref?access_num=16888136&link...",
+   "htmlFormattedUrl": "www.sciencemag.org/external-ref?access_num=16888136\u003cb\u003e&amp;\u003c/b\u003elink..."
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Hazard map assessment of Mount Merapi, Central Java, Indonesia ...",
+   "htmlTitle": "Hazard map assessment of Mount Merapi, Central Java, Indonesia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/01/11/hazard-map-assessment-of-mount-merapi-central-java-indonesia-references/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 11, 2012 ... Advertise ?? Earthquake E-mail Notifications ... Chester D.K, Degg M, Duncan A.M   and Guest J.E (2001) ??? The increasing exposure ... in Southeast Asia ???   Perceptions of local knowledge and adaptation on Mount Merapi, .... Earthquakes   list December 8, 2012 ?? (Complete) Earthquakes list December 7, 2012 ...",
+   "htmlSnippet": "Jan 11, 2012 \u003cb\u003e...\u003c/b\u003e Advertise &middot; \u003cb\u003eEarthquake\u003c/b\u003e E-mail Notifications \u003cb\u003e...\u003c/b\u003e Chester D.K, Degg M, Duncan A.M \u003cbr\u003e  and Guest J.E (\u003cb\u003e2001\u003c/b\u003e) ??? The increasing exposure \u003cb\u003e...\u003c/b\u003e in Southeast \u003cb\u003eAsia\u003c/b\u003e ??? \u003cbr\u003e  Perceptions of local knowledge and adaptation on Mount Merapi, \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e \u003cbr\u003e  list December 8, 2012 &middot; (Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list December \u003cb\u003e7\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sEtIP5z8gP4J",
+   "formattedUrl": "earthquake-report.com/.../hazard-map-assessment-of-mount-merapi-central- java-indonesia-references/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../hazard-map-assessment-of-mount-merapi-central- java-indonesia-references/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of Asia Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eAsia\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/Asia_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. See Quick Tips & User Guide. Update time = Thu Dec 13 04:00:13   UTC ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. See Quick Tips \u003cb\u003e&amp;\u003c/b\u003e User Guide. Update time = Thu \u003cb\u003eDec\u003c/b\u003e 13 04:00:13 \u003cbr\u003e  UTC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7q8t4MZRaIIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/Maps/.../Asia_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/Maps/.../\u003cb\u003eAsia\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lake Pinatubo - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lake Pinatubo - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lake_Pinatubo",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In September 2001, residents of Botolan and nearby areas were sent to ... \"The   1991 Eruptions of Mount Pinatubo, Philippines: Earthquakes and ... (retrieved: 10   March 2009); BBC NEWS World: Asia-Pacific, Friday, 7 September, 2001, 12:52 ...",
+   "htmlSnippet": "In September 2001, residents of Botolan and nearby areas were sent to \u003cb\u003e...\u003c/b\u003e &quot;The \u003cbr\u003e  1991 Eruptions of Mount Pinatubo, Philippines: \u003cb\u003eEarthquakes\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e (retrieved: 10 \u003cbr\u003e  March 2009); BBC NEWS World: \u003cb\u003eAsia\u003c/b\u003e-Pacific, \u003cb\u003eFriday, 7 September, 2001\u003c/b\u003e, 12:52 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Lo1xRQMhRdYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lake_Pinatubo",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lake_Pinatubo",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mount_Pinatubo_20081229_01.jpg/240px-Mount_Pinatubo_20081229_01.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "144",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUmxWgNkAMxaXNqV0vxLi4qX8WSMGUHPc6LAo9CaZQ8Wki0Qd1gYbNIYks"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Lake Pinatubo",
+      "label": "Mount Pinatubo, Luzon, Philippines",
+      "note": "Lake type crater lake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gujarat Earthquake 2001",
+   "htmlTitle": "Gujarat \u003cb\u003eEarthquake 2001\u003c/b\u003e",
+   "link": "http://www.adrc.asia/publications/recovery_reports/pdf/Gujarat.pdf",
+   "displayLink": "www.adrc.asia",
+   "snippet": "Senior Technical Advisor, Asian Disaster Reduction Center. One of the two most   ... Date and time of Occurrence of Earthquake: 26 January 2001 at 8:46 am ...   Damage: ??? Houses Fully Destroyed 1.87 lakh (Pucca), 1.67 lakh (Kachcha) & .....   Report, July ??? September 2003, Gujarat State Disaster Management. Authority ...",
+   "htmlSnippet": "Senior Technical Advisor, \u003cb\u003eAsian\u003c/b\u003e Disaster Reduction Center. One of the two most \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Date and time of Occurrence of \u003cb\u003eEarthquake\u003c/b\u003e: 26 January \u003cb\u003e2001\u003c/b\u003e at 8:46 am \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Damage: ??? Houses Fully Destroyed 1.87 lakh (Pucca), 1.67 lakh (Kachcha) \u003cb\u003e&amp;\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Report, July ??? \u003cb\u003eSeptember\u003c/b\u003e 2003, Gujarat State Disaster Management. Authority \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3D7aOB8xjDEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.adrc.asia/publications/recovery_reports/pdf/Gujarat.pdf",
+   "htmlFormattedUrl": "www.adrc.\u003cb\u003easia\u003c/b\u003e/publications/recovery_reports/pdf/Gujarat.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20050616171603+09'00'",
+      "creationdate": "D:20050616171511+09'00'",
+      "title": "Total Disaster Risk Management: Concept and Best Practices",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "producer": "Acrobat Distiller 6.0.1 (Windows)",
+      "author": "sanker",
+      "company": "ADRC",
+      "sourcemodified": "D:20050616081108"
+     }
+    ]
+   }
+  }
+ ]
+}

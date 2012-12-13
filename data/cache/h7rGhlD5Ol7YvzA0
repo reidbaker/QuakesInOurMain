@@ -1,0 +1,256 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 23 2001 Australia Earthquake",
+    "totalResults": "746000",
+    "searchTerms": "Jul 23 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 23 2001 Australia Earthquake",
+    "totalResults": "746000",
+    "searchTerms": "Jul 23 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.219106,
+  "formattedSearchTime": "0.22",
+  "totalResults": "746000",
+  "formattedTotalResults": "746,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 23 2001 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 23 2001 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its ...   Tasman Sea, Tasmania and Victoria, 01884-07-1313 July 1884, 6.4, Offshore   quake, Felt in Tasmania and in eastern Victoria ... 1961, 5.6, $4.1 million,   Damage was caused in Moss Vale, Bowral and Robertson. ..... a b Past   Earthquake News: 2001.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Tasman Sea, Tasmania and Victoria, 01884-07-1313 \u003cb\u003eJuly\u003c/b\u003e 1884, 6.4, Offshore \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e, Felt in Tasmania and in eastern Victoria \u003cb\u003e...\u003c/b\u003e 1961, 5.6, $4.1 million, \u003cbr\u003e  Damage was caused in Moss Vale, Bowral and Robertson. \u003cb\u003e.....\u003c/b\u003e a b Past \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e News: \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "last",
+   "htmlTitle": "last",
+   "link": "http://www.philstar.com/author/Pia%20Lee-Brago?page=101",
+   "displayLink": "www.philstar.com",
+   "snippet": "&#146;90 quake forced slain lawyer to migrate ... By Pia Lee-Brago, July 23,   2001 - 12:00am ... expressed resentment at claims the brutal murder of the   Gonzales family in Sydney, Australia last week was likely a \"Filipino-style\"   massacre.",
+   "htmlSnippet": "&amp;#146;90 \u003cb\u003equake\u003c/b\u003e forced slain lawyer to migrate \u003cb\u003e...\u003c/b\u003e By Pia Lee-Brago, \u003cb\u003eJuly 23,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e - 12:00am \u003cb\u003e...\u003c/b\u003e expressed resentment at claims the brutal murder of the \u003cbr\u003e  Gonzales family in Sydney, \u003cb\u003eAustralia\u003c/b\u003e last week was likely a &quot;Filipino-style&quot; \u003cbr\u003e  massacre.",
+   "cacheId": "2rEJ9h9sXEoJ",
+   "formattedUrl": "www.philstar.com/author/Pia%20Lee-Brago?page=101",
+   "htmlFormattedUrl": "www.philstar.com/author/Pia%20Lee-Brago?page=101",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "Copyright ?? 2012. Philstar. All Right Reserved"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV) ...   February 24, 2001, 07:23, Northern Molucca Sea, 1.271, 126.249, 0, 7.1 ... July 7,   2001, 09:38, Near coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV) ...   December 12, 2001, 14:02, South of Australia, ???42.813, 124.688, 0, 7.1 ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  February 24, \u003cb\u003e2001\u003c/b\u003e, 07:\u003cb\u003e23\u003c/b\u003e, Northern Molucca Sea, 1.271, 126.249, 0, 7.1 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 7, \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e, 09:38, Near coast of Peru, ???17.543, ???72.077, 1, 7.6, Mw (HRV) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  December 12, \u003cb\u003e2001\u003c/b\u003e, 14:02, South of \u003cb\u003eAustralia\u003c/b\u003e, ???42.813, 124.688, 0, 7.1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jakarta: News & Videos about Jakarta - CNN.com",
+   "htmlTitle": "Jakarta: News &amp; Videos about Jakarta - CNN.com",
+   "link": "http://topics.cnn.com/topics/jakarta",
+   "displayLink": "topics.cnn.com",
+   "snippet": "Some of the world's fastest growing population centers in Asia and Africa are ... '  Most wanted' terrorist arrested in Indonesiaupdated: Thu Jun 24 2010 23:45:00 ...",
+   "htmlSnippet": "Some of the world&#39;s fastest growing population centers in \u003cb\u003eAsia\u003c/b\u003e and Africa are \u003cb\u003e...\u003c/b\u003e &#39;\u003cbr\u003e  Most wanted&#39; terrorist arrested in Indonesiaupdated: Thu Jun 24 2010 \u003cb\u003e23\u003c/b\u003e:45:00 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bSrObbcP_PwJ",
+   "formattedUrl": "topics.cnn.com/topics/jakarta",
+   "htmlFormattedUrl": "topics.cnn.com/topics/jakarta",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.cdn.turner.com/cnn/dam/assets/120621121735-indonesia-plane-c1-main.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5p1pqj3DfkMcuqtALWyh4gf5_xxF57L3F-gDUD67iU49Y3TfG6pn70qtd"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1024"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Western Australia has had a regular history of earthquakes throughout its   geological history. ... 1997; 2.13 Burakin Swarm 2000-2001; 2.14 South of Albany   2001; 2.15 Kalgoorlie 2010 ..... This page was last modified on 29 July 2012 at 23  :11.",
+   "htmlSnippet": "Western \u003cb\u003eAustralia\u003c/b\u003e has had a regular history of \u003cb\u003eearthquakes\u003c/b\u003e throughout its \u003cbr\u003e  geological history. \u003cb\u003e...\u003c/b\u003e 1997; 2.13 Burakin Swarm 2000-\u003cb\u003e2001\u003c/b\u003e; 2.14 South of Albany \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e; 2.15 Kalgoorlie 2010 \u003cb\u003e.....\u003c/b\u003e This page was last modified on 29 \u003cb\u003eJuly\u003c/b\u003e 2012 at \u003cb\u003e23\u003c/b\u003e\u003cbr\u003e  :11.",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... 2001 07 07 - Near the Coast of Peru - M 7.6 Fatalities 1; 2001 06 23 ... 06 - Gulf of   Alaska - M 7.7; 1988 01 22 - Tennant Creek, Australia - M 6.6 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e 07 07 - Near the Coast of Peru - M 7.6 Fatalities 1; \u003cb\u003e2001\u003c/b\u003e 06 \u003cb\u003e23\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 06 - Gulf of \u003cbr\u003e  Alaska - M 7.7; 1988 01 22 - Tennant Creek, \u003cb\u003eAustralia\u003c/b\u003e - M 6.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in 2012 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in 2012 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_2012",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "3.1 January; 3.2 February; 3.3 March; 3.4 April; 3.5 May; 3.6 June; 3.7 July ...   Magnitude Ranging Between, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007   .... A magnitude 6.2 earthquake struck the Biob??o Region, Chile on January 23, at   a .... Australia A magnitude 6.0 quake struck 24 km northwest of Macquarie Island ...",
+   "htmlSnippet": "3.1 January; 3.2 February; 3.3 March; 3.4 April; 3.5 May; 3.6 June; 3.7 \u003cb\u003eJuly\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Magnitude Ranging Between, 2000, \u003cb\u003e2001\u003c/b\u003e, 2002, 2003, 2004, 2005, 2006, 2007 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e A magnitude 6.2 \u003cb\u003eearthquake\u003c/b\u003e struck the Biob??o Region, Chile on January \u003cb\u003e23\u003c/b\u003e, at \u003cbr\u003e  a \u003cb\u003e....\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e A magnitude 6.0 \u003cb\u003equake\u003c/b\u003e struck 24 km northwest of Macquarie Island \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M-8y9TakcusJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_2012",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_2012",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Earthmap1000x500compac.jpg/300px-Earthmap1000x500compac.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFF4RtJZotJOf_s3ciCEnr4Z1FUSHv6QYVr4f_kK6G680i1DMLdpRFsw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... 1941 04 29 - Meeberrie, Australia - M 7.2 ?? 1968 10 14 - Meckering, Australia - M   ... 1290 09 27 - Chihli, China Fatalities 100,000; 1556 01 23 - Shensi, China ...   1986 10 10 - El Salvador - M 5.5 Fatalities 1,000; 2001 01 13 - El ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e 1941 04 29 - Meeberrie, \u003cb\u003eAustralia\u003c/b\u003e - M 7.2 &middot; 1968 10 14 - Meckering, \u003cb\u003eAustralia\u003c/b\u003e - M \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 1290 09 27 - Chihli, China Fatalities 100,000; 1556 01 \u003cb\u003e23\u003c/b\u003e - Shensi, China \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1986 10 10 - El Salvador - M 5.5 Fatalities 1,000; \u003cb\u003e2001\u003c/b\u003e 01 13 - El \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Investment Management No-Action and Interpretive Letters",
+   "htmlTitle": "Investment Management No-Action and Interpretive Letters",
+   "link": "http://www.sec.gov/divisions/investment/im-noaction.shtml",
+   "displayLink": "www.sec.gov",
+   "snippet": "Franklin Templeton Group of Funds, July 23, 1997 ..... Windamere Capital   Ventures, L.P., Windamere Capital Ventures Company, LLC, July 23, 2001 ...   Aberdeen Australia Equity Fund, Inc., Aberdeen Chile Fund, Inc. and Aberdeen   Global ...",
+   "htmlSnippet": "Franklin Templeton Group of Funds, July 23, 1997 \u003cb\u003e.....\u003c/b\u003e Windamere Capital \u003cbr\u003e  Ventures, L.P., Windamere Capital Ventures Company, LLC, \u003cb\u003eJuly 23\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Aberdeen \u003cb\u003eAustralia\u003c/b\u003e Equity Fund, Inc., Aberdeen Chile Fund, Inc. and Aberdeen \u003cbr\u003e  Global \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0di6tZW17kEJ",
+   "formattedUrl": "www.sec.gov/divisions/investment/im-noaction.shtml",
+   "htmlFormattedUrl": "www.sec.gov/divisions/investment/im-noaction.shtml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "July 23 Events in History",
+   "htmlTitle": "\u003cb\u003eJuly 23\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/july_23.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "July 23 in history.",
+   "htmlSnippet": "\u003cb\u003eJuly 23\u003c/b\u003e in history.",
+   "cacheId": "l6Sv4uHmnWMJ",
+   "formattedUrl": "www.brainyhistory.com/days/july_23.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003ejuly\u003c/b\u003e_\u003cb\u003e23\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "July 23 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/july_23.html"
+     }
+    ]
+   }
+  }
+ ]
+}

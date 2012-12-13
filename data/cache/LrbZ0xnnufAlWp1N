@@ -1,0 +1,231 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 14 2001 Africa Earthquake",
+    "totalResults": "591000",
+    "searchTerms": "Nov 14 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 14 2001 Africa Earthquake",
+    "totalResults": "591000",
+    "searchTerms": "Nov 14 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.197276,
+  "formattedSearchTime": "0.20",
+  "totalResults": "591000",
+  "formattedTotalResults": "591,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes list March 14, 2012 ??? Full list ??? Earthquake felt in Norway",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e list March \u003cb\u003e14\u003c/b\u003e, 2012 ??? Full list ??? \u003cb\u003eEarthquake\u003c/b\u003e felt in Norway",
+   "link": "http://earthquake-report.com/2012/03/13/earthquakes-list-march-14-2012-full-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "... list ??? Earthquake felt in Norway. Last update: March 14, 2012 at 8:46 pm by By   Ashish Khanal ... Personalized E-mail earthquake alerts for this area. Click on ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e list ??? \u003cb\u003eEarthquake\u003c/b\u003e felt in Norway. Last update: March \u003cb\u003e14\u003c/b\u003e, 2012 at 8:46 pm by By \u003cbr\u003e  Ashish Khanal \u003cb\u003e...\u003c/b\u003e Personalized E-mail \u003cb\u003eearthquake\u003c/b\u003e alerts for this area. Click on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kAr69W0ESzgJ",
+   "formattedUrl": "earthquake-report.com/.../earthquakes-list-march-14-2012-full-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003eearthquakes\u003c/b\u003e-list-march-\u003cb\u003e14\u003c/b\u003e-2012-full-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... 17:33, El Salvador see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7,   Mw (HRV) ... 02001-02-13February 13, 2001, 14:22, El Salvador see 2001 El ...   7.0, Mw (HRV). November 14, 2001, 09:26, Qinghai, China ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e 17:33, El Salvador see 2001 El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, \u003cbr\u003e  Mw (HRV) \u003cb\u003e...\u003c/b\u003e 02001-02-13February 13, 2001, 14:22, El Salvador see 2001 El \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  7.0, Mw (HRV). \u003cb\u003eNovember 14, 2001\u003c/b\u003e, 09:26, Qinghai, China \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 2011 submarine volcanic eruption in El Hierro (Canary Islands ...",
+   "htmlTitle": "The 2011 submarine volcanic eruption in El Hierro (Canary Islands \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/18/the-2011-submarine-volcanic-eruption-in-el-hierro-canary-islands-spain-eruption-overview/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 18, 2012 ... A. Geological map of El Hierro (from Carracedo et al., 2001). ... Numerous   earthquakes were recorded by the Spanish Instituto ... 2), at depths of 8???14 km (  ca. ... to the surface off the nearby village of La Restinga (8 November 2011). ...   These contain quartz crystals transported from Africa by both wind and ...",
+   "htmlSnippet": "May 18, 2012 \u003cb\u003e...\u003c/b\u003e A. Geological map of El Hierro (from Carracedo et al., \u003cb\u003e2001\u003c/b\u003e). \u003cb\u003e...\u003c/b\u003e Numerous \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e were recorded by the Spanish Instituto \u003cb\u003e...\u003c/b\u003e 2), at depths of 8???\u003cb\u003e14\u003c/b\u003e km (\u003cbr\u003e  ca. \u003cb\u003e...\u003c/b\u003e to the surface off the nearby village of La Restinga (8 \u003cb\u003eNovember\u003c/b\u003e 2011). \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  These contain quartz crystals transported from \u003cb\u003eAfrica\u003c/b\u003e by both wind and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "E5zYBMl7OdYJ",
+   "formattedUrl": "earthquake-report.com/.../the-2011-submarine-volcanic-eruption-in-el-hierro -canary-islands-spain-eruption-overview/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../the-2011-submarine-volcanic-eruption-in-el-hierro -canary-islands-spain-eruption-overview/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/eh-car-0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "181",
+      "height": "136",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSGtb5nfFswbtIZ3uCednJE153bGmsDHevBcJa4LlrlJXuxgbWh2VFYG_"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "jono b"
+     },
+     {
+      "fn": "KarenZ",
+      "nickname": "KarenZ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Publications",
+   "htmlTitle": "Publications",
+   "link": "http://eost.unistra.fr/recherche/ipgs/si/perso0/jerome-van-der-woerd/publications/",
+   "displayLink": "eost.unistra.fr",
+   "snippet": "... and Collapse at the Africa-Arabia-Eurasia Subduction Zone, Geological   Society, ... An integrated study of the Kokoxili, November 14, 2001, earthquake:   history ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e and Collapse at the \u003cb\u003eAfrica\u003c/b\u003e-Arabia-Eurasia Subduction Zone, Geological \u003cbr\u003e  Society, \u003cb\u003e...\u003c/b\u003e An integrated study of the Kokoxili, \u003cb\u003eNovember 14, 2001\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e: \u003cbr\u003e  history \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XRpWZZyk_qoJ",
+   "formattedUrl": "eost.unistra.fr/recherche/ipgs/si/perso0/jerome-van.../publications/",
+   "htmlFormattedUrl": "eost.unistra.fr/recherche/ipgs/si/perso0/jerome-van.../publications/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list April 16, 2012 ??? Phuket, Thailand ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list April 16, 2012 ??? Phuket, Thailand \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/15/major-earthquakes-list-april-16-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 16, 2012 ... The preliminary earthquake epicenter is located in the sea at +50 km from   Kalamata ... Sapientza has a population of 7 and Schiza a polulation of 2 (2001   census). ..... Worldwide EARTHQUAKE related news ??? To remember : South-  Africa 1976 ... and 231 people injured - clean-up work has started (Nov. 14) ...",
+   "htmlSnippet": "Apr 16, 2012 \u003cb\u003e...\u003c/b\u003e The preliminary \u003cb\u003eearthquake\u003c/b\u003e epicenter is located in the sea at +50 km from \u003cbr\u003e  Kalamata \u003cb\u003e...\u003c/b\u003e Sapientza has a population of 7 and Schiza a polulation of 2 (\u003cb\u003e2001\u003c/b\u003e \u003cbr\u003e  census). \u003cb\u003e.....\u003c/b\u003e Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South-\u003cbr\u003e  \u003cb\u003eAfrica\u003c/b\u003e 1976 \u003cb\u003e...\u003c/b\u003e and 231 people injured - clean-up work has started (\u003cb\u003eNov\u003c/b\u003e. \u003cb\u003e14\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4I0JZ9JJcp8J",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-april-16-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-april-16-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Archive",
+   "htmlTitle": "Archive",
+   "link": "http://www.ceme.gsras.ru/cgi-bin/info_quakee.pl?mode=-1",
+   "displayLink": "www.ceme.gsras.ru",
+   "snippet": "The strong earthquake with M=7.1 has occurred on August 14, 2012 at 2:59 GMT   (6:59 ...... Information message about the strong earthquake in Africa near the   Lake ..... On November 14, 2001 the strong earthquake has happened in   Southern ...",
+   "htmlSnippet": "The strong \u003cb\u003eearthquake\u003c/b\u003e with M=7.1 has occurred on August 14, 2012 at 2:59 GMT \u003cbr\u003e  (6:59 \u003cb\u003e......\u003c/b\u003e Information message about the strong \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eAfrica\u003c/b\u003e near the \u003cbr\u003e  Lake \u003cb\u003e.....\u003c/b\u003e On \u003cb\u003eNovember 14\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e the strong \u003cb\u003eearthquake\u003c/b\u003e has happened in \u003cbr\u003e  Southern \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lHix_WTulE4J",
+   "formattedUrl": "www.ceme.gsras.ru/cgi-bin/info_quakee.pl?mode=-1",
+   "htmlFormattedUrl": "www.ceme.gsras.ru/cgi-bin/info_\u003cb\u003equake\u003c/b\u003ee.pl?mode=-1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ceme.gsras.ru/eng/images/globus.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "121",
+      "height": "60",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTibaXITZ2bpcHIiUj3cgvUDDHctcM1G1Uy8CdZnZgwJH4vMMyyfvTf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Algeria earthquake list",
+   "htmlTitle": "Algeria \u003cb\u003eearthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/02/18/algeria-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 26, 2012 ... The list below shows the last earthquakes in Algeria ... EMSC, Northern Algeria,   Dec 04 14:23 PM, 3.1, 1.0, MAP ?? I Felt It ... senti et c'??tait fort, pas comme celui de   Boumerdes en 2001 mais il n'y a pas vraiment ..... Worldwide EARTHQUAKE   related news ??? To remember : South-Africa 1976 - Magnitude 5.2 ...",
+   "htmlSnippet": "Apr 26, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in Algeria \u003cb\u003e...\u003c/b\u003e EMSC, Northern Algeria, \u003cbr\u003e  Dec 04 \u003cb\u003e14\u003c/b\u003e:23 PM, 3.1, 1.0, MAP &middot; I Felt It \u003cb\u003e...\u003c/b\u003e senti et c&#39;??tait fort, pas comme celui de \u003cbr\u003e  Boumerdes en \u003cb\u003e2001\u003c/b\u003e mais il n&#39;y a pas vraiment \u003cb\u003e.....\u003c/b\u003e Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e \u003cbr\u003e  related news ??? To remember : South-\u003cb\u003eAfrica\u003c/b\u003e 1976 - Magnitude 5.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "F6R1_yAQc0cJ",
+   "formattedUrl": "earthquake-report.com/2012/02/18/algeria-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/02/18/algeria-\u003cb\u003eearthquake\u003c/b\u003e-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 7.8, Central Kunlun, China, Nov 14 2001, 09:26:12 UTC, 35.886, 90.589 ... 4.9,   SOUTH AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 7.8, Central Kunlun, China, \u003cb\u003eNov 14 2001\u003c/b\u003e, 09:26:12 UTC, 35.886, 90.589 \u003cb\u003e...\u003c/b\u003e 4.9, \u003cbr\u003e  SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Jul 31 2001, 22:22:22, -26.937, 26.792 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "JLG abstracts (JLG89-94)",
+   "htmlTitle": "JLG abstracts (JLG89-94)",
+   "link": "http://www.ecgs.lu/jlg-abstracts/",
+   "displayLink": "www.ecgs.lu",
+   "snippet": "JLG 94th from November 12th to 14th, 2007; JLG 93th from March 13th to 15th,   2006 ... JLG 90th from November 4th to 6th, 2002; JLG 89th from November 12th   to 14th, 2001 ... InSAR determines blind-hidden earthquake faults in North Africa ...",
+   "htmlSnippet": "JLG 94th from \u003cb\u003eNovember\u003c/b\u003e 12th to \u003cb\u003e14th\u003c/b\u003e, 2007; JLG 93th from March 13th to 15th, \u003cbr\u003e  2006 \u003cb\u003e...\u003c/b\u003e JLG 90th from \u003cb\u003eNovember\u003c/b\u003e 4th to 6th, 2002; JLG 89th from \u003cb\u003eNovember\u003c/b\u003e 12th \u003cbr\u003e  to \u003cb\u003e14th\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e InSAR determines blind-hidden \u003cb\u003eearthquake\u003c/b\u003e faults in North \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "61B5Pvq4aq8J",
+   "formattedUrl": "www.ecgs.lu/jlg-abstracts/",
+   "htmlFormattedUrl": "www.ecgs.lu/jlg-abstracts/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "QUAKELINE?? Literature Search ??? China & Earthquakes",
+   "htmlTitle": "QUAKELINE?? Literature Search ??? China &amp; \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "ftp://mceer.buffalo.edu/pub/searches/08/06/080603.html",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "AV: Earthquake Engineering Research Institute (EERI), 499 14th street, Suite 320  , ..... ID: West of Kunlun Mountain Pass, China earthquake, November 14, 2001.   ...... Special issue: Seismology and Related Sciences in Africa; selected papers ...",
+   "htmlSnippet": "AV: \u003cb\u003eEarthquake\u003c/b\u003e Engineering Research Institute (EERI), 499 14th street, Suite 320\u003cbr\u003e  , \u003cb\u003e.....\u003c/b\u003e ID: West of Kunlun Mountain Pass, China \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eNovember 14, 2001\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e Special issue: Seismology and Related Sciences in \u003cb\u003eAfrica\u003c/b\u003e; selected papers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0pOg5polFOoJ",
+   "formattedUrl": "ftp://mceer.buffalo.edu/pub/searches/08/06/080603.html",
+   "htmlFormattedUrl": "ftp://mceer.buffalo.edu/pub/searches/08/06/080603.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mceer.buffalo.edu/infoservice/images/imagesRedesign/mceerPrint.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "131",
+      "height": "46",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsDBG-j5bpneWctjqOMV7_SmcCOt3uq0xQzNfwOmgnVFIJ8J-hE3qj2w"
+     }
+    ]
+   }
+  }
+ ]
+}

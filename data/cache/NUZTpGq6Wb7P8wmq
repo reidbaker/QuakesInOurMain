@@ -1,0 +1,249 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 26 2001 Eurasia Earthquake",
+    "totalResults": "50100",
+    "searchTerms": "Nov 26 2001 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 26 2001 Eurasia Earthquake",
+    "totalResults": "50100",
+    "searchTerms": "Nov 26 2001 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.189055,
+  "formattedSearchTime": "0.19",
+  "totalResults": "50100",
+  "formattedTotalResults": "50,100"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2001 Gujarat earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2001 Gujarat earthquake occurred on January 26, 2001, India's 51st   Republic Day, ... During the collision with Eurasia the area has undergone   shortening, ... on 20 November 2007. http://neic.usgs.gov/neis/eq_depot/2001/  eq_010126/.",
+   "htmlSnippet": "The \u003cb\u003e2001\u003c/b\u003e Gujarat \u003cb\u003eearthquake\u003c/b\u003e occurred on January \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, India&#39;s 51st \u003cbr\u003e  Republic Day, \u003cb\u003e...\u003c/b\u003e During the collision with \u003cb\u003eEurasia\u003c/b\u003e the area has undergone \u003cbr\u003e  shortening, \u003cb\u003e...\u003c/b\u003e on 20 \u003cb\u003eNovember\u003c/b\u003e 2007. http://neic.usgs.gov/neis/eq_depot/\u003cb\u003e2001\u003c/b\u003e/\u003cbr\u003e  eq_010126/.",
+   "cacheId": "LtzX9S90JqYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2001_Gujarat_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e2001\u003c/b\u003e_Gujarat_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2001_Gujarat_earthquake.jpg/240px-2001_Gujarat_earthquake.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "146",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTHda-3a5sGFabOisVtMRYCYGYvnKxmmbPv9njhrKDcTcig8Zo8QBVlW_"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.5 - 296km SSE of Turpan, China 2012-11-26 05:33:50 UTC",
+   "htmlTitle": "M5.5 - 296km SSE of Turpan, China 2012-11-\u003cb\u003e26\u003c/b\u003e 05:33:50 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dy6h",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 26, 2012 ... Earthquake location 40.419??N, 90.374??E .... Page Last Modified: November 26,   2012 16:38:30 UTC ... himalaya vicinity himalaya dominantly from continental   collision india eurasia plates which converging ... manyi and the 14th november   2001 m7 kokoxili the haiyuan fault in the far north east the december ...",
+   "htmlSnippet": "Nov 26, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e location 40.419??N, 90.374??E \u003cb\u003e....\u003c/b\u003e Page Last Modified: \u003cb\u003eNovember 26\u003c/b\u003e, \u003cbr\u003e  2012 16:38:30 UTC \u003cb\u003e...\u003c/b\u003e himalaya vicinity himalaya dominantly from continental \u003cbr\u003e  collision india \u003cb\u003eeurasia\u003c/b\u003e plates which converging \u003cb\u003e...\u003c/b\u003e manyi and the 14th \u003cb\u003enovember\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e m7 kokoxili the haiyuan fault in the far north east the december \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "j_JGLwBTyKMJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dy6h",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dy6h"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001 Kunlun earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e Kunlun \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2001_Kunlun_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2001 Kunlun earthquake also known as the 2001 Kokoxili earthquake,   occurred on 14 November 2001 at 09:26 UTC (17:26 local time), with an ... that   accommodate the eastward motion of the Tibetan plateau relative to the Eurasian   plate.",
+   "htmlSnippet": "The \u003cb\u003e2001\u003c/b\u003e Kunlun \u003cb\u003eearthquake\u003c/b\u003e also known as the \u003cb\u003e2001\u003c/b\u003e Kokoxili \u003cb\u003eearthquake\u003c/b\u003e, \u003cbr\u003e  occurred on 14 \u003cb\u003eNovember 2001\u003c/b\u003e at 09:\u003cb\u003e26\u003c/b\u003e UTC (17:\u003cb\u003e26\u003c/b\u003e local time), with an \u003cb\u003e...\u003c/b\u003e that \u003cbr\u003e  accommodate the eastward motion of the Tibetan plateau relative to the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  plate.",
+   "cacheId": "KzFgFxP3Y-4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2001_Kunlun_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e2001\u003c/b\u003e_Kunlun_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2001_Kunlun_earthquake_location.png/240px-2001_Kunlun_earthquake_location.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "169",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNSodHmCAe0TY_WNWe5I0V4BDN9DDhchAh9HKF2Rr2nInxoIL5ySWoLyw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.2 - 11km N of Murghob, Tajikistan 2012-07-26 01:06:30 UTC",
+   "htmlTitle": "M5.2 - 11km N of Murghob, Tajikistan 2012-07-\u003cb\u003e26\u003c/b\u003e 01:06:30 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000bgc5",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 26, 2012 ... Location and Magnitude contributed by: USGS National Earthquake .... Eurasia   generates numerous earthquakes and consequently makes .... M7.6 Manyi   earthquake and the 14th November 2001, M7.8 Kokoxili earthquake.",
+   "htmlSnippet": "Jul 26, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e \u003cbr\u003e  generates numerous \u003cb\u003eearthquakes\u003c/b\u003e and consequently makes \u003cb\u003e....\u003c/b\u003e M7.6 Manyi \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e and the 14th \u003cb\u003eNovember 2001\u003c/b\u003e, M7.8 Kokoxili \u003cb\u003eearthquake\u003c/b\u003e.",
+   "cacheId": "i6Bct-hBGMQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000bgc5",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000bgc5"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indian Plate - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Indian Plate - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Indian_Plate",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "55 Ma) with the Eurasian Plate, resulting in the formation of the Himalayas. ...   Like all similarly large earthquakes, the December 26, 2004 event was caused by   thrust-faulting. ... 2007; ^ Scotese 2001; ^ Aitchison, Ali & Davis 2007; ^ van   Hinsbergen, D.; Lippert, .... This page was last modified on 4 November 2012 at   17:09.",
+   "htmlSnippet": "55 Ma) with the \u003cb\u003eEurasian\u003c/b\u003e Plate, resulting in the formation of the Himalayas. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Like all similarly large \u003cb\u003eearthquakes\u003c/b\u003e, the December \u003cb\u003e26\u003c/b\u003e, 2004 event was caused by \u003cbr\u003e  thrust-faulting. \u003cb\u003e...\u003c/b\u003e 2007; ^ Scotese \u003cb\u003e2001\u003c/b\u003e; ^ Aitchison, Ali &amp; Davis 2007; ^ van \u003cbr\u003e  Hinsbergen, D.; Lippert, \u003cb\u003e....\u003c/b\u003e This page was last modified on 4 \u003cb\u003eNovember\u003c/b\u003e 2012 at \u003cbr\u003e  17:09.",
+   "cacheId": "Zwah8Vl_lPgJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Indian_Plate",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Indian_Plate",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/220px-Plates_tect2_en.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "120",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1ewrVoPZSPm55us5GNPCNiFkdocf4_1Lc-uGtN9Ej4B3cCcCr9eXj0g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This list of earthquakes in Greece includes notable earthquakes that have   affected ... The northern part of Greece lies on the Eurasian Plate while the   southern part lies on the Aegean Sea Plate. ... 26 September 1932, 19:20,   Ierissos ... Stiros, S.C. (2001). .... This page was last modified on 29 November   2012 at 21:10.",
+   "htmlSnippet": "This list of \u003cb\u003eearthquakes\u003c/b\u003e in Greece includes notable \u003cb\u003eearthquakes\u003c/b\u003e that have \u003cbr\u003e  affected \u003cb\u003e...\u003c/b\u003e The northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the \u003cbr\u003e  southern part lies on the Aegean Sea Plate. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e26\u003c/b\u003e September 1932, 19:20, \u003cbr\u003e  Ierissos \u003cb\u003e...\u003c/b\u003e Stiros, S.C. (\u003cb\u003e2001\u003c/b\u003e). \u003cb\u003e....\u003c/b\u003e This page was last modified on 29 \u003cb\u003eNovember\u003c/b\u003e \u003cbr\u003e  2012 at 21:10.",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The January 26, 2001 Bhuj Earthquake, India .",
+   "htmlTitle": "The January \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e Bhuj \u003cb\u003eEarthquake\u003c/b\u003e, India .",
+   "link": "http://cires.colorado.edu/~bilham/gif_images/2001Bhuj.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "January 26, 2001 was the most deadly in India's recorded history (Figure 1). ....   officer D. J. Nasmyth, the November 1856 earthquake distorted angles by up to   24 ??rad ..... the Indian Shield: Effects of the collision between Indian and Eurasia.",
+   "htmlSnippet": "January \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e was the most deadly in India&#39;s recorded history (Figure 1). \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  officer D. J. Nasmyth, the \u003cb\u003eNovember\u003c/b\u003e 1856 \u003cb\u003eearthquake\u003c/b\u003e distorted angles by up to \u003cbr\u003e  24 ??rad \u003cb\u003e.....\u003c/b\u003e the Indian Shield: Effects of the collision between Indian and \u003cb\u003eEurasia\u003c/b\u003e.",
+   "cacheId": "Tzc3FKKHFFEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/gif_images/2001Bhuj.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/gif_images/\u003cb\u003e2001\u003c/b\u003eBhuj.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "D:20010306175503",
+      "title": "16Bhuj",
+      "author": "roger bilham",
+      "producer": "Acrobat PDFWriter 4.05  for Power Macintosh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Late Holocene earthquake history of the central Altyn Tagh fault, China",
+   "htmlTitle": "Late Holocene \u003cb\u003eearthquake\u003c/b\u003e history of the central Altyn Tagh fault, China",
+   "link": "http://geology.gsapubs.org/content/29/11/1051.full.pdf",
+   "displayLink": "geology.gsapubs.org",
+   "snippet": "Geology; November 2001; v. ... Keywords: Altyn Tagh fault, earthquake geology,   India-Eurasia orogen, active ... Pingding segment, and 26 along the Xorxoli ...",
+   "htmlSnippet": "Geology; \u003cb\u003eNovember 2001\u003c/b\u003e; v. \u003cb\u003e...\u003c/b\u003e Keywords: Altyn Tagh fault, \u003cb\u003eearthquake\u003c/b\u003e geology, \u003cbr\u003e  India-\u003cb\u003eEurasia\u003c/b\u003e orogen, active \u003cb\u003e...\u003c/b\u003e Pingding segment, and \u003cb\u003e26\u003c/b\u003e along the Xorxoli \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MBj6Egh11igJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "geology.gsapubs.org/content/29/11/1051.full.pdf",
+   "htmlFormattedUrl": "geology.gsapubs.org/content/29/11/1051.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20011030122201Z",
+      "producer": "Acrobat Distiller Daemon 3.01 for Solaris 2.3 and later (SPARC)",
+      "author": "penta@ultra1",
+      "creator": "Penta Software Inc. Version 12.0",
+      "title": "geoy_29_1121.1051_1054.tp",
+      "moddate": "D:20011030133615-06'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Earthquake and Tsunami of 28 November 1945",
+   "htmlTitle": "The \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami of 28 \u003cb\u003eNovember\u003c/b\u003e 1945",
+   "link": "http://www.drgeorgepc.com/Tsunami1945Pakistan.html",
+   "displayLink": "www.drgeorgepc.com",
+   "snippet": "The great earthquake occurred at 21:56 UTC (03:26 IST), on 28 November 1945.   ... edge begun colliding with the Eurasian tectonic plate and thrusting upward. ....   of India where major earthquakes have occurred - one as recently as 2001.",
+   "htmlSnippet": "The great \u003cb\u003eearthquake\u003c/b\u003e occurred at 21:56 UTC (03:\u003cb\u003e26\u003c/b\u003e IST), on 28 \u003cb\u003eNovember\u003c/b\u003e 1945. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e edge begun colliding with the \u003cb\u003eEurasian\u003c/b\u003e tectonic plate and thrusting upward. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  of India where major \u003cb\u003eearthquakes\u003c/b\u003e have occurred - one as recently as \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "w_UWRbx3mhgJ",
+   "formattedUrl": "www.drgeorgepc.com/Tsunami1945Pakistan.html",
+   "htmlFormattedUrl": "www.drgeorgepc.com/Tsunami1945Pakistan.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.drgeorgepc.com/tsu1945PakistanMakranGenAre.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "317",
+      "height": "159",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSX7VT36UarrKeJ1Gx_7hplHpRncTb-657FFr8zHL9tkZIkrBqysit-hns"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 2 2001 Africa Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Nov 2 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 2 2001 Africa Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Nov 2 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.319229,
+  "formattedSearchTime": "0.32",
+  "totalResults": "777000",
+  "formattedTotalResults": "777,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list April 16, 2012 ??? Phuket, Thailand ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list April 16, 2012 ??? Phuket, Thailand \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/15/major-earthquakes-list-april-16-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 16, 2012 ... The preliminary earthquake epicenter is located in the sea at +50 km from ...   Sapientza has a population of 7 and Schiza a polulation of 2 (2001 ...",
+   "htmlSnippet": "Apr 16, 2012 \u003cb\u003e...\u003c/b\u003e The preliminary \u003cb\u003eearthquake\u003c/b\u003e epicenter is located in the sea at +50 km from \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Sapientza has a population of 7 and Schiza a polulation of \u003cb\u003e2\u003c/b\u003e (\u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4I0JZ9JJcp8J",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-april-16-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-april-16-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 1, 2001, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5, Mw (HRV)  . January 9, 2001 ... see 2001 Geiyo earthquake, 34.083, 132.526, 2, 6.7, Mw (  USGS). June 3 ... November 14, 2001, 09:26, Qinghai, China ...",
+   "htmlSnippet": "January 1, \u003cb\u003e2001\u003c/b\u003e, 06:57, Mindanao, Philippines, 6.898, 126.579, 0, 7.5, Mw (HRV)\u003cbr\u003e  . January 9, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e2001\u003c/b\u003e Geiyo \u003cb\u003eearthquake\u003c/b\u003e, 34.083, 132.526, \u003cb\u003e2\u003c/b\u003e, 6.7, Mw (\u003cbr\u003e  USGS). June 3 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNovember\u003c/b\u003e 14, \u003cb\u003e2001\u003c/b\u003e, 09:26, Qinghai, China \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Friday, 2 November 2012 (Earthquakes ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Friday, \u003cb\u003e2 November\u003c/b\u003e 2012 (\u003cb\u003eEarthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-nov-2.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Nov 2, 2012 ... Fri, 2 Nov (196 earthquakes). Fri, 2 Nov 23:49 UTC, M 3.0 / 48 km - [info], 68km N   of San Juan, Puerto Rico I FELT IT, [Map], USGS. Fri, 2 Nov ...",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e Fri, \u003cb\u003e2 Nov\u003c/b\u003e (196 \u003cb\u003eearthquakes\u003c/b\u003e). Fri, \u003cb\u003e2 Nov\u003c/b\u003e 23:49 UTC, M 3.0 / 48 km - [info], 68km N \u003cbr\u003e  of San Juan, Puerto Rico I FELT IT, [Map], USGS. Fri, \u003cb\u003e2 Nov\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "82qqmdqs9VMJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-nov-2.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003enov\u003c/b\u003e-\u003cb\u003e2\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 Main lists; 2 Lists of earthquakes by country; 3 Largest earthquakes by   magnitude ... earthquakes (1901???2000); List of 21st-century earthquakes (2001???  present) ... 01604-11-24November 24, 1604, Arica, Chile (then part of the   Spanish ...",
+   "htmlSnippet": "1 Main lists; \u003cb\u003e2\u003c/b\u003e Lists of \u003cb\u003eearthquakes\u003c/b\u003e by country; 3 Largest \u003cb\u003eearthquakes\u003c/b\u003e by \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e (1901???2000); List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e (\u003cb\u003e2001\u003c/b\u003e???\u003cbr\u003e  present) \u003cb\u003e...\u003c/b\u003e 01604-11-24\u003cb\u003eNovember\u003c/b\u003e 24, 1604, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of the \u003cbr\u003e  Spanish \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Museum of African Art / Art and Programs / Virtual Exhibitions",
+   "htmlTitle": "National Museum of \u003cb\u003eAfrican\u003c/b\u003e Art / Art and Programs / Virtual Exhibitions",
+   "link": "http://africa.si.edu/exhibits/past.html",
+   "displayLink": "africa.si.edu",
+   "snippet": "The Fabric of Moroccan Life, June 6???November 2, 2003 ... Initiation Rituals   Making the Grade: African Arts of Initiation, December 16, 2001???March 3, 2002 ...   The Healing Power of Art: Works of Art by Haitian Children after the Earthquake.",
+   "htmlSnippet": "The Fabric of Moroccan Life, June 6???\u003cb\u003eNovember 2\u003c/b\u003e, 2003 \u003cb\u003e...\u003c/b\u003e Initiation Rituals \u003cbr\u003e  Making the Grade: \u003cb\u003eAfrican\u003c/b\u003e Arts of Initiation, December 16, \u003cb\u003e2001\u003c/b\u003e???March 3, 2002 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The Healing Power of Art: Works of Art by Haitian Children after the \u003cb\u003eEarthquake\u003c/b\u003e.",
+   "cacheId": "JXeGBQPQnEcJ",
+   "formattedUrl": "africa.si.edu/exhibits/past.html",
+   "htmlFormattedUrl": "\u003cb\u003eafrica\u003c/b\u003e.si.edu/exhibits/past.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900. Sorted by ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900. Sorted by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Wp53QF265fgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths_sort.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today in History November 2",
+   "htmlTitle": "Today in History \u003cb\u003eNovember 2\u003c/b\u003e",
+   "link": "http://timelines.ws/days/11_02.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1164 Nov 2, Thomas Becket, the archbishop of Canterbury, fled England and ....   in 1902 and was extremely popular right after the 1906 earthquake and fire, .... up   an American command post for the invasion of North Africa, Operation Torch.",
+   "htmlSnippet": "1164 \u003cb\u003eNov 2\u003c/b\u003e, Thomas Becket, the archbishop of Canterbury, fled England and \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  in 1902 and was extremely popular right after the 1906 \u003cb\u003eearthquake\u003c/b\u003e and fire, \u003cb\u003e....\u003c/b\u003e up \u003cbr\u003e  an American command post for the invasion of North \u003cb\u003eAfrica\u003c/b\u003e, Operation Torch.",
+   "cacheId": "mVcUK-3ttTsJ",
+   "formattedUrl": "timelines.ws/days/11_02.HTML",
+   "htmlFormattedUrl": "timelines.ws/days/11_02.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algis Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/index.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 28, 2012 ... Get real-time earthquake notifications sent to you using a number of ... M 6.5,   163km SSW of Severo-Kuril'sk, Russia Friday, November 16, ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of \u003cb\u003e...\u003c/b\u003e M 6.5, \u003cbr\u003e  163km SSW of Severo-Kuril&#39;sk, Russia Friday, \u003cb\u003eNovember\u003c/b\u003e 16, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D_0uDpIsu6kJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/index.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Reports | OCHA",
+   "htmlTitle": "Reports | OCHA",
+   "link": "http://www.unocha.org/what-we-do/policy/thematic-areas/evaluations-of-humanitarian-response/reports",
+   "displayLink": "www.unocha.org",
+   "snippet": "Synthesis report of the IA RTEs of the Response to the Horn of Africa ... Plan (  MRP) to Cluster Evaluation Phase 2 \u003e November 2010by Task Team on the   Cluster .... Operations Following the Earthquake in Gujarat, India - 26 January   2001 A ...",
+   "htmlSnippet": "Synthesis report of the IA RTEs of the Response to the Horn of \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Plan (\u003cbr\u003e  MRP) to Cluster Evaluation Phase \u003cb\u003e2\u003c/b\u003e &gt; \u003cb\u003eNovember\u003c/b\u003e 2010by Task Team on the \u003cbr\u003e  Cluster \u003cb\u003e....\u003c/b\u003e Operations Following the \u003cb\u003eEarthquake\u003c/b\u003e in Gujarat, India - 26 January \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e A \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ky1ljaXBrfQJ",
+   "formattedUrl": "www.unocha.org/what-we-do/policy/thematic-areas/.../reports",
+   "htmlFormattedUrl": "www.unocha.org/what-we-do/policy/thematic-areas/.../reports",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.unocha.org/sites/default/files/OCHA_Category/PolicyConferenceVideo.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "99",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxBYqc5zlPT1WiOdEN3FZIC3rodssIrVYAbMPTkN4vdQXC2rdc4ZqPKw"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "UN Office for the Coordination of Humanitarian Affairs",
+      "abstract": "OCHA is the part of the United Nations Secretariat responsible for bringing together humanitarian actors to ensure a coherent response to emergencies."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Video - Breaking News Videos from CNN.com",
+   "htmlTitle": "Video - Breaking News Videos from CNN.com",
+   "link": "http://edition.cnn.com/video/",
+   "displayLink": "edition.cnn.com",
+   "snippet": "EDITION: INTERNATIONAL; U.S. ?? M??XICO ?? ARABIC. Set edition preference.   Sign up; Log in. Home ?? Video ?? World ?? U.S. ?? Africa ?? Asia ?? Europe ?? Latin   America ...",
+   "htmlSnippet": "EDITION: INTERNATIONAL; U.S. &middot; M??XICO &middot; ARABIC. Set edition preference. \u003cbr\u003e  Sign up; Log in. Home &middot; Video &middot; World &middot; U.S. &middot; \u003cb\u003eAfrica\u003c/b\u003e &middot; Asia &middot; Europe &middot; Latin \u003cbr\u003e  America \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FKs_-qaWmyUJ",
+   "formattedUrl": "edition.cnn.com/video/",
+   "htmlFormattedUrl": "edition.cnn.com/video/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "CNN.com Video",
+      "fb_title": "CNN.com Video"
+     }
+    ]
+   }
+  }
+ ]
+}

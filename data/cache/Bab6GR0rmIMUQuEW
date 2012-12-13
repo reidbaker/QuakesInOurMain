@@ -1,0 +1,273 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 1 1935 North America Earthquake",
+    "totalResults": "111000",
+    "searchTerms": "Nov 1 1935 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 1 1935 North America Earthquake",
+    "totalResults": "111000",
+    "searchTerms": "Nov 1 1935 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.294535,
+  "formattedSearchTime": "0.29",
+  "totalResults": "111000",
+  "formattedTotalResults": "111,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1935 Timiskaming earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1935\u003c/b\u003e Timiskaming \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1935_Timiskaming_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The earthquake was felt over a wide swath of North America, extending west to   Fort William (now ... The Temiskamingue Earthquake of November 1, 1935.",
+   "htmlSnippet": "The \u003cb\u003eearthquake\u003c/b\u003e was felt over a wide swath of \u003cb\u003eNorth America\u003c/b\u003e, extending west to \u003cbr\u003e  Fort William (now \u003cb\u003e...\u003c/b\u003e The Temiskamingue \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eNovember 1, 1935\u003c/b\u003e.",
+   "cacheId": "rIvop5WirmkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1935_Timiskaming_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1935\u003c/b\u003e_Timiskaming_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... The earthquake was centered in the gold mining area of Welkom .... The Pacific   Plate is moving northwest with respect to the North American Plate at   approximately 56 ..... November 1 2012 ... Canada, 1935 - Magnitude : 6.2 ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom \u003cb\u003e....\u003c/b\u003e The Pacific \u003cbr\u003e  Plate is moving northwest with respect to the \u003cb\u003eNorth American\u003c/b\u003e Plate at \u003cbr\u003e  approximately 56 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eNovember 1\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e Canada, \u003cb\u003e1935\u003c/b\u003e - Magnitude : 6.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Canada - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Canada - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Canada",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "November 1, 1935, 06:03:40, Timiskaming ... Ms This was the first earthquake in   eastern North America confirmed to ...",
+   "htmlSnippet": "\u003cb\u003eNovember 1\u003c/b\u003e, \u003cb\u003e1935\u003c/b\u003e, 06:03:40, Timiskaming \u003cb\u003e...\u003c/b\u003e Ms This was the first \u003cb\u003eearthquake\u003c/b\u003e in \u003cbr\u003e  eastern \u003cb\u003eNorth America\u003c/b\u003e confirmed to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0gxr8h4LpdYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Canada",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Canada"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Temiskaming Earthquake of November 1, 1935. The Location of ...",
+   "htmlTitle": "The Temiskaming \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eNovember 1, 1935\u003c/b\u003e. The Location of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://adsabs.harvard.edu/full/1936JRASC..30..113H",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "Ottawa seismograms of the Tirniskarning earthquake, November 1 1935. ... North  -east corner of Hunter's Lodge, displaced toward WSW Journal of thc Royal .....   Problem of Depth of Focus,\" Bulletin of the Seismological Society of America, Vol.",
+   "htmlSnippet": "Ottawa seismograms of the Tirniskarning \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eNovember 1 1935\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNorth\u003c/b\u003e\u003cbr\u003e  -east corner of Hunter&#39;s Lodge, displaced toward WSW Journal of thc Royal \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Problem of Depth of Focus,&quot; Bulletin of the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e, Vol.",
+   "formattedUrl": "adsabs.harvard.edu/full/1936JRASC..30..113H",
+   "htmlFormattedUrl": "adsabs.harvard.edu/full/1936JRASC..30..113H",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/1936JRASC..30..113H",
+      "citation_title": "The Temiskaming Earthquake of November 1, 1935. The Location of the Epicentre and Determination of Focal Depth (with Plates VII-XIII)",
+      "citation_authors": "Hodgson, Ernest A.",
+      "citation_issn": "0035-872X",
+      "citation_date": "04/1936",
+      "citation_journal_title": "Journal of the Royal Astronomical Society of Canada",
+      "citation_volume": "30",
+      "citation_firstpage": "113",
+      "prism.publicationname": "Journal of the Royal Astronomical Society of Canada",
+      "prism.issn": "0035-872X",
+      "prism.volume": "30",
+      "prism.startingpage": "113",
+      "dc.language": "en",
+      "dc.date": "1936-04",
+      "dc.source": "Journal of the Royal Astronomical Society of Canada, Vol. 30, p.113",
+      "dc.title": "The Temiskaming Earthquake of November 1, 1935. The Location of the Epicentre and Determination of Focal Depth (with Plates VII-XIII)",
+      "dc.creator": "Hodgson, Ernest A."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 1935 M6.1 Timiskaming earthquake",
+   "htmlTitle": "The \u003cb\u003e1935\u003c/b\u003e M6.\u003cb\u003e1\u003c/b\u003e Timiskaming \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://www.earthquakescanada.nrcan.gc.ca/histor/20th-eme/1935/1935-eng.php",
+   "displayLink": "www.earthquakescanada.nrcan.gc.ca",
+   "snippet": "Feb 18, 2010 ... Description of earthquakes. ... Local Date and Time: November 1, 1935 at 1:03:  40 am Eastern time ... In Mattawa and North Bay (both about 70 km from the   epicentre), ... Bulletin of the Seismological Society of America, v.",
+   "htmlSnippet": "Feb 18, 2010 \u003cb\u003e...\u003c/b\u003e Description of \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Local Date and Time: \u003cb\u003eNovember 1\u003c/b\u003e, \u003cb\u003e1935\u003c/b\u003e at 1:03:\u003cbr\u003e  40 am Eastern time \u003cb\u003e...\u003c/b\u003e In Mattawa and \u003cb\u003eNorth\u003c/b\u003e Bay (both about 70 km from the \u003cbr\u003e  epicentre), \u003cb\u003e...\u003c/b\u003e Bulletin of the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e, v.",
+   "cacheId": "RGxlhbc5Nd8J",
+   "formattedUrl": "www.earthquakescanada.nrcan.gc.ca/histor/20th.../1935/1935-eng.php",
+   "htmlFormattedUrl": "www.\u003cb\u003eearthquakes\u003c/b\u003ecanada.nrcan.gc.ca/histor/20th.../\u003cb\u003e1935\u003c/b\u003e/\u003cb\u003e1935\u003c/b\u003e-eng.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.earthquakescanada.nrcan.gc.ca/histor/20th-eme/1935/images/tn_1935TimiskamingIsoseis_e.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "230",
+      "height": "219",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqT1RdrYpDZUgzjPrljWv5V8vlkxiGi2q4nhEZkF59OfwC3BIF4DI7LHg"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.description": "Description of earthquakes",
+      "dc.creator": "Maurice Lamontagne",
+      "dc.title": "The 1935 M6.1 Timiskaming earthquake",
+      "dcterms.issued": "1999-03-01",
+      "dcterms.modified": "2010-02-18",
+      "dc.subject": "The 1935 M6.1 Timiskaming earthquake",
+      "dc.language": "eng",
+      "dc.date.modified": "2010-02-18",
+      "dc.date.created": "1999-03-01",
+      "author": "Maurice Lamontagne",
+      "orgid": "42;916;8832;8831;9115"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minnesota Earthquake History",
+   "htmlTitle": "Minnesota \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/minnesota/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... The shocks caused damage at North Platte and Columbus, Nebraska and ... Ten   years later, on November 1, 1935, another strong earthquake ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e The shocks caused damage at \u003cb\u003eNorth\u003c/b\u003e Platte and Columbus, Nebraska and \u003cb\u003e...\u003c/b\u003e Ten \u003cbr\u003e  years later, on \u003cb\u003eNovember 1, 1935\u003c/b\u003e, another strong \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yw5zPOUm3ckJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/minnesota/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/minnesota/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on November 1st This Day in History",
+   "htmlTitle": "What Happened on \u003cb\u003eNovember\u003c/b\u003e 1st This Day in History",
+   "link": "http://www.thepeoplehistory.com/november1st.html",
+   "displayLink": "www.thepeoplehistory.com",
+   "snippet": "He said it was good for the health in America, and in Canada too. He also ...   November 1st, 1935 : Northern Canada was shaken by a violent earthquake. The   center of this earthquake was detected to have been just north of Lake Ontario. In   all ...",
+   "htmlSnippet": "He said it was good for the health in \u003cb\u003eAmerica\u003c/b\u003e, and in Canada too. He also \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember 1st, 1935\u003c/b\u003e : Northern Canada was shaken by a violent \u003cb\u003eearthquake\u003c/b\u003e. The \u003cbr\u003e  center of this \u003cb\u003eearthquake\u003c/b\u003e was detected to have been just \u003cb\u003enorth\u003c/b\u003e of Lake Ontario. In \u003cbr\u003e  all \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sKZgWcxvdNUJ",
+   "formattedUrl": "www.thepeoplehistory.com/november1st.html",
+   "htmlFormattedUrl": "www.thepeoplehistory.com/\u003cb\u003enovember1\u003c/b\u003est.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thepeoplehistory.com/publicdomain/wildturkey.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "140",
+      "height": "143",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmViG7uF3mzSIBhuJCc3i6Q1q7fSdNa1CA5eM2WpWwRZbvc5vTVuEjby8"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "The People History -- Steve Pearson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin: Earthquake History",
+   "htmlTitle": "Wisconsin: \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/wisconsin/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Another strong Canadian earthquake (M=6 1/4) affected a large area of the   northeastern and north-central United States on November 1, 1935.",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Another strong Canadian \u003cb\u003eearthquake\u003c/b\u003e (M=6 1/4) affected a large area of the \u003cbr\u003e  northeastern and \u003cb\u003enorth\u003c/b\u003e-central United States on \u003cb\u003eNovember 1, 1935\u003c/b\u003e.",
+   "cacheId": "P-QAoRfj9gwJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/wisconsin/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/wisconsin/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Hazard in Pennsylvania",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Hazard in Pennsylvania",
+   "link": "http://www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "displayLink": "www.dcnr.state.pa.us",
+   "snippet": "only the eastern half of North America, Pennsylvania has experienced fewer and   .... Earthquakes in eastern North America .... On November 1, 1935, an earth- ...",
+   "htmlSnippet": "only the eastern half of \u003cb\u003eNorth America\u003c/b\u003e, Pennsylvania has experienced fewer and \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eNovember 1, 1935\u003c/b\u003e, an earth- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yLantnncP08J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "htmlFormattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030630201551Z",
+      "creator": "QuarkXPress(tm) for Windows 5.01",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "moddate": "D:20070716094835-04'00'",
+      "title": "front.qxd (Page 3)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Earthquake History",
+   "htmlTitle": "West Virginia \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/west_virginia/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... A strong earthquake in the Charles Town - Martinsburg area ... A number of   places in West Virginia felt tremors from a major earthquake on November 1,   1935, ... Virginia, Georgia, Kentucky, Maryland (one place), North Carolina, Ohio,   ... Notices ?? In partnership with nehrp ?? Take Pride in America; USA.gov ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e A strong \u003cb\u003eearthquake\u003c/b\u003e in the Charles Town - Martinsburg area \u003cb\u003e...\u003c/b\u003e A number of \u003cbr\u003e  places in West Virginia felt tremors from a major \u003cb\u003eearthquake\u003c/b\u003e on \u003cb\u003eNovember 1,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1935\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e Virginia, Georgia, Kentucky, Maryland (one place), \u003cb\u003eNorth\u003c/b\u003e Carolina, Ohio, \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kt_DrH7sKlsJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/west_virginia/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/west_virginia/history.php"
+  }
+ ]
+}

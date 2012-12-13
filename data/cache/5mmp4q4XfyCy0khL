@@ -1,0 +1,282 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 20 2001 Australia Earthquake",
+    "totalResults": "775000",
+    "searchTerms": "Nov 20 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 20 2001 Australia Earthquake",
+    "totalResults": "775000",
+    "searchTerms": "Nov 20 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.196814,
+  "formattedSearchTime": "0.20",
+  "totalResults": "775000",
+  "formattedTotalResults": "775,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... This database has been presented at the Australian Earthquake Engineering ......   Society 2011 Conference, Nov 18-20, Barossa Valley, South Australia. ... BTE [  2001] ???Economic Costs of Natural Disasters in Australia???, Bureau ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  Society 2011 Conference, \u003cb\u003eNov\u003c/b\u003e 18-\u003cb\u003e20\u003c/b\u003e, Barossa Valley, South \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e BTE [\u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in \u003cb\u003eAustralia\u003c/b\u003e???, Bureau \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australian Earthquake Engineering Society",
+   "htmlTitle": "\u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering Society",
+   "link": "http://www.aees.org.au/Proceedings/2001_Papers/Index.pdf",
+   "displayLink": "www.aees.org.au",
+   "snippet": "Proceedings of a conference held by the. Australian Earthquake Engineering   Society. Australian Defence Force Academy, Canberra, ACT. November 20-22 ...",
+   "htmlSnippet": "Proceedings of a conference held by the. \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering \u003cbr\u003e  Society. \u003cb\u003eAustralian\u003c/b\u003e Defence Force Academy, Canberra, ACT. \u003cb\u003eNovember 20\u003c/b\u003e-22 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sgiAJHIHYhgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.aees.org.au/Proceedings/2001_Papers/Index.pdf",
+   "htmlFormattedUrl": "www.aees.org.au/Proceedings/\u003cb\u003e2001\u003c/b\u003e_Papers/Index.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060310112810+11'00'",
+      "creator": "Word",
+      "moddate": "D:20060310112810+11'00'",
+      "producer": "Mac OS X 10.3.9 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Tohoku earthquake and tsunami : CATDAT 41 report ...",
+   "htmlTitle": "Japan Tohoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami : CATDAT 41 report \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/02/japan-tohoku-earthquake-and-tsunami-catdat-41-report-october-2-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 5, 2011 ... For further information, come to the Australian Earthquake .... Society 2011   Conference, Nov 18-20, Barossa Valley, South Australia. Daniell ...",
+   "htmlSnippet": "Oct 5, 2011 \u003cb\u003e...\u003c/b\u003e For further information, come to the \u003cb\u003eAustralian Earthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Society 2011 \u003cbr\u003e  Conference, \u003cb\u003eNov\u003c/b\u003e 18-\u003cb\u003e20\u003c/b\u003e, Barossa Valley, South \u003cb\u003eAustralia\u003c/b\u003e. Daniell \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "35ovD4FI7OwJ",
+   "formattedUrl": "earthquake-report.com/.../japan-tohoku-earthquake-and-tsunami-catdat-41- report-october-2-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../japan-tohoku-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami-catdat-41- report-october-2-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/JMA-Intensity.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "270",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpowXEZ0UgNHafUonfrPTdaftD1Q_A5_YcnKK4LO_B08MpxlkwlmmdRHrQ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "anon",
+      "nickname": "anon"
+     },
+     {
+      "fn": "Ana Paula Silva Correia and Jos?? Rodrigues Ribeiro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 6.2, BANDA SEA, Nov 20 2001, 21:08:18, -6.980, 128.850, 200111202108 ... 4.8,   VICTORIA, AUSTRALIA, Oct 27 2001, 07:58:48, -35.309 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 6.2, BANDA SEA, \u003cb\u003eNov 20 2001\u003c/b\u003e, 21:08:18, -6.980, 128.850, 200111202108 \u003cb\u003e...\u003c/b\u003e 4.8, \u003cbr\u003e  VICTORIA, \u003cb\u003eAUSTRALIA\u003c/b\u003e, Oct 27 2001, 07:58:48, -35.309 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   ..... 2001, 5.1, No damage reported, This quake occurred 20 kilometres (12 mi)   from .... 1 November 1842. http://trove.nla.gov.au/ndp/del/article/25639669?",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e, 5.1, No damage reported, This \u003cb\u003equake\u003c/b\u003e occurred \u003cb\u003e20\u003c/b\u003e kilometres (12 mi) \u003cbr\u003e  from \u003cb\u003e....\u003c/b\u003e 1 \u003cb\u003eNovember\u003c/b\u003e 1842. http://trove.nla.gov.au/ndp/del/article/25639669?",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Power Corp vs Philipp Brothers Oceanic Inc : 126204 ...",
+   "htmlTitle": "National Power Corp vs Philipp Brothers Oceanic Inc : 126204 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://sc.judiciary.gov.ph/jurisprudence/2001/nov2001/126204.htm",
+   "displayLink": "sc.judiciary.gov.ph",
+   "snippet": "November 20, 2001] ... On July 10, 1987, PHIBRO sent word to NAPOCOR that   industrial disputes might soon plague Australia, the shipment's .... by two general   causes: (1) by Nature, such as earthquakes, storms, floods, epidemics, fires, etc., ...",
+   "htmlSnippet": "\u003cb\u003eNovember 20, 2001\u003c/b\u003e] \u003cb\u003e...\u003c/b\u003e On July 10, 1987, PHIBRO sent word to NAPOCOR that \u003cbr\u003e  industrial disputes might soon plague \u003cb\u003eAustralia\u003c/b\u003e, the shipment&#39;s \u003cb\u003e....\u003c/b\u003e by two general \u003cbr\u003e  causes: (1) by Nature, such as \u003cb\u003eearthquakes\u003c/b\u003e, storms, floods, epidemics, fires, etc., \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cvXAKrnF7MMJ",
+   "formattedUrl": "sc.judiciary.gov.ph/jurisprudence/2001/nov2001/126204.htm",
+   "htmlFormattedUrl": "sc.judiciary.gov.ph/jurisprudence/\u003cb\u003e2001\u003c/b\u003e/\u003cb\u003enov2001\u003c/b\u003e/126204.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV) ... 02001-  06-23June 23, 2001, 20:33, Near coast of Peru see 2001 southern Peru ...   November 14, 2001, 09:26, Qinghai, China see 2001 ... December 12, 2001, 14:  02, South of Australia, ???42.813, 124.688, 0, 7.1, Mw (HRV, USGS) ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV) \u003cb\u003e...\u003c/b\u003e 02001-\u003cbr\u003e  06-23June 23, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003e20\u003c/b\u003e:33, Near coast of Peru see \u003cb\u003e2001\u003c/b\u003e southern Peru \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember\u003c/b\u003e 14, \u003cb\u003e2001\u003c/b\u003e, 09:26, Qinghai, China see \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e December 12, \u003cb\u003e2001\u003c/b\u003e, 14:\u003cbr\u003e  02, South of \u003cb\u003eAustralia\u003c/b\u003e, ???42.813, 124.688, 0, 7.1, Mw (HRV, USGS) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minerals | Recent earthquakes in SA",
+   "htmlTitle": "Minerals | Recent \u003cb\u003eearthquakes\u003c/b\u003e in SA",
+   "link": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "displayLink": "www.pir.sa.gov.au",
+   "snippet": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals   division. ... 20 November 2012, 19:12, -27.868??, 140.728??, 17 km S of Innamincka  , 3.0 ...",
+   "htmlSnippet": "Most recent \u003cb\u003eearthquakes\u003c/b\u003e recorded in South \u003cb\u003eAustralia\u003c/b\u003e by PIRSA&#39;s Minerals \u003cbr\u003e  division. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e20 November\u003c/b\u003e 2012, 19:12, -27.868??, 140.728??, 17 km S of Innamincka\u003cbr\u003e  , 3.0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SS6ROhNnXxwJ",
+   "formattedUrl": "www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "htmlFormattedUrl": "www.pir.sa.gov.au/minerals/\u003cb\u003eearthquakes\u003c/b\u003e/recent_\u003cb\u003eearthquakes\u003c/b\u003e_in_sa",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en",
+      "dc.creator.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.publisher.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.title": "Recent earthquakes in SA",
+      "dc.date.created": "2008-05-20EST10:03:29",
+      "dc.date.modified": "2012-12-05EST15:22:43",
+      "dc.rights": "Copyright (c) Department of Primary Industries and Regions, South Australia",
+      "dc.identifier": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+      "dc.subject": "earthquake, latest, South Australia, recent",
+      "dc.description": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals division",
+      "subject": "earthquake, latest, South Australia, recent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Western Australia has had a regular history of earthquakes throughout its   geological history. ... 2.13 Burakin Swarm 2000-2001; 2.14 South of Albany 2001;   2.15 Kalgoorlie 2010 ... On 20 April 1946 a magnitude 5.7 earthquake occurred   near Yallingup at .... of an earthquake he experienced in the Ashburton district,   19 Nov.",
+   "htmlSnippet": "Western \u003cb\u003eAustralia\u003c/b\u003e has had a regular history of \u003cb\u003eearthquakes\u003c/b\u003e throughout its \u003cbr\u003e  geological history. \u003cb\u003e...\u003c/b\u003e 2.13 Burakin Swarm 2000-\u003cb\u003e2001\u003c/b\u003e; 2.14 South of Albany \u003cb\u003e2001\u003c/b\u003e; \u003cbr\u003e  2.15 Kalgoorlie 2010 \u003cb\u003e...\u003c/b\u003e On \u003cb\u003e20\u003c/b\u003e April 1946 a magnitude 5.7 \u003cb\u003eearthquake\u003c/b\u003e occurred \u003cbr\u003e  near Yallingup at \u003cb\u003e....\u003c/b\u003e of an \u003cb\u003eearthquake\u003c/b\u003e he experienced in the Ashburton district, \u003cbr\u003e  19 \u003cb\u003eNov\u003c/b\u003e.",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australia - Grant History",
+   "htmlTitle": "\u003cb\u003eAustralia\u003c/b\u003e - Grant History",
+   "link": "http://www.ifac.net/aust-grants-hist/html/body.htm",
+   "displayLink": "www.ifac.net",
+   "snippet": "Rodney Glick: Earthquake - Stage 2, South Korea. ... At the meeting of IFAC (  Australia) held on November 20th, 2001, financial support was approved for the ...",
+   "htmlSnippet": "Rodney Glick: \u003cb\u003eEarthquake\u003c/b\u003e - Stage 2, South Korea. \u003cb\u003e...\u003c/b\u003e At the meeting of IFAC (\u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e) held on \u003cb\u003eNovember 20th, 2001\u003c/b\u003e, financial support was approved for the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jjkkDG7PbJ0J",
+   "formattedUrl": "www.ifac.net/aust-grants-hist/html/body.htm",
+   "htmlFormattedUrl": "www.ifac.net/aust-grants-hist/html/body.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ifac.net/aust-grants-hist/images/title01.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "151",
+      "height": "41",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_H74by7YGxZuM1j6sQcY2Z1Mlh8Q8ydhY1mWiBBrfpo23Gyu-sHY52w"
+     }
+    ]
+   }
+  }
+ ]
+}

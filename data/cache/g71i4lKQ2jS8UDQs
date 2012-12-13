@@ -1,0 +1,322 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 21 2001 North America Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Apr 21 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 21 2001 North America Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Apr 21 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.224037,
+  "formattedSearchTime": "0.22",
+  "totalResults": "777000",
+  "formattedTotalResults": "777,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of N America Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eN America\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/N_America_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. ... by the USGS and contributing networks for the Map of N America   Region. ... MAP, 3.2, 2012/12/12 21:37:00, 61.763, -150.394, 36.0, SOUTHERN   ALASKA ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e by the USGS and contributing networks for the Map of \u003cb\u003eN America\u003c/b\u003e \u003cbr\u003e  Region. \u003cb\u003e...\u003c/b\u003e MAP, 3.2, 2012/12/12 \u003cb\u003e21\u003c/b\u003e:37:00, 61.763, -150.394, 36.0, SOUTHERN \u003cbr\u003e  ALASKA \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LX2-MQ7UV7QJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/.../N_America_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/.../N_\u003cb\u003eAmerica\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "US6704245, Dec 21, 2001, Mar 9, 2004, Institut Francais du Petrole, Seismic ...   Apr 19, 2005, PGS Americas, Inc. Method for separating seismic signals from two   ... US7725266, May 31, 2007, May 25, 2010, BP Corporation North America Inc.",
+   "htmlSnippet": "US6704245, Dec \u003cb\u003e21\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, Mar 9, 2004, Institut Francais du Petrole, \u003cb\u003eSeismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApr\u003c/b\u003e 19, 2005, PGS Americas, Inc. Method for separating \u003cb\u003eseismic\u003c/b\u003e signals from two \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth America\u003c/b\u003e Inc.",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1906 San Francisco earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1906 San Francisco \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the 1989 earthquake, see 1989 Loma Prieta earthquake. .... Panoramic view   of earthquake and fire damage from Stanford Mansion site, April 18???21, 1906 ...   part of the boundary between the Pacific Plate and the North American Plate. .....   the September 11, 2001, attacks, and the largest U.S. relief effort ever to this day, ...",
+   "htmlSnippet": "For the 1989 \u003cb\u003eearthquake\u003c/b\u003e, see 1989 Loma Prieta \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e Panoramic view \u003cbr\u003e  of \u003cb\u003eearthquake\u003c/b\u003e and fire damage from Stanford Mansion site, \u003cb\u003eApril\u003c/b\u003e 18???\u003cb\u003e21\u003c/b\u003e, 1906 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  part of the boundary between the Pacific Plate and the \u003cb\u003eNorth American\u003c/b\u003e Plate. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  the September 11, \u003cb\u003e2001\u003c/b\u003e, attacks, and the largest U.S. relief effort ever to this day, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EOdHrDSYqjoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sfbay_srt_1906108.jpg/300px-Sfbay_srt_1906108.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "203",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZM7XHytmNDz9r2ngWSgWJ5VUZ3jq5bh-jorISldC5wm3-aKjfiBCkMvQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8121823 - Iterative inversion of data from simultaneous ...",
+   "htmlTitle": "Patent US8121823 - Iterative inversion of data from simultaneous \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8121823",
+   "displayLink": "www.google.com",
+   "snippet": "US6704245, Dec 21, 2001, Mar 9, 2004, Institut Francais du Petrole, Seismic ...   Apr 19, 2005, PGS Americas, Inc. Method for separating seismic signals from two   ... US7725266, May 31, 2007, May 25, 2010, BP Corporation North America Inc.",
+   "htmlSnippet": "US6704245, Dec \u003cb\u003e21\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, Mar 9, 2004, Institut Francais du Petrole, \u003cb\u003eSeismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApr\u003c/b\u003e 19, 2005, PGS Americas, Inc. Method for separating \u003cb\u003eseismic\u003c/b\u003e signals from two \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth America\u003c/b\u003e Inc.",
+   "formattedUrl": "www.google.com/patents/US8121823",
+   "htmlFormattedUrl": "www.google.com/patents/US8121823",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0TCwxQzj2yASXEPyp88Z__B3I4k0NfjDGjx5u6qG-5VYlAALARvEnh4Q"
+     }
+    ],
+    "book": [
+     {
+      "description": "Method for reducing the time needed to perform geophysical inversion by using simultaneous encoded sources in the simulation steps of the inversion process. The geophysical survey data are...",
+      "url": "http://www.google.com/patents/US8121823?utm_source=gb-gplus-share",
+      "name": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8121823",
+      "title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:title": "Patent US8121823 - Iterative inversion of data from simultaneous geophysical sources",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=b8IEAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003e21st\u003c/b\u003e-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The following is a list of globally significant earthquakes during the 21st ... August   21, 2001, 06:52, East of North Island, New Zealand, ???36.813 ... April 12, 2002, 04  :00, Hindu Kush Region, Afghanistan, 35.959, 69.417, 50, 5.9, Mw (HRV) ...",
+   "htmlSnippet": "The following is a list of globally significant \u003cb\u003eearthquakes\u003c/b\u003e during the \u003cb\u003e21st\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e August \u003cbr\u003e  \u003cb\u003e21\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, 06:52, East of \u003cb\u003eNorth\u003c/b\u003e Island, New Zealand, ???36.813 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 12, 2002, 04\u003cbr\u003e  :00, Hindu Kush Region, Afghanistan, 35.959, 69.417, 50, 5.9, Mw (HRV) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pacific Northwest Earthquake Liquefaction",
+   "htmlTitle": "Pacific Northwest \u003cb\u003eEarthquake\u003c/b\u003e Liquefaction",
+   "link": "http://www.arroyorain.com/2012/04/22/pacific-northwest-earthquake-liquefaction/",
+   "displayLink": "www.arroyorain.com",
+   "snippet": "Apr 22, 2012 ... A 5.9 Mg earthquake shook the Oregon Coast April 11, 2012, leading to a   discussion on liquefaction, which happened during the 2001 Nisqually event. ...   Posted by Shari on Apr 22, 2012 in Earthquakes and Culture, Washington,   Western North America Coast | 0 comments ... accessed April 21, 2012.",
+   "htmlSnippet": "Apr 22, 2012 \u003cb\u003e...\u003c/b\u003e A 5.9 Mg \u003cb\u003eearthquake\u003c/b\u003e shook the Oregon Coast \u003cb\u003eApril\u003c/b\u003e 11, 2012, leading to a \u003cbr\u003e  discussion on liquefaction, which happened during the \u003cb\u003e2001\u003c/b\u003e Nisqually event. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Posted by Shari on \u003cb\u003eApr\u003c/b\u003e 22, 2012 in \u003cb\u003eEarthquakes\u003c/b\u003e and Culture, Washington, \u003cbr\u003e  Western \u003cb\u003eNorth America\u003c/b\u003e Coast | 0 comments \u003cb\u003e...\u003c/b\u003e accessed \u003cb\u003eApril 21\u003c/b\u003e, 2012.",
+   "cacheId": "kPvdX8tQyy4J",
+   "formattedUrl": "www.arroyorain.com/.../pacific-northwest-earthquake-liquefaction/",
+   "htmlFormattedUrl": "www.arroyorain.com/.../pacific-\u003cb\u003enorth\u003c/b\u003ewest-\u003cb\u003eearthquake\u003c/b\u003e-liquefaction/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.arroyorain.com/wp-content/uploads/et_temp/Liquefaction-237148_200x200.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "160",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7r9mFdbLmXLVyggowW9rAScXd8pYaoW59MXQ-xnCNFf-4uIYhQn6GJlOT"
+     }
+    ],
+    "metatags": [
+     {
+      "et_featured_auto_speed": "7000",
+      "et_disable_toptier": "1",
+      "et_featured_slider_pause": "1",
+      "et_featured_slider_auto": "1",
+      "et_theme_folder": "http://www.arroyorain.com/wp-content/themes/Aggregate",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1700 Cascadia earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1700 Cascadia \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1700_Cascadia_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The evidence suggests that it took place at about 21:00 on January 26, 1700 (NS  ). ... Local Indigenous American oral traditions describing a large quake also exist  , although these do ... The rate of convergence between the Juan de Fuca Plate   and the North American Plate is 60 ... Archived from the original on 23 April 2009.",
+   "htmlSnippet": "The evidence suggests that it took place at about \u003cb\u003e21\u003c/b\u003e:00 on January 26, 1700 (NS\u003cbr\u003e  ). \u003cb\u003e...\u003c/b\u003e Local Indigenous American oral traditions describing a large \u003cb\u003equake\u003c/b\u003e also exist\u003cbr\u003e  , although these do \u003cb\u003e...\u003c/b\u003e The rate of convergence between the Juan de Fuca Plate \u003cbr\u003e  and the \u003cb\u003eNorth American\u003c/b\u003e Plate is 60 \u003cb\u003e...\u003c/b\u003e Archived from the original on 23 \u003cb\u003eApril\u003c/b\u003e 2009.",
+   "cacheId": "IU5iewDXLTMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1700_Cascadia_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1700_Cascadia_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cascadia_subduction_zone_USGS.png/250px-Cascadia_subduction_zone_USGS.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "188",
+      "height": "268",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJiRiTekwSSYVn0vntl9PsDqUm0GP11N44r4zDPepCcGqqUJt-ArlNovsf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North America, Earthquake Timeline, 21st Century",
+   "htmlTitle": "\u003cb\u003eNorth America\u003c/b\u003e, \u003cb\u003eEarthquake\u003c/b\u003e Timeline, \u003cb\u003e21st\u003c/b\u003e Century",
+   "link": "http://www.mapreport.com/areasubtopics/n-d-e.html",
+   "displayLink": "www.mapreport.com",
+   "snippet": "Timeline of North America, Earthquake linked to the news articles, countries   timelines and ... 2011 (2) 2010 (10) 2009 (1) 2008 (3) 2005 (1) 2003 (1) 2002 (1)   2001 (1) ... Apr.5, North Mexico, Two killed, scores injured in earthquake Mexican ...",
+   "htmlSnippet": "Timeline of \u003cb\u003eNorth America\u003c/b\u003e, \u003cb\u003eEarthquake\u003c/b\u003e linked to the news articles, countries \u003cbr\u003e  timelines and \u003cb\u003e...\u003c/b\u003e 2011 (2) 2010 (10) 2009 (1) 2008 (3) 2005 (1) 2003 (1) 2002 (1) \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e (1) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApr\u003c/b\u003e.5, North Mexico, Two killed, scores injured in \u003cb\u003eearthquake\u003c/b\u003e Mexican \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wio6xk5D1pMJ",
+   "formattedUrl": "www.mapreport.com/areasubtopics/n-d-e.html",
+   "htmlFormattedUrl": "www.m\u003cb\u003eapr\u003c/b\u003eeport.com/areasubtopics/n-d-e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in 2012 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in 2012 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_2012",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Only earthquakes of magnitude 6 or above are included, unless they result in   damage ... Magnitude Ranging Between, 2000, 2001, 2002, 2003, 2004, 2005,   2006 ..... earthquake struck near the north coast of Papua, Indonesia, on April 21   at a ...",
+   "htmlSnippet": "Only \u003cb\u003eearthquakes\u003c/b\u003e of magnitude 6 or above are included, unless they result in \u003cbr\u003e  damage \u003cb\u003e...\u003c/b\u003e Magnitude Ranging Between, 2000, \u003cb\u003e2001\u003c/b\u003e, 2002, 2003, 2004, 2005, \u003cbr\u003e  2006 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e struck near the \u003cb\u003enorth\u003c/b\u003e coast of Papua, Indonesia, on \u003cb\u003eApril 21\u003c/b\u003e \u003cbr\u003e  at a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M-8y9TakcusJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_2012",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_2012",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Earthmap1000x500compac.jpg/300px-Earthmap1000x500compac.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFF4RtJZotJOf_s3ciCEnr4Z1FUSHv6QYVr4f_kK6G680i1DMLdpRFsw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NERT Training for Kids",
+   "htmlTitle": "NERT Training for Kids",
+   "link": "http://www.naem.com/connection/4/sfkids.html",
+   "displayLink": "www.naem.com",
+   "snippet": "The invitation is to our annual Citywide Earthquake drill in April. ... (Please mark   your calendars, April 21st, 2001, at Marina Middle School in SF, from 9am to   12pm ??? our ... All rights reserved, North American Emergency Management, 1998  .",
+   "htmlSnippet": "The invitation is to our annual Citywide \u003cb\u003eEarthquake\u003c/b\u003e drill in April. \u003cb\u003e...\u003c/b\u003e (Please mark \u003cbr\u003e  your calendars, \u003cb\u003eApril 21st, 2001\u003c/b\u003e, at Marina Middle School in SF, from 9am to \u003cbr\u003e  12pm ??? our \u003cb\u003e...\u003c/b\u003e All rights reserved, \u003cb\u003eNorth American\u003c/b\u003e Emergency Management, 1998\u003cbr\u003e  .",
+   "cacheId": "M6gz-DwrdaIJ",
+   "formattedUrl": "www.naem.com/connection/4/sfkids.html",
+   "htmlFormattedUrl": "www.naem.com/connection/4/sfkids.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.naem.com/connection/4/SFFDtictactoe.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "195",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBn0eRrq3EDImGSDOILRztxtHXT1ry72py1dFxzbwdRWCjG3SYENJwNmhP"
+     }
+    ]
+   }
+  }
+ ]
+}

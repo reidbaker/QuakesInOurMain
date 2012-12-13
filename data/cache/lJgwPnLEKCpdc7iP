@@ -1,0 +1,290 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 1 1925 North America Earthquake",
+    "totalResults": "68100",
+    "searchTerms": "Mar 1 1925 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 1 1925 North America Earthquake",
+    "totalResults": "68100",
+    "searchTerms": "Mar 1 1925 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.227351,
+  "formattedSearchTime": "0.23",
+  "totalResults": "68100",
+  "formattedTotalResults": "68,100"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Maine Geological Survey: Earthquakes in Maine",
+   "htmlTitle": "Maine Geological Survey: \u003cb\u003eEarthquakes\u003c/b\u003e in Maine",
+   "link": "http://www.maine.gov/doc/nrimc/mgs/explore/hazards/quake/quake.htm",
+   "displayLink": "www.maine.gov",
+   "snippet": "Jul 20, 2006 ... Table 1. Estimated return times for earthquakes of different .... City is perhaps the   most active area in northeastern North America, but ... Hodgson, E.A., 1950, The   Saint Lawrence earthquake, March 1, 1925: Publication of the ...",
+   "htmlSnippet": "Jul 20, 2006 \u003cb\u003e...\u003c/b\u003e Table 1. Estimated return times for \u003cb\u003eearthquakes\u003c/b\u003e of different \u003cb\u003e....\u003c/b\u003e City is perhaps the \u003cbr\u003e  most active area in northeastern \u003cb\u003eNorth America\u003c/b\u003e, but \u003cb\u003e...\u003c/b\u003e Hodgson, E.A., 1950, The \u003cbr\u003e  Saint Lawrence \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eMarch 1, 1925\u003c/b\u003e: Publication of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9ZZo9Hot2kYJ",
+   "formattedUrl": "www.maine.gov/doc/nrimc/mgs/explore/hazards/quake/quake.htm",
+   "htmlFormattedUrl": "www.maine.gov/doc/nrimc/mgs/explore/hazards/\u003cb\u003equake\u003c/b\u003e/\u003cb\u003equake\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "R??f??rences concernant le s??isme de Charlevoix-Kamouraska 1925",
+   "htmlTitle": "R??f??rences concernant le s??isme de Charlevoix-Kamouraska \u003cb\u003e1925\u003c/b\u003e",
+   "link": "http://www.seismescanada.rncan.gc.ca/historic-historique/events/19250301-ref-fra.php",
+   "displayLink": "www.seismescanada.rncan.gc.ca",
+   "snippet": "The Saint Lawrence earthquake, March 1,1925: Dom. Obs. Pub. ... A study of   northeastern North American spectral moments, magnitudes and intensities, Bull.",
+   "htmlSnippet": "The Saint Lawrence \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eMarch 1,1925\u003c/b\u003e: Dom. Obs. Pub. \u003cb\u003e...\u003c/b\u003e A study of \u003cbr\u003e  northeastern \u003cb\u003eNorth American\u003c/b\u003e spectral moments, magnitudes and intensities, Bull.",
+   "cacheId": "eP7LiRAANUUJ",
+   "formattedUrl": "www.seismescanada.rncan.gc.ca/historic.../19250301-ref-fra.php",
+   "htmlFormattedUrl": "www.seismescanada.rncan.gc.ca/historic.../\u003cb\u003e1925\u003c/b\u003e0301-ref-fra.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.description": "Cette page ??num??re les r??f??rences utilis??es dans l'??laboration de la page portant sur le s??isme de Charlevoix-Kamouraska de 1925",
+      "dc.creator": "Olivier Riffon, Simon Beaulieu, Maurice Lamontagne",
+      "dc.title": "R??f??rences concernant le s??isme de Charlevoix-Kamouraska 1925",
+      "dcterms.issued": "2000-02-01",
+      "dcterms.modified": "2011-11-07",
+      "dc.subject": "R??f??rences concernant le s??isme de Charlevoix-Kamouraska 1925",
+      "dc.language": "fra",
+      "dc.date.modified": "2011-11-07",
+      "dc.date.created": "2000-02-01",
+      "author": "Olivier Riffon, Simon Beaulieu, Maurice Lamontagne",
+      "orgid": "42;916;8832;8831;9115"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "THE 1925 CHARLEVOIS, QUEBEC EARTHQUAKE: RE ...",
+   "htmlTitle": "THE \u003cb\u003e1925\u003c/b\u003e CHARLEVOIS, QUEBEC \u003cb\u003eEARTHQUAKE\u003c/b\u003e: RE \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://geogratis.cgdi.gc.ca/eodata/download/part6/ess_pubs/211/211009/of_3786.pdf",
+   "displayLink": "geogratis.cgdi.gc.ca",
+   "snippet": "On March 1, 1925 at 02:19 UT (February 28 at 21:19 EST), an earthquake   estimated by ... MM scale. Although the original American data were missing, the   converted MM values ..... States as far south as North Carolina and as far west at   Iowa.",
+   "htmlSnippet": "On \u003cb\u003eMarch 1, 1925\u003c/b\u003e at 02:19 UT (February 28 at 21:19 EST), an \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  estimated by \u003cb\u003e...\u003c/b\u003e MM scale. Although the original \u003cb\u003eAmerican\u003c/b\u003e data were missing, the \u003cbr\u003e  converted MM values \u003cb\u003e.....\u003c/b\u003e States as far south as \u003cb\u003eNorth\u003c/b\u003e Carolina and as far west at \u003cbr\u003e  Iowa.",
+   "cacheId": "ADEF7Q-Z7SEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "geogratis.cgdi.gc.ca/eodata/download/part6/ess_pubs/211/.../of_3786.pdf",
+   "htmlFormattedUrl": "geogratis.cgdi.gc.ca/eodata/download/part6/ess_pubs/211/.../of_3786.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat 5.0 Scan Plug-in for Windows",
+      "creator": "Acrobat 5.0 Scan Plug-in for Windows",
+      "creationdate": "Thu Dec  5 02:52:00 2002",
+      "moddate": "Wed Oct  8 05:22:36 2003"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "References, mostly from Smith (1962)",
+   "htmlTitle": "References, mostly from Smith (1962)",
+   "link": "http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/19250301-ref-eng.php",
+   "displayLink": "www.earthquakescanada.nrcan.gc.ca",
+   "snippet": "Nov 7, 2011 ... Seismograms for historic Canadian earthquakes: The 1 March 1925 ... of some   large earthquakes of northeastern North America, J. Geophys.",
+   "htmlSnippet": "Nov 7, 2011 \u003cb\u003e...\u003c/b\u003e Seismograms for historic Canadian \u003cb\u003eearthquakes\u003c/b\u003e: The \u003cb\u003e1 March 1925\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e of some \u003cbr\u003e  large \u003cb\u003eearthquakes\u003c/b\u003e of northeastern \u003cb\u003eNorth America\u003c/b\u003e, J. Geophys.",
+   "cacheId": "QIvbIlKTirMJ",
+   "formattedUrl": "www.earthquakescanada.nrcan.gc.ca/historic.../19250301-ref-eng.php",
+   "htmlFormattedUrl": "www.\u003cb\u003eearthquakes\u003c/b\u003ecanada.nrcan.gc.ca/historic.../\u003cb\u003e1925\u003c/b\u003e0301-ref-eng.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.description": "References used to built the 1925 Charlevoix-Kamouraska earthquake web page.",
+      "dc.creator": "Olivier Riffon, Simon Beaulieu and Maurice Lamontagne",
+      "dc.title": "References, mostly from Smith (1962)",
+      "dcterms.issued": "2000-02-01",
+      "dcterms.modified": "2011-11-07",
+      "dc.subject": "References, mostly from Smith (1962)",
+      "dc.language": "eng",
+      "dc.date.modified": "2011-11-07",
+      "dc.date.created": "2000-02-01",
+      "author": "Olivier Riffon, Simon Beaulieu and Maurice Lamontagne",
+      "orgid": "42;916;8832;8831;9115"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Print this article",
+   "htmlTitle": "Print this article",
+   "link": "http://journals.hil.unb.ca/index.php/GC/article/download/2984/3501",
+   "displayLink": "journals.hil.unb.ca",
+   "snippet": "Volume 4. Number 1. I? Some Twentieth-. Century Canadian. Earthquakes. Anne   E. Stevens ... St. Lawrence Earthquake???1925. The largest ... Rockies in North   America is the distance to which they ..... Lawrence earthquake, March 1, 1925: ...",
+   "htmlSnippet": "Volume 4. Number 1. I? Some Twentieth-. Century Canadian. \u003cb\u003eEarthquakes\u003c/b\u003e. Anne \u003cbr\u003e  E. Stevens \u003cb\u003e...\u003c/b\u003e St. Lawrence \u003cb\u003eEarthquake\u003c/b\u003e???1925. The largest \u003cb\u003e...\u003c/b\u003e Rockies in \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e is the distance to which they \u003cb\u003e.....\u003c/b\u003e Lawrence \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eMarch 1, 1925\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NW5fZousR-4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "journals.hil.unb.ca/index.php/GC/article/download/2984/3501",
+   "htmlFormattedUrl": "journals.hil.unb.ca/index.php/GC/article/download/2984/3501",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Mon Mar 12 07:56:25 2007",
+      "producer": "IRIS",
+      "creator": "IRIS",
+      "creationdate": "Mon Mar 12 07:56:13 2007"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Charlevoix earthquake of 1663",
+   "htmlTitle": "The Charlevoix \u003cb\u003eearthquake\u003c/b\u003e of 1663",
+   "link": "http://www.earthquakescanada.nrcan.gc.ca/histor/15-19th-eme/1663-eng.php",
+   "displayLink": "www.earthquakescanada.nrcan.gc.ca",
+   "snippet": "Mar 17, 2011 ... Felt over the entire eastern part of North America - 750,000 square miles. ... The   Saint Lawrence earthquake, March 1,1925: Dom. Obs. Pub.",
+   "htmlSnippet": "Mar 17, 2011 \u003cb\u003e...\u003c/b\u003e Felt over the entire eastern part of \u003cb\u003eNorth America\u003c/b\u003e - 750,000 square miles. \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  Saint Lawrence \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eMarch 1,1925\u003c/b\u003e: Dom. Obs. Pub.",
+   "cacheId": "y0BJpG_LrBwJ",
+   "formattedUrl": "www.earthquakescanada.nrcan.gc.ca/histor/15-19th.../1663-eng.php",
+   "htmlFormattedUrl": "www.\u003cb\u003eearthquakes\u003c/b\u003ecanada.nrcan.gc.ca/histor/15-19th.../1663-eng.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.description": "Description of the 1663 Charlevoix earthquake",
+      "dc.creator": "Smith's catalog, Sylvia Lehmann, Maurice Lamontagne",
+      "dc.title": "The Charlevoix earthquake of 1663",
+      "dcterms.issued": "1999-06-01",
+      "dcterms.modified": "2011-03-17",
+      "dc.subject": "The Charlevoix earthquake of 1663",
+      "dc.language": "eng",
+      "dc.date.modified": "2011-03-17",
+      "dc.date.created": "1999-06-01",
+      "author": "Smith's catalog, Sylvia Lehmann, Maurice Lamontagne",
+      "orgid": "42;916;8832;8831;9115"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CEUS-SSC - Chapter 7",
+   "htmlTitle": "CEUS-SSC - Chapter 7",
+   "link": "http://www.ceus-ssc.com/Report/Chapter7/7Info.html",
+   "displayLink": "www.ceus-ssc.com",
+   "snippet": "As discussed in Section 4.2.1, the conceptual framework for assessing the .... in   eastern North America, including the SLR, Charlevoix, and the lower St. .... 1860,   M 6 (E[M] 6.08); and March 1, 1925, M 6.3 (E[M] 6.18) earthquakes do not meet ...",
+   "htmlSnippet": "As discussed in Section 4.2.1, the conceptual framework for assessing the \u003cb\u003e....\u003c/b\u003e in \u003cbr\u003e  eastern \u003cb\u003eNorth America\u003c/b\u003e, including the SLR, Charlevoix, and the lower St. \u003cb\u003e....\u003c/b\u003e 1860, \u003cbr\u003e  M 6 (E[M] 6.08); and \u003cb\u003eMarch 1, 1925\u003c/b\u003e, M 6.3 (E[M] 6.18) \u003cb\u003eearthquakes\u003c/b\u003e do not meet \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iZ_yT4Ab1K4J",
+   "formattedUrl": "www.ceus-ssc.com/Report/Chapter7/7Info.html",
+   "htmlFormattedUrl": "www.ceus-ssc.com/Report/Chapter7/7Info.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Charlevoix earthquake of October 17, 1860",
+   "htmlTitle": "The Charlevoix \u003cb\u003eearthquake\u003c/b\u003e of October 17, 1860",
+   "link": "http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/18601017-eng.php",
+   "displayLink": "www.earthquakescanada.nrcan.gc.ca",
+   "snippet": "Nov 7, 2011 ... In the St. Lawrence River north of the mouth of Rivi??re Ouelle. ... The Saint   Lawrence earthquake, March 1,1925: Dom. ... of a paper presented to the   Eastern Section of the Seismological Society of America in May, 1927.",
+   "htmlSnippet": "Nov 7, 2011 \u003cb\u003e...\u003c/b\u003e In the St. Lawrence River \u003cb\u003enorth\u003c/b\u003e of the mouth of Rivi??re Ouelle. \u003cb\u003e...\u003c/b\u003e The Saint \u003cbr\u003e  Lawrence \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eMarch 1,1925\u003c/b\u003e: Dom. \u003cb\u003e...\u003c/b\u003e of a paper presented to the \u003cbr\u003e  Eastern Section of the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e in May, 1927.",
+   "cacheId": "eJplmyMJgNYJ",
+   "formattedUrl": "www.earthquakescanada.nrcan.gc.ca/historic.../18601017-eng.php",
+   "htmlFormattedUrl": "www.\u003cb\u003eearthquakes\u003c/b\u003ecanada.nrcan.gc.ca/historic.../18601017-eng.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.description": "Description The Charlevoix earthquake of 1860",
+      "dc.creator": "Smith's catalog, Sylvia Lehmann, Maurice Lamontagne",
+      "dc.title": "The Charlevoix earthquake of October 17, 1860",
+      "dcterms.issued": "1999-08-01",
+      "dcterms.modified": "2011-11-07",
+      "dc.subject": "The Charlevoix earthquake of October 17, 1860",
+      "dc.language": "eng",
+      "dc.date.modified": "2011-11-07",
+      "dc.date.created": "1999-08-01",
+      "author": "Smith's catalog, Sylvia Lehmann, Maurice Lamontagne",
+      "orgid": "42;916;8832;8831;9115"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1964 Alaska earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1964 Alaska \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1964_Alaska_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1964 Alaskan earthquake, also known as the Great Alaskan Earthquake, ...   Lasting nearly four minutes, it was the most powerful recorded earthquake in U.S.   and North American history, ... 1 Geology; 2 Death toll, damage and casualties ....   1925 serum run to Nome ?? Aleutian Islands Campaign ?? Alaska Statehood Act ...",
+   "htmlSnippet": "The 1964 Alaskan \u003cb\u003eearthquake\u003c/b\u003e, also known as the Great Alaskan \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Lasting nearly four minutes, it was the most powerful recorded \u003cb\u003eearthquake\u003c/b\u003e in U.S. \u003cbr\u003e  and \u003cb\u003eNorth American\u003c/b\u003e history, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1\u003c/b\u003e Geology; 2 Death toll, damage and casualties \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1925\u003c/b\u003e serum run to Nome &middot; Aleutian Islands Campaign &middot; Alaska Statehood Act \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_2bLsuD_30wJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1964_Alaska_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1964_Alaska_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Good_Friday_Earthquake_1964_03_28_loc.jpg/240px-Good_Friday_Earthquake_1964_03_28_loc.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKq4MQLbd2s1Zj1L-Hb5h5bLiEVCzrn6pPH1Xbi761prTBGC4qRN0YOQU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Central and Eastern United States Seismic Source Characterization ...",
+   "htmlTitle": "Central and Eastern United States \u003cb\u003eSeismic\u003c/b\u003e Source Characterization \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ceus-ssc.com/PDF/Chapter6.pdf",
+   "displayLink": "www.ceus-ssc.com",
+   "snippet": "and March 1, 1925, M 6.3 (E[M] 6.18) earthquakes (Lamontagne et al., 2008). ......   based on isoseismal area regressions accounting for eastern North America ...",
+   "htmlSnippet": "and \u003cb\u003eMarch 1, 1925\u003c/b\u003e, M 6.3 (E[M] 6.18) \u003cb\u003eearthquakes\u003c/b\u003e (Lamontagne et al., 2008). \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  based on isoseismal area regressions accounting for eastern \u003cb\u003eNorth America\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aVck3jJROm8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ceus-ssc.com/PDF/Chapter6.pdf",
+   "htmlFormattedUrl": "www.ceus-ssc.com/PDF/Chapter6.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "www.ceus-ssc.com",
+      "category": "Technical Report",
+      "comments": "Template 10.0",
+      "company": "Electric Power Research Institute (EPRI)",
+      "creationdate": "D:20120130123635-08'00'",
+      "creator": "Acrobat PDFMaker 10.1 for Word",
+      "moddate": "D:20120621144436-07'00'",
+      "producer": "Acrobat Distiller 9.5.0 (Windows)",
+      "sourcemodified": "D:20120111183032",
+      "title": "Central and Eastern United States Seismic Source Characterization for Nuclear Facilities"
+     }
+    ]
+   }
+  }
+ ]
+}

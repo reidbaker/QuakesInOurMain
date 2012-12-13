@@ -1,0 +1,277 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 2 1785 North America Earthquake",
+    "totalResults": "21700",
+    "searchTerms": "Jan 2 1785 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 2 1785 North America Earthquake",
+    "totalResults": "21700",
+    "searchTerms": "Jan 2 1785 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.21808,
+  "formattedSearchTime": "0.22",
+  "totalResults": "21700",
+  "formattedTotalResults": "21,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "February 2 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "February \u003cb\u003e2\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/February_2",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "February 2 is the 33rd day of the year in the Gregorian calendar. ... 1925 ??? The   Charlevoix-Kamouraska earthquake strikes northeastern North America.",
+   "htmlSnippet": "February \u003cb\u003e2\u003c/b\u003e is the 33rd day of the year in the Gregorian calendar. \u003cb\u003e...\u003c/b\u003e 1925 ??? The \u003cbr\u003e  Charlevoix-Kamouraska \u003cb\u003eearthquake\u003c/b\u003e strikes northeastern \u003cb\u003eNorth America\u003c/b\u003e.",
+   "cacheId": "h6hHIFPm9ScJ",
+   "formattedUrl": "en.wikipedia.org/wiki/February_2",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/February_\u003cb\u003e2\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Geological Survey: Earthquakes in Maryland",
+   "htmlTitle": "Maryland Geological Survey: \u003cb\u003eEarthquakes\u003c/b\u003e in Maryland",
+   "link": "http://www.mgs.md.gov/esic/brochures/earthquake.html",
+   "displayLink": "www.mgs.md.gov",
+   "snippet": "Perhaps the greatest seismic event ever to occur in North America in historic   times ... not included in the list was a moderate shock that occurred on January 2, ...",
+   "htmlSnippet": "Perhaps the greatest \u003cb\u003eseismic\u003c/b\u003e event ever to occur in \u003cb\u003eNorth America\u003c/b\u003e in historic \u003cbr\u003e  times \u003cb\u003e...\u003c/b\u003e not included in the list was a moderate shock that occurred on \u003cb\u003eJanuary 2\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VkKn639jxDYJ",
+   "formattedUrl": "www.mgs.md.gov/esic/brochures/earthquake.html",
+   "htmlFormattedUrl": "www.mgs.md.gov/esic/brochures/\u003cb\u003eearthquake\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mgs.md.gov/esic/brochures/gif/eqfig2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "298",
+      "height": "169",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJUG3jabH_S1LQJy1f-JveCxawp0KEkZ0dz9-gVq8CbGC_F2cGRZ7oCdD3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical perspective on seismic hazard to Hispaniola and the ...",
+   "htmlTitle": "Historical perspective on \u003cb\u003eseismic\u003c/b\u003e hazard to Hispaniola and the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://woodshole.er.usgs.gov/project-pages/caribbean/pdf/2011JB008497.pdf",
+   "displayLink": "woodshole.er.usgs.gov",
+   "snippet": "Dec 29, 2011 ... An MI 6.9 earthquake on July 11, 1785 was probably located north or east of the   Virgin Islands. ... [2] Hydrodynamic models show that large earthquakes on the   North America/Caribbean subduction zone have the potential to cause ... by the   January 12, 2010 M 7.0 Haiti earthquake. The. November 18 ...",
+   "htmlSnippet": "Dec 29, 2011 \u003cb\u003e...\u003c/b\u003e An MI 6.9 \u003cb\u003eearthquake\u003c/b\u003e on July 11, \u003cb\u003e1785\u003c/b\u003e was probably located north or east of the \u003cbr\u003e  Virgin Islands. \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e2\u003c/b\u003e] Hydrodynamic models show that large \u003cb\u003eearthquakes\u003c/b\u003e on the \u003cbr\u003e  \u003cb\u003eNorth America\u003c/b\u003e/Caribbean subduction zone have the potential to cause \u003cb\u003e...\u003c/b\u003e by the \u003cbr\u003e  \u003cb\u003eJanuary\u003c/b\u003e 12, 2010 M 7.0 Haiti \u003cb\u003eearthquake\u003c/b\u003e. The. November 18 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rccsFU9t8LMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "woodshole.er.usgs.gov/project-pages/caribbean/pdf/2011JB008497.pdf",
+   "htmlFormattedUrl": "woodshole.er.usgs.gov/project-pages/caribbean/pdf/2011JB008497.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Uri S. ten Brink, William H. Bakun, Claudia H. Flores",
+      "creationdate": "D:20111217124131+08'00'",
+      "creator": "Arbortext Advanced Print Publisher 9.0.114/W Unicode",
+      "moddate": "D:20111220020050+08'00'",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "subject": "1734 History of Geophysics: Seismology; 4302 Natural Hazards: Geological; 7212 Seismology: Earthquake ground motions and engineering seismology; 7223 Seismology: Earthquake interaction, forecasting, and prediction; 7230 Seismology: Seismicity and tectonics",
+      "title": "Historical perspective on seismic hazard to Hispaniola and the northeast Caribbean region"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Newspaper and other accounts",
+   "htmlTitle": "Newspaper and other accounts",
+   "link": "http://www.eas.slu.edu/eqc/eqc_quakes/Street2011/2.Newspaper_and_Other_accounts.pdf",
+   "displayLink": "www.eas.slu.edu",
+   "snippet": "On Monday morning last two shocks of an earthquake were sensibly felt in ...   yesterday morning - its motion was about north-to-south - a gentle undulation, .... [  Poulston's American Daily Advertiser, Jan. 2, 1812]. Augusta, Georgia, December   19 ...... 1902), whereas Clarksburg, Virginia (West Virginia), was formed in 1785.",
+   "htmlSnippet": "On Monday morning last two shocks of an \u003cb\u003eearthquake\u003c/b\u003e were sensibly felt in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  yesterday morning - its motion was about \u003cb\u003enorth\u003c/b\u003e-to-south - a gentle undulation, \u003cb\u003e....\u003c/b\u003e [\u003cbr\u003e  Poulston&#39;s \u003cb\u003eAmerican\u003c/b\u003e Daily Advertiser, \u003cb\u003eJan\u003c/b\u003e. \u003cb\u003e2\u003c/b\u003e, 1812]. Augusta, Georgia, December \u003cbr\u003e  19 \u003cb\u003e......\u003c/b\u003e 1902), whereas Clarksburg, Virginia (West Virginia), was formed in \u003cb\u003e1785\u003c/b\u003e.",
+   "cacheId": "1I9KR2iOMFsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.eas.slu.edu/eqc/eqc_quakes/.../2.Newspaper_and_Other_accounts.pdf",
+   "htmlFormattedUrl": "www.eas.slu.edu/eqc/eqc_\u003cb\u003equake\u003c/b\u003es/.../\u003cb\u003e2\u003c/b\u003e.Newspaper_and_Other_accounts.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ron",
+      "creator": "Writer",
+      "producer": "OpenOffice.org 3.0",
+      "creationdate": "D:20110808093310-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Are yesterday's earthquakes tomorrow's disasters? | British ...",
+   "htmlTitle": "Are yesterday&#39;s \u003cb\u003eearthquakes\u003c/b\u003e tomorrow&#39;s disasters? | British \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.bgs.ac.uk/research/earthquakes/yesterdaysearthquakes.html",
+   "displayLink": "www.bgs.ac.uk",
+   "snippet": "2, 25 each year ... The catastrophic earthquake that struck Haiti in January 2010   was at least the third deadliest ... 1785 earthquake, Messina, Italy. ... across the   ocean following a massive magnitude 9 earthquake on the North American coast.",
+   "htmlSnippet": "\u003cb\u003e2\u003c/b\u003e, 25 each year \u003cb\u003e...\u003c/b\u003e The catastrophic \u003cb\u003eearthquake\u003c/b\u003e that struck Haiti in \u003cb\u003eJanuary\u003c/b\u003e 2010 \u003cbr\u003e  was at least the third deadliest \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1785 earthquake\u003c/b\u003e, Messina, Italy. \u003cb\u003e...\u003c/b\u003e across the \u003cbr\u003e  ocean following a massive magnitude 9 \u003cb\u003eearthquake\u003c/b\u003e on the \u003cb\u003eNorth American\u003c/b\u003e coast.",
+   "cacheId": "DMfaJVft-rgJ",
+   "formattedUrl": "www.bgs.ac.uk/research/earthquakes/yesterdaysearthquakes.html",
+   "htmlFormattedUrl": "www.bgs.ac.uk/research/\u003cb\u003eearthquakes\u003c/b\u003e/yesterdays\u003cb\u003eearthquakes\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bgs.ac.uk/research/earthquakes/images/iStock_000012125566Medium.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "243",
+      "height": "208",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcJVNB3Sk3-nbh1UBTOW376iklJuzwuKN4aI506WkuKVUPxcpEQnKlj0U"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "British Geological Survey (c)NERC 1992-2008 http://www.bgs.ac.uk mailto:www-bgs@bgs.ac.uk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "RECURRENCE EXPECTATION FOR EARTHQUAKES IN EASTERN ...",
+   "htmlTitle": "RECURRENCE EXPECTATION FOR \u003cb\u003eEARTHQUAKES\u003c/b\u003e IN EASTERN \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://srl.geoscienceworld.org/content/64/2/139.full.pdf",
+   "displayLink": "srl.geoscienceworld.org",
+   "snippet": "The next large earthquake in eastern North America is likely to occur in a place   that has not ... heavily populated areas (Figure 2): United States and Canada   east ..... Am. 63, 1785-1808. Bollinger, G.A. .... Submitted January 24, 1992.   Revised ...",
+   "htmlSnippet": "The next large \u003cb\u003eearthquake\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e is likely to occur in a place \u003cbr\u003e  that has not \u003cb\u003e...\u003c/b\u003e heavily populated areas (Figure \u003cb\u003e2\u003c/b\u003e): United States and Canada \u003cbr\u003e  east \u003cb\u003e.....\u003c/b\u003e Am. 63, \u003cb\u003e1785\u003c/b\u003e-1808. Bollinger, G.A. \u003cb\u003e....\u003c/b\u003e Submitted \u003cb\u003eJanuary\u003c/b\u003e 24, 1992. \u003cbr\u003e  Revised \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "srl.geoscienceworld.org/content/64/2/139.full.pdf",
+   "htmlFormattedUrl": "srl.geoscienceworld.org/content/64/\u003cb\u003e2\u003c/b\u003e/139.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20120725145407+05'30'",
+      "producer": "ScanSoft OmniPage 16",
+      "moddate": "D:20120725174415+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A STUDY OF NORTHEASTERN NORTH AMERICAN SPECTRAL ...",
+   "htmlTitle": "A STUDY OF NORTHEASTERN \u003cb\u003eNORTH AMERICAN\u003c/b\u003e SPECTRAL \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/67/3/599.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "Thirty-two earthquakes in northeastern North America ranging in seismic   moments of 1.5E19 to ... The mb~g magnitude formulas (1) and (2) are readily   related to the spectral mo- ment S(T), since all ..... 09:31. 4.2*. 01 Jan. 1966 42.8   78.2 Attica-Varysburg, New York. 08:24. 4.6*. 13 Jura 1967 ... Soc. Am. 63,. 1785-  1808.",
+   "htmlSnippet": "Thirty-two \u003cb\u003eearthquakes\u003c/b\u003e in northeastern \u003cb\u003eNorth America\u003c/b\u003e ranging in \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  moments of 1.5E19 to \u003cb\u003e...\u003c/b\u003e The mb~g magnitude formulas (1) and (\u003cb\u003e2\u003c/b\u003e) are readily \u003cbr\u003e  related to the spectral mo- ment S(T), since all \u003cb\u003e.....\u003c/b\u003e 09:31. 4.2*. 01 \u003cb\u003eJan\u003c/b\u003e. 1966 42.8 \u003cbr\u003e  78.2 Attica-Varysburg, New York. 08:24. 4.6*. 13 Jura 1967 \u003cb\u003e...\u003c/b\u003e Soc. Am. 63,. \u003cb\u003e1785\u003c/b\u003e-\u003cbr\u003e  1808.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/67/3/599.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/67/3/599.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "0102940004.TIF",
+      "creationdate": "Wed Aug 10 13:37:57 2005",
+      "title": "0102940004.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050811094834+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHAPTER 5 SEISMIC HAZARDS",
+   "htmlTitle": "CHAPTER 5 \u003cb\u003eSEISMIC\u003c/b\u003e HAZARDS",
+   "link": "http://www.bviddm.com/document-center/chap5.doc",
+   "displayLink": "www.bviddm.com",
+   "snippet": "This chapter outlines the nature of seismic hazards in the BVI and represents a ...   South American plates to the north and south respectively. Hazards Of The BVI. 5  -2 ... consistent with Modified Mercalli intensity VIII occurred on 11 July 1785. .....   located earthquake in this zone occurred at 04:25 UTC on 22 January 1979 at ...",
+   "htmlSnippet": "This chapter outlines the nature of \u003cb\u003eseismic\u003c/b\u003e hazards in the BVI and represents a \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  South \u003cb\u003eAmerican\u003c/b\u003e plates to the \u003cb\u003enorth\u003c/b\u003e and south respectively. Hazards Of The BVI. 5\u003cbr\u003e  -\u003cb\u003e2\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e consistent with Modified Mercalli intensity VIII occurred on 11 July \u003cb\u003e1785\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  located \u003cb\u003eearthquake\u003c/b\u003e in this zone occurred at 04:25 UTC on 22 \u003cb\u003eJanuary\u003c/b\u003e 1979 at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gx1SQ29C1T8J",
+   "mime": "application/msword",
+   "fileFormat": "Microsoft Word",
+   "formattedUrl": "www.bviddm.com/document-center/chap5.doc",
+   "htmlFormattedUrl": "www.bviddm.com/document-center/chap5.doc"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "View",
+   "htmlTitle": "View",
+   "link": "https://cdr.lib.unc.edu/indexablecontent?id=uuid:dc00b6c9-5574-4c9a-953f-af6f7c117fdb&ds=DATA_FILE",
+   "displayLink": "cdr.lib.unc.edu",
+   "snippet": "CHAPTER 2: THE ATLANTIC ROOTS OF EARTHQUAKE INQUIRY ... Among   colonists in mainland British North America, preachers were the most ..... United   States,??? Memoirs of the American Academy of Arts of Sciences (1785-1902) 3, no.   2 ..... Letter from Anna Rosina and John Gambold to John Herbst, 18 January   1812, ...",
+   "htmlSnippet": "CHAPTER \u003cb\u003e2\u003c/b\u003e: THE ATLANTIC ROOTS OF \u003cb\u003eEARTHQUAKE\u003c/b\u003e INQUIRY \u003cb\u003e...\u003c/b\u003e Among \u003cbr\u003e  colonists in mainland British \u003cb\u003eNorth America\u003c/b\u003e, preachers were the most \u003cb\u003e.....\u003c/b\u003e United \u003cbr\u003e  States,??? Memoirs of the American Academy of Arts of Sciences (\u003cb\u003e1785\u003c/b\u003e-1902) 3, no. \u003cbr\u003e  \u003cb\u003e2\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e Letter from Anna Rosina and John Gambold to John Herbst, 18 \u003cb\u003eJanuary\u003c/b\u003e \u003cbr\u003e  1812, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zrfhWSN36ncJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "https://cdr.lib.unc.edu/indexablecontent?id=uuid:dc00b6c9-5574...",
+   "htmlFormattedUrl": "https://cdr.lib.unc.edu/indexablecontent?id=uuid:dc00b6c9-5574...",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "activePDF Server",
+      "creationdate": "D:20090409041641",
+      "moddate": "D:20090409041641",
+      "title": "Microsoft Word - $ASQ11934_supp_0E2F97F0-24BD-11DE-938D-A361F0E6BF1D.rtf",
+      "creator": "Server http://www.activepdf.com",
+      "author": "svc-activepdf",
+      "apsver": "3.8.6.25"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "C Albert White - Land Slide Report",
+   "htmlTitle": "C Albert White - Land Slide Report",
+   "link": "http://www.blm.gov/pgdata/etc/medialib/blm/wy/programs/cadastral/docs.Par.6253.File.dat/landslide.pdf",
+   "displayLink": "www.blm.gov",
+   "snippet": "2 SLIDE LAKE, Wyoming ... January 20, 1998. To: Wayne M. Gardner. From: C.   Albert White. Subject: Landslides and Earthquake Displacement of Land Survey   ... Common Law imported into North America by the early colonists. ... Beginning   in 1785, the Federal Government began the land survey of those ceded lands ...",
+   "htmlSnippet": "\u003cb\u003e2\u003c/b\u003e SLIDE LAKE, Wyoming \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary\u003c/b\u003e 20, 1998. To: Wayne M. Gardner. From: C. \u003cbr\u003e  Albert White. Subject: Landslides and \u003cb\u003eEarthquake\u003c/b\u003e Displacement of Land Survey \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Common Law imported into \u003cb\u003eNorth America\u003c/b\u003e by the early colonists. \u003cb\u003e...\u003c/b\u003e Beginning \u003cbr\u003e  in \u003cb\u003e1785\u003c/b\u003e, the Federal Government began the land survey of those ceded lands \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_gP27muMuOcJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.blm.gov/pgdata/etc/medialib/blm/wy/programs/.../landslide.pdf",
+   "htmlFormattedUrl": "www.blm.gov/pgdata/etc/medialib/blm/wy/programs/.../landslide.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20040121110436-08'00'",
+      "creationdate": "D:20031212110347Z",
+      "title": "C Albert White - Land Slide Report",
+      "producer": "Acrobat Web Capture 6.0"
+     }
+    ]
+   }
+  }
+ ]
+}
