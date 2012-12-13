@@ -1,0 +1,294 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 19 1727 Eurasia Earthquake",
+    "totalResults": "413",
+    "searchTerms": "Jul 19 1727 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 19 1727 Eurasia Earthquake",
+    "totalResults": "413",
+    "searchTerms": "Jul 19 1727 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.164049,
+  "formattedSearchTime": "0.16",
+  "totalResults": "413",
+  "formattedTotalResults": "413"
+ },
+ "spelling": {
+  "correctedQuery": "July 19 1727 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 19 1727 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2012 East Azerbaijan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2012 East Azerbaijan earthquakes occurred near the cities of Ahar and   Varzaqan in ... in the shallow crust about 300 km east of the Eurasia-Arabian   Plate boundary. ... [19]. Rescue teams continued searching for survivors through   the night, ..... North Island, New Zealand (6.3, July 3); Yangzhou, China (4.9, July   20) ...",
+   "htmlSnippet": "The 2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e occurred near the cities of Ahar and \u003cbr\u003e  Varzaqan in \u003cb\u003e...\u003c/b\u003e in the shallow crust about 300 km east of the \u003cb\u003eEurasia\u003c/b\u003e-Arabian \u003cbr\u003e  Plate boundary. \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e19\u003c/b\u003e]. Rescue teams continued searching for survivors through \u003cbr\u003e  the night, \u003cb\u003e.....\u003c/b\u003e North Island, New Zealand (6.3, \u003cb\u003eJuly\u003c/b\u003e 3); Yangzhou, China (4.9, \u003cb\u003eJuly\u003c/b\u003e \u003cbr\u003e  20) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z3LJZUSFL8IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/250px-Iran_relief_location_map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlK7xfIu2EE120ax5sst5KSWyd5SxHE-3pbK-lYso7uZkfMn3WOONAqcQQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1201 Jul 5, An earthquake in Syria and upper Egypt killed some 1.1 million   people. ... 1727 An earthquake on Martinique devastated the local cocoa   plantations. .... 1956 Apr 19, In Spain 12 people died and about 70 were injured   following ..... miles south of the boundary between the Indo-Australian and   Eurasian Plates.",
+   "htmlSnippet": "1201 \u003cb\u003eJul\u003c/b\u003e 5, An \u003cb\u003eearthquake\u003c/b\u003e in Syria and upper Egypt killed some 1.1 million \u003cbr\u003e  people. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1727\u003c/b\u003e An \u003cb\u003eearthquake\u003c/b\u003e on Martinique devastated the local cocoa \u003cbr\u003e  plantations. \u003cb\u003e....\u003c/b\u003e 1956 Apr \u003cb\u003e19\u003c/b\u003e, In Spain 12 people died and about 70 were injured \u003cbr\u003e  following \u003cb\u003e.....\u003c/b\u003e miles south of the boundary between the Indo-Australian and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e Plates.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1962 Bou'in-Zahra earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1962 Bou&#39;in-Zahra \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1962_Bou'in-Zahra_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1962 Bou'in-Zahra earthquake occurred on September 1, 1962, in the ... Iran   is an earthquake center of the world, lying between the converging Eurasian and   .... July 19, 2002. ... 893 Ardabil ?? 856 Damghan ?? 1721 Tabriz ?? 1727 Tabriz ...",
+   "htmlSnippet": "The 1962 Bou&#39;in-Zahra \u003cb\u003eearthquake\u003c/b\u003e occurred on September 1, 1962, in the \u003cb\u003e...\u003c/b\u003e Iran \u003cbr\u003e  is an \u003cb\u003eearthquake\u003c/b\u003e center of the world, lying between the converging \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eJuly 19\u003c/b\u003e, 2002. \u003cb\u003e...\u003c/b\u003e 893 Ardabil &middot; 856 Damghan &middot; 1721 Tabriz &middot; \u003cb\u003e1727\u003c/b\u003e Tabriz \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B9Sasatc05kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1962_Bou'in-Zahra_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1962_Bou&#39;in-Zahra_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Photos-of-an-Old-Earthquake-in-Iran_4.jpg/220px-Photos-of-an-Old-Earthquake-in-Iran_4.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "118",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfdO2IZ0RC7PCHw2MRQ4XyJrwyIjlkxkEtPZ9bHcNlgxe2l01DK_oJA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "Abant, AD 1967 July 22 earthquake 15, 31, 33. Absari, AD 1742 .... AD 1844   September 19 earthquake 658. AD 1845 January ..... AD \u003c1727 February 21   earthquake 547. AD 1743 February 20 ..... Eurasian Plate 815???816. Euripos   castle ...",
+   "htmlSnippet": "Abant, AD 1967 \u003cb\u003eJuly\u003c/b\u003e 22 \u003cb\u003eearthquake\u003c/b\u003e 15, 31, 33. Absari, AD 1742 \u003cb\u003e....\u003c/b\u003e AD 1844 \u003cbr\u003e  September \u003cb\u003e19 earthquake\u003c/b\u003e 658. AD 1845 January \u003cb\u003e.....\u003c/b\u003e AD &lt;\u003cb\u003e1727\u003c/b\u003e February 21 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e 547. AD 1743 February 20 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816. Euripos \u003cbr\u003e  castle \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   eastern ... Plate and the Eurasian Plate, beyond the eastern extent of the   Armenian and Asia Minor fault zones. ..... Fergana Valley (Uzbekistan,   Kyrgyzstan and Tajikistan) (6.1, July 19) ... 856 Damghan ?? 893 Ardabil ?? 1721   Tabriz ?? 1727 Tabriz ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  eastern \u003cb\u003e...\u003c/b\u003e Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the \u003cbr\u003e  Armenian and Asia Minor fault zones. \u003cb\u003e.....\u003c/b\u003e Fergana Valley (Uzbekistan, \u003cbr\u003e  Kyrgyzstan and Tajikistan) (6.1, \u003cb\u003eJuly 19\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e 856 Damghan &middot; 893 Ardabil &middot; 1721 \u003cbr\u003e  Tabriz &middot; \u003cb\u003e1727\u003c/b\u003e Tabriz \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "a study of the historical earthquake catalog and gutenberg-richter ...",
+   "htmlTitle": "a study of the historical \u003cb\u003eearthquake\u003c/b\u003e catalog and gutenberg-richter \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.kns.org/jknsfile/v42/JK0420055.pdf",
+   "displayLink": "www.kns.org",
+   "snippet": "Like China, the Korean Peninsula lies on the Eurasian. Plate, however ... July   1036 earthquake, whereas the damage and repair .... 1604-12-19 .... 1727-6-20 ...",
+   "htmlSnippet": "Like China, the Korean Peninsula lies on the \u003cb\u003eEurasian\u003c/b\u003e. Plate, however \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e \u003cbr\u003e  1036 \u003cb\u003eearthquake\u003c/b\u003e, whereas the damage and repair \u003cb\u003e....\u003c/b\u003e 1604-12-\u003cb\u003e19\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1727\u003c/b\u003e-6-20 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "k2lXtHyCb3MJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.kns.org/jknsfile/v42/JK0420055.pdf",
+   "htmlFormattedUrl": "www.kns.org/jknsfile/v42/JK0420055.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100217142553+09'00'",
+      "moddate": "D:20100217142553+09'00'",
+      "producer": "Acrobat Distiller 5.0.2 (Macintosh)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "In connection with identification of VLF emissions before L'Aquila ...",
+   "htmlTitle": "In connection with identification of VLF emissions before L&#39;Aquila \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://arxiv.org/pdf/1202.5099",
+   "displayLink": "arxiv.org",
+   "snippet": "1) Wenchuan earthquake (May 12, 2008, M 8.0, depth ~ 19 km., 31.121N,  103.367E). It is known that the main frequency of the electromagnetic emission   prior to ...",
+   "htmlSnippet": "1) Wenchuan \u003cb\u003eearthquake\u003c/b\u003e (May 12, 2008, M 8.0, depth ~ \u003cb\u003e19\u003c/b\u003e km., 31.121N,\u003cbr\u003e  103.367E). It is known that the main frequency of the electromagnetic emission \u003cbr\u003e  prior to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DsD1LNAQNg8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "arxiv.org/pdf/1202.5099",
+   "htmlFormattedUrl": "arxiv.org/pdf/1202.5099",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20120218150711+04'00'",
+      "moddate": "D:20120218150711+04'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "Manana",
+      "creator": "PScript5.dll Version 5.2",
+      "title": "Microsoft Word - Paper.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EURASIAN MINERALS INC.",
+   "htmlTitle": "\u003cb\u003eEURASIAN\u003c/b\u003e MINERALS INC.",
+   "link": "http://www.eurasianminerals.com/i/pdf/Annual-Report-2011.pdf",
+   "displayLink": "www.eurasianminerals.com",
+   "snippet": "Jul 19, 2011 ... Current year highlights (including subsequent events up to July 19, 2011) .... re-  initiation of the JVs exploration programs after the devastating earthquake that .....   has recently concluded a shallow, 1,727 meter geochemical ...",
+   "htmlSnippet": "Jul 19, 2011 \u003cb\u003e...\u003c/b\u003e Current year highlights (including subsequent events up to \u003cb\u003eJuly 19\u003c/b\u003e, 2011) \u003cb\u003e....\u003c/b\u003e re-\u003cbr\u003e  initiation of the JVs exploration programs after the devastating \u003cb\u003eearthquake\u003c/b\u003e that \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  has recently concluded a shallow, \u003cb\u003e1,727\u003c/b\u003e meter geochemical \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9IIufkdLMBAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.eurasianminerals.com/i/pdf/Annual-Report-2011.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003eeurasian\u003c/b\u003eminerals.com/i/pdf/Annual-Report-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110722165436-04'00'",
+      "author": "blktmaker",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 9.2.0 (Windows)",
+      "moddate": "D:20110725081110-07'00'",
+      "title": "Microsoft Word - front cover EMX ANNUAL REPORT"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disasters and Economic Differentiation Across Eurasia: A Reply",
+   "htmlTitle": "Disasters and Economic Differentiation Across \u003cb\u003eEurasia\u003c/b\u003e: A Reply",
+   "link": "http://www.jstor.org/stable/2121760",
+   "displayLink": "www.jstor.org",
+   "snippet": "fungible physical types-earthquakes, volcanic eruptions, floods, droughts,   epidemics, and so forth .... 3/83, (July 1983), p. 10. .... over the whole of China,   only 19 percent of Wang and Zhao's historical flood stations in ... stations in   England from 1727-1926 vary from 87 percent to 108 percent of the mean for   1881-1915.",
+   "htmlSnippet": "fungible physical types-\u003cb\u003eearthquakes\u003c/b\u003e, volcanic eruptions, floods, droughts, \u003cbr\u003e  epidemics, and so forth \u003cb\u003e....\u003c/b\u003e 3/83, (\u003cb\u003eJuly\u003c/b\u003e 1983), p. 10. \u003cb\u003e....\u003c/b\u003e over the whole of China, \u003cbr\u003e  only \u003cb\u003e19\u003c/b\u003e percent of Wang and Zhao&#39;s historical flood stations in \u003cb\u003e...\u003c/b\u003e stations in \u003cbr\u003e  England from \u003cb\u003e1727\u003c/b\u003e-1926 vary from 87 percent to 108 percent of the mean for \u003cbr\u003e  1881-1915.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.jstor.org/stable/2121760",
+   "htmlFormattedUrl": "www.jstor.org/stable/2121760",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "PDFplus",
+      "producer": "Atypon Systems, Inc.",
+      "title": "Disasters and Economic Differentiation Across Eurasia: A Reply",
+      "moddate": "D:20121203130514-05'00'",
+      "creationdate": "D:20070923191643-04'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Disasters and Economic Differentiation Across Eurasia: A Reply",
+   "htmlTitle": "Disasters and Economic Differentiation Across \u003cb\u003eEurasia\u003c/b\u003e: A Reply",
+   "link": "http://journals.cambridge.org/production/action/cjoGetFulltext?fulltextid=4166040",
+   "displayLink": "journals.cambridge.org",
+   "snippet": "fungible physical types???earthquakes, volcanic eruptions, floods, droughts,   epidemics, and so forth .... 3/83, (July 1983), p. 10. 1 3 .... over the whole of China  , only 19 percent of Wang and Zhao's historical flood stations in ... stations in   England from 1727-1926 vary from 87 percent to 108 percent of the mean for   1881-1915.",
+   "htmlSnippet": "fungible physical types???\u003cb\u003eearthquakes\u003c/b\u003e, volcanic eruptions, floods, droughts, \u003cbr\u003e  epidemics, and so forth \u003cb\u003e....\u003c/b\u003e 3/83, (\u003cb\u003eJuly\u003c/b\u003e 1983), p. 10. 1 3 \u003cb\u003e....\u003c/b\u003e over the whole of China\u003cbr\u003e  , only \u003cb\u003e19\u003c/b\u003e percent of Wang and Zhao&#39;s historical flood stations in \u003cb\u003e...\u003c/b\u003e stations in \u003cbr\u003e  England from \u003cb\u003e1727\u003c/b\u003e-1926 vary from 87 percent to 108 percent of the mean for \u003cbr\u003e  1881-1915.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "journals.cambridge.org/production/action/cjoGetFulltext?fulltextid...",
+   "htmlFormattedUrl": "journals.cambridge.org/production/action/cjoGetFulltext?fulltextid...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20080408125609+05'30'",
+      "creationdate": "D:20080408125555+05'30'",
+      "producer": "ABBYY FineReader 9.0 Professional Edition"
+     }
+    ]
+   }
+  }
+ ]
+}
