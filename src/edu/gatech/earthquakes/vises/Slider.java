@@ -258,8 +258,8 @@ public class Slider extends AbstractVisualization implements Interactable {
 	p.stroke(Theme.getPalletteColor(2));
 	p.strokeWeight(2);
 	p.strokeCap(PApplet.ROUND);
-	int prevYear = 0;
-	double prevMag = 0;
+	int lastDrawX = 0;
+	int lastDrawY = -1;
 	int index = 0;
 	for (DataRow r : data) {
 	    Date date = (Date) r.getVariables().get(DataRow.DATE);
@@ -268,18 +268,25 @@ public class Slider extends AbstractVisualization implements Interactable {
 	    int year = cal.get(Calendar.YEAR);
 	    double mag = (double) r.getVariables()
 		    .get(DataRow.MOMENT_MAGNITUDE);
-	    //if (year > prevYear || mag > prevMag) { // Optimization, dont draw
-		                                    // line unless new year or
-		                                    // magnitude is larger
 //		float xLocation = xLocationMap(year, fullYears[0],
 //		        fullYears[fullYears.length - 1], x, x + w, left, right);
-		float xLocationNew = xLocationMap2(drawData[index][0], x, x+w, left, right);
-		float height = PApplet.map((float) mag, 4.0f, 8.0f, 0f,
-		        (float) h);
-		height = drawData[index][1];
-		p.line(xLocationNew, y + h, xLocationNew, y + h - height);
-		index ++;
-	    //}
+		int xLocationNew = (int)xLocationMap2(drawData[index][0], x, x+w, left, right);
+//		int height = (int)PApplet.map((float) mag, 4.0f, 8.0f, 0f,
+//		        (float) h);
+		int height = (int)drawData[index][1];
+		
+		if(xLocationNew > lastDrawX || index == data.getDatum().size()-1){
+		    if(lastDrawY != -1){
+		        p.line(lastDrawX, y + h, lastDrawX, y + h - lastDrawY);
+		        lastDrawY = -1;
+		    }
+                    lastDrawX = xLocationNew;
+		}
+		
+		if(height > lastDrawY){
+		    lastDrawY = height;
+		}
+                index ++;
 	}
 
 	p.fill(Theme.getDarkUIColor());
