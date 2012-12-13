@@ -1,0 +1,231 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 4 1963 North America Earthquake",
+    "totalResults": "324000",
+    "searchTerms": "Sep 4 1963 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 4 1963 North America Earthquake",
+    "totalResults": "324000",
+    "searchTerms": "Sep 4 1963 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.288687,
+  "formattedSearchTime": "0.29",
+  "totalResults": "324000",
+  "formattedTotalResults": "324,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 4 1963 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 4 1963 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on September 4 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eSeptember 4\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/sep04.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "September 4, 1862 North Beach & Mission Railway Company organized in SF ...   September 4, 1950 The first helicopter rescue of American pilot behind ...   September 4, 1963 \"Swissair Flight 306 crashes near Drrensch, Switzerland,   killing all on board.\" ... September 4, 1967 \"6.5 earthquake of Kolya Dam India,   kills 200\" ...",
+   "htmlSnippet": "September 4, 1862 \u003cb\u003eNorth\u003c/b\u003e Beach &amp; Mission Railway Company organized in SF \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  September 4, 1950 The first helicopter rescue of \u003cb\u003eAmerican\u003c/b\u003e pilot behind \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember 4, 1963\u003c/b\u003e &quot;Swissair Flight 306 crashes near Drrensch, Switzerland, \u003cbr\u003e  killing all on board.&quot; \u003cb\u003e...\u003c/b\u003e September 4, 1967 &quot;6.5 \u003cb\u003eearthquake\u003c/b\u003e of Kolya Dam India, \u003cbr\u003e  kills 200&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Mim0ZCl7DFYJ",
+   "formattedUrl": "www.datesinhistory.com/sep04.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003esep\u003c/b\u003e04.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Source parameters of the 1963 MW 6.1",
+   "htmlTitle": "Source parameters of the \u003cb\u003e1963\u003c/b\u003e MW 6.1",
+   "link": "http://geogratis.cgdi.gc.ca/eodata/download/part6/ess_pubs/205/205317/of_3146.pdf",
+   "displayLink": "geogratis.cgdi.gc.ca",
+   "snippet": "The MW 6.1 earthquake of 4 September 1963 is the largest earthquake known to   have ... Earthquakes in eastern North America most commonly (but not exclu- ...",
+   "htmlSnippet": "The MW 6.1 \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e4 September 1963\u003c/b\u003e is the largest \u003cb\u003eearthquake\u003c/b\u003e known to \u003cbr\u003e  have \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e most commonly (but not exclu- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XBqZjDzLgzYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "geogratis.cgdi.gc.ca/eodata/download/part6/ess_pubs/205/.../of_3146.pdf",
+   "htmlFormattedUrl": "geogratis.cgdi.gc.ca/eodata/download/part6/ess_pubs/205/.../of_3146.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Tue Mar  1 08:22:37 2011",
+      "creationdate": "Tue Mar  1 08:22:02 2011"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 4 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember 4\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_4",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 4 is the 247th day of the year (248th in leap years) in the Gregorian   calendar. ... Robert E. Lee takes the Army of Northern Virginia, and the war, into   the North. ... 1886 ??? American Indian Wars: after almost 30 years of fighting,   Apache ... magnitude earthquake which struck the South Island of New Zealand   at 4:35 ...",
+   "htmlSnippet": "\u003cb\u003eSeptember 4\u003c/b\u003e is the 247th day of the year (248th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e Robert E. Lee takes the Army of Northern Virginia, and the war, into \u003cbr\u003e  the \u003cb\u003eNorth\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 1886 ??? \u003cb\u003eAmerican\u003c/b\u003e Indian Wars: after almost 30 years of fighting, \u003cbr\u003e  Apache \u003cb\u003e...\u003c/b\u003e magnitude \u003cb\u003eearthquake\u003c/b\u003e which struck the South Island of New Zealand \u003cbr\u003e  at \u003cb\u003e4\u003c/b\u003e:35 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uY5WWSWtfqsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_4",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e4\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "For pdf click here",
+   "htmlTitle": "For pdf click here",
+   "link": "http://www.earth.northwestern.edu/people/seth/Texts/ecaneq.pdf",
+   "displayLink": "www.earth.northwestern.edu",
+   "snippet": "a major fraction of the largest earthquakes of eastern North America. in this paper   we .... September 4, 1963 13:32:12 71 .4N 73.3W 7 km 5.9 6 2. November 24 ...",
+   "htmlSnippet": "a major fraction of the largest \u003cb\u003eearthquakes\u003c/b\u003e of eastern \u003cb\u003eNorth America\u003c/b\u003e. in this paper \u003cbr\u003e  we \u003cb\u003e....\u003c/b\u003e \u003cb\u003eSeptember 4\u003c/b\u003e, \u003cb\u003e1963\u003c/b\u003e 13:32:12 71 .4N 73.3W 7 km 5.9 6 2. November 24 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mTaK7wFC5I8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.northwestern.edu/people/seth/Texts/ecaneq.pdf",
+   "htmlFormattedUrl": "www.earth.\u003cb\u003enorth\u003c/b\u003ewestern.edu/people/seth/Texts/ecaneq.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "Tue May  3 13:00:37 2005"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M6.5 - 163km SSW of Severo-Kuril'sk, Russia 2012-11-16 18:12:39 ...",
+   "htmlTitle": "M6.5 - 163km SSW of Severo-Kuril&#39;sk, Russia 2012-11-16 18:12:39 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dtr7",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 16, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center ..... Relative to a fixed North America plate, the Pacific plate is moving ...   M8.4 Kamchatka, the November 6,1958 M8.4 Etorofu, and the September ... A   large M8.5 megathrust earthquake occurred on October 13, 1963 off ...",
+   "htmlSnippet": "Nov 16, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e.....\u003c/b\u003e Relative to a fixed \u003cb\u003eNorth America\u003c/b\u003e plate, the Pacific plate is moving \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  M8.\u003cb\u003e4\u003c/b\u003e Kamchatka, the November 6,1958 M8.\u003cb\u003e4\u003c/b\u003e Etorofu, and the \u003cb\u003eSeptember\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e A \u003cbr\u003e  large M8.5 megathrust \u003cb\u003eearthquake\u003c/b\u003e occurred on October 13, \u003cb\u003e1963\u003c/b\u003e off \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rt9vKkJkbpoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dtr7",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dtr7"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Hazard in Terms of Spectral Accelerations and Uniform ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Hazard in Terms of Spectral Accelerations and Uniform \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www4.ujaen.es/~japelaez/publicaciones/2006_Pelaez_et_al.pdf",
+   "displayLink": "www4.ujaen.es",
+   "snippet": "caused extensive damage in the north-central part of Algeria, reaching a   macrose- ..... location of the earthquake of September 4, 1963 (mb 6.3) (see Fig.   1). .... accelerations from northern North American earthquakes; an interim report,   USGS ...",
+   "htmlSnippet": "caused extensive damage in the north-central part of Algeria, reaching a \u003cbr\u003e  macrose- \u003cb\u003e.....\u003c/b\u003e location of the \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eSeptember 4, 1963\u003c/b\u003e (mb 6.3) (see Fig. \u003cbr\u003e  1). \u003cb\u003e....\u003c/b\u003e accelerations from northern \u003cb\u003eNorth American earthquakes\u003c/b\u003e; an interim report, \u003cbr\u003e  USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6DpnIfcKtoIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www4.ujaen.es/~japelaez/publicaciones/2006_Pelaez_et_al.pdf",
+   "htmlFormattedUrl": "www4.ujaen.es/~japelaez/publicaciones/2006_Pelaez_et_al.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060124101606Z",
+      "moddate": "D:20060125193723+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "creator": "3B2 Total Publishing System 8.07e/W"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.4 - 44km N of Shizunai, Japan 2012-10-14 12:14:42 UTC",
+   "htmlTitle": "M4.\u003cb\u003e4\u003c/b\u003e - 44km \u003cb\u003eN\u003c/b\u003e of Shizunai, Japan 2012-10-14 12:14:42 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000d5pe",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2012 ... M4.4 - 44km N of Shizunai, Japan 2012-10-14 12:14:42 UTC .... the deep   offshore kuril kamchatka trench relative fixed north america plate the pacific plate   moving ... november 1958 m8 4 etorofu and the september 25 2003 m8 3   hokkaido earthquakes large m8 5 megathrust occurred 13 1963 off the coast ...",
+   "htmlSnippet": "Oct 14, 2012 \u003cb\u003e...\u003c/b\u003e M4.\u003cb\u003e4\u003c/b\u003e - 44km N of Shizunai, Japan 2012-10-14 12:14:42 UTC \u003cb\u003e....\u003c/b\u003e the deep \u003cbr\u003e  offshore kuril kamchatka trench relative fixed \u003cb\u003enorth america\u003c/b\u003e plate the pacific plate \u003cbr\u003e  moving \u003cb\u003e...\u003c/b\u003e november 1958 m8 \u003cb\u003e4\u003c/b\u003e etorofu and the \u003cb\u003eseptember\u003c/b\u003e 25 2003 m8 3 \u003cbr\u003e  hokkaido \u003cb\u003eearthquakes\u003c/b\u003e large m8 5 megathrust occurred 13 \u003cb\u003e1963\u003c/b\u003e off the coast \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZODoSmAeBUEJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000d5pe",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000d5pe"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Virginia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Virginia",
+   "link": "http://www.virginiaplaces.org/geology/quake.html",
+   "displayLink": "www.virginiaplaces.org",
+   "snippet": "Earthquakes - a part of Virginia geology. ... North American Plate ... Elementary   School and Louisa High School were damaged so heavily they had to be razed   and replaced.4 ... world quakes, 1963-98 ... 3. personal communications, \"  Manassas finds itself on terra not-so-firma,\" Washington Post, September 30,   1997, ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e - a part of Virginia geology. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNorth American\u003c/b\u003e Plate \u003cb\u003e...\u003c/b\u003e Elementary \u003cbr\u003e  School and Louisa High School were damaged so heavily they had to be razed \u003cbr\u003e  and replaced.\u003cb\u003e4\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e world quakes, \u003cb\u003e1963\u003c/b\u003e-98 \u003cb\u003e...\u003c/b\u003e 3. personal communications, &quot;\u003cbr\u003e  Manassas finds itself on terra not-so-firma,&quot; Washington Post, \u003cb\u003eSeptember\u003c/b\u003e 30, \u003cbr\u003e  1997, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mbBGINkIIZ4J",
+   "formattedUrl": "www.virginiaplaces.org/geology/quake.html",
+   "htmlFormattedUrl": "www.virginiaplaces.org/geology/\u003cb\u003equake\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.virginiaplaces.org/geology/graphics/northamericanplate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSR8taALybPJjaCgq86fRRpDvV0WfOezR9smBXjsNkynEyDGiZ9Kqsj5oyV"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Earthquake History USGS.",
+   "htmlTitle": "Colorado \u003cb\u003eEarthquake\u003c/b\u003e History USGS.",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Another shock of similar intensity (VI) did not occur until September 8, 1944.   During ... It was 32 minutes after 4 a.m. on April 24 when the first shock of the   Denver series was ... were recorded at Bergen Park between January 1963 and   August 9, 1967. .... The north-central part of Colorado experienced a small   earthquake on ...",
+   "htmlSnippet": "Another shock of similar intensity (VI) did not occur until \u003cb\u003eSeptember\u003c/b\u003e 8, 1944. \u003cbr\u003e  During \u003cb\u003e...\u003c/b\u003e It was 32 minutes after \u003cb\u003e4\u003c/b\u003e a.m. on April 24 when the first shock of the \u003cbr\u003e  Denver series was \u003cb\u003e...\u003c/b\u003e were recorded at Bergen Park between January \u003cb\u003e1963\u003c/b\u003e and \u003cbr\u003e  August 9, 1967. \u003cb\u003e....\u003c/b\u003e The \u003cb\u003enorth\u003c/b\u003e-central part of Colorado experienced a small \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "30ABL9k2McIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/colorado/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 4th September | HistoryOrb.com",
+   "htmlTitle": "Historical Events on 4th \u003cb\u003eSeptember\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/september/4",
+   "displayLink": "www.historyorb.com",
+   "snippet": "1609 - Navigator Henry Hudson discovers island of Manhattan [or Sep 11] ....   1963 - Swissair Flight 306 crashes near D??rren??sch, Switzerland, killing all 80   people ... of Fine Arts in what was at the time the largest art theft in North America.   ... a 7.1 magnitude earthquake which struck the South Island of New Zealand at 4  :35 ...",
+   "htmlSnippet": "1609 - Navigator Henry Hudson discovers island of Manhattan [or \u003cb\u003eSep\u003c/b\u003e 11] \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1963\u003c/b\u003e - Swissair Flight 306 crashes near D??rren??sch, Switzerland, killing all 80 \u003cbr\u003e  people \u003cb\u003e...\u003c/b\u003e of Fine Arts in what was at the time the largest art theft in \u003cb\u003eNorth America\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e a 7.1 magnitude \u003cb\u003eearthquake\u003c/b\u003e which struck the South Island of New Zealand at \u003cb\u003e4\u003c/b\u003e\u003cbr\u003e  :35 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W6L0VrQ9IkcJ",
+   "formattedUrl": "www.historyorb.com/events/september/4",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003eseptember\u003c/b\u003e/\u003cb\u003e4\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  }
+ ]
+}
