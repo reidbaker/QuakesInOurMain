@@ -1,7 +1,6 @@
 package edu.gatech.earthquakes.vises;
 
 import java.awt.Rectangle;
-import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashSet;
