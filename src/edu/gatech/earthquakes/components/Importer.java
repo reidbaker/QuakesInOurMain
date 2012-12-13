@@ -14,13 +14,12 @@ import java.util.Map;
 import java.util.Set;
 
 import com.google.common.collect.Maps;
-import com.sun.xml.internal.ws.api.streaming.XMLStreamReaderFactory.Default;
 
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 
 public class Importer {
-	private final static String DATA_LOCATION = ".." + File.separator + "data" + File.separator;
+	private final static String DATA_LOCATION = /* ".." + File.separator + */ "data" + File.separator;
 	private final static String FILENAME = "Catalog.csv";
 
 	public static DataSet importData() {
