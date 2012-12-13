@@ -28,7 +28,6 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
     private int textSize;
 
     private long minTime, maxTime;
-    private DecimalFormat df = new DecimalFormat("0.0");
 
     public DepthPlot(int x, int y, int w, int h, DataSet displayData) {
 	super(x, y, w, h, displayData, "Depth vs Time");
