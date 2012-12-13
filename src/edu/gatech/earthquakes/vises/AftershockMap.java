@@ -208,13 +208,13 @@ public class AftershockMap extends Individual implements Interactable,
 		    highlightedPos = new double[] { coords[i][0], coords[i][1] };
 		    ArrayList<DataRow> rowList = new ArrayList<>(
 			    aftershocks.getDatum());
-		    Controller.BRUSH_BUS.post(new DataSet(rowList.get(i)));
+		    Controller.applyBrushing(new DataSet(rowList.get(i)));
 		    found = true;
 		}
 
 		if (!found) {
 		    highlightedPos = null;
-		    Controller.BRUSH_BUS.post(new DataSet(
+		    Controller.applyBrushing(new DataSet(
 			    new HashSet<DataRow>()));
 		}
 

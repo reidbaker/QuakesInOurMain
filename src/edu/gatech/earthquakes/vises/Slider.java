@@ -234,7 +234,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 		}
 	    }
 	    DataSet ds = new DataSet(filtered);
-	    Controller.FILTER_BUS.post(ds);
+	    Controller.applyFilter(ds);
 	}
     }
 
