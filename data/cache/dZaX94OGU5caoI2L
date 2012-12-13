@@ -1,0 +1,216 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 16 2001 Asia Earthquake",
+    "totalResults": "776000",
+    "searchTerms": "Aug 16 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 16 2001 Asia Earthquake",
+    "totalResults": "776000",
+    "searchTerms": "Aug 16 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.1962,
+  "formattedSearchTime": "0.20",
+  "totalResults": "776000",
+  "formattedTotalResults": "776,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... SOS Earthquakes was founded in August 2010. .... an Asia-Pacific comparison of   flood and earthquake socio-economic loss in the CECAR5 .... Ica, PE, 28.10.2011  , 1 (1-L), (1-1), 16, 88 ..... BTE [2001] ???Economic Costs of Natural Disasters in   Australia???, Bureau of Transport Economics Report 103, Canberra.",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e SOS \u003cb\u003eEarthquakes\u003c/b\u003e was founded in \u003cb\u003eAugust\u003c/b\u003e 2010. \u003cb\u003e....\u003c/b\u003e an \u003cb\u003eAsia\u003c/b\u003e-Pacific comparison of \u003cbr\u003e  flood and \u003cb\u003eearthquake\u003c/b\u003e socio-economic loss in the CECAR5 \u003cb\u003e....\u003c/b\u003e Ica, PE, 28.10.2011\u003cbr\u003e  , 1 (1-L), (1-1), \u003cb\u003e16\u003c/b\u003e, 88 \u003cb\u003e.....\u003c/b\u003e BTE [\u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in \u003cbr\u003e  Australia???, Bureau of Transport Economics Report 103, Canberra.",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Balkan, Turkmenistan",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Balkan, Turkmenistan",
+   "link": "http://earthquaketrack.com/p/turkmenistan/balkan/recent",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The latest earthquakes in Balkan, Turkmenistan. ... 0 earthquakes today; 0   earthquakes in the past 7 days; 0 earthquakes in the past .... August 16, 2001   UTC ...",
+   "htmlSnippet": "The latest \u003cb\u003eearthquakes\u003c/b\u003e in Balkan, Turkmenistan. \u003cb\u003e...\u003c/b\u003e 0 \u003cb\u003eearthquakes\u003c/b\u003e today; 0 \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in the past 7 days; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the past \u003cb\u003e....\u003c/b\u003e \u003cb\u003eAugust 16\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e \u003cbr\u003e  UTC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jmsXk2Dc_1YJ",
+   "formattedUrl": "earthquaketrack.com/p/turkmenistan/balkan/recent",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/p/turkmenistan/balkan/recent",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "LfxXaJKBB1TyI7Gr5T6Js8mvash6I4ZN3iH0W56x1MI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of Asia Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eAsia\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/Asia_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. ... located by the USGS and contributing networks for the Map of Asia   Region. ... MAP, 4.3, 2012/12/10 16:27:40, 2.648, 95.490, 41.2, SIMEULUE,   INDONESIA ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e located by the USGS and contributing networks for the Map of \u003cb\u003eAsia\u003c/b\u003e \u003cbr\u003e  Region. \u003cb\u003e...\u003c/b\u003e MAP, 4.3, 2012/12/10 \u003cb\u003e16\u003c/b\u003e:27:40, 2.648, 95.490, 41.2, SIMEULUE, \u003cbr\u003e  INDONESIA \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7q8t4MZRaIIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/Maps/.../Asia_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/Maps/.../\u003cb\u003eAsia\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "August 16 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAugust 16\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/August_16",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "August 16 is the 228th day of the year (229th in leap years) in the Gregorian   calendar. ... in Manila, the first all-steel church in Asia, is officially inaugurated   and blessed. ... 1906 ??? An estimated 8.2 MW earthquake hits Valpara??so, Chile,   killing 3,886 people. .... 2001); 1916 ??? Iggy Katona, American race car driver (d.   2003) ...",
+   "htmlSnippet": "\u003cb\u003eAugust 16\u003c/b\u003e is the 228th day of the year (229th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e in Manila, the first all-steel church in \u003cb\u003eAsia\u003c/b\u003e, is officially inaugurated \u003cbr\u003e  and blessed. \u003cb\u003e...\u003c/b\u003e 1906 ??? An estimated 8.2 MW \u003cb\u003eearthquake\u003c/b\u003e hits Valpara??so, Chile, \u003cbr\u003e  killing 3,886 people. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e); 1916 ??? Iggy Katona, American race car driver (d. \u003cbr\u003e  2003) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TlqW0fmeYeAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/August_16",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAugust\u003c/b\u003e_\u003cb\u003e16\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UCLA Center for Public Health and Disasters",
+   "htmlTitle": "UCLA Center for Public Health and Disasters",
+   "link": "http://www.cphd.ucla.edu/pastpubs.htm",
+   "displayLink": "www.cphd.ucla.edu",
+   "snippet": "Publications Prior to 2002. 2001. Shoaf KI, Seligson HA, Peek-Asa C, ...   Research on Urban Earthquake Disaster Mitigation; August 15-16, 2001;   University of ... Invited Presentation, 5th Asia-Pacific Conference on Disaster   Medicine; ...",
+   "htmlSnippet": "Publications Prior to 2002. 2001. Shoaf KI, Seligson HA, Peek-Asa C, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Research on Urban \u003cb\u003eEarthquake\u003c/b\u003e Disaster Mitigation; August 15-\u003cb\u003e16, 2001\u003c/b\u003e; \u003cbr\u003e  University of \u003cb\u003e...\u003c/b\u003e Invited Presentation, 5th \u003cb\u003eAsia\u003c/b\u003e-Pacific Conference on Disaster \u003cbr\u003e  Medicine; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GXgVuySeEt8J",
+   "formattedUrl": "www.cphd.ucla.edu/pastpubs.htm",
+   "htmlFormattedUrl": "www.cphd.ucla.edu/pastpubs.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 9, 2001, 16:49, Vanuatu, ???14.928, 167.170, 0, 7.1, Mw (USGS) ... see   2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV) ... August 21,   2001, 06:52, East of North Island, New Zealand, ???36.813 ...",
+   "htmlSnippet": "January 9, \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003e16\u003c/b\u003e:49, Vanuatu, ???14.928, 167.170, 0, 7.1, Mw (USGS) \u003cb\u003e...\u003c/b\u003e see \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e 21, \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e, 06:52, East of North Island, New Zealand, ???36.813 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EKTA - EVENTS",
+   "htmlTitle": "EKTA - EVENTS",
+   "link": "http://www.ektaonline.org/events/index.htm",
+   "displayLink": "www.ektaonline.org",
+   "snippet": "Friends of South Asia http://www.friendsofsouthasia.org/ ...",
+   "htmlSnippet": "Friends of South \u003cb\u003eAsia\u003c/b\u003e http://www.friendsofsouthasia.org/ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dqRu7T7hNuIJ",
+   "formattedUrl": "www.ektaonline.org/events/index.htm",
+   "htmlFormattedUrl": "www.ektaonline.org/events/index.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in the Philippines - Wikipedia, the free ...",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in the Philippines - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_the_Philippines",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A magnitude 7.9 quake struck Mindanao on August 16, 1976. ... A magnitude of   7.5 quake struck Mindanao on January 1, 2001 at a depth of 33km. .....   September 02, 2012. http://www.brecorder.com/world/southeast-asia/76582.html.   Retrieved ...",
+   "htmlSnippet": "A magnitude 7.9 \u003cb\u003equake\u003c/b\u003e struck Mindanao on \u003cb\u003eAugust 16\u003c/b\u003e, 1976. \u003cb\u003e...\u003c/b\u003e A magnitude of \u003cbr\u003e  7.5 \u003cb\u003equake\u003c/b\u003e struck Mindanao on January 1, \u003cb\u003e2001\u003c/b\u003e at a depth of 33km. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  September 02, 2012. http://www.brecorder.com/world/southeast-\u003cb\u003easia\u003c/b\u003e/76582.html. \u003cbr\u003e  Retrieved \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BNKkZBt8jc4J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_the_Philippines",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_the_Philippines",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Philippines_location_map.svg/390px-Philippines_location_map.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "195",
+      "height": "258",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXOU6WsxIJy6nbtfMB-2DNeQiWdJ2lx3vBo9yweTa1K5blXddROGSKqno"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current Publications & Presentaions (Disaster Response, Stress ...",
+   "htmlTitle": "Current Publications &amp; Presentaions (Disaster Response, Stress \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://tatsuki-lab.doshisha.ac.jp/~statsuki/papers/paperEngindex.html",
+   "displayLink": "tatsuki-lab.doshisha.ac.jp",
+   "snippet": "Paper presented at Session 8: Earthquake and Tsunami in Sumatra, Indian   Ocean and ... A Powerpoint Presentation for Asia Pacific Volunteer Leadership   Conference at the ... Disaster Mitigation Third Grantees's Meeting, August 15-16,   2001).",
+   "htmlSnippet": "Paper presented at Session 8: \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami in Sumatra, Indian \u003cbr\u003e  Ocean and \u003cb\u003e...\u003c/b\u003e A Powerpoint Presentation for \u003cb\u003eAsia\u003c/b\u003e Pacific Volunteer Leadership \u003cbr\u003e  Conference at the \u003cb\u003e...\u003c/b\u003e Disaster Mitigation Third Grantees&#39;s Meeting, August 15-\u003cb\u003e16,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "1Wu_a4WDphEJ",
+   "formattedUrl": "tatsuki-lab.doshisha.ac.jp/~statsuki/papers/paperEngindex.html",
+   "htmlFormattedUrl": "tatsuki-lab.doshisha.ac.jp/~statsuki/papers/paperEngindex.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Destroyed 13 cities in Asia (minor), Described by the historians Tacitus and Pliny   the Elder ... August 12, 1157, 08:15, Syria, 35.1, 36.3, \"Tens of thousands\", 7.2, M  s ..... see 1857 Basilicata earthquake, 40.3, 16, 11,000, 6.9, MI, USGS .... \"Res   Gestae\", 26.10.15-19; ^ For summaries of the sources, see Stiros, Stathis C. (  2001).",
+   "htmlSnippet": "Destroyed 13 cities in \u003cb\u003eAsia\u003c/b\u003e (minor), Described by the historians Tacitus and Pliny \u003cbr\u003e  the Elder \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e 12, 1157, 08:15, Syria, 35.1, 36.3, &quot;Tens of thousands&quot;, 7.2, M\u003cbr\u003e  s \u003cb\u003e.....\u003c/b\u003e see 1857 Basilicata \u003cb\u003eearthquake\u003c/b\u003e, 40.3, \u003cb\u003e16\u003c/b\u003e, 11,000, 6.9, MI, USGS \u003cb\u003e....\u003c/b\u003e &quot;Res \u003cbr\u003e  Gestae&quot;, 26.10.15-19; ^ For summaries of the sources, see Stiros, Stathis C. (\u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  }
+ ]
+}
