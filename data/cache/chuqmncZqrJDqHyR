@@ -1,0 +1,292 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 4 1993 Australia Earthquake",
+    "totalResults": "512000",
+    "searchTerms": "Feb 4 1993 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 4 1993 Australia Earthquake",
+    "totalResults": "512000",
+    "searchTerms": "Feb 4 1993 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.234685,
+  "formattedSearchTime": "0.23",
+  "totalResults": "512000",
+  "formattedTotalResults": "512,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on February 4 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eFebruary 4\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/feb04.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "February 4, 1697 \"3 VOC-ships anchor at Dirk-Hartogeiland, Australia\"; February   ... February 4, 1797 \"Earthquake in Quito, Ecuador kills 40,000\"; February ....   February 4, 1993 \"Admiral Studeman, ends term as acting director of CIA\";   February ...",
+   "htmlSnippet": "February 4, 1697 &quot;3 VOC-ships anchor at Dirk-Hartogeiland, \u003cb\u003eAustralia\u003c/b\u003e&quot;; February \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e February 4, 1797 &quot;\u003cb\u003eEarthquake\u003c/b\u003e in Quito, Ecuador kills 40,000&quot;; February \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eFebruary 4\u003c/b\u003e, \u003cb\u003e1993\u003c/b\u003e &quot;Admiral Studeman, ends term as acting director of CIA&quot;; \u003cbr\u003e  February \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_z77a1xRhyUJ",
+   "formattedUrl": "www.datesinhistory.com/feb04.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003efeb\u003c/b\u003e04.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "February 4 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eFebruary 4\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/February_4",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "February 4 is the 35th day of the year in the Gregorian calendar. ... 1169 ??? A   strong earthquake struck the Ionian coast of Sicily, causing tens of thousands of   victims, especially in Catania. ... 2010 ??? The Federal Court of Australia's ruling in   Roadshow Films v iiNet sets a ... 1993); 1912 ??? Byron Nelson, American golfer (d.",
+   "htmlSnippet": "\u003cb\u003eFebruary 4\u003c/b\u003e is the 35th day of the year in the Gregorian calendar. \u003cb\u003e...\u003c/b\u003e 1169 ??? A \u003cbr\u003e  strong \u003cb\u003eearthquake\u003c/b\u003e struck the Ionian coast of Sicily, causing tens of thousands of \u003cbr\u003e  victims, especially in Catania. \u003cb\u003e...\u003c/b\u003e 2010 ??? The Federal Court of \u003cb\u003eAustralia\u003c/b\u003e&#39;s ruling in \u003cbr\u003e  Roadshow Films v iiNet sets a \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1993\u003c/b\u003e); 1912 ??? Byron Nelson, American golfer (d.",
+   "cacheId": "Q4LZdnl9efYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/February_4",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eFebruary\u003c/b\u003e_\u003cb\u003e4\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Natural Disasters Issues",
+   "htmlTitle": "Natural Disasters Issues",
+   "link": "http://www.iczmpwb.org/main/natural_disasters.php",
+   "displayLink": "www.iczmpwb.org",
+   "snippet": "July. 36(7). April-May. 8(7). February. 0 (0). August. 29(4). June-September ...   earthquake with magnitude 5, 27.4.1993 (22.0/88.0) with magnitude 4.2 and ...   plane (subduction zone) over the Antarctic and Indo-Australian plate) for a   distance of ...",
+   "htmlSnippet": "July. 36(7). April-May. 8(7). February. 0 (0). August. 29(4). June-September \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e with magnitude 5, 27.4.1993 (22.0/88.0) with magnitude \u003cb\u003e4.2\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  plane (subduction zone) over the Antarctic and Indo-\u003cb\u003eAustralian\u003c/b\u003e plate) for a \u003cbr\u003e  distance of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TTLKx5XW8uEJ",
+   "formattedUrl": "www.iczmpwb.org/main/natural_disasters.php",
+   "htmlFormattedUrl": "www.iczmpwb.org/main/natural_disasters.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "keyphrases": "Coastal Hazards of West Bengal, Natural Disasters"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 1 1901???1910  ; 2 1911???1920; 3 1921???1930; 4 1931???1940; 5 1941???1950 ... 1906, Off the coast   of Western Australia, Australia, 7.6, Mw ... Valley earthquake, 40.5, ???117.5, 7.1, M  w (Stover and Coffman, 1993), USGS ...... Retrieved February 19, 2012.",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 1 1901???1910\u003cbr\u003e  ; 2 1911???1920; 3 1921???1930; \u003cb\u003e4\u003c/b\u003e 1931???1940; 5 1941???1950 \u003cb\u003e...\u003c/b\u003e 1906, Off the coast \u003cbr\u003e  of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e...\u003c/b\u003e Valley \u003cb\u003eearthquake\u003c/b\u003e, 40.5, ???117.5, 7.1, M\u003cbr\u003e  w (Stover and Coffman, \u003cb\u003e1993\u003c/b\u003e), USGS \u003cb\u003e......\u003c/b\u003e Retrieved \u003cb\u003eFebruary\u003c/b\u003e 19, 2012.",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 4th February | HistoryOrb.com",
+   "htmlTitle": "Historical Events on 4th \u003cb\u003eFebruary\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/february/4",
+   "displayLink": "www.historyorb.com",
+   "snippet": "... to Luis Caravajal 1697 - 3 VOC-ships anchor at Dirk-Hartogeiland, Australia ...   Astronomer Tycho Brahe 1797 - Earthquake in Quito, Ecuador kills 41,000 1803 -   William ... 1939 - Glenn Cunningham (top miler) says 4-min mile beyond human   effort .... 1993 - Marge Schott suspended from baseball for 1 year due to racism ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e to Luis Caravajal 1697 - 3 VOC-ships anchor at Dirk-Hartogeiland, \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Astronomer Tycho Brahe 1797 - \u003cb\u003eEarthquake\u003c/b\u003e in Quito, Ecuador kills 41,000 1803 - \u003cbr\u003e  William \u003cb\u003e...\u003c/b\u003e 1939 - Glenn Cunningham (top miler) says \u003cb\u003e4\u003c/b\u003e-min mile beyond human \u003cbr\u003e  effort \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1993\u003c/b\u003e - Marge Schott suspended from baseball for 1 year due to racism \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ic-ub7uUoQ4J",
+   "formattedUrl": "www.historyorb.com/events/february/4",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003efebruary\u003c/b\u003e/\u003cb\u003e4\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "February 4 Events in History",
+   "htmlTitle": "\u003cb\u003eFebruary 4\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/february_4.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "February 4 in history.",
+   "htmlSnippet": "\u003cb\u003eFebruary 4\u003c/b\u003e in history.",
+   "cacheId": "jsmNntTjRPEJ",
+   "formattedUrl": "www.brainyhistory.com/days/february_4.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003efebruary\u003c/b\u003e_\u003cb\u003e4\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "February 4 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/february_4.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Canberra Region",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Canberra Region",
+   "link": "http://www.ga.gov.au/image_cache/GA11006.pdf",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "The map of Australian earthquake epicentres (Figure 1) shows earthquakes from   1841- ... 4. Table 1. Earthquakes within a square with sides 20 km from the   Canberra GPO, for .... The Canberra Times of 9 February 1961 noted that ???a slight   earth tremor shook .... 1993.at 9.53 and 10.00 pm Eastern Australian Standard   Time.",
+   "htmlSnippet": "The map of \u003cb\u003eAustralian earthquake\u003c/b\u003e epicentres (Figure 1) shows \u003cb\u003eearthquakes\u003c/b\u003e from \u003cbr\u003e  1841- \u003cb\u003e...\u003c/b\u003e \u003cb\u003e4\u003c/b\u003e. Table 1. \u003cb\u003eEarthquakes\u003c/b\u003e within a square with sides 20 km from the \u003cbr\u003e  Canberra GPO, for \u003cb\u003e....\u003c/b\u003e The Canberra Times of 9 \u003cb\u003eFebruary\u003c/b\u003e 1961 noted that ???a slight \u003cbr\u003e  earth tremor shook \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1993\u003c/b\u003e.at 9.53 and 10.00 pm Eastern \u003cb\u003eAustralian\u003c/b\u003e Standard \u003cbr\u003e  Time.",
+   "cacheId": "L7u9H_Su4doJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ga.gov.au/image_cache/GA11006.pdf",
+   "htmlFormattedUrl": "www.ga.gov.au/image_cache/GA11006.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20080213114321+11'00'",
+      "creationdate": "D:20071219175051+11'00'",
+      "title": "Canberra",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "author": "Australian Seismological Centre",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "company": "DEETYA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "developing a common australasian earthquake loading standard",
+   "htmlTitle": "developing a common australasian \u003cb\u003eearthquake\u003c/b\u003e loading standard",
+   "link": "http://bulletin.nzsee.org.nz/28/4/0288",
+   "displayLink": "bulletin.nzsee.org.nz",
+   "snippet": "Part 4: Earthquake Loads\" [Standards Australia, 1993] was issued in 1993 and, ...   The Richter Magnitude 7.8 Napier earthquake of February 2nd. 1931 was the ...",
+   "htmlSnippet": "Part \u003cb\u003e4\u003c/b\u003e: \u003cb\u003eEarthquake\u003c/b\u003e Loads&quot; [Standards \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003e1993\u003c/b\u003e] was issued in \u003cb\u003e1993\u003c/b\u003e and, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The Richter Magnitude 7.8 Napier \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eFebruary\u003c/b\u003e 2nd. 1931 was the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jLdnq-d-LsgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bulletin.nzsee.org.nz/28/4/0288",
+   "htmlFormattedUrl": "bulletin.nzsee.org.nz/28/\u003cb\u003e4\u003c/b\u003e/0288",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Wed Feb 11 03:44:41 2009",
+      "creationdate": "Wed Feb 11 03:44:41 2009",
+      "producer": "ABBYY FineReader 9.0 Professional Edition"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "North Island, February 4, 1993",
+   "htmlTitle": "North Island, \u003cb\u003eFebruary 4, 1993\u003c/b\u003e",
+   "link": "http://philip.greenspun.com/nz/feb4",
+   "displayLink": "philip.greenspun.com",
+   "snippet": "Feb 4, 1993 ... February 4, from Cambridge, MA ... 2) Napier, a town levelled by an earthquake   around 1931 and rebuilt immediately in Art Deco splendour by ...",
+   "htmlSnippet": "Feb 4, 1993 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFebruary 4\u003c/b\u003e, from Cambridge, MA \u003cb\u003e...\u003c/b\u003e 2) Napier, a town levelled by an \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  around 1931 and rebuilt immediately in Art Deco splendour by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RCwRyqlFx5MJ",
+   "formattedUrl": "philip.greenspun.com/nz/feb4",
+   "htmlFormattedUrl": "philip.greenspun.com/nz/\u003cb\u003efeb4\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://philip.greenspun.com/nz/bay-of-islands-kayak-between-rocks.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "153",
+      "height": "102",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWfwUim8vRF62FdmSZW647_vYcqzVujKmfYkX2l_uZ3qCJLrBKZiH6wiM"
+     }
+    ]
+   }
+  }
+ ]
+}

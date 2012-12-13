@@ -1,0 +1,323 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 5 2001 North America Earthquake",
+    "totalResults": "809000",
+    "searchTerms": "Sep 5 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 5 2001 North America Earthquake",
+    "totalResults": "809000",
+    "searchTerms": "Sep 5 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.231882,
+  "formattedSearchTime": "0.23",
+  "totalResults": "809000",
+  "formattedTotalResults": "809,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 5 2001 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 5 2001 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Investigation of an Earthquake Swarm near Trinidad, Colorado ...",
+   "htmlTitle": "Investigation of an \u003cb\u003eEarthquake\u003c/b\u003e Swarm near Trinidad, Colorado \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://pubs.usgs.gov/of/2002/ofr-02-0073/ofr-02-0073.html",
+   "displayLink": "pubs.usgs.gov",
+   "snippet": "Feb 22, 2005 ... Between August 28 and September 21, 2001, the U.S. Geological ... New Mexico,   ~32 km (20 mi) north to Aquilar, Colorado, and ~32-48 .... Yet, of these 334   earthquakes, those recorded by less than 5 stations cannot be located reliably.   ..... January 1966, Bulletin of the Seismological Society of America, v.",
+   "htmlSnippet": "Feb 22, 2005 \u003cb\u003e...\u003c/b\u003e Between August 28 and \u003cb\u003eSeptember\u003c/b\u003e 21, \u003cb\u003e2001\u003c/b\u003e, the U.S. Geological \u003cb\u003e...\u003c/b\u003e New Mexico, \u003cbr\u003e  ~32 km (20 mi) \u003cb\u003enorth\u003c/b\u003e to Aquilar, Colorado, and ~32-48 \u003cb\u003e....\u003c/b\u003e Yet, of these 334 \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e, those recorded by less than \u003cb\u003e5\u003c/b\u003e stations cannot be located reliably. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e January 1966, Bulletin of the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e, v.",
+   "cacheId": "vn0jq7ny_mMJ",
+   "formattedUrl": "pubs.usgs.gov/of/2002/ofr-02-0073/ofr-02-0073.html",
+   "htmlFormattedUrl": "pubs.usgs.gov/of/2002/ofr-02-0073/ofr-02-0073.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://pubs.usgs.gov/of/2002/ofr-02-0073/images/image003.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgWd1Krwn2_aqDPtknRBWVoPeMtKWRTLGLjIvRw5kSBl9M0UGZYgu9SJI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of N America Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eN America\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/N_America_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Update time = Thu Dec 13 00:03:04 UTC 2012. Here is a list of the earthquakes   located by the USGS and contributing networks for the Map of N America Region ...",
+   "htmlSnippet": "Update time = Thu \u003cb\u003eDec\u003c/b\u003e 13 00:03:04 UTC 2012. Here is a list of the \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  located by the USGS and contributing networks for the Map of \u003cb\u003eN America\u003c/b\u003e Region \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LX2-MQ7UV7QJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/.../N_America_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/.../N_\u003cb\u003eAmerica\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Costa Rica earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 Costa Rica \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_Costa_Rica_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Epicenter, 9??59???46???N 85??19???05???W\ufeff / \ufeff9.996??N 85.318??W\ufeff / 9.996; -85.318 ... is   subducting along the Middle America Trench, and the Nicoya Peninsula is   unique in ... In the intervening period, up to 2010, there was an estimated 5 m of   missing ... The most powerful aftershock since the September earthquake, lasting   at ...",
+   "htmlSnippet": "Epicenter, 9??59???46???\u003cb\u003eN\u003c/b\u003e 85??19???05???W\ufeff / \ufeff9.996??N 85.318??W\ufeff / 9.996; -85.318 \u003cb\u003e...\u003c/b\u003e is \u003cbr\u003e  subducting along the Middle \u003cb\u003eAmerica\u003c/b\u003e Trench, and the Nicoya Peninsula is \u003cbr\u003e  unique in \u003cb\u003e...\u003c/b\u003e In the intervening period, up to 2010, there was an estimated \u003cb\u003e5\u003c/b\u003e m of \u003cbr\u003e  missing \u003cb\u003e...\u003c/b\u003e The most powerful aftershock since the \u003cb\u003eSeptember earthquake\u003c/b\u003e, lasting \u003cbr\u003e  at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "T0TnUIiDtOYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_Costa_Rica_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_Costa_Rica_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2012eartquakeincostarica.jpg/240px-2012eartquakeincostarica.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "224",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToOXPAjfh2RXK3FFSECRtyux52dgVMaXDyYW-c0FBsF0Qa9uIFesZ1JMA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Panels",
+   "htmlTitle": "Panels",
+   "link": "http://www.randomlengths.com/Story_Index/Random_Lengths_International/Panels.htm",
+   "displayLink": "www.randomlengths.com",
+   "snippet": "For the convenience of our subscribers, these indexes list ...",
+   "htmlSnippet": "For the convenience of our subscribers, these indexes list \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DgO18KoOvlgJ",
+   "formattedUrl": "www.randomlengths.com/Story_Index/Random.../Panels.htm",
+   "htmlFormattedUrl": "www.randomlengths.com/Story_Index/Random.../Panels.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1944 Cornwall-Massena earthquake - Wikipedia, the free ...",
+   "htmlTitle": "1944 Cornwall-Massena \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/1944_Cornwall-Massena_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1944 Cornwall-Massena earthquake is located in New York ... The 1944   Cornwall-Massena earthquake occurred on Tuesday, September 5, 1944, at   roughly ... and a crack in a deep alluvium north of Massena Center oozed water   and sand. ... 1944 earthquakes ?? St. Lawrence County, New York ?? 1944 in North   America ...",
+   "htmlSnippet": "1944 Cornwall-Massena \u003cb\u003eearthquake\u003c/b\u003e is located in New York \u003cb\u003e...\u003c/b\u003e The 1944 \u003cbr\u003e  Cornwall-Massena \u003cb\u003eearthquake\u003c/b\u003e occurred on Tuesday, \u003cb\u003eSeptember 5\u003c/b\u003e, 1944, at \u003cbr\u003e  roughly \u003cb\u003e...\u003c/b\u003e and a crack in a deep alluvium north of Massena Center oozed water \u003cbr\u003e  and sand. \u003cb\u003e...\u003c/b\u003e 1944 \u003cb\u003eearthquakes\u003c/b\u003e &middot; St. Lawrence County, New York &middot; 1944 in \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4vQOiEhmHhoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1944_Cornwall-Massena_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1944_Cornwall-Massena_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/1944_Cornwall_Massena_Isoseismal_Map.png/220px-1944_Cornwall_Massena_Isoseismal_Map.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "143",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwWR5gWfECtdcJ1z7WIeXwA_pOmiHWJg5l-CiSxRSI_xE-qPruubHBoXi-"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Costa Rica Earthquake Wednesday Today September 5 2012",
+   "htmlTitle": "Costa Rica \u003cb\u003eEarthquake\u003c/b\u003e Wednesday Today \u003cb\u003eSeptember 5\u003c/b\u003e 2012",
+   "link": "http://www.youtube.com/watch?v=hCsh29RxTkA",
+   "displayLink": "www.youtube.com",
+   "snippet": "Sep 5, 2012 ... A powerful, magnitude-7.6 earthquake shook Costa Rica and a wide swath of   Central America today, collapsing so. ... Published on Sep 5, 2012 ... Michelle   Landwer, owner of the Belvedere Hotel in Samara, north of the .... Alex Jones   Show : 9-11-2001 (Full 5 Hours)by ConspiracyScope4,290 views ?? Major ...",
+   "htmlSnippet": "Sep 5, 2012 \u003cb\u003e...\u003c/b\u003e A powerful, magnitude-7.6 \u003cb\u003eearthquake\u003c/b\u003e shook Costa Rica and a wide swath of \u003cbr\u003e  Central \u003cb\u003eAmerica\u003c/b\u003e today, collapsing so. \u003cb\u003e...\u003c/b\u003e Published on \u003cb\u003eSep 5\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e Michelle \u003cbr\u003e  Landwer, owner of the Belvedere Hotel in Samara, \u003cb\u003enorth\u003c/b\u003e of the \u003cb\u003e....\u003c/b\u003e Alex Jones \u003cbr\u003e  Show : 9-11-\u003cb\u003e2001\u003c/b\u003e (Full \u003cb\u003e5\u003c/b\u003e Hours)by ConspiracyScope4,290 views &middot; Major \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B_I0sKGwXJkJ",
+   "formattedUrl": "www.youtube.com/watch?v=hCsh29RxTkA",
+   "htmlFormattedUrl": "www.youtube.com/watch?v=hCsh29RxTkA",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i1.ytimg.com/vi/hCsh29RxTkA/mqdefault.jpg"
+     }
+    ],
+    "videoobject": [
+     {
+      "url": "http://www.youtube.com/watch?v=hCsh29RxTkA",
+      "name": "COSTA RICA EARTHQUAKE WEDNESDAY TODAY SEPTEMBER 5 2012",
+      "description": "http://www.youtube.com/user/CaptainTripps2010? A powerful, magnitude-7.6 earthquake shook Costa Rica and a wide swath of Central America today, collapsing so...",
+      "duration": "PT3M9S",
+      "unlisted": "False",
+      "paid": "False",
+      "thumbnailurl": "http://i1.ytimg.com/vi/hCsh29RxTkA/hqdefault.jpg",
+      "embedurl": "http://www.youtube.com/v/hCsh29RxTkA?version=3&autohide=1",
+      "playertype": "Flash",
+      "width": "1920",
+      "height": "1080",
+      "isfamilyfriendly": "False",
+      "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AN,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER..."
+     }
+    ],
+    "person": [
+     {
+      "url": "http://www.youtube.com/user/CaptainTripps2010"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "144",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFL5mi_PYvCs1YCH1IVU_Qi98q89v96tOjT28AglNkDLnuxzGfDRDy_Urz"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "COSTA RICA EARTHQUAKE WEDNESDAY TODAY SEPTEMBER 5 2012",
+      "og:url": "http://www.youtube.com/watch?v=hCsh29RxTkA",
+      "og:title": "COSTA RICA EARTHQUAKE WEDNESDAY TODAY SEPTEMBER 5 2012",
+      "og:description": "http://www.youtube.com/user/CaptainTripps2010? A powerful, magnitude-7.6 earthquake shook Costa Rica and a wide swath of Central America today, collapsing so...",
+      "og:type": "video",
+      "og:image": "http://i1.ytimg.com/vi/hCsh29RxTkA/mqdefault.jpg",
+      "og:video": "http://www.youtube.com/v/hCsh29RxTkA?version=3&autohide=1",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video:width": "1920",
+      "og:video:height": "1080",
+      "og:site_name": "YouTube",
+      "fb:app_id": "87741124305",
+      "twitter:player:width": "1920",
+      "twitter:player:height": "1080",
+      "og:restrictions:age": "18+",
+      "attribution": "CaptainTripps2010%2Buser/"
+     }
+    ],
+    "imageobject": [
+     {
+      "url": "http://i1.ytimg.com/vi/hCsh29RxTkA/mqdefault.jpg",
+      "width": "320",
+      "height": "180"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Washington",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Washington",
+   "link": "http://www.dnr.wa.gov/researchscience/topics/geologichazardsmapping/pages/earthquakes.aspx",
+   "displayLink": "www.dnr.wa.gov",
+   "snippet": "For the February 28, 2001, Nisqually earthquake, the hypocenter, or point ... The   quake was felt as far north as Vancouver, British Columbia, as far south as ...",
+   "htmlSnippet": "For the February 28, \u003cb\u003e2001\u003c/b\u003e, Nisqually \u003cb\u003eearthquake\u003c/b\u003e, the hypocenter, or point \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e was felt as far \u003cb\u003enorth\u003c/b\u003e as Vancouver, British Columbia, as far south as \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.dnr.wa.gov/researchscience/topics/.../pages/earthquakes.aspx",
+   "htmlFormattedUrl": "www.dnr.wa.gov/researchscience/topics/.../pages/\u003cb\u003eearthquakes\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dnr.wa.gov/SiteCollectionImages/Places/ger_hazards_quakeblks.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgIR3rsN7T0ToZ3kphQngGS4_BTRqUHHbHtBpuTlxhSjMaOfnWN_muXo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stephen D. Malone Bibliography",
+   "htmlTitle": "Stephen D. Malone Bibliography",
+   "link": "http://earthweb.ess.washington.edu/malone/Malone_Bib_Pubs.pdf",
+   "displayLink": "earthweb.ess.washington.edu",
+   "snippet": "Amer. Geophys. Un., 51, 11 ( abs), 1970. ??? Boucher, G., S. D. Malone, and F.   Homuth, Strain ... data and the location of the 1872 North Cascades earthquake,   Bull. ...... Seismic System (ANSS) in Golden, CO, Sep 5, 2001 on Status of the   PNW ...",
+   "htmlSnippet": "\u003cb\u003eAmer\u003c/b\u003e. Geophys. Un., 51, 11 ( abs), 1970. ??? Boucher, G., S. D. Malone, and F. \u003cbr\u003e  Homuth, Strain \u003cb\u003e...\u003c/b\u003e data and the location of the 1872 \u003cb\u003eNorth\u003c/b\u003e Cascades \u003cb\u003eearthquake\u003c/b\u003e, \u003cbr\u003e  Bull. \u003cb\u003e......\u003c/b\u003e \u003cb\u003eSeismic\u003c/b\u003e System (ANSS) in Golden, CO, \u003cb\u003eSep 5, 2001\u003c/b\u003e on Status of the \u003cbr\u003e  PNW \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dSSBMLASfdsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthweb.ess.washington.edu/malone/Malone_Bib_Pubs.pdf",
+   "htmlFormattedUrl": "earthweb.ess.washington.edu/malone/Malone_Bib_Pubs.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Malone_Bib_Pubs",
+      "author": "Steve Malone",
+      "creator": "Microsoft Word",
+      "producer": "Mac OS X 10.5.8 Quartz PDFContext",
+      "creationdate": "D:20100927203040Z00'00'",
+      "moddate": "D:20100927203040Z00'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Focal Mechanisms for Recent Earthquakes in the ANSS Mid ...",
+   "htmlTitle": "Focal Mechanisms for Recent \u003cb\u003eEarthquakes\u003c/b\u003e in the ANSS Mid \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://adsabs.harvard.edu/abs/2002AGUFM.S21B0986H",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "Focal Mechanisms for Recent Earthquakes in the ANSS Mid-America Region ...   7215 Earthquake parameters, 7260 Theory and modeling, 9350 North America ...   Oklahoma and September 5, 2001 MW=5 Trinidad, Colorado earthquakes for ...",
+   "htmlSnippet": "Focal Mechanisms for Recent \u003cb\u003eEarthquakes\u003c/b\u003e in the ANSS Mid-America Region \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  7215 \u003cb\u003eEarthquake\u003c/b\u003e parameters, 7260 Theory and modeling, 9350 \u003cb\u003eNorth America\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Oklahoma and \u003cb\u003eSeptember 5, 2001\u003c/b\u003e MW=5 Trinidad, Colorado \u003cb\u003eearthquakes\u003c/b\u003e for \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "adsabs.harvard.edu/abs/2002AGUFM.S21B0986H",
+   "htmlFormattedUrl": "adsabs.harvard.edu/abs/2002AGUFM.S21B0986H",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/2002AGUFM.S21B0986H",
+      "citation_title": "Focal Mechanisms for Recent Earthquakes in the ANSS Mid-America Region",
+      "citation_authors": "Herrmann, R. B.; Ammon, C. J.; Leyton, F.; Fatehi, A.",
+      "citation_keywords": "7205 Continental crust (1242), 7215 Earthquake parameters, 7260 Theory and modeling, 9350 North America",
+      "citation_date": "12/2002",
+      "citation_journal_title": "AGU Fall Meeting Abstracts",
+      "citation_firstpage": "0986",
+      "prism.publicationname": "AGU Fall Meeting Abstracts",
+      "prism.volume": "-1",
+      "prism.startingpage": "0986",
+      "dc.language": "en",
+      "dc.date": "2002-12",
+      "dc.source": "American Geophysical Union, Fall Meeting 2002, abstract #S21B-0986",
+      "dc.title": "Focal Mechanisms for Recent Earthquakes in the ANSS Mid-America Region",
+      "dc.creator": "Herrmann, R. B."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Investment Management No-Action and Interpretive Letters",
+   "htmlTitle": "Investment Management No-Action and Interpretive Letters",
+   "link": "http://www.sec.gov/divisions/investment/im-noaction.shtml",
+   "displayLink": "www.sec.gov",
+   "snippet": "North American Security Trust and NASL Series Trust, February 2, 1993.   Affiliated ...... Large Scale Distributed Generation II Statutory Trust, September 5,   2001 ...",
+   "htmlSnippet": "\u003cb\u003eNorth American\u003c/b\u003e Security Trust and NASL Series Trust, February 2, 1993. \u003cbr\u003e  Affiliated \u003cb\u003e......\u003c/b\u003e Large Scale Distributed Generation II Statutory Trust, \u003cb\u003eSeptember 5\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0di6tZW17kEJ",
+   "formattedUrl": "www.sec.gov/divisions/investment/im-noaction.shtml",
+   "htmlFormattedUrl": "www.sec.gov/divisions/investment/im-noaction.shtml"
+  }
+ ]
+}

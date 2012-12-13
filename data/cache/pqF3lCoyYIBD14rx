@@ -1,0 +1,342 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 25 1983 South America Earthquake",
+    "totalResults": "401000",
+    "searchTerms": "Dec 25 1983 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 25 1983 South America Earthquake",
+    "totalResults": "401000",
+    "searchTerms": "Dec 25 1983 South America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.322754,
+  "formattedSearchTime": "0.32",
+  "totalResults": "401000",
+  "formattedTotalResults": "401,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : \u003cb\u003eSouth\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 8, 2012 at 8:10 am by By Armand Vervaeck and James   Daniell ... to trough) 85 cm. at Yakutat and 25 cm. at Sitka, Alaska; 15 cm. at Hilo,   12 cm. at Nawiliwili ..... Belgium, 1983 - Magnitude : 4.9 ??? 1 person killed ..... The   longest mountain range is the Andes of South America which is 7564 km (4700 ...",
+   "htmlSnippet": "Last update: \u003cb\u003eDecember\u003c/b\u003e 8, 2012 at 8:10 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e...\u003c/b\u003e to trough) 85 cm. at Yakutat and \u003cb\u003e25\u003c/b\u003e cm. at Sitka, Alaska; 15 cm. at Hilo, \u003cbr\u003e  12 cm. at Nawiliwili \u003cb\u003e.....\u003c/b\u003e Belgium, \u003cb\u003e1983\u003c/b\u003e - Magnitude : 4.9 ??? 1 person killed \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  longest mountain range is the Andes of \u003cb\u003eSouth America\u003c/b\u003e which is 7564 km (4700 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1983",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 7.4,   AFGHANISTAN, Dec 30 1983, 23:52:41 UTC, 36.386, 70.712, 198312302352 ...   4.6, SOUTH AFRICA, Dec 25 1983, 07:51:01, -26.312, 27.273, 198312250751   ..... In partnership with nehrp ?? Take Pride in America ?? USA.gov ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 7.4, \u003cbr\u003e  AFGHANISTAN, Dec 30 1983, 23:52:41 UTC, 36.386, 70.712, 198312302352 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  4.6, \u003cb\u003eSOUTH\u003c/b\u003e AFRICA, \u003cb\u003eDec 25 1983\u003c/b\u003e, 07:51:01, -26.312, 27.273, 198312250751 \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e &middot; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AokcW-QSwnAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1983",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1983\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report",
+   "link": "http://earthquake-report.com/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "07.12.2012 ??? A massive M7.3 earthquake struck the Honshu, Japan coast , but   luckily far out in the sea. Tsunami alert for 1 prefecture and more tsunami ...",
+   "htmlSnippet": "07.12.2012 ??? A massive M7.3 \u003cb\u003eearthquake\u003c/b\u003e struck the Honshu, Japan coast , but \u003cbr\u003e  luckily far out in the sea. Tsunami alert for 1 prefecture and more tsunami \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_sc9WSRNqbUJ",
+   "formattedUrl": "earthquake-report.com/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-11-at-03.01.16-110x110.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "88",
+      "height": "88",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1x_5Zz5w3CJeXhHC4KPFPg8IB7BfrCXfF79u2EOqDn4NgA_8kyHtb6w"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on December 25 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eDecember 25\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/dec25.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "December 25, 0336 The first1st recorded celebration of Christmas on Dec 25   occurs ... December 25, 1837 Battle of Lake Okeechobee: United States forces   defeat Seminole Native Americans. ... December 25, 1932 \"A magnitude 7.6   earthquake in Gansu, China kills ... December 25, 1983 Live telecast of   Christmas Parade ...",
+   "htmlSnippet": "December 25, 0336 The first1st recorded celebration of Christmas on Dec 25 \u003cbr\u003e  occurs \u003cb\u003e...\u003c/b\u003e December 25, 1837 Battle of Lake Okeechobee: United States forces \u003cbr\u003e  defeat Seminole Native \u003cb\u003eAmericans\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e December 25, 1932 &quot;A magnitude 7.6 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in Gansu, China kills \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember 25, 1983\u003c/b\u003e Live telecast of \u003cbr\u003e  Christmas Parade \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6KfUp9JVvGYJ",
+   "formattedUrl": "www.datesinhistory.com/dec25.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003edec25\u003c/b\u003e.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.datesinhistory.com/images/trivia-quiz.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "52",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzQXfxhdBylgplicgIGrVL90fJSA4n5ztBaC6yyTmPvDRuH6tCq6N4NQ"
+     }
+    ],
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jamaica earthquake list",
+   "htmlTitle": "Jamaica \u003cb\u003eearthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 27, 2012 ... In depth articles on Jamaica earthquakes written by Earthquake-Report.com -   soon to come if any. No listed earthquakes means that there were ...",
+   "htmlSnippet": "Apr 27, 2012 \u003cb\u003e...\u003c/b\u003e In depth articles on Jamaica \u003cb\u003eearthquakes\u003c/b\u003e written by \u003cb\u003eEarthquake\u003c/b\u003e-Report.com - \u003cbr\u003e  soon to come if any. No listed \u003cb\u003eearthquakes\u003c/b\u003e means that there were \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VNjkeO-jsS8J",
+   "formattedUrl": "earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/04/27/jamaica-\u003cb\u003eearthquake\u003c/b\u003e-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in South America",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eSouth America\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/v/southamerica/biggest",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The Largest Earthquakes in South America. ... Biggest Earthquakes Near South   America. Recent Quakes .... F. over 25 years ago, 7.3 magnitude, 62 km depth ...",
+   "htmlSnippet": "The Largest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eSouth America\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Biggest \u003cb\u003eEarthquakes\u003c/b\u003e Near \u003cb\u003eSouth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e. Recent Quakes \u003cb\u003e....\u003c/b\u003e F. over \u003cb\u003e25\u003c/b\u003e years ago, 7.3 magnitude, 62 km depth \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4IMKfZTkGl0J",
+   "formattedUrl": "earthquaketrack.com/v/southamerica/biggest",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/\u003cb\u003esouthamerica\u003c/b\u003e/biggest",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ogZu9O8P6JUbafuHeyM1RPs6kIDYin8N5Qrz7DZRNnI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "01902-09-19September 19, 1902, Warooka, South Australia, Australia, 2, 6.0, ML  , USGS ... see December 1911 Guerrero earthquake, 17.00, ???100.50, 7.6, Mw,   USGS ... Canada, 49.62, ???125.92, 7, ML (Gutenberg and Richter, 1954: Rogers,   1983), USGS ... See 1928 Chachapoyas earthquake, ???5.26, ???78.56, 25, 7.2, Mw ...",
+   "htmlSnippet": "01902-09-19September 19, 1902, Warooka, \u003cb\u003eSouth\u003c/b\u003e Australia, Australia, 2, 6.0, ML\u003cbr\u003e  , USGS \u003cb\u003e...\u003c/b\u003e see \u003cb\u003eDecember\u003c/b\u003e 1911 Guerrero \u003cb\u003eearthquake\u003c/b\u003e, 17.00, ???100.50, 7.6, Mw, \u003cbr\u003e  USGS \u003cb\u003e...\u003c/b\u003e Canada, 49.62, ???125.92, 7, ML (Gutenberg and Richter, 1954: Rogers, \u003cbr\u003e  \u003cb\u003e1983\u003c/b\u003e), USGS \u003cb\u003e...\u003c/b\u003e See 1928 Chachapoyas \u003cb\u003eearthquake\u003c/b\u003e, ???5.26, ???78.56, \u003cb\u003e25\u003c/b\u003e, 7.2, Mw \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colombia Earthquake: Deep 7.1 Quake Reported In Colombia",
+   "htmlTitle": "Colombia \u003cb\u003eEarthquake\u003c/b\u003e: Deep 7.1 Quake Reported In Colombia",
+   "link": "http://www.huffingtonpost.com/2012/09/30/colombia-earthquake_n_1927055.html",
+   "displayLink": "www.huffingtonpost.com",
+   "snippet": "Sep 30, 2012 ... BOGOTA, Colombia ??? A powerful 7.1-magnitude earthquake ... December 8,   2012 .... center was largely reconstructed after a March 1983 quake that killed at   least 250 people. ... 194 people in the South Pacific, including 34 in American   Samoa. ... The tremor kills at least 25 people and injures around 50.",
+   "htmlSnippet": "Sep 30, 2012 \u003cb\u003e...\u003c/b\u003e BOGOTA, Colombia ??? A powerful 7.1-magnitude \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember\u003c/b\u003e 8, \u003cbr\u003e  2012 \u003cb\u003e....\u003c/b\u003e center was largely reconstructed after a March \u003cb\u003e1983\u003c/b\u003e quake that killed at \u003cbr\u003e  least 250 people. \u003cb\u003e...\u003c/b\u003e 194 people in the \u003cb\u003eSouth\u003c/b\u003e Pacific, including 34 in \u003cb\u003eAmerican\u003c/b\u003e \u003cbr\u003e  Samoa. \u003cb\u003e...\u003c/b\u003e The tremor kills at least \u003cb\u003e25\u003c/b\u003e people and injures around 50.",
+   "cacheId": "Q0nbN1PTNZEJ",
+   "formattedUrl": "www.huffingtonpost.com/.../colombia-earthquake_n_1927055.html",
+   "htmlFormattedUrl": "www.huffingtonpost.com/.../colombia-\u003cb\u003eearthquake\u003c/b\u003e_n_1927055.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.huffpost.com/gen/794564/thumbs/o-COLOMBIA-EARTHQUAKE-facebook.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEALlJ9D3iCHDnQHkJ7Z1VIXrmDEmTujnJlC-X6rhOXvjvTXv9z7I4zH8"
+     }
+    ],
+    "article": [
+     {
+      "keywords": "Colombia, Video, U.S. Geological Survey, Colombia Earthquake, Colombia Quake, Earthquakes, Popayan, Popayan Colombia, Usgs, World News",
+      "articlebody": "BOGOTA, Colombia ??? A powerful 7.1-magnitude earthquake centered nearly 100 miles underground rattled southwestern Colombia on Sunday but no damage or injuries were reported. The quake struck..."
+     }
+    ],
+    "Image": [
+     {
+      "title": "BOGOTA, Colombia &mdash; A powerful 7.1-magnitude earthquake centered nearly 100 miles underground rattled southwestern Colombia on Sunday but no damage or injuries were reported. The quake...",
+      "description": "BOGOTA, Colombia &mdash; A powerful 7.1-magnitude earthquake centered nearly 100 miles underground rattled southwestern Colombia on Sunday but no damage or injuries were reported. The quake..."
+     }
+    ],
+    "Agent": [
+     {
+      "name": "Video",
+      "homepage": "Video"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:url": "http://www.huffingtonpost.com/2012/09/30/colombia-earthquake_n_1927055.html",
+      "og:description": "BOGOTA, Colombia &mdash; A powerful 7.1-magnitude earthquake centered nearly 100 miles underground rattled southwestern Colombia on Sunday but no damage or injuries were reported. The quake struck at 11:31 a.m. local time 30 miles (48 kilometers) from the regional capital of Popayan and was felt in Bogota as well as 10 of Colombia's 32 states.",
+      "og:locale": "en_US",
+      "og:site_name": "The Huffington Post",
+      "og:title": "7.1-Magnitude Quake Reported In Colombia",
+      "fb:app_id": "46744042133",
+      "category": "World",
+      "author": "AP",
+      "article:section": "World",
+      "publish_date": "Sun, 30 Sep 2012 13:09:56 EST",
+      "image": "http://i.huffpost.com/gen/794564/thumbs/s-COLOMBIA-EARTHQUAKE-small.jpg",
+      "og:image": "http://i.huffpost.com/gen/794564/thumbs/o-COLOMBIA-EARTHQUAKE-facebook.jpg"
+     }
+    ],
+    "Group": [
+     {
+      "name": "Colombia",
+      "homepage": "Colombia"
+     }
+    ],
+    "Person": [
+     {
+      "name": "Earthquakes",
+      "homepage": "Earthquakes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Historical earthquakes is a list of significant earthquakes from before the 20th   century. ... December 22, 856 (aftershocks for about a year), Qumis, Iran. ...   Catalan earthquake of 1428, 42.4, 2.2, 1,000s, VIII???IX, Sometimes called the   terratr??mol de la candelera .... November 25, 1759, 19:23 local time, Eastern   Mediterranean ...",
+   "htmlSnippet": "Historical \u003cb\u003eearthquakes\u003c/b\u003e is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e from before the 20th \u003cbr\u003e  century. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember\u003c/b\u003e 22, 856 (aftershocks for about a year), Qumis, Iran. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Catalan \u003cb\u003eearthquake\u003c/b\u003e of 1428, 42.4, 2.2, 1,000\u003cb\u003es\u003c/b\u003e, VIII???IX, Sometimes called the \u003cbr\u003e  terratr??mol de la candelera \u003cb\u003e....\u003c/b\u003e November \u003cb\u003e25\u003c/b\u003e, 1759, 19:23 local time, Eastern \u003cbr\u003e  Mediterranean \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan News",
+   "htmlTitle": "Japan News",
+   "link": "http://topics.nytimes.com/top/news/international/countriesandterritories/japan/index.html",
+   "displayLink": "topics.nytimes.com",
+   "snippet": "Nov 26, 2012 ... In many ways, Japan is still reeling from the devastating earthquake and tsunami   of ... house of Parliament, setting the scene for elections in December 2012. ....   estate, where the average price of a home is the same as it was in 1983. ... as far   away as the West Coast of the United States and South America.",
+   "htmlSnippet": "Nov 26, 2012 \u003cb\u003e...\u003c/b\u003e In many ways, Japan is still reeling from the devastating \u003cb\u003eearthquake\u003c/b\u003e and tsunami \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e house of Parliament, setting the scene for elections in \u003cb\u003eDecember\u003c/b\u003e 2012. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  estate, where the average price of a home is the same as it was in \u003cb\u003e1983\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e as far \u003cbr\u003e  away as the West Coast of the United States and \u003cb\u003eSouth America\u003c/b\u003e.",
+   "cacheId": "AmbEferUf_IJ",
+   "formattedUrl": "topics.nytimes.com/top/news/international/.../japan/index.html",
+   "htmlFormattedUrl": "topics.nytimes.com/top/news/international/.../japan/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/03/12/timestopics/japan-topics/japan-topics-sfSpan.jpg",
+      "type": "1",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/03/12/timestopics/japan-topics/japan-topics-sfSpan.jpg",
+      "width": "395",
+      "height": "259"
+     }
+    ],
+    "metatags": [
+     {
+      "name": "Japan",
+      "node": "Top/News/World/Countries and Territories/Japan",
+      "path": "top/news/international/countriesandterritories/japan",
+      "dsk": "World",
+      "summary": "\u003cp\u003e\u003cspan class=timestamp\u003eUpdated: Nov. 26, 2012\u003c/span\u003e\u003c/p\u003e \u003cp\u003eIn many ways, Japan is still reeling from the devastating earthquake and tsunami of March 11, 2011, and the nuclear crisis and huge leaks of radiation it set off.\u003c/p\u003e \u003cp\u003eThe disaster led to soul searching in a nation already worn down by two lost decades of economic growth, a rapidly aging and shrinking population, and the rapid rise of its longtime rival, China.\u003c/p\u003e \u003cp\u003eYears of political paralysis continued after the disaster, with \u003ca href=http://topics.nytimes.com/top/reference/timestopics/people/k/naoto_kan/index.html?scp=1-spot&amp",
+      "k2id": "1124987358886",
+      "thumbnail": "http://graphics8.nytimes.com/images/2012/03/12/timestopics/japan-topics/japan-topics-sfSpan.jpg",
+      "thumbnail_height": "259",
+      "thumbnail_width": "395",
+      "pt": "Topic",
+      "cg": "World",
+      "gtn": "Japan",
+      "scg": "Destinations",
+      "pst": "Location"
+     }
+    ]
+   }
+  }
+ ]
+}

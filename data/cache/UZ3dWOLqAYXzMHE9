@@ -1,0 +1,357 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 29 1941 Australia Earthquake",
+    "totalResults": "75200",
+    "searchTerms": "Apr 29 1941 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 29 1941 Australia Earthquake",
+    "totalResults": "75200",
+    "searchTerms": "Apr 29 1941 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.21407,
+  "formattedSearchTime": "0.21",
+  "totalResults": "75200",
+  "formattedTotalResults": "75,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The largest earthquake to date in Western Australia was on 29 April 1941 at   Meeberrie at 01.35.39 am (Lat -26.90 and ...",
+   "htmlSnippet": "The largest \u003cb\u003eearthquake\u003c/b\u003e to date in Western \u003cb\u003eAustralia\u003c/b\u003e was on \u003cb\u003e29 April 1941\u003c/b\u003e at \u003cbr\u003e  Meeberrie at 01.35.39 am (Lat -26.90 and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Meeberrie, WA, April 1941",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Meeberrie, WA, \u003cb\u003eApril 1941\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_of_western_australia/wa_historical/meeberrie",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "May 24, 2004 ... At Magnitude 7.2, the Meeberrie earthquake of 29 April, 1941, is probably   Australia's largest known on-shore earthquake. It was not ...",
+   "htmlSnippet": "May 24, 2004 \u003cb\u003e...\u003c/b\u003e At Magnitude 7.2, the Meeberrie \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e29 April, 1941\u003c/b\u003e, is probably \u003cbr\u003e  \u003cb\u003eAustralia&#39;s\u003c/b\u003e largest known on-shore \u003cb\u003eearthquake\u003c/b\u003e. It was not \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Po3QXHsXpXAJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity...australia/wa.../meeberrie",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity...\u003cb\u003eaustralia\u003c/b\u003e/wa.../meeberrie",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=36442"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "202",
+      "height": "249",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrW8nobfnnY_ViGvjFf1KHcjYTr1R7Tfa1OjxWDBQqpeypi6wUIrODxBgF"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Meeberrie, WA, April 1941",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/49391",
+      "dc.date.modified": "2004-05-24",
+      "dc.date.created": "2004-04-15",
+      "dc.date.valid": "2005-05-24",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/49391",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What was Australia's worst earthquake",
+   "htmlTitle": "What was \u003cb\u003eAustralia&#39;s\u003c/b\u003e worst \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://wiki.answers.com/Q/What_was_Australia's_worst_earthquake",
+   "displayLink": "wiki.answers.com",
+   "snippet": "Australia's greatest magnitude earthquake to have occurred onshore was on 29   April 1941, when a 7.2 earthquake hit Meeberrie, a tiny township in the central ...",
+   "htmlSnippet": "\u003cb\u003eAustralia&#39;s\u003c/b\u003e greatest magnitude \u003cb\u003eearthquake\u003c/b\u003e to have occurred onshore was on \u003cb\u003e29\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApril 1941\u003c/b\u003e, when a 7.2 \u003cb\u003eearthquake\u003c/b\u003e hit Meeberrie, a tiny township in the central \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lGBQpqjfwicJ",
+   "formattedUrl": "wiki.answers.com/Q/What_was_Australia's_worst_earthquake",
+   "htmlFormattedUrl": "wiki.answers.com/Q/What_was_\u003cb\u003eAustralia&#39;s\u003c/b\u003e_worst_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://rxf.answcdn.com/includes/images/icons/a-icon.png"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Answers.com",
+      "url": "Answers.com"
+     },
+     {
+      "title": "Wiki Answers",
+      "url": "Wiki Answers"
+     },
+     {
+      "title": "Categories",
+      "url": "Categories"
+     },
+     {
+      "title": "Travel & Places",
+      "url": "Travel & Places"
+     },
+     {
+      "title": "Continents and Regions",
+      "url": "Continents and Regions"
+     },
+     {
+      "title": "Continents",
+      "url": "Continents"
+     },
+     {
+      "title": "Australia",
+      "url": "Australia"
+     }
+    ],
+    "metatags": [
+     {
+      "abtest": "mode_id=-1",
+      "fb:app_id": "168416999909992",
+      "og:site_name": "Answers.com",
+      "og:image": "http://rxf.answcdn.com/includes/images/icons/a-icon.png",
+      "og:title": "Answer to: What was Australia's worst earthquake?",
+      "og:description": "The most devastating earthquake in Australia was the one that hit Newcastle on 28 December 1989. The earthquake measured 5.6 on the Richter scale, and.",
+      "og:type": "answers-com:answer",
+      "og:url": "http://wiki.answers.com/Q/What_was_Australia's_worst_earthquake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jamaica earthquake list",
+   "htmlTitle": "Jamaica \u003cb\u003eearthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jamaica earthquake list. Last update: April 27, 2012 at 2:43 pm by By Armand   Vervaeck and James Daniell ?? Back to the Region / Country OVERVIEW page ...",
+   "htmlSnippet": "Jamaica \u003cb\u003eearthquake\u003c/b\u003e list. Last update: \u003cb\u003eApril\u003c/b\u003e 27, 2012 at 2:43 pm by By Armand \u003cbr\u003e  Vervaeck and James Daniell &middot; Back to the Region / Country OVERVIEW page \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VNjkeO-jsS8J",
+   "formattedUrl": "earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/04/27/jamaica-\u003cb\u003eearthquake\u003c/b\u003e-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e",
+   "link": "http://www.ayton.id.au/gary/Science/Geol_earthquakes.htm",
+   "displayLink": "www.ayton.id.au",
+   "snippet": "junction of the Indo-Australian Plate & the Pacific Plate - Alpine Fault NZ .... Apr   29, 1941, Meeberrie, WA - M7.0 - Australia's biggest onshore event; Sept 3, 1932, ...",
+   "htmlSnippet": "junction of the Indo-\u003cb\u003eAustralian\u003c/b\u003e Plate &amp; the Pacific Plate - Alpine Fault NZ \u003cb\u003e....\u003c/b\u003e \u003cb\u003eApr\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e29, 1941\u003c/b\u003e, Meeberrie, WA - M7.0 - \u003cb\u003eAustralia&#39;s\u003c/b\u003e biggest onshore event; Sept 3, 1932, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wfeMwnAq1vcJ",
+   "formattedUrl": "www.ayton.id.au/gary/Science/Geol_earthquakes.htm",
+   "htmlFormattedUrl": "www.ayton.id.au/gary/Science/Geol_\u003cb\u003eearthquakes\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ayton.id.au/gary/Science/_derived/Geol_volcanoes.htm_cmp_balance-dark-yellow-headings000_hbtn.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "51",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNll55B8pfrpRBy5sHKdczyNI_Uq6PbpoGi6RlCeojLdfrSM5fqzGg"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "balance-dark-yellow-headings 1000, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "AUSTRALIA earthquakes | World Earthquakes Live",
+   "htmlTitle": "\u003cb\u003eAUSTRALIA earthquakes\u003c/b\u003e | World \u003cb\u003eEarthquakes\u003c/b\u003e Live",
+   "link": "http://www.world-earthquakes.com/index.php?option=hist&zone=AUSTRALIA",
+   "displayLink": "www.world-earthquakes.com",
+   "snippet": "Review www.world-earthquakes.com on alexa.com ... Earthquake history in   AUSTRALIA for M6.5+ earthquakes: ... 1941-04-29, AUSTRALIA, 7.2, 1941 ...",
+   "htmlSnippet": "Review www.world-\u003cb\u003eearthquakes\u003c/b\u003e.com on alexa.com \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e history in \u003cbr\u003e  \u003cb\u003eAUSTRALIA\u003c/b\u003e for M6.5+ \u003cb\u003eearthquakes\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1941-04-29\u003c/b\u003e, \u003cb\u003eAUSTRALIA\u003c/b\u003e, 7.2, 1941 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_4DX8v940JkJ",
+   "formattedUrl": "www.world-earthquakes.com/index.php?option...AUSTRALIA",
+   "htmlFormattedUrl": "www.world-\u003cb\u003eearthquakes\u003c/b\u003e.com/index.php?option...\u003cb\u003eAUSTRALIA\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "World-Earthquakes.com",
+      "copyright": "Copyright (c)2009 World-Earthquakes.com",
+      "rating": "general"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "9/56 YEAR CYCLE: AUSTRALIAN EARTHQUAKES",
+   "htmlTitle": "9/56 YEAR CYCLE: \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.davidmcminn.com/eqpages/appendaust.htm",
+   "displayLink": "www.davidmcminn.com",
+   "snippet": "MAJOR AUSTRALIAN EARTHQUAKES 1870 - 2003 (mag =\u003e 6.0). Mag, Date.   Location. 7.6, November 19, 1906, Indian Ocean off WA. 7.1, April 29, 1941 ...",
+   "htmlSnippet": "MAJOR \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e 1870 - 2003 (mag =&gt; 6.0). Mag, Date. \u003cbr\u003e  Location. 7.6, November 19, 1906, Indian Ocean off WA. 7.1, \u003cb\u003eApril 29, 1941\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Pj3M1ZRiI8J",
+   "formattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "htmlFormattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Noteworthy earthquakes in Australia",
+   "htmlTitle": "Noteworthy \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.quakes.uq.edu.au/html/quake_info/list_aust.html",
+   "displayLink": "www.quakes.uq.edu.au",
+   "snippet": "1941 Apr 29. Meeberie (WA). 26.8 S. 116.1 E. 7.2. VIII. Largest onshore   earthquake in Australia. Caused minor damage in Perth some 600 km distant.   1954 Feb ...",
+   "htmlSnippet": "\u003cb\u003e1941 Apr 29\u003c/b\u003e. Meeberie (WA). 26.8 S. 116.1 E. 7.2. VIII. Largest onshore \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e. Caused minor damage in Perth some 600 km distant. \u003cbr\u003e  1954 Feb \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZMCKEoqrTNsJ",
+   "formattedUrl": "www.quakes.uq.edu.au/html/quake_info/list_aust.html",
+   "htmlFormattedUrl": "www.\u003cb\u003equake\u003c/b\u003es.uq.edu.au/html/\u003cb\u003equake\u003c/b\u003e_info/list_aust.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.quakes.uq.edu.au/html/quake_info/images/kent_hotel.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "270",
+      "height": "186",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5RHLtej8Xf6F4gY-5DvkKj27Jjy_OtvWHds9wL4qAxxr6jgDqWdbCzng"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australia's worst earthquakes: top 10 most devastating - Australian ...",
+   "htmlTitle": "\u003cb\u003eAustralia&#39;s\u003c/b\u003e worst \u003cb\u003eearthquakes\u003c/b\u003e: top 10 most devastating - \u003cb\u003eAustralian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.australiangeographic.com.au/journal/australias-worst-earthquakes-top-10-most-devastating.htm",
+   "displayLink": "www.australiangeographic.com.au",
+   "snippet": "Jul 10, 2012 ... 7. Meeberrie, Western Australia, 29 April 1941 (Magnitude 7.2) Australia's most   powerful onshore earthquake to date hit Meeberrie in 1941.",
+   "htmlSnippet": "Jul 10, 2012 \u003cb\u003e...\u003c/b\u003e 7. Meeberrie, Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003e29 April 1941\u003c/b\u003e (Magnitude 7.2) \u003cb\u003eAustralia&#39;s\u003c/b\u003e most \u003cbr\u003e  powerful onshore \u003cb\u003eearthquake\u003c/b\u003e to date hit Meeberrie in 1941.",
+   "cacheId": "EcyP2GgfKjMJ",
+   "formattedUrl": "www.australiangeographic.com.au/.../australias-worst-earthquakes-top-10- most-devastating.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003eaustralian\u003c/b\u003egeographic.com.au/.../\u003cb\u003eaustralias\u003c/b\u003e-worst-\u003cb\u003eearthquakes\u003c/b\u003e-top-10- most-devastating.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "209",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlg8_OIjgcNebdL7N4vyhhGcMAiqTyf4CIY1s3_LkTKzBtigNrzmiSn7lQ"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "distribution": "global",
+      "og:title": "Australia's worst earthquakes",
+      "og:description": "Australia has few big earthquakes, but some of them have caused great devastation. Here are the 10 most significant.",
+      "og:image": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WA sits on deadly fault line | Perth Now",
+   "htmlTitle": "WA sits on deadly fault line | Perth Now",
+   "link": "http://www.perthnow.com.au/news/western-australia/wa-sits-on-deadly-fault-line/story-e6frg14u-1225782494162",
+   "displayLink": "www.perthnow.com.au",
+   "snippet": "Oct 3, 2009 ... But at magnitude 7.2, the Meeberrie earthquake, 690km northeast of Perth on   April 29, 1941, is Australia's biggest. Subscribe to our Email ...",
+   "htmlSnippet": "Oct 3, 2009 \u003cb\u003e...\u003c/b\u003e But at magnitude 7.2, the Meeberrie \u003cb\u003eearthquake\u003c/b\u003e, 690km northeast of Perth on \u003cbr\u003e  \u003cb\u003eApril 29, 1941\u003c/b\u003e, is \u003cb\u003eAustralia&#39;s\u003c/b\u003e biggest. Subscribe to our Email \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.perthnow.com.au/news/...australia/.../story-e6frg14u-1225782494162",
+   "htmlFormattedUrl": "www.perthnow.com.au/news/...\u003cb\u003eaustralia\u003c/b\u003e/.../story-e6frg14u-1225782494162",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://resources2.news.com.au/images/2009/10/03/1225782/494154-quake-039-could-destroy-perth-039-.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "89",
+      "height": "66",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtGmqJQ9PoC9ddU4FR4IFg8jVXXLqYhcpunfU1wVXQpxLZdV97sggl9g"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://resources2.news.com.au/images/2009/10/03/1225782/494154-quake-039-could-destroy-perth-039-.jpg",
+      "og:title": "WA sits on deadly fault line",
+      "og:type": "article",
+      "og:url": "http://www.perthnow.com.au/news/western-australia/wa-sits-on-deadly-fault-line/story-e6frg14u-1225782494162",
+      "og:site_name": "PerthNow",
+      "fb:app_id": "135447496484311",
+      "fb:admins": "100000875899514",
+      "og:description": "ONE of the world's biggest fault lines runs through WA's back yard.",
+      "og:country-name": "Australia"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 9 1996 Asia Earthquake",
+    "totalResults": "463000",
+    "searchTerms": "Nov 9 1996 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 9 1996 Asia Earthquake",
+    "totalResults": "463000",
+    "searchTerms": "Nov 9 1996 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.28135,
+  "formattedSearchTime": "0.28",
+  "totalResults": "463000",
+  "formattedTotalResults": "463,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Destroyed 13 cities in Asia (minor), Described by the historians Tacitus and Pliny   the Elder .... see 1700 Cascadia earthquake, 9, M (Satake et al., 1996), USGS.   January 14, 1703 ... November 25, 1759, 19:23 local time, Eastern   Mediterranean ...",
+   "htmlSnippet": "Destroyed 13 cities in \u003cb\u003eAsia\u003c/b\u003e (minor), Described by the historians Tacitus and Pliny \u003cbr\u003e  the Elder \u003cb\u003e....\u003c/b\u003e see 1700 Cascadia \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e9\u003c/b\u003e, M (Satake et al., \u003cb\u003e1996\u003c/b\u003e), USGS. \u003cbr\u003e  January 14, 1703 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNovember\u003c/b\u003e 25, 1759, 19:23 local time, Eastern \u003cbr\u003e  Mediterranean \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Selected earthquakes of general historic interest. .... 2007 07 16 - Near the west   coast of Honshu, Japan - M 6.6 Fatalities 9; 2007 07 02 - Central California - M   4.3 ..... 1997 05 10 - Northern Iran - M 7.3 Fatalities 1,567; 1996 06 10 -   Andreanof Islands, Alaska - M 7.9 ..... Page Last Modified: November 01, 2012 15  :15:20 UTC ...",
+   "htmlSnippet": "Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e....\u003c/b\u003e 2007 07 16 - Near the west \u003cbr\u003e  coast of Honshu, Japan - M 6.6 Fatalities \u003cb\u003e9\u003c/b\u003e; 2007 07 02 - Central California - M \u003cbr\u003e  4.3 \u003cb\u003e.....\u003c/b\u003e 1997 05 10 - Northern Iran - M 7.3 Fatalities 1,567; \u003cb\u003e1996\u003c/b\u003e 06 10 - \u003cbr\u003e  Andreanof Islands, Alaska - M 7.9 \u003cb\u003e.....\u003c/b\u003e Page Last Modified: \u003cb\u003eNovember\u003c/b\u003e 01, 2012 15\u003cbr\u003e  :15:20 UTC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami fears unfounded after strong earthquake strikes Japan ...",
+   "htmlTitle": "Tsunami fears unfounded after strong \u003cb\u003eearthquake\u003c/b\u003e strikes Japan \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.independent.co.uk/news/world/asia/tsunami-fears-unfounded-after-strong-earthquake-strikes-japan-8392378.html",
+   "displayLink": "www.independent.co.uk",
+   "snippet": "2 days ago ... A strong earthquake struck the same Japanese coast that was devastated by last   year's massive quake and tsunami, but despite ...",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e A strong \u003cb\u003eearthquake\u003c/b\u003e struck the same Japanese coast that was devastated by last \u003cbr\u003e  year&#39;s massive \u003cb\u003equake\u003c/b\u003e and tsunami, but despite \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kIVakHzcN_oJ",
+   "formattedUrl": "www.independent.co.uk/.../asia/tsunami-fears-unfounded-after-strong- earthquake-strikes-japan-8392378.html",
+   "htmlFormattedUrl": "www.independent.co.uk/.../\u003cb\u003easia\u003c/b\u003e/tsunami-fears-unfounded-after-strong- \u003cb\u003eearthquake\u003c/b\u003e-strikes-japan-8392378.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.independent.co.uk/incoming/article8393570.ece/BINARY/original/tsunami.afp.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Tsunami fears unfounded after strong earthquake strikes Japan",
+      "og:type": "article",
+      "og:image": "http://www.independent.co.uk/incoming/article8393570.ece/BINARY/original/tsunami.afp.jpg",
+      "og:description": "A strong earthquake struck the same Japanese coast that was devastated by last year's massive quake and tsunami, but despite understandable fears it generated only small waves, with no immediate reports of heavy damage.",
+      "article:tag": "Meteorology",
+      "article:published_time": "2012-12-07",
+      "article:section": "Asia",
+      "og:url": "http://www.independent.co.uk/news/world/asia/tsunami-fears-unfounded-after-strong-earthquake-strikes-japan-8392378.html",
+      "fb:app_id": "235586169789578",
+      "fb:admins": "36903991,100001802971061,500243253",
+      "og:site_name": "The Independent",
+      "og:locale": "en_GB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes, Floods and Landslides",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e, Floods and Landslides",
+   "link": "http://www.icsu.org/icsu-asia/publications/science-planning-reports/science-plan-on-hazards-and-disasters/Earthquake-%20Floods%20-%20Landslides.pdf",
+   "displayLink": "www.icsu.org",
+   "snippet": "ICSU Regional Office for Asia and the Pacific was inaugurated on the 19   September by the Deputy Prime Minister of Malaysia, Y.A.B. ... 9. Hazard   Mapping. 9. Earthquake Scenarios. 10. Prevention and Mitigation. 10 ..... work for   ROAP at its inauguration meeting in November 2006. ...... landslides (Cruden and   Varnes 1996) ...",
+   "htmlSnippet": "ICSU Regional Office for \u003cb\u003eAsia\u003c/b\u003e and the Pacific was inaugurated on the 19 \u003cbr\u003e  September by the Deputy Prime Minister of Malaysia, Y.A.B. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e9\u003c/b\u003e. Hazard \u003cbr\u003e  Mapping. \u003cb\u003e9\u003c/b\u003e. \u003cb\u003eEarthquake\u003c/b\u003e Scenarios. 10. Prevention and Mitigation. 10 \u003cb\u003e.....\u003c/b\u003e work for \u003cbr\u003e  ROAP at its inauguration meeting in \u003cb\u003eNovember\u003c/b\u003e 2006. \u003cb\u003e......\u003c/b\u003e landslides (Cruden and \u003cbr\u003e  Varnes \u003cb\u003e1996\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gkywd6I53kEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.icsu.org/...asia/.../Earthquake-%20Floods%20-%20Landslides.pdf",
+   "htmlFormattedUrl": "www.icsu.org/...\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-%20Floods%20-%20Landslides.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081128230311-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20081129072011+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami alert lifted after major earthquake off north-eastern Japan ...",
+   "htmlTitle": "Tsunami alert lifted after major \u003cb\u003eearthquake\u003c/b\u003e off north-eastern Japan \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.independent.co.uk/news/world/asia/strong-earthquake-sparks-tsunami-alert-after-striking-off-northeastern-japan-8392378.html",
+   "displayLink": "www.independent.co.uk",
+   "snippet": "2 days ago ... A strong earthquake struck Friday off the coast of north-eastern Japan in the   same region that was hit by a massive earthquake and tsunami last ...",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e A strong \u003cb\u003eearthquake\u003c/b\u003e struck Friday off the coast of north-eastern Japan in the \u003cbr\u003e  same region that was hit by a massive \u003cb\u003eearthquake\u003c/b\u003e and tsunami last \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9hDDlVSiiVwJ",
+   "formattedUrl": "www.independent.co.uk/.../asia/strong-earthquake-sparks-tsunami-alert-after- striking-off-northeastern-japan-8392378.html",
+   "htmlFormattedUrl": "www.independent.co.uk/.../\u003cb\u003easia\u003c/b\u003e/strong-\u003cb\u003eearthquake\u003c/b\u003e-sparks-tsunami-alert-after- striking-off-northeastern-japan-8392378.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.independent.co.uk/incoming/article8392567.ece/BINARY/original/japan1.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Tsunami alert lifted after major earthquake off north-eastern Japan",
+      "og:type": "article",
+      "og:image": "http://www.independent.co.uk/incoming/article8392567.ece/BINARY/original/japan1.jpg",
+      "og:description": "A strong earthquake struck Friday off the coast of north-eastern Japan in the same region that was hit by a massive earthquake and tsunami last year. A city in the region reported that a small tsunami had hit, but there were no immediate reports of injuries or damage.",
+      "article:tag": "Meteorology",
+      "article:published_time": "2012-12-07",
+      "article:section": "Asia",
+      "og:url": "http://www.independent.co.uk/news/world/asia/tsunami-alert-lifted-after-major-earthquake-off-northeastern-japan-8392378.html",
+      "fb:app_id": "235586169789578",
+      "fb:admins": "36903991,100001802971061,500243253",
+      "og:site_name": "The Independent",
+      "og:locale": "en_GB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in Asia",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eAsia\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/v/asia/biggest",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The Largest Earthquakes in Asia. ... Biggest Earthquakes Near Asia. Recent   Quakes ?? Biggest Quakes. Asia is close to these areas: Yunnan Guizhou Border ...",
+   "htmlSnippet": "The Largest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Biggest \u003cb\u003eEarthquakes\u003c/b\u003e Near \u003cb\u003eAsia\u003c/b\u003e. Recent \u003cbr\u003e  Quakes &middot; Biggest Quakes. \u003cb\u003eAsia\u003c/b\u003e is close to these areas: Yunnan Guizhou Border \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "COYJ8-gQud8J",
+   "formattedUrl": "earthquaketrack.com/v/asia/biggest",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/\u003cb\u003easia\u003c/b\u003e/biggest",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "foPzRjnuNoeWqWZ6fqySQxA9EtknaqoBkyf5z7UmwzQ="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Powerful earthquake kills at least 52 in Guatemala - The Washington ...",
+   "htmlTitle": "Powerful \u003cb\u003eearthquake\u003c/b\u003e kills at least 52 in Guatemala - The Washington \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.washingtonpost.com/world/powerful-guatemala-earthquake-kills-at-least-48-people/2012/11/08/5c02df1a-29a9-11e2-96b6-8e6a7524553f_gallery.html",
+   "displayLink": "www.washingtonpost.com",
+   "snippet": "Nov 8, 2012 ... Nov. 9. 2012. People carry the coffins with the remains of the 10 members of the   Vasquez family who died in the earthquake in San Cristobal ...",
+   "htmlSnippet": "Nov 8, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNov\u003c/b\u003e. \u003cb\u003e9\u003c/b\u003e. 2012. People carry the coffins with the remains of the 10 members of the \u003cbr\u003e  Vasquez family who died in the \u003cb\u003eearthquake\u003c/b\u003e in San Cristobal \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.washingtonpost.com/...earthquake.../5c02df1a-29a9-11e2-96b6- 8e6a7524553f_gallery.html",
+   "htmlFormattedUrl": "www.washingtonpost.com/...\u003cb\u003eearthquake\u003c/b\u003e.../5c02df1a-29a9-11e2-96b6- 8e6a7524553f_gallery.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.washingtonpost.com/rf/image_606w/2010-2019/WashingtonPost/2012/11/10/Interactivity/Images/nov8-2012.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkxHPfE-_ezrefb8DnzoTcmIPzXs-avuHqKsjpsXxv8vuuG6D24rEuzLEE"
+     }
+    ],
+    "metatags": [
+     {
+      "eomportal-instanceid": "55",
+      "eomportal-id": "2247698",
+      "eomportal-loid": "1001.5.3278859952",
+      "eomportal-uuid": "5c02df1a-29a9-11e2-96b6-8e6a7524553f",
+      "eomportal-lastupdate": "Sun Dec 09 15:20:50 EST 2012",
+      "news_keywords": "Guatemala,earthquake",
+      "dc.title": "Powerful earthquake kills at least 52 in Guatemala",
+      "dc.date.issued": "2012-11-10",
+      "content-language": "en-US",
+      "resource-type": "document",
+      "fb:app_id": "41245586762",
+      "og:title": "Powerful earthquake kills at least 52 in Guatemala",
+      "og:type": "article",
+      "og:url": "http://www.washingtonpost.com/world/powerful-guatemala-earthquake-kills-at-least-48-people/2012/11/08/5c02df1a-29a9-11e2-96b6-8e6a7524553f_gallery.html",
+      "og:image": "http://img.wpdigital.net/rf/image_90w/2010-2019/WashingtonPost/2012/11/11/Web-Resampled/2012-11-10/APTOPIX Guatemala Earthquake.JPEG-049b3--90x60.jpg",
+      "og:site_name": "Washington Post",
+      "og:description": "A 7.4-magnitude earthquake rocks the Central American country, killing at least 52 people and injuring hundreds.",
+      "fb:admins": "1517346030,527377623,775397496,1607455980"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Coordinating disaster relief after the South Asia earthquake",
+   "htmlTitle": "Coordinating disaster relief after the South \u003cb\u003eAsia earthquake\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/3uy4mv1hdul3vblx.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "the tsunami and the more recent South Asia earthquake. By mid-2005, UN reform   ... recorded in the region by mid-November, with more occurring thereafter) ...",
+   "htmlSnippet": "the tsunami and the more recent South \u003cb\u003eAsia earthquake\u003c/b\u003e. By mid-2005, UN reform \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e recorded in the region by mid-\u003cb\u003eNovember\u003c/b\u003e, with more occurring thereafter) \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/3uy4mv1hdul3vblx.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/3uy4mv1hdul3vblx.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20070815044100+08'00'",
+      "creationdate": "D:20070731214427+07'00'",
+      "title": "Coordinating disaster relief after the South Asia earthquake",
+      "creator": "co2.tif",
+      "producer": "PageGenie PDFGenerator"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Protection Against Severe Earthquake Risks in Central Asia ...",
+   "htmlTitle": "Protection Against Severe \u003cb\u003eEarthquake\u003c/b\u003e Risks in Central \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.brookings.edu/research/opinions/2010/03/23-central-asia-linn",
+   "displayLink": "www.brookings.edu",
+   "snippet": "Mar 23, 2010 ... On January 2, 2010, a 5.3 magnitude earthquake hit a number of remote villages   in Tajikistan. ... [3] According to a 1996 estimate there is a 40% chance that a 9.0   .... [9]. Any serious earthquake that hits a heavily populated area will have severe   consequences. ... November 30, 2012, Rebecca Winthrop ...",
+   "htmlSnippet": "Mar 23, 2010 \u003cb\u003e...\u003c/b\u003e On January 2, 2010, a 5.3 magnitude \u003cb\u003eearthquake\u003c/b\u003e hit a number of remote villages \u003cbr\u003e  in Tajikistan. \u003cb\u003e...\u003c/b\u003e [3] According to a \u003cb\u003e1996\u003c/b\u003e estimate there is a 40% chance that a 9.0 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e [\u003cb\u003e9\u003c/b\u003e]. Any serious \u003cb\u003eearthquake\u003c/b\u003e that hits a heavily populated area will have severe \u003cbr\u003e  consequences. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNovember\u003c/b\u003e 30, 2012, Rebecca Winthrop \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "K839c_vVP5MJ",
+   "formattedUrl": "www.brookings.edu/research/opinions/2010/03/23-central-asia-linn",
+   "htmlFormattedUrl": "www.brookings.edu/research/opinions/2010/03/23-central-\u003cb\u003easia\u003c/b\u003e-linn",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Protection Against Severe Earthquake Risks in Central Asia",
+      "ces:title": "Protection Against Severe Earthquake Risks in Central Asia",
+      "ces:contentdate": "2010/03/23 13:12:00",
+      "ces:experts": "Johannes F. Linn",
+      "ces:topics": "Energy and Environment ; International Affairs ; Global Development ; Natural Disasters ; Global Governance ; Developing Countries ; Global Poverty",
+      "ces:topicsbroad": "Energy and Environment ; International Affairs ; Global Development",
+      "ces:topicsspecialized": "Natural Disasters ; Global Governance ; Developing Countries ; Global Poverty",
+      "ces:geographies": "Russia and Eurasia ; Central Asia",
+      "ces:geographiesbroad": "Russia and Eurasia",
+      "ces:geographiesspecialized": "Central Asia",
+      "ces:programs": "Global Economy and Development",
+      "ces:centers": "Wolfensohn Center for Development",
+      "ces:researchactivities": "Wolfensohn Center for Development ; Global Economy and Development",
+      "ces:broadcontenttype": "Commentary",
+      "ces:authors": "Johannes F. Linn",
+      "og:title": "Protection Against Severe Earthquake Risks in Central Asia",
+      "og:type": "article",
+      "og:url": "http://www.brookings.edu/research/opinions/2010/03/23-central-asia-linn",
+      "og:description": "The Haiti and Chile earthquakes should serve as a wakeup call for Central Asia, a region with a high risk of intensive seismic action that is poorly prepared to deal with this high disaster risk. Johannes Linn urges that national and international attention and action must be focused on developing better risk reduction, preparedness and response in the region.",
+      "og:determiner": "auto",
+      "og:locale": "en",
+      "og:site_name": "The Brookings Institution",
+      "article:author": "Johannes F. Linn",
+      "article:published_time": "2010-03-23",
+      "article:modified_time": "2012-4-02",
+      "article:section": "Opinions",
+      "article:tag": "Central Asia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Number of earthquakes by year",
+   "htmlTitle": "Number of \u003cb\u003eearthquakes\u003c/b\u003e by year",
+   "link": "http://www.johnstonsarchive.net/other/quake1.html",
+   "displayLink": "www.johnstonsarchive.net",
+   "snippet": "last updated 17 November 2012. Link to Resources on the Great Tohoku   Earthquake, 11 March 2011 (near Sendai, Japan). (all data from USGS) ... 1996,   1, 14, 149, 1,222, 1,386, 589. 1997, 0, 16, 120 ... 2006, 2, 9, 142, 1,712, 1,865,   6,605 ...",
+   "htmlSnippet": "last updated 17 \u003cb\u003eNovember\u003c/b\u003e 2012. Link to Resources on the Great Tohoku \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e, 11 March 2011 (near Sendai, Japan). (all data from USGS) \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1996\u003c/b\u003e, \u003cbr\u003e  1, 14, 149, 1,222, 1,386, 589. 1997, 0, 16, 120 \u003cb\u003e...\u003c/b\u003e 2006, 2, \u003cb\u003e9\u003c/b\u003e, 142, 1,712, 1,865, \u003cbr\u003e  6,605 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Q44Od5cZ8bAJ",
+   "formattedUrl": "www.johnstonsarchive.net/other/quake1.html",
+   "htmlFormattedUrl": "www.johnstonsarchive.net/other/\u003cb\u003equake\u003c/b\u003e1.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.johnstonsarchive.net/other/quakeenergy.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "274",
+      "height": "184",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxbFdXUrZBE4FbXhKZAxHC2WRFLl2AkV51vKjrcpzFFpEVgbbe5sXELA8l"
+     }
+    ]
+   }
+  }
+ ]
+}

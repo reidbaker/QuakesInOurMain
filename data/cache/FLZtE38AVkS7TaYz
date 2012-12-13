@@ -1,0 +1,245 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 20 1995 Eurasia Earthquake",
+    "totalResults": "23400",
+    "searchTerms": "Oct 20 1995 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 20 1995 Eurasia Earthquake",
+    "totalResults": "23400",
+    "searchTerms": "Oct 20 1995 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.233006,
+  "formattedSearchTime": "0.23",
+  "totalResults": "23400",
+  "formattedTotalResults": "23,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive September 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The most recent earthquake related news : Click here .... more than 20 years that   major earthquakes can trigger small seismic slips ... The North American and   Eurasian plates are spreading apart along the .... Mexico, 1995 ??? Magnitude : 7.5   - 3 fatalities .... See also the El Asnam earthquake of 1980 Oct 10.",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The most recent \u003cb\u003eearthquake\u003c/b\u003e related news : Click here \u003cb\u003e....\u003c/b\u003e more than \u003cb\u003e20\u003c/b\u003e years that \u003cbr\u003e  major \u003cb\u003eearthquakes\u003c/b\u003e can trigger small \u003cb\u003eseismic\u003c/b\u003e slips \u003cb\u003e...\u003c/b\u003e The North American and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plates are spreading apart along the \u003cb\u003e....\u003c/b\u003e Mexico, \u003cb\u003e1995\u003c/b\u003e ??? Magnitude : 7.5 \u003cbr\u003e  - 3 fatalities \u003cb\u003e....\u003c/b\u003e See also the El Asnam \u003cb\u003eearthquake\u003c/b\u003e of 1980 \u003cb\u003eOct\u003c/b\u003e 10.",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- september-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Eurasia Insurance Co (EurasiaInsuranc) on Twitter",
+   "htmlTitle": "\u003cb\u003eEurasia\u003c/b\u003e Insurance Co (\u003cb\u003eEurasiaInsuranc\u003c/b\u003e) on Twitter",
+   "link": "https://twitter.com/EurasiaInsuranc",
+   "displayLink": "twitter.com",
+   "snippet": "Eurasia Insurance Company was established in 1995, having licenses to .... in an   innovative project on earthquake monitoring system\".fininfo.kz, 04.09.2012 ...",
+   "htmlSnippet": "\u003cb\u003eEurasia\u003c/b\u003e Insurance Company was established in \u003cb\u003e1995\u003c/b\u003e, having licenses to \u003cb\u003e....\u003c/b\u003e in an \u003cbr\u003e  innovative project on \u003cb\u003eearthquake\u003c/b\u003e monitoring system&quot;.fininfo.kz, 04.09.2012 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nmcys8FuZHkJ",
+   "formattedUrl": "https://twitter.com/EurasiaInsuranc",
+   "htmlFormattedUrl": "https://twitter.com/\u003cb\u003eEurasia\u003c/b\u003eInsuranc",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Great Hanshin earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Great Hanshin \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Great_Hanshin_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This was Japan's worst earthquake in the 20th century after the Great Kant??   earthquake in ... By Oct. 31, 1995: 2309 aftershocks in total, 302 felt. ....   accommodated east-west shortening of the Eurasian plate due to its collision with   the North ...",
+   "htmlSnippet": "This was Japan&#39;s worst \u003cb\u003eearthquake\u003c/b\u003e in the \u003cb\u003e20th\u003c/b\u003e century after the Great Kant?? \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e By \u003cb\u003eOct\u003c/b\u003e. 31, \u003cb\u003e1995\u003c/b\u003e: 2309 aftershocks in total, 302 felt. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  accommodated east-west shortening of the \u003cb\u003eEurasian\u003c/b\u003e plate due to its collision with \u003cbr\u003e  the North \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3EKWfUsUJqAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Great_Hanshin_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Great_Hanshin_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Port_of_Kobe_Earthquake_Memorial_Park2.jpg/240px-Port_of_Kobe_Earthquake_Memorial_Park2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "144",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoouJX2Tqx20tzJP1PhwXTW-ugG69h-tHreKmWr6SSZeyieHuIsSak14Bh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... detected in Taiwan are due to the convergence of the Philippine Sea plate and   the Eurasian Plate to the east of the island. Most of the earthquakes registered in   Taiwan actually occur off the east coast .... October 15, 1922, 07:47, Hualien, 24.6  , 122.3, 20, 5.9, 6 ... February 23, 1995, 23:13, Hualien, 24.2, 121.7, 21.7, 5.8, 2 ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e detected in Taiwan are due to the convergence of the Philippine Sea plate and \u003cbr\u003e  the \u003cb\u003eEurasian\u003c/b\u003e Plate to the east of the island. Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in \u003cbr\u003e  Taiwan actually occur off the east coast \u003cb\u003e....\u003c/b\u003e \u003cb\u003eOctober\u003c/b\u003e 15, 1922, 07:47, Hualien, 24.6\u003cbr\u003e  , 122.3, \u003cb\u003e20\u003c/b\u003e, 5.9, 6 \u003cb\u003e...\u003c/b\u003e February 23, \u003cb\u003e1995\u003c/b\u003e, 23:13, Hualien, 24.2, 121.7, 21.7, 5.8, 2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.5 - 37km W of Ahar, Iran 2012-09-27 00:56:01 UTC",
+   "htmlTitle": "M4.5 - 37km W of Ahar, Iran 2012-09-27 00:56:01 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000cwpf",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Sep 27, 2012 ... Page URL: http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000cwpf. Page   Contact Information: Contact Us Page Last Modified: October ...",
+   "htmlSnippet": "Sep 27, 2012 \u003cb\u003e...\u003c/b\u003e Page URL: http://comcat.cr.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000cwpf. Page \u003cbr\u003e  Contact Information: Contact Us Page Last Modified: \u003cb\u003eOctober\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yhduDSE9zqoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000cwpf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000cwpf"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Effects in Kobe, Japan",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Effects in Kobe, Japan",
+   "link": "http://crack.seismo.unr.edu/ftp/pub/louie/class/100/effects-kobe.html",
+   "displayLink": "crack.seismo.unr.edu",
+   "snippet": "The Oct. 17, 1989 Loma Prieta earthquake occurred in the least-populated area   of the generally ... 17, 1995 Hyogo-Ken Nanbu Earthquake ... the dangerous   intersection of three tectonic plates: the Pacific, Eurasian, and Philippine. ... the   city of Kobe, showing about 20 cm of displacement across the city from the buried   fault.",
+   "htmlSnippet": "The \u003cb\u003eOct\u003c/b\u003e. 17, 1989 Loma Prieta \u003cb\u003eearthquake\u003c/b\u003e occurred in the least-populated area \u003cbr\u003e  of the generally \u003cb\u003e...\u003c/b\u003e 17, \u003cb\u003e1995\u003c/b\u003e Hyogo-Ken Nanbu \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e the dangerous \u003cbr\u003e  intersection of three tectonic plates: the Pacific, \u003cb\u003eEurasian\u003c/b\u003e, and Philippine. \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  city of Kobe, showing about \u003cb\u003e20\u003c/b\u003e cm of displacement across the city from the buried \u003cbr\u003e  fault.",
+   "cacheId": "t7y4qHogXzwJ",
+   "formattedUrl": "crack.seismo.unr.edu/ftp/pub/louie/class/100/effects-kobe.html",
+   "htmlFormattedUrl": "crack.seismo.unr.edu/ftp/pub/louie/class/100/effects-kobe.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://crack.seismo.unr.edu/ftp/pub/louie/class/100/kobe/usgsmap-detail.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "323",
+      "height": "156",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXOx4M7Bp-hTN6s-5PTbnzx8xJAjjVJ9YNN5b9Qi_ot_ViT-3f8XlwfFY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.7 - 21km W of Farkhor, Tajikistan 2012-10-20 17:31:59 UTC",
+   "htmlTitle": "M4.7 - 21km W of Farkhor, Tajikistan 2012-10-\u003cb\u003e20\u003c/b\u003e 17:31:59 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000d9me",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 20, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center ... Page Last Modified: October 28, 2012 12:44:28 UTC ... Paperwork   Reduction Act Statement The Paperwork Reduction Act of 1995 (44 U.S.C. ...   himalaya dominantly results from continental collision india eurasia ...",
+   "htmlSnippet": "Oct 20, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eOctober\u003c/b\u003e 28, 2012 12:44:28 UTC \u003cb\u003e...\u003c/b\u003e Paperwork \u003cbr\u003e  Reduction Act Statement The Paperwork Reduction Act of \u003cb\u003e1995\u003c/b\u003e (44 U.S.C. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ns4d75QRDeQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000d9me",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000d9me"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Internet Geography",
+   "htmlTitle": "Internet Geography",
+   "link": "http://www.geography.learnontheinternet.co.uk/gcse/tectonics.html",
+   "displayLink": "www.geography.learnontheinternet.co.uk",
+   "snippet": "... each other. Volcanoes and earthquakes, Eurasian & North American Plate,   Formation of Iceland and West Indies etc ... The earthquake lasted 20 seconds.   Where? ... 17th Jan 1995 at 5.46am. Why? ... 17th October 1989 at 5.04pm. Why?",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e each other. Volcanoes and \u003cb\u003eearthquakes\u003c/b\u003e, \u003cb\u003eEurasian\u003c/b\u003e &amp; North American Plate, \u003cbr\u003e  Formation of Iceland and West Indies etc \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e lasted \u003cb\u003e20\u003c/b\u003e seconds. \u003cbr\u003e  Where? \u003cb\u003e...\u003c/b\u003e 17th Jan \u003cb\u003e1995\u003c/b\u003e at 5.46am. Why? \u003cb\u003e...\u003c/b\u003e 17th \u003cb\u003eOctober\u003c/b\u003e 1989 at 5.04pm. Why?",
+   "cacheId": "V-dQO6n56_gJ",
+   "formattedUrl": "www.geography.learnontheinternet.co.uk/gcse/tectonics.html",
+   "htmlFormattedUrl": "www.geography.learnontheinternet.co.uk/gcse/tectonics.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.geography.learnontheinternet.co.uk/images/pagelayout/2.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_ov39keXxY87fMJrZOJRf1zRGkBy1jdsJB-tQ7ITzRFbfbrJHMLjc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.8 - 20km ENE of Fatualam, Indonesia 2012-09-25 03:08:13 UTC",
+   "htmlTitle": "M4.8 - \u003cb\u003e20km\u003c/b\u003e ENE of Fatualam, Indonesia 2012-09-25 03:08:13 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000cvd0",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Sep 25, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center ... Page Last Modified: October 03, 2012 12:19:45 UTC ... Paperwork   Reduction Act Statement The Paperwork Reduction Act of 1995 (44 U.S.C. ...   separates australia from the eurasia plate including the sunda block ...",
+   "htmlSnippet": "Sep 25, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eOctober\u003c/b\u003e 03, 2012 12:19:45 UTC \u003cb\u003e...\u003c/b\u003e Paperwork \u003cbr\u003e  Reduction Act Statement The Paperwork Reduction Act of \u003cb\u003e1995\u003c/b\u003e (44 U.S.C. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  separates australia from the \u003cb\u003eeurasia\u003c/b\u003e plate including the sunda block \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ajoWGlm33pkJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000cvd0",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000cvd0"
+  }
+ ]
+}

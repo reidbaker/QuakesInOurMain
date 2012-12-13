@@ -1,0 +1,248 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 12 2001 India Earthquake",
+    "totalResults": "772000",
+    "searchTerms": "Jun 12 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 12 2001 India Earthquake",
+    "totalResults": "772000",
+    "searchTerms": "Jun 12 2001 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.233354,
+  "formattedSearchTime": "0.23",
+  "totalResults": "772000",
+  "formattedTotalResults": "772,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 12 2001 India Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 12 2001 India Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... In the last 12 months, we have reported constantly on .... from the Van earthquake   in October, in the India-Nepal-Tibet region in September, in China from ..... The   Christchurch earthquakes on the 21st February, 13th June and 23rd ..... BTE [  2001] ???Economic Costs of Natural Disasters in Australia???, Bureau of ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e In the last \u003cb\u003e12\u003c/b\u003e months, we have reported constantly on \u003cb\u003e....\u003c/b\u003e from the Van \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  in October, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet region in September, in China from \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  Christchurch \u003cb\u003eearthquakes\u003c/b\u003e on the 21st February, 13th \u003cb\u003eJune\u003c/b\u003e and 23rd \u003cb\u003e.....\u003c/b\u003e BTE [\u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in Australia???, Bureau of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on June 12 - What happened on my birthday. Today ...",
+   "htmlTitle": "What happened on \u003cb\u003eJune 12\u003c/b\u003e - What happened on my birthday. Today \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/jun12.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "June 12, 1381 Peasants' Revolt: In England rebels arrive at Blackheath. June 12,   1418 An ... June 12, 1897 Possibly most severe quake in history strikes Assam   India. .... June 12, 2001 Visitor posting - Amina Abdullah born - United Kingdom ...",
+   "htmlSnippet": "June 12, 1381 Peasants&#39; Revolt: In England rebels arrive at Blackheath. June 12, \u003cbr\u003e  1418 An \u003cb\u003e...\u003c/b\u003e June 12, 1897 Possibly most severe \u003cb\u003equake\u003c/b\u003e in history strikes Assam \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eJune 12\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e Visitor posting - Amina Abdullah born - United Kingdom \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kArFQmE8EOIJ",
+   "formattedUrl": "www.datesinhistory.com/jun12.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003ejun12\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.8, CHHATTISGARH, INDIA, Jun 12 2001, 12:41:03, 22.224, 83.995,   200106121241. 5.6, Chios, Greece, Jun 10 2001, 13:11:02 UTC, 38.525 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.8, CHHATTISGARH, \u003cb\u003eINDIA\u003c/b\u003e, \u003cb\u003eJun 12 2001\u003c/b\u003e, 12:41:03, 22.224, 83.995, \u003cbr\u003e  200106121241. 5.6, Chios, Greece, Jun 10 2001, 13:11:02 UTC, 38.525 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1897 Assam earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1897 Assam \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1897_Assam_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1897 Assam earthquake is located in India ... The Assam earthquake of 1897   occurred on June 12, 1897 in Assam, British Raj, and had an estimated   magnitude ...",
+   "htmlSnippet": "1897 Assam \u003cb\u003eearthquake\u003c/b\u003e is located in \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e The Assam \u003cb\u003eearthquake\u003c/b\u003e of 1897 \u003cbr\u003e  occurred on \u003cb\u003eJune 12\u003c/b\u003e, 1897 in Assam, British Raj, and had an estimated \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A0dK07cGRnkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1897_Assam_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1897_Assam_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Planet X: EARTHQUAKE Increase (Some Supporting Data)",
+   "htmlTitle": "Planet X: \u003cb\u003eEARTHQUAKE\u003c/b\u003e Increase (Some Supporting Data)",
+   "link": "http://www.zetatalk.com/usenet/use00873.htm",
+   "displayLink": "www.zetatalk.com",
+   "snippet": "Tuesday June 12 2:32 AM ET Quake Jolts New Zealand Capital ... June 11, 2001   - 12:00 a.m. Pacific Quake causes little damage: 5.0 temblor struck 30 ...   Thursday June 7, 11:06 PM Earthquake rattles India's northeast GUWAHATI,   India, June ...",
+   "htmlSnippet": "Tuesday \u003cb\u003eJune 12\u003c/b\u003e 2:32 AM ET \u003cb\u003eQuake\u003c/b\u003e Jolts New Zealand Capital \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJune\u003c/b\u003e 11, \u003cb\u003e2001\u003c/b\u003e \u003cbr\u003e  - \u003cb\u003e12\u003c/b\u003e:00 a.m. Pacific \u003cb\u003eQuake\u003c/b\u003e causes little damage: 5.0 temblor struck 30 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Thursday \u003cb\u003eJune\u003c/b\u003e 7, 11:06 PM \u003cb\u003eEarthquake\u003c/b\u003e rattles \u003cb\u003eIndia&#39;s\u003c/b\u003e northeast GUWAHATI, \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e, \u003cb\u003eJune\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "i3S-7FHEEsoJ",
+   "formattedUrl": "www.zetatalk.com/usenet/use00873.htm",
+   "htmlFormattedUrl": "www.zetatalk.com/usenet/use00873.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in India - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Indian subcontinent has a history of devastating earthquakes. ... see Gujarat   earthquake of 2001, 23.6N, 69.8E, 20,000, Epicenter in Kutch, loss of life in ...",
+   "htmlSnippet": "The \u003cb\u003eIndian\u003c/b\u003e subcontinent has a history of devastating \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e see Gujarat \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e2001\u003c/b\u003e, 23.6N, 69.8E, 20,000, Epicenter in Kutch, loss of life in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EBwHZvfyZioJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eIndia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Plateau Pop-up during the 1897 Assam earthquake",
+   "htmlTitle": "Plateau Pop-up during the 1897 Assam \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://cires.colorado.edu/~bilham/Bilham%26England_Nature1897%20.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "410, 806-809, 2001. *CIRES & Geological Sciences ... The great Assam   earthquake of 12 June 1897 reduced to rubble all masonry buildings within a   region of NE India roughly the size of England, and its felt area exceeded that of   the 1755 ...",
+   "htmlSnippet": "410, 806-809, \u003cb\u003e2001\u003c/b\u003e. *CIRES &amp; Geological Sciences \u003cb\u003e...\u003c/b\u003e The great Assam \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e12 June\u003c/b\u003e 1897 reduced to rubble all masonry buildings within a \u003cbr\u003e  region of NE \u003cb\u003eIndia\u003c/b\u003e roughly the size of England, and its felt area exceeded that of \u003cbr\u003e  the 1755 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1XeqK4_lzxkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Bilham%26England_Nature1897%20.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Bilham%26England_Nature1897%20.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "D:20010418072007",
+      "title": "Nature 1897 earthquake",
+      "author": "roger bilham",
+      "producer": "Acrobat PDFWriter 4.05  for Power Macintosh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV). 02001-01  -26January 26, 2001, 03:16, Gujarat, India ... June 3, 2001, 02:41, Kermadec   Islands, ???29.666, ???178.633, 0, 7.2, Mw (HRV) ... October 12, 2001, 15:02, South   of Mariana Islands, 12.686, 144.980, 0, 7.0, Mw (HRV) ...",
+   "htmlSnippet": "see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV). 02001-01\u003cbr\u003e  -26January 26, \u003cb\u003e2001\u003c/b\u003e, 03:16, Gujarat, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJune\u003c/b\u003e 3, \u003cb\u003e2001\u003c/b\u003e, 02:41, Kermadec \u003cbr\u003e  Islands, ???29.666, ???178.633, 0, 7.2, Mw (HRV) \u003cb\u003e...\u003c/b\u003e October \u003cb\u003e12\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, 15:02, South \u003cbr\u003e  of Mariana Islands, 12.686, 144.980, 0, 7.0, Mw (HRV) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "italian american museum to accept donations for italy",
+   "htmlTitle": "italian american museum to accept donations for italy",
+   "link": "http://www.italianamericanmuseum.org/news/news_quakerelief12.html",
+   "displayLink": "www.italianamericanmuseum.org",
+   "snippet": "The Museum received its provisional charter from the New York State Board of   Regents on June 12, 2001 and is a 501 (c)(3) organization. IAM Earthquake ...",
+   "htmlSnippet": "The Museum received its provisional charter from the New York State Board of \u003cbr\u003e  Regents on \u003cb\u003eJune 12, 2001\u003c/b\u003e and is a 501 (c)(3) organization. IAM \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DdmahayMXHMJ",
+   "formattedUrl": "www.italianamericanmuseum.org/news/news_quakerelief12.html",
+   "htmlFormattedUrl": "www.italianamericanmuseum.org/news/news_\u003cb\u003equake\u003c/b\u003erelief12.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.italianamericanmuseum.org/images/newsimage.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "93",
+      "height": "141",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9VZJQOT3zLe3WUAhCCRkQ2fKX9GSigicTrPC_cc8JYzdo_vud3UrrWeY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... earthquakes (1901???2000); List of 21st-century earthquakes (2001???present) ...   Listed below are all known earthquakes measured or estimated to have a   moment ... 02004-12-26December 26, 2004, Indian Ocean, Sumatra, Indonesia,   2004 Indian Ocean .... 50,000???92,000 (non-Haitian sources), 7.0, Estimate June   2010.",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e (1901???2000); List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e (\u003cb\u003e2001\u003c/b\u003e???present) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Listed below are all known \u003cb\u003eearthquakes\u003c/b\u003e measured or estimated to have a \u003cbr\u003e  moment \u003cb\u003e...\u003c/b\u003e 02004-\u003cb\u003e12\u003c/b\u003e-26December 26, 2004, \u003cb\u003eIndian\u003c/b\u003e Ocean, Sumatra, Indonesia, \u003cbr\u003e  2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003e....\u003c/b\u003e 50,000???92,000 (non-Haitian sources), 7.0, Estimate \u003cb\u003eJune\u003c/b\u003e \u003cbr\u003e  2010.",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  }
+ ]
+}

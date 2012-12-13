@@ -6,7 +6,7 @@ import edu.gatech.earthquakes.model.Interaction;
 
 public interface Interactable {
 
-	@Subscribe
-	public void handleInput(Interaction interaction);
-	
+    @Subscribe
+    public void handleInput(Interaction interaction);
+
 }

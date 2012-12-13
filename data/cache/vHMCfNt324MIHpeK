@@ -1,0 +1,315 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 18 1926 Eurasia Earthquake",
+    "totalResults": "7030",
+    "searchTerms": "Aug 18 1926 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 18 1926 Eurasia Earthquake",
+    "totalResults": "7030",
+    "searchTerms": "Aug 18 1926 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.193245,
+  "formattedSearchTime": "0.19",
+  "totalResults": "7030",
+  "formattedTotalResults": "7,030"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "State-of-the-art of historical earthquake research in Fennoscandia ...",
+   "htmlTitle": "State-of-the-art of historical \u003cb\u003eearthquake\u003c/b\u003e research in Fennoscandia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.earth-prints.org/bitstream/2122/785/1/23Mantyniemi.pdf",
+   "displayLink": "www.earth-prints.org",
+   "snippet": "areas of Norway out to the Eurasian and North ... Scientific earthquake studies in   this region began during ..... quake of 18 August 1926 is currently being ana- ...",
+   "htmlSnippet": "areas of Norway out to the \u003cb\u003eEurasian\u003c/b\u003e and North \u003cb\u003e...\u003c/b\u003e Scientific \u003cb\u003eearthquake\u003c/b\u003e studies in \u003cbr\u003e  this region began during \u003cb\u003e.....\u003c/b\u003e \u003cb\u003equake\u003c/b\u003e of \u003cb\u003e18 August 1926\u003c/b\u003e is currently being ana- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zI0vOvXvSVsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth-prints.org/bitstream/2122/785/1/23Mantyniemi.pdf",
+   "htmlFormattedUrl": "www.earth-prints.org/bitstream/2122/785/1/23Mantyniemi.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050322105045+01'00'",
+      "moddate": "D:20050322105045+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "Utente",
+      "creator": "QuarkXPress Passport?? 4.04: AdobePS 8.7.2 8.7.2 (104)",
+      "title": "23Mantyniemi.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1903 Malazgirt earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1903 Malazgirt \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The country of Turkey is situated on a highly active section of the Eurasian Plate   boundary. ... On August 6, additional damage took place and people were injured   when an ... December 18, 2009. http://earthquake.usgs.gov/learn/today/index.php  ? ... 1924 Pasinler ?? 1926 Kars ?? 1930 Hakkari ?? 1935 Erdek-Marmara Islands ...",
+   "htmlSnippet": "The country of Turkey is situated on a highly active section of the \u003cb\u003eEurasian\u003c/b\u003e Plate \u003cbr\u003e  boundary. \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eAugust\u003c/b\u003e 6, additional damage took place and people were injured \u003cbr\u003e  when an \u003cb\u003e...\u003c/b\u003e December \u003cb\u003e18\u003c/b\u003e, 2009. http://\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/learn/today/index.php\u003cbr\u003e  ? \u003cb\u003e...\u003c/b\u003e 1924 Pasinler &middot; \u003cb\u003e1926\u003c/b\u003e Kars &middot; 1930 Hakkari &middot; 1935 Erdek-Marmara Islands \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IyR5zRaIRWAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/260px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "130",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1APbrsyOCdPXD5DVrwAx3ljyjMFt3Pszt2hV1HxJ-abZ-bk8AxETmGj0q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Watchers - Earthquake M 5.6 struck off island of Crete, Greece",
+   "htmlTitle": "The Watchers - \u003cb\u003eEarthquake\u003c/b\u003e M 5.6 struck off island of Crete, Greece",
+   "link": "http://thewatchers.adorraeli.com/2012/09/12/earthquake-m5-6-struck-island-crete-greece/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Sep 12, 2012 ... Most shallow earthquakes in central and northern Greece (depths less than 50   km) result from interaction between the Eurasia plate and the ...",
+   "htmlSnippet": "Sep 12, 2012 \u003cb\u003e...\u003c/b\u003e Most shallow \u003cb\u003eearthquakes\u003c/b\u003e in central and northern Greece (depths less than 50 \u003cbr\u003e  km) result from interaction between the \u003cb\u003eEurasia\u003c/b\u003e plate and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XQ_qdLrsYGsJ",
+   "formattedUrl": "thewatchers.adorraeli.com/.../earthquake-m5-6-struck-island-crete-greece/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/.../\u003cb\u003eearthquake\u003c/b\u003e-m5-6-struck-island-crete-greece/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/09/creten1-e1347426482987.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "277",
+      "height": "182",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJjDOMsc2eM_LBpgrSrF6t6T5s2qM4xHJnRGzB8SpkpD8ZN_Z6CTxYUSlt"
+     }
+    ],
+    "article": [
+     {
+      "name": "Earthquake M 5.6 struck off island of Crete, Greece",
+      "description": "Strong eathquake measuring M5.6 hit island of Crete, Greece at at 03:27:45 UTC on September 12. Location of epicenter was near island of Gavdos, 79 km (49 miles) S (177??) from Chania, Crete...",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Earthquake M 5.6 struck off island of Crete, Greece",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2012/09/12/earthquake-m5-6-struck-island-crete-greece?year=2012&monthnum=09&day=12&name=earthquake-m5-6-struck-island-crete-greece",
+      "og:description": "Strong eathquake measuring M5.6 hit island of Crete, Greece at??at 03:27:45 UTC on September 12. Location of epicenter was near island of Gavdos,??79 km (49 miles) S (177??) from??Chania, Crete ??and??119 km (74 miles) WSW (241??) from??Iraklion, Crete, Greece (34.811??N, 24.064??E) at depth of 20 km, according to EMSC. USGS registered M5.5 at depth of??27.4 km (17.0 miles) and GEOFON registered M5.4 at depth of 10 km. Ground shaking lasted about 15-20 seconds. There are no reports of serious damage or injuries. ?? Local:??Patras Satellite Link Network, Department of Geophysics Thessaloniki, Hellenic Seismic Network,??National Observatory of Athens, Institue of Geodynamics...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:image": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/09/creten1-e1347426482987.png",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Robin-gabrielle Frabbiele"
+     },
+     {
+      "fn": "Louise",
+      "nickname": "Louise",
+      "url": "http://sentirlaterre.blogspot.com.au/",
+      "url_text": "Louise"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1949 Karl??ova earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1949 Karl??ova \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1949_Karl%C4%B1ova_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1949 Karl??ova earthquake occurred at 18:43 UTC on 17 August with an ... the   boundaries of the Eurasian Plate, Anatolian Plate and the Arabian Plate, the ...",
+   "htmlSnippet": "The 1949 Karl??ova \u003cb\u003eearthquake\u003c/b\u003e occurred at \u003cb\u003e18\u003c/b\u003e:43 UTC on 17 \u003cb\u003eAugust\u003c/b\u003e with an \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  boundaries of the \u003cb\u003eEurasian\u003c/b\u003e Plate, Anatolian Plate and the Arabian Plate, the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "coC-pcNMF7AJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1949_Karl??ova_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1949_Karl??ova_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/300px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtx_slPrubSJbXBRi7dccItzMDS5wO9EAk7mhHNYeDe4CbUt9NL7oi4WTf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Watchers - Shallow M 5.0 earthquake struck northern Algeria",
+   "htmlTitle": "The Watchers - Shallow M 5.0 \u003cb\u003eearthquake\u003c/b\u003e struck northern Algeria",
+   "link": "http://thewatchers.adorraeli.com/2012/11/29/m5_0-algeria/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Nov 28, 2012 ... The 1903 M8.2 Kythera earthquake and the 1926 M7.8 Rhodes earthquakes are   the largest instrumentally recorded Mediterranean ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e The 1903 M8.2 Kythera \u003cb\u003eearthquake\u003c/b\u003e and the \u003cb\u003e1926\u003c/b\u003e M7.8 Rhodes \u003cb\u003eearthquakes\u003c/b\u003e are \u003cbr\u003e  the largest instrumentally recorded Mediterranean \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1SG0ZxsZG-0J",
+   "formattedUrl": "thewatchers.adorraeli.com/2012/11/29/m5_0-algeria/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/2012/11/29/m5_0-algeria/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/11/Algeria-5_01.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "319",
+      "height": "158",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGvDducarpbFT-VvEgnBdoocObJ9evQwbHdyOeC-n9B1R8Wc_cR7pYztc"
+     }
+    ],
+    "article": [
+     {
+      "name": "Shallow M 5.0 earthquake struck northern Algeria",
+      "description": "Moderate earthquake magnitude 5.0 struck northern Algeria at 23:15 UTC on November 28, 2012. European-Mediterranean Seismological Centre recorded M5.0 at depth of 15 km with epicenter located...",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Shallow M 5.0 earthquake struck northern Algeria",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2012/11/29/m5_0-algeria?year=2012&monthnum=11&day=29&name=m5_0-algeria",
+      "og:description": "Moderate earthquake magnitude 5.0 struck northern Algeria at 23:15 UTC on November 28, 2012. European-Mediterranean Seismological Centre??recorded M5.0 at depth of 15 km with epicenter located??36.97 N ; 5.10 E, 24 km N of Bijayah with population of 164 103.??USGS??recorded M 5.0 at depth of 10.2 km and GEOFON registered M 4.9 at depth of 10 km. EMSC epicenter regional view (Credit: EMSC) ?? Just 45 minutes later, USGS registered 10 km deep, magnitude 4.4, aftershock at almost the same coordinates. There are no reports of significant damage or injuries at the moment. In October 1980 major M 7.7 earthquake...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:image": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/11/Algeria-5_01.png",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Sh??wa, 1926???1989 ... Japan was originally attached to the eastern coast of the   Eurasian continent. ... Although there is mention of an earthquake in Yamato in   what is now Nara Prefecture on August 23, 416, the first to be reliably .... [18] On   January 17, 1995, an earthquake measuring 6.8 M, known informally as the Kobe ...",
+   "htmlSnippet": "Sh??wa, \u003cb\u003e1926\u003c/b\u003e???1989 \u003cb\u003e...\u003c/b\u003e Japan was originally attached to the eastern coast of the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e continent. \u003cb\u003e...\u003c/b\u003e Although there is mention of an \u003cb\u003eearthquake\u003c/b\u003e in Yamato in \u003cbr\u003e  what is now Nara Prefecture on \u003cb\u003eAugust\u003c/b\u003e 23, 416, the first to be reliably \u003cb\u003e....\u003c/b\u003e [\u003cb\u003e18\u003c/b\u003e] On \u003cbr\u003e  January 17, 1995, an \u003cb\u003eearthquake\u003c/b\u003e measuring 6.8 M, known informally as the Kobe \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NuRGcOQIbpIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japan_separation.png/270px-Japan_separation.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAivkrzGCuUOdUUabCsPoOS7Ntz0yc_PFSUl2M5kTnoihqkPpJiCdL5c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.6 - 5km NNE of Batanovtsi, Bulgaria 2012-05-22 00:00:32 UTC",
+   "htmlTitle": "M5.6 - 5km NNE of Batanovtsi, Bulgaria 2012-05-22 00:00:32 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb0009uyx",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "May 22, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center ... Page Last Modified: August 31, 2012 22:46:05 UTC ... n radomir   bulgaria 27km 17mi sw kostinbrod bulgaria 29km 18mi w sofia bulgaria ... m8   kythera and the 1926 m7 8 rhodes are the largest instrumentally recorded ...",
+   "htmlSnippet": "May 22, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eAugust\u003c/b\u003e 31, 2012 22:46:05 UTC \u003cb\u003e...\u003c/b\u003e n radomir \u003cbr\u003e  bulgaria 27km 17mi sw kostinbrod bulgaria 29km \u003cb\u003e18mi\u003c/b\u003e w sofia bulgaria \u003cb\u003e...\u003c/b\u003e m8 \u003cbr\u003e  kythera and the \u003cb\u003e1926\u003c/b\u003e m7 8 rhodes are the largest instrumentally recorded \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D1UgSFDMF0sJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb0009uyx",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb0009uyx"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "October 22, 1926, 21:59 local time, Kars see 1926 Kars earthquake, 40.7, 43.7,   360, 6.0, Ms. 01928-03-31March ... August 13, 1951, 18:36, Kur??unlu see North ...",
+   "htmlSnippet": "October 22, \u003cb\u003e1926\u003c/b\u003e, 21:59 local time, Kars see \u003cb\u003e1926\u003c/b\u003e Kars \u003cb\u003eearthquake\u003c/b\u003e, 40.7, 43.7, \u003cbr\u003e  360, 6.0, Ms. 01928-03-31March \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e 13, 1951, \u003cb\u003e18\u003c/b\u003e:36, Kur??unlu see North \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a band of seismicity which stretches from ...   1926, 19, 1956, 15, 1986, 6 .... 18 Sep 1833, Chichester, 3, 1, Cocking, falling   rock ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a band of seismicity which stretches from \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1926\u003c/b\u003e, 19, 1956, 15, 1986, 6 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e18 Sep\u003c/b\u003e 1833, Chichester, 3, 1, Cocking, falling \u003cbr\u003e  rock \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.2 - 6km NNE of Lokvine, Bosnia and Herzegovina 2012-07-30 ...",
+   "htmlTitle": "M4.2 - 6km NNE of Lokvine, Bosnia and Herzegovina 2012-07-30 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000biyr",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 30, 2012 ... Summary. Location and Magnitude contributed by: USGS National Earthquake   Information Center .... Page Last Modified: August 14, 2012 15:15:10 UTC ...   2012-07-30 11:01:18 UTC+02:00 at epicenter ... (4-10 mm/yr) of the African plate   with respect to the Eurasian plate along a complex plate boundary.",
+   "htmlSnippet": "Jul 30, 2012 \u003cb\u003e...\u003c/b\u003e Summary. Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e \u003cbr\u003e  Information Center \u003cb\u003e....\u003c/b\u003e Page Last Modified: \u003cb\u003eAugust\u003c/b\u003e 14, 2012 15:15:10 UTC \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  2012-07-30 11:01:\u003cb\u003e18\u003c/b\u003e UTC+02:00 at epicenter \u003cb\u003e...\u003c/b\u003e (4-10 mm/yr) of the African plate \u003cbr\u003e  with respect to the \u003cb\u003eEurasian\u003c/b\u003e plate along a complex plate boundary.",
+   "cacheId": "M_EdW880QjwJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000biyr",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000biyr"
+  }
+ ]
+}

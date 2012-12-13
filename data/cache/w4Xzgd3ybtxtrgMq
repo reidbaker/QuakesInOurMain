@@ -1,0 +1,298 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 13 2001 Africa Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Sep 13 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 13 2001 Africa Earthquake",
+    "totalResults": "777000",
+    "searchTerms": "Sep 13 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.214367,
+  "formattedSearchTime": "0.21",
+  "totalResults": "777000",
+  "formattedTotalResults": "777,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 13 2001 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 13 2001 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on September 13th This Day in History",
+   "htmlTitle": "What Happened on \u003cb\u003eSeptember 13th\u003c/b\u003e This Day in History",
+   "link": "http://www.thepeoplehistory.com/september13th.html",
+   "displayLink": "www.thepeoplehistory.com",
+   "snippet": "September 13th What Happened on the day you were born on This day in History   .... 13th Sept. 2001 : Commercial air traffic restarts from most airports in the U.S. ...   13th Sept. 2009 : An earthquake with a magnitude of 6.4 hit 65 miles outside ...",
+   "htmlSnippet": "September 13th What Happened on the day you were born on This day in History \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003e13th Sept. 2001\u003c/b\u003e : Commercial air traffic restarts from most airports in the U.S. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  13th Sept. 2009 : An \u003cb\u003eearthquake\u003c/b\u003e with a magnitude of 6.4 hit 65 miles outside \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rVCLaeGcQ7AJ",
+   "formattedUrl": "www.thepeoplehistory.com/september13th.html",
+   "htmlFormattedUrl": "www.thepeoplehistory.com/\u003cb\u003eseptember13\u003c/b\u003eth.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thepeoplehistory.com/publicdomain/siegeofconstantinople.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "182",
+      "height": "147",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1hfy_7MRS2rc6-xuTODd6rucXQAr2CVKbO-VtxYeWencBkdVTsmg4vw6q"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "The People History -- Steve Pearson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.7, GUJARAT, INDIA, Sep 20 2001, 13:34:33, 23.555, 70.372, 200109201334 ...   4.9, SOUTH AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.7, GUJARAT, INDIA, \u003cb\u003eSep\u003c/b\u003e 20 \u003cb\u003e2001\u003c/b\u003e, \u003cb\u003e13\u003c/b\u003e:34:33, 23.555, 70.372, 200109201334 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  4.9, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Jul 31 \u003cb\u003e2001\u003c/b\u003e, 22:22:22, -26.937, 26.792 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "02001-01-13January 13, 2001, 17:33, El Salvador see 2001 El Salvador   earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV). 02001-01-26January 26, 2001,   03:16 ...",
+   "htmlSnippet": "02001-01-\u003cb\u003e13\u003c/b\u003eJanuary \u003cb\u003e13\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e, 17:33, El Salvador see \u003cb\u003e2001\u003c/b\u003e El Salvador \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV). 02001-01-26January 26, \u003cb\u003e2001\u003c/b\u003e, \u003cbr\u003e  03:16 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NOVICA - News",
+   "htmlTitle": "NOVICA - News",
+   "link": "http://www.novica.com/news/index.cfm?action=list",
+   "displayLink": "www.novica.com",
+   "snippet": "Mar 26, 2001 ... Sep 13, 2010. Win These! (Women's ... Indonesia Earthquake   Relief Efforts. Nov 3 ..... 13, 2001. West African Art Blends Character and Function ...",
+   "htmlSnippet": "Mar 26, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSep 13\u003c/b\u003e, 2010. Win These! (Women&#39;s \u003cb\u003e...\u003c/b\u003e Indonesia \u003cb\u003eEarthquake\u003c/b\u003e \u003cbr\u003e  Relief Efforts. Nov 3 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e13\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e. West \u003cb\u003eAfrican\u003c/b\u003e Art Blends Character and Function \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ytlWzvDadi8J",
+   "formattedUrl": "www.novica.com/news/index.cfm?action=list",
+   "htmlFormattedUrl": "www.novica.com/news/index.cfm?action=list",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.novica.com/news/images/icon_413.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "100",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCAP9EGCMXbPiDKhUzaExRSM7u9n3Q-JsnnHzrSYWnThK3KeB2rVuS"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:admins": "743750873,766971638",
+      "og:type": "website"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "On 13 April 1992 at 3:20 am, a 5.3 Mw quake with its epicentre 4 km ... 18   September 1640, D??ren, unknown, Damage to houses in D??ren and Cologne.",
+   "htmlSnippet": "On \u003cb\u003e13\u003c/b\u003e April 1992 at 3:20 am, a 5.3 Mw \u003cb\u003equake\u003c/b\u003e with its epicentre 4 km \u003cb\u003e...\u003c/b\u003e 18 \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 1640, D??ren, unknown, Damage to houses in D??ren and Cologne.",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current earthquakes world-wide, Thursday, 13 December 2012 ...",
+   "htmlTitle": "Current \u003cb\u003eearthquakes\u003c/b\u003e world-wide, Thursday, \u003cb\u003e13\u003c/b\u003e December 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/today.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Interactive Map of Active Volcanoes and recent Earthquakes world-wide - click to   show/ .... Wed, 12 Dec 16:13 UTC, M 2.7 / 14 km - [info], BLACK SEA,   OFFSHORE ..... Reply ?? Like ?? September 17 at 2:36am .... Africa. Nyiragongo lava   lake & mountain gorillas. Desert, Salt & Volcanoes (Danakil, Ethiopia) .... Eruption   2001 ...",
+   "htmlSnippet": "Interactive Map of Active Volcanoes and recent \u003cb\u003eEarthquakes\u003c/b\u003e world-wide - click to \u003cbr\u003e  show/ \u003cb\u003e....\u003c/b\u003e Wed, 12 Dec 16:\u003cb\u003e13\u003c/b\u003e UTC, M 2.7 / 14 km - [info], BLACK SEA, \u003cbr\u003e  OFFSHORE \u003cb\u003e.....\u003c/b\u003e Reply ?? Like ?? \u003cb\u003eSeptember\u003c/b\u003e 17 at 2:36am \u003cb\u003e....\u003c/b\u003e \u003cb\u003eAfrica\u003c/b\u003e. Nyiragongo lava \u003cbr\u003e  lake &amp; mountain gorillas. Desert, Salt &amp; Volcanoes (Danakil, Ethiopia) \u003cb\u003e....\u003c/b\u003e Eruption \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uSi_y8RoXw0J",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/today.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/today.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dana King ?? CBS San Francisco",
+   "htmlTitle": "Dana King ?? CBS San Francisco",
+   "link": "http://sanfrancisco.cbslocal.com/personality/dana-king/",
+   "displayLink": "sanfrancisco.cbslocal.com",
+   "snippet": "Her series, called ???Assignment Africa???, included the story of inhumane ... She was   the first Bay Area broadcast journalist at ground zero on September 13, 2001. ...   Turkey and to Taiwan to report on the devastation left from the two earthquakes.",
+   "htmlSnippet": "Her series, called ???Assignment \u003cb\u003eAfrica\u003c/b\u003e???, included the story of inhumane \u003cb\u003e...\u003c/b\u003e She was \u003cbr\u003e  the first Bay Area broadcast journalist at ground zero on \u003cb\u003eSeptember 13, 2001\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Turkey and to Taiwan to report on the devastation left from the two \u003cb\u003eearthquakes\u003c/b\u003e.",
+   "cacheId": "i5DfVsH9F_EJ",
+   "formattedUrl": "sanfrancisco.cbslocal.com/personality/dana-king/",
+   "htmlFormattedUrl": "sanfrancisco.cbslocal.com/personality/dana-king/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cbssanfran.files.wordpress.com/2010/08/dana-king_bio-head.jpg?w=260"
+     }
+    ],
+    "metatags": [
+     {
+      "twitter:card": "summary",
+      "twitter:site": "@cbssf",
+      "og:image": "http://cbssanfran.files.wordpress.com/2010/08/dana-king_bio-head.jpg?w=260",
+      "og:title": "Dana??King - CBS San Francisco",
+      "og:url": "http://sanfrancisco.cbslocal.com/personality/dana-king/",
+      "title": "Dana??King",
+      "application-name": "CBS San Francisco",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "News, Sports, Weather, Traffic and the Best of SF",
+      "msapplication-task": "name=Subscribe;action-uri=http://sanfrancisco.cbslocal.com/feed/;icon-uri=http://0.gravatar.com/blavatar/c70fbd6be5f4be2c76460498befe4818?s=16"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Tuesday, 18 September 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Tuesday, 18 \u003cb\u003eSeptember\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-sep-18.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Earthquake list: Tuesday, 18 September 2012 (M\u003e=2.5) (210 quakes) .... Tue, 18   Sep 19:13 UTC, M 4.2 / 3 km - [info], (145 km), 37 km al Suroeste de ...... Jan   2012 photos. Africa. Nyiragongo lava lake & mountain gorillas .... Eruption 2001 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e list: Tuesday, 18 \u003cb\u003eSeptember\u003c/b\u003e 2012 (M&gt;=2.5) (210 quakes) \u003cb\u003e....\u003c/b\u003e Tue, 18 \u003cbr\u003e  \u003cb\u003eSep\u003c/b\u003e 19:\u003cb\u003e13\u003c/b\u003e UTC, M 4.2 / 3 km - [info], (145 km), 37 km al Suroeste de \u003cb\u003e......\u003c/b\u003e Jan \u003cbr\u003e  2012 photos. \u003cb\u003eAfrica\u003c/b\u003e. Nyiragongo lava lake &amp; mountain gorillas \u003cb\u003e....\u003c/b\u003e Eruption \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NSd24MZm_xQJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-sep-18.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003esep\u003c/b\u003e-18.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Gauteng, South Africa",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Gauteng, South \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/p/south-africa/gauteng/recent",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Gauteng, South Africa has had: 0 earthquakes today; 0 earthquakes in the past 7   days; 0 earthquakes in the past month; 1 earthquake in the past year ...",
+   "htmlSnippet": "Gauteng, South \u003cb\u003eAfrica\u003c/b\u003e has had: 0 \u003cb\u003eearthquakes\u003c/b\u003e today; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the past 7 \u003cbr\u003e  days; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the past month; 1 \u003cb\u003eearthquake\u003c/b\u003e in the past year \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zZhP8mCbw5sJ",
+   "formattedUrl": "earthquaketrack.com/p/south-africa/gauteng/recent",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/p/south-\u003cb\u003eafrica\u003c/b\u003e/gauteng/recent",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "IWL1eSb7v1G0mci9/M8zCN46CRv1Az0ri8y+T9BxTPo="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismotectonics and seismic hazards in Africa",
+   "htmlTitle": "Seismotectonics and \u003cb\u003eseismic\u003c/b\u003e hazards in \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "displayLink": "eost.u-strasbg.fr",
+   "snippet": "Africa. In this project, the preparation of thematic maps in earthquake hazards   constitutes .... September 2011 in Windhoek (Namibia). ..... 13. Midzi, V. &   Ottem??ller, L., 2001. Receiver function structure beneath three southern Africa   seismic ...",
+   "htmlSnippet": "\u003cb\u003eAfrica\u003c/b\u003e. In this project, the preparation of thematic maps in \u003cb\u003eearthquake\u003c/b\u003e hazards \u003cbr\u003e  constitutes \u003cb\u003e....\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 2011 in Windhoek (Namibia). \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e13\u003c/b\u003e. Midzi, V. &amp; \u003cbr\u003e  Ottem??ller, L., \u003cb\u003e2001\u003c/b\u003e. Receiver function structure beneath three southern \u003cb\u003eAfrica\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uxGp73DozZUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "htmlFormattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110615115411+02'00'",
+      "author": "Mustapha",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20110615115411+02'00'",
+      "title": "Microsoft Word - Seismotectonic-Map_Project.doc"
+     }
+    ]
+   }
+  }
+ ]
+}

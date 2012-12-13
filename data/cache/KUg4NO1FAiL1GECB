@@ -1,0 +1,295 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 25 2001 Africa Earthquake",
+    "totalResults": "770000",
+    "searchTerms": "Jun 25 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 25 2001 Africa Earthquake",
+    "totalResults": "770000",
+    "searchTerms": "Jun 25 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.237725,
+  "formattedSearchTime": "0.24",
+  "totalResults": "770000",
+  "formattedTotalResults": "770,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 25 2001 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 25 2001 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 4.9,   SOUTH AFRICA, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222 ... 5.4,   Meydan, Turkey, Jun 25 2001, 13:28:49 UTC, 37.180, 36.210 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 4.9, \u003cbr\u003e  SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Jul 31 2001, 22:22:22, -26.937, 26.792, 200107312222 \u003cb\u003e...\u003c/b\u003e 5.4, \u003cbr\u003e  Meydan, Turkey, \u003cb\u003eJun 25 2001\u003c/b\u003e, 13:28:49 UTC, 37.180, 36.210 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "National Museum of African Art / Art and Programs / Virtual Exhibitions",
+   "htmlTitle": "National Museum of \u003cb\u003eAfrican\u003c/b\u003e Art / Art and Programs / Virtual Exhibitions",
+   "link": "http://africa.si.edu/exhibits/past.html",
+   "displayLink": "africa.si.edu",
+   "snippet": "Resonance from the Past: African Sculpture from the New Orleans Museum of ...   Artworks: Selected African Musical Instruments, June 25, 2000???April 8, 2001 ...   The Healing Power of Art: Works of Art by Haitian Children after the Earthquake.",
+   "htmlSnippet": "Resonance from the Past: \u003cb\u003eAfrican\u003c/b\u003e Sculpture from the New Orleans Museum of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Artworks: Selected \u003cb\u003eAfrican\u003c/b\u003e Musical Instruments, \u003cb\u003eJune 25\u003c/b\u003e, 2000???April 8, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The Healing Power of Art: Works of Art by Haitian Children after the \u003cb\u003eEarthquake\u003c/b\u003e.",
+   "cacheId": "JXeGBQPQnEcJ",
+   "formattedUrl": "africa.si.edu/exhibits/past.html",
+   "htmlFormattedUrl": "\u003cb\u003eafrica\u003c/b\u003e.si.edu/exhibits/past.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://africa.si.edu/exhibits/images/exhibitsmenu1_11.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "180",
+      "height": "104",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-lfUJKKDnUoxtBrakrjZSxi73YFoWoviQsvjecVaekoHxEEGBXVPS9YU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Destruction and Tsunami After Plates Collide Again - New York Times",
+   "htmlTitle": "Destruction and Tsunami After Plates Collide Again - New York Times",
+   "link": "http://www.nytimes.com/2007/08/17/world/americas/17quake.html",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Aug 17, 2007 ... The earthquake that struck off Peru's southern coast on Wednesday occurred ...   2001); Peru Is Sending Aid To Quake Victims (June 25, 2001) ...",
+   "htmlSnippet": "Aug 17, 2007 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e that struck off Peru&#39;s southern coast on Wednesday occurred \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  2001); Peru Is Sending Aid To \u003cb\u003eQuake\u003c/b\u003e Victims (\u003cb\u003eJune 25, 2001\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.nytimes.com/2007/08/17/world/americas/17quake.html",
+   "htmlFormattedUrl": "www.nytimes.com/2007/08/17/world/americas/17\u003cb\u003equake\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "displaydate": "August 17, 2007",
+      "hdl": "Destruction and Tsunami After Plates Collide Again",
+      "byl": "By CORNELIA DEAN",
+      "lp": "The earthquake that struck off Peru???s southern coast on Wednesday occurred in one of the world???s most active geological areas.",
+      "cre": "The New York Times",
+      "edt": "NewYork",
+      "pdate": "20070817",
+      "des": "Earthquakes",
+      "org": "United States Geological Survey",
+      "geo": "Peru",
+      "dat": "August 17, 2007",
+      "tom": "News",
+      "dsk": "International / Americas",
+      "articleid": "1154686675587",
+      "hdr_img": "/images/article/header/sect_world.gif",
+      "article_template_version": "600",
+      "sec": "A",
+      "pg": "8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This list of earthquakes in Greece includes notable earthquakes that have   affected Greece ... zone in the eastern Mediterranean between the African Plate   and the Eurasian Plate. ... 8 June 2008, 12:25, Peloponnese ... Stiros, S.C. (2001)  .",
+   "htmlSnippet": "This list of \u003cb\u003eearthquakes\u003c/b\u003e in Greece includes notable \u003cb\u003eearthquakes\u003c/b\u003e that have \u003cbr\u003e  affected Greece \u003cb\u003e...\u003c/b\u003e zone in the eastern Mediterranean between the \u003cb\u003eAfrican\u003c/b\u003e Plate \u003cbr\u003e  and the Eurasian Plate. \u003cb\u003e...\u003c/b\u003e 8 \u003cb\u003eJune\u003c/b\u003e 2008, 12:\u003cb\u003e25\u003c/b\u003e, Peloponnese \u003cb\u003e...\u003c/b\u003e Stiros, S.C. (\u003cb\u003e2001\u003c/b\u003e)\u003cbr\u003e  .",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today in History June 25",
+   "htmlTitle": "Today in History \u003cb\u003eJune 25\u003c/b\u003e",
+   "link": "http://timelines.ws/days/06_25.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1990 Jun 25, African National Congress leader Nelson Mandela met with .....   2001 Jun 25, The June 23 Peru earthquake was revised to 8.1 magnitude with   the ...",
+   "htmlSnippet": "1990 \u003cb\u003eJun 25\u003c/b\u003e, \u003cb\u003eAfrican\u003c/b\u003e National Congress leader Nelson Mandela met with \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2001 Jun 25\u003c/b\u003e, The \u003cb\u003eJune\u003c/b\u003e 23 Peru \u003cb\u003eearthquake\u003c/b\u003e was revised to 8.1 magnitude with \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5_LOuLoC0p8J",
+   "formattedUrl": "timelines.ws/days/06_25.HTML",
+   "htmlFormattedUrl": "timelines.ws/days/06_\u003cb\u003e25\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algis Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "June 3, 2001, 02:41, Kermadec Islands, ???29.666, ???178.633, 0, 7.2, Mw (HRV) .....   see September 2007 Sumatra earthquakes, ???4.517, 101.382, 25 (total), 8.5 ...",
+   "htmlSnippet": "\u003cb\u003eJune\u003c/b\u003e 3, \u003cb\u003e2001\u003c/b\u003e, 02:41, Kermadec Islands, ???29.666, ???178.633, 0, 7.2, Mw (HRV) \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  see September 2007 Sumatra \u003cb\u003eearthquakes\u003c/b\u003e, ???4.517, 101.382, \u003cb\u003e25\u003c/b\u003e (total), 8.5 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismotectonics and seismic hazards in Africa",
+   "htmlTitle": "Seismotectonics and \u003cb\u003eseismic\u003c/b\u003e hazards in \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "displayLink": "eost.u-strasbg.fr",
+   "snippet": "Africa. In this project, the preparation of thematic maps in earthquake hazards .....   Initiation February 2001. ..... Africa workshop, June 25, 2004 Addis Ababa. 20.",
+   "htmlSnippet": "\u003cb\u003eAfrica\u003c/b\u003e. In this project, the preparation of thematic maps in \u003cb\u003eearthquake\u003c/b\u003e hazards \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Initiation February \u003cb\u003e2001\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eAfrica\u003c/b\u003e workshop, \u003cb\u003eJune 25\u003c/b\u003e, 2004 Addis Ababa. 20.",
+   "cacheId": "uxGp73DozZUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "htmlFormattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110615115411+02'00'",
+      "author": "Mustapha",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20110615115411+02'00'",
+      "title": "Microsoft Word - Seismotectonic-Map_Project.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Listed below are all known earthquakes measured or estimated to have a   moment ... 1615, Arica, Chile (then part of the Spanish Empire), 1615 Arica   earthquake, 8.8 (est.) .... 50,000???92,000 (non-Haitian sources), 7.0, Estimate   June 2010. ... region, Japan, 142,800, 7.9, An earthquake which struck the Kant??   plain on the ...",
+   "htmlSnippet": "Listed below are all known \u003cb\u003eearthquakes\u003c/b\u003e measured or estimated to have a \u003cbr\u003e  moment \u003cb\u003e...\u003c/b\u003e 1615, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of the Spanish Empire), 1615 Arica \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, 8.8 (est.) \u003cb\u003e....\u003c/b\u003e 50,000???92,000 (non-Haitian sources), 7.0, Estimate \u003cbr\u003e  \u003cb\u003eJune\u003c/b\u003e 2010. \u003cb\u003e...\u003c/b\u003e region, Japan, 142,800, 7.9, An \u003cb\u003eearthquake\u003c/b\u003e which struck the Kant?? \u003cbr\u003e  plain on the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "June 25 Events in History",
+   "htmlTitle": "\u003cb\u003eJune 25\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/june_25.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "June 25 in history.",
+   "htmlSnippet": "\u003cb\u003eJune 25\u003c/b\u003e in history.",
+   "cacheId": "Mi76q3HH_nEJ",
+   "formattedUrl": "www.brainyhistory.com/days/june_25.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003ejune\u003c/b\u003e_\u003cb\u003e25\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "June 25 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/june_25.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Amway - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Amway - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Amway",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "6.1 Orlando Arena naming rights; 6.2 San Jose Earthquakes; 6.3 Los Angeles ...   to Africa in 1997, to India and Scandinavia in 1998, to Russia in 2005, and to   Vietnam in 2008. ... In June 2007 it was announced that the Quixtar brand would   be phased out over ...... U.S. Patent 7,359,871; ^ Bannan, Karen J (June 25, 2001  ).",
+   "htmlSnippet": "6.1 Orlando Arena naming rights; 6.2 San Jose \u003cb\u003eEarthquakes\u003c/b\u003e; 6.3 Los Angeles \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  to \u003cb\u003eAfrica\u003c/b\u003e in 1997, to India and Scandinavia in 1998, to Russia in 2005, and to \u003cbr\u003e  Vietnam in 2008. \u003cb\u003e...\u003c/b\u003e In June 2007 it was announced that the Quixtar brand would \u003cbr\u003e  be phased out over \u003cb\u003e......\u003c/b\u003e U.S. Patent 7,359,871; ^ Bannan, Karen J (\u003cb\u003eJune 25\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e\u003cbr\u003e  ).",
+   "cacheId": "gSn97HrwMIUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Amway",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Amway",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ada_Michigan_Amway_HQ_DSCN9720.JPG/220px-Ada_Michigan_Amway_HQ_DSCN9720.JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzS69nbvafY20SVpRbsxCEgNQY2-BTQGmd_Ex6wGIQOO8J6KGncJazQGPq"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Amway",
+      "label": "Ada, Michigan, United States",
+      "category": "Private"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 14 2001 Asia Earthquake",
+    "totalResults": "647000",
+    "searchTerms": "Nov 14 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 14 2001 Asia Earthquake",
+    "totalResults": "647000",
+    "searchTerms": "Nov 14 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.220928,
+  "formattedSearchTime": "0.22",
+  "totalResults": "647000",
+  "formattedTotalResults": "647,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list November 28, 2012 ??? Moderate shallow ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember\u003c/b\u003e 28, 2012 ??? Moderate shallow \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/11/24/major-earthquakes-list-november-28-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 29, 2012 ... ER, I Felt A (not Listed) Earthquake, Nov 28 23:58 PM, 4.6, 0.1, MAP ?? I Felt It ...   pas comme celui de Boumerdes en 2001 mais il n'y a pas vraiment une grande   .... to earthquakes in European and Asian / Middle East sphere (4 and up) and a   lot .... and 231 people injured - clean-up work has started (Nov. 14) ...",
+   "htmlSnippet": "Nov 29, 2012 \u003cb\u003e...\u003c/b\u003e ER, I Felt A (not Listed) \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003eNov\u003c/b\u003e 28 23:58 PM, 4.6, 0.1, MAP &middot; I Felt It \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  pas comme celui de Boumerdes en \u003cb\u003e2001\u003c/b\u003e mais il n&#39;y a pas vraiment une grande \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e to \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a \u003cbr\u003e  lot \u003cb\u003e....\u003c/b\u003e and 231 people injured - clean-up work has started (\u003cb\u003eNov\u003c/b\u003e. \u003cb\u003e14\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-MHktRYdVb8J",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-november-28-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003enovember\u003c/b\u003e-28-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-29-at-00.37.54.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "246",
+      "height": "205",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQab5zXiIZc-yzVTLm-wMxS5p_CUNvpPjAYgfB_BrD2vRzSnNDIFurUDBY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The November 14th, 2001, Mw=7.8 Kokoxili Earthquake in Northern ...",
+   "htmlTitle": "The \u003cb\u003eNovember 14th, 2001\u003c/b\u003e, Mw=7.8 Kokoxili \u003cb\u003eEarthquake\u003c/b\u003e in Northern \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ipgp.fr/~klinger/page_web/biblio/publication/vdwoerdetal_SRL.pdf",
+   "displayLink": "www.ipgp.fr",
+   "snippet": "Nov 14, 2001 ... The 14/11/01 earthquake appears to have ruptured the left-lateral Kunlun Fault   .... northeastwards into Asia (Tapponnier et al., 2001a). The fault ...",
+   "htmlSnippet": "Nov 14, 2001 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003e14/11/01 earthquake\u003c/b\u003e appears to have ruptured the left-lateral Kunlun Fault \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e northeastwards into \u003cb\u003eAsia\u003c/b\u003e (Tapponnier et al., 2001a). The fault \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LbzS8iKfvVMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipgp.fr/~klinger/page_web/biblio/publication/vdwoerdetal_SRL.pdf",
+   "htmlFormattedUrl": "www.ipgp.fr/~klinger/page_web/biblio/publication/vdwoerdetal_SRL.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "D:20020110190131Z",
+      "author": "Jerome van der Woerd",
+      "producer": "Acrobat PDFWriter 4.05  for Power Macintosh",
+      "moddate": "D:20050407140253+02'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "November 9 aftershock near Van, Turkey ??? 40 killed, 600000 people ...",
+   "htmlTitle": "\u003cb\u003eNovember\u003c/b\u003e 9 aftershock near Van, Turkey ??? 40 killed, 600000 people \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/11/09/aftershock-near-van-turkey-creates-more-destruction-and-human-misery/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 13, 2011 ... Earthquake overview : The already so hard hit Van Ercis area was hit ... here from   a person buried below the rubble of the Asian Budget hotel. ... after the   earthquake of December 5, 2011 (delayed from November 14, 2011).",
+   "htmlSnippet": "Nov 13, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : The already so hard hit Van Ercis area was hit \u003cb\u003e...\u003c/b\u003e here from \u003cbr\u003e  a person buried below the rubble of the \u003cb\u003eAsian\u003c/b\u003e Budget hotel. \u003cb\u003e...\u003c/b\u003e after the \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of December 5, 2011 (delayed from \u003cb\u003eNovember 14\u003c/b\u003e, 2011).",
+   "cacheId": "bE4b06i8tfsJ",
+   "formattedUrl": "earthquake-report.com/.../aftershock-near-van-turkey-creates-more- destruction-and-human-misery/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../aftershock-near-van-turkey-creates-more- destruction-and-human-misery/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/11/turkey-13112011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "180",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFOM0XQDv-6OPaBli9ruPTPHJvV-C9-1lfD1Diea9gjIq4D0oePdK3B73d"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "R. de Haan"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in Asia",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eAsia\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/v/asia/biggest",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The Largest Earthquakes in Asia. ... Biggest Earthquakes Near Asia. Recent   Quakes ?? Biggest Quakes .... C. 14 years ago, 7.7 magnitude, 33 km depth. Luwuk ...",
+   "htmlSnippet": "The Largest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Biggest \u003cb\u003eEarthquakes\u003c/b\u003e Near \u003cb\u003eAsia\u003c/b\u003e. Recent \u003cbr\u003e  Quakes &middot; Biggest Quakes \u003cb\u003e....\u003c/b\u003e C. \u003cb\u003e14\u003c/b\u003e years ago, 7.7 magnitude, 33 km depth. Luwuk \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "COYJ8-gQud8J",
+   "formattedUrl": "earthquaketrack.com/v/asia/biggest",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/\u003cb\u003easia\u003c/b\u003e/biggest",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "F8u5X59QTfbU2i/72e5YvpqGs38SMkIYDei6C3rSIqY="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... The Van earthquakes in Turkey in October and November caused 604 deaths ...   Central Asia, UZ, KG, TJ, 19.07.2011, 14 (1-HA), (14-14), 35, 66 ..... BTE [2001] ???  Economic Costs of Natural Disasters in Australia???, Bureau of ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e The Van \u003cb\u003eearthquakes\u003c/b\u003e in Turkey in October and \u003cb\u003eNovember\u003c/b\u003e caused 604 deaths \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Central \u003cb\u003eAsia\u003c/b\u003e, UZ, KG, TJ, 19.07.2011, \u003cb\u003e14\u003c/b\u003e (1-HA), (\u003cb\u003e14\u003c/b\u003e-\u003cb\u003e14\u003c/b\u003e), 35, 66 \u003cb\u003e.....\u003c/b\u003e BTE [\u003cb\u003e2001\u003c/b\u003e] ???\u003cbr\u003e  Economic Costs of Natural Disasters in Australia???, Bureau of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 2001 El Salvador earthquakes, 13.04, ???88.66, 944, 7.7, Mw (HRV) ...   November 14, 2001, 09:26, Qinghai, China see 2001 Kunlun ...",
+   "htmlSnippet": "see 2001 El Salvador \u003cb\u003eearthquakes\u003c/b\u003e, 13.04, ???88.66, 944, 7.7, Mw (HRV) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember 14, 2001\u003c/b\u003e, 09:26, Qinghai, China see 2001 Kunlun \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive but deep earthquake below Eastern Papua New Guinea ...",
+   "htmlTitle": "Massive but deep \u003cb\u003eearthquake\u003c/b\u003e below Eastern Papua New Guinea \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/12/14/massive-but-deep-earthquake-below-eastern-papua-new-guinea/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Dec 15, 2011 ... Update 14/12 ??? 09:55 UTC : TJ Charlton, a person knowing the epicenter ... Other   earthquakes to have hit the region have occurred in 2001 and 2010, .... to   earthquakes in European and Asian / Middle East sphere (4 and up) and a lot ...   fatalities and 231 people injured - clean-up work has started (Nov. 14) ...",
+   "htmlSnippet": "Dec 15, 2011 \u003cb\u003e...\u003c/b\u003e Update \u003cb\u003e14\u003c/b\u003e/12 ??? 09:55 UTC : TJ Charlton, a person knowing the epicenter \u003cb\u003e...\u003c/b\u003e Other \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e to have hit the region have occurred in \u003cb\u003e2001\u003c/b\u003e and 2010, \u003cb\u003e....\u003c/b\u003e to \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a lot \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  fatalities and 231 people injured - clean-up work has started (\u003cb\u003eNov\u003c/b\u003e. \u003cb\u003e14\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WtLLwJjACMMJ",
+   "formattedUrl": "earthquake-report.com/.../14/massive-but-deep-earthquake-below-eastern- papua-new-guinea/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e14\u003c/b\u003e/massive-but-deep-\u003cb\u003eearthquake\u003c/b\u003e-below-eastern- papua-new-guinea/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/png-14122011-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "267",
+      "height": "189",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM9-3VUrYgBcQyWdqlN9fQB310kiutS1AcAhno-Eln7DUt0y0b9OhKHyf9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "bibliographie - bibliography Yann Klinger",
+   "htmlTitle": "bibliographie - bibliography Yann Klinger",
+   "link": "http://www.ipgp.fr/~klinger/page_web/biblio/biblio_liste.html",
+   "displayLink": "www.ipgp.fr",
+   "snippet": "J. Asian Earth Sc., 58, p. .... [25] Vall??e M., Land??s M., Shapiro N. M., Klinger Y.   The 2001/11/14 Kokoxili (Tibet) earthquake: high frequency seismic radiation ...",
+   "htmlSnippet": "J. \u003cb\u003eAsian\u003c/b\u003e Earth Sc., 58, p. \u003cb\u003e....\u003c/b\u003e [25] Vall??e M., Land??s M., Shapiro N. M., Klinger Y. \u003cbr\u003e  The \u003cb\u003e2001/11/14\u003c/b\u003e Kokoxili (Tibet) \u003cb\u003eearthquake\u003c/b\u003e: high frequency seismic radiation \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-D7HheN6oPcJ",
+   "formattedUrl": "www.ipgp.fr/~klinger/page_web/biblio/biblio_liste.html",
+   "htmlFormattedUrl": "www.ipgp.fr/~klinger/page_web/biblio/biblio_liste.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Continental dynamics and continental earthquakes",
+   "htmlTitle": "Continental dynamics and continental \u003cb\u003eearthquakes\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/v550g624484m0t56.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "ject of ???East Asian Continental Geodynamics??? and the project of ... On   November 14, 2001 (at 09:26:14.7 UTC), an MW=7.8 earthquake occurred near   to the ...",
+   "htmlSnippet": "ject of ???East \u003cb\u003eAsian\u003c/b\u003e Continental Geodynamics??? and the project of \u003cb\u003e...\u003c/b\u003e On \u003cbr\u003e  \u003cb\u003eNovember 14\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e (at 09:26:14.7 UTC), an MW=7.8 \u003cb\u003eearthquake\u003c/b\u003e occurred near \u003cbr\u003e  to the \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/v550g624484m0t56.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/v550g624484m0t56.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080408110711+03'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20080411125826+08'00'",
+      "title": "Continental dynamics and continental earthquakes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Evidence for an earthquake barrier model from Mw???7.8 Kokoxili ...",
+   "htmlTitle": "Evidence for an \u003cb\u003eearthquake\u003c/b\u003e barrier model from Mw???7.8 Kokoxili \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ipgp.fr/~klinger/page_web/biblio/publication/klinger_epsl06.pdf",
+   "displayLink": "www.ipgp.fr",
+   "snippet": "The slip distribution of the Mw???7.8 Kokoxili (Tibet, 2001) earthquake has ... Main   active faults of the Tibetan part of the India???Asia collision zone (modified from [10  ]). ... Kokoxili earthquake (14 November 2001) is outlined in white, with centroid ...",
+   "htmlSnippet": "The slip distribution of the Mw???7.8 Kokoxili (Tibet, 2001) \u003cb\u003eearthquake\u003c/b\u003e has \u003cb\u003e...\u003c/b\u003e Main \u003cbr\u003e  active faults of the Tibetan part of the India???\u003cb\u003eAsia\u003c/b\u003e collision zone (modified from [10\u003cbr\u003e  ]). \u003cb\u003e...\u003c/b\u003e Kokoxili \u003cb\u003eearthquake\u003c/b\u003e (\u003cb\u003e14 November 2001\u003c/b\u003e) is outlined in white, with centroid \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "buYaE8JhSqEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipgp.fr/~klinger/page_web/biblio/publication/klinger_epsl06.pdf",
+   "htmlFormattedUrl": "www.ipgp.fr/~klinger/page_web/biblio/publication/klinger_epsl06.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060213163711",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "title": "doi:10.1016/j.epsl.2005.12.003",
+      "creator": "Elsevier",
+      "moddate": "D:20060213201032+08'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

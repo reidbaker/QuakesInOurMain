@@ -1,0 +1,291 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 10 1999 Australia Earthquake",
+    "totalResults": "753000",
+    "searchTerms": "May 10 1999 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 10 1999 Australia Earthquake",
+    "totalResults": "753000",
+    "searchTerms": "May 10 1999 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.281626,
+  "formattedSearchTime": "0.28",
+  "totalResults": "753000",
+  "formattedTotalResults": "753,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Australia earthquake list",
+   "htmlTitle": "\u003cb\u003eAustralia earthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/04/28/australia-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 20, 2012 ... Australia - 10 secs, noticeable but as much as June quake ... Can anyone offer   me any suggestions as to what it may be? ...... and felt off the coast of Croatia in   1999 after Turkeys devastating earthquake but scary enough!",
+   "htmlSnippet": "Jun 20, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e - \u003cb\u003e10\u003c/b\u003e secs, noticeable but as much as June \u003cb\u003equake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Can anyone offer \u003cbr\u003e  me any suggestions as to what it \u003cb\u003emay\u003c/b\u003e be? \u003cb\u003e......\u003c/b\u003e and felt off the coast of Croatia in \u003cbr\u003e  \u003cb\u003e1999\u003c/b\u003e after Turkeys devastating \u003cb\u003eearthquake\u003c/b\u003e but scary enough!",
+   "cacheId": "L4ABAq2S-lwJ",
+   "formattedUrl": "earthquake-report.com/2012/04/28/australia-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/04/28/\u003cb\u003eaustralia\u003c/b\u003e-\u003cb\u003eearthquake\u003c/b\u003e-list/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Darryl",
+      "nickname": "Darryl"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   Unless ... May 1885, 6.8, Offshore quake, Felt in Tasmania and in eastern Victoria   ..... C. Kerr-Grant (10 November 1955). .... Past Earthquake News: 1999.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  Unless \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMay\u003c/b\u003e 1885, 6.8, Offshore \u003cb\u003equake\u003c/b\u003e, Felt in Tasmania and in eastern Victoria \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e C. Kerr-Grant (\u003cb\u003e10\u003c/b\u003e November 1955). \u003cb\u003e....\u003c/b\u003e Past \u003cb\u003eEarthquake\u003c/b\u003e News: \u003cb\u003e1999\u003c/b\u003e.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... The author takes no responsibility for errors that may be in the data and also   misuse of ... Figure 10 ??? The direct economic losses in each 2011 CATDAT   damaging earthquake ... This database has been presented at the Australian   Earthquake ..... =8, Izmit, Turkey, 17.08.1999, $3.38bn-$7.89bn, RMS (1999) ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e The author takes no responsibility for errors that \u003cb\u003emay\u003c/b\u003e be in the data and also \u003cbr\u003e  misuse of \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e10\u003c/b\u003e ??? The direct economic losses in each 2011 CATDAT \u003cbr\u003e  damaging \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e =8, Izmit, Turkey, 17.08.\u003cb\u003e1999\u003c/b\u003e, $3.38bn-$7.89bn, RMS (\u003cb\u003e1999\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australian Seismological Report - 1999",
+   "htmlTitle": "\u003cb\u003eAustralian\u003c/b\u003e Seismological Report - \u003cb\u003e1999\u003c/b\u003e",
+   "link": "http://www.aees.org.au/Articles/McCue_ASR99.pdf",
+   "displayLink": "www.aees.org.au",
+   "snippet": "Australia. Large and even moderate-sized intraplate earthquakes may pose a ....   Tobin Lake (Zone 10A) There were no earthquakes in the Tobin Lake Region.",
+   "htmlSnippet": "\u003cb\u003eAustralia\u003c/b\u003e. Large and even moderate-sized intraplate \u003cb\u003eearthquakes may\u003c/b\u003e pose a \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Tobin Lake (Zone \u003cb\u003e10A\u003c/b\u003e) There were no \u003cb\u003eearthquakes\u003c/b\u003e in the Tobin Lake Region.",
+   "cacheId": "q8HYyLkaA6MJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.aees.org.au/Articles/McCue_ASR99.pdf",
+   "htmlFormattedUrl": "www.aees.org.au/Articles/McCue_ASR99.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "asr99txt",
+      "author": "K F McCue",
+      "producer": "Mac OS X 10.6.2 Quartz PDFContext",
+      "creator": "Microsoft Word",
+      "creationdate": "D:20100208011309Z00'00'",
+      "moddate": "D:20100208011309Z00'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Ecuador ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Ecuador \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 10, 2012 at 11:54 pm by By Armand Vervaeck and .....   The epicenter of the November 12, 1999 earthquake was at 40.8 N , 31.6 E .....   This earthquake may be the largest ???on land??? earthquake in the modern history of   Japan. ..... 37 cm at Pago Pago, American Samoa; 4 cm at Southport, Australia.",
+   "htmlSnippet": "Last update: December \u003cb\u003e10\u003c/b\u003e, 2012 at 11:54 pm by By Armand Vervaeck and \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  The epicenter of the November 12, \u003cb\u003e1999 earthquake\u003c/b\u003e was at 40.8 N , 31.6 E \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  This \u003cb\u003eearthquake may\u003c/b\u003e be the largest ???on land??? \u003cb\u003eearthquake\u003c/b\u003e in the modern history of \u003cbr\u003e  Japan. \u003cb\u003e.....\u003c/b\u003e 37 cm at Pago Pago, American Samoa; 4 cm at Southport, \u003cb\u003eAustralia\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... San   Francisco earthquake of 1906, 37.75, ???122.55, 3,000, 7.8, Mw (Bakun, 1999),   USGS. 01906-08-17August 17, 1906, 00:10, Aleutian Islands ... 1906, Off the   coast of Western Australia, Australia, 7.6, Mw .... 01928-05-14May 14, 1928, 22:  14 UTC, Peru ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e San \u003cbr\u003e  Francisco \u003cb\u003eearthquake\u003c/b\u003e of 1906, 37.75, ???122.55, 3,000, 7.8, Mw (Bakun, \u003cb\u003e1999\u003c/b\u003e), \u003cbr\u003e  USGS. 01906-08-17August 17, 1906, 00:\u003cb\u003e10\u003c/b\u003e, Aleutian Islands \u003cb\u003e...\u003c/b\u003e 1906, Off the \u003cbr\u003e  coast of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e....\u003c/b\u003e 01928-05-14\u003cb\u003eMay\u003c/b\u003e 14, 1928, 22:\u003cbr\u003e  14 UTC, Peru \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Top Tweets (toptweets) on Twitter",
+   "htmlTitle": "Top Tweets (toptweets) on Twitter",
+   "link": "https://twitter.com/toptweets",
+   "displayLink": "twitter.com",
+   "snippet": "10 Dec ?? Snapchat Life \u200f@SnapchatLife. when someone opens my .... Twitter may   be over capacity or experiencing a momentary hiccup. Try again or visit Twitter ...",
+   "htmlSnippet": "\u003cb\u003e10\u003c/b\u003e Dec &middot; Snapchat Life \u200f@SnapchatLife. when someone opens my \u003cb\u003e....\u003c/b\u003e Twitter \u003cb\u003emay\u003c/b\u003e \u003cbr\u003e  be over capacity or experiencing a momentary hiccup. Try again or visit Twitter \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EtoXMpQV_WkJ",
+   "formattedUrl": "https://twitter.com/toptweets",
+   "htmlFormattedUrl": "https://twitter.com/toptweets",
+   "pagemap": {
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Seismicity in Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Seismicity in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Aug 20, 2011... in Central Australia. For a listing of recent Australian earthquakes, follow this   link ... in damage (in 1954 $). 22 May 1961, Robertson/Bowral, 5.6, $500,00 (in   1961 $) .... Also, events north of 10 degrees South are not plotted. Important .... 17   Mar 1999, 01:58, -34.23, 150.77, 4.8, Appin, NSW. 29 Aug 2000 ...",
+   "htmlSnippet": "Aug 20, 2011\u003cb\u003e...\u003c/b\u003e in Central \u003cb\u003eAustralia\u003c/b\u003e. For a listing of recent \u003cb\u003eAustralian earthquakes\u003c/b\u003e, follow this \u003cbr\u003e  link \u003cb\u003e...\u003c/b\u003e in damage (in 1954 $). 22 \u003cb\u003eMay\u003c/b\u003e 1961, Robertson/Bowral, 5.6, $500,00 (in \u003cbr\u003e  1961 $) \u003cb\u003e....\u003c/b\u003e Also, events north of \u003cb\u003e10\u003c/b\u003e degrees South are not plotted. Important \u003cb\u003e....\u003c/b\u003e 17 \u003cbr\u003e  Mar \u003cb\u003e1999\u003c/b\u003e, 01:58, -34.23, 150.77, 4.8, Appin, NSW. 29 Aug 2000 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w1yMftxdSCkJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity_in_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32684"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0y-_VdOt97EaQcatNSECvkyYtwP5d-jCx_yj8JSWfCuxRjC0WZH2IuGo"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity in Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/43699",
+      "dc.date.modified": "2011-08-20",
+      "dc.date.created": "2004-02-07",
+      "dc.date.valid": "2012-08-20",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/43699",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "9/56 YEAR CYCLE: AUSTRALIAN EARTHQUAKES",
+   "htmlTitle": "9/56 YEAR CYCLE: \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.davidmcminn.com/eqpages/appendaust.htm",
+   "displayLink": "www.davidmcminn.com",
+   "snippet": "The 56 year Sequence 12 was the most important in Australian seismic history,   as it contained 6 major Australian ... 6.8, May 10, 1897, Offshore Beachport, SA ...",
+   "htmlSnippet": "The 56 year Sequence 12 was the most important in \u003cb\u003eAustralian seismic\u003c/b\u003e history, \u003cbr\u003e  as it contained 6 major \u003cb\u003eAustralian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 6.8, \u003cb\u003eMay 10\u003c/b\u003e, 1897, Offshore Beachport, SA \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Pj3M1ZRiI8J",
+   "formattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "htmlFormattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "526 May 29, Antioch, Turkey, was struck by an earthquake and about 250,000   died. .... 1933 Mar 10, In Long Beach a 6.3-6.4 earthquake killed 115 people. .....   1999 May 7, A series of earthquakes hit southern Iran and at least 26 people   were .... miles south of the boundary between the Indo-Australian and Eurasian   Plates.",
+   "htmlSnippet": "526 \u003cb\u003eMay\u003c/b\u003e 29, Antioch, Turkey, was struck by an \u003cb\u003eearthquake\u003c/b\u003e and about 250,000 \u003cbr\u003e  died. \u003cb\u003e....\u003c/b\u003e 1933 Mar \u003cb\u003e10\u003c/b\u003e, In Long Beach a 6.3-6.4 \u003cb\u003eearthquake\u003c/b\u003e killed 115 people. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1999 May\u003c/b\u003e 7, A series of \u003cb\u003eearthquakes\u003c/b\u003e hit southern Iran and at least 26 people \u003cbr\u003e  were \u003cb\u003e....\u003c/b\u003e miles south of the boundary between the Indo-\u003cb\u003eAustralian\u003c/b\u003e and Eurasian \u003cbr\u003e  Plates.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  }
+ ]
+}

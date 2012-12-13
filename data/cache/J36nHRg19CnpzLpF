@@ -1,0 +1,292 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 23 2001 Australia Earthquake",
+    "totalResults": "717000",
+    "searchTerms": "Aug 23 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 23 2001 Australia Earthquake",
+    "totalResults": "717000",
+    "searchTerms": "Aug 23 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.245794,
+  "formattedSearchTime": "0.25",
+  "totalResults": "717000",
+  "formattedTotalResults": "717,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... SOS Earthquakes was founded in August 2010. .... Total Economic Loss, 194-  290 (41%), 176-258 (36%), 109-162 (23%) ... This database has been presented   at the Australian Earthquake Engineering Society ...... BTE [2001] ???Economic   Costs of Natural Disasters in Australia???, Bureau of Transport ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e SOS \u003cb\u003eEarthquakes\u003c/b\u003e was founded in \u003cb\u003eAugust\u003c/b\u003e 2010. \u003cb\u003e....\u003c/b\u003e Total Economic Loss, 194-\u003cbr\u003e  290 (41%), 176-258 (36%), 109-162 (\u003cb\u003e23\u003c/b\u003e%) \u003cb\u003e...\u003c/b\u003e This database has been presented \u003cbr\u003e  at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering Society \u003cb\u003e......\u003c/b\u003e BTE [\u003cb\u003e2001\u003c/b\u003e] ???Economic \u003cbr\u003e  Costs of Natural Disasters in \u003cb\u003eAustralia\u003c/b\u003e???, Bureau of Transport \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake hits Virginia, Felt in New York on Tuesday, August 23 ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e hits Virginia, Felt in New York on Tuesday, \u003cb\u003eAugust 23\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://photos.denverpost.com/2011/08/23/photos-earthquake-hits-virginia-on-tuesday-august-23-2011/",
+   "displayLink": "photos.denverpost.com",
+   "snippet": "Aug 23, 2011 ... A 5.9 magnitude earthquake centered northwest of Richmond, Virginia shook ...   D.C. and could be felt as far away as New York on Tuesday, August 23, 2011. ...   to mark the 10th anniversary of the September 11, 2001 terror attacks. ..... Staff   and employees from the Australian Embassy to the United States ...",
+   "htmlSnippet": "Aug 23, 2011 \u003cb\u003e...\u003c/b\u003e A 5.9 magnitude \u003cb\u003eearthquake\u003c/b\u003e centered northwest of Richmond, Virginia shook \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  D.C. and could be felt as far away as New York on Tuesday, \u003cb\u003eAugust 23\u003c/b\u003e, 2011. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  to mark the 10th anniversary of the September 11, \u003cb\u003e2001\u003c/b\u003e terror attacks. \u003cb\u003e.....\u003c/b\u003e Staff \u003cbr\u003e  and employees from the \u003cb\u003eAustralian\u003c/b\u003e Embassy to the United States \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "U8QQK0c_lmcJ",
+   "formattedUrl": "photos.denverpost.com/.../23/photos-earthquake-hits-virginia-on-tuesday- august-23-2011/",
+   "htmlFormattedUrl": "photos.denverpost.com/.../\u003cb\u003e23\u003c/b\u003e/photos-\u003cb\u003eearthquake\u003c/b\u003e-hits-virginia-on-tuesday- \u003cb\u003eaugust\u003c/b\u003e-\u003cb\u003e23\u003c/b\u003e-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mcenter.slideshowpro.com/albums/027/935/album-257443/cache/dp240600.sJPG_150_150_1_45_1_50_50.sJPG?1354705439"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Photos: Earthquake hits Virginia, Felt in New York on Tuesday, August 23, 2011",
+      "og:type": "article",
+      "og:url": "http://photos.denverpost.com/2011/08/23/photos-earthquake-hits-virginia-on-tuesday-august-23-2011/",
+      "og:image": "http://mcenter.slideshowpro.com/albums/027/935/album-257443/cache/dp240600.sJPG_150_150_1_45_1_50_50.sJPG?1354705439"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comparing the current impact of the ???Van??? Earthquake to past ...",
+   "htmlTitle": "Comparing the current impact of the ???Van??? \u003cb\u003eEarthquake\u003c/b\u003e to past \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/11/03/comparing-the-current-impact-of-the-van-earthquake-to-past-earthquakes-in-eastern-turkey/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 3, 2011 ... We also thank the General Sir John Monash Foundation, Australia. ... The Van   earthquake in 2011 hit at 10:41 GMT (13:41 Local) on Sunday, October 23rd,   2011. ..... The number of sold policies was at 2.43 million in 2001 (19% of the   insurable ..... Anatolia) earthquake of 19 August 1966???, UNESCO Report ...",
+   "htmlSnippet": "Nov 3, 2011 \u003cb\u003e...\u003c/b\u003e We also thank the General Sir John Monash Foundation, \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The Van \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in 2011 hit at 10:41 GMT (13:41 Local) on Sunday, October \u003cb\u003e23\u003c/b\u003erd, \u003cbr\u003e  2011. \u003cb\u003e.....\u003c/b\u003e The number of sold policies was at 2.43 million in \u003cb\u003e2001\u003c/b\u003e (19% of the \u003cbr\u003e  insurable \u003cb\u003e.....\u003c/b\u003e Anatolia) \u003cb\u003eearthquake\u003c/b\u003e of 19 \u003cb\u003eAugust\u003c/b\u003e 1966???, UNESCO Report \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0rEQokH4BMUJ",
+   "formattedUrl": "earthquake-report.com/.../comparing-the-current-impact-of-the-van- earthquake-to-past-earthquakes-in-eastern-turkey/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../comparing-the-current-impact-of-the-van- \u003cb\u003eearthquake\u003c/b\u003e-to-past-\u003cb\u003eearthquakes\u003c/b\u003e-in-eastern-turkey/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/11/1b.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "249",
+      "height": "202",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScMd0yudLtcsUEHE7rZLKKte2CkHjAYBtKRdbD4nsSqAKOo-xRsNVT9arM"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "pejman",
+      "nickname": "pejman"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "August 23 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAugust 23\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/August_23",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "August 23 is the 235th day of the year (236th in leap years) in the Gregorian   calendar. ... record for the highest individual Test innings of 364, during a Test   match against Australia. ... The earthquake is felt as far north as Ontario, Canada,   as far south as Miami, Florida, and ..... 1919); 2001 ??? Peter Maas, American   novelist (b.",
+   "htmlSnippet": "\u003cb\u003eAugust 23\u003c/b\u003e is the 235th day of the year (236th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e record for the highest individual Test innings of 364, during a Test \u003cbr\u003e  match against \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e is felt as far north as Ontario, Canada, \u003cbr\u003e  as far south as Miami, Florida, and \u003cb\u003e.....\u003c/b\u003e 1919); \u003cb\u003e2001\u003c/b\u003e ??? Peter Maas, American \u003cbr\u003e  novelist (b.",
+   "cacheId": "ZrlVPpHMl4AJ",
+   "formattedUrl": "en.wikipedia.org/wiki/August_23",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAugust\u003c/b\u003e_\u003cb\u003e23\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "5.0 Gulf of Aden quake: Andromeda Council sonic beam destroys ...",
+   "htmlTitle": "5.0 Gulf of Aden \u003cb\u003equake\u003c/b\u003e: Andromeda Council sonic beam destroys \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://exopolitics.blogs.com/exopolitics/2011/11/50-gulf-of-aden-quake-andromeda-council-sonic-beam-destroys-reptilian-base-1.html",
+   "displayLink": "exopolitics.blogs.com",
+   "snippet": "Nov 23, 2011 ... FIG A - A 5.0 Gulf of Aden quake epicenter: Andromeda Council sonic beam ...   Independent researchers have now stated that the August 23, 2001 ..... Glyphs   affirm Pleiadians as Extraterrestrial originators of Australian ...",
+   "htmlSnippet": "Nov 23, 2011 \u003cb\u003e...\u003c/b\u003e FIG A - A 5.0 Gulf of Aden \u003cb\u003equake\u003c/b\u003e epicenter: Andromeda Council sonic beam \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Independent researchers have now stated that the \u003cb\u003eAugust 23, 2001\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e Glyphs \u003cbr\u003e  affirm Pleiadians as Extraterrestrial originators of \u003cb\u003eAustralian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kjPUv3WM26UJ",
+   "formattedUrl": "exopolitics.blogs.com/.../50-gulf-of-aden-quake-andromeda-council-sonic- beam-destroys-reptilian-base-1.html",
+   "htmlFormattedUrl": "exopolitics.blogs.com/.../50-gulf-of-aden-\u003cb\u003equake\u003c/b\u003e-andromeda-council-sonic- beam-destroys-reptilian-base-1.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://exopolitics.blogs.com/.a/6a00d8341c73dd53ef0154382c8844970c-200pi"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "139",
+      "height": "160",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsQP-uD5qpW3vYqRVF3xM-Je7Us-1wAMilAAop3OPp3DotCjOREy9afUk"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "EXOPOLITICS: Politics, Government, and Law in the Universe: 5.0 Gulf of Aden quake: Andromeda Council sonic beam destroys reptilian base",
+      "og:image": "http://exopolitics.blogs.com/.a/6a00d8341c73dd53ef0154382c8844970c-200pi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "Issue date: Sep 13, 2011. Application number: 12/130,922 ...",
+   "htmlSnippet": "Issue date: \u003cb\u003eSep\u003c/b\u003e 13, 2011. Application number: 12/130,922 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 6.8, SOLOMON ISLANDS, Dec 23 2001, 22:52:55, -9.610, 159.640 ... 4.8,   VICTORIA, AUSTRALIA, Oct 27 2001, 07:58:48, -35.309, 143.682 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 6.8, SOLOMON ISLANDS, Dec \u003cb\u003e23 2001\u003c/b\u003e, 22:52:55, -9.610, 159.640 \u003cb\u003e...\u003c/b\u003e 4.8, \u003cbr\u003e  VICTORIA, \u003cb\u003eAUSTRALIA\u003c/b\u003e, \u003cb\u003eOct\u003c/b\u003e 27 \u003cb\u003e2001\u003c/b\u003e, 07:58:48, -35.309, 143.682 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current earthquakes world-wide, Thursday, 6 December 2012: past ...",
+   "htmlTitle": "Current \u003cb\u003eearthquakes\u003c/b\u003e world-wide, Thursday, 6 December 2012: past \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/today.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Interactive Map of Active Volcanoes and recent Earthquakes world-wide - click to   show/ | Earthquakes ... Thu, 6 Dec 20:23 UTC, M 3.6 / 21.1 km - [info], 93 Km SSE   from Pilos ..... Etna private tour (15 August 08): photos. Kilauea ... Australia.   Newer Volcanics Prov. South America. Colombia. Ecuador. Peru ... Eruption   2001 ...",
+   "htmlSnippet": "Interactive Map of Active Volcanoes and recent \u003cb\u003eEarthquakes\u003c/b\u003e world-wide - click to \u003cbr\u003e  show/ | \u003cb\u003eEarthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Thu, 6 Dec 20:\u003cb\u003e23\u003c/b\u003e UTC, M 3.6 / 21.1 km - [info], 93 Km SSE \u003cbr\u003e  from Pilos \u003cb\u003e.....\u003c/b\u003e Etna private tour (15 \u003cb\u003eAugust\u003c/b\u003e 08): photos. Kilauea \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e. \u003cbr\u003e  Newer Volcanics Prov. South America. Colombia. Ecuador. Peru \u003cb\u003e...\u003c/b\u003e Eruption \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uSi_y8RoXw0J",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/today.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/today.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minerals | Recent earthquakes in SA",
+   "htmlTitle": "Minerals | Recent \u003cb\u003eearthquakes\u003c/b\u003e in SA",
+   "link": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "displayLink": "www.pir.sa.gov.au",
+   "snippet": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals   division. ... 23 November 2012, 17:03, -28.578??, 137.800??, 125 km N of Marree,   2.7 ...",
+   "htmlSnippet": "Most recent \u003cb\u003eearthquakes\u003c/b\u003e recorded in South \u003cb\u003eAustralia\u003c/b\u003e by PIRSA&#39;s Minerals \u003cbr\u003e  division. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e23\u003c/b\u003e November 2012, 17:03, -28.578??, 137.800??, 125 km N of Marree, \u003cbr\u003e  2.7 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SS6ROhNnXxwJ",
+   "formattedUrl": "www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "htmlFormattedUrl": "www.pir.sa.gov.au/minerals/\u003cb\u003eearthquakes\u003c/b\u003e/recent_\u003cb\u003eearthquakes\u003c/b\u003e_in_sa",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en",
+      "dc.creator.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.publisher.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.title": "Recent earthquakes in SA",
+      "dc.date.created": "2008-05-20EST10:03:29",
+      "dc.date.modified": "2012-12-03EST15:37:50",
+      "dc.rights": "Copyright (c) Department of Primary Industries and Regions, South Australia",
+      "dc.identifier": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+      "dc.subject": "earthquake, latest, South Australia, recent",
+      "dc.description": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals division",
+      "subject": "earthquake, latest, South Australia, recent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... 1941 04 29 - Meeberrie, Australia - M 7.2 ?? 1968 10 14 - Meckering, Australia - M   ... 1290 09 27 - Chihli, China Fatalities 100,000; 1556 01 23 - Shensi, China ...   1986 10 10 - El Salvador - M 5.5 Fatalities 1,000; 2001 01 13 - El ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e 1941 04 29 - Meeberrie, \u003cb\u003eAustralia\u003c/b\u003e - M 7.2 &middot; 1968 10 14 - Meckering, \u003cb\u003eAustralia\u003c/b\u003e - M \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 1290 09 27 - Chihli, China Fatalities 100,000; 1556 01 \u003cb\u003e23\u003c/b\u003e - Shensi, China \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1986 10 10 - El Salvador - M 5.5 Fatalities 1,000; \u003cb\u003e2001\u003c/b\u003e 01 13 - El \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  }
+ ]
+}

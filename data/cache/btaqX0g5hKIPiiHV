@@ -1,0 +1,287 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 13 1993 Asia Earthquake",
+    "totalResults": "500000",
+    "searchTerms": "Oct 13 1993 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 13 1993 Asia Earthquake",
+    "totalResults": "500000",
+    "searchTerms": "Oct 13 1993 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.255753,
+  "formattedSearchTime": "0.26",
+  "totalResults": "500000",
+  "formattedTotalResults": "500,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Dec 1, 2012 ... Movie about Asian tsunami shuns 'disaster' label ... She died in 1993 at the age   of 105. .... After the quake struck off the west coast of Haida Gwaii on Oct. 27 at 8:  04 p.m. PT, emergency officials in B.C. did ..... October 13 2012 ...",
+   "htmlSnippet": "Dec 1, 2012 \u003cb\u003e...\u003c/b\u003e Movie about \u003cb\u003eAsian\u003c/b\u003e tsunami shuns &#39;disaster&#39; label \u003cb\u003e...\u003c/b\u003e She died in \u003cb\u003e1993\u003c/b\u003e at the age \u003cbr\u003e  of 105. \u003cb\u003e....\u003c/b\u003e After the \u003cb\u003equake\u003c/b\u003e struck off the west coast of Haida Gwaii on \u003cb\u003eOct\u003c/b\u003e. 27 at 8:\u003cbr\u003e  04 p.m. PT, emergency officials in B.C. did \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eOctober 13\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../13/template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e13\u003c/b\u003e/template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Destroyed 13 cities in Asia (minor), Described by the historians Tacitus and Pliny   .... 7.4, Ms Earthquake in same area on October 30 considered to be a foreshock   .... see 1857 Fort Tejon earthquake, 1, 7.9, M (Grant and Sieh, 1993; Stein and ...",
+   "htmlSnippet": "Destroyed \u003cb\u003e13\u003c/b\u003e cities in \u003cb\u003eAsia\u003c/b\u003e (minor), Described by the historians Tacitus and Pliny \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 7.4, Ms \u003cb\u003eEarthquake\u003c/b\u003e in same area on \u003cb\u003eOctober\u003c/b\u003e 30 considered to be a foreshock \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e see 1857 Fort Tejon \u003cb\u003eearthquake\u003c/b\u003e, 1, 7.9, M (Grant and Sieh, \u003cb\u003e1993\u003c/b\u003e; Stein and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Moderate extremely shallow earthquake in Atascosa County, Texas ...",
+   "htmlTitle": "Moderate extremely shallow \u003cb\u003eearthquake\u003c/b\u003e in Atascosa County, Texas \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/20/moderate-extremely-shallow-earthquake-in-atascosa-county-texas-united-states/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 12, 2011 ... An aftershock of the October 20 2011 4.8 magnitude earthquake ... There was a   4.3 magnitude earthquake in 1993 near the same location, and ... with emphasis   to earthquakes in European and Asian / Middle East sphere (4 ...",
+   "htmlSnippet": "Nov 12, 2011 \u003cb\u003e...\u003c/b\u003e An aftershock of the \u003cb\u003eOctober\u003c/b\u003e 20 2011 4.8 magnitude \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e There was a \u003cbr\u003e  4.3 magnitude \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e1993\u003c/b\u003e near the same location, and \u003cb\u003e...\u003c/b\u003e with emphasis \u003cbr\u003e  to \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FQ2SXHLrUjwJ",
+   "formattedUrl": "earthquake-report.com/.../moderate-extremely-shallow-earthquake-in- atascosa-county-texas-united-states/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../moderate-extremely-shallow-\u003cb\u003eearthquake\u003c/b\u003e-in- atascosa-county-texas-united-states/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/texas-20102011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "202",
+      "height": "250",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5gyi30mlxKNOmWPsQ8SpcXDOFT7cctmO6B3fB_kMMhW7c1l1lBR01Wik"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Gemunis",
+      "nickname": "Gemunis"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in South Asia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAsia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_South_Asia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The following is a list of earthquakes in South Asia. Map showing South Asia. ...   October 8, 2005, 03:50:38 UTC, 08:50:38 Local Time October 8, Kashmir   Pakistan India ... September 29, 1993, 03:50:38 UTC, 22:25 Local Time   September 29, Latur-Killari, India see 1993 Latur ... January 15, 1934, 2:13 PM (  I.S.T.), Bihar, India ...",
+   "htmlSnippet": "The following is a list of \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAsia\u003c/b\u003e. Map showing South \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eOctober\u003c/b\u003e 8, 2005, 03:50:38 UTC, 08:50:38 Local Time \u003cb\u003eOctober\u003c/b\u003e 8, Kashmir \u003cbr\u003e  Pakistan India \u003cb\u003e...\u003c/b\u003e September 29, \u003cb\u003e1993\u003c/b\u003e, 03:50:38 UTC, 22:25 Local Time \u003cbr\u003e  September 29, Latur-Killari, India see \u003cb\u003e1993\u003c/b\u003e Latur \u003cb\u003e...\u003c/b\u003e January 15, 1934, 2:\u003cb\u003e13\u003c/b\u003e PM (\u003cbr\u003e  I.S.T.), Bihar, India \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KGSQJPlFwKkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_South_Asia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_South_\u003cb\u003eAsia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/South_asia.jpg/220px-South_asia.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "220",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQszhl69E3gMXVvy_WlUzkwBwd-EPU0-mwkR8ncQG5FFdQP7YWk8QzO6Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dr.D.K. Paul, Department of Earthquake Engineering, Indian Institute ...",
+   "htmlTitle": "Dr.D.K. Paul, Department of \u003cb\u003eEarthquake\u003c/b\u003e Engineering, Indian Institute \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iitr.ac.in/departments/EQ/pages/People+Faculty+dpaulfeq.html",
+   "displayLink": "www.iitr.ac.in",
+   "snippet": "13th Symposium on Earthquake Engineering (13SEE), IIT Roorkee, Roorkee, .....   Asia Pacific Symposium on Wind Engineering, CED, Univ. of Roorkee, .... PAUL,   D.K.(1993), Engineering Aspects of The Uttarkashi Earthquake of October 20, ...",
+   "htmlSnippet": "\u003cb\u003e13\u003c/b\u003eth Symposium on \u003cb\u003eEarthquake\u003c/b\u003e Engineering (\u003cb\u003e13SEE\u003c/b\u003e), IIT Roorkee, Roorkee, \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAsia\u003c/b\u003e Pacific Symposium on Wind Engineering, CED, Univ. of Roorkee, \u003cb\u003e....\u003c/b\u003e PAUL, \u003cbr\u003e  D.K.(\u003cb\u003e1993\u003c/b\u003e), Engineering Aspects of The Uttarkashi \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eOctober\u003c/b\u003e 20, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Jz4O1oFsqLUJ",
+   "formattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dpaulfeq.html",
+   "htmlFormattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dpaulfeq.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iitr.ac.in/departments/EQ/uploads/Image/faculty/dpaulfeq.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "192",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGkia3msUwzHGV2NCUxRxjrDG4SKjpNBU39KyB4vkSvUu6IAsmfDYysNg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dr.D.K. Paul, Department of Earthquake Engineering,Indian Institute of Technology Roorkee",
+      "dc.title": "Dr.D.K. Paul, Department of Earthquake Engineering,Indian Institute of Technology Roorkee Index",
+      "dc.creator": "Information Management Group, IIT Roorkee",
+      "dc.creator.address": "img@iitr.ernet.in",
+      "dc.subject.keyword": "Department of Earthquake Engineering,Earthquake Engineering,Structural Dynamics,Soil Dynamics,Seismology,Seismotectonics,Instrumentation,DEQ,IIT Roorkee,Indian Institute of Technology,technology,roorkee,academics,b.tech,m.tech,PhD,Student Homepages,Research,Alumni,SRTEE,events,School of Research and Training in Earthquake Engineering,Codal Provisions,Disaster Mitigation,seismic zoning map,Strong Motion Instruments,Undergraduate,Shake and Shock tables,quasi static testing lab,Activities,Facilities",
+      "dc.subject.description": "Earthquake Engineering, IIT Roorkee involves b.tech,m.tech.undergraduate students for research activities and training in Seismology,Seismotectonics,Instrumentation,soil dynamics technology etc.",
+      "dc.type": "webpage",
+      "dc.image.like": "/Main/template/IIT_Roorkee_Main_Building.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? Asia Minor ??? Atlantic ...   Region - M 6.6; 2006 11 13 - Santiago del Estero, Argentina - M 6.8 .... 10 19 -   Northern India - M 6.8 Fatalities 2,000; 1993 09 29 - Latur-Killari, ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? \u003cb\u003eAsia\u003c/b\u003e Minor ??? Atlantic \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Region - M 6.6; 2006 11 \u003cb\u003e13\u003c/b\u003e - Santiago del Estero, Argentina - M 6.8 \u003cb\u003e....\u003c/b\u003e 10 19 - \u003cbr\u003e  Northern India - M 6.8 Fatalities 2,000; \u003cb\u003e1993\u003c/b\u003e 09 29 - Latur-Killari, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes, Floods and Landslides",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e, Floods and Landslides",
+   "link": "http://www.icsu.org/icsu-asia/publications/science-planning-reports/science-plan-on-hazards-and-disasters/Earthquake-%20Floods%20-%20Landslides.pdf",
+   "displayLink": "www.icsu.org",
+   "snippet": "ICSU Regional Office for Asia and the Pacific was inaugurated on the 19   September by the ... 13. Demonstration Studies, Projects and Interdisciplinary   Linkages 14 .... earthquake in Latur, western India, on 29 September 1993   claimed an estimated ... discussion at the ICSU General Assembly scheduled for   October 2008.",
+   "htmlSnippet": "ICSU Regional Office for \u003cb\u003eAsia\u003c/b\u003e and the Pacific was inaugurated on the 19 \u003cbr\u003e  September by the \u003cb\u003e...\u003c/b\u003e \u003cb\u003e13\u003c/b\u003e. Demonstration Studies, Projects and Interdisciplinary \u003cbr\u003e  Linkages 14 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e in Latur, western India, on 29 September \u003cb\u003e1993\u003c/b\u003e \u003cbr\u003e  claimed an estimated \u003cb\u003e...\u003c/b\u003e discussion at the ICSU General Assembly scheduled for \u003cbr\u003e  \u003cb\u003eOctober\u003c/b\u003e 2008.",
+   "cacheId": "Gkywd6I53kEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.icsu.org/...asia/.../Earthquake-%20Floods%20-%20Landslides.pdf",
+   "htmlFormattedUrl": "www.icsu.org/...\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-%20Floods%20-%20Landslides.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081128230311-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20081129072011+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Largest and Deadliest Earthquakes by Year",
+   "htmlTitle": "Largest and Deadliest \u003cb\u003eEarthquakes\u003c/b\u003e by Year",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Largest Earthquakes, Deadliest Earthquakes. Year, Date, Magnitude ... 1993, 08/  08, 7.8, 0, South of Mariana Islands, 1993, 09/29, 6.2, 9748, India. 1992, 12/12,   7.8, 2519 ... Page Last Modified: October 30, 2012 20:23:56 UTC. Offsite Link ...",
+   "htmlSnippet": "Largest \u003cb\u003eEarthquakes\u003c/b\u003e, Deadliest \u003cb\u003eEarthquakes\u003c/b\u003e. Year, Date, Magnitude \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1993\u003c/b\u003e, 08/\u003cbr\u003e  08, 7.8, 0, South of Mariana Islands, \u003cb\u003e1993\u003c/b\u003e, 09/29, 6.2, 9748, India. 1992, 12/12, \u003cbr\u003e  7.8, 2519 \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eOctober\u003c/b\u003e 30, 2012 20:23:56 UTC. Offsite Link \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mhiAOqI2nBAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/year/byyear.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dr.D.Shanker, Department of Earthquake Engineering, Indian ...",
+   "htmlTitle": "Dr.D.Shanker, Department of \u003cb\u003eEarthquake\u003c/b\u003e Engineering, Indian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "displayLink": "www.iitr.ac.in",
+   "snippet": "International Conference Asia Oceania Geoscience society (AOGS10),   Hyderabad ... building Structures, 27-28 October 2007, Institution of Engineer   Jabalpur Local Center. ... 13th World Conference on Earthquake Engineering,   Vancouver, B.C. Canada, ... 1995,; Eighteenth Annual Convention of AEG   January 24-26, 1993.",
+   "htmlSnippet": "International Conference \u003cb\u003eAsia\u003c/b\u003e Oceania Geoscience society (AOGS10), \u003cbr\u003e  Hyderabad \u003cb\u003e...\u003c/b\u003e building Structures, 27-28 \u003cb\u003eOctober\u003c/b\u003e 2007, Institution of Engineer \u003cbr\u003e  Jabalpur Local Center. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e13\u003c/b\u003eth World Conference on \u003cb\u003eEarthquake\u003c/b\u003e Engineering, \u003cbr\u003e  Vancouver, B.C. Canada, \u003cb\u003e...\u003c/b\u003e 1995,; Eighteenth Annual Convention of AEG \u003cbr\u003e  January 24-26, \u003cb\u003e1993\u003c/b\u003e.",
+   "cacheId": "hHwFGSSoXkwJ",
+   "formattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "htmlFormattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iitr.ac.in/departments/EQ/uploads/Image/faculty/dayasfeq.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu_bdrlQOpb_1Wbl2uX4msnwe12PH6PLiAfVChL8t2pocU2dbwugf2Wa3-"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee",
+      "dc.title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee Index",
+      "dc.creator": "Information Management Group, IIT Roorkee",
+      "dc.creator.address": "img@iitr.ernet.in",
+      "dc.subject.keyword": "Department of Earthquake Engineering,Earthquake Engineering,Structural Dynamics,Soil Dynamics,Seismology,Seismotectonics,Instrumentation,DEQ,IIT Roorkee,Indian Institute of Technology,technology,roorkee,academics,b.tech,m.tech,PhD,Student Homepages,Research,Alumni,SRTEE,events,School of Research and Training in Earthquake Engineering,Codal Provisions,Disaster Mitigation,seismic zoning map,Strong Motion Instruments,Undergraduate,Shake and Shock tables,quasi static testing lab,Activities,Facilities",
+      "dc.subject.description": "Earthquake Engineering, IIT Roorkee involves b.tech,m.tech.undergraduate students for research activities and training in Seismology,Seismotectonics,Instrumentation,soil dynamics technology etc.",
+      "dc.type": "webpage",
+      "dc.image.like": "/Main/template/IIT_Roorkee_Main_Building.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

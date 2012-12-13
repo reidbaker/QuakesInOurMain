@@ -1,0 +1,260 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 5 1995 Eurasia Earthquake",
+    "totalResults": "22300",
+    "searchTerms": "Dec 5 1995 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 5 1995 Eurasia Earthquake",
+    "totalResults": "22300",
+    "searchTerms": "Dec 5 1995 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.278418,
+  "formattedSearchTime": "0.28",
+  "totalResults": "22300",
+  "formattedTotalResults": "22,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive September 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The most recent earthquake related news : Click here .... The North American and   Eurasian plates are spreading apart along the mid-Atlantic ridge. .... Mexico,   1995 ??? Magnitude : 7.5 - 3 fatalities ... says that in the last two years it has been   established 5 seismic telemetry stations for forecasting earthquakes.",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The most recent \u003cb\u003eearthquake\u003c/b\u003e related news : Click here \u003cb\u003e....\u003c/b\u003e The North American and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plates are spreading apart along the mid-Atlantic ridge. \u003cb\u003e....\u003c/b\u003e Mexico, \u003cbr\u003e  \u003cb\u003e1995\u003c/b\u003e ??? Magnitude : 7.5 - 3 fatalities \u003cb\u003e...\u003c/b\u003e says that in the last two years it has been \u003cbr\u003e  established \u003cb\u003e5 seismic\u003c/b\u003e telemetry stations for forecasting \u003cb\u003eearthquakes\u003c/b\u003e.",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- september-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic hazard of Northern Eurasia",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e hazard of Northern \u003cb\u003eEurasia\u003c/b\u003e",
+   "link": "http://www.earth-prints.org/bitstream/2122/1404/1/05%20ulomov.pdf",
+   "displayLink": "www.earth-prints.org",
+   "snippet": "ANNALI DI GEOFISICA, VOL. 42, N. 6. December 1999. Seismic hazard of   Northern Eurasia. Valentin I. Ulomov. United Schmidt Institute of Physics of the   Earth, ...",
+   "htmlSnippet": "ANNALI DI GEOFISICA, VOL. 42, N. 6. \u003cb\u003eDecember\u003c/b\u003e 1999. \u003cb\u003eSeismic\u003c/b\u003e hazard of \u003cbr\u003e  Northern \u003cb\u003eEurasia\u003c/b\u003e. Valentin I. Ulomov. United Schmidt Institute of Physics of the \u003cbr\u003e  Earth, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RDQOv5uyLQgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth-prints.org/bitstream/2122/1404/1/05%20ulomov.pdf",
+   "htmlFormattedUrl": "www.earth-prints.org/bitstream/2122/1404/1/05%20ulomov.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Mon Jul 24 18:03:44 2006",
+      "creationdate": "Mon Jul 24 18:03:33 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Great Hanshin earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Great Hanshin \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Great_Hanshin_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Approximately 6,434 people lost their lives (final estimate as of December 22,   2005); ... [5]. By May 23, 1995: 1983 aftershocks in total, 249 felt. By Oct. 31, 1995  : .... accommodated east-west shortening of the Eurasian plate due to its collision ...",
+   "htmlSnippet": "Approximately 6,434 people lost their lives (final estimate as of \u003cb\u003eDecember\u003c/b\u003e 22, \u003cbr\u003e  2005); \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e5\u003c/b\u003e]. By May 23, \u003cb\u003e1995\u003c/b\u003e: 1983 aftershocks in total, 249 felt. By Oct. 31, \u003cb\u003e1995\u003c/b\u003e\u003cbr\u003e  : \u003cb\u003e....\u003c/b\u003e accommodated east-west shortening of the \u003cb\u003eEurasian\u003c/b\u003e plate due to its collision \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3EKWfUsUJqAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Great_Hanshin_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Great_Hanshin_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Port_of_Kobe_Earthquake_Memorial_Park2.jpg/240px-Port_of_Kobe_Earthquake_Memorial_Park2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "144",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoouJX2Tqx20tzJP1PhwXTW-ugG69h-tHreKmWr6SSZeyieHuIsSak14Bh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "QUAKELINE?? Literature Search ??? Seismic Codes and Standards",
+   "htmlTitle": "QUAKELINE?? Literature Search ??? \u003cb\u003eSeismic\u003c/b\u003e Codes and Standards",
+   "link": "ftp://mceer.buffalo.edu/pub/searches/07/10/071009.html",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Damage stated after the earthquakes are assessed and mapped for seismic risk   ...... of northwestward migration of the African plate against the Eurasian one. ....   Earthquake Engineering Research Institute; Alexandria, VA, December 5, 1995.",
+   "htmlSnippet": "Damage stated after the \u003cb\u003eearthquakes\u003c/b\u003e are assessed and mapped for \u003cb\u003eseismic\u003c/b\u003e risk \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e of northwestward migration of the African plate against the \u003cb\u003eEurasian\u003c/b\u003e one. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e Engineering Research Institute; Alexandria, VA, \u003cb\u003eDecember 5, 1995\u003c/b\u003e.",
+   "cacheId": "l2QosTn9F8YJ",
+   "formattedUrl": "ftp://mceer.buffalo.edu/pub/searches/07/10/071009.html",
+   "htmlFormattedUrl": "ftp://mceer.buffalo.edu/pub/searches/07/10/071009.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... convergence of the Philippine Sea plate and the Eurasian Plate to the east of   the island. Most of the earthquakes registered in Taiwan actually occur off the   east coast .... December 5, 1946, 06:47, Tainan, 23.1, 120.3, 5, 6.1, 74, 1,954,   1946 Xinhua earthquake ... February 23, 1995, 23:13, Hualien, 24.2, 121.7, 21.7,   5.8, 2 ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e convergence of the Philippine Sea plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate to the east of \u003cbr\u003e  the island. Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in Taiwan actually occur off the \u003cbr\u003e  east coast \u003cb\u003e....\u003c/b\u003e \u003cb\u003eDecember 5\u003c/b\u003e, 1946, 06:47, Tainan, 23.1, 120.3, \u003cb\u003e5\u003c/b\u003e, 6.1, 74, 1,954, \u003cbr\u003e  1946 Xinhua \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e February 23, \u003cb\u003e1995\u003c/b\u003e, 23:13, Hualien, 24.2, 121.7, 21.7, \u003cbr\u003e  5.8, 2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Megathrust Earthquakes at the Western Sunda Arc of Indonesia",
+   "htmlTitle": "Megathrust \u003cb\u003eEarthquakes\u003c/b\u003e at the Western Sunda Arc of Indonesia",
+   "link": "http://academic.emporia.edu/aberjame/student/drake1/sundaarc.html",
+   "displayLink": "academic.emporia.edu",
+   "snippet": "The Western Sunda Arc has experienced 5 megathrust erthquakes measuring ...   collection of tectonic activity at the southern corner of the Eurasian Plate. ... the   2007 earthquake sequence, Nature, V456, 631-635 (4 December 2008) ...   Puspito, N. T. and Kunihiko Shimazaki, 1995, Mantle structure and   seismotectonics of the ...",
+   "htmlSnippet": "The Western Sunda Arc has experienced \u003cb\u003e5\u003c/b\u003e megathrust erthquakes measuring \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  collection of tectonic activity at the southern corner of the \u003cb\u003eEurasian\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  2007 \u003cb\u003eearthquake\u003c/b\u003e sequence, Nature, V456, 631-635 (4 \u003cb\u003eDecember\u003c/b\u003e 2008) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Puspito, N. T. and Kunihiko Shimazaki, \u003cb\u003e1995\u003c/b\u003e, Mantle structure and \u003cbr\u003e  seismotectonics of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sHBRwzv0WKEJ",
+   "formattedUrl": "academic.emporia.edu/aberjame/student/drake1/sundaarc.html",
+   "htmlFormattedUrl": "academic.emporia.edu/aberjame/student/drake1/sundaarc.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://academic.emporia.edu/aberjame/student/drake1/earthquake%20map.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQSPR2-RfMNNcyU4n6teW8yN2GzI8PKu4lKMRHWv0kxQs8vckFkwiAPC7A"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKES AND JAPAN - Japan | Facts and Details",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKES\u003c/b\u003e AND JAPAN - Japan | Facts and Details",
+   "link": "http://factsanddetails.com/japan.php?itemid=866",
+   "displayLink": "factsanddetails.com",
+   "snippet": "Apr 10, 2012 ... The destructive Kobe earthquake in 1995 measured 6.9 on the Richter scale ....   Sea Plate slides at a rate of 5 millimeters a year under the Eurasian Plate. ..... In   December 2010, the Meteorological Agency issued an urgent ...",
+   "htmlSnippet": "Apr 10, 2012 \u003cb\u003e...\u003c/b\u003e The destructive Kobe \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e1995\u003c/b\u003e measured 6.9 on the Richter scale \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Sea Plate slides at a rate of \u003cb\u003e5\u003c/b\u003e millimeters a year under the \u003cb\u003eEurasian\u003c/b\u003e Plate. \u003cb\u003e.....\u003c/b\u003e In \u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e 2010, the Meteorological Agency issued an urgent \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gJeK6jryG6YJ",
+   "formattedUrl": "factsanddetails.com/japan.php?itemid=866",
+   "htmlFormattedUrl": "factsanddetails.com/japan.php?itemid=866",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20090818-J.B.%20Macelwane%20Archives,%20St.%20Louis%20University%20719.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "290",
+      "height": "174",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRH6f5OfsiID9AVZgulPBlv8cY8Av628YChnSCvFZTJZytErhJIUpen8wuB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.5 - 39km NNE of Chongdui, China 2012-11-05 13:08:00 UTC",
+   "htmlTitle": "M4.\u003cb\u003e5\u003c/b\u003e - 39km NNE of Chongdui, China 2012-11-05 13:08:00 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000dkje",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 5, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   .... Paperwork Reduction Act Statement The Paperwork Reduction Act of 1995 (  44 ... himalaya dominantly results from continental collision india eurasia ...   december 1920 m7 8 that killed approximately 200,000 people and the ...",
+   "htmlSnippet": "Nov 5, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Paperwork Reduction Act Statement The Paperwork Reduction Act of \u003cb\u003e1995\u003c/b\u003e (\u003cbr\u003e  44 \u003cb\u003e...\u003c/b\u003e himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003edecember\u003c/b\u003e 1920 m7 8 that killed approximately 200,000 people and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TjYR-hTbVgwJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000dkje",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000dkje"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Natural Disasters - Earthquakes - Damage",
+   "htmlTitle": "Natural Disasters - \u003cb\u003eEarthquakes\u003c/b\u003e - Damage",
+   "link": "http://library.thinkquest.org/03oct/00758/en/disaster/earthquake/damage.html",
+   "displayLink": "library.thinkquest.org",
+   "snippet": "On December 26, 2003 at 5:26 AM, an earthquake shook the small town of Bam   in the ... On January 17, 1995 at 8:46 PM, an earthquake of magnitude 7.2 ... East  , near the intersection of three plates: the Pacific, Eurasian, and Pilippine.",
+   "htmlSnippet": "On \u003cb\u003eDecember\u003c/b\u003e 26, 2003 at \u003cb\u003e5\u003c/b\u003e:26 AM, an \u003cb\u003eearthquake\u003c/b\u003e shook the small town of Bam \u003cbr\u003e  in the \u003cb\u003e...\u003c/b\u003e On January 17, \u003cb\u003e1995\u003c/b\u003e at 8:46 PM, an \u003cb\u003eearthquake\u003c/b\u003e of magnitude 7.2 \u003cb\u003e...\u003c/b\u003e East\u003cbr\u003e  , near the intersection of three plates: the Pacific, \u003cb\u003eEurasian\u003c/b\u003e, and Pilippine.",
+   "cacheId": "EE1k9owU7xQJ",
+   "formattedUrl": "library.thinkquest.org/03oct/00758/en/.../earthquake/damage.html",
+   "htmlFormattedUrl": "library.thinkquest.org/03oct/00758/en/.../\u003cb\u003eearthquake\u003c/b\u003e/damage.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://library.thinkquest.org/03oct/00758/en/icon/damage.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTH8qe27O2KAhbv0iAOgAth4vR0wFAf62i1ZBajcK0VchgtJmZzzUJLww"
+     }
+    ]
+   }
+  }
+ ]
+}

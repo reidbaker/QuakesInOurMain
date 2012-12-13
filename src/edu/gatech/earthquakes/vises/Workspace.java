@@ -27,7 +27,7 @@ public class Workspace extends AbstractVisualization implements Interactable {
     List<AbstractVisualization> openVises;
 
     private final float MAX_ASPECT_RATIO = 2.0f;
-    
+
     private int numHighlighted;
 
     private static final int BAR_WIDTH = 75, CORNER_RADIUS = 10,

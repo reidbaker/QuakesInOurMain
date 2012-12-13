@@ -1,0 +1,316 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 21 1972 North America Earthquake",
+    "totalResults": "370000",
+    "searchTerms": "Nov 21 1972 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 21 1972 North America Earthquake",
+    "totalResults": "370000",
+    "searchTerms": "Nov 21 1972 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.267803,
+  "formattedSearchTime": "0.27",
+  "totalResults": "370000",
+  "formattedTotalResults": "370,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Van ??? Ercis, Turkey ??? 604 Dead, Large Aftershock 5.6 ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Van ??? Ercis, Turkey ??? 604 Dead, Large Aftershock 5.6 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/23/very-strong-dangerous-earthquake-in-eastern-turkey/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 19, 2012 ... Earthquake overview : A very strong damaging earthquake occurred in the Van ...   Update 08/11 ??? 21:30 UTC A large aftershock has hit Van Province. .... 13 million   TL (around $7 million US) has been sent so far in terms of emergency relief   efforts. ..... Tripoli, North Lebanon: It lasted for a few minutes.",
+   "htmlSnippet": "May 19, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A very strong damaging \u003cb\u003eearthquake\u003c/b\u003e occurred in the Van \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Update 08/11 ??? \u003cb\u003e21\u003c/b\u003e:30 UTC A large aftershock has hit Van Province. \u003cb\u003e....\u003c/b\u003e 13 million \u003cbr\u003e  TL (around $7 million \u003cb\u003eUS\u003c/b\u003e) has been sent so far in terms of emergency relief \u003cbr\u003e  efforts. \u003cb\u003e.....\u003c/b\u003e Tripoli, \u003cb\u003eNorth\u003c/b\u003e Lebanon: It lasted for a few minutes.",
+   "cacheId": "yXv5upt2bRwJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-dangerous-earthquake-in-eastern- turkey/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-in-eastern- turkey/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/turkey-24102011-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01sclPrUIA_jzjfUiXfDqhvJQ94XnQmm8l_CxWHzaRUcFh9VOd1gpCSo"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Tina Kunz-Plapp",
+      "url": "http://www.cedim.de/",
+      "url_text": "Tina Kunz-Plapp"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://www.monashawards.org/",
+      "url_text": "James Daniell"
+     },
+     {
+      "fn": "Richard Lear"
+     },
+     {
+      "fn": "Derek",
+      "nickname": "Derek"
+     },
+     {
+      "fn": "michael juul holm"
+     },
+     {
+      "fn": "Elif Ergoz"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Lara",
+      "nickname": "Lara"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "November 21 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eNovember 21\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/November_21",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "November 21 is the 325th day of the year (326th in leap years) in the Gregorian   ... New York, 39-0, in the first ever professional American football night game. ...   in Washington, D.C. on the return of Okinawa to Japanese control in 1972. ...   2004 ??? The island of Dominica is hit by the most destructive earthquake in its   history.",
+   "htmlSnippet": "\u003cb\u003eNovember 21\u003c/b\u003e is the 325th day of the year (326th in leap years) in the Gregorian \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e New York, 39-0, in the first ever professional \u003cb\u003eAmerican\u003c/b\u003e football night game. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  in Washington, D.C. on the return of Okinawa to Japanese control in \u003cb\u003e1972\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  2004 ??? The island of Dominica is hit by the most destructive \u003cb\u003eearthquake\u003c/b\u003e in its \u003cbr\u003e  history.",
+   "cacheId": "zlyKUatbGEMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/November_21",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eNovember\u003c/b\u003e_\u003cb\u003e21\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "November 21st All Events",
+   "htmlTitle": "\u003cb\u003eNovember 21st\u003c/b\u003e All Events",
+   "link": "http://november-21st.inhistorytoday.com/",
+   "displayLink": "november-21st.inhistorytoday.com",
+   "snippet": "November 21st, 2005 (November 21 2005), Death, Hugh Sidey, American ...   Event, The island of Dominica is hit by the most destructive earthquake in its   history. ... Event, Iran-Contra Affair: National Security Council member Oliver   North and his .... November 21st, 1972 (November 21 1972), Birth, David Tua,   Samoan boxer ...",
+   "htmlSnippet": "November 21st, 2005 (November 21 2005), Death, Hugh Sidey, \u003cb\u003eAmerican\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Event, The island of Dominica is hit by the most destructive \u003cb\u003eearthquake\u003c/b\u003e in its \u003cbr\u003e  history. \u003cb\u003e...\u003c/b\u003e Event, Iran-Contra Affair: National Security Council member Oliver \u003cbr\u003e  \u003cb\u003eNorth\u003c/b\u003e and his \u003cb\u003e....\u003c/b\u003e \u003cb\u003eNovember 21st\u003c/b\u003e, \u003cb\u003e1972\u003c/b\u003e (\u003cb\u003eNovember 21 1972\u003c/b\u003e), Birth, David Tua, \u003cbr\u003e  Samoan boxer \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bSMYcCoAxBwJ",
+   "formattedUrl": "november-21st.inhistorytoday.com/",
+   "htmlFormattedUrl": "\u003cb\u003enovember\u003c/b\u003e-21st.inhistorytoday.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 5.6 - OKLAHOMA",
+   "htmlTitle": "Magnitude 5.6 - OKLAHOMA",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usb0006klz.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 6, 2011 ... Please use the new Real-time Earthquake Map instead and update your   bookmark. ... Sunday, November 06, 2011 at 03:53:10 UTC; Saturday, November   05, 2011 at ... Distances, 34 km (21 miles) NNE of Shawnee, Oklahoma .... and   Notices ?? In partnership with nehrp ?? Take Pride in America; USA.gov ...",
+   "htmlSnippet": "Nov 6, 2011 \u003cb\u003e...\u003c/b\u003e Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e Sunday, \u003cb\u003eNovember\u003c/b\u003e 06, 2011 at 03:53:10 UTC; Saturday, \u003cb\u003eNovember\u003c/b\u003e \u003cbr\u003e  05, 2011 at \u003cb\u003e...\u003c/b\u003e Distances, 34 km (\u003cb\u003e21\u003c/b\u003e miles) NNE of Shawnee, Oklahoma \u003cb\u003e....\u003c/b\u003e and \u003cbr\u003e  Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LNIsCIXz61MJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/.../Quakes/usb0006klz.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/.../\u003cb\u003eQuake\u003c/b\u003es/usb0006klz.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/images/globes/35_-95.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "116",
+      "height": "116",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjaiKVn8lLqOJiNmQngqvHjwQ4fBiScDFu0MlMlte7i_kIPy50rxJy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Volcanic Eruptions ??? Infoplease.com",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions ??? Infoplease.com",
+   "link": "http://www.infoplease.com/ipa/A0001439.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "1667: Nov., Shemakha, Caucasia: earthquake killed about 80,000 people. ...   1792: May 21, Kyushu Island, Japan: collapse of old lava dome during ... is the   largest series of earthquakes known to have occurred in North America. ... 1972:   Dec.",
+   "htmlSnippet": "1667: \u003cb\u003eNov\u003c/b\u003e., Shemakha, Caucasia: \u003cb\u003eearthquake\u003c/b\u003e killed about 80,000 people. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1792: May \u003cb\u003e21\u003c/b\u003e, Kyushu Island, Japan: collapse of old lava dome during \u003cb\u003e...\u003c/b\u003e is the \u003cbr\u003e  largest series of \u003cb\u003eearthquakes\u003c/b\u003e known to have occurred in \u003cb\u003eNorth America\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1972\u003c/b\u003e: \u003cbr\u003e  Dec.",
+   "cacheId": "eiPTxuWU3LMJ",
+   "formattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "htmlFormattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "chunk": "ART",
+      "idx": "Disasters",
+      "isub": "earthquake in (1755)",
+      "title": "Earthquakes and Volcanic Eruptions",
+      "waif": "Earthquakes",
+      "uniqid": "A0001439",
+      "parent": "A0001437",
+      "subchannel": "world",
+      "channel": "world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "David M. Boore pubs online",
+   "htmlTitle": "David M. Boore pubs online",
+   "link": "http://www.daveboore.com/pubs_online.php",
+   "displayLink": "www.daveboore.com",
+   "snippet": "(3.1 Mb) [published version of 21 March 2008 revision added 07 July 2008. ...   Congress in Earthquake Engineering and Engineering Seismology, Athens,   Greece, 05--07 November 2008, (in Greek, 15 pp, 1.9 Mb). ... Earthquake ground-  motion prediction equations for eastern North America, Bull. ..... Boore, D. M. (  1972).",
+   "htmlSnippet": "(3.1 Mb) [published version of \u003cb\u003e21\u003c/b\u003e March 2008 revision added 07 July 2008. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Congress in \u003cb\u003eEarthquake\u003c/b\u003e Engineering and Engineering Seismology, Athens, \u003cbr\u003e  Greece, 05--07 \u003cb\u003eNovember\u003c/b\u003e 2008, (in Greek, 15 pp, 1.9 Mb). \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e ground-\u003cbr\u003e  motion prediction equations for eastern \u003cb\u003eNorth America\u003c/b\u003e, Bull. \u003cb\u003e.....\u003c/b\u003e Boore, D. M. (\u003cbr\u003e  \u003cb\u003e1972\u003c/b\u003e).",
+   "cacheId": "RaE5TqxKYpQJ",
+   "formattedUrl": "www.daveboore.com/pubs_online.php",
+   "htmlFormattedUrl": "www.daveboore.com/pubs_online.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Convention Concerning the Protection of the World Cultural",
+   "htmlTitle": "Convention Concerning the Protection of the World Cultural",
+   "link": "http://whc.unesco.org/en/conventiontext",
+   "displayLink": "whc.unesco.org",
+   "snippet": "The General Conference of the United Nations Educational, Scientific and   Cultural Organization meeting in Paris from 17 October to 21 November 1972, at   its ...",
+   "htmlSnippet": "The General Conference of the United Nations Educational, Scientific and \u003cbr\u003e  Cultural Organization meeting in Paris from 17 October to \u003cb\u003e21 November 1972\u003c/b\u003e, at \u003cbr\u003e  its \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "r3u9bpmmuwgJ",
+   "formattedUrl": "whc.unesco.org/en/conventiontext",
+   "htmlFormattedUrl": "whc.unesco.org/en/conventiontext",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://whc.unesco.org/graphics/whc_unesco_en.png"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.language": "en",
+      "og:image": "http://whc.unesco.org/graphics/whc_unesco_en.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake map of America that will make you think again | Mail ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e map of \u003cb\u003eAmerica\u003c/b\u003e that will make you think again | Mail \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dailymail.co.uk/news/article-1366603/Earthquake-map-America-make-think-again.html",
+   "displayLink": "www.dailymail.co.uk",
+   "snippet": "Mar 16, 2011 ... Another study by the Mid-America Earthquake Centre estimated that nearly ... but   for eastern North America, this is a hot spot, the most active seismic .... free en   route to the gym The 21-year-old actress opted for a natural look ...",
+   "htmlSnippet": "Mar 16, 2011 \u003cb\u003e...\u003c/b\u003e Another study by the Mid-America \u003cb\u003eEarthquake\u003c/b\u003e Centre estimated that nearly \u003cb\u003e...\u003c/b\u003e but \u003cbr\u003e  for eastern \u003cb\u003eNorth America\u003c/b\u003e, this is a hot spot, the most active \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e free en \u003cbr\u003e  route to the gym The \u003cb\u003e21\u003c/b\u003e-year-old actress opted for a natural look \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.dailymail.co.uk/.../Earthquake-map-America-make-think-again.html",
+   "htmlFormattedUrl": "www.dailymail.co.uk/.../\u003cb\u003eEarthquake\u003c/b\u003e-map-\u003cb\u003eAmerica\u003c/b\u003e-make-think-again.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.dailymail.co.uk/i/pix/2011/03/15/article-1366603-0B307F2A00000578-208_308x185.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "channel": "News",
+      "msvalidate.01": "12E6B4B813EB44C9BFC8F6A21F1D01F5",
+      "y_key": "1a7e912afbfcab2f",
+      "rating": "General",
+      "doc-class": "Living Document",
+      "original-source": "http://www.dailymail.co.uk/news/article-1366603/Earthquake-map-America-make-think-again.html",
+      "articleid": "1366603",
+      "divclasspage": "articlePage",
+      "dartpagetype": "art",
+      "og:title": "Think living in Tennessee makes you safe from earthquakes? The earthquake map of America that will make you think again",
+      "og:type": "article",
+      "og:url": "http://www.dailymail.co.uk/news/article-1366603/Earthquake-map-America-make-think-again.html",
+      "og:image": "http://i.dailymail.co.uk/i/pix/2011/03/15/article-1366603-0B307F2A00000578-208_308x185.jpg",
+      "og:site_name": "Mail Online",
+      "fb:app_id": "146202712090395",
+      "og:description": "Americans associate quakes with the West Coast, the Pacific Northwest and Alaska. But 39 out of the 50 states have moderate to high seismic hazard risk.",
+      "article:published_time": "2011-03-15 20:47:36 UTC",
+      "article:modified_time": "2011-03-16 14:19:18 UTC",
+      "article:author": "http://www.dailymail.co.uk/home/search.html?s=&authornamef=David+Gardner",
+      "article:tag": "Earthquake map America make think again",
+      "article:section": "News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake rocks the American wilderness ??? History.com This Day ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e rocks the \u003cb\u003eAmerican\u003c/b\u003e wilderness ??? History.com This Day \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/earthquake-rocks-the-american-wilderness",
+   "displayLink": "www.history.com",
+   "snippet": "Although the earthquake greatly altered the topography of the region, the ...   leader of North Korea, dies; Dec 18, 1865: Slavery abolished in America ... Dec   19, 1972: Last lunar-landing mission ends; Dec 19, 1984: Britain agrees to ... Dec   20, 1995: NATO assumes peacekeeping duties in Bosnia; Dec 21, 1958 ...   November ...",
+   "htmlSnippet": "Although the \u003cb\u003eearthquake\u003c/b\u003e greatly altered the topography of the region, the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  leader of \u003cb\u003eNorth\u003c/b\u003e Korea, dies; Dec 18, 1865: Slavery abolished in \u003cb\u003eAmerica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Dec \u003cbr\u003e  19, \u003cb\u003e1972\u003c/b\u003e: Last lunar-landing mission ends; Dec 19, 1984: Britain agrees to \u003cb\u003e...\u003c/b\u003e Dec \u003cbr\u003e  20, 1995: NATO assumes peacekeeping duties in Bosnia; Dec \u003cb\u003e21\u003c/b\u003e, 1958 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lWUCVa9gl_kJ",
+   "formattedUrl": "www.history.com/this.../earthquake-rocks-the-american-wilderness",
+   "htmlFormattedUrl": "www.history.com/this.../\u003cb\u003eearthquake\u003c/b\u003e-rocks-the-\u003cb\u003eamerican\u003c/b\u003e-wilderness",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://shop.history.com/img/product/resized/00084008-278998_100.jpg?k=3c627966&pid=84008&s=catl"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlX7ig0dDO2NouXyp7ds6Y5H5dicypHx_zSFTQfF0YCDdB50A-A_Ul"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Earthquake rocks the American wilderness ??? History.com This Day in History ??? 12/16/1811",
+      "asset_type_id": "6",
+      "network": "History",
+      "display_description": "In the Mississippi River Valley near New Madrid, Missouri, the greatest series of earthquakes in U.S. history begins when a quake of an estimated 8.",
+      "asset_id": "1092868",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Earthquake rocks the American wilderness ??? History.com This Day in History ??? 12/16/1811",
+      "og:description": "In the Mississippi River Valley near New Madrid, Missouri, the greatest series of earthquakes in U.S. history begins when a quake of an estimated 8.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/earthquake-rocks-the-american-wilderness"
+     }
+    ]
+   }
+  }
+ ]
+}

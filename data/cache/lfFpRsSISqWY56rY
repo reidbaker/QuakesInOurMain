@@ -1,0 +1,327 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 3 2001 North America Earthquake",
+    "totalResults": "839000",
+    "searchTerms": "Sep 3 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 3 2001 North America Earthquake",
+    "totalResults": "839000",
+    "searchTerms": "Sep 3 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.231889,
+  "formattedSearchTime": "0.23",
+  "totalResults": "839000",
+  "formattedTotalResults": "839,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 3 2001 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 3 2001 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "... model when performing multi-scale inversion of seismic data ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e model when performing multi-scale inversion of \u003cb\u003eseismic\u003c/b\u003e data \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1906 San Francisco earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1906 San Francisco \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the 1989 earthquake, see 1989 Loma Prieta earthquake. ... but 189 were   reported elsewhere in the Bay Area; nearby cities, such as Santa Rosa ... forms   part of the boundary between the Pacific Plate and the North American Plate. .....   incident for the insurance industry before the September 11, 2001, attacks, and   the ...",
+   "htmlSnippet": "For the 1989 \u003cb\u003eearthquake\u003c/b\u003e, see 1989 Loma Prieta \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e but 189 were \u003cbr\u003e  reported elsewhere in the Bay Area; nearby cities, such as Santa Rosa \u003cb\u003e...\u003c/b\u003e forms \u003cbr\u003e  part of the boundary between the Pacific Plate and the \u003cb\u003eNorth American\u003c/b\u003e Plate. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  incident for the insurance industry before the \u003cb\u003eSeptember\u003c/b\u003e 11, \u003cb\u003e2001\u003c/b\u003e, attacks, and \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EOdHrDSYqjoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Post-and-Grant-Avenue.-Look.jpg/240px-Post-and-Grant-Avenue.-Look.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "143",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kQn3LhnMZO3RQrq_vzmYp69F1YB-4jjFmQE2YRVvuy_LDLiTC0lt6SZP"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MajorMovieMisconcept..",
+   "htmlTitle": "MajorMovieMisconcept..",
+   "link": "http://earthquakecountry.info/resources/10.5/MajorMovieMisconceptions.xml",
+   "displayLink": "earthquakecountry.info",
+   "snippet": "Mar 1, 2011 ... FICTION: There can be a magnitude 10.5 earthquake FACT: The ... Narrows, CA   6 3 5.8 June 28, 1991 Sierra Madre, CA 5 2 5.2 September 3, 2001 ... plate   boundary separating the Pacific plate from the North American plate.",
+   "htmlSnippet": "Mar 1, 2011 \u003cb\u003e...\u003c/b\u003e FICTION: There can be a magnitude 10.5 \u003cb\u003eearthquake\u003c/b\u003e FACT: The \u003cb\u003e...\u003c/b\u003e Narrows, CA \u003cbr\u003e  6 3 5.8 June 28, 1991 Sierra Madre, CA 5 2 5.2 \u003cb\u003eSeptember 3\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e plate \u003cbr\u003e  boundary separating the Pacific plate from the \u003cb\u003eNorth American\u003c/b\u003e plate.",
+   "cacheId": "Jh9NfJIf2CsJ",
+   "mime": "text/xml",
+   "formattedUrl": "earthquakecountry.info/resources/.../MajorMovieMisconceptions.xml",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003ecountry.info/resources/.../MajorMovieMisconceptions.xml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1812 New Madrid earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1812 New Madrid \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1812_New_Madrid_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Great Earthquake at New Madrid, a 19th-century woodcut from Devens' Our   ... and moderately across nearly 3 million square kilometers (1 million square   miles). .... of reactivated faults that formed when what is now North America   began to split .... Report: Kentucky; ^ Grollimund, Balz; Zoback, Mark D. (February   2001).",
+   "htmlSnippet": "The Great \u003cb\u003eEarthquake\u003c/b\u003e at New Madrid, a 19th-century woodcut from Devens&#39; Our \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e and moderately across nearly \u003cb\u003e3\u003c/b\u003e million square kilometers (1 million square \u003cbr\u003e  miles). \u003cb\u003e....\u003c/b\u003e of reactivated faults that formed when what is now \u003cb\u003eNorth America\u003c/b\u003e \u003cbr\u003e  began to split \u003cb\u003e....\u003c/b\u003e Report: Kentucky; ^ Grollimund, Balz; Zoback, Mark D. (February \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "pzhIplJx4uoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1812_New_Madrid_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1812_New_Madrid_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Madrid_Erdbeben.jpg/300px-New_Madrid_Erdbeben.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "172",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmVUQfYKri8WnOoE5ovYwNKJ-BemlVa42yfaiechbkjE8z0uvOxWlE2Qd4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Washington",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Washington",
+   "link": "http://www.dnr.wa.gov/researchscience/topics/geologichazardsmapping/pages/earthquakes.aspx",
+   "displayLink": "www.dnr.wa.gov",
+   "snippet": "The two plates are converging at a rate of about 3-4 centimeters per year (about   ... Fuca plate subducts under the North America plate, earthquakes are caused   by the ... For the February 28, 2001, Nisqually earthquake, the hypocenter, or   point ...",
+   "htmlSnippet": "The two plates are converging at a rate of about \u003cb\u003e3\u003c/b\u003e-4 centimeters per year (about \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Fuca plate subducts under the \u003cb\u003eNorth America\u003c/b\u003e plate, \u003cb\u003eearthquakes\u003c/b\u003e are caused \u003cbr\u003e  by the \u003cb\u003e...\u003c/b\u003e For the February 28, \u003cb\u003e2001\u003c/b\u003e, Nisqually \u003cb\u003eearthquake\u003c/b\u003e, the hypocenter, or \u003cbr\u003e  point \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.dnr.wa.gov/researchscience/topics/.../pages/earthquakes.aspx",
+   "htmlFormattedUrl": "www.dnr.wa.gov/researchscience/topics/.../pages/\u003cb\u003eearthquakes\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dnr.wa.gov/SiteCollectionImages/Places/ger_hazards_quakeblks.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgIR3rsN7T0ToZ3kphQngGS4_BTRqUHHbHtBpuTlxhSjMaOfnWN_muXo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "San Jose Earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "San Jose \u003cb\u003eEarthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Earthquakes has won two MLS Cup titles, in 2001 and 2003, and two MLS   Supporters' Shields, in 2005 and 2012. ... 2 Crest and shirt; 3 Stadiums; 4   Rivalries ... The franchise's roots trace back to 1974, when the North American   Soccer League .... In September 2006, after nearly nine months of inactivity (  displaying only ...",
+   "htmlSnippet": "The \u003cb\u003eEarthquakes\u003c/b\u003e has won two MLS Cup titles, in \u003cb\u003e2001\u003c/b\u003e and 2003, and two MLS \u003cbr\u003e  Supporters&#39; Shields, in 2005 and 2012. \u003cb\u003e...\u003c/b\u003e 2 Crest and shirt; \u003cb\u003e3\u003c/b\u003e Stadiums; 4 \u003cbr\u003e  Rivalries \u003cb\u003e...\u003c/b\u003e The franchise&#39;s roots trace back to 1974, when the \u003cb\u003eNorth American\u003c/b\u003e \u003cbr\u003e  Soccer League \u003cb\u003e....\u003c/b\u003e In \u003cb\u003eSeptember\u003c/b\u003e 2006, after nearly nine months of inactivity (\u003cbr\u003e  displaying only \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IeWj28J6mu8J",
+   "formattedUrl": "en.wikipedia.org/wiki/San_Jose_Earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/San_Jose_\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SanJosePlayers.jpg/300px-SanJosePlayers.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "180",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHGvkBFHb0c3Z1fXqOdgLL2tMZSawQuPcauI3N0Qiu2v0BeCWQEr1QcUQ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "San Jose Earthquakes",
+      "bday": "1994-06-15"
+     },
+     {
+      "fn": "David Bingham"
+     },
+     {
+      "fn": "Bingham, DavidDavid Bingham"
+     },
+     {
+      "fn": "Jacob Hustedt"
+     },
+     {
+      "fn": "Hustedt, JacobJacob Hustedt"
+     },
+     {
+      "fn": "Sam Cronin"
+     },
+     {
+      "fn": "Cronin, SamSam Cronin"
+     },
+     {
+      "fn": "Brad Ring"
+     },
+     {
+      "fn": "Ring, BradBrad Ring"
+     },
+     {
+      "fn": "Shea Salinas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Virginia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Virginia",
+   "link": "http://www.virginiaplaces.org/geology/quake.html",
+   "displayLink": "www.virginiaplaces.org",
+   "snippet": "Earthquakes - a part of Virginia geology. ... pushes Virginia (and the rest of the   North American Plate) towards China, at the rate of about 2-3 centimeters/year or ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e - a part of Virginia geology. \u003cb\u003e...\u003c/b\u003e pushes Virginia (and the rest of the \u003cbr\u003e  \u003cb\u003eNorth American\u003c/b\u003e Plate) towards China, at the rate of about 2-\u003cb\u003e3\u003c/b\u003e centimeters/year or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mbBGINkIIZ4J",
+   "formattedUrl": "www.virginiaplaces.org/geology/quake.html",
+   "htmlFormattedUrl": "www.virginiaplaces.org/geology/\u003cb\u003equake\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.virginiaplaces.org/geology/graphics/northamericanplate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSR8taALybPJjaCgq86fRRpDvV0WfOezR9smBXjsNkynEyDGiZ9Kqsj5oyV"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M 7.9 Denali fault earthquake of November 3, 2002",
+   "htmlTitle": "M 7.9 Denali fault \u003cb\u003eearthquake\u003c/b\u003e of November \u003cb\u003e3\u003c/b\u003e, 2002",
+   "link": "http://www.aeic.alaska.edu/Denali_Fault_2002/",
+   "displayLink": "www.aeic.alaska.edu",
+   "snippet": "The largest inland earthquake in North America in almost 150 years struck   Alaska on November 3, 2002. It ruptured three different faults ending with a total ...",
+   "htmlSnippet": "The largest inland \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eNorth America\u003c/b\u003e in almost 150 years struck \u003cbr\u003e  Alaska on November \u003cb\u003e3\u003c/b\u003e, 2002. It ruptured three different faults ending with a total \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VVWxKkf2cq8J",
+   "formattedUrl": "www.aeic.alaska.edu/Denali_Fault_2002/",
+   "htmlFormattedUrl": "www.aeic.alaska.edu/Denali_Fault_2002/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.aeic.alaska.edu/Denali_Fault_2002/Denali_flt_interp_sm.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "273",
+      "height": "185",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlg70vEopkopAo4meoS39q7ODsNurfO8kW92COnTpZjxEiFeB90oGdiVpu"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Monday, 3 September 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Monday, \u003cb\u003e3 September\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-sep-3.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Earthquake list: Monday, 3 September 2012 (M\u003e=2.5) (168 quakes) ... Mon, 3   Sep 22:18 UTC, M 4.1 / 14 km - [info], (149 km), 073 km N 62?? E of Burgos ......   south america colombia ecuador peru bolivia argentina chile north bolivia   argentina ... 2006 october 2006 2001 2000 1999 stromboli new september 2011   strong july ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e list: Monday, \u003cb\u003e3 September\u003c/b\u003e 2012 (M&gt;=2.5) (168 quakes) \u003cb\u003e...\u003c/b\u003e Mon, \u003cb\u003e3\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSep\u003c/b\u003e 22:18 UTC, M 4.1 / 14 km - [info], (149 km), 073 km \u003cb\u003eN\u003c/b\u003e 62?? E of Burgos \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  south \u003cb\u003eamerica\u003c/b\u003e colombia ecuador peru bolivia argentina chile \u003cb\u003enorth\u003c/b\u003e bolivia \u003cbr\u003e  argentina \u003cb\u003e...\u003c/b\u003e 2006 october 2006 \u003cb\u003e2001\u003c/b\u003e 2000 1999 stromboli new \u003cb\u003eseptember\u003c/b\u003e 2011 \u003cbr\u003e  strong july \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m9J7dOQwVVUJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-sep-3.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-\u003cb\u003esep\u003c/b\u003e-\u003cb\u003e3\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nuclear Power Plants and Earthquakes",
+   "htmlTitle": "Nuclear Power Plants and \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.world-nuclear.org/info/inf18.html",
+   "displayLink": "www.world-nuclear.org",
+   "snippet": "Nuclear power planst and earthquakes, how nuclear reactors are ... in September   2006 increased the Ss figure to be equivalent to an earthquake of 6.7 on ...   revised in 2001) in the light of newly accumulated knowledge on seismology and   ..... and Soviet design have been subjected to major seismic activity in North   America ...",
+   "htmlSnippet": "Nuclear power planst and \u003cb\u003eearthquakes\u003c/b\u003e, how nuclear reactors are \u003cb\u003e...\u003c/b\u003e in \u003cb\u003eSeptember\u003c/b\u003e \u003cbr\u003e  2006 increased the Ss figure to be equivalent to an \u003cb\u003eearthquake\u003c/b\u003e of 6.7 on \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  revised in \u003cb\u003e2001\u003c/b\u003e) in the light of newly accumulated knowledge on seismology and \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e and Soviet design have been subjected to major \u003cb\u003eseismic\u003c/b\u003e activity in \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7pr21gfxajUJ",
+   "formattedUrl": "www.world-nuclear.org/info/inf18.html",
+   "htmlFormattedUrl": "www.world-nuclear.org/info/inf18.html"
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 13 2001 Australia Earthquake",
+    "totalResults": "769000",
+    "searchTerms": "Aug 13 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 13 2001 Australia Earthquake",
+    "totalResults": "769000",
+    "searchTerms": "Aug 13 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.229736,
+  "formattedSearchTime": "0.23",
+  "totalResults": "769000",
+  "formattedTotalResults": "769,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... SOS Earthquakes was founded in August 2010. ... Figure 13 ??? Yearly Earthquake   and Secondary Effect deaths in ... This database has been presented at the   Australian Earthquake ...... BTE [2001] ???Economic Costs of Natural Disasters in   Australia???, Bureau of Transport Economics Report 103, Canberra.",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e SOS \u003cb\u003eEarthquakes\u003c/b\u003e was founded in \u003cb\u003eAugust\u003c/b\u003e 2010. \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e13\u003c/b\u003e ??? Yearly \u003cb\u003eEarthquake\u003c/b\u003e \u003cbr\u003e  and Secondary Effect deaths in \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cbr\u003e  \u003cb\u003eAustralian Earthquake\u003c/b\u003e \u003cb\u003e......\u003c/b\u003e BTE [\u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in \u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e???, Bureau of Transport Economics Report 103, Canberra.",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on August 13th This Day in History",
+   "htmlTitle": "What Happened on \u003cb\u003eAugust 13th\u003c/b\u003e This Day in History",
+   "link": "http://www.thepeoplehistory.com/august13th.html",
+   "displayLink": "www.thepeoplehistory.com",
+   "snippet": "13th Aug. 1905 : Chinese residents were shaken up by an earthquake and nine   ... 13th Aug. 2001 : International Aid Agencies in Congo including Save the ...",
+   "htmlSnippet": "13th Aug. 1905 : Chinese residents were shaken up by an \u003cb\u003eearthquake\u003c/b\u003e and nine \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003e13th Aug. 2001\u003c/b\u003e : International Aid Agencies in Congo including Save the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9cOwEXUarOQJ",
+   "formattedUrl": "www.thepeoplehistory.com/august13th.html",
+   "htmlFormattedUrl": "www.thepeoplehistory.com/\u003cb\u003eaugust13\u003c/b\u003eth.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "The People History -- Steve Pearson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Tohoku earthquake and tsunami : CATDAT 41 report ...",
+   "htmlTitle": "Japan Tohoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami : CATDAT 41 report \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/02/japan-tohoku-earthquake-and-tsunami-catdat-41-report-october-2-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 5, 2011 ... Around 35% of buildings in the area were built pre-1980, around 55% from 1981-  2000 and 10% post 2001. In terms of seismic code, this ...",
+   "htmlSnippet": "Oct 5, 2011 \u003cb\u003e...\u003c/b\u003e Around 35% of buildings in the area were built pre-1980, around 55% from 1981-\u003cbr\u003e  2000 and 10% post \u003cb\u003e2001\u003c/b\u003e. In terms of \u003cb\u003eseismic\u003c/b\u003e code, this \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "35ovD4FI7OwJ",
+   "formattedUrl": "earthquake-report.com/.../japan-tohoku-earthquake-and-tsunami-catdat-41- report-october-2-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../japan-tohoku-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami-catdat-41- report-\u003cb\u003eoct\u003c/b\u003eober-2-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/JMA-Intensity.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "270",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpowXEZ0UgNHafUonfrPTdaftD1Q_A5_YcnKK4LO_B08MpxlkwlmmdRHrQ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "anon",
+      "nickname": "anon"
+     },
+     {
+      "fn": "Ana Paula Silva Correia and Jos?? Rodrigues Ribeiro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.8, VICTORIA, AUSTRALIA, Oct 27 2001, 07:58:48, -35.309, 143.682 ... 6.4,   HOKKAIDO, JAPAN REGION, Aug 13 2001, 20:11:25, 41.050 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.8, VICTORIA, \u003cb\u003eAUSTRALIA\u003c/b\u003e, Oct 27 2001, 07:58:48, -35.309, 143.682 \u003cb\u003e...\u003c/b\u003e 6.4, \u003cbr\u003e  HOKKAIDO, JAPAN REGION, \u003cb\u003eAug 13 2001\u003c/b\u003e, 20:11:25, 41.050 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RHTr1D3AukoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=2001",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e2001\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comparing the current impact of the ???Van??? Earthquake to past ...",
+   "htmlTitle": "Comparing the current impact of the ???Van??? \u003cb\u003eEarthquake\u003c/b\u003e to past \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/11/03/comparing-the-current-impact-of-the-van-earthquake-to-past-earthquakes-in-eastern-turkey/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 3, 2011 ... We also thank the General Sir John Monash Foundation, Australia. 1 Introduction   and Setting. The Van earthquake in 2011 hit at 10:41 GMT (13:41 Local) on   Sunday, ..... The number of sold policies was at 2.43 million in 2001 (19% of the   ..... Anatolia) earthquake of 19 August 1966???, UNESCO Report ...",
+   "htmlSnippet": "Nov 3, 2011 \u003cb\u003e...\u003c/b\u003e We also thank the General Sir John Monash Foundation, \u003cb\u003eAustralia\u003c/b\u003e. 1 Introduction \u003cbr\u003e  and Setting. The Van \u003cb\u003eearthquake\u003c/b\u003e in 2011 hit at 10:41 GMT (\u003cb\u003e13\u003c/b\u003e:41 Local) on \u003cbr\u003e  Sunday, \u003cb\u003e.....\u003c/b\u003e The number of sold policies was at 2.43 million in \u003cb\u003e2001\u003c/b\u003e (19% of the \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Anatolia) \u003cb\u003eearthquake\u003c/b\u003e of 19 \u003cb\u003eAugust\u003c/b\u003e 1966???, UNESCO Report \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0rEQokH4BMUJ",
+   "formattedUrl": "earthquake-report.com/.../comparing-the-current-impact-of-the-van- earthquake-to-past-earthquakes-in-eastern-turkey/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../comparing-the-current-impact-of-the-van- \u003cb\u003eearthquake\u003c/b\u003e-to-past-\u003cb\u003eearthquakes\u003c/b\u003e-in-eastern-turkey/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/11/1b.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "249",
+      "height": "202",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScMd0yudLtcsUEHE7rZLKKte2CkHjAYBtKRdbD4nsSqAKOo-xRsNVT9arM"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "pejman",
+      "nickname": "pejman"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "Issue date: Sep 13, 2011. Application number: 12/130,922 ...",
+   "htmlSnippet": "Issue date: \u003cb\u003eSep 13\u003c/b\u003e, 2011. Application number: 12/130,922 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   ..... Broome, 16 August 1929, magnitude 6.6, offshore earthquake to the north-  west of Broome, ... 13 September 2006. .... a b Past Earthquake News: 2001.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Broome, 16 \u003cb\u003eAugust\u003c/b\u003e 1929, magnitude 6.6, offshore \u003cb\u003eearthquake\u003c/b\u003e to the north-\u003cbr\u003e  west of Broome, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e13\u003c/b\u003e September 2006. \u003cb\u003e....\u003c/b\u003e a b Past \u003cb\u003eEarthquake\u003c/b\u003e News: \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Articles about Japanese People - CNN",
+   "htmlTitle": "Articles about Japanese People - CNN",
+   "link": "http://articles.cnn.com/keyword/japanese-people",
+   "displayLink": "articles.cnn.com",
+   "snippet": "August 13, 2001. Australia's war veterans have joined the chorus of   condemnation surrounding the visit by Japan's ... Tokyo Disneyland reopens after   quake ...",
+   "htmlSnippet": "\u003cb\u003eAugust 13, 2001\u003c/b\u003e. \u003cb\u003eAustralia&#39;s\u003c/b\u003e war veterans have joined the chorus of \u003cbr\u003e  condemnation surrounding the visit by Japan&#39;s \u003cb\u003e...\u003c/b\u003e Tokyo Disneyland reopens after \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cSy0-4Di2s4J",
+   "formattedUrl": "articles.cnn.com/keyword/japanese-people",
+   "htmlFormattedUrl": "articles.cnn.com/keyword/japanese-people"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "August 13 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAugust 13\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/August_13",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "August 13 is the 225th day of the year (226th in leap years) in the Gregorian   calendar. ... 1868 ??? A massive earthquake near Arica, Peru, causes an estimated   25,000 .... 2001); 1972 ??? Kevin Plank, American businessman, founded Under   Armour; 1972 .... 1958); 2012 ??? Ray Jordon, Australian cricketer and football   coach (b.",
+   "htmlSnippet": "\u003cb\u003eAugust 13\u003c/b\u003e is the 225th day of the year (226th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e 1868 ??? A massive \u003cb\u003eearthquake\u003c/b\u003e near Arica, Peru, causes an estimated \u003cbr\u003e  25,000 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e); 1972 ??? Kevin Plank, American businessman, founded Under \u003cbr\u003e  Armour; 1972 \u003cb\u003e....\u003c/b\u003e 1958); 2012 ??? Ray Jordon, \u003cb\u003eAustralian\u003c/b\u003e cricketer and football \u003cbr\u003e  coach (b.",
+   "cacheId": "X-V2MYbkgIgJ",
+   "formattedUrl": "en.wikipedia.org/wiki/August_13",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAugust\u003c/b\u003e_\u003cb\u003e13\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "August 13 Events in History",
+   "htmlTitle": "\u003cb\u003eAugust 13\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/august_13.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "August 13 in history.",
+   "htmlSnippet": "\u003cb\u003eAugust 13\u003c/b\u003e in history.",
+   "cacheId": "wiJTAOAHzKwJ",
+   "formattedUrl": "www.brainyhistory.com/days/august_13.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003eaugust\u003c/b\u003e_\u003cb\u003e13\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "August 13 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/august_13.html"
+     }
+    ]
+   }
+  }
+ ]
+}

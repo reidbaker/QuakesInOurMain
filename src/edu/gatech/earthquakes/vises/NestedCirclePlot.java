@@ -31,25 +31,25 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
     private int maxCountryWidth;
 
     public NestedCirclePlot(int x, int y, int w, int h, DataSet displayData,
-            String dataType, int numTotalQuakes) {
-        super(x, y, w, h, displayData, "Type by Continent");
-        this.dataType = dataType;
-        this.numTotalQuakes = numTotalQuakes;
+	    String dataType, int numTotalQuakes) {
+	super(x, y, w, h, displayData, "Type by Continent");
+	this.dataType = dataType;
+	this.numTotalQuakes = numTotalQuakes;
 
-        DataComparator.CompareCategories category = null;
-        switch (dataType) {
-            case DataRow.DEPENDENCY:
-                category = DataComparator.CompareCategories.DEPENDENCY;
-                break;
-            case DataRow.TYPE:
-                category = DataComparator.CompareCategories.TYPE;
-                break;
-        }
+	DataComparator.CompareCategories category = null;
+	switch (dataType) {
+	    case DataRow.DEPENDENCY:
+		category = DataComparator.CompareCategories.DEPENDENCY;
+		break;
+	    case DataRow.TYPE:
+		category = DataComparator.CompareCategories.TYPE;
+		break;
+	}
 
-        dataComp = new DataComparator(
-                DataComparator.CompareCategories.CONTINENT, category);
-        
-        computeNominalData();
+	dataComp = new DataComparator(
+	        DataComparator.CompareCategories.CONTINENT, category);
+
+	computeNominalData();
 
     }
 
@@ -122,8 +122,8 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
         }
     }
     /**
-     * Calculates the radius of the circle based on the number of earthquakes that
-     * circle represents
+     * Calculates the radius of the circle based on the number of earthquakes
+     * that circle represents
      * 
      * @param count
      * @return
@@ -131,17 +131,17 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
     private float getCircleRadius(double count) {
         double maxArea = Math.PI * Math.pow(maxCountryWidth / 2, 2);
 
-        float area = (float) (maxArea * count / maxVal);
-        return (float) (Math.sqrt(area / Math.PI));
+	float area = (float) (maxArea * count / maxVal);
+	return (float) (Math.sqrt(area / Math.PI));
     }
 
     private void computeMaxVal() {
-        for (Set<TypeCount> countryData : computedValues.values()) {
-            for (TypeCount t : countryData) {
-                if (t.getCount() > maxVal)
-                    maxVal = t.getCount();
-            }
-        }
+	for (Set<TypeCount> countryData : computedValues.values()) {
+	    for (TypeCount t : countryData) {
+		if (t.getCount() > maxVal)
+		    maxVal = t.getCount();
+	    }
+	}
     }
 
     private void calculateTotals() {
@@ -165,59 +165,61 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
         }
         
 
+
     }
 
     private void computeNominalData() {
-        // populate the computed values with the continents and the set
-        computedValues = new TreeMap<String, Set<TypeCount>>();
-        for (DataRow.Continent c : DataRow.Continent.values()) {
-            computedValues.put(c.toString(), new TreeSet<TypeCount>());
-        }
+	// populate the computed values with the continents and the set
+	computedValues = new TreeMap<String, Set<TypeCount>>();
+	for (DataRow.Continent c : DataRow.Continent.values()) {
+	    computedValues.put(c.toString(), new TreeSet<TypeCount>());
+	}
 
-        ArrayList<DataRow> list = new ArrayList<DataRow>(displayData.getDatum());
-        Collections.sort(list, dataComp);
+	ArrayList<DataRow> list = new ArrayList<DataRow>(displayData.getDatum());
+	Collections.sort(list, dataComp);
 
-        String type = null;
-        String continent = null;
-        if (list.size() > 0) {
-            type = list.get(0).getValue(dataType).toString();
-            continent = list.get(0).getValue(DataRow.CONTINENT).toString();
-        }
+	String type = null;
+	String continent = null;
+	if (list.size() > 0) {
+	    type = list.get(0).getValue(dataType).toString();
+	    continent = list.get(0).getValue(DataRow.CONTINENT).toString();
+	}
 
-        int count = 0;
+	int count = 0;
 
-        for (DataRow quake : list) {
-            // get continent and type out of the current quake
-            String curContinent = quake.getValue(DataRow.CONTINENT).toString();
-            String curType = quake.getValue(dataType).toString();
+	for (DataRow quake : list) {
+	    // get continent and type out of the current quake
+	    String curContinent = quake.getValue(DataRow.CONTINENT).toString();
+	    String curType = quake.getValue(dataType).toString();
 
-            // if we've come to data from a new continent
-            if (!curContinent.equals(continent)) {
-                computedValues.get(continent).add(new TypeCount(type, count));
-                count = 1;
-                type = curType;
-                continent = curContinent;
-            } else {
-                if (curType.equals(type)) {
-                    count++;
-                } else {
-                    computedValues.get(curContinent).add(new TypeCount(type, count));
-                    count = 1;
-                    type = curType;
-                }
-            }
-        }
-        if(continent != null)
-            computedValues.get(continent).add(new TypeCount(type, count));
+	    // if we've come to data from a new continent
+	    if (!curContinent.equals(continent)) {
+		computedValues.get(continent).add(new TypeCount(type, count));
+		count = 1;
+		type = curType;
+		continent = curContinent;
+	    } else {
+		if (curType.equals(type)) {
+		    count++;
+		} else {
+		    computedValues.get(curContinent).add(
+			    new TypeCount(type, count));
+		    count = 1;
+		    type = curType;
+		}
+	    }
+	}
+	if (continent != null)
+	    computedValues.get(continent).add(new TypeCount(type, count));
 
-        calculateTotals();
-        computeMaxVal();
+	calculateTotals();
+	computeMaxVal();
     }
 
     @Override
     public void filterBy(DataSet filteredData) {
-        this.displayData = filteredData;
-        computeNominalData();
+	this.displayData = filteredData;
+	computeNominalData();
     }
     
     public void resizeTo(Rectangle bounds){
@@ -234,25 +236,25 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
     }
 
     private class TypeCount implements Comparable<TypeCount> {
-        private String type;
-        private int count;
+	private String type;
+	private int count;
 
-        public TypeCount(String type, int count) {
-            this.type = type;
-            this.count = count;
-        }
+	public TypeCount(String type, int count) {
+	    this.type = type;
+	    this.count = count;
+	}
 
-        public int getCount() {
-            return count;
-        }
+	public int getCount() {
+	    return count;
+	}
 
-        public int compareTo(TypeCount t) {
-            return t.count - count;
-        }
+	public int compareTo(TypeCount t) {
+	    return t.count - count;
+	}
 
-        public String getType() {
-            return type;
-        }
+	public String getType() {
+	    return type;
+	}
     }
 
 }

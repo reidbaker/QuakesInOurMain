@@ -1,0 +1,254 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 25 2001 Asia Earthquake",
+    "totalResults": "665000",
+    "searchTerms": "Jul 25 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 25 2001 Asia Earthquake",
+    "totalResults": "665000",
+    "searchTerms": "Jul 25 2001 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.270829,
+  "formattedSearchTime": "0.27",
+  "totalResults": "665000",
+  "formattedTotalResults": "665,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 25 2001 Asia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 25 2001 Asia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Google Events | Big Tent 2012",
+   "htmlTitle": "Google Events | Big Tent 2012",
+   "link": "http://www.google.com/events/bigtent2012/speakers.html",
+   "displayLink": "www.google.com",
+   "snippet": "During Japan's Big Earthquake Disaster, Mr. Irie had become the leader of the ....   He was awarded tenure from MIT in July 2001, and was named Associate   Director at ... Jeremy Wagstaff has 25 years of experience of Asia, covering   general, ...",
+   "htmlSnippet": "During Japan&#39;s Big \u003cb\u003eEarthquake\u003c/b\u003e Disaster, Mr. Irie had become the leader of the \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  He was awarded tenure from MIT in \u003cb\u003eJuly 2001\u003c/b\u003e, and was named Associate \u003cbr\u003e  Director at \u003cb\u003e...\u003c/b\u003e Jeremy Wagstaff has \u003cb\u003e25\u003c/b\u003e years of experience of \u003cb\u003eAsia\u003c/b\u003e, covering \u003cbr\u003e  general, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "t5acSvBKzlkJ",
+   "formattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "htmlFormattedUrl": "www.google.com/events/bigtent2012/speakers.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/events/bigtent2012/images/speakers/RachelWhetstone.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "160",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7pg6PslvhOwpMTTQ6ehXO-T87KQ2rD9ASM4AKgL898RfQ_EEVfykf7A"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Popular Articles & Stories for July 25, 2001 - Los Angeles Times",
+   "htmlTitle": "Popular Articles &amp; Stories for \u003cb\u003eJuly 25, 2001\u003c/b\u003e - Los Angeles Times",
+   "link": "http://articles.latimes.com/2001/jul/25",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Jul 25, 2001 ... Popular articles, stories & photos for July 25, 2001 in the Los Angeles ... Galaxy   Finally Solves Earthquakes in the Open Cup GRAHAME L.",
+   "htmlSnippet": "Jul 25, 2001 \u003cb\u003e...\u003c/b\u003e Popular articles, stories &amp; photos for \u003cb\u003eJuly 25\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e in the Los Angeles \u003cb\u003e...\u003c/b\u003e Galaxy \u003cbr\u003e  Finally Solves \u003cb\u003eEarthquakes\u003c/b\u003e in the Open Cup GRAHAME L.",
+   "cacheId": "7t3gRNEvhIwJ",
+   "formattedUrl": "articles.latimes.com/2001/jul/25",
+   "htmlFormattedUrl": "articles.latimes.com/\u003cb\u003e2001\u003c/b\u003e/\u003cb\u003ejul\u003c/b\u003e/\u003cb\u003e25\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake List for Map of Asia Region",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e List for Map of \u003cb\u003eAsia\u003c/b\u003e Region",
+   "link": "http://earthquake.usgs.gov/earthquakes/recenteqsww/Maps/region/Asia_eqs.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Please use the new Real-time Earthquake Map instead and update your   bookmark. ... located by the USGS and contributing networks for the Map of Asia   Region. .... MAP, 4.9, 2012/12/07 19:25:00, 40.880, 142.818, 38.5, NEAR THE   EAST ...",
+   "htmlSnippet": "Please use the new Real-time \u003cb\u003eEarthquake\u003c/b\u003e Map instead and update your \u003cbr\u003e  bookmark. \u003cb\u003e...\u003c/b\u003e located by the USGS and contributing networks for the Map of \u003cb\u003eAsia\u003c/b\u003e \u003cbr\u003e  Region. \u003cb\u003e....\u003c/b\u003e MAP, 4.9, 2012/12/07 19:\u003cb\u003e25\u003c/b\u003e:00, 40.880, 142.818, 38.5, NEAR THE \u003cbr\u003e  EAST \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7q8t4MZRaIIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/recenteqsww/Maps/.../Asia_eqs.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/recenteqsww/Maps/.../\u003cb\u003eAsia\u003c/b\u003e_eqs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tentative Agenda - Detailed Program (July 25, 2001)",
+   "htmlTitle": "Tentative Agenda - Detailed Program (\u003cb\u003eJuly 25\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e)",
+   "link": "http://web.econ.keio.ac.jp/staff/seko/AsRES/combinedprogram06301.html",
+   "displayLink": "web.econ.keio.ac.jp",
+   "snippet": "Asian Real Estate Society Sixth Annual Conference in Japan. Detailed Program (  July 25, 2001) .... 2-4 English Panel: Real Estate Securitization in Asia ... for   Managing Post-921 Earthquake Community Redevelopment in Taiwan, Kang-Li   Wu, ...",
+   "htmlSnippet": "\u003cb\u003eAsian\u003c/b\u003e Real Estate Society Sixth Annual Conference in Japan. Detailed Program (\u003cbr\u003e  \u003cb\u003eJuly 25, 2001\u003c/b\u003e) \u003cb\u003e....\u003c/b\u003e 2-4 English Panel: Real Estate Securitization in \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e for \u003cbr\u003e  Managing Post-921 \u003cb\u003eEarthquake\u003c/b\u003e Community Redevelopment in Taiwan, Kang-Li \u003cbr\u003e  Wu, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XkcO6SYLu_AJ",
+   "formattedUrl": "web.econ.keio.ac.jp/staff/seko/AsRES/combinedprogram06301.html",
+   "htmlFormattedUrl": "web.econ.keio.ac.jp/staff/seko/AsRES/combinedprogram06301.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "Excel.Sheet"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in 2012 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in 2012 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_2012",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude Ranging Between, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007   ..... A magnitude 6.4 earthquake struck Simeulue, Indonesia, on July 25, at a .....   http://www.independent.co.uk/news/world/asia/earthquake-leaves-four-dead-in- ...",
+   "htmlSnippet": "Magnitude Ranging Between, 2000, \u003cb\u003e2001\u003c/b\u003e, 2002, 2003, 2004, 2005, 2006, 2007 \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e A magnitude 6.4 \u003cb\u003eearthquake\u003c/b\u003e struck Simeulue, Indonesia, on \u003cb\u003eJuly 25\u003c/b\u003e, at a \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  http://www.independent.co.uk/news/world/\u003cb\u003easia\u003c/b\u003e/\u003cb\u003eearthquake\u003c/b\u003e-leaves-four-dead-in- \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M-8y9TakcusJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_2012",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_2012",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Earthmap1000x500compac.jpg/300px-Earthmap1000x500compac.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFF4RtJZotJOf_s3ciCEnr4Z1FUSHv6QYVr4f_kK6G680i1DMLdpRFsw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Forecast Chart \u003e Typhoon \u003e Typhoon / Earthquake / Asia Dust",
+   "htmlTitle": "Forecast Chart &gt; Typhoon &gt; Typhoon / \u003cb\u003eEarthquake\u003c/b\u003e / \u003cb\u003eAsia\u003c/b\u003e Dust",
+   "link": "http://web.kma.go.kr/eng/weather/typoon/typhoon.jsp",
+   "displayLink": "web.kma.go.kr",
+   "snippet": "Typhoon / Earthquake / Asia Dust | weather. Typhoon ?? Forecast Chart ?? Satellite   Imagery ?? Model Prediction ?? Earthquake ?? Introduction ?? Earthquake Information ...",
+   "htmlSnippet": "Typhoon / \u003cb\u003eEarthquake\u003c/b\u003e / \u003cb\u003eAsia\u003c/b\u003e Dust | weather. Typhoon &middot; Forecast Chart &middot; Satellite \u003cbr\u003e  Imagery &middot; Model Prediction &middot; \u003cb\u003eEarthquake\u003c/b\u003e &middot; Introduction &middot; \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QxApMU96SkYJ",
+   "formattedUrl": "web.kma.go.kr/eng/weather/typoon/typhoon.jsp",
+   "htmlFormattedUrl": "web.kma.go.kr/eng/weather/typoon/typhoon.jsp",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://web.kma.go.kr/repositary/image/typ/img_en/RTKO62_201204021000]01_en.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "253",
+      "height": "199",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg9k9jVxDgY42yPNzcjfSlDm4XhQVhDvw-I2kRhz5gu3KMQxfZxrMYj7Y"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "02001-06-23June 23, 2001, 20:33, Near coast of Peru see 2001 southern Peru   earthquake, ???16.3, ???73.55, 75, 8.4, Mw (HRV). July 7, 2001, 09:38, Near coast of ...",
+   "htmlSnippet": "02001-06-23June 23, \u003cb\u003e2001\u003c/b\u003e, 20:33, Near coast of Peru see \u003cb\u003e2001\u003c/b\u003e southern Peru \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, ???16.3, ???73.55, 75, 8.4, Mw (HRV). \u003cb\u003eJuly\u003c/b\u003e 7, \u003cb\u003e2001\u003c/b\u003e, 09:38, Near coast of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Gujarat Earthquake 2001",
+   "htmlTitle": "Gujarat \u003cb\u003eEarthquake 2001\u003c/b\u003e",
+   "link": "http://www.adrc.asia/publications/recovery_reports/pdf/Gujarat.pdf",
+   "displayLink": "www.adrc.asia",
+   "snippet": "Senior Technical Advisor, Asian Disaster Reduction Center. One of the two most   ... Date and time of Occurrence of Earthquake: 26 January 2001 at 8:46 am. ???   Magnitude: 6.9 on the ... No of districts affected: 21 out of 25 districts. ??? Most   affected ..... Report, July ??? September 2003, Gujarat State Disaster Management.   Authority ...",
+   "htmlSnippet": "Senior Technical Advisor, \u003cb\u003eAsian\u003c/b\u003e Disaster Reduction Center. One of the two most \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Date and time of Occurrence of \u003cb\u003eEarthquake\u003c/b\u003e: 26 January \u003cb\u003e2001\u003c/b\u003e at 8:46 am. ??? \u003cbr\u003e  Magnitude: 6.9 on the \u003cb\u003e...\u003c/b\u003e No of districts affected: 21 out of \u003cb\u003e25\u003c/b\u003e districts. ??? Most \u003cbr\u003e  affected \u003cb\u003e.....\u003c/b\u003e Report, \u003cb\u003eJuly\u003c/b\u003e ??? September 2003, Gujarat State Disaster Management. \u003cbr\u003e  Authority \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3D7aOB8xjDEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.adrc.asia/publications/recovery_reports/pdf/Gujarat.pdf",
+   "htmlFormattedUrl": "www.adrc.\u003cb\u003easia\u003c/b\u003e/publications/recovery_reports/pdf/Gujarat.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20050616171603+09'00'",
+      "creationdate": "D:20050616171511+09'00'",
+      "title": "Total Disaster Risk Management: Concept and Best Practices",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "producer": "Acrobat Distiller 6.0.1 (Windows)",
+      "author": "sanker",
+      "company": "ADRC",
+      "sourcemodified": "D:20050616081108"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Historical earthquakes is a list of significant earthquakes from before the 20th   century. ... Destroyed 13 cities in Asia (minor), Described by the historians Tacitus   and Pliny the Elder .... November 25, 1759, 19:23 local time, Eastern   Mediterranean ..... 26.10.15-19; ^ For summaries of the sources, see Stiros,   Stathis C. (2001).",
+   "htmlSnippet": "Historical \u003cb\u003eearthquakes\u003c/b\u003e is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e from before the 20th \u003cbr\u003e  century. \u003cb\u003e...\u003c/b\u003e Destroyed 13 cities in \u003cb\u003eAsia\u003c/b\u003e (minor), Described by the historians Tacitus \u003cbr\u003e  and Pliny the Elder \u003cb\u003e....\u003c/b\u003e November \u003cb\u003e25\u003c/b\u003e, 1759, 19:23 local time, Eastern \u003cbr\u003e  Mediterranean \u003cb\u003e.....\u003c/b\u003e 26.10.15-19; ^ For summaries of the sources, see Stiros, \u003cbr\u003e  Stathis C. (\u003cb\u003e2001\u003c/b\u003e).",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IISEE ??????????????????????????????",
+   "htmlTitle": "IISEE ??????????????????????????????",
+   "link": "http://iisee.kenken.go.jp/japanese/?p=ccdb",
+   "displayLink": "iisee.kenken.go.jp",
+   "snippet": "International Platform for Reducing Earthquake Disasters ...",
+   "htmlSnippet": "International Platform for Reducing \u003cb\u003eEarthquake\u003c/b\u003e Disasters \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZE_xgA4IDp0J",
+   "formattedUrl": "iisee.kenken.go.jp/japanese/?p=ccdb",
+   "htmlFormattedUrl": "iisee.kenken.go.jp/japanese/?p=ccdb"
+  }
+ ]
+}

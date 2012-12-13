@@ -1,0 +1,354 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 9 1969 Africa Earthquake",
+    "totalResults": "185000",
+    "searchTerms": "Sep 9 1969 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 9 1969 Africa Earthquake",
+    "totalResults": "185000",
+    "searchTerms": "Sep 9 1969 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.242,
+  "formattedSearchTime": "0.24",
+  "totalResults": "185000",
+  "formattedTotalResults": "185,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 9 1969 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 9 1969 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "4 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed. The earthquake was   centered in the gold mining area of Welkom about 300 kilometers ...",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed. The \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  centered in the gold mining area of Welkom about 300 kilometers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "(Major) Earthquakes list December 9, 2012 ??? Strong earthquake in ...   Earthquakes to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4   people ...",
+   "htmlSnippet": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list December \u003cb\u003e9\u003c/b\u003e, 2012 ??? Strong \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 \u003cbr\u003e  people \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "the ceres, south africa, earthquake of september 29, 1969 i. report ...",
+   "htmlTitle": "the ceres, south \u003cb\u003eafrica\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eseptember\u003c/b\u003e 29, \u003cb\u003e1969\u003c/b\u003e i. report \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/61/4/851.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "(USCGS estimate) on September 29, 1969 in the Ceres-Tulbagh region of the   Cape. Province, South Africa. The earthquake occurred in a relatively densely- ...",
+   "htmlSnippet": "(USCGS estimate) on \u003cb\u003eSeptember\u003c/b\u003e 29, \u003cb\u003e1969\u003c/b\u003e in the Ceres-Tulbagh region of the \u003cbr\u003e  Cape. Province, South \u003cb\u003eAfrica\u003c/b\u003e. The \u003cb\u003eearthquake\u003c/b\u003e occurred in a relatively densely- \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/61/4/851.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/61/4/851.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "0102580002.TIF",
+      "creationdate": "Sat Jul 30 16:52:53 2005",
+      "title": "0102580002.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050812075654+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "9/56 YEAR CYCLE: SOUTH AFRICAN EARTHQUAKES",
+   "htmlTitle": "\u003cb\u003e9\u003c/b\u003e/56 YEAR CYCLE: SOUTH \u003cb\u003eAFRICAN EARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.davidmcminn.com/eqpages/appendza.htm",
+   "displayLink": "www.davidmcminn.com",
+   "snippet": "Appendix for the paper 9/56 year Cycles: Earthquakes & Volcanoes. ... 1809;   June 2 1811; October 7, 1969; April 4 1970; April 15 1970; September 19 1970).",
+   "htmlSnippet": "Appendix for the paper \u003cb\u003e9\u003c/b\u003e/56 year Cycles: \u003cb\u003eEarthquakes\u003c/b\u003e &amp; Volcanoes. \u003cb\u003e...\u003c/b\u003e 1809; \u003cbr\u003e  June 2 1811; October 7, \u003cb\u003e1969\u003c/b\u003e; April 4 1970; April 15 1970; \u003cb\u003eSeptember\u003c/b\u003e 19 1970).",
+   "cacheId": "iMbVclYAUTQJ",
+   "formattedUrl": "www.davidmcminn.com/eqpages/appendza.htm",
+   "htmlFormattedUrl": "www.davidmcminn.com/eqpages/appendza.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Earthquakes",
+   "htmlTitle": "Historical \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/index.php?option=com_content&view=article&id=1612:historical-earthquakes&catid=138:seismology-unit-activities&Itemid=615",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "The knowledge of early earthquakes in South Africa, as in other parts of the world  , .... to Mossel Bay, George; especially at Oudtshoorn: 33,5??S, 21,9??E (USCGS) ...   The earthquake of 29 September 1969 in the southwestern Cape Province, ...",
+   "htmlSnippet": "The knowledge of early \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAfrica\u003c/b\u003e, as in other parts of the world\u003cbr\u003e  , \u003cb\u003e....\u003c/b\u003e to Mossel Bay, George; especially at Oudtshoorn: 33,5??S, 21,\u003cb\u003e9\u003c/b\u003e??E (USCGS) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The \u003cb\u003eearthquake\u003c/b\u003e of 29 \u003cb\u003eSeptember 1969\u003c/b\u003e in the southwestern Cape Province, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HzRAmQ_5o1MJ",
+   "formattedUrl": "www.geoscience.org.za/index.php?...earthquakes...",
+   "htmlFormattedUrl": "www.geoscience.org.za/index.php?...\u003cb\u003eearthquakes\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Historical Earthquakes",
+      "author": "Malcolm Simpson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1969 Tulbagh and Ceres Earthquake",
+   "htmlTitle": "\u003cb\u003e1969\u003c/b\u003e Tulbagh and Ceres \u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.stormchasing.co.za/articles-and-news/historic-weather-archive/184-tulbagh-ceres-1969-earthquake",
+   "displayLink": "www.stormchasing.co.za",
+   "snippet": "Storm Chasing South Africa is South Africa's first and only dedicated storm ... The   earthquake occurred on the 29 September 1969 in the Ceres/Tulbagh area and   ... +1 #9 RE: 1969 Tulbagh and Ceres Earthquake ??? Bridgit 2012-04-16 17:17 ...",
+   "htmlSnippet": "Storm Chasing South \u003cb\u003eAfrica\u003c/b\u003e is South \u003cb\u003eAfrica&#39;s\u003c/b\u003e first and only dedicated storm \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e occurred on the 29 \u003cb\u003eSeptember 1969\u003c/b\u003e in the Ceres/Tulbagh area and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e +1 #\u003cb\u003e9\u003c/b\u003e RE: \u003cb\u003e1969\u003c/b\u003e Tulbagh and Ceres \u003cb\u003eEarthquake\u003c/b\u003e ??? Bridgit 2012-04-16 17:17 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Nma12BChFt4J",
+   "formattedUrl": "www.stormchasing.co.za/.../184-tulbagh-ceres-1969-earthquake",
+   "htmlFormattedUrl": "www.stormchasing.co.za/.../184-tulbagh-ceres-\u003cb\u003e1969\u003c/b\u003e-\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "1969 Tulbagh and Ceres Earthquake",
+      "author": "Administrator"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Scaling relations for earthquake source parameters and magnitudes",
+   "htmlTitle": "Scaling relations for \u003cb\u003eearthquake\u003c/b\u003e source parameters and magnitudes",
+   "link": "http://www.bssaonline.org/content/66/5/1501.refs",
+   "displayLink": "www.bssaonline.org",
+   "snippet": "Seismic displacement and ground motion near a fault: The Saitama earthquake   ..... Faulting mechanism of the Gifu earthquake of September 9, 1969, and some   .... inference tsunami risk the south atlantic south african of geology december 1 ...",
+   "htmlSnippet": "\u003cb\u003eSeismic\u003c/b\u003e displacement and ground motion near a fault: The Saitama \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Faulting mechanism of the Gifu \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eSeptember 9, 1969\u003c/b\u003e, and some \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e inference tsunami risk the south atlantic south \u003cb\u003eafrican\u003c/b\u003e of geology december 1 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.bssaonline.org/content/66/5/1501.refs",
+   "htmlFormattedUrl": "www.bssaonline.org/content/66/5/1501.refs",
+   "pagemap": {
+    "metatags": [
+     {
+      "hw.ad-path": "/cgi/content/refs/66/5/1501",
+      "hw.identifier": "/ssabull/66/5/1501.atom",
+      "dc.format": "text/html",
+      "dc.language": "en",
+      "dc.title": "Scaling relations for earthquake source parameters and magnitudes",
+      "dc.date": "1976-10-01",
+      "dc.publisher": "Seismological Society of America",
+      "dc.contributor": "Robert J. Geller",
+      "citation_journal_title": "Bulletin of the Seismological Society of America",
+      "citation_journal_abbrev": "Bulletin of the Seismological Society of America",
+      "citation_issn": "0037-1106",
+      "citation_author": "Robert J. Geller",
+      "citation_title": "Scaling relations for earthquake source parameters and magnitudes",
+      "citation_date": "10/01/1976",
+      "citation_volume": "66",
+      "citation_issue": "5",
+      "citation_firstpage": "1501",
+      "citation_lastpage": "1523",
+      "citation_id": "66/5/1501",
+      "citation_mjid": "ssabull;66/5/1501",
+      "citation_abstract_html_url": "http://www.bssaonline.org/content/66/5/1501.abstract",
+      "citation_pdf_url": "http://www.bssaonline.org/content/66/5/1501.full.pdf",
+      "citation_public_url": "http://www.bssaonline.org/content/66/5/1501",
+      "citation_section": "Articles"
+     }
+    ],
+    "scholarlyarticle": [
+     {
+      "articlebody": "Copyright ?? 1976, by the Seismological Society of America Scaling relations for earthquake source parameters and magnitudes Robert J. Geller Seismological Laboratory California Institute of...",
+      "headline": "Scaling relations for earthquake source parameters and magnitudes",
+      "datepublished": "October 1976"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chronology of Earthquakes and Volcanos (1902-1969)",
+   "htmlTitle": "Chronology of \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanos (1902-\u003cb\u003e1969\u003c/b\u003e)",
+   "link": "http://worldtimeline.info/volcano/volc1902.htm",
+   "displayLink": "worldtimeline.info",
+   "snippet": "Jul 25, 2012 ... Timeline of land-based natural disasters including: earthquakes, volcanos, ...   March 9. 8.1 earthquake shakes Andreanof Islands, Alaska, USA. [1] ... 1969.   September 29. In South Africa, a magnitude 6.3 earthquake occurs.",
+   "htmlSnippet": "Jul 25, 2012 \u003cb\u003e...\u003c/b\u003e Timeline of land-based natural disasters including: \u003cb\u003eearthquakes\u003c/b\u003e, volcanos, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  March \u003cb\u003e9\u003c/b\u003e. 8.1 \u003cb\u003eearthquake\u003c/b\u003e shakes Andreanof Islands, Alaska, USA. [1] \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1969\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 29. In South \u003cb\u003eAfrica\u003c/b\u003e, a magnitude 6.3 \u003cb\u003eearthquake\u003c/b\u003e occurs.",
+   "cacheId": "JBX1GdW26-IJ",
+   "formattedUrl": "worldtimeline.info/volcano/volc1902.htm",
+   "htmlFormattedUrl": "worldtimeline.info/volcano/volc1902.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Ceres, South Africa, earthquake of September 29, 1969",
+   "htmlTitle": "The Ceres, South \u003cb\u003eAfrica\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eSeptember\u003c/b\u003e 29, \u003cb\u003e1969\u003c/b\u003e",
+   "link": "http://www.bssaonline.org/content/61/4/851.short",
+   "displayLink": "www.bssaonline.org",
+   "snippet": "The Ceres, South Africa, earthquake of September 29, 1969 ... The volume of the   aftershock region is 3 ?? 9 ?? 20 km3 with the depth of the aftershocks varying ...",
+   "htmlSnippet": "The Ceres, South \u003cb\u003eAfrica\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eSeptember\u003c/b\u003e 29, \u003cb\u003e1969\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e The volume of the \u003cbr\u003e  aftershock region is 3 ?? \u003cb\u003e9\u003c/b\u003e ?? 20 km3 with the depth of the aftershocks varying \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.bssaonline.org/content/61/4/851.short",
+   "htmlFormattedUrl": "www.bssaonline.org/content/61/4/851.short",
+   "pagemap": {
+    "person": [
+     {
+      "name": "R. W. E. Green"
+     }
+    ],
+    "metatags": [
+     {
+      "hw.ad-path": "/cgi/content/abstract/61/4/851",
+      "hw.identifier": "/ssabull/61/4/851.atom",
+      "dc.format": "text/html",
+      "dc.language": "en",
+      "dc.title": "The Ceres, South Africa, earthquake of September 29, 1969",
+      "dc.date": "1971-08-01",
+      "dc.publisher": "Seismological Society of America",
+      "dc.contributor": "R. W. E. Green",
+      "citation_journal_title": "Bulletin of the Seismological Society of America",
+      "citation_journal_abbrev": "Bulletin of the Seismological Society of America",
+      "citation_issn": "0037-1106",
+      "citation_author": "R. W. E. Green",
+      "citation_title": "The Ceres, South Africa, earthquake of September 29, 1969 I. Report on some aftershocks",
+      "citation_date": "08/01/1971",
+      "citation_volume": "61",
+      "citation_issue": "4",
+      "citation_firstpage": "851",
+      "citation_lastpage": "859",
+      "citation_id": "61/4/851",
+      "citation_mjid": "ssabull;61/4/851",
+      "citation_abstract_html_url": "http://www.bssaonline.org/content/61/4/851.abstract",
+      "citation_pdf_url": "http://www.bssaonline.org/content/61/4/851.full.pdf",
+      "citation_public_url": "http://www.bssaonline.org/content/61/4/851",
+      "citation_section": "Articles"
+     }
+    ],
+    "scholarlyarticle": [
+     {
+      "articlebody": "Copyright ?? 1971, by the Seismological Society of America The Ceres, South Africa, earthquake of September 29, 1969 I. Report on some aftershocks R. W. E. Green and S. Bloch Bernard Price...",
+      "headline": "The Ceres, South Africa, earthquake of September 29, 1969",
+      "description": "abstract Aftershocks following the Ceres earthquake of September 29, 1969, (Magnitude 6.3) were monitored using a number of portable seismic recording stations. Earthquakes of this magnitude...",
+      "datepublished": "August 1971"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 9 Events in History",
+   "htmlTitle": "\u003cb\u003eSeptember 9\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/september_9.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "September 9 in history.",
+   "htmlSnippet": "\u003cb\u003eSeptember 9\u003c/b\u003e in history.",
+   "cacheId": "M0xgnIOCQ2kJ",
+   "formattedUrl": "www.brainyhistory.com/days/september_9.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003eseptember\u003c/b\u003e_\u003cb\u003e9\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "September 9 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/september_9.html"
+     }
+    ]
+   }
+  }
+ ]
+}

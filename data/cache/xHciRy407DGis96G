@@ -1,0 +1,278 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 4 2001 Africa Earthquake",
+    "totalResults": "773000",
+    "searchTerms": "Nov 4 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 4 2001 Africa Earthquake",
+    "totalResults": "773000",
+    "searchTerms": "Nov 4 2001 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.218325,
+  "formattedSearchTime": "0.22",
+  "totalResults": "773000",
+  "formattedTotalResults": "773,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "01604-11-24November 24, 1604, Arica, Chile (then part of the Spanish ... Varied   accounts hold that the duration of the earthquake was between 4 and 10 ...",
+   "htmlSnippet": "01604-11-24\u003cb\u003eNovember\u003c/b\u003e 24, 1604, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of the Spanish \u003cb\u003e...\u003c/b\u003e Varied \u003cbr\u003e  accounts hold that the duration of the \u003cb\u003eearthquake\u003c/b\u003e was between \u003cb\u003e4\u003c/b\u003e and 10 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on November 4 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eNovember 4\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/nov04.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "November 4, 1501 \"Catherine of Aragon (later Henry VIII's wife) meets Arthur ....   November 4, 2001 \"Hurricane Michelle hits Cuba, destroying crops and ...   November 4, 2008 Barack Obama is elected as the First African American ...   November 4, 2009 Around 700 people are injured in two earthquakes in   southern Iran.",
+   "htmlSnippet": "November 4, 1501 &quot;Catherine of Aragon (later Henry VIII&#39;s wife) meets Arthur \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember 4, 2001\u003c/b\u003e &quot;Hurricane Michelle hits Cuba, destroying crops and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  November 4, 2008 Barack Obama is elected as the First \u003cb\u003eAfrican\u003c/b\u003e American \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  November 4, 2009 Around 700 people are injured in two \u003cb\u003eearthquakes\u003c/b\u003e in \u003cbr\u003e  southern Iran.",
+   "cacheId": "9QeZoEpSm2gJ",
+   "formattedUrl": "www.datesinhistory.com/nov04.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003enov\u003c/b\u003e04.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "GSA Annual Meeting, November 4, 2001, Boston, Massachusetts",
+   "htmlTitle": "GSA Annual Meeting, \u003cb\u003eNovember 4, 2001\u003c/b\u003e, Boston, Massachusetts",
+   "link": "http://www.geosociety.org/gsatoday/archive/12/2/pdf/i1052-5173-12-2-4.pdf",
+   "displayLink": "www.geosociety.org",
+   "snippet": "scientists and engineers. GSA Annual Meeting, November 4, 2001, Boston,   Massachusetts .... Big Bear Lake, California, February 10, 2001, earthquake; M   5.1. Green???most intense ..... faults in the East African rift zone. Some faults   truncate ...",
+   "htmlSnippet": "scientists and engineers. GSA Annual Meeting, \u003cb\u003eNovember 4, 2001\u003c/b\u003e, Boston, \u003cbr\u003e  Massachusetts \u003cb\u003e....\u003c/b\u003e Big Bear Lake, California, February 10, 2001, \u003cb\u003eearthquake\u003c/b\u003e; M \u003cbr\u003e  5.1. Green???most intense \u003cb\u003e.....\u003c/b\u003e faults in the East \u003cb\u003eAfrican\u003c/b\u003e rift zone. Some faults \u003cbr\u003e  truncate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "q1XsWOjBNKQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geosociety.org/gsatoday/archive/12/2/pdf/i1052-5173-12-2-4.pdf",
+   "htmlFormattedUrl": "www.geosociety.org/gsatoday/archive/12/2/pdf/i1052-5173-12-2-\u003cb\u003e4\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20020124110648-06'00'",
+      "moddate": "D:20020124110648-06'00'",
+      "producer": "Acrobat Distiller 5.00 for Macintosh",
+      "creator": "QuarkXPress(tm) 4.11"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 2001; 2 2002; 3 2003; 4 2004; 5 2005; 6 2006; 7 2007; 8 2008; 9 2009; 10   2010 .... November 17, 2002, 04:53, Northwest of the Kuril Islands, 47.824,   146.209 ...",
+   "htmlSnippet": "1 \u003cb\u003e2001\u003c/b\u003e; 2 2002; 3 2003; \u003cb\u003e4\u003c/b\u003e 2004; 5 2005; 6 2006; 7 2007; 8 2008; 9 2009; 10 \u003cbr\u003e  2010 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eNovember\u003c/b\u003e 17, 2002, 04:53, Northwest of the Kuril Islands, 47.824, \u003cbr\u003e  146.209 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 4th November | HistoryOrb.com",
+   "htmlTitle": "Historical Events on 4th \u003cb\u003eNovember\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/november/4",
+   "displayLink": "www.historyorb.com",
+   "snippet": "Historical events for the 4th of November. See what ... US President Grover   Cleveland 1910 - Start of South Africa's 1st F-C game in Aust (v S Aust) It rained ...",
+   "htmlSnippet": "Historical events \u003cb\u003efor\u003c/b\u003e the 4th of \u003cb\u003eNovember\u003c/b\u003e. See what \u003cb\u003e...\u003c/b\u003e US President Grover \u003cbr\u003e  Cleveland 1910 - Start of South \u003cb\u003eAfrica&#39;s\u003c/b\u003e 1st F-C game in Aust (v S Aust) It rained \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5HfsTSioQdMJ",
+   "formattedUrl": "www.historyorb.com/events/november/4",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003enovember\u003c/b\u003e/\u003cb\u003e4\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/index.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 28, 2012 ... USGS - science for a changing world ... December 04, 2012 01:42:48 UTC; M 6.5  , 163km SSW of Severo-Kuril'sk, Russia Friday, November 16, ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e USGS - science \u003cb\u003efor\u003c/b\u003e a changing world \u003cb\u003e...\u003c/b\u003e December 04, 2012 01:42:48 UTC; M 6.5\u003cbr\u003e  , 163km SSW of Severo-Kuril&#39;sk, Russia Friday, \u003cb\u003eNovember\u003c/b\u003e 16, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D_0uDpIsu6kJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/index.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismotectonic models for south africa: synthesis of geoscientific ...",
+   "htmlTitle": "seismotectonic models \u003cb\u003efor\u003c/b\u003e south \u003cb\u003eafrica\u003c/b\u003e: synthesis of geoscientific \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.africaarray.psu.edu/publications/pdfs/Singh.pdf",
+   "displayLink": "www.africaarray.psu.edu",
+   "snippet": "In South Africa the demand for energy resources, water, and infra- structure has   grown ... for seismic design of such critical facilities exist; hence engineers make   use of .... (2001) observed total displacement of 44 cm on the Dagbreek fault. .....   Katse Dam, Kingdom of Lesotho, November 1995 to March 1999. Cant. Scient.",
+   "htmlSnippet": "In South \u003cb\u003eAfrica\u003c/b\u003e the demand \u003cb\u003efor\u003c/b\u003e energy resources, water, and infra- structure has \u003cbr\u003e  grown \u003cb\u003e...\u003c/b\u003e \u003cb\u003efor seismic\u003c/b\u003e design of such critical facilities exist; hence engineers make \u003cbr\u003e  use of \u003cb\u003e....\u003c/b\u003e (\u003cb\u003e2001\u003c/b\u003e) observed total displacement of 44 cm on the Dagbreek fault. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Katse Dam, Kingdom of Lesotho, \u003cb\u003eNovember\u003c/b\u003e 1995 to March 1999. Cant. Scient.",
+   "cacheId": "EIctWD9u0a4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.africaarray.psu.edu/publications/pdfs/Singh.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003eafrica\u003c/b\u003earray.psu.edu/publications/pdfs/Singh.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20090131153419-05'00'",
+      "creationdate": "D:20081219092934-07'00'",
+      "creator": "Adobe InDesign CS3 (5.0.4)",
+      "producer": "Adobe PDF Library 8.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Current earthquakes world-wide, Thursday, 13 December 2012 ...",
+   "htmlTitle": "Current \u003cb\u003eearthquakes\u003c/b\u003e world-wide, Thursday, 13 December 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/today.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Interactive Map of Active Volcanoes and recent Earthquakes world-wide - click to   show/ ... Dark red = Major Eruption: large explosive (VEI\u003e4) or otherwise very .....   Reply ?? 1 ?? Like ?? November 27 at 5:03am .... Africa. Nyiragongo lava lake &   mountain gorillas. Desert, Salt & Volcanoes (Danakil, Ethiopia) .... Eruption 2001 ...",
+   "htmlSnippet": "Interactive Map of Active Volcanoes and recent \u003cb\u003eEarthquakes\u003c/b\u003e world-wide - click to \u003cbr\u003e  show/ \u003cb\u003e...\u003c/b\u003e Dark red = Major Eruption: large explosive (VEI&gt;\u003cb\u003e4\u003c/b\u003e) or otherwise very \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Reply ?? 1 ?? Like ?? \u003cb\u003eNovember\u003c/b\u003e 27 at 5:03am \u003cb\u003e....\u003c/b\u003e \u003cb\u003eAfrica\u003c/b\u003e. Nyiragongo lava lake &amp; \u003cbr\u003e  mountain gorillas. Desert, Salt &amp; Volcanoes (Danakil, Ethiopia) \u003cb\u003e....\u003c/b\u003e Eruption \u003cb\u003e2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uSi_y8RoXw0J",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/today.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/today.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismotectonics and seismic hazards in Africa",
+   "htmlTitle": "Seismotectonics and \u003cb\u003eseismic\u003c/b\u003e hazards in \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "displayLink": "eost.u-strasbg.fr",
+   "snippet": "studies and maps are a necessary step for the mitigation of earthquake disasters   in ... regions and tectonic backgrounds of the African plate is an opportunity for   the African ..... SELECTED RECENT (since 2001) PEER REVIEWED   PUBLICATIONS ... Istanbul Following the August 17, 1999 Izmit and November   12, 1999 ...",
+   "htmlSnippet": "studies and maps are a necessary step \u003cb\u003efor\u003c/b\u003e the mitigation of \u003cb\u003eearthquake\u003c/b\u003e disasters \u003cbr\u003e  in \u003cb\u003e...\u003c/b\u003e regions and tectonic backgrounds of the \u003cb\u003eAfrican\u003c/b\u003e plate is an opportunity \u003cb\u003efor\u003c/b\u003e \u003cbr\u003e  the \u003cb\u003eAfrican\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e SELECTED RECENT (since \u003cb\u003e2001\u003c/b\u003e) PEER REVIEWED \u003cbr\u003e  PUBLICATIONS \u003cb\u003e...\u003c/b\u003e Istanbul Following the August 17, 1999 Izmit and \u003cb\u003eNovember\u003c/b\u003e \u003cbr\u003e  12, 1999 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uxGp73DozZUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "htmlFormattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110615115411+02'00'",
+      "author": "Mustapha",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20110615115411+02'00'",
+      "title": "Microsoft Word - Seismotectonic-Map_Project.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BBC Breaking News (BBCBreaking) on Twitter",
+   "htmlTitle": "BBC Breaking News (BBCBreaking) on Twitter",
+   "link": "https://twitter.com/BBCBreaking",
+   "displayLink": "twitter.com",
+   "snippet": "For news, features, analysis follow @BBCWorld (our World edition) and @  BBCNews .... 7.5m people in Eng & Wales were born abroad - 2.9m more than   2001. ... South Africa ex-President Nelson Mandela \"responding to treatment\" for   lung ...",
+   "htmlSnippet": "\u003cb\u003eFor\u003c/b\u003e news, features, analysis follow @BBCWorld (our World edition) and @\u003cbr\u003e  BBCNews \u003cb\u003e....\u003c/b\u003e 7.5m people in Eng &amp; Wales were born abroad - 2.9m more than \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e South \u003cb\u003eAfrica\u003c/b\u003e ex-President Nelson Mandela &quot;responding to treatment&quot; \u003cb\u003efor\u003c/b\u003e \u003cbr\u003e  lung \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rmqG26RwzmAJ",
+   "formattedUrl": "https://twitter.com/BBCBreaking",
+   "htmlFormattedUrl": "https://twitter.com/BBCBreaking",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://si0.twimg.com/profile_images/2186829506/128x128_twitter_bbc_breaking_reasonably_small.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "102",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTw8PFMoVCOFZ0kpvMqlxPefruwXSepPRor-cJ-0U04h0EFJm1Oc3AxEg"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  }
+ ]
+}

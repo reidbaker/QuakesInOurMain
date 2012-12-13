@@ -1,0 +1,334 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 28 1998 Africa Earthquake",
+    "totalResults": "532000",
+    "searchTerms": "May 28 1998 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 28 1998 Africa Earthquake",
+    "totalResults": "532000",
+    "searchTerms": "May 28 1998 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.49017,
+  "formattedSearchTime": "0.49",
+  "totalResults": "532000",
+  "formattedTotalResults": "532,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Ecuador ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Ecuador \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "2 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed ... Indonesia, 1998 -   Magnitude : 7.7 ??? 34 people killed ..... October 28 2012 ... This earthquake may   be the largest ???on land??? earthquake in the modern history of Japan.",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e...\u003c/b\u003e Indonesia, \u003cb\u003e1998\u003c/b\u003e - \u003cbr\u003e  Magnitude : 7.7 ??? 34 people killed \u003cb\u003e.....\u003c/b\u003e October \u003cb\u003e28\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e This \u003cb\u003eearthquake may\u003c/b\u003e \u003cbr\u003e  be the largest ???on land??? \u003cb\u003eearthquake\u003c/b\u003e in the modern history of Japan.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Source mechanism and source parameters of May 28, 1998 ...",
+   "htmlTitle": "Source mechanism and source parameters of \u003cb\u003eMay 28, 1998\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://adsabs.harvard.edu/abs/2007JSeis..11..259A",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "On May 28, 1998, a moderate size earthquake of mb 5.5 occurred offshore ... and   confirms an extension of the back thrusting effects towards the African margin.",
+   "htmlSnippet": "On \u003cb\u003eMay 28, 1998\u003c/b\u003e, a moderate size \u003cb\u003eearthquake\u003c/b\u003e of mb 5.5 occurred offshore \u003cb\u003e...\u003c/b\u003e and \u003cbr\u003e  confirms an extension of the back thrusting effects towards the \u003cb\u003eAfrican\u003c/b\u003e margin.",
+   "formattedUrl": "adsabs.harvard.edu/abs/2007JSeis..11..259A",
+   "htmlFormattedUrl": "adsabs.harvard.edu/abs/2007JSeis..11..259A",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_doi": "10.1007/s10950-007-9051-5",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/2007JSeis..11..259A",
+      "citation_title": "Source mechanism and source parameters of May 28, 1998 earthquake, Egypt",
+      "citation_authors": "Abou Elenean, K. M.; Hussein, H. M.",
+      "citation_keywords": "Source mechanism, Source parameter, Surface wave amplitude spectra, Waveform inversion, 28 May 1998 earthquake, Continental margin of Egypt",
+      "citation_issn": "1383-4649",
+      "citation_date": "07/2007",
+      "citation_journal_title": "Journal of Seismology",
+      "citation_volume": "11",
+      "citation_firstpage": "259",
+      "citation_lastpage": "274",
+      "prism.publicationname": "Journal of Seismology",
+      "prism.issn": "1383-4649",
+      "prism.volume": "11",
+      "prism.startingpage": "259",
+      "prism.endingpage": "274",
+      "dc.language": "en",
+      "dc.identifier": "doi:10.1007/s10950-007-9051-5",
+      "dc.date": "2007-07",
+      "dc.source": "Journal of Seismology, Volume 11, Issue 3, pp.259-274",
+      "dc.title": "Source mechanism and source parameters of May 28, 1998 earthquake, Egypt",
+      "dc.creator": "Abou Elenean, K. M."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... Mw8.1 ??? March 25, 1998 ??? Balleny Islands Region Mw8.1 ??? May 23, 1989 ???   North of Macquarie Island (Mw8.1 ??? January 10, 1971 ??? Very Minor ...",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e Mw8.1 ??? March 25, \u003cb\u003e1998\u003c/b\u003e ??? Balleny Islands Region Mw8.1 ??? \u003cb\u003eMay\u003c/b\u003e 23, 1989 ??? \u003cbr\u003e  North of Macquarie Island (Mw8.1 ??? January 10, 1971 ??? Very Minor \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Preliminary Regional Seismic Analysis of Nuclear Explosions and",
+   "htmlTitle": "Preliminary Regional \u003cb\u003eSeismic\u003c/b\u003e Analysis of Nuclear Explosions and",
+   "link": "http://www.llnl.gov/tid/lof/documents/pdf/903991.pdf",
+   "displayLink": "www.llnl.gov",
+   "snippet": "and 13, 1998, and ending with Pakistan's announced tests on May 28 and 30 ...   the May 11 tests we place limits on the size of any seismic signal from the ..... We   are developing regional Ms and mb scales in the Middle East and North Africa to ...",
+   "htmlSnippet": "and 13, 1998, and ending with Pakistan&#39;s announced tests on \u003cb\u003eMay 28\u003c/b\u003e and 30 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  the May 11 tests we place limits on the size of any \u003cb\u003eseismic\u003c/b\u003e signal from the \u003cb\u003e.....\u003c/b\u003e We \u003cbr\u003e  are developing regional Ms and mb scales in the Middle East and North \u003cb\u003eAfrica\u003c/b\u003e to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6LNplafXsC0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.llnl.gov/tid/lof/documents/pdf/903991.pdf",
+   "htmlFormattedUrl": "www.llnl.gov/tid/lof/documents/pdf/903991.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat Distiller 3.0 for Power Macintosh",
+      "creationdate": "Thu Feb 18 13:51:18 1999"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1966 Toro earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1966 Toro \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1966_Toro_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Casualties, 157 killed (+90 in the May 18 aftershock). The 1966 Toro earthquake,   or the 1966 Ruwenzori earthquake, occurred on March 20, ... Rift Valley of the   East Africa Rift System, between Lake Edward and Lake Albert. ... :28 Cracks and   fissures were observed on the ground. ... a b Foster, A.N.; Jackson J.A. (1998).",
+   "htmlSnippet": "Casualties, 157 killed (+90 in the \u003cb\u003eMay\u003c/b\u003e 18 aftershock). The 1966 Toro \u003cb\u003eearthquake\u003c/b\u003e, \u003cbr\u003e  or the 1966 Ruwenzori \u003cb\u003eearthquake\u003c/b\u003e, occurred on March 20, \u003cb\u003e...\u003c/b\u003e Rift Valley of the \u003cbr\u003e  East \u003cb\u003eAfrica\u003c/b\u003e Rift System, between Lake Edward and Lake Albert. \u003cb\u003e...\u003c/b\u003e :\u003cb\u003e28\u003c/b\u003e Cracks and \u003cbr\u003e  fissures were observed on the ground. \u003cb\u003e...\u003c/b\u003e a b Foster, A.N.; Jackson J.A. (\u003cb\u003e1998\u003c/b\u003e).",
+   "cacheId": "Zw_UFxXiWbMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1966_Toro_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1966_Toro_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Source mechanism and source parameters of May 28, 1998 ...",
+   "htmlTitle": "Source mechanism and source parameters of \u003cb\u003eMay 28, 1998\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/G34030TM4UP816W2.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "May 9, 2007 ... Continental margin of Egypt. 1 Introduction. On May 28, 1998 a moderate size   earthquake (mb=5.5) occurred along the African margin to the ...",
+   "htmlSnippet": "May 9, 2007 \u003cb\u003e...\u003c/b\u003e Continental margin of Egypt. 1 Introduction. On \u003cb\u003eMay 28, 1998\u003c/b\u003e a moderate size \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e (mb=5.5) occurred along the \u003cb\u003eAfrican\u003c/b\u003e margin to the \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/G34030TM4UP816W2.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/G34030TM4UP816W2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070705102111+08'00'",
+      "creator": "3B2 Total Publishing System 8.07e/W Unicode",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20070711020108+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on May 28 - What happened on my birthday. Today ...",
+   "htmlTitle": "What happened on \u003cb\u003eMay 28\u003c/b\u003e - What happened on my birthday. Today \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/may28.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "May 28, 1156 Battle at Brindisi: King Willem of Sicily beats Byzantine fleet ... May   28, 1912 Jackie Matthews takes 2 cricket hat-tricks same day Australia vs South   Africa .... May 28, 1995 \"An earthquake hits the Russian town of Khabarovsk,   killing 2,000 ... May 28, 1998 \"Nuclear testing: Pakistan responds to a series of   Indian ...",
+   "htmlSnippet": "May 28, 1156 Battle at Brindisi: King Willem of Sicily beats Byzantine fleet \u003cb\u003e...\u003c/b\u003e May \u003cbr\u003e  28, 1912 Jackie Matthews takes 2 cricket hat-tricks same day Australia vs South \u003cbr\u003e  \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e May 28, 1995 &quot;An \u003cb\u003eearthquake\u003c/b\u003e hits the Russian town of Khabarovsk, \u003cbr\u003e  killing 2,000 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMay 28\u003c/b\u003e, \u003cb\u003e1998\u003c/b\u003e &quot;Nuclear testing: Pakistan responds to a series of \u003cbr\u003e  Indian \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YWOStYk8ZnEJ",
+   "formattedUrl": "www.datesinhistory.com/may28.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003emay28\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kinematics of the East African Rift from GPS and Earthquake Slip ...",
+   "htmlTitle": "Kinematics of the East \u003cb\u003eAfrican\u003c/b\u003e Rift from GPS and \u003cb\u003eEarthquake\u003c/b\u003e Slip \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "displayLink": "web.ics.purdue.edu",
+   "snippet": "2000) and the Senqu Seismic Belt in South Africa and. Lesotho (Hartnady 1998)   and may lie on a microplate separate from Nubia and ..... Geology, 28, 939-942.",
+   "htmlSnippet": "2000) and the Senqu \u003cb\u003eSeismic\u003c/b\u003e Belt in South \u003cb\u003eAfrica\u003c/b\u003e and. Lesotho (Hartnady \u003cb\u003e1998\u003c/b\u003e) \u003cbr\u003e  and \u003cb\u003emay\u003c/b\u003e lie on a microplate separate from Nubia and \u003cb\u003e.....\u003c/b\u003e Geology, \u003cb\u003e28\u003c/b\u003e, 939-942.",
+   "cacheId": "l9mnsFHY0nAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "htmlFormattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060606100131-04'00'",
+      "creator": "Word",
+      "moddate": "D:20060606100131-04'00'",
+      "producer": "Mac OS X 10.3.9 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Scientific and Techincal Cooperation between Egypt and Japan in ...",
+   "htmlTitle": "Scientific and Techincal Cooperation between Egypt and Japan in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ipred-iisee.org/Kickoff/pdf/Prof.%20Dr.%20Salah%20M.%20Mahmoud.pdf",
+   "displayLink": "www.ipred-iisee.org",
+   "snippet": "Network. National. Seismic. Network. Accelerographs. Network. Board of the ...   1998 May 28 (Ras El- ... cooperation fund for Africa, Ministry of foreign affairs).",
+   "htmlSnippet": "Network. National. \u003cb\u003eSeismic\u003c/b\u003e. Network. Accelerographs. Network. Board of the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1998 May 28\u003c/b\u003e (Ras El- \u003cb\u003e...\u003c/b\u003e cooperation fund for \u003cb\u003eAfrica\u003c/b\u003e, Ministry of foreign affairs).",
+   "cacheId": "VTWxuBfrXlwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipred-iisee.org/.../Prof.%20Dr.%20Salah%20M.%20Mahmoud.pdf",
+   "htmlFormattedUrl": "www.ipred-iisee.org/.../Prof.%20Dr.%20Salah%20M.%20Mahmoud.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070702163104+09'00'",
+      "author": "Owner",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20070702163104+09'00'",
+      "title": "Microsoft PowerPoint - 2.Egypt.ppt"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tremors felt in SA after Swaziland quake | News24",
+   "htmlTitle": "Tremors felt in SA after Swaziland \u003cb\u003equake\u003c/b\u003e | News24",
+   "link": "http://www.news24.com/SouthAfrica/News/Tremors-felt-in-SA-after-Swaziland-quake-20120528",
+   "displayLink": "www.news24.com",
+   "snippet": "May 28, 2012 ... A minor earthquake in Swaziland has resulted in earth tremors being felt in parts   of ... Articles about football venues in South Africa including Mbombela stadium   Now R243.00 ..... trevor.myburgh.12 - May 28, 2012 at 03:12 .... It is appears that   the pressure non the earth has been building up since 1998. 0. 0 ...",
+   "htmlSnippet": "May 28, 2012 \u003cb\u003e...\u003c/b\u003e A minor \u003cb\u003eearthquake\u003c/b\u003e in Swaziland has resulted in earth tremors being felt in parts \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e Articles about football venues in South \u003cb\u003eAfrica\u003c/b\u003e including Mbombela stadium \u003cbr\u003e  Now R243.00 \u003cb\u003e.....\u003c/b\u003e trevor.myburgh.12 - \u003cb\u003eMay 28\u003c/b\u003e, 2012 at 03:12 \u003cb\u003e....\u003c/b\u003e It is appears that \u003cbr\u003e  the pressure non the earth has been building up since \u003cb\u003e1998\u003c/b\u003e. 0. 0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YfHfG3_4cG0J",
+   "formattedUrl": "www.news24.com/SouthAfrica/.../Tremors-felt-in-SA-after-Swaziland-quake- 20120528",
+   "htmlFormattedUrl": "www.news24.com/South\u003cb\u003eAfrica\u003c/b\u003e/.../Tremors-felt-in-SA-after-Swaziland-\u003cb\u003equake\u003c/b\u003e- 20120528",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cdn.24.co.za/files/Cms/General/d/1007/8b2c4f53e9b549ac91eeb91a58ff5986.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "64",
+      "height": "64",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRomKL3wNT8Yt7MM9nd0v0ZyWokWuCpSSBHzXro0OEOt5fZAIzBzVoO"
+     }
+    ],
+    "metatags": [
+     {
+      "article:published_time": "2012/05/28 10:52:26 AM",
+      "article:modified_time": "2012/05/28 10:52:26 AM",
+      "article:expiration_time": "2012/12/13 08:42:38 PM",
+      "twitter:card": "summary",
+      "twitter:url": "http://www.news24.com/SouthAfrica/News/Tremors-felt-in-SA-after-Swaziland-quake-20120528",
+      "twitter:title": "Tremors felt in SA after Swaziland quake",
+      "twitter:site": "News24",
+      "twitter:description": "A minor earthquake in Swaziland has resulted in earth tremors being felt in parts of KwaZulu-Natal and Mpumalanga, East Coast Radio reports.",
+      "twitter:image": "http://cdn.24.co.za/files/Cms/General/d/1007/8b2c4f53e9b549ac91eeb91a58ff5986.jpg",
+      "og:site_name": "News24",
+      "fb:app_id": "2363277980",
+      "fb:page_id": "10227041841",
+      "og:title": "Tremors felt in SA after Swaziland quake",
+      "og:type": "article",
+      "og:url": "http://www.news24.com/SouthAfrica/News/Tremors-felt-in-SA-after-Swaziland-quake-20120528",
+      "og:image": "http://cdn.24.co.za/files/Cms/General/d/1007/8b2c4f53e9b549ac91eeb91a58ff5986.jpg",
+      "og:description": "A minor earthquake in Swaziland has resulted in earth tremors being felt in parts of KwaZulu-Natal and Mpumalanga, East Coast Radio reports.",
+      "bitly-verification": "267098cc5a65",
+      "news_keywords": "swaziland, mbombela, pietermaritzburg, earthquakes"
+     }
+    ]
+   }
+  }
+ ]
+}

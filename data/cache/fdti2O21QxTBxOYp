@@ -1,0 +1,324 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 19 2001 Australia Earthquake",
+    "totalResults": "758000",
+    "searchTerms": "Nov 19 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 19 2001 Australia Earthquake",
+    "totalResults": "758000",
+    "searchTerms": "Nov 19 2001 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.241317,
+  "formattedSearchTime": "0.24",
+  "totalResults": "758000",
+  "formattedTotalResults": "758,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... This database has been presented at the Australian Earthquake Engineering ...   as a result of the 11th March Tohoku earthquake, 19 damaging earthquakes in ...   The Van earthquakes in Turkey in October and November caused 604 ..... BTE [  2001] ???Economic Costs of Natural Disasters in Australia???, Bureau ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  as a result of the 11th March Tohoku \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e19\u003c/b\u003e damaging \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The Van \u003cb\u003eearthquakes\u003c/b\u003e in Turkey in October and \u003cb\u003eNovember\u003c/b\u003e caused 604 \u003cb\u003e.....\u003c/b\u003e BTE [\u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e] ???Economic Costs of Natural Disasters in \u003cb\u003eAustralia\u003c/b\u003e???, Bureau \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Western Australia has had a regular history of earthquakes throughout its   geological history. ... Burakin Swarm 2000-2001; 2.14 South of Albany 2001; 2.15   Kalgoorlie 2010 .... of an earthquake he experienced in the Ashburton district, 19   Nov.",
+   "htmlSnippet": "Western \u003cb\u003eAustralia\u003c/b\u003e has had a regular history of \u003cb\u003eearthquakes\u003c/b\u003e throughout its \u003cbr\u003e  geological history. \u003cb\u003e...\u003c/b\u003e Burakin Swarm 2000-\u003cb\u003e2001\u003c/b\u003e; 2.14 South of Albany \u003cb\u003e2001\u003c/b\u003e; 2.15 \u003cbr\u003e  Kalgoorlie 2010 \u003cb\u003e....\u003c/b\u003e of an \u003cb\u003eearthquake\u003c/b\u003e he experienced in the Ashburton district, \u003cb\u003e19\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNov\u003c/b\u003e.",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Scientists study Tsunami deposits in Sendai, Japan to improve ...",
+   "htmlTitle": "Scientists study Tsunami deposits in Sendai, Japan to improve \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/01/scientists-study-tsunami-deposits-in-sendai-japan-to-improve-understanding-tsunami-hazards/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 1, 2011 ... The earthquake was one of the five most powerful earthquakes recorded ... The   11 members of the team came from Japan, the United States, Australia, ...   published a paper in 2001 describing J??gan tsunami sand deposits and ... 17-70,   http://unit.aist.go.jp/actfault-eq/seika/h19seika/pdf/02.sawai.pdf [5.5 MB ...",
+   "htmlSnippet": "Jul 1, 2011 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was one of the five most powerful \u003cb\u003eearthquakes\u003c/b\u003e recorded \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  11 members of the team came from Japan, the United States, \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  published a paper in \u003cb\u003e2001\u003c/b\u003e describing J??gan tsunami sand deposits and \u003cb\u003e...\u003c/b\u003e 17-70, \u003cbr\u003e  http://unit.aist.go.jp/actfault-eq/seika/\u003cb\u003eh19seika\u003c/b\u003e/pdf/02.sawai.pdf [5.5 MB \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_xVc-sWvISoJ",
+   "formattedUrl": "earthquake-report.com/.../scientists-study-tsunami-deposits-in-sendai-japan-to -improve-understanding-tsunami-hazards/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../scientists-study-tsunami-deposits-in-sendai-japan-to -improve-understanding-tsunami-hazards/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://soundwaves.usgs.gov/2011/06/TsuGroupWordCVdes.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "286",
+      "height": "176",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUR--wJezXcJ54jd-bKfNZ7pEJdLsAYVGAWXFMiqFjHF_5u1BB7KfUS5Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   ..... Ararat, Halls Gap, Pomonal and Stawell ?? Adelaide, 19 October 2011,   magnitude 3.3, epicentre Upper Sturt, felt up to 31 km away. ... 1 November 1842.   http://trove.nla.gov.au/ndp/del/article/25639669? .... a b Past Earthquake News:   2001.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Ararat, Halls Gap, Pomonal and Stawell &middot; Adelaide, \u003cb\u003e19\u003c/b\u003e October 2011, \u003cbr\u003e  magnitude 3.3, epicentre Upper Sturt, felt up to 31 km away. \u003cb\u003e...\u003c/b\u003e 1 \u003cb\u003eNovember\u003c/b\u003e 1842. \u003cbr\u003e  http://trove.nla.gov.au/ndp/del/article/25639669? \u003cb\u003e....\u003c/b\u003e a b Past \u003cb\u003eEarthquake\u003c/b\u003e News: \u003cbr\u003e  \u003cb\u003e2001\u003c/b\u003e.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minerals | Recent earthquakes in SA",
+   "htmlTitle": "Minerals | Recent \u003cb\u003eearthquakes\u003c/b\u003e in SA",
+   "link": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "displayLink": "www.pir.sa.gov.au",
+   "snippet": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals   division. ... 19 November 2012, 23:46, -33.600??, 136.771??, 18 km NW of Cowell,   2.5 ...",
+   "htmlSnippet": "Most recent \u003cb\u003eearthquakes\u003c/b\u003e recorded in South \u003cb\u003eAustralia\u003c/b\u003e by PIRSA&#39;s Minerals \u003cbr\u003e  division. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e19 November\u003c/b\u003e 2012, 23:46, -33.600??, 136.771??, 18 km NW of Cowell, \u003cbr\u003e  2.5 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SS6ROhNnXxwJ",
+   "formattedUrl": "www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "htmlFormattedUrl": "www.pir.sa.gov.au/minerals/\u003cb\u003eearthquakes\u003c/b\u003e/recent_\u003cb\u003eearthquakes\u003c/b\u003e_in_sa",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en",
+      "dc.creator.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.publisher.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.title": "Recent earthquakes in SA",
+      "dc.date.created": "2008-05-20CST10:03:29",
+      "dc.date.modified": "2012-12-10CST16:13:05",
+      "dc.rights": "Copyright (c) Department of Primary Industries and Regions, South Australia",
+      "dc.identifier": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+      "dc.subject": "earthquake, latest, South Australia, recent",
+      "dc.description": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals division",
+      "subject": "earthquake, latest, South Australia, recent"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Latest earthquakes in and around Australia interactive map & list ...",
+   "htmlTitle": "Latest \u003cb\u003eearthquakes\u003c/b\u003e in and around \u003cb\u003eAustralia\u003c/b\u003e interactive map &amp; list \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/australia.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Australia: volcanoes and recent earthquakes - interactive map /   VolcanoDiscovery - click to .... Thu, 29 Nov 19:21 UTC, M 4.4 / 108 km - [info],   South Australia ...",
+   "htmlSnippet": "\u003cb\u003eAustralia\u003c/b\u003e: volcanoes and recent \u003cb\u003eearthquakes\u003c/b\u003e - interactive map / \u003cbr\u003e  VolcanoDiscovery - click to \u003cb\u003e....\u003c/b\u003e Thu, 29 \u003cb\u003eNov 19\u003c/b\u003e:21 UTC, M 4.4 / 108 km - [info], \u003cbr\u003e  South \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wyBRS9oUP9sJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/australia.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/\u003cb\u003eaustralia\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Scientists investigate Victorian earthquake - Geoscience Australia",
+   "htmlTitle": "Scientists investigate Victorian \u003cb\u003eearthquake\u003c/b\u003e - Geoscience \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.ga.gov.au/about-us/news-media/news-2012/scientists-investigate-victorian-earthquake.html",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Jun 21, 2012 ... The magnitude 5.4 earthquake occurred in the state's southeast at 8:53pm on 19   June 2012 16 kilometres southwest of the Gippsland township ...",
+   "htmlSnippet": "Jun 21, 2012 \u003cb\u003e...\u003c/b\u003e The magnitude 5.4 \u003cb\u003eearthquake\u003c/b\u003e occurred in the state&#39;s southeast at 8:53pm on \u003cb\u003e19\u003c/b\u003e \u003cbr\u003e  June 2012 16 kilometres southwest of the Gippsland township \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wb0j6gUO33wJ",
+   "formattedUrl": "www.ga.gov.au/.../scientists-investigate-victorian-earthquake.html",
+   "htmlFormattedUrl": "www.ga.gov.au/.../scientists-investigate-victorian-\u003cb\u003eearthquake\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ga.gov.au/servlet/BigObjFileManager?bigobjid=GA20773"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcHIk8yNfkro2ULAhEgDMHm8su25JwZPruXCsq8eEYF1A1aUpQvuv-WA"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Scientists investigate Victorian earthquake",
+      "dc.creator": "c\\=AU\\;o\\=Australia Government\\;ou\\=Geoscience Australia",
+      "dc.publisher": "c\\=AU\\;o\\=Australian Government\\;ou\\=Geoscience Australia",
+      "agls.function": "Earth Science",
+      "dc.identifier": "scientists-investigate-victorian-earthquake.html",
+      "dc.format": "text/html",
+      "dc.language": "en-AU",
+      "agls.audience": "all",
+      "dc.coverage.jurisdiction": "Commonwealth of Australia",
+      "dc.rights": "; \u003cmeta name=\"DC.Rights\" scheme=\"URI\" content=\"http://creativecommons.org/licenses/by/2.5/au/\"\u003e",
+      "dc.date.created": "2012-06-21 15:04:31",
+      "dc.date.modified": "2012-06-21 15:05:11",
+      "dc.description": "Scientists investigate Victorian earthquake",
+      "topic": "News and Media",
+      "topic id": "612",
+      "multimedia products url": "http://www.ga.gov.au/cedda/multimedia/",
+      "publication products url": "http://www.ga.gov.au/cedda/publications/",
+      "map products url": "http://www.ga.gov.au/cedda/maps/",
+      "data and application products url": "http://www.ga.gov.au/cedda/data/",
+      "genericemail": "media@ga.gov.au",
+      "newsitemdate": "21 June 2012"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. .... M 6.6 Fatalities 1; 2007 12   19 - Andreanof Islands, Aleutian Islands, Alaska - M 7.2 ..... 2001 07 07 - Near the   Coast of Peru - M 7.6 Fatalities 1; 2001 06 23 - Near the ... 1988 03 06 - Gulf of   Alaska - M 7.7; 1988 01 22 - Tennant Creek, Australia - M 6.6 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e....\u003c/b\u003e M 6.6 Fatalities 1; 2007 12 \u003cbr\u003e  \u003cb\u003e19\u003c/b\u003e - Andreanof Islands, Aleutian Islands, Alaska - M 7.2 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e2001\u003c/b\u003e 07 07 - Near the \u003cbr\u003e  Coast of Peru - M 7.6 Fatalities 1; \u003cb\u003e2001\u003c/b\u003e 06 23 - Near the \u003cb\u003e...\u003c/b\u003e 1988 03 06 - Gulf of \u003cbr\u003e  Alaska - M 7.7; 1988 01 22 - Tennant Creek, \u003cb\u003eAustralia\u003c/b\u003e - M 6.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Photos: Meteor Showers",
+   "htmlTitle": "Photos: Meteor Showers",
+   "link": "http://photos.denverpost.com/2012/04/21/photos-meteor-showers/33894/",
+   "displayLink": "photos.denverpost.com",
+   "snippet": "Apr 21, 2012... 95 kilometers (59 miles) east of Bangkok early Monday, Nov. 19, 2001. The   Leonid meteor shower was the biggest seen in Asia for decades. People .....   Photos: Strong earthquake strikes off the coast of northeastern Japan ...",
+   "htmlSnippet": "Apr 21, 2012\u003cb\u003e...\u003c/b\u003e 95 kilometers (59 miles) east of Bangkok early \u003cb\u003eMonday, Nov. 19, 2001\u003c/b\u003e. The \u003cbr\u003e  Leonid meteor shower was the biggest seen in \u003cb\u003eAsia\u003c/b\u003e for decades. People \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Photos: Strong \u003cb\u003eearthquake\u003c/b\u003e strikes off the coast of northeastern Japan \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nLJYZMyLin0J",
+   "formattedUrl": "photos.denverpost.com/2012/04/21/photos-meteor.../33894/",
+   "htmlFormattedUrl": "photos.denverpost.com/2012/04/21/photos-meteor.../33894/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://director.denverpost.com/p.php?a=JSYgMCI4VH5hfm5tYVtyY219c3VWOzssTVZOLTEnNzkjJzE%2FOz4jKDsnNiYoMCc3OjoyOSc6LjcqPC03Ig%3D%3D&m=1335054330"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "120",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU5ZoYM7iEePKP5zVsI6B5hteJY6phmSZ2HER0zYrIMCFMeZg9hHM1"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Photos: Meteor Showers",
+      "og:type": "article",
+      "og:url": "http://photos.denverpost.com/2012/04/21/photos-meteor-showers/",
+      "og:image": "http://director.denverpost.com/p.php?a=JSYgMCI4VH5hfm5tYVtyY219c3VWOzssTVZOLTEnNzkjJzE%2FOz4jKDsnNiYoMCc3OjoyOSc6LjcqPC03Ig%3D%3D&m=1335054330"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Seismicity in Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Seismicity in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Aug 20, 2011 ... For a listing of recent Australian earthquakes, follow this link ... 19 Nov 1906, off   west coast of WA, 7.5, 111.8E , 19.1S -largest Australian earthquake? .... Location  . 27 Oct 2001, 0758, 35.356, 143.690, 4.8, Swan Hill (see Vic) ...",
+   "htmlSnippet": "Aug 20, 2011 \u003cb\u003e...\u003c/b\u003e For a listing of recent \u003cb\u003eAustralian earthquakes\u003c/b\u003e, follow this link \u003cb\u003e...\u003c/b\u003e \u003cb\u003e19 Nov\u003c/b\u003e 1906, off \u003cbr\u003e  west coast of WA, 7.5, 111.8E , 19.1S -largest \u003cb\u003eAustralian earthquake\u003c/b\u003e? \u003cb\u003e....\u003c/b\u003e Location\u003cbr\u003e  . 27 Oct \u003cb\u003e2001\u003c/b\u003e, 0758, 35.356, 143.690, 4.8, Swan Hill (see Vic) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w1yMftxdSCkJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity_in_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32684"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0y-_VdOt97EaQcatNSECvkyYtwP5d-jCx_yj8JSWfCuxRjC0WZH2IuGo"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity in Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/43699",
+      "dc.date.modified": "2011-08-20",
+      "dc.date.created": "2004-02-07",
+      "dc.date.valid": "2012-08-20",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/43699",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  }
+ ]
+}
