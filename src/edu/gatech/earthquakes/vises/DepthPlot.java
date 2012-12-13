@@ -189,9 +189,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
        
 	//the size in pixels of a unit of depth 
 	float depthPixelOffset = (h-buffer*2)/(float)depthRange[1];
-	System.out.println(depthPixelOffset);
-	 //horizontal lines occur every 5 depth units
-        //int verticalOffset = (int)(depthPixelOffset*20);
+	
 	
 	parent.stroke(0xaa);
 	parent.fill(0);
@@ -206,15 +204,6 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
             parent.text(i+ "", 0, 0);
             parent.popMatrix();
 	}
-	/*
-	for (int i = buffer; i < h - buffer; i += 10) {
-	    parent.line(x + buffer - 2, y + i, x + w - buffer, y+ i);
-	    parent.pushMatrix();
-	    parent.translate(x + buffer / 2, y + i);
-	    parent.rotate(-PApplet.PI / 2);
-	    parent.text(df.format(depthPixelOffset*(i-buffer))+ "", 0, 0);
-	    parent.popMatrix();
-	}*/
     }
 
     @Override
