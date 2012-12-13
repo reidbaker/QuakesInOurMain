@@ -19,7 +19,7 @@ import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
 
 public class Importer {
-    private final static String DATA_LOCATION = /* ".." + File.separator + */"data"
+    private final static String DATA_LOCATION = ".." + File.separator + "data"
 	    + File.separator;
     private final static String FILENAME = "Catalog.csv";
 

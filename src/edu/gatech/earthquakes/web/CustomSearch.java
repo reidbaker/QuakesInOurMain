@@ -22,7 +22,7 @@ import com.google.gson.JsonParser;
 
 public class CustomSearch {
     private final static String SEARCH_BASE = "https://www.googleapis.com/customsearch/v1";
-    private final static String DATA_LOCATION = /* ".." + File.separator + */"data"
+    private final static String DATA_LOCATION = ".." + File.separator + "data"
 	    + File.separator;
     private final static String PROPERTIES_FILENAME = "config.properties";
     private final static String CACHE_LOCATION = DATA_LOCATION + "cache"
