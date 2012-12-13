@@ -1,0 +1,298 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 8 1910 Asia Earthquake",
+    "totalResults": "98600",
+    "searchTerms": "Jan 8 1910 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 8 1910 Asia Earthquake",
+    "totalResults": "98600",
+    "searchTerms": "Jan 8 1910 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.260345,
+  "formattedSearchTime": "0.26",
+  "totalResults": "98600",
+  "formattedTotalResults": "98,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... December 8, 2012. Did you know this earthquake happened on the same day in   history ? South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e December \u003cb\u003e8\u003c/b\u003e, 2012. Did you know this \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in \u003cbr\u003e  history ? South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Center for East Asia (UT_CEAS) on Twitter",
+   "htmlTitle": "Center for East \u003cb\u003eAsia\u003c/b\u003e (UT_CEAS) on Twitter",
+   "link": "https://twitter.com/UT_CEAS",
+   "displayLink": "twitter.com",
+   "snippet": "The Center for East Asian Studies at the University of Texas at Austin ... Theodore   C. Bestor of Harvard University to give a talk about the earthquake and ...",
+   "htmlSnippet": "The Center for East \u003cb\u003eAsian\u003c/b\u003e Studies at the University of Texas at Austin \u003cb\u003e...\u003c/b\u003e Theodore \u003cbr\u003e  C. Bestor of Harvard University to give a talk about the \u003cb\u003eearthquake\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0qXLwRyM-18J",
+   "formattedUrl": "https://twitter.com/UT_CEAS",
+   "htmlFormattedUrl": "https://twitter.com/UT_CEAS",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://si0.twimg.com/profile_images/511937613/img-below-nav_reasonably_small.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "102",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQrQ-zLblEdnDADYwB9BAisY8Y1dVg06Zn2lZFUwz37UJWjB7gExg_AQ"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive April ??? June 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive April ??? June 2012",
+   "link": "http://earthquake-report.com/2012/08/24/worldwide-earthquake-related-news-archive-april-june-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 24, 2012 ... The last earthquake of magnitude 5.5 or higher in Salt Lake City was in 1910,   and Barry Welliver, a structural engineer, said he feels like ...",
+   "htmlSnippet": "Aug 24, 2012 \u003cb\u003e...\u003c/b\u003e The last \u003cb\u003eearthquake\u003c/b\u003e of magnitude 5.5 or higher in Salt Lake City was in \u003cb\u003e1910\u003c/b\u003e, \u003cbr\u003e  and Barry Welliver, a structural engineer, said he feels like \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "J5_GuF_LK54J",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive-april- june-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive-april- june-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The list incorporates high quality earthquake source (i.e., origin time, location and   earthquake .... 1910-01-08 14:49, China, 35.000, 122.000, 0, 6.8 UK, 1 ...",
+   "htmlSnippet": "The list incorporates high quality \u003cb\u003eearthquake\u003c/b\u003e source (i.e., origin time, location and \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1910-01-08\u003c/b\u003e 14:49, China, 35.000, 122.000, 0, 6.8 UK, 1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Most Deadly 100 Natural Disasters of the 20TH Century",
+   "htmlTitle": "The Most Deadly 100 Natural Disasters of the 20TH Century",
+   "link": "http://www.disastercenter.com/disaster/TOP100K.html",
+   "displayLink": "www.disastercenter.com",
+   "snippet": "Country, Year, Day, Month, Disaster, Region, Continent, Killed ...",
+   "htmlSnippet": "Country, Year, Day, Month, Disaster, Region, Continent, Killed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FVKd2KJQEXsJ",
+   "formattedUrl": "www.disastercenter.com/disaster/TOP100K.html",
+   "htmlFormattedUrl": "www.disastercenter.com/disaster/TOP100K.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Christopher Effgen"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1906 San Francisco earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1906 San Francisco \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "[8] Most of the deaths occurred in San Francisco itself, but 189 were reported   elsewhere in ... US economic and military power was projected into the Pacific   and Asia. ..... Until 1910, a few countries, especially in Europe, followed the call   for an ... Vivian Illing (December 25, 1900 ??? January 22, 2009) was believed to   be the ...",
+   "htmlSnippet": "[\u003cb\u003e8\u003c/b\u003e] Most of the deaths occurred in San Francisco itself, but 189 were reported \u003cbr\u003e  elsewhere in \u003cb\u003e...\u003c/b\u003e US economic and military power was projected into the Pacific \u003cbr\u003e  and \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e Until \u003cb\u003e1910\u003c/b\u003e, a few countries, especially in Europe, followed the call \u003cbr\u003e  for an \u003cb\u003e...\u003c/b\u003e Vivian Illing (December 25, 1900 ??? \u003cb\u003eJanuary\u003c/b\u003e 22, 2009) was believed to \u003cbr\u003e  be the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EOdHrDSYqjoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Post-and-Grant-Avenue.-Look.jpg/240px-Post-and-Grant-Avenue.-Look.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "143",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kQn3LhnMZO3RQrq_vzmYp69F1YB-4jjFmQE2YRVvuy_LDLiTC0lt6SZP"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Full text of \"A catalogue of destructive earthquakes, AD 7 to AD 1899\"",
+   "htmlTitle": "Full text of &quot;A catalogue of destructive \u003cb\u003eearthquakes\u003c/b\u003e, AD 7 to AD 1899&quot;",
+   "link": "http://archive.org/stream/catalogueofdestr00britrich/catalogueofdestr00britrich_djvu.txt",
+   "displayLink": "archive.org",
+   "snippet": "In the light of recent researches (see Geographical Journal, Jan. 1910) which   indicate that 80,000 earthquakes may occur annually, the number of entries in .....   8. A list abstracted and translated by Professor E. H. Parker from the Tung-Hwa-  Lu. ..... 5 or 7 July 30 June Asia Minor, Antioch III Ol. Japan (Totomi, Mikawa) I Mi.",
+   "htmlSnippet": "In the light of recent researches (see Geographical Journal, \u003cb\u003eJan\u003c/b\u003e. \u003cb\u003e1910\u003c/b\u003e) which \u003cbr\u003e  indicate that 80,000 \u003cb\u003eearthquakes\u003c/b\u003e may occur annually, the number of entries in \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e8\u003c/b\u003e. A list abstracted and translated by Professor E. H. Parker from the Tung-Hwa-\u003cbr\u003e  Lu. \u003cb\u003e.....\u003c/b\u003e 5 or 7 July 30 June \u003cb\u003eAsia\u003c/b\u003e Minor, Antioch III Ol. Japan (Totomi, Mikawa) I Mi.",
+   "cacheId": "HeQKomJaJrUJ",
+   "formattedUrl": "archive.org/stream/.../catalogueofdestr00britrich_djvu.txt",
+   "htmlFormattedUrl": "archive.org/stream/.../catalogueofdestr00britrich_djvu.txt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption,   landslide, ... January 23, 1556 .... [8] Declared eradicated May 8, 1980. 2.",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cbr\u003e  landslide, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary\u003c/b\u003e 23, 1556 \u003cb\u003e....\u003c/b\u003e [\u003cb\u003e8\u003c/b\u003e] Declared eradicated May \u003cb\u003e8\u003c/b\u003e, 1980. 2.",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan - Learn the Geography of the East Asian Nation of Japan",
+   "htmlTitle": "Japan - Learn the Geography of the East \u003cb\u003eAsian\u003c/b\u003e Nation of Japan",
+   "link": "http://geography.about.com/od/japanmaps/a/japan-geography-history.htm",
+   "displayLink": "geography.about.com",
+   "snippet": "Japan is an island nation located in eastern Asia in the Pacific Ocean to the east   of China, Russia ... On March 11, 2011, Japan was struck by a magnitude 9.0   earthquake that was ... In 1910, Japan annexed Korea. ... high temperature of 88??  F (30??C) and an average January low temperature of 58??F (14??C). ... (8 March   2011).",
+   "htmlSnippet": "Japan is an island nation located in eastern \u003cb\u003eAsia\u003c/b\u003e in the Pacific Ocean to the east \u003cbr\u003e  of China, Russia \u003cb\u003e...\u003c/b\u003e On March 11, 2011, Japan was struck by a magnitude 9.0 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e that was \u003cb\u003e...\u003c/b\u003e In \u003cb\u003e1910\u003c/b\u003e, Japan annexed Korea. \u003cb\u003e...\u003c/b\u003e high temperature of 88??\u003cbr\u003e  F (30??C) and an average \u003cb\u003eJanuary\u003c/b\u003e low temperature of 58??F (14??C). \u003cb\u003e...\u003c/b\u003e (\u003cb\u003e8\u003c/b\u003e March \u003cbr\u003e  2011).",
+   "cacheId": "sMWPOLoNGMkJ",
+   "formattedUrl": "geography.about.com/od/japanmaps/a/japan-geography-history.htm",
+   "htmlFormattedUrl": "geography.about.com/od/japanmaps/a/japan-geography-history.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://0.tqn.com/d/geography/1/G/h/z/Japan.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "85",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ09saM5Tp1l6dJHta2gvNRO4Z93Bg8yZ69mE5rC-PWr-NNEfGYZ_5iQM"
+     }
+    ],
+    "metatags": [
+     {
+      "pd": "Monday, 09-Apr-2012 22:48:37 UTC",
+      "og:title": "Geography of??Japan",
+      "og:type": "article",
+      "og:image": "http://0.tqn.com/d/geography/1/G/h/z/Japan.gif",
+      "og:url": "http://geography.about.com/od/japanmaps/a/japan-geography-history.htm",
+      "og:site_name": "About.com Geography",
+      "fb:app_id": "121030274606741"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 1905 Calabria earthquake, 38.67, 16.07, 557???5,000, 6.7???7.9, MS. 01906-01-  31January 31, 1906, 15:36, Colombia???Ecuador ...",
+   "htmlSnippet": "see 1905 Calabria \u003cb\u003eearthquake\u003c/b\u003e, 38.67, 16.07, 557???5,000, 6.7???7.9, MS. 01906-01-\u003cbr\u003e  31\u003cb\u003eJanuary\u003c/b\u003e 31, 1906, 15:36, Colombia???Ecuador \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  }
+ ]
+}

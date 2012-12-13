@@ -1,0 +1,312 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 29 1993 India Earthquake",
+    "totalResults": "449000",
+    "searchTerms": "Sep 29 1993 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 29 1993 India Earthquake",
+    "totalResults": "449000",
+    "searchTerms": "Sep 29 1993 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.222473,
+  "formattedSearchTime": "0.22",
+  "totalResults": "449000",
+  "formattedTotalResults": "449,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "An investigation into the Latur earthquake of September 29, 1993 in ...",
+   "htmlTitle": "An investigation into the Latur \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eSeptember 29\u003c/b\u003e, \u003cb\u003e1993\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.sciencedirect.com/science/article/pii/S0040195198800759",
+   "displayLink": "www.sciencedirect.com",
+   "snippet": "Keywords: SCR earthquake; seismicity of India; helium studies 1. Introduction   The devastating (M, 6.2, Mb 6.3) Latur earth- quake of September 29, 1993 ...",
+   "htmlSnippet": "Keywords: SCR \u003cb\u003eearthquake\u003c/b\u003e; seismicity of \u003cb\u003eIndia\u003c/b\u003e; helium studies 1. Introduction \u003cbr\u003e  The devastating (M, 6.2, Mb 6.3) Latur earth- \u003cb\u003equake\u003c/b\u003e of \u003cb\u003eSeptember 29, 1993\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.sciencedirect.com/science/article/pii/S0040195198800759",
+   "htmlFormattedUrl": "www.sciencedirect.com/science/article/pii/S0040195198800759",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_publisher": "Elsevier",
+      "citation_journal_title": "Tectonophysics",
+      "citation_issn": "0040-1951",
+      "citation_volume": "287",
+      "citation_issue": "1",
+      "citation_date": "1998/03/20",
+      "citation_title": "An investigation into the Latur earthquake of September 29, 1993 in southern India",
+      "citation_firstpage": "299",
+      "citation_lastpage": "318",
+      "citation_type": "JOUR",
+      "citation_pii": "S0040195198800759",
+      "citation_doi": "10.1016/S0040-1951(98)80075-9",
+      "citation_authors": "Gupta, Harsh K.;Rastogi, B.K.;Mohan, Indra;Rao, C.V.R.K.;Sarma, S.V.S.;Rao, R.U.M."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The September 29, 1993, M6.4 Killari, Maharashtra Earthquake in ...",
+   "htmlTitle": "The \u003cb\u003eSeptember 29, 1993\u003c/b\u003e, M6.4 Killari, Maharashtra \u003cb\u003eEarthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nicee.org/eqe-iitk/uploads/EQR_Killari.pdf",
+   "displayLink": "www.nicee.org",
+   "snippet": "The September 29, 1993, M6.4 Killari, Maharashtra Earthquake in. Central India.   EERI Special Earthquake Report, EERI Newsletter, Vol. 28, No. 1, January ...",
+   "htmlSnippet": "The \u003cb\u003eSeptember 29, 1993\u003c/b\u003e, M6.4 Killari, Maharashtra \u003cb\u003eEarthquake\u003c/b\u003e in. Central \u003cb\u003eIndia\u003c/b\u003e. \u003cbr\u003e  EERI Special \u003cb\u003eEarthquake\u003c/b\u003e Report, EERI Newsletter, Vol. 28, No. 1, January \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Tg1mx6tHVpAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nicee.org/eqe-iitk/uploads/EQR_Killari.pdf",
+   "htmlFormattedUrl": "www.nicee.org/eqe-iitk/uploads/EQR_Killari.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050225155114+05'30'",
+      "author": "C. V. R. Murty",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20050225155114+05'30'",
+      "title": "Microsoft Word - EQR_Killari.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in South Asia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in South Asia - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_South_Asia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 29, 1993, 03:50:38 UTC, 22:25 Local Time September 29, Latur-  Killari, India see 1993 Latur earthquake, 18.08??N, 76.52??E, 9,748, 6.2. August 15 ...",
+   "htmlSnippet": "\u003cb\u003eSeptember 29\u003c/b\u003e, \u003cb\u003e1993\u003c/b\u003e, 03:50:38 UTC, 22:25 Local Time September 29, Latur-\u003cbr\u003e  Killari, \u003cb\u003eIndia\u003c/b\u003e see 1993 Latur \u003cb\u003eearthquake\u003c/b\u003e, 18.08??N, 76.52??E, 9,748, 6.2. August 15 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KGSQJPlFwKkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_South_Asia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_South_Asia",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/South_asia.jpg/220px-South_asia.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "220",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQszhl69E3gMXVvy_WlUzkwBwd-EPU0-mwkR8ncQG5FFdQP7YWk8QzO6Q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Rupture histories of two stable continental region earthquakes of India",
+   "htmlTitle": "Rupture histories of two stable continental region \u003cb\u003eearthquakes\u003c/b\u003e of \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/H32R623739N7510H.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "September 29th, 1993, (figure 1) together are the latest ... time duration of 2.5s-  3.0s (Johnston 1993), The ... in generating such SCR earthquakes in the Indian ...",
+   "htmlSnippet": "\u003cb\u003eSeptember 29th, 1993\u003c/b\u003e, (figure 1) together are the latest \u003cb\u003e...\u003c/b\u003e time duration of 2.5s-\u003cbr\u003e  3.0s (Johnston 1993), The \u003cb\u003e...\u003c/b\u003e in generating such SCR \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eIndian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/H32R623739N7510H.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/H32R623739N7510H.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20080218140406+08'00'",
+      "creationdate": "D:20080216141739+05'30'",
+      "title": "Rupture histories of two stable continental region earthquakes of India",
+      "creator": "0234.tif",
+      "producer": "PageGenie PDFGenerator"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... The earthquake was centered in the gold mining area of Welkom ... direct   opposite of the Agadir, Morocco earthquake of 29 Feb 1960. ... A large tsunami   was generated that caused damage at Karachi and damage and casualties in the   Mumbai (Bombay) area, India. .... She died in 1993 at the age of 105.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom \u003cb\u003e...\u003c/b\u003e direct \u003cbr\u003e  opposite of the Agadir, Morocco \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e29\u003c/b\u003e Feb 1960. \u003cb\u003e...\u003c/b\u003e A large tsunami \u003cbr\u003e  was generated that caused damage at Karachi and damage and casualties in the \u003cbr\u003e  Mumbai (Bombay) area, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e She died in \u003cb\u003e1993\u003c/b\u003e at the age of 105.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major Indian Earthquakes of the 20th Century | MCEER Information ...",
+   "htmlTitle": "Major \u003cb\u003eIndian Earthquakes\u003c/b\u003e of the 20th Century | MCEER Information \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://mceer.buffalo.edu/infoservice/reference_services/major_indian_earthquake.asp",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Indian earthquakes since 1900 with 1000 or more deaths. Table includes event ...   Date: 29 September 1993, City: Latur???Killari, Deaths: 9,748, Magnitude: 6.2 ...",
+   "htmlSnippet": "\u003cb\u003eIndian earthquakes\u003c/b\u003e since 1900 with 1000 or more deaths. Table includes event \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Date: \u003cb\u003e29 September 1993\u003c/b\u003e, City: Latur???Killari, Deaths: 9,748, Magnitude: 6.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bY_CJ7TTIxYJ",
+   "formattedUrl": "mceer.buffalo.edu/infoservice/.../major_indian_earthquake.asp",
+   "htmlFormattedUrl": "mceer.buffalo.edu/infoservice/.../major_\u003cb\u003eindian\u003c/b\u003e_\u003cb\u003eearthquake\u003c/b\u003e.asp"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive \u003cb\u003eSeptember\u003c/b\u003e 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The most recent earthquake related news : Click here ... September 30, 2012 ...   September 29, 2012 .... Europe (ie Turkey, Morocco, Greece, Italy) and Asia (  Armenia, Iran, China, India, etc). ... Oregon, 1993 - Magnitude : 6.0 ...",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The most recent \u003cb\u003eearthquake\u003c/b\u003e related news : Click here \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 30, 2012 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember 29\u003c/b\u003e, 2012 \u003cb\u003e....\u003c/b\u003e Europe (ie Turkey, Morocco, Greece, Italy) and Asia (\u003cbr\u003e  Armenia, Iran, China, \u003cb\u003eIndia\u003c/b\u003e, etc). \u003cb\u003e...\u003c/b\u003e Oregon, \u003cb\u003e1993\u003c/b\u003e - Magnitude : 6.0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- \u003cb\u003eseptember\u003c/b\u003e-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Information for 1993",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Information for \u003cb\u003e1993\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/1993/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 28, 2010 ... Deaths from Earthquakes for 1993. Total Deaths: 10096. Earthquake with the   most casualties for 1993. September 29, India, M6.2 ...",
+   "htmlSnippet": "Jul 28, 2010 \u003cb\u003e...\u003c/b\u003e Deaths from \u003cb\u003eEarthquakes\u003c/b\u003e for \u003cb\u003e1993\u003c/b\u003e. Total Deaths: 10096. \u003cb\u003eEarthquake\u003c/b\u003e with the \u003cbr\u003e  most casualties for \u003cb\u003e1993\u003c/b\u003e. \u003cb\u003eSeptember 29\u003c/b\u003e, \u003cb\u003eIndia\u003c/b\u003e, M6.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "13hmCEb6QlMJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/year/1993/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/year/\u003cb\u003e1993\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Study of the Foreshocks and Aftershocks of the Intraplate Latur ...",
+   "htmlTitle": "Study of the Foreshocks and Aftershocks of the Intraplate Latur \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://edoc.gfz-potsdam.de/gfz/get/225/0/1c01ec0c80c0f211f19644344ec7bd88/225.pdf",
+   "displayLink": "edoc.gfz-potsdam.de",
+   "snippet": "On September 29, 1993 (local time Sep. 30, 4.29 h) an earthquake of magnitude   Ms=6.3 struck the. Latur region of Maharashtra, India and claimed about 10,000 ...",
+   "htmlSnippet": "On \u003cb\u003eSeptember 29, 1993\u003c/b\u003e (local time Sep. 30, 4.29 h) an \u003cb\u003eearthquake\u003c/b\u003e of magnitude \u003cbr\u003e  Ms=6.3 struck the. Latur region of Maharashtra, \u003cb\u003eIndia\u003c/b\u003e and claimed about 10,000 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RPk0RCGJBP8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "edoc.gfz-potsdam.de/gfz/get/225/0/.../225.pdf",
+   "htmlFormattedUrl": "edoc.gfz-potsdam.de/gfz/get/225/0/.../225.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080424102805+02'00'",
+      "producer": "Acrobat Web Capture 7.0",
+      "moddate": "D:20080424102827+02'00'",
+      "title": "The folling important connlusios can be drawn from the above studies:"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The September 29, 1993, M6.4 Killari, Maharashtra, earthquake in ...",
+   "htmlTitle": "The \u003cb\u003eSeptember 29, 1993\u003c/b\u003e, M6.4 Killari, Maharashtra, \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://books.google.com/books/about/The_September_29_1993_M6_4_Killari_Mahar.html?id=C05RAAAAMAAJ",
+   "displayLink": "books.google.com",
+   "snippet": "Sep 29, 1993 ... The September 29, 1993, M6.4 Killari, Maharashtra, earthquake in central India.   Front Cover. Earthquake Engineering Research Institute ...",
+   "htmlSnippet": "Sep 29, 1993 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eSeptember 29, 1993\u003c/b\u003e, M6.4 Killari, Maharashtra, \u003cb\u003eearthquake\u003c/b\u003e in central \u003cb\u003eIndia\u003c/b\u003e. \u003cbr\u003e  Front Cover. \u003cb\u003eEarthquake\u003c/b\u003e Engineering Research Institute \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "books.google.com/.../The_September_29_1993_M6_4_Killari_Mahar.html? ...",
+   "htmlFormattedUrl": "books.google.com/.../The_\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e29\u003c/b\u003e_\u003cb\u003e1993\u003c/b\u003e_M6_4_Killari_Mahar.html? ...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://books.google.com/books?id=C05RAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71ThC_7zJsNQ262h5-pX_hT0k-z435C4OZAP9In0_Cm2E5MVP2VOUTt0qcUNwHMAuAvXqoKkYykbqVBcAdgLJ31nnwlkpwE3vSPoyiNFJu4fMkldOE"
+     }
+    ],
+    "book": [
+     {
+      "description": "books.google.com",
+      "url": "http://books.google.com/books/about/The_September_29_1993_M6_4_Killari_Mahar.html?id=C05RAAAAMAAJ&utm_source=gb-gplus-share",
+      "name": "The September 29, 1993, M6.4 Killari, Maharashtra, earthquake in central India",
+      "image": "http://books.google.com/books?id=C05RAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71ThC_7zJsNQ262h5-pX_hT0k-z435C4OZAP9In0_Cm2E5MVP2VOUTt0qcUNwHMAuAvXqoKkYykbqVBcAdgLJ31nnwlkpwE3vSPoyiNFJu4fMkldOE"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://books.google.com/books/about/The_September_29_1993_M6_4_Killari_Mahar.html?id=C05RAAAAMAAJ",
+      "title": "The September 29, 1993, M6.4 Killari, Maharashtra, earthquake in central India",
+      "og:title": "The September 29, 1993, M6.4 Killari, Maharashtra, earthquake in central India",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://books.google.com/books?id=C05RAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71ThC_7zJsNQ262h5-pX_hT0k-z435C4OZAP9In0_Cm2E5MVP2VOUTt0qcUNwHMAuAvXqoKkYykbqVBcAdgLJ31nnwlkpwE3vSPoyiNFJu4fMkldOE"
+     }
+    ],
+    "hproduct": [
+     {
+      "fn": "The September 29, 1993, M6.4 Killari, Maharashtra, earthquake in central India"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Nature",
+      "title": "Nature"
+     },
+     {
+      "url": "Earthquakes & Volcanoes",
+      "title": "Earthquakes & Volcanoes"
+     }
+    ]
+   }
+  }
+ ]
+}

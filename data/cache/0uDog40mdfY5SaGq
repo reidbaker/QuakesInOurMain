@@ -1,0 +1,321 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 4 1995 Asia Earthquake",
+    "totalResults": "530000",
+    "searchTerms": "Jan 4 1995 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 4 1995 Asia Earthquake",
+    "totalResults": "530000",
+    "searchTerms": "Jan 4 1995 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.231748,
+  "formattedSearchTime": "0.23",
+  "totalResults": "530000",
+  "formattedTotalResults": "530,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... If you search for the latest real time earthquakes lists : click here .... Egypt, 1995 -   Magnitude : 7.2 ??? 8 people killed ... Movie about Asian tsunami shuns 'disaster'   label ..... Hundreds of staff (including myself) of the INGV in Italy are risking to find   themselves without a new contract from 1 January 2013 on.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e If you search \u003cb\u003efor\u003c/b\u003e the latest real time \u003cb\u003eearthquakes\u003c/b\u003e lists : click here \u003cb\u003e....\u003c/b\u003e Egypt, \u003cb\u003e1995\u003c/b\u003e - \u003cbr\u003e  Magnitude : 7.2 ??? 8 people killed \u003cb\u003e...\u003c/b\u003e Movie about \u003cb\u003eAsian\u003c/b\u003e tsunami shuns &#39;disaster&#39; \u003cbr\u003e  label \u003cb\u003e.....\u003c/b\u003e Hundreds of staff (including myself) of the INGV in Italy are risking to find \u003cbr\u003e  themselves without a new contract from 1 \u003cb\u003eJanuary\u003c/b\u003e 2013 on.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lessons from Rebuilding Kobe after the 1995 Hanshin Earthquake ...",
+   "htmlTitle": "Lessons from Rebuilding Kobe after the \u003cb\u003e1995\u003c/b\u003e Hanshin \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.asiapacificmemo.ca/rebuilding-kobe",
+   "displayLink": "www.asiapacificmemo.ca",
+   "snippet": "Nov 24, 2010 ... The Great Hanshin earthquake devastated Kobe on January 17, 1995, leading to   ... In the Kobe case this involved the need for close liaison between Kobe's city ...   Some also will appear in the Asia Pacific Memo video gallery.",
+   "htmlSnippet": "Nov 24, 2010 \u003cb\u003e...\u003c/b\u003e The Great Hanshin \u003cb\u003eearthquake\u003c/b\u003e devastated Kobe on \u003cb\u003eJanuary\u003c/b\u003e 17, \u003cb\u003e1995\u003c/b\u003e, leading to \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e In the Kobe case this involved the need \u003cb\u003efor\u003c/b\u003e close liaison between Kobe&#39;s city \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Some also will appear in the \u003cb\u003eAsia\u003c/b\u003e Pacific Memo video gallery.",
+   "cacheId": "bl6czgr2r-oJ",
+   "formattedUrl": "www.asiapacificmemo.ca/rebuilding-kobe",
+   "htmlFormattedUrl": "www.\u003cb\u003easia\u003c/b\u003epacificmemo.ca/rebuilding-kobe"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... The data contained in this report is up to date as of 4 January 2012. .... an Asia-  Pacific comparison of flood and earthquake socio-economic loss in the CECAR5   ..... 6, Kobe, Japan, 16.01.1995, $6.78bn, Horwich (2000), RMS ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e The data contained in this report is up to date as of \u003cb\u003e4 January\u003c/b\u003e 2012. \u003cb\u003e....\u003c/b\u003e an \u003cb\u003eAsia\u003c/b\u003e-\u003cbr\u003e  Pacific comparison of flood and \u003cb\u003eearthquake\u003c/b\u003e socio-economic loss in the CECAR5 \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e 6, Kobe, Japan, 16.01.\u003cb\u003e1995\u003c/b\u003e, $6.78bn, Horwich (2000), RMS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A pie chart comparing the seismic moment release of the three largest   earthquakes for the hundred year period from 1906 to 2005 with that for all   earthquakes of ...",
+   "htmlSnippet": "A pie chart comparing the seismic moment release of the three largest \u003cbr\u003e  \u003cb\u003eearthquakes for\u003c/b\u003e the hundred year period from 1906 to 2005 with that \u003cb\u003efor\u003c/b\u003e all \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Tohoku tsunami and earthquake : The death toll is climbing ...",
+   "htmlTitle": "Japan Tohoku tsunami and \u003cb\u003eearthquake\u003c/b\u003e : The death toll is climbing \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/08/04/japan-tsunami-following-up-the-aftermath-part-16-june/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 15, 2011 ... UPDATE : Tokyo hopes a bid for the 2020 Olympics will serve as a symbol of   Japan's recovery from the March 11 earthquake and tsunami.",
+   "htmlSnippet": "Aug 15, 2011 \u003cb\u003e...\u003c/b\u003e UPDATE : Tokyo hopes a bid \u003cb\u003efor\u003c/b\u003e the 2020 Olympics will serve as a symbol of \u003cbr\u003e  Japan&#39;s recovery from the March 11 \u003cb\u003eearthquake\u003c/b\u003e and tsunami.",
+   "cacheId": "FVAZcRvK4bcJ",
+   "formattedUrl": "earthquake-report.com/.../japan-tsunami-following-up-the-aftermath-part-16- june/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../japan-tsunami-following-up-the-aftermath-part-16- june/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/07/catdat-04072011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "285",
+      "height": "177",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiF1i4J6Y_nq4i1mAJqZt_zp1utJ_iXAsbgY2MMdscU3ncGfNASEB4vJUZ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Andrew",
+      "nickname": "Andrew"
+     },
+     {
+      "fn": "Lizzy Teagrt"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake near Mount Fuji, Shizuoka brings additional insured ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e near Mount Fuji, Shizuoka brings additional insured \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/03/17/shallow-very-dangerous-earthquake-near-mount-fujiyama-japan/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 18, 2011 ... UPDATE 16:32 UTC : On January 16, 1995 an earthquake at 345 km .... to   earthquakes in European and Asian / Middle East sphere (4 and up) ...",
+   "htmlSnippet": "Mar 18, 2011 \u003cb\u003e...\u003c/b\u003e UPDATE 16:32 UTC : On \u003cb\u003eJanuary\u003c/b\u003e 16, \u003cb\u003e1995\u003c/b\u003e an \u003cb\u003eearthquake\u003c/b\u003e at 345 km \u003cb\u003e....\u003c/b\u003e to \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (\u003cb\u003e4\u003c/b\u003e and up) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xMTU_zinqPQJ",
+   "formattedUrl": "earthquake-report.com/.../shallow-very-dangerous-earthquake-near-mount- fujiyama-japan/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../shallow-very-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-near-mount- fujiyama-japan/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mw2.google.com/mw-panoramio/photos/medium/17378859.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvi_oaEjdKh-G1svCm0Z54baMwxOJaeF5-lu5mtV7inaGoRrFLrrkXYn8"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Jonathan Kemp",
+      "url": "http://www.troopshomenow.com/",
+      "url_text": "Jonathan Kemp"
+     },
+     {
+      "fn": "Helen Heubi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption, ...   January 23, 1556 ... Estimate by Nova's sources are close to 4 million and yet   Encarta's sources report as .... 70064000000000000004,000,000, Asian Flu,   Worldwide ...... 1995. 100. 1978. 300,000,000 approx. 1900 to eradication. [8]   Declared ...",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eJanuary\u003c/b\u003e 23, 1556 \u003cb\u003e...\u003c/b\u003e Estimate by Nova&#39;s sources are close to \u003cb\u003e4\u003c/b\u003e million and yet \u003cbr\u003e  Encarta&#39;s sources report as \u003cb\u003e....\u003c/b\u003e 70064000000000000004,000,000, \u003cb\u003eAsian\u003c/b\u003e Flu, \u003cbr\u003e  Worldwide \u003cb\u003e......\u003c/b\u003e \u003cb\u003e1995\u003c/b\u003e. 100. 1978. 300,000,000 approx. 1900 to eradication. [8] \u003cbr\u003e  Declared \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes, Floods and Landslides",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e, Floods and Landslides",
+   "link": "http://www.icsu.org/icsu-asia/publications/science-planning-reports/science-plan-on-hazards-and-disasters/Earthquake-%20Floods%20-%20Landslides.pdf",
+   "displayLink": "www.icsu.org",
+   "snippet": "ICSU Regional Office for Asia and the Pacific was inaugurated on the 19   September by the Deputy Prime ..... human lives lost; the Kobe earthquake of   Japan in 1995 claiming some 6,000 ..... 15 January 1934, which had devastated   Katmandu.",
+   "htmlSnippet": "ICSU Regional Office \u003cb\u003efor Asia\u003c/b\u003e and the Pacific was inaugurated on the 19 \u003cbr\u003e  September by the Deputy Prime \u003cb\u003e.....\u003c/b\u003e human lives lost; the Kobe \u003cb\u003eearthquake\u003c/b\u003e of \u003cbr\u003e  Japan in \u003cb\u003e1995\u003c/b\u003e claiming some 6,000 \u003cb\u003e.....\u003c/b\u003e 15 \u003cb\u003eJanuary\u003c/b\u003e 1934, which had devastated \u003cbr\u003e  Katmandu.",
+   "cacheId": "Gkywd6I53kEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.icsu.org/...asia/.../Earthquake-%20Floods%20-%20Landslides.pdf",
+   "htmlFormattedUrl": "www.icsu.org/...\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-%20Floods%20-%20Landslides.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081128230311-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20081129072011+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BBC News - History of deadly earthquakes",
+   "htmlTitle": "BBC News - History of deadly \u003cb\u003eearthquakes\u003c/b\u003e",
+   "link": "http://www.bbc.co.uk/news/world-12717980",
+   "displayLink": "www.bbc.co.uk",
+   "snippet": "Aug 12, 2012 ... Hundreds of thousands are killed across Asia when an earthquake measuring   9.2 triggers sea surges that ... 17 January 1995 ... 4 March 1977 ...",
+   "htmlSnippet": "Aug 12, 2012 \u003cb\u003e...\u003c/b\u003e Hundreds of thousands are killed across \u003cb\u003eAsia\u003c/b\u003e when an \u003cb\u003eearthquake\u003c/b\u003e measuring \u003cbr\u003e  9.2 triggers sea surges that \u003cb\u003e...\u003c/b\u003e 17 \u003cb\u003eJanuary 1995\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003e4\u003c/b\u003e March 1977 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W-F3PJvJQ9MJ",
+   "formattedUrl": "www.bbc.co.uk/news/world-12717980",
+   "htmlFormattedUrl": "www.bbc.co.uk/news/world-12717980",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.bbcimg.co.uk/media/images/51636000/jpg/_51636099_38868107.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "115",
+      "height": "64",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToREmdmYjBBZNKyEVQVcPzA1IJq4xLC6fF4AuI81wl_7LeGQN4GMWyew"
+     }
+    ],
+    "metatags": [
+     {
+      "originalpublicationdate": "2012/08/12 07:34:06",
+      "ukfs_url": "/news/world-12717980",
+      "thumbnail_url": "http://news.bbcimg.co.uk/media/images/51642000/jpg/_51642631_011403924-1.jpg",
+      "headline": "History of deadly earthquakes",
+      "ifs_url": "/news/world-12717980",
+      "section": "World",
+      "contentflavor": "STORY",
+      "cps_id": "12717980",
+      "cps_site_name": "BBC News",
+      "cps_section_path": "World",
+      "cps_asset_type": "STY",
+      "cps_platform": "HighWeb",
+      "cps_audience": "US",
+      "og:title": "History of deadly earthquakes",
+      "og:type": "article",
+      "og:url": "http://www.bbc.co.uk/news/world-12717980",
+      "og:site_name": "BBC News",
+      "og:image": "http://news.bbcimg.co.uk/media/images/51636000/jpg/_51636099_38868107.jpg",
+      "bbcsearch_noindex": "atom",
+      "application-name": "BBC News",
+      "msapplication-tileimage": "/img/1_0_2/cream/hi/news/bbc-news-pin.png",
+      "msapplication-tilecolor": "#CC0101",
+      "viewport": "width = 996",
+      "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more",
+      "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico"
+     }
+    ]
+   }
+  }
+ ]
+}

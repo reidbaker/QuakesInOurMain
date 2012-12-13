@@ -1,0 +1,329 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 10 1922 Eurasia Earthquake",
+    "totalResults": "16500",
+    "searchTerms": "Apr 10 1922 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 10 1922 Eurasia Earthquake",
+    "totalResults": "16500",
+    "searchTerms": "Apr 10 1922 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.229293,
+  "formattedSearchTime": "0.23",
+  "totalResults": "16500",
+  "formattedTotalResults": "16,500"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Most of the earthquakes registered in Taiwan actually occur off the east coast and   cause little damage, whereas smaller quakes ... Deaths, 1???10, 11???50, 51???100,   101???500, 501???1,000, 1,001+ ... April 14, 1906, 03:18, Tainan, 23.4, 120.4, 20, 6.6  , 15, 1,794 ... September 2, 1922, 03:16, Hualien, 24.5, 122, 20, 7.6, 5, 14 ...",
+   "htmlSnippet": "Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in Taiwan actually occur off the east coast and \u003cbr\u003e  cause little damage, whereas smaller quakes \u003cb\u003e...\u003c/b\u003e Deaths, 1???\u003cb\u003e10\u003c/b\u003e, 11???50, 51???100, \u003cbr\u003e  101???500, 501???1,000, 1,001+ \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 14, 1906, 03:18, Tainan, 23.4, 120.4, 20, 6.6\u003cbr\u003e  , 15, 1,794 \u003cb\u003e...\u003c/b\u003e September 2, \u003cb\u003e1922\u003c/b\u003e, 03:16, Hualien, 24.5, 122, 20, 7.6, 5, 14 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Great Japan Earthquake of 1923 | History & Archaeology ...",
+   "htmlTitle": "The Great Japan \u003cb\u003eEarthquake\u003c/b\u003e of 1923 | History &amp; Archaeology \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.smithsonianmag.com/history-archaeology/The-Great-Japan-Earthquake-of-1923.html",
+   "displayLink": "www.smithsonianmag.com",
+   "snippet": "The powerful quake and ensuing tsunami that struck Yokohama and Tokyo   traumatized a nation and unleashed historic consequences. ... the Eurasian   continental plate, releasing a massive burst of tectonic energy. ..... Posted by J R   Schmedeman on May 21,2011 | 10:11 AM ... Posted by rich on April 27,2011 | 05:  02 PM ...",
+   "htmlSnippet": "The powerful \u003cb\u003equake\u003c/b\u003e and ensuing tsunami that struck Yokohama and Tokyo \u003cbr\u003e  traumatized a nation and unleashed historic consequences. \u003cb\u003e...\u003c/b\u003e the \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  continental plate, releasing a massive burst of tectonic energy. \u003cb\u003e.....\u003c/b\u003e Posted by J R \u003cbr\u003e  Schmedeman on May 21,2011 | \u003cb\u003e10\u003c/b\u003e:11 AM \u003cb\u003e...\u003c/b\u003e Posted by rich on \u003cb\u003eApril\u003c/b\u003e 27,2011 | 05:\u003cbr\u003e  02 PM \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PJsAnOopEr4J",
+   "formattedUrl": "www.smithsonianmag.com/.../The-Great-Japan-Earthquake-of-1923.html",
+   "htmlFormattedUrl": "www.smithsonianmag.com/.../The-Great-Japan-\u003cb\u003eEarthquake\u003c/b\u003e-of-1923.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.smithsonianmag.com/images/Japan-Earthquake-Ueno-district-ablaze-388.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "306",
+      "height": "165",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBg2FxYBTuEpEMPrPyyVvVNbF4g8JpL7-JHXP80kKEWyIky2476YEcSGI"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright (c) 2012 Smithsonian Enterprises",
+      "doc-class": "Living Document",
+      "y_key": "4db4ce401959515c",
+      "msvalidate.01": "320310DE693C522666918FF173E165C5",
+      "alexaverifyid": "8NewHaRwFShfWTmgIEaXfldqwGc",
+      "og:title": "The Great Japan Earthquake of 1923",
+      "og:description": "The powerful quake and ensuing tsunami that struck Yokohama and Tokyo traumatized a nation and unleashed historic consequences",
+      "og:site_name": "Smithsonian magazine",
+      "og:image": "http://media.smithsonianmag.com/images/Japan-Earthquake-Ueno-district-ablaze-388.jpg",
+      "og:type": "article",
+      "og:url": "http://www.smithsonianmag.com/history-archaeology/The-Great-Japan-Earthquake-of-1923.html",
+      "fb:admins": "43600163",
+      "fb:app_id": "207775292647618"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1923 Great Kant?? earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1923 Great Kant?? \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Great Kant?? earthquake (???????????????, Kant?? daishinsai) struck the Kant??   plain on the ... hold that the duration of the earthquake was between 4 and 10   minutes. .... carrier in Yokosuka in compliance with the Washington Naval Treaty   of 1922. ... Eurasian plates, the Sagami Trough ruptures in a magnitude 8.5   earthquake, ...",
+   "htmlSnippet": "The Great Kant?? \u003cb\u003eearthquake\u003c/b\u003e (???????????????, Kant?? daishinsai) struck the Kant?? \u003cbr\u003e  plain on the \u003cb\u003e...\u003c/b\u003e hold that the duration of the \u003cb\u003eearthquake\u003c/b\u003e was between 4 and \u003cb\u003e10\u003c/b\u003e \u003cbr\u003e  minutes. \u003cb\u003e....\u003c/b\u003e carrier in Yokosuka in compliance with the Washington Naval Treaty \u003cbr\u003e  of \u003cb\u003e1922\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e plates, the Sagami Trough ruptures in a magnitude 8.5 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XUJCfGAs7-IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1923_Great_Kant??_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1923_Great_Kant??_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/8-2earthquake-kanto.jpg/220px-8-2earthquake-kanto.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "168",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAsFBNu-5dy6Ra78FuMCjVNXT9axtqBdbG9O70lkqmHlt84TsOWWZCaqM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a band of ... 1922, 14, 1952, 17, 1982, 10 ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a band of \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1922\u003c/b\u003e, 14, 1952, 17, 1982, \u003cb\u003e10\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Azerbaijan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Azerbaijan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Azerbaijan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This article is about the country in Eurasia. ... Soviet Socialist Republic, 28 April   1920 ... [10]. Azerbaijan is a unitary constitutional republic. It is one of the six ......   of earthquake prediction stations and earthquake-resistant buildings that now ...",
+   "htmlSnippet": "This article is about the country in \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Soviet Socialist Republic, 28 \u003cb\u003eApril\u003c/b\u003e \u003cbr\u003e  1920 \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e10\u003c/b\u003e]. Azerbaijan is a unitary constitutional republic. It is one of the six \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  of \u003cb\u003eearthquake\u003c/b\u003e prediction stations and \u003cb\u003eearthquake\u003c/b\u003e-resistant buildings that now \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "coFFJLlBtW8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Azerbaijan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Azerbaijan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Azerbaijan_with_Nagorno_Karabakh_region.svg/250px-Azerbaijan_with_Nagorno_Karabakh_region.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "200",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwBylarkMgbp6qVmaa7aldhGT0yJCdoaYXB6PM7EKT90atBdf75tb5vhF"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Republic of Azerbaijan"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Planet Earth Facts: 50 Interesting Facts About Earth | LiveScience",
+   "htmlTitle": "Planet Earth Facts: 50 Interesting Facts About Earth | LiveScience",
+   "link": "http://www.livescience.com/19102-amazing-facts-earth.html",
+   "displayLink": "www.livescience.com",
+   "snippet": "Mar 18, 2012 ... of 10 of 50 .... Reply ?? Like ?? November 16 at 10:14pm ... That Good Friday   Earthquake actually occurred in Alaska on Friday, March 27, 1964, ...",
+   "htmlSnippet": "Mar 18, 2012 \u003cb\u003e...\u003c/b\u003e of \u003cb\u003e10\u003c/b\u003e of 50 \u003cb\u003e....\u003c/b\u003e Reply ?? Like ?? November 16 at \u003cb\u003e10\u003c/b\u003e:14pm \u003cb\u003e...\u003c/b\u003e That Good Friday \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e actually occurred in Alaska on Friday, March 27, 1964, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-eAmeZJ5EOsJ",
+   "formattedUrl": "www.livescience.com/19102-amazing-facts-earth.html",
+   "htmlFormattedUrl": "www.livescience.com/19102-amazing-facts-earth.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.livescience.com/images/i/000/024/938/i235/suomi-npp-photo-earth-blue-marble-east.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "188",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmzZZqNQUR06peiXKZiDWjbDGM-gHjtrh6biQZWJBfU2qGyuNx7mxk6g"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "438608976204523",
+      "og:title": "50 Interesting Facts About The Earth",
+      "og:url": "http://www.livescience.com/19102-amazing-facts-earth.html",
+      "og:type": "article",
+      "og:site_name": "LiveScience.com",
+      "og:description": "Take a journey through the wild tales of the orb we call home.",
+      "og:image": "http://i.livescience.com/images/i/000/024/938/i01/suomi-npp-photo-earth-blue-marble-east.jpg?1330734423"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic waves and surface waves: past and present",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e waves and surface waves: past and present",
+   "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009",
+   "displayLink": "www.scielo.org.mx",
+   "snippet": "The association of earthquake science with Jena becomes clear when one ...   Rebeur???Paschwitz in Potsdam somewhat coincidentally on 17 April, 1889 ...   Figure 8 shows an example for oblique incidence ( j=10??), where transformed   waves are ... and trough\" method for Eurasian earthquakes (Figure 9) by D. G??th   (1962).",
+   "htmlSnippet": "The association of \u003cb\u003eearthquake\u003c/b\u003e science with Jena becomes clear when one \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Rebeur???Paschwitz in Potsdam somewhat coincidentally on 17 \u003cb\u003eApril\u003c/b\u003e, 1889 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Figure 8 shows an example for oblique incidence ( j=\u003cb\u003e10\u003c/b\u003e??), where transformed \u003cbr\u003e  waves are \u003cb\u003e...\u003c/b\u003e and trough&quot; method for \u003cb\u003eEurasian earthquakes\u003c/b\u003e (Figure 9) by D. G??th \u003cbr\u003e  (1962).",
+   "cacheId": "l1ENIIrcteEJ",
+   "formattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016...",
+   "htmlFormattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0016...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.scielo.org.mx/img/revistas/geoint/v50n4/a9f3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWzENg6uD9O57Xz00pxuqTlyLxv1FuevlMnC6pM25BwqirfLDfFKZB3d-Y"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_journal_title": "Geof??sica internacional",
+      "citation_journal_title_abbrev": "Geof??s. Intl",
+      "citation_publisher": "Instituto de Geof??sica, UNAM",
+      "citation_title": "Seismic waves and surface waves: past and present",
+      "citation_date": "12/2011",
+      "citation_volume": "50",
+      "citation_issue": "4",
+      "citation_issn": "0016-7169",
+      "citation_abstract_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_fulltext_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_pdf_url": "http://www.scielo.org.mx/scielo.php?script=sci_pdf&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_author": "Malischewsky, Peter G.",
+      "citation_author_institution": "Friedrich-Schiller-Universitat Jena, Germany",
+      "citation_firstpage": "485",
+      "citation_lastpage": "493"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes guide from the BGS (pdf)",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e guide from the BGS (pdf)",
+   "link": "http://www.thinkgeography.org.uk/Year%2010%20Geog/Year%2010/Earthquakes/earthquakes%202.pdf",
+   "displayLink": "www.thinkgeography.org.uk",
+   "snippet": "Earthquakes. Issued April 2002. L. U ... BGS is responsible for maintaining and   developing a network of earthquake recording instrumentation .... centre of the   Eurasian plate and is consequently an example of a low seismicity area in which   ... Chile 11 Ncyember 1922 9.9. 19. lndcnesia 1 February 1939. 10 wet I. THE '  9999' ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e. Issued \u003cb\u003eApril\u003c/b\u003e 2002. L. U \u003cb\u003e...\u003c/b\u003e BGS is responsible for maintaining and \u003cbr\u003e  developing a network of \u003cb\u003eearthquake\u003c/b\u003e recording instrumentation \u003cb\u003e....\u003c/b\u003e centre of the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plate and is consequently an example of a low seismicity area in which \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Chile 11 Ncyember \u003cb\u003e1922\u003c/b\u003e 9.9. 19. lndcnesia 1 February 1939. \u003cb\u003e10\u003c/b\u003e wet I. THE &#39;\u003cbr\u003e  9999&#39; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wiDDyaJolpcJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.thinkgeography.org.uk/.../Earthquakes/earthquakes%202.pdf",
+   "htmlFormattedUrl": "www.thinkgeography.org.uk/.../\u003cb\u003eEarthquakes\u003c/b\u003e/\u003cb\u003eearthquakes\u003c/b\u003e%202.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "CorelDRAW Version 10.0",
+      "author": "BGS",
+      "producer": "Corel PDF Engine Version 10.427",
+      "moddate": "Mon Aug 19 14:13:56 2002",
+      "creationdate": "Mon Aug 19 12:05:13 2002"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 4: Igneous Rocks: Product of Earth's Internal Fire",
+   "htmlTitle": "Chapter 4: Igneous Rocks: Product of Earth&#39;s Internal Fire",
+   "link": "http://www.gl.ntu.edu.tw/course/gst4_10.ppt",
+   "displayLink": "www.gl.ntu.edu.tw",
+   "snippet": "Chapter 10: Earthquakes and Earth's Interior ... seismogram, made on April 17,   1889, in Potsdam, Germany by E. von Rebeur-Pacshwitz (Nature, 1889).",
+   "htmlSnippet": "Chapter \u003cb\u003e10\u003c/b\u003e: \u003cb\u003eEarthquakes\u003c/b\u003e and Earth&#39;s Interior \u003cb\u003e...\u003c/b\u003e seismogram, made on \u003cb\u003eApril\u003c/b\u003e 17, \u003cbr\u003e  1889, in Potsdam, Germany by E. von Rebeur-Pacshwitz (Nature, 1889).",
+   "cacheId": "X2famuUTxwIJ",
+   "mime": "application/vnd.ms-powerpoint",
+   "fileFormat": "Microsoft Powerpoint",
+   "formattedUrl": "www.gl.ntu.edu.tw/course/gst4_10.ppt",
+   "htmlFormattedUrl": "www.gl.ntu.edu.tw/course/gst4_\u003cb\u003e10\u003c/b\u003e.ppt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes Pose a Serious Hazard in Afghanistan",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e Pose a Serious Hazard in Afghanistan",
+   "link": "http://pubs.usgs.gov/fs/2007/3027/pdf/FS07-3027_508.pdf",
+   "displayLink": "pubs.usgs.gov",
+   "snippet": "Apr 9, 2007 ... plate is colliding with southern part of the Eurasian plate at a .... to earthquakes (  accessed April 9, 2007 at http://pubs.usgs.gov/of/2005/1264/).",
+   "htmlSnippet": "Apr 9, 2007 \u003cb\u003e...\u003c/b\u003e plate is colliding with southern part of the \u003cb\u003eEurasian\u003c/b\u003e plate at a \u003cb\u003e....\u003c/b\u003e to \u003cb\u003eearthquakes\u003c/b\u003e (\u003cbr\u003e  accessed \u003cb\u003eApril\u003c/b\u003e 9, 2007 at http://pubs.usgs.gov/of/2005/1264/).",
+   "cacheId": "HHOKydAPfv0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "pubs.usgs.gov/fs/2007/3027/pdf/FS07-3027_508.pdf",
+   "htmlFormattedUrl": "pubs.usgs.gov/fs/2007/3027/pdf/FS07-3027_508.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070419072907-06'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20070423111014-06'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

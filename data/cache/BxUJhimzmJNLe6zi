@@ -1,0 +1,364 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 4 1992 Asia Earthquake",
+    "totalResults": "524000",
+    "searchTerms": "Jan 4 1992 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 4 1992 Asia Earthquake",
+    "totalResults": "524000",
+    "searchTerms": "Jan 4 1992 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.520191,
+  "formattedSearchTime": "0.52",
+  "totalResults": "524000",
+  "formattedTotalResults": "524,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... If you search for the latest real time earthquakes lists : click here .... Movie about   Asian tsunami shuns 'disaster' label ..... Peru, 1992 - Magnitude : 7.2 ??? 1 person   killed .... Hundreds of staff (including myself) of the INGV in Italy are risking to find   themselves without a new contract from 1 January 2013 on.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e If you search \u003cb\u003efor\u003c/b\u003e the latest real time \u003cb\u003eearthquakes\u003c/b\u003e lists : click here \u003cb\u003e....\u003c/b\u003e Movie about \u003cbr\u003e  \u003cb\u003eAsian\u003c/b\u003e tsunami shuns &#39;disaster&#39; label \u003cb\u003e.....\u003c/b\u003e Peru, \u003cb\u003e1992\u003c/b\u003e - Magnitude : 7.2 ??? 1 person \u003cbr\u003e  killed \u003cb\u003e....\u003c/b\u003e Hundreds of staff (including myself) of the INGV in Italy are risking to find \u003cbr\u003e  themselves without a new contract from 1 \u003cb\u003eJanuary\u003c/b\u003e 2013 on.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 14, 2012 - Earthquake Report",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list August 14, 2012 - \u003cb\u003eEarthquake\u003c/b\u003e Report",
+   "link": "http://earthquake-report.com/2012/08/13/major-earthquakes-list-august-14-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 14, 2012 ... Personalized E-mail earthquake alerts for this area. .... emphasis to earthquakes   in European and Asian / Middle East sphere (4 and up) and a ...",
+   "htmlSnippet": "Aug 14, 2012 \u003cb\u003e...\u003c/b\u003e Personalized E-mail \u003cb\u003eearthquake\u003c/b\u003e alerts \u003cb\u003efor\u003c/b\u003e this area. \u003cb\u003e....\u003c/b\u003e emphasis to \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (\u003cb\u003e4\u003c/b\u003e and up) and a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ERvnp6E1zYoJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-august-14-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-august-14-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "gfrimen",
+      "nickname": "gfrimen"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "January 1911 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eJanuary\u003c/b\u003e 1911 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/January_1911",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Stamps were first issued for the Gilbert and Ellice Islands, now the nations of ... L.   Rauh, Jr., founder of Americans for Democratic Action, in Cincinnati (d. 1992) ...   1911 Kebin earthquake: An earthquake of 7.7 magnitude struck near Almaty in   ..... Consumer Culture and the Creation of the Nation (Harvard Univ Asia Center, ...",
+   "htmlSnippet": "Stamps were first issued \u003cb\u003efor\u003c/b\u003e the Gilbert and Ellice Islands, now the nations of \u003cb\u003e...\u003c/b\u003e L. \u003cbr\u003e  Rauh, Jr., founder of Americans \u003cb\u003efor\u003c/b\u003e Democratic Action, in Cincinnati (d. \u003cb\u003e1992\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1911 Kebin \u003cb\u003eearthquake\u003c/b\u003e: An \u003cb\u003eearthquake\u003c/b\u003e of 7.7 magnitude struck near Almaty in \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Consumer Culture and the Creation of the Nation (Harvard Univ \u003cb\u003eAsia\u003c/b\u003e Center, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JJZiptSEMyIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/January_1911",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eJanuary\u003c/b\u003e_1911",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/USS_Pennsylvania_-_First_airplane_landing.jpg/400px-USS_Pennsylvania_-_First_airplane_landing.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "267",
+      "height": "189",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJCFeNDk_le9Y3TrGg76Cz7cixPrHRuPVFoNIkLIzgTMXJZwTJ9W9yLUI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news - Earthquake Report",
+   "htmlTitle": "Worldwide VOLCANO news - \u003cb\u003eEarthquake\u003c/b\u003e Report",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... 2012 : January ??? February ??? March ??? April - ... Jon Frimann (Iceland Earthquakes   and Volcanoes blog) reports a cluster of 30 earthquakes at Katla volcano. ...   reiterated that the Alert Level remained at 2 (on a scale of 1-4).Visitors ......   Worldwide EARTHQUAKE related news ??? To remember : Indonesia 1992 ...",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e 2012 : \u003cb\u003eJanuary\u003c/b\u003e ??? February ??? March ??? April - \u003cb\u003e...\u003c/b\u003e Jon Frimann (Iceland \u003cb\u003eEarthquakes\u003c/b\u003e \u003cbr\u003e  and Volcanoes blog) reports a cluster of 30 \u003cb\u003eearthquakes\u003c/b\u003e at Katla volcano. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  reiterated that the Alert Level remained at 2 (on a scale of 1-\u003cb\u003e4\u003c/b\u003e).Visitors \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Indonesia \u003cb\u003e1992\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nick Leeson - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Nick Leeson - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Nick_Leeson",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In 1992 he was appointed general manager of a new operation in futures   markets ... However, the Kobe earthquake hit early in the morning on 17 January,   sending Asian ... While he had authorisation for the 16 January short straddle, he   was ...",
+   "htmlSnippet": "In \u003cb\u003e1992\u003c/b\u003e he was appointed general manager of a new operation in futures \u003cbr\u003e  markets \u003cb\u003e...\u003c/b\u003e However, the Kobe \u003cb\u003eearthquake\u003c/b\u003e hit early in the morning on 17 \u003cb\u003eJanuary\u003c/b\u003e, \u003cbr\u003e  sending \u003cb\u003eAsian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e While he had authorisation \u003cb\u003efor\u003c/b\u003e the 16 \u003cb\u003eJanuary\u003c/b\u003e short straddle, he \u003cbr\u003e  was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7UDFeOI_TysJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Nick_Leeson",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Nick_Leeson",
+   "pagemap": {
+    "person": [
+     {
+      "role": "After Dinner & Keynote Speaker CEO of Irish football club Galway United (former) derivatives broker (former)"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Nick Leeson",
+      "nickname": "Nicholas Leeson",
+      "url": "nickleeson.com",
+      "url_text": "nickleeson.com",
+      "bday": "1967-02-25",
+      "role": "After Dinner & Keynote Speaker CEO of Irish football club Galway United (former) derivatives broker (former)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes, Floods and Landslides - International Council for ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e, Floods and Landslides - International Council \u003cb\u003efor\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.icsu.org/icsu-asia/publications/science-planning-reports/science-plan-on-hazards-and-disasters/Earthquake-%20Floods%20-%20Landslides.pdf",
+   "displayLink": "www.icsu.org",
+   "snippet": "ICSU Regional Office for Asia and the Pacific was inaugurated on the 19 .... and   best practices to address problems related to earthquakes, floods and ..... occur   today (Arya, 1992) ... 15 January 1934, which had devastated Katmandu.",
+   "htmlSnippet": "ICSU Regional Office \u003cb\u003efor Asia\u003c/b\u003e and the Pacific was inaugurated on the 19 \u003cb\u003e....\u003c/b\u003e and \u003cbr\u003e  best practices to address problems related to \u003cb\u003eearthquakes\u003c/b\u003e, floods and \u003cb\u003e.....\u003c/b\u003e occur \u003cbr\u003e  today (Arya, \u003cb\u003e1992\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e 15 \u003cb\u003eJanuary\u003c/b\u003e 1934, which had devastated Katmandu.",
+   "cacheId": "Gkywd6I53kEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.icsu.org/...asia/.../Earthquake-%20Floods%20-%20Landslides.pdf",
+   "htmlFormattedUrl": "www.icsu.org/...\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-%20Floods%20-%20Landslides.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081128230311-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20081129072011+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1906 San Francisco earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1906 San Francisco \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the 1989 earthquake, see 1989 Loma Prieta earthquake. ... growing US   economic and military power was projected into the Pacific and Asia. ..... time of   her death, leaving Herbert Hamrol (January 10, 1903 ??? February 4, 2009) as the   last ..... 1906 San Francisco (7.8); 1952 Kern County (7.3); 1992 Cape   Mendocino (7.2) ...",
+   "htmlSnippet": "\u003cb\u003eFor\u003c/b\u003e the 1989 \u003cb\u003eearthquake\u003c/b\u003e, see 1989 Loma Prieta \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e growing US \u003cbr\u003e  economic and military power was projected into the Pacific and \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e time of \u003cbr\u003e  her death, leaving Herbert Hamrol (\u003cb\u003eJanuary\u003c/b\u003e 10, 1903 ??? February \u003cb\u003e4\u003c/b\u003e, 2009) as the \u003cbr\u003e  last \u003cb\u003e.....\u003c/b\u003e 1906 San Francisco (7.8); 1952 Kern County (7.3); \u003cb\u003e1992\u003c/b\u003e Cape \u003cbr\u003e  Mendocino (7.2) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EOdHrDSYqjoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Post-and-Grant-Avenue.-Look.jpg/240px-Post-and-Grant-Avenue.-Look.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "143",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kQn3LhnMZO3RQrq_vzmYp69F1YB-4jjFmQE2YRVvuy_LDLiTC0lt6SZP"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Haiti News - Breaking World Haiti News - The New York Times",
+   "htmlTitle": "Haiti News - Breaking World Haiti News - The New York Times",
+   "link": "http://topics.nytimes.com/top/news/international/countriesandterritories/haiti/index.html",
+   "displayLink": "topics.nytimes.com",
+   "snippet": "The January 2010 earthquake left the country and its densely populated ... for an   outbreak of South Asian-style cholera in a rural area of Haiti home to a Nepalese   ..... Gods: Vodou and Roman Catholicism in Haiti; By Leslie Desmangles, 1992.",
+   "htmlSnippet": "The \u003cb\u003eJanuary\u003c/b\u003e 2010 \u003cb\u003eearthquake\u003c/b\u003e left the country and its densely populated \u003cb\u003e...\u003c/b\u003e \u003cb\u003efor\u003c/b\u003e an \u003cbr\u003e  outbreak of South \u003cb\u003eAsian\u003c/b\u003e-style cholera in a rural area of Haiti home to a Nepalese \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Gods: Vodou and Roman Catholicism in Haiti; By Leslie Desmangles, \u003cb\u003e1992\u003c/b\u003e.",
+   "cacheId": "OMrHbUZNtBYJ",
+   "formattedUrl": "topics.nytimes.com/top/news/international/.../haiti/index.html",
+   "htmlFormattedUrl": "topics.nytimes.com/top/news/international/.../haiti/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/08/16/timestopics/haiti/haiti-sfSpan-v2.jpg",
+      "type": "1",
+      "width": "283",
+      "height": "178"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/08/16/timestopics/haiti/haiti-sfSpan-v2.jpg",
+      "width": "395",
+      "height": "248"
+     }
+    ],
+    "metatags": [
+     {
+      "name": "Haiti",
+      "node": "Top/News/World/Countries and Territories/Haiti",
+      "path": "top/news/international/countriesandterritories/haiti",
+      "dsk": "World",
+      "summary": "\u003cp\u003e\u003cspan class=timestamp\u003eUpdated: Aug. 26, 2012\u003c/span\u003e\u003c/p\u003e \u003cp\u003eOne of the poorest and least developed countries in the world, Haiti in recent years has struggled with problems ranging from near-constant political upheaval, health crises, an annual barrage of hurricanes and the worst earthquake in the region in more than 200 years.\u003c/p\u003e \u003cp\u003eThe quake that struck on Jan. 12, 2010, reduced much of the capital, Port-au-Prince, to rubble.?? \u003ca href=http://www.iadb.org/features-and-web-stories/2010-02/english/haiti-reconstruction-cost-may-near-14-billion-idb-study-shows-6528.html\u003eA study\u003c/a\u003e by the Inter-American Development Bank estimated that the total cost of the disaster was between $8 billion and $14 billion, based on a death toll from 200,000 to 250,000. That number was revised in 2011 by Haiti???s government to 316,000",
+      "k2id": "1124987358760",
+      "thumbnail": "http://graphics8.nytimes.com/images/2012/08/16/timestopics/haiti/haiti-sfSpan-v2.jpg",
+      "thumbnail_height": "248",
+      "thumbnail_width": "395",
+      "pt": "Topic",
+      "cg": "World",
+      "gtn": "Haiti",
+      "scg": "Destinations",
+      "pst": "Location"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 01906-01-31  January 31, 1906, 15:36, Colombia???Ecuador see 1906 .... see 1925 Charlevoix-  Kamouraska earthquake, 47.76, ???69.84, 6.3, Mw (Bent, 1992), USGS ...",
+   "htmlSnippet": "\u003cb\u003eFor Earthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 01906-01-31\u003cbr\u003e  \u003cb\u003eJanuary\u003c/b\u003e 31, 1906, 15:36, Colombia???Ecuador see 1906 \u003cb\u003e....\u003c/b\u003e see 1925 Charlevoix-\u003cbr\u003e  Kamouraska \u003cb\u003eearthquake\u003c/b\u003e, 47.76, ???69.84, 6.3, Mw (Bent, \u003cb\u003e1992\u003c/b\u003e), USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  }
+ ]
+}

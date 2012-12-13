@@ -1,0 +1,314 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 14 1938 North America Earthquake",
+    "totalResults": "56200",
+    "searchTerms": "Mar 14 1938 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 14 1938 North America Earthquake",
+    "totalResults": "56200",
+    "searchTerms": "Mar 14 1938 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.236557,
+  "formattedSearchTime": "0.24",
+  "totalResults": "56200",
+  "formattedTotalResults": "56,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Seismological features of the satpura earthquake of the 14th March ...",
+   "htmlTitle": "Seismological features of the satpura \u003cb\u003eearthquake\u003c/b\u003e of the \u003cb\u003e14th March\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/P45261177G710677.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "14, 1938 in the Satpura range. ... on the early morning (6 't 19\" I.S.T.) of March 14,   1938. ... It was reported that the shock was felt as far as Delhi on the north .....   1938. Bull. Seism. Soc. America, 1931, 21, 287-283. M.N.R.A.S., Geoph.",
+   "htmlSnippet": "14, 1938 in the Satpura range. \u003cb\u003e...\u003c/b\u003e on the early morning (6 &#39;t 19&quot; I.S.T.) of \u003cb\u003eMarch 14,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1938\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e It was reported that the shock was felt as far as Delhi on the \u003cb\u003enorth\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  1938. Bull. Seism. Soc. \u003cb\u003eAmerica\u003c/b\u003e, 1931, 21, 287-283. M.N.R.A.S., Geoph.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/P45261177G710677.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/P45261177G710677.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20091022120403+07'00'",
+      "creator": "0073.tif",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20091119085712+08'00'",
+      "title": "Seismological features of the satpura earthquake of the 14th March 1938"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "1938 Nov 10 20:18:41.2, 55.48N, 158.37W, 8.2, East of Shumagin Islands. 1938   Nov 17 ... 1955 Mar 14 13:12:04.0, 52.5N, 173.5W, 7.0, Andreanof Islands ...",
+   "htmlSnippet": "\u003cb\u003e1938\u003c/b\u003e Nov 10 20:18:41.2, 55.48N, 158.37W, 8.2, East of Shumagin Islands. \u003cb\u003e1938\u003c/b\u003e \u003cbr\u003e  Nov 17 \u003cb\u003e...\u003c/b\u003e 1955 \u003cb\u003eMar 14\u003c/b\u003e 13:12:04.0, 52.5N, 173.5W, 7.0, Andreanof Islands \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Largest Earthquakes in the US",
+   "htmlTitle": "Largest \u003cb\u003eEarthquakes\u003c/b\u003e in the US",
+   "link": "http://livingsta.hubpages.com/hub/Largest-Earthquakes-in-the-US",
+   "displayLink": "livingsta.hubpages.com",
+   "snippet": "On March 9, 1957, at 14:22 UTC, an earthquake occurred south of the Andreanof   ... 10, 1938. Time: 20:18:41.2 UTC. Magnitude: 8.3. Details of the incident: .....   This earthquake is the largest to occur in North America since the magnitude 7.9 ...",
+   "htmlSnippet": "On March 9, 1957, at \u003cb\u003e14\u003c/b\u003e:22 UTC, an \u003cb\u003eearthquake\u003c/b\u003e occurred south of the Andreanof \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 10, \u003cb\u003e1938\u003c/b\u003e. Time: 20:18:41.2 UTC. Magnitude: 8.3. Details of the incident: \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  This \u003cb\u003eearthquake\u003c/b\u003e is the largest to occur in \u003cb\u003eNorth America\u003c/b\u003e since the magnitude 7.9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6yR0l7cg3awJ",
+   "formattedUrl": "livingsta.hubpages.com/hub/Largest-Earthquakes-in-the-US",
+   "htmlFormattedUrl": "livingsta.hubpages.com/hub/Largest-\u003cb\u003eEarthquakes\u003c/b\u003e-in-the-US",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s4.hubimg.com/u/1949039_f260.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "156",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU1O6ERcGCPk-SHa5qNe1jkZmXKl30-GFX39O03RWbSAh6EIUric7IBiw"
+     }
+    ],
+    "metatags": [
+     {
+      "format-detection": "telephone=no",
+      "og:site_name": "HubPages",
+      "fb:app_id": "86382555399",
+      "og:description": "In the US, Alaska is the most earthquake-prone state and one of the most seismically active regions in the world. Alaska experiences a magnitude 7 earthquake almost every year, and a magnitude 8 or greater earthquake on an average of every 14 years. The largest recorded earthquake in the United Stateswas a magnitude 9.2 quake that struck Prince William Sound, Alaska on Good Friday, March 28, 1964 UTC. Each year the southern California area has about 10,000 earthquakes. Most of them are so small",
+      "og:title": "Largest Earthquakes in the US",
+      "og:image": "http://s4.hubimg.com/u/1949039_100.jpg",
+      "og:url": "http://livingsta.hubpages.com/hub/Largest-Earthquakes-in-the-US",
+      "og:type": "article"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Explore",
+      "title": "Explore"
+     },
+     {
+      "url": "Education and Science",
+      "title": "Education and Science"
+     },
+     {
+      "url": "Geography, Nature, and Weather",
+      "title": "Geography, Nature, and Weather"
+     },
+     {
+      "url": "Earthquakes and Volcanoes",
+      "title": "Earthquakes and Volcanoes"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Finite element modelling of elastic intraplate stresses due to ...",
+   "htmlTitle": "Finite element modelling of elastic intraplate stresses due to \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ias.ac.in/jess/apr2008/d031.pdf",
+   "displayLink": "www.ias.ac.in",
+   "snippet": "support the occurrence of earthquakes in the lower crust due to ... graben (Fuchs   et al 1987), North-west America ...... earthquake of the 14th March 1938; Proc.",
+   "htmlSnippet": "support the occurrence of \u003cb\u003eearthquakes\u003c/b\u003e in the lower crust due to \u003cb\u003e...\u003c/b\u003e graben (Fuchs \u003cbr\u003e  et al 1987), \u003cb\u003eNorth\u003c/b\u003e-west \u003cb\u003eAmerica\u003c/b\u003e \u003cb\u003e......\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e of the \u003cb\u003e14th March 1938\u003c/b\u003e; Proc.",
+   "cacheId": "3L5xMkgRfT8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ias.ac.in/jess/apr2008/d031.pdf",
+   "htmlFormattedUrl": "www.ias.ac.in/jess/apr2008/d031.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080331111617+05'30'",
+      "creator": "dvips(k) 5.94a Copyright 2003 Radical Eye Software",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20080331112300+05'30'",
+      "title": "d031.dvi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Basic Geotechnical Earthquake Engineering",
+   "htmlTitle": "Basic Geotechnical \u003cb\u003eEarthquake\u003c/b\u003e Engineering",
+   "link": "http://xa.yimg.com/kq/groups/21948400/869086171/name/Kamalesh_Kumar__Basic_Geotechnical_Earthquake_Engineering.pdf",
+   "displayLink": "xa.yimg.com",
+   "snippet": "... New Delhi - 110002. Visit us atwww.newagepublishers.com ... Earthquake   Hazards in the North Eastern Region. 32. 3.4 ...... March 14, 1938. 6.3. ????????? ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e New Delhi - 110002. Visit \u003cb\u003eus\u003c/b\u003e atwww.newagepublishers.com \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e \u003cbr\u003e  Hazards in the \u003cb\u003eNorth\u003c/b\u003e Eastern Region. 32. 3.4 \u003cb\u003e......\u003c/b\u003e \u003cb\u003eMarch 14, 1938\u003c/b\u003e. 6.3. ????????? \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HB7Y0pjavIkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "xa.yimg.com/.../Kamalesh_Kumar__Basic_Geotechnical_Earthquake_ Engineering.pdf",
+   "htmlFormattedUrl": "xa.yimg.com/.../Kamalesh_Ku\u003cb\u003emar\u003c/b\u003e__Basic_Geotechnical_\u003cb\u003eEarthquake\u003c/b\u003e_ Engineering.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Basic Geotechnical Earthquake Engineering",
+      "author": "Kamalesh Kumar",
+      "creator": "Adobe Acrobat 8.0 Combine Files",
+      "moddate": "D:20091103094404+02'00'",
+      "subject": "Civil Engineering; Geology and Geography",
+      "producer": "PDF-XChange Viewer [Version: 2.0 (Build 42.4) (Sep  8 2009; 19:37:33)]",
+      "creationdate": "D:20080620162950+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Hazard in Pennsylvania",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Hazard in Pennsylvania",
+   "link": "http://www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "displayLink": "www.dcnr.state.pa.us",
+   "snippet": "Richter magnitude 5.3 earthquake that had an epicenter near Au. Sable Forks,   N. Y. ... only the eastern half of North America, Pennsylvania has experienced .....   15, 1994, earthquake. BLAIR COUNTY. July 15,. 1938. Clover Creek. 3.2 (est.) ....   11 and. 14,. 1840. June 17,. 1871. Mar. 25,. 1879. SOMERSET COUNTY. Feb. 3, ...",
+   "htmlSnippet": "Richter magnitude 5.3 \u003cb\u003eearthquake\u003c/b\u003e that had an epicenter near Au. Sable Forks, \u003cbr\u003e  N. Y. \u003cb\u003e...\u003c/b\u003e only the eastern half of \u003cb\u003eNorth America\u003c/b\u003e, Pennsylvania has experienced \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  15, 1994, \u003cb\u003eearthquake\u003c/b\u003e. BLAIR COUNTY. July 15,. \u003cb\u003e1938\u003c/b\u003e. Clover Creek. 3.2 (est.) \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  11 and. \u003cb\u003e14\u003c/b\u003e,. 1840. June 17,. 1871. \u003cb\u003eMar\u003c/b\u003e. 25,. 1879. SOMERSET COUNTY. Feb. 3, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yLantnncP08J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "htmlFormattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030630201551Z",
+      "creator": "QuarkXPress(tm) for Windows 5.01",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "moddate": "D:20070716094835-04'00'",
+      "title": "front.qxd (Page 3)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tectonics of the Caribbean and Middle America",
+   "htmlTitle": "Tectonics of the Caribbean and Middle \u003cb\u003eAmerica\u003c/b\u003e",
+   "link": "http://www.colorado.edu/GeolSci/faculty/molnarpdf/1969GSAB.Molnar-Sykes.pdf",
+   "displayLink": "www.colorado.edu",
+   "snippet": "and beneath the rest of Central America in a more north???north'easterly direction.   The Cocos ..... motion along it (Hess, 1933, 1938; Hess and. Maxwell, 1953 ....   number 14) for -an earthquake on the Rivera fracture ZUIIC was determined   Sykes (1967). Asterisks ..... 102 23 Mar 66 16.82 s5-.90 '9 250 10 1-601 -11 c LL-  SS ...",
+   "htmlSnippet": "and beneath the rest of Central \u003cb\u003eAmerica\u003c/b\u003e in a more \u003cb\u003enorth\u003c/b\u003e???\u003cb\u003enorth\u003c/b\u003e&#39;easterly direction. \u003cbr\u003e  The Cocos \u003cb\u003e.....\u003c/b\u003e motion along it (Hess, 1933, \u003cb\u003e1938\u003c/b\u003e; Hess and. Maxwell, 1953 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  number \u003cb\u003e14\u003c/b\u003e) for -an \u003cb\u003eearthquake\u003c/b\u003e on the Rivera fracture ZUIIC was determined \u003cbr\u003e  Sykes (1967). Asterisks \u003cb\u003e.....\u003c/b\u003e 102 23 \u003cb\u003eMar\u003c/b\u003e 66 16.82 s5-.90 &#39;9 250 10 1-601 -11 c LL-\u003cbr\u003e  SS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9fKHpnnB7SsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.colorado.edu/GeolSci/faculty/.../1969GSAB.Molnar-Sykes.pdf",
+   "htmlFormattedUrl": "www.colorado.edu/GeolSci/faculty/.../1969GSAB.Molnar-Sykes.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creator": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creationdate": "Fri Apr  9 07:59:57 2004",
+      "moddate": "Tue Apr 20 08:10:21 2004"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Comparison of the deep crustal structure and seismicity of North ...",
+   "htmlTitle": "Comparison of the deep crustal structure and seismicity of \u003cb\u003eNorth\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://tejas.serc.iisc.ernet.in/~currsci/may252005/1639.pdf",
+   "displayLink": "tejas.serc.iisc.ernet.in",
+   "snippet": "May 25, 2005 ... earthquake (2 June 1927, M = 8.5) and the Satpura earthquake. (14 March 1938,   M = 6.2). These events could be attri- buted to reactivation of ...",
+   "htmlSnippet": "May 25, 2005 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e (2 June 1927, M = 8.5) and the Satpura \u003cb\u003eearthquake\u003c/b\u003e. (\u003cb\u003e14 March 1938\u003c/b\u003e, \u003cbr\u003e  M = 6.2). These events could be attri- buted to reactivation of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tW10_ca_O1gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "tejas.serc.iisc.ernet.in/~currsci/may252005/1639.pdf",
+   "htmlFormattedUrl": "tejas.serc.iisc.ernet.in/~currsci/may252005/1639.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "Tuesday, May 24, 2005 8:30:34 AM",
+      "title": "IS-9.PDF",
+      "author": "Unknown",
+      "producer": "Acrobat PDFWriter 3.02 for Windows"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A STUDY OF NORTHEASTERN NORTH AMERICAN SPECTRAL ...",
+   "htmlTitle": "A STUDY OF NORTHEASTERN \u003cb\u003eNORTH AMERICAN\u003c/b\u003e SPECTRAL \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/67/3/599.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "Thirty-two earthquakes in northeastern North America ranging in seismic   moments of 1.5E19 .... 1938. 03-36. 40.2. 74.5. 2.4E21. 2.4E21. 1. 0.9. 3.9 2.6.   3.9. 7. 23 Aug, 1938. 05-04 ... 14-33. 43.8. 71.3. 1.6E20. 1.6E20. 1. 0.65. 2.7 1.5.   2.8. 13. 25 Dee. 1940 ... II Mar. 1976. 03-30. 41.6. 71.3. 1.5E19. 1.5E19. 5. 0.12.   1.8 0.4. 2.2 ...",
+   "htmlSnippet": "Thirty-two \u003cb\u003eearthquakes\u003c/b\u003e in northeastern \u003cb\u003eNorth America\u003c/b\u003e ranging in \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  moments of 1.5E19 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1938\u003c/b\u003e. 03-36. 40.2. 74.5. 2.4E21. 2.4E21. 1. 0.9. 3.9 2.6. \u003cbr\u003e  3.9. 7. 23 Aug, \u003cb\u003e1938\u003c/b\u003e. 05-04 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e14\u003c/b\u003e-33. 43.8. 71.3. 1.6E20. 1.6E20. 1. 0.65. 2.7 1.5. \u003cbr\u003e  2.8. 13. 25 Dee. 1940 \u003cb\u003e...\u003c/b\u003e II \u003cb\u003eMar\u003c/b\u003e. 1976. 03-30. 41.6. 71.3. 1.5E19. 1.5E19. 5. 0.12. \u003cbr\u003e  1.8 0.4. 2.2 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/67/3/599.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/67/3/599.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "0102940004.TIF",
+      "creationdate": "Wed Aug 10 13:37:57 2005",
+      "title": "0102940004.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050811094834+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes - average, low, world, daily, high, days, Why ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e - average, low, world, daily, high, days, Why \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.weatherexplained.com/Vol-1/Earthquakes.html",
+   "displayLink": "www.weatherexplained.com",
+   "snippet": "The province of earthquakes recorded thus far is from the crust to a ..... the Juan   de Fuca plate where it subducts (goes under) the North America plate. ... east of   Shumagin Islands, AK (8.3; November 10, 1938) ..... Mar 14, 2011 @ 9:21 pm ...",
+   "htmlSnippet": "The province of \u003cb\u003eearthquakes\u003c/b\u003e recorded thus far is from the crust to a \u003cb\u003e.....\u003c/b\u003e the Juan \u003cbr\u003e  de Fuca plate where it subducts (goes under) the \u003cb\u003eNorth America\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e east of \u003cbr\u003e  Shumagin Islands, AK (8.3; November 10, \u003cb\u003e1938\u003c/b\u003e) \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eMar 14\u003c/b\u003e, 2011 @ 9:21 pm \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0Os8C_VRGGIJ",
+   "formattedUrl": "www.weatherexplained.com/Vol-1/Earthquakes.html",
+   "htmlFormattedUrl": "www.weatherexplained.com/Vol-1/\u003cb\u003eEarthquakes\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.weatherexplained.com/images/walm_01_img0171.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "271",
+      "height": "186",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfNZrnFsv9YmfHRMAjRRvi8PaSaRgD9Ir8ro153eViaOpEWbTPPHNrGc1u"
+     }
+    ]
+   }
+  }
+ ]
+}

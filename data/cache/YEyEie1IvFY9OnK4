@@ -1,0 +1,292 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 22 1939 Africa Earthquake",
+    "totalResults": "75300",
+    "searchTerms": "Jun 22 1939 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 22 1939 Africa Earthquake",
+    "totalResults": "75300",
+    "searchTerms": "Jun 22 1939 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.439648,
+  "formattedSearchTime": "0.44",
+  "totalResults": "75300",
+  "formattedTotalResults": "75,300"
+ },
+ "spelling": {
+  "correctedQuery": "June 22 1939 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 22 1939 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.volcano.si.edu/tdpmap/downloads/earthquakes/interior.txt",
+   "displayLink": "www.volcano.si.edu",
+   "snippet": "24.5 118.5 6.3 04/02/1915 Central Africa, near Titule, Zaire (Congo) 3 25.5 6.3 ...   06/22/1939 near Accra, Ghana, west Africa 5.18 -0.13 6 06/28/1939 offshore, ...",
+   "htmlSnippet": "24.5 118.5 6.3 04/02/1915 Central \u003cb\u003eAfrica\u003c/b\u003e, near Titule, Zaire (Congo) 3 25.5 6.3 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e06/22/1939\u003c/b\u003e near Accra, Ghana, west \u003cb\u003eAfrica\u003c/b\u003e 5.18 -0.13 6 06/28/1939 offshore, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-PnZDNtsLRQJ",
+   "mime": "text/plain",
+   "formattedUrl": "www.volcano.si.edu/tdpmap/downloads/earthquakes/interior.txt",
+   "htmlFormattedUrl": "www.volcano.si.edu/tdpmap/downloads/\u003cb\u003eearthquakes\u003c/b\u003e/interior.txt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic activity in Ghana: past, present and future - Earth-prints",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e activity in Ghana: past, present and future - Earth-prints",
+   "link": "http://www.earth-prints.org/bitstream/2122/778/1/16Amponsah.pdf",
+   "displayLink": "www.earth-prints.org",
+   "snippet": "Ghana has records of damaging earthquakes dating as far back as 1615. ...   history of earthquakes in West Africa and .... property occurred on 22 June 1939.",
+   "htmlSnippet": "Ghana has records of damaging \u003cb\u003eearthquakes\u003c/b\u003e dating as far back as 1615. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  history of \u003cb\u003eearthquakes\u003c/b\u003e in West \u003cb\u003eAfrica\u003c/b\u003e and \u003cb\u003e....\u003c/b\u003e property occurred on \u003cb\u003e22 June 1939\u003c/b\u003e.",
+   "cacheId": "Vja7iax61hMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth-prints.org/bitstream/2122/778/1/16Amponsah.pdf",
+   "htmlFormattedUrl": "www.earth-prints.org/bitstream/2122/778/1/16Amponsah.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050322104934+01'00'",
+      "moddate": "D:20050322104934+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "Utente",
+      "creator": "QuarkXPress Passport?? 4.04: AdobePS 8.7.2 8.7.2 (104)",
+      "title": "16Amponsah.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes - OCHA",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e - OCHA",
+   "link": "http://ochaonline.un.org/OchaLinkClick.aspx?link=ocha&docId=1164257",
+   "displayLink": "ochaonline.un.org",
+   "snippet": "May 5, 2010 ... and other Natural Disasters for West Africa. 5th to 7th May 2010 ...   EARTHQUAKE RISK IN WEST AFRICA. Mawuli Akoto ... 22 June 1939 ...",
+   "htmlSnippet": "May 5, 2010 \u003cb\u003e...\u003c/b\u003e and other Natural Disasters for West \u003cb\u003eAfrica\u003c/b\u003e. 5th to 7th May 2010 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e RISK IN WEST \u003cb\u003eAFRICA\u003c/b\u003e. Mawuli Akoto \u003cb\u003e...\u003c/b\u003e \u003cb\u003e22 June 1939\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3Ka1rgC62hwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ochaonline.un.org/OchaLinkClick.aspx?link=ocha&docId=1164257",
+   "htmlFormattedUrl": "ochaonline.un.org/OchaLinkClick.aspx?link=ocha&amp;docId=1164257",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "MAKOTO",
+      "company": "Hewlett-Packard",
+      "creationdate": "D:20100517091409Z",
+      "creator": "Acrobat PDFMaker 9.0 pour PowerPoint",
+      "moddate": "D:20100517091454Z",
+      "producer": "Adobe PDF Library 9.0",
+      "title": "Regional Consultation on Flood Preparedness  and other Natural Disasters for West Africa  5th to 7th May 2010  Hotel Praiamar ??? Cape Verde"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Activity in south eastern Ghana by Paulina Ekua Amponsah",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Activity in south eastern Ghana by Paulina Ekua Amponsah",
+   "link": "http://atlas-conferences.com/c/a/i/q/46.htm",
+   "displayLink": "atlas-conferences.com",
+   "snippet": "Ghana's most destructive earthquake, which caused much damage and loss of   life, occurred on 22nd June, 1939. Seventeen people were killed, one hundred ...",
+   "htmlSnippet": "Ghana&#39;s most destructive \u003cb\u003eearthquake\u003c/b\u003e, which caused much damage and loss of \u003cbr\u003e  life, occurred on \u003cb\u003e22nd June, 1939\u003c/b\u003e. Seventeen people were killed, one hundred \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gB9Y98GYz7QJ",
+   "formattedUrl": "atlas-conferences.com/c/a/i/q/46.htm",
+   "htmlFormattedUrl": "atlas-conferences.com/c/a/i/q/46.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major Earthquakes: 1939 Ghana: Accra - 6.4",
+   "htmlTitle": "Major \u003cb\u003eEarthquakes\u003c/b\u003e: \u003cb\u003e1939\u003c/b\u003e Ghana: Accra - 6.4",
+   "link": "http://earthquakes.sciencedaily.com/l/3259/Ghana-Accra",
+   "displayLink": "earthquakes.sciencedaily.com",
+   "snippet": "The 1939 Ghana: Accra earthquake that occurred on June 22 had a magnitude of   6.4. injured 130, ... Compare Earthquakes in Central, Western and S. Africa ...",
+   "htmlSnippet": "The \u003cb\u003e1939\u003c/b\u003e Ghana: Accra \u003cb\u003eearthquake\u003c/b\u003e that occurred on \u003cb\u003eJune 22\u003c/b\u003e had a magnitude of \u003cbr\u003e  6.4. injured 130, \u003cb\u003e...\u003c/b\u003e Compare \u003cb\u003eEarthquakes\u003c/b\u003e in Central, Western and S. \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "h2l5z0HHZaAJ",
+   "formattedUrl": "earthquakes.sciencedaily.com/l/3259/Ghana-Accra",
+   "htmlFormattedUrl": "\u003cb\u003eearthquakes\u003c/b\u003e.sciencedaily.com/l/3259/Ghana-Accra",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquakes.sciencedaily.com/sites/all/themes/ftb1_publisher/images/fb-share.png"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:page_id": "321286657983",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:image": "http://earthquakes.sciencedaily.com/sites/all/themes/ftb1_publisher/images/fb-share.png",
+      "og:title": "Ghana:  Accra",
+      "og:site_name": "www.sciencedaily.com",
+      "og:type": "product",
+      "fb:app_id": "476301295718723",
+      "og:description": "Major Earthquakes: 1939 Ghana: Accra Earthquake - Find earthquake dates, magnitudes, injuries, deaths, damages, and more."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Risk in Africa: A community leader's ... - UNESCO-IPRED",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Risk in \u003cb\u003eAfrica\u003c/b\u003e: A community leader&#39;s \u003cb\u003e...\u003c/b\u003e - UNESCO-IPRED",
+   "link": "http://www.ipred-iisee.org/database/housing%20safety/Benouar-Booklet-Disaster-Community.pdf",
+   "displayLink": "www.ipred-iisee.org",
+   "snippet": "For many of African countries, earthquake hazard constitutes a serious threat to ...   seismic hazard and risk evaluations in the African countries. ..... 1939 Jun. 22 ...",
+   "htmlSnippet": "For many of \u003cb\u003eAfrican\u003c/b\u003e countries, \u003cb\u003eearthquake\u003c/b\u003e hazard constitutes a serious threat to \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eseismic\u003c/b\u003e hazard and risk evaluations in the \u003cb\u003eAfrican\u003c/b\u003e countries. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1939 Jun. 22\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M_jx6b7OIKoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipred-iisee.org/database/.../Benouar-Booklet-Disaster-Community.pdf",
+   "htmlFormattedUrl": "www.ipred-iisee.org/database/.../Benouar-Booklet-Disaster-Community.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050408084455+02'00'",
+      "moddate": "D:20050408084455+02'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "Benouar",
+      "creator": "PScript5.dll Version 5.2.2",
+      "title": "Microsoft Word - Final-Version-Earthquake Risk in Africa-Community -Guide-09.12.04.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "317_328 Amponsah et.al - AfricaArray",
+   "htmlTitle": "317_328 Amponsah et.al - AfricaArray",
+   "link": "http://www.africaarray.psu.edu/publications/pdfs/317_328%20Amponsah%20et.al.pdf",
+   "displayLink": "www.africaarray.psu.edu",
+   "snippet": "2009 December Geological Society of South Africa ... SOUTH AFRICAN   JOURNAL OF GEOLOGY ..... The Accra Earthquake of 22nd June, 1939, Gold   Coast ...",
+   "htmlSnippet": "2009 December Geological Society of South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e SOUTH \u003cb\u003eAFRICAN\u003c/b\u003e \u003cbr\u003e  JOURNAL OF GEOLOGY \u003cb\u003e.....\u003c/b\u003e The Accra \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003e22nd June, 1939\u003c/b\u003e, Gold \u003cbr\u003e  Coast \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KVysjxX80_0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.africaarray.psu.edu/publications/.../317_328%20Amponsah%20et.al. pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003eafrica\u003c/b\u003earray.psu.edu/publications/.../317_328%20Amponsah%20et.al. pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "317_328 Amponsah et.al",
+      "gts_pdfxversion": "PDF/X-3:2002",
+      "creationdate": "D:20100317100010+02'00'",
+      "producer": "Acrobat Distiller 7.0 for Macintosh",
+      "author": "dee",
+      "moddate": "D:20100317100010+02'00'",
+      "creator": "QuarkXPress??? 5: LaserWriter 8 Z1-8.7.1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "British Propaganda and the Mobilization of the Gold Coast War Effort ...",
+   "htmlTitle": "British Propaganda and the Mobilization of the Gold Coast War Effort \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://journals.cambridge.org/production/action/cjoGetFulltext?fulltextid=3247064",
+   "displayLink": "journals.cambridge.org",
+   "snippet": "IN THE early evening of 22 June 1939, seismic tremors shook the West. African   coastal city of Accra and left in their wake the deaths of sixteen people ...",
+   "htmlSnippet": "IN THE early evening of \u003cb\u003e22 June 1939\u003c/b\u003e, \u003cb\u003eseismic\u003c/b\u003e tremors shook the West. \u003cb\u003eAfrican\u003c/b\u003e \u003cbr\u003e  coastal city of Accra and left in their wake the deaths of sixteen people \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "journals.cambridge.org/production/action/cjoGetFulltext?fulltextid...",
+   "htmlFormattedUrl": "journals.cambridge.org/production/action/cjoGetFulltext?fulltextid...",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20090117022356Z",
+      "creationdate": "D:20040903121411+05'30'",
+      "title": "British Propaganda and the Mobilization of the Gold Coast War Effort, 1939???1945",
+      "creator": "ABBYY FineReader",
+      "author": "Wendell P. Holbrook",
+      "subject": "The Journal of African History",
+      "producer": "(via http://big.faceless.org/products/pdf?version=2.8.4)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude (misc units) over time for deadly earthquakes since 1900. The   following list ..... 1939-06-22 19:19, Ghana, 5.180, -0.130, 13, 6.4 UK, 22. 1939-  09-19 ...",
+   "htmlSnippet": "Magnitude (misc units) over time for deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900. The \u003cbr\u003e  following list \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1939\u003c/b\u003e-06-\u003cb\u003e22\u003c/b\u003e 19:19, Ghana, 5.180, -0.130, 13, 6.4 UK, \u003cb\u003e22\u003c/b\u003e. \u003cb\u003e1939\u003c/b\u003e-\u003cbr\u003e  09-19 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Activity in Nigeria.",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Activity in Nigeria.",
+   "link": "http://www.akamaiuniversity.us/PJST9_2_546.pdf",
+   "displayLink": "www.akamaiuniversity.us",
+   "snippet": "Nov 2, 2008 ... This paper presents an account of the earthquake activities in Nigeria. ..... Junner,   N.R. 1941. ???The Accra Earthquake of 22nd. June, 1939???.",
+   "htmlSnippet": "Nov 2, 2008 \u003cb\u003e...\u003c/b\u003e This paper presents an account of the \u003cb\u003eearthquake\u003c/b\u003e activities in Nigeria. \u003cb\u003e.....\u003c/b\u003e Junner, \u003cbr\u003e  N.R. 1941. ???The Accra \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003e22nd\u003c/b\u003e. \u003cb\u003eJune, 1939\u003c/b\u003e???.",
+   "cacheId": "mE4p7TZsTT8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.akamaiuniversity.us/PJST9_2_546.pdf",
+   "htmlFormattedUrl": "www.akamaiuniversity.us/PJST9_2_546.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081204202846-05'00'",
+      "author": "Prof. A Odinma",
+      "creator": "Acrobat PDFMaker 8.0 for Word",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20081204202855-05'00'",
+      "company": "LASU",
+      "sourcemodified": "D:20081205012839",
+      "title": "Quality of Service Challenges for IP Networks"
+     }
+    ]
+   }
+  }
+ ]
+}

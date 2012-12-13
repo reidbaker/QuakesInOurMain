@@ -1,0 +1,263 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 15 1962 India Earthquake",
+    "totalResults": "376000",
+    "searchTerms": "Dec 15 1962 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 15 1962 India Earthquake",
+    "totalResults": "376000",
+    "searchTerms": "Dec 15 1962 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.249422,
+  "formattedSearchTime": "0.25",
+  "totalResults": "376000",
+  "formattedTotalResults": "376,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Massive but normally harmless earthquake in the Banda Sea Indonesia. (Major)   Earthquakes list December 10, 2012 ??? Massive but normally harmless ...",
+   "htmlSnippet": "Massive but normally harmless \u003cb\u003eearthquake\u003c/b\u003e in the Banda Sea Indonesia. (Major) \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eDecember\u003c/b\u003e 10, 2012 ??? Massive but normally harmless \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Times of India (timesofindia) on Twitter",
+   "htmlTitle": "Times of \u003cb\u003eIndia\u003c/b\u003e (timesofindia) on Twitter",
+   "link": "https://twitter.com/timesofindia",
+   "displayLink": "twitter.com",
+   "snippet": "The Times of India is India's most-read English newspaper and the World's   largest-selling .... New Duronto train services to Madurai, T'puram from Dec 15 ...",
+   "htmlSnippet": "The Times of \u003cb\u003eIndia\u003c/b\u003e is \u003cb\u003eIndia&#39;s\u003c/b\u003e most-read English newspaper and the World&#39;s \u003cbr\u003e  largest-selling \u003cb\u003e....\u003c/b\u003e New Duronto train services to Madurai, T&#39;puram from \u003cb\u003eDec 15\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ael9JwLrO4YJ",
+   "formattedUrl": "https://twitter.com/timesofindia",
+   "htmlFormattedUrl": "https://twitter.com/timesof\u003cb\u003eindia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://si0.twimg.com/profile_images/1282391388/icon_512_bigger.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "70",
+      "height": "70",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhTgL9qGehwkHuUHIODycHsXXPMfS1JZTdPLirv3lAHZ1RPP8nR_o-Pg"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption,   landslide, hurricanes etc. In order to be ..... 1,500, 2003 Southern India heat wave  , India, 2003. 7. 946, 1955 Los ..... 123,000. December 1908. 110,000. October   1948. 20,000. 1970. 1962. 265. 172. 125 ... August 15, 1868 and August 16,   1868 ...",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cbr\u003e  landslide, hurricanes etc. In order to be \u003cb\u003e.....\u003c/b\u003e 1,500, 2003 Southern \u003cb\u003eIndia\u003c/b\u003e heat wave\u003cbr\u003e  , \u003cb\u003eIndia\u003c/b\u003e, 2003. 7. 946, 1955 Los \u003cb\u003e.....\u003c/b\u003e 123,000. \u003cb\u003eDecember\u003c/b\u003e 1908. 110,000. October \u003cbr\u003e  1948. 20,000. 1970. \u003cb\u003e1962\u003c/b\u003e. 265. 172. 125 \u003cb\u003e...\u003c/b\u003e August \u003cb\u003e15\u003c/b\u003e, 1868 and August 16, \u003cbr\u003e  1868 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... Egypt ??? El Salvador ??? Fiji ???   Greece ??? Guatemala ??? Haiti ??? Honduras ??? India ??? Indian Ocean ... 1922 11 11 -   Chile-Argentina Border - M 8.5; 1944 01 15 - San Juan, Argentina - M ..... Iran - M   7.1 Fatalities 1,130; 1962 09 01 - Qazvin, Iran - M 7.1 Fatalities 12,225 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e Egypt ??? El Salvador ??? Fiji ??? \u003cbr\u003e  Greece ??? Guatemala ??? Haiti ??? Honduras ??? \u003cb\u003eIndia\u003c/b\u003e ??? \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003e...\u003c/b\u003e 1922 11 11 - \u003cbr\u003e  Chile-Argentina Border - M 8.5; 1944 01 \u003cb\u003e15\u003c/b\u003e - San Juan, Argentina - M \u003cb\u003e.....\u003c/b\u003e Iran - M \u003cbr\u003e  7.1 Fatalities 1,130; \u003cb\u003e1962\u003c/b\u003e 09 01 - Qazvin, Iran - M 7.1 Fatalities 12,225 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1950 Assam ??? Tibet earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1950 Assam ??? Tibet \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1950_Assam_%E2%80%93_Tibet_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1950 Assam ??? Tibet earthquake is located in Tibetan Plateau ... known as the   Assam earthquake or Medog earthquake), occurred on August 15, 1950, and had   a magnitude of 8.6. ... Strictly this was not an Indian earthquake; the epicenter   was near Rima, in a .... This page was last modified on 1 December 2012 at 06:  40.",
+   "htmlSnippet": "1950 Assam ??? Tibet \u003cb\u003eearthquake\u003c/b\u003e is located in Tibetan Plateau \u003cb\u003e...\u003c/b\u003e known as the \u003cbr\u003e  Assam \u003cb\u003eearthquake\u003c/b\u003e or Medog \u003cb\u003eearthquake\u003c/b\u003e), occurred on August \u003cb\u003e15\u003c/b\u003e, 1950, and had \u003cbr\u003e  a magnitude of 8.6. \u003cb\u003e...\u003c/b\u003e Strictly this was not an \u003cb\u003eIndian earthquake\u003c/b\u003e; the epicenter \u003cbr\u003e  was near Rima, in a \u003cb\u003e....\u003c/b\u003e This page was last modified on 1 \u003cb\u003eDecember\u003c/b\u003e 2012 at 06:\u003cbr\u003e  40.",
+   "cacheId": "Kr2T0RzfKDAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1950_Assam_???_Tibet_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1950_Assam_???_Tibet_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Topografic_map_of_Tibetan_Plateau.png/250px-Topografic_map_of_Tibetan_Plateau.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "107",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuFsDI8Xjm_uX0hZjm5JcBjynDsKepCrIXRjkvuxqzsj1AwxYATP4YAhs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 15 Events in History",
+   "htmlTitle": "\u003cb\u003eDecember 15\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/december_15.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "December 15 in history.",
+   "htmlSnippet": "\u003cb\u003eDecember 15\u003c/b\u003e in history.",
+   "cacheId": "SJkg8VAwBDYJ",
+   "formattedUrl": "www.brainyhistory.com/days/december_15.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003edecember\u003c/b\u003e_\u003cb\u003e15\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "December 15 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/december_15.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude (misc units) over time for deadly earthquakes since 1900 ... van der   Hilst and Buland earthquake catalog, which is complete to December 2005. ......   1956-07-21 15:32, India, 23.000, 70.000, 6.1 UK, 111 .... 1962-09-01 19:20, Iran (  see 1962 Bou'in-Zahra earthquake), 35.556, 49.810, 17.6, 6.9 MS, 12225, 12000 ...",
+   "htmlSnippet": "Magnitude (misc units) over time for deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 \u003cb\u003e...\u003c/b\u003e van der \u003cbr\u003e  Hilst and Buland \u003cb\u003eearthquake\u003c/b\u003e catalog, which is complete to \u003cb\u003eDecember\u003c/b\u003e 2005. \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  1956-07-21 \u003cb\u003e15\u003c/b\u003e:32, \u003cb\u003eIndia\u003c/b\u003e, 23.000, 70.000, 6.1 UK, 111 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1962\u003c/b\u003e-09-01 19:20, Iran (\u003cbr\u003e  see \u003cb\u003e1962\u003c/b\u003e Bou&#39;in-Zahra \u003cb\u003eearthquake\u003c/b\u003e), 35.556, 49.810, 17.6, 6.9 MS, 12225, 12000 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/index.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 28, 2012 ... Get real-time earthquake notifications sent to you using a number of popular ...   spreading at the fastest rate known in the world, more than 15 cm/yr. ... M 7.1,   227km NW of Saumlaki, Indonesia Monday, December 10, 2012 ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of popular \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  spreading at the fastest rate known in the world, more than \u003cb\u003e15\u003c/b\u003e cm/yr. \u003cb\u003e...\u003c/b\u003e M 7.1, \u003cbr\u003e  227km NW of Saumlaki, Indonesia Monday, \u003cb\u003eDecember\u003c/b\u003e 10, 2012 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D_0uDpIsu6kJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/index.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 26 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDecember\u003c/b\u003e 26 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/December_26",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "2004 ??? A 9.3 magnitude earthquake creates a tsunami causing devastation in Sri   Lanka, India, Indonesia, Thailand, Malaysia, the Maldives and many other ...",
+   "htmlSnippet": "2004 ??? A 9.3 magnitude \u003cb\u003eearthquake\u003c/b\u003e creates a tsunami causing devastation in Sri \u003cbr\u003e  Lanka, \u003cb\u003eIndia\u003c/b\u003e, Indonesia, Thailand, Malaysia, the Maldives and many other \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ytp0ThrreDIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/December_26",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDecember\u003c/b\u003e_26"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  }
+ ]
+}

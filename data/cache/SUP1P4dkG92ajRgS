@@ -1,0 +1,234 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 12 1935 Eurasia Earthquake",
+    "totalResults": "22900",
+    "searchTerms": "Apr 12 1935 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 12 1935 Eurasia Earthquake",
+    "totalResults": "22900",
+    "searchTerms": "Apr 12 1935 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.260519,
+  "formattedSearchTime": "0.26",
+  "totalResults": "22900",
+  "formattedTotalResults": "22,900"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... of the Philippine Sea plate and the Eurasian Plate to the east of the island.   Most of the earthquakes registered in Taiwan actually occur off the east coast and   cause little damage, ... April 12, 1910, 08:22, Keelung, 25.1, 122.9, 200, 8.3, 13 ...   Taichung, 24.4, 120.8, 5, 7.1, 3,276, 17,907, 1935 Hsinchu-Taichung earthquake ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e of the Philippine Sea plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate to the east of the island. \u003cbr\u003e  Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in Taiwan actually occur off the east coast and \u003cbr\u003e  cause little damage, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril 12\u003c/b\u003e, 1910, 08:22, Keelung, 25.1, 122.9, 200, 8.3, 13 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Taichung, 24.4, 120.8, 5, 7.1, 3,276, 17,907, \u003cb\u003e1935\u003c/b\u003e Hsinchu-Taichung \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.8 - 28km NNW of Yongchang, China 2012-12-01 15:16:47 UTC",
+   "htmlTitle": "M4.8 - 28km NNW of Yongchang, China 2012-\u003cb\u003e12\u003c/b\u003e-01 15:16:47 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000e1z9",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Dec 1, 2012 ... Northward underthrusting of India beneath Eurasia generates numerous ... 30   May 1935, M7.6 Quetta earthquake, which occurred in the Sulaiman Range in ...   the M7.5 Luhuo earthquake which ruptured on the 22 April 1973.",
+   "htmlSnippet": "Dec 1, 2012 \u003cb\u003e...\u003c/b\u003e Northward underthrusting of India beneath \u003cb\u003eEurasia\u003c/b\u003e generates numerous \u003cb\u003e...\u003c/b\u003e 30 \u003cbr\u003e  May \u003cb\u003e1935\u003c/b\u003e, M7.6 Quetta \u003cb\u003eearthquake\u003c/b\u003e, which occurred in the Sulaiman Range in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  the M7.5 Luhuo \u003cb\u003eearthquake\u003c/b\u003e which ruptured on the 22 \u003cb\u003eApril\u003c/b\u003e 1973.",
+   "cacheId": "tkP5Pl2p4sQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000e1z9",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000e1z9"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of earthquakes in Turkey, including any notable historical ... area   within the complex zone of collision between the Eurasian Plate and both the   African and ... April 3, 1881, 11:30, Chios, ??e??me, Ala??at?? ... 01935-01-04January   4, 1935, 16:41 local time, Erdek, 40.4, 27.5, 5, 6.4, Ms ... August 19, 1966, 12:23,   Varto ...",
+   "htmlSnippet": "This is a list of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey, including any notable historical \u003cb\u003e...\u003c/b\u003e area \u003cbr\u003e  within the complex zone of collision between the \u003cb\u003eEurasian\u003c/b\u003e Plate and both the \u003cbr\u003e  African and \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 3, 1881, 11:30, Chios, ??e??me, Ala??at?? \u003cb\u003e...\u003c/b\u003e 01935-01-04January \u003cbr\u003e  4, \u003cb\u003e1935\u003c/b\u003e, 16:41 local time, Erdek, 40.4, 27.5, 5, 6.4, Ms \u003cb\u003e...\u003c/b\u003e August 19, 1966, \u003cb\u003e12\u003c/b\u003e:23, \u003cbr\u003e  Varto \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sunda megathrust - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Sunda megathrust - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Sunda_megathrust",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Rupture areas for the 1861, 1833 and 2004 earthquakes and area of main shock   and ... with smaller events occurring at the boundaries between these patches (  1935, ... 1984-11-17 06:49, Between Nias and the Batu Islands, 0??12???N 98??02  ???E\ufeff .... April 2010 Sumatra earthquake ?? May 2010 Northern Sumatra earthquake ...",
+   "htmlSnippet": "Rupture areas for the 1861, 1833 and 2004 \u003cb\u003eearthquakes\u003c/b\u003e and area of main shock \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e with smaller events occurring at the boundaries between these patches (\u003cbr\u003e  \u003cb\u003e1935\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e 1984-11-17 06:49, Between Nias and the Batu Islands, 0??\u003cb\u003e12\u003c/b\u003e???N 98??02\u003cbr\u003e  ???E\ufeff \u003cb\u003e....\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 2010 Sumatra \u003cb\u003eearthquake\u003c/b\u003e &middot; May 2010 Northern Sumatra \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3z9RCaHfXiQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Sunda_megathrust",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Sunda_megathrust",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SundaMegathrustSeismicity.PNG/250px-SundaMegathrustSeismicity.PNG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "198",
+      "height": "254",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSK4Y7PS4hbnw9rl77_PDEFk1JX8eGmbnTEIF5J-dPE_ucP7f-tYQYgf6g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NOTES AND CORRESPONDENCE The 15 April 1909 Taipei ...",
+   "htmlTitle": "NOTES AND CORRESPONDENCE The 15 \u003cb\u003eApril\u003c/b\u003e 1909 Taipei \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.earth.sinica.edu.tw/papers/1490.pdf",
+   "displayLink": "www.earth.sinica.edu.tw",
+   "snippet": "the earthquakes determined by others will also be described. Key words:   Damage ... tween the Philippine Sea plate and the Eurasian plate (Tsai et al.   1977; Wu 1978 ... 1999), the 1935 M 7.2. Hsinchu-Taichung ... 1860/11 - 12. Near   Taipei ...",
+   "htmlSnippet": "the \u003cb\u003eearthquakes\u003c/b\u003e determined by others will also be described. Key words: \u003cbr\u003e  Damage \u003cb\u003e...\u003c/b\u003e tween the Philippine Sea plate and the \u003cb\u003eEurasian\u003c/b\u003e plate (Tsai et al. \u003cbr\u003e  1977; Wu 1978 \u003cb\u003e...\u003c/b\u003e 1999), the \u003cb\u003e1935\u003c/b\u003e M 7.2. Hsinchu-Taichung \u003cb\u003e...\u003c/b\u003e 1860/11 - \u003cb\u003e12\u003c/b\u003e. Near \u003cbr\u003e  Taipei \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fYZQbaqKD6kJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.sinica.edu.tw/papers/1490.pdf",
+   "htmlFormattedUrl": "www.earth.sinica.edu.tw/papers/1490.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110125111224+08'00'",
+      "creator": "Adobe InDesign CS3 (5.0.4)",
+      "producer": "Adobe PDF Library 8.0",
+      "moddate": "D:20110125111225+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.5 - 32km NNE of Uttarkashi, India 2012-11-27 12:15:18 UTC",
+   "htmlTitle": "M4.5 - 32km NNE of Uttarkashi, India 2012-11-27 \u003cb\u003e12\u003c/b\u003e:15:18 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dyx0",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 27, 2012 ... M4.5 - 32km NNE of Uttarkashi, India 2012-11-27 12:15:18 UTC .... vicinity   himalaya dominantly results from continental collision india eurasia ... recent 30   1935 m7 6 quetta which occurred in the sulaiman range in pakistan ... luhuo   earthquake which ruptured on the 22 april 1973 some studies suggest that ...",
+   "htmlSnippet": "Nov 27, 2012 \u003cb\u003e...\u003c/b\u003e M4.5 - 32km NNE of Uttarkashi, India 2012-11-27 \u003cb\u003e12\u003c/b\u003e:15:18 UTC \u003cb\u003e....\u003c/b\u003e vicinity \u003cbr\u003e  himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e recent 30 \u003cbr\u003e  \u003cb\u003e1935\u003c/b\u003e m7 6 quetta which occurred in the sulaiman range in pakistan \u003cb\u003e...\u003c/b\u003e luhuo \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e which ruptured on the 22 \u003cb\u003eapril\u003c/b\u003e 1973 some studies suggest that \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RlaOukMnC0gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dyx0",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dyx0"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.1 - 106km WSW of Myitkyina, Myanmar 2012-07-22 02:11:12 UTC",
+   "htmlTitle": "M5.1 - 106km WSW of Myitkyina, Myanmar 2012-07-22 02:11:\u003cb\u003e12\u003c/b\u003e UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000bcyb",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 22, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... himalaya dominantly results from continental collision india eurasia ...   recent 30 1935 m7 6 quetta which occurred in the sulaiman range in ... m7 5   luhuo earthquake which ruptured on the 22 april 1973 some studies ...",
+   "htmlSnippet": "Jul 22, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  recent 30 \u003cb\u003e1935\u003c/b\u003e m7 6 quetta which occurred in the sulaiman range in \u003cb\u003e...\u003c/b\u003e m7 5 \u003cbr\u003e  luhuo \u003cb\u003eearthquake\u003c/b\u003e which ruptured on the 22 \u003cb\u003eapril\u003c/b\u003e 1973 some studies \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VeOQW8flUSEJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000bcyb",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000bcyb"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "It occurred at a shallow depth of 20 kilometres (12 mi), causing heavy ... Plate   and the Eurasian Plate, beyond the eastern extent of the Armenian and Asia   Minor ...",
+   "htmlSnippet": "It occurred at a shallow depth of 20 kilometres (\u003cb\u003e12\u003c/b\u003e mi), causing heavy \u003cb\u003e...\u003c/b\u003e Plate \u003cbr\u003e  and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the Armenian and Asia \u003cbr\u003e  Minor \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.9 - 18km NE of Shwebo, Burma 2012-11-11 01:32:27 UTC",
+   "htmlTitle": "M4.9 - 18km NE of Shwebo, Burma 2012-11-11 01:32:27 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dqrk",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 11, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... Page Last Modified: December 01, 2012 12:49:01 UTC ... vicinity   himalaya dominantly results from continental collision india eurasia ... causing   widespread destruction in the same region the more recent 30 1935 m7 ...",
+   "htmlSnippet": "Nov 11, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e Page Last Modified: December 01, 2012 \u003cb\u003e12\u003c/b\u003e:49:01 UTC \u003cb\u003e...\u003c/b\u003e vicinity \u003cbr\u003e  himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e causing \u003cbr\u003e  widespread destruction in the same region the more recent 30 \u003cb\u003e1935\u003c/b\u003e m7 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-Y4nS8bIxS4J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dqrk",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dqrk"
+  }
+ ]
+}

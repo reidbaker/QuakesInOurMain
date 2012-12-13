@@ -1,0 +1,324 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 12 1959 Africa Earthquake",
+    "totalResults": "106000",
+    "searchTerms": "Aug 12 1959 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 12 1959 Africa Earthquake",
+    "totalResults": "106000",
+    "searchTerms": "Aug 12 1959 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.659836,
+  "formattedSearchTime": "0.66",
+  "totalResults": "106000",
+  "formattedTotalResults": "106,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Earthquakes to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4   .... Earthquake in Iran : at least 6 people killed, 12 injured and 4 villages heavily ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e in Iran : at least 6 people killed, \u003cb\u003e12\u003c/b\u003e injured and 4 villages heavily \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "August 12 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAugust 12\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/August_12",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "August 12 is the 224th day of the year (225th in leap years) in the Gregorian   calendar. ... Greece are severely damaged by an earthquake measuring 7.3 on   the Richter scale. ... 1964 ??? South Africa is banned from the Olympic Games due   to the country's racist policies. ..... 1959); 1982 ??? Varlam Shalamov, Russian   writer (b.",
+   "htmlSnippet": "\u003cb\u003eAugust 12\u003c/b\u003e is the 224th day of the year (225th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e Greece are severely damaged by an \u003cb\u003eearthquake\u003c/b\u003e measuring 7.3 on \u003cbr\u003e  the Richter scale. \u003cb\u003e...\u003c/b\u003e 1964 ??? South \u003cb\u003eAfrica\u003c/b\u003e is banned from the Olympic Games due \u003cbr\u003e  to the country&#39;s racist policies. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1959\u003c/b\u003e); 1982 ??? Varlam Shalamov, Russian \u003cbr\u003e  writer (b.",
+   "cacheId": "Wk-gnJQNinsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/August_12",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAugust\u003c/b\u003e_\u003cb\u003e12\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 12th August | HistoryOrb.com",
+   "htmlTitle": "Historical Events on \u003cb\u003e12th August\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/august/12",
+   "displayLink": "www.historyorb.com",
+   "snippet": "Historical events for the 12th of August. See what famous, interesting ... Historical   Events on 12th August .... 1953 - Heavy earthquake strikes the Ionian islands,   435 killed ... 1959 - Progressive Party under John Steytler forms in South Africa ...",
+   "htmlSnippet": "Historical events for the 12th of \u003cb\u003eAugust\u003c/b\u003e. See what famous, interesting \u003cb\u003e...\u003c/b\u003e Historical \u003cbr\u003e  Events on \u003cb\u003e12th August\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e 1953 - Heavy \u003cb\u003eearthquake\u003c/b\u003e strikes the Ionian islands, \u003cbr\u003e  435 killed \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1959\u003c/b\u003e - Progressive Party under John Steytler forms in South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A0RudRPAkZAJ",
+   "formattedUrl": "www.historyorb.com/events/august/12",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003eaugust\u003c/b\u003e/\u003cb\u003e12\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "August 1959 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eAugust 1959\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/August_1959",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "August 12, 1959: Echo launched for use as communications satellite ....   Measuring 7.1 on the Richter scale, an earthquake occurred struck the Madison   .... with the goal of uniting the Somali people of Africa into one nation in the Horn   of Africa.",
+   "htmlSnippet": "\u003cb\u003eAugust 12, 1959\u003c/b\u003e: Echo launched for use as communications satellite \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Measuring 7.1 on the Richter scale, an \u003cb\u003eearthquake\u003c/b\u003e occurred struck the Madison \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e with the goal of uniting the Somali people of \u003cb\u003eAfrica\u003c/b\u003e into one nation in the Horn \u003cbr\u003e  of \u003cb\u003eAfrica\u003c/b\u003e.",
+   "cacheId": "1nA-stwjDi8J",
+   "formattedUrl": "en.wikipedia.org/wiki/August_1959",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eAugust\u003c/b\u003e_\u003cb\u003e1959\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mini_Original_1959.jpg/200px-Mini_Original_1959.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "128",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_r0LJgIpos_FiQLoN5YkftPBmcGKNrBRTEJiTmY-HC_nRvasExDcBggoE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alabama History",
+   "htmlTitle": "Alabama History",
+   "link": "http://pinterest.com/houckj/alabama-history/",
+   "displayLink": "pinterest.com",
+   "snippet": "May 3, 1963: Peaceful African American demonstrators, many of them ... August   12, 1959: An earthquake centered in Huntsville, and felt over a 25-mile radius, ...",
+   "htmlSnippet": "May 3, 1963: Peaceful \u003cb\u003eAfrican\u003c/b\u003e American demonstrators, many of them \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e12, 1959\u003c/b\u003e: An \u003cb\u003eearthquake\u003c/b\u003e centered in Huntsville, and felt over a 25-mile radius, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "y9N5v9NC7f4J",
+   "formattedUrl": "pinterest.com/houckj/alabama-history/",
+   "htmlFormattedUrl": "pinterest.com/houckj/alabama-history/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media-cache-ec4.pinterest.com/upload/235313149251209125_7Hj5IMkz_b.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "153",
+      "height": "123",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLLduP19q62bZCLsSrWPxDe-9pelfcxIXLu67kKQTtQWkdwt-KmdPE9A"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "Pinterest",
+      "msapplication-tilecolor": "#ffffff",
+      "msapplication-tileimage": "http://passets-ec.pinterest.com/images/logo_trans_144x144.png",
+      "fb:app_id": "274266067164",
+      "og:site_name": "Pinterest",
+      "og:url": "http://pinterest.com/houckj/alabama-history/",
+      "og:title": "Alabama History",
+      "og:description": "The good and the bad.",
+      "og:type": "pinterestapp:pinboard",
+      "pinterestapp:pinner": "http://pinterest.com/houckj/",
+      "pinterestapp:category": "history",
+      "og:image": "http://media-cache-ec5.pinterest.com/upload/235313149251209161_xn6KR4yC_c.jpg",
+      "pinterestapp:pins": "286",
+      "pinterestapp:followers": "29"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude (misc units) over time for deadly earthquakes since 1900. The   following list ... 1902-12-16 05:07, Uzbekistan, 40.800, 72.300, 9, 6.4 UK, 4725.   1903-03-29 22: ...... 1959-09-01 11:37, Albania, 40.900, 19.800, 11, 6.1 UK, 2.   1960-01-13 ..... 1969-09-29 20:03, South Africa, -33.190, 19.336, 15, 6.3 MS, 12,   12, 12, 9 ...",
+   "htmlSnippet": "Magnitude (misc units) over time for deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900. The \u003cbr\u003e  following list \u003cb\u003e...\u003c/b\u003e 1902-\u003cb\u003e12\u003c/b\u003e-16 05:07, Uzbekistan, 40.800, 72.300, 9, 6.4 UK, 4725. \u003cbr\u003e  1903-03-29 22: \u003cb\u003e......\u003c/b\u003e \u003cb\u003e1959\u003c/b\u003e-09-01 11:37, Albania, 40.900, 19.800, 11, 6.1 UK, 2. \u003cbr\u003e  1960-01-13 \u003cb\u003e.....\u003c/b\u003e 1969-09-29 20:03, South \u003cb\u003eAfrica\u003c/b\u003e, -33.190, 19.336, 15, 6.3 MS, \u003cb\u003e12\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e12\u003c/b\u003e, \u003cb\u003e12\u003c/b\u003e, 9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ADAH: This Week in Alabama History (compiled by month)",
+   "htmlTitle": "ADAH: This Week in Alabama History (compiled by month)",
+   "link": "http://www.archives.alabama.gov/thisweek/month.html",
+   "displayLink": "www.archives.alabama.gov",
+   "snippet": "February 1, 1956: Autherine Lucy of Birmingham becomes the first African   American ...... August 12, 1959: An earthquake centered in Huntsville, and felt   over a ...",
+   "htmlSnippet": "February 1, 1956: Autherine Lucy of Birmingham becomes the first \u003cb\u003eAfrican\u003c/b\u003e \u003cbr\u003e  American \u003cb\u003e......\u003c/b\u003e \u003cb\u003eAugust 12\u003c/b\u003e, \u003cb\u003e1959\u003c/b\u003e: An \u003cb\u003eearthquake\u003c/b\u003e centered in Huntsville, and felt \u003cbr\u003e  over a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fgEBVYWpuyoJ",
+   "formattedUrl": "www.archives.alabama.gov/thisweek/month.html",
+   "htmlFormattedUrl": "www.archives.alabama.gov/thisweek/month.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.archives.alabama.gov/thisweek/images/thisweekmid.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "288",
+      "height": "120",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04GBNgWTY7KSl4SmLEglrWajY7WGqLlBvrwgeAhpo76SGfqKeDRVVYg"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "J. Hardin"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "1899 Sep 23 12:50, 59.0N, 143.0W, 7.0, Cape Yakataga. 1900 Oct 09 12:25 ....   Montana, 1959 Aug 18 06:37:13.5, 44.71N, 111.22W, 7.3, Hebgen Lake. Nevada ...",
+   "htmlSnippet": "1899 \u003cb\u003eSep\u003c/b\u003e 23 \u003cb\u003e12\u003c/b\u003e:50, 59.0N, 143.0W, 7.0, Cape Yakataga. 1900 Oct 09 \u003cb\u003e12\u003c/b\u003e:25 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Montana, \u003cb\u003e1959 Aug\u003c/b\u003e 18 06:37:13.5, 44.71N, 111.22W, 7.3, Hebgen Lake. Nevada \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "August 12 Events in History",
+   "htmlTitle": "\u003cb\u003eAugust 12\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/august_12.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "August 12 in history.",
+   "htmlSnippet": "\u003cb\u003eAugust 12\u003c/b\u003e in history.",
+   "cacheId": "aePYjBK0c6MJ",
+   "formattedUrl": "www.brainyhistory.com/days/august_12.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003eaugust\u003c/b\u003e_\u003cb\u003e12\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "August 12 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/august_12.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake devastates Moroccan city ??? History.com This Day in ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e devastates Moroccan city ??? History.com This Day in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/earthquake-devastates-moroccan-city",
+   "displayLink": "www.history.com",
+   "snippet": "The city of Agadir in Morocco is reduced to ruins by an earthquake on this day in   1960. Northeastern Africa was not generally an area known for earthquakes, ...",
+   "htmlSnippet": "The city of Agadir in Morocco is reduced to ruins by an \u003cb\u003eearthquake\u003c/b\u003e on this day in \u003cbr\u003e  1960. Northeastern \u003cb\u003eAfrica\u003c/b\u003e was not generally an area known for \u003cb\u003eearthquakes\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nuddOEiMV9YJ",
+   "formattedUrl": "www.history.com/this-day-in.../earthquake-devastates-moroccan-city",
+   "htmlFormattedUrl": "www.history.com/this-day-in.../\u003cb\u003eearthquake\u003c/b\u003e-devastates-moroccan-city",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "/imgs/template/tdih.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Earthquake devastates Moroccan city ??? History.com This Day in History ??? 2/29/1960",
+      "asset_type_id": "6",
+      "network": "History",
+      "display_description": "The city of Agadir in Morocco is reduced to ruins by an earthquake on this day in 1960. Northeastern Africa was not generally an area known for earthquakes, though there had been a deadly tremor in Algeria six years earlier.",
+      "asset_id": "1092856",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Earthquake devastates Moroccan city ??? History.com This Day in History ??? 2/29/1960",
+      "og:description": "The city of Agadir in Morocco is reduced to ruins by an earthquake on this day in 1960. Northeastern Africa was not generally an area known for earthquakes, though there had been a deadly tremor in Algeria six years earlier.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/earthquake-devastates-moroccan-city"
+     }
+    ]
+   }
+  }
+ ]
+}

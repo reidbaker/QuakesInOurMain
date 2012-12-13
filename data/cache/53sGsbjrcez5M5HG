@@ -1,0 +1,240 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 12 1976 South America Earthquake",
+    "totalResults": "418000",
+    "searchTerms": "Nov 12 1976 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 12 1976 South America Earthquake",
+    "totalResults": "418000",
+    "searchTerms": "Nov 12 1976 South America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.268207,
+  "formattedSearchTime": "0.27",
+  "totalResults": "418000",
+  "formattedTotalResults": "418,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list November 12, 2012",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember 12\u003c/b\u003e, 2012",
+   "link": "http://earthquake-report.com/2012/11/11/complete-earthquakes-list-november-12-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 13, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ???   STATES ... ER, I Felt A (not Listed) Earthquake, Nov 12 23:59 PM, 4.6, 0.1, MAP ??   I Felt It ..... M 4.0 or higher with emphasis to earthquakes in the America's and the   .... EARTHQUAKE related news ??? To remember : South-Africa 1976 ...",
+   "htmlSnippet": "Nov 13, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? \u003cbr\u003e  STATES \u003cb\u003e...\u003c/b\u003e ER, I Felt A (not Listed) \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003eNov 12\u003c/b\u003e 23:59 PM, 4.6, 0.1, MAP &middot; \u003cbr\u003e  I Felt It \u003cb\u003e.....\u003c/b\u003e M 4.0 or higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : \u003cb\u003eSouth\u003c/b\u003e-Africa \u003cb\u003e1976\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "p1Rq7KbLAIMJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-november-12-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003enovember\u003c/b\u003e-\u003cb\u003e12\u003c/b\u003e-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list November 12, 2012 ??? Moderate earthquake ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember 12\u003c/b\u003e, 2012 ??? Moderate \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/11/11/major-earthquakes-list-november-12-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: November 13, 2012 at 8:34 am by By Ashish Khanal ?? REAL TIME   EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES ...",
+   "htmlSnippet": "Last update: \u003cb\u003eNovember\u003c/b\u003e 13, 2012 at 8:34 am by By Ashish Khanal &middot; REAL TIME \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FOXN-oOYeaAJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-november-12-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003enovember\u003c/b\u003e-\u003cb\u003e12\u003c/b\u003e-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : \u003cb\u003eSouth\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed .... The Pacific Plate is   moving northwest with respect to the North American Plate at approximately ....   The epicenter of the November 12, 1999 earthquake was at 40.8 N ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSouth\u003c/b\u003e-Africa, \u003cb\u003e1976\u003c/b\u003e - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e....\u003c/b\u003e The Pacific Plate is \u003cbr\u003e  moving northwest with respect to the North \u003cb\u003eAmerican\u003c/b\u003e Plate at approximately \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The epicenter of the \u003cb\u003eNovember 12\u003c/b\u003e, 1999 \u003cb\u003eearthquake\u003c/b\u003e was at 40.8 N \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South America (realtime) earthquakes list ??? Sismos en Am??rica del ...",
+   "htmlTitle": "\u003cb\u003eSouth America\u003c/b\u003e (realtime) \u003cb\u003eearthquakes\u003c/b\u003e list ??? Sismos en Am??rica del \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/01/south-america-realtime-earthquakes-list-sismos-en-america-del-sur/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 25, 2012 ... The list below shows the last earthquakes in South America ??? Versi??n en   espa??ol (traducci??n Google) Personalized E-mail earthquake alerts ...",
+   "htmlSnippet": "May 25, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eSouth America\u003c/b\u003e ??? Versi??n en \u003cbr\u003e  espa??ol (traducci??n Google) Personalized E-mail \u003cb\u003eearthquake\u003c/b\u003e alerts \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qgi0pAHrD2UJ",
+   "formattedUrl": "earthquake-report.com/.../south-america-realtime-earthquakes-list-sismos-en- america-del-sur/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003esouth\u003c/b\u003e-\u003cb\u003eamerica\u003c/b\u003e-realtime-\u003cb\u003eearthquakes\u003c/b\u003e-list-sismos-en- \u003cb\u003eamerica\u003c/b\u003e-del-sur/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list November 11, 2012 ??? Very strong ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember\u003c/b\u003e 11, 2012 ??? Very strong \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/11/11/major-earthquakes-list-november-11-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "(Major) Earthquakes list November 11, 2012 ??? Very strong dangerous aftershock   in Guatemala. Last update: November 12, 2012 at 12:05 am by By Ashish ...",
+   "htmlSnippet": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember\u003c/b\u003e 11, 2012 ??? Very strong dangerous aftershock \u003cbr\u003e  in Guatemala. Last update: \u003cb\u003eNovember 12\u003c/b\u003e, 2012 at \u003cb\u003e12\u003c/b\u003e:05 am by By Ashish \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ygd9YaMPWXgJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-november-11-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003enovember\u003c/b\u003e-11-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-11-at-23.37.41.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "199",
+      "height": "254",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQscFsStSXamv2sByjeCNy7wKhdLLEI-5CwxCVC7LxvtPZQisncTcOfVLg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 8, 2012 ??? 2 x Greater Los Angeles ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list August 8, 2012 ??? 2 x Greater Los Angeles \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/07/major-earthquakes-list-august-8-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 8, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ???   STATES ... &quot; and now it is 9:35 a.m. on 8/8/12 the next morning and   ANOTHER ...... M 4.0 or higher with emphasis to earthquakes in the America's   and the Pacific .... (Major) Earthquakes list November 10, 2012 - Moderate but ...",
+   "htmlSnippet": "Aug 8, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? \u003cbr\u003e  STATES \u003cb\u003e...\u003c/b\u003e &amp;quot; and now it is 9:35 a.m. on 8/8/\u003cb\u003e12\u003c/b\u003e the next morning and \u003cbr\u003e  ANOTHER \u003cb\u003e......\u003c/b\u003e M 4.0 or higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e \u003cbr\u003e  and the Pacific \u003cb\u003e....\u003c/b\u003e (Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember\u003c/b\u003e 10, 2012 - Moderate but \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hYaxttWA4UMJ",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-august-8-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-august-8-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "JERRY",
+      "nickname": "JERRY"
+     },
+     {
+      "fn": "Veronica Leighton"
+     },
+     {
+      "fn": "Shabina",
+      "nickname": "Shabina"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list November 9, 2012",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember\u003c/b\u003e 9, 2012",
+   "link": "http://earthquake-report.com/2012/11/09/major-earthquakes-list-november-9-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: November 10, 2012 at 12:42 pm by By Ashish Khanal ?? REAL TIME   EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES .... of M   4.0 or higher with emphasis to earthquakes in the America's and the Pacific   Ocean sphere (4 .... EARTHQUAKE related news ??? To remember : South-Africa   1976 ...",
+   "htmlSnippet": "Last update: \u003cb\u003eNovember\u003c/b\u003e 10, 2012 at \u003cb\u003e12\u003c/b\u003e:42 pm by By Ashish Khanal &middot; REAL TIME \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES \u003cb\u003e....\u003c/b\u003e of M \u003cbr\u003e  4.0 or higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the Pacific \u003cbr\u003e  Ocean sphere (4 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : \u003cb\u003eSouth\u003c/b\u003e-Africa \u003cbr\u003e  \u003cb\u003e1976\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8P_7TLoqq-0J",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-november-9-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003enovember\u003c/b\u003e-9-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list November 13, 2012 ??? Moderate earthquake ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember\u003c/b\u003e 13, 2012 ??? Moderate \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/11/13/major-earthquakes-list-november-13-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: November 14, 2012 at 12:06 am by By Ashish Khanal ?? REAL TIME   EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES ...",
+   "htmlSnippet": "Last update: \u003cb\u003eNovember\u003c/b\u003e 14, 2012 at \u003cb\u003e12\u003c/b\u003e:06 am by By Ashish Khanal &middot; REAL TIME \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GZ3SvuTprcYJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-november-13-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003enovember\u003c/b\u003e-13-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list November 22, 2012 ??? Earthquake felt in ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember\u003c/b\u003e 22, 2012 ??? \u003cb\u003eEarthquake\u003c/b\u003e felt in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/11/22/major-earthquakes-list-november-22-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: November 23, 2012 at 12:20 am by By Ashish Khanal ?? REAL TIME   EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES .... of M   4.0 or higher with emphasis to earthquakes in the America's and the Pacific   Ocean sphere (4 .... EARTHQUAKE related news ??? To remember : South-Africa   1976 ...",
+   "htmlSnippet": "Last update: \u003cb\u003eNovember\u003c/b\u003e 23, 2012 at \u003cb\u003e12\u003c/b\u003e:20 am by By Ashish Khanal &middot; REAL TIME \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES \u003cb\u003e....\u003c/b\u003e of M \u003cbr\u003e  4.0 or higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the Pacific \u003cbr\u003e  Ocean sphere (4 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : \u003cb\u003eSouth\u003c/b\u003e-Africa \u003cbr\u003e  \u003cb\u003e1976\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Nu3ZepEISL4J",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-november-22-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003enovember\u003c/b\u003e-22-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-22-at-10.31.18.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "201",
+      "height": "250",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyrFmTq-sptx6K4MSBgQgp0WgqUbDXbeX-HAVsh89rn0qLNt3UyMNptE6p"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list November 3, 2012",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eNovember\u003c/b\u003e 3, 2012",
+   "link": "http://earthquake-report.com/2012/11/02/major-earthquakes-list-november-3-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 4, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ???   STATES ... ER, I Felt A (not Listed) Earthquake, Nov 03 12:00 PM, 4.6, 0.1, MAP ??   I Felt It ... M 4.0 or higher with emphasis to earthquakes in the America's and the   .... EARTHQUAKE related news ??? To remember : South-Africa 1976 ...",
+   "htmlSnippet": "Nov 4, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? \u003cbr\u003e  STATES \u003cb\u003e...\u003c/b\u003e ER, I Felt A (not Listed) \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003eNov\u003c/b\u003e 03 \u003cb\u003e12\u003c/b\u003e:00 PM, 4.6, 0.1, MAP &middot; \u003cbr\u003e  I Felt It \u003cb\u003e...\u003c/b\u003e M 4.0 or higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : \u003cb\u003eSouth\u003c/b\u003e-Africa \u003cb\u003e1976\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_wz3KsG9t3UJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-november-3-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003enovember\u003c/b\u003e-3-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Erny",
+      "nickname": "Erny"
+     }
+    ]
+   }
+  }
+ ]
+}

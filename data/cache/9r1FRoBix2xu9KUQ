@@ -1,0 +1,300 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 1 1936 North America Earthquake",
+    "totalResults": "107000",
+    "searchTerms": "Apr 1 1936 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 1 1936 North America Earthquake",
+    "totalResults": "107000",
+    "searchTerms": "Apr 1 1936 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.326399,
+  "formattedSearchTime": "0.33",
+  "totalResults": "107000",
+  "formattedTotalResults": "107,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on April 1 - What happened on my birthday. Today ...",
+   "htmlTitle": "What happened on \u003cb\u003eApril 1\u003c/b\u003e - What happened on my birthday. Today \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/apr01.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "April 1, 1865 \"American Civil War: Battle of Five Forks - In Siege of Petersburg, ....   'C' Class destroyer sunk in collision in the North Sea with the trawler John   Fitzgerald.\" .... April 1, 1936 Orissa constituted a province of British India ... April 1  , 1946 \"Aleutian Island earthquake: A 7.8 magnitude earthquake near the   Aleutian ...",
+   "htmlSnippet": "April 1, 1865 &quot;\u003cb\u003eAmerican\u003c/b\u003e Civil War: Battle of Five Forks - In Siege of Petersburg, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  &#39;C&#39; Class destroyer sunk in collision in the \u003cb\u003eNorth\u003c/b\u003e Sea with the trawler John \u003cbr\u003e  Fitzgerald.&quot; \u003cb\u003e....\u003c/b\u003e \u003cb\u003eApril 1\u003c/b\u003e, \u003cb\u003e1936\u003c/b\u003e Orissa constituted a province of British India \u003cb\u003e...\u003c/b\u003e April 1\u003cbr\u003e  , 1946 &quot;Aleutian Island \u003cb\u003eearthquake\u003c/b\u003e: A 7.8 magnitude \u003cb\u003eearthquake\u003c/b\u003e near the \u003cbr\u003e  Aleutian \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UfPTwY1UmlMJ",
+   "formattedUrl": "www.datesinhistory.com/apr01.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eapr\u003c/b\u003e01.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1906 San Francisco earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1906 San Francisco \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The earthquake and resulting fire are remembered as one of the worst natural ....   forms part of the boundary between the Pacific Plate and the North American   Plate. ... In April 1906, the tenor Enrico Caruso and members of the Metropolitan   Opera ..... The earthquake was the basis of the 1936 MGM film San Francisco,   which ...",
+   "htmlSnippet": "The \u003cb\u003eearthquake\u003c/b\u003e and resulting fire are remembered as \u003cb\u003eone\u003c/b\u003e of the worst natural \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  forms part of the boundary between the Pacific Plate and the \u003cb\u003eNorth American\u003c/b\u003e \u003cbr\u003e  Plate. \u003cb\u003e...\u003c/b\u003e In \u003cb\u003eApril\u003c/b\u003e 1906, the tenor Enrico Caruso and members of the Metropolitan \u003cbr\u003e  Opera \u003cb\u003e.....\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was the basis of the \u003cb\u003e1936\u003c/b\u003e MGM film San Francisco, \u003cbr\u003e  which \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EOdHrDSYqjoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1906_San_Francisco_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Post-and-Grant-Avenue.-Look.jpg/240px-Post-and-Grant-Avenue.-Look.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "143",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7kQn3LhnMZO3RQrq_vzmYp69F1YB-4jjFmQE2YRVvuy_LDLiTC0lt6SZP"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake FAQ",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e FAQ",
+   "link": "http://seismo.berkeley.edu/faq/1906_0.html",
+   "displayLink": "seismo.berkeley.edu",
+   "snippet": "The computer system may pick up one quake triggering on many stations and list   it as two. .... The Pacific Plate is moving northwest with respect to the North   American ..... Ms was developed by Gutenberg and Richter in 1936 as an   extension to .... at home\", 241, July 1979; \"The New Backyard Seismology\", 100,   April 1996 ...",
+   "htmlSnippet": "The computer system may pick up \u003cb\u003eone quake\u003c/b\u003e triggering on many stations and list \u003cbr\u003e  it as two. \u003cb\u003e....\u003c/b\u003e The Pacific Plate is moving northwest with respect to the \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerican\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e Ms was developed by Gutenberg and Richter in \u003cb\u003e1936\u003c/b\u003e as an \u003cbr\u003e  extension to \u003cb\u003e....\u003c/b\u003e at home&quot;, 241, July 1979; &quot;The New Backyard Seismology&quot;, 100, \u003cbr\u003e  \u003cb\u003eApril\u003c/b\u003e 1996 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fMnAJDrCuwgJ",
+   "formattedUrl": "seismo.berkeley.edu/faq/1906_0.html",
+   "htmlFormattedUrl": "seismo.berkeley.edu/faq/1906_0.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montana",
+   "htmlTitle": "Montana",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/montana/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Montana is one of the most seismically active States in the Union. ... Montana's   earthquake activity is concentrated mostly in the ... felt over a 803,000 square   kilometer area extending from the North Dakota line to Washington ... Helena   again suffered minor damage from an aftershock on February 13, 1936.",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Montana is \u003cb\u003eone\u003c/b\u003e of the most seismically active States in the Union. \u003cb\u003e...\u003c/b\u003e Montana&#39;s \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e activity is concentrated mostly in the \u003cb\u003e...\u003c/b\u003e felt over a 803,000 square \u003cbr\u003e  kilometer area extending from the \u003cb\u003eNorth\u003c/b\u003e Dakota line to Washington \u003cb\u003e...\u003c/b\u003e Helena \u003cbr\u003e  again suffered minor damage from an aftershock on February 13, \u003cb\u003e1936\u003c/b\u003e.",
+   "cacheId": "qooHt1mtDZUJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/montana/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/montana/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Weather History: April 1: Record Temps, Quake, Storms, Snow, Wind ...",
+   "htmlTitle": "Weather History: \u003cb\u003eApril 1\u003c/b\u003e: Record Temps, \u003cb\u003eQuake\u003c/b\u003e, Storms, Snow, Wind \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.examiner.com/article/weather-history-april-1-record-temps-quake-storms-snow-wind-flooding",
+   "displayLink": "www.examiner.com",
+   "snippet": "Apr 1, 2012 ... Meteorological events that happened on April 1st: 1786 A heavy ... The first   American newspaper weather map would be published on ... 1936. Record low   maximum temperatures were set at Billings, MT, 15?? and Sheridan, WY, 10??. ...   Thunderstorms produced baseball size hail north of Bastrop, LA, and ...",
+   "htmlSnippet": "Apr 1, 2012 \u003cb\u003e...\u003c/b\u003e Meteorological events that happened on \u003cb\u003eApril\u003c/b\u003e 1st: 1786 A heavy \u003cb\u003e...\u003c/b\u003e The first \u003cbr\u003e  \u003cb\u003eAmerican\u003c/b\u003e newspaper weather map would be published on \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1936\u003c/b\u003e. Record low \u003cbr\u003e  maximum temperatures were set at Billings, MT, 15?? and Sheridan, WY, 10??. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Thunderstorms produced baseball size hail \u003cb\u003enorth\u003c/b\u003e of Bastrop, LA, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "LtTkQrq-A_IJ",
+   "formattedUrl": "www.examiner.com/.../weather-history-april-1-record-temps-quake-storms- snow-wind-flooding",
+   "htmlFormattedUrl": "www.examiner.com/.../weather-history-\u003cb\u003eapril\u003c/b\u003e-\u003cb\u003e1\u003c/b\u003e-record-temps-\u003cb\u003equake\u003c/b\u003e-storms- snow-wind-flooding",
+   "pagemap": {
+    "metatags": [
+     {
+      "schema:name dc:title": "Weather History: April 1: Record Temps, Quake, Storms, Snow, Wind &amp; Flooding",
+      "sioc:num_replies": "0",
+      "og:url": "http://www.examiner.com/article/weather-history-april-1-record-temps-quake-storms-snow-wind-flooding",
+      "fb:app_id": "113003962065478",
+      "og:title": "Weather History: April 1: Record Temps, Quake, Storms, Snow, Wind & Flooding",
+      "og:type": "article",
+      "og:site_name": "Examiner.com"
+     }
+    ],
+    "NewsArticle": [
+     {
+      "name": "Weather History: April 1: Record Temps, Quake, Storms, Snow, Wind & Flooding",
+      "title": "Weather History: April 1: Record Temps, Quake, Storms, Snow, Wind & Flooding",
+      "date": "2012-04-01T08:53:08-06:00",
+      "created": "2012-04-01T08:53:08-06:00",
+      "articleBody": "Related topicsWeathermeteorologyHistoryScienceweather history Advertisement Meteorological events that happened on April 1st: 1786 A heavy snowstorm in the Northeast dumped a foot of snow from...",
+      "encoded": "Related topicsWeathermeteorologyHistoryScienceweather history Advertisement Meteorological events that happened on April 1st: 1786 A heavy snowstorm in the Northeast dumped a foot of snow from...",
+      "link-type-author": "Charlie Wilson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Washington: Earthquake History",
+   "htmlTitle": "Washington: \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/washington/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... On July 15, 1936, a magnitude 5 3/4 earthquake was centered near the ... Bend,   Palmer, and Stampede Pass following an earthquake on April 29, 1945. ... at   North Bend about 10 hours later; another aftershock on May 1 was widely felt. ...   Notices ?? In partnership with nehrp ?? Take Pride in America; USA.gov ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e On July 15, \u003cb\u003e1936\u003c/b\u003e, a magnitude 5 3/4 \u003cb\u003eearthquake\u003c/b\u003e was centered near the \u003cb\u003e...\u003c/b\u003e Bend, \u003cbr\u003e  Palmer, and Stampede Pass following an \u003cb\u003eearthquake\u003c/b\u003e on \u003cb\u003eApril\u003c/b\u003e 29, 1945. \u003cb\u003e...\u003c/b\u003e at \u003cbr\u003e  \u003cb\u003eNorth\u003c/b\u003e Bend about 10 hours later; another aftershock on May \u003cb\u003e1\u003c/b\u003e was widely felt. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Wvyu3D3UhjoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/washington/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/washington/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worst American Disasters of the Last Century",
+   "htmlTitle": "Worst \u003cb\u003eAmerican\u003c/b\u003e Disasters of the Last Century",
+   "link": "http://disasters.albertarose.org/us_disasters.html",
+   "displayLink": "disasters.albertarose.org",
+   "snippet": "1906: April 18: The Great 1906 San Francisco Earthquake and fire, San ... 1913:   December 1-5: Flood, Central to North Texas: 177 dead. ... A great \"dust bowl\"   covered 50 million acres in the south-central plains during the winter of 1935-  1936.",
+   "htmlSnippet": "1906: \u003cb\u003eApril\u003c/b\u003e 18: The Great 1906 San Francisco \u003cb\u003eEarthquake\u003c/b\u003e and fire, San \u003cb\u003e...\u003c/b\u003e 1913: \u003cbr\u003e  December \u003cb\u003e1\u003c/b\u003e-5: Flood, Central to \u003cb\u003eNorth\u003c/b\u003e Texas: 177 dead. \u003cb\u003e...\u003c/b\u003e A great &quot;dust bowl&quot; \u003cbr\u003e  covered 50 million acres in the south-central plains during the winter of 1935-\u003cbr\u003e  \u003cb\u003e1936\u003c/b\u003e.",
+   "cacheId": "dRlZFgqEyjEJ",
+   "formattedUrl": "disasters.albertarose.org/us_disasters.html",
+   "htmlFormattedUrl": "disasters.albertarose.org/us_disasters.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://disasters.albertarose.org/images/perfect_storm.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "118",
+      "height": "102",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5w4Nm3U4s-MCY3Lwl_t10eusa-slaPxGfqJmc8603VIS6fouBhShkFA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Hazard in Pennsylvania",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Hazard in Pennsylvania",
+   "link": "http://www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "displayLink": "www.dcnr.state.pa.us",
+   "snippet": "corded at Millersville University, Millersville, Pa., on April 20, 2002. Pennsylvania   .... One of the largest earthquakes in eastern North America occurred on February   ..... 1936. Greenville. 2.9. MONROE COUNTY. Oct. 24,. 1942. Stroudsburg. 3.4 ...",
+   "htmlSnippet": "corded at Millersville University, Millersville, Pa., on \u003cb\u003eApril\u003c/b\u003e 20, 2002. Pennsylvania \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eOne\u003c/b\u003e of the largest \u003cb\u003eearthquakes\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e occurred on February \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1936\u003c/b\u003e. Greenville. 2.9. MONROE COUNTY. Oct. 24,. 1942. Stroudsburg. 3.4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yLantnncP08J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "htmlFormattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030630201551Z",
+      "creator": "QuarkXPress(tm) for Windows 5.01",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "moddate": "D:20070716094835-04'00'",
+      "title": "front.qxd (Page 3)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Notable Earthquakes Shake Texas on Occasion | Texas Almanac",
+   "htmlTitle": "Notable \u003cb\u003eEarthquakes\u003c/b\u003e Shake Texas on Occasion | Texas Almanac",
+   "link": "http://www.texasalmanac.com/topics/environment/notable-earthquakes-shake-texas-occasion",
+   "displayLink": "www.texasalmanac.com",
+   "snippet": "One earthquake on March 7, 1923, caused an adobe house to collapse and ...   1907 (3.6) ??? In April 1907, an earthquake near Amarillo occurred. ... The shock   was strongly recorded on all seismographs in North America and at stations all   over the world. ... 1936 (5.0) ??? Widely felt earthquake shocks with an epicenter in   the ...",
+   "htmlSnippet": "\u003cb\u003eOne earthquake\u003c/b\u003e on March 7, 1923, caused an adobe house to collapse and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1907 (3.6) ??? In \u003cb\u003eApril\u003c/b\u003e 1907, an \u003cb\u003eearthquake\u003c/b\u003e near Amarillo occurred. \u003cb\u003e...\u003c/b\u003e The shock \u003cbr\u003e  was strongly recorded on all seismographs in \u003cb\u003eNorth America\u003c/b\u003e and at stations all \u003cbr\u003e  over the world. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1936\u003c/b\u003e (5.0) ??? Widely felt \u003cb\u003eearthquake\u003c/b\u003e shocks with an epicenter in \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xxQi0qeIcKgJ",
+   "formattedUrl": "www.texasalmanac.com/.../notable-earthquakes-shake-texas-occasion",
+   "htmlFormattedUrl": "www.texasalmanac.com/.../notable-\u003cb\u003eearthquakes\u003c/b\u003e-shake-texas-occasion",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.texasalmanac.com/sites/default/files/images/maps/quakemap2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGWTxdQSuGZx2pz6OFlpfvbBAig_uVCccZCFxzkjVg9ZYA6bVAjVdXVU-L"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "The Texas Almanac is a biennially published reference work providing information for the general public on the history of the state and its people, government and politics, economics, natural resources, holidays, culture, education, recreation, the arts, and other topics."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake magnitude, intensity, energy, and acceleration",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e magnitude, intensity, energy, and acceleration",
+   "link": "http://www.bssaonline.org/content/46/2/105.refs",
+   "displayLink": "www.bssaonline.org",
+   "snippet": "Earthquake Magnitude Determination from the Vertical Component of Surface   Waves, Trans. .... Gutenberg, B. Richter, C. F. 1936. ..... seismological society of   america april 1 1993 83 313 329 abstract full text pdf the north panama   earthquake ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e Magnitude Determination from the Vertical Component of Surface \u003cbr\u003e  Waves, Trans. \u003cb\u003e....\u003c/b\u003e Gutenberg, B. Richter, C. F. \u003cb\u003e1936\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e seismological society of \u003cbr\u003e  \u003cb\u003eamerica april 1\u003c/b\u003e 1993 83 313 329 abstract full text pdf the \u003cb\u003enorth\u003c/b\u003e panama \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.bssaonline.org/content/46/2/105.refs",
+   "htmlFormattedUrl": "www.bssaonline.org/content/46/2/105.refs",
+   "pagemap": {
+    "person": [
+     {
+      "name": "B. Gutenberg"
+     }
+    ],
+    "metatags": [
+     {
+      "hw.ad-path": "/cgi/content/refs/46/2/105",
+      "hw.identifier": "/ssabull/46/2/105.atom",
+      "dc.format": "text/html",
+      "dc.language": "en",
+      "dc.title": "Earthquake magnitude, intensity, energy, and acceleration",
+      "dc.date": "1956-04-01",
+      "dc.publisher": "Seismological Society of America",
+      "dc.contributor": "B. Gutenberg",
+      "citation_journal_title": "Bulletin of the Seismological Society of America",
+      "citation_journal_abbrev": "Bulletin of the Seismological Society of America",
+      "citation_issn": "0037-1106",
+      "citation_author": "B. Gutenberg",
+      "citation_title": "Earthquake magnitude, intensity, energy, and acceleration (Second paper)",
+      "citation_date": "04/01/1956",
+      "citation_volume": "46",
+      "citation_issue": "2",
+      "citation_firstpage": "105",
+      "citation_lastpage": "145",
+      "citation_id": "46/2/105",
+      "citation_mjid": "ssabull;46/2/105",
+      "citation_abstract_html_url": "http://www.bssaonline.org/content/46/2/105.abstract",
+      "citation_pdf_url": "http://www.bssaonline.org/content/46/2/105.full.pdf",
+      "citation_public_url": "http://www.bssaonline.org/content/46/2/105",
+      "citation_section": "Articles"
+     }
+    ],
+    "scholarlyarticle": [
+     {
+      "articlebody": "Copyright ?? 1956, by the Seismological Society of America Earthquake magnitude, intensity, energy, and acceleration (Second paper) B. Gutenberg and C. F. Richter California Institute of Technology...",
+      "headline": "Earthquake magnitude, intensity, energy, and acceleration",
+      "datepublished": "April 1956"
+     }
+    ]
+   }
+  }
+ ]
+}

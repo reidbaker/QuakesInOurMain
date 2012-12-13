@@ -1,0 +1,274 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 16 1943 South America Earthquake",
+    "totalResults": "86100",
+    "searchTerms": "Jul 16 1943 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 16 1943 South America Earthquake",
+    "totalResults": "86100",
+    "searchTerms": "Jul 16 1943 South America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.271233,
+  "formattedSearchTime": "0.27",
+  "totalResults": "86100",
+  "formattedTotalResults": "86,100"
+ },
+ "spelling": {
+  "correctedQuery": "July 16 1943 South America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 16 1943 South America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... Sea Plate beneath the continental Amurian Plate and Okinawa Plate to the   south, .... On September 10, 1943, the 1943 Tottori earthquake, measuring 7.2 M   struck .... On July 16, 2007, an earthquake measuring 6.6 M, the Ch??etsu   Offshore .... Narrative of the Expedition of an American Squadron to the China   Seas and ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e Sea Plate beneath the continental Amurian Plate and Okinawa Plate to the \u003cbr\u003e  \u003cb\u003esouth\u003c/b\u003e, \u003cb\u003e....\u003c/b\u003e On September 10, \u003cb\u003e1943\u003c/b\u003e, the \u003cb\u003e1943\u003c/b\u003e Tottori \u003cb\u003eearthquake\u003c/b\u003e, measuring 7.2 M \u003cbr\u003e  struck \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eJuly 16\u003c/b\u003e, 2007, an \u003cb\u003eearthquake\u003c/b\u003e measuring 6.6 M, the Ch??etsu \u003cbr\u003e  Offshore \u003cb\u003e....\u003c/b\u003e Narrative of the Expedition of an \u003cb\u003eAmerican\u003c/b\u003e Squadron to the China \u003cbr\u003e  Seas and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NuRGcOQIbpIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japan_separation.png/270px-Japan_separation.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAivkrzGCuUOdUUabCsPoOS7Ntz0yc_PFSUl2M5kTnoihqkPpJiCdL5c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "1899 Jul 14 13:32, 60.0N, 150.0W, 7.2, Cook Inlet ... 1903 Jan 17 16:05, 50.85N,   175.16W, 7.0, Andreanof Islands ... 1916 Feb 06 21:51:19, 48.5N, 178.5E, 7.7,   South of Rat Islands ... 1943 Nov 03 14:32:17.5, 61.90N, 150.84W, 7.4, Skwentna   .... Policies and Notices ?? In partnership with nehrp ?? Take Pride in America; USA.",
+   "htmlSnippet": "1899 \u003cb\u003eJul\u003c/b\u003e 14 13:32, 60.0N, 150.0W, 7.2, Cook Inlet \u003cb\u003e...\u003c/b\u003e 1903 Jan 17 \u003cb\u003e16\u003c/b\u003e:05, 50.85N, \u003cbr\u003e  175.16W, 7.0, Andreanof Islands \u003cb\u003e...\u003c/b\u003e 1916 Feb 06 21:51:19, 48.5N, 178.5E, 7.7, \u003cbr\u003e  \u003cb\u003eSouth\u003c/b\u003e of Rat Islands \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1943\u003c/b\u003e Nov 03 14:32:17.5, 61.90N, 150.84W, 7.4, Skwentna \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Policies and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "July 16 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eJuly 16\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/July_16",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "July 16 is the 197th day of the year (198th in leap years) in the Gregorian   calendar. .... 2007 ??? An earthquake of magnitude 6.8 and 6.6 aftershock occurs   off the Niigata coast of .... 1990); 1943 ??? Martin Huba, Slovak actor and director;   1943 ??? Jimmy ... South African cricketer; 1973 ??? Graham Robertson, American   director and ...",
+   "htmlSnippet": "\u003cb\u003eJuly 16\u003c/b\u003e is the 197th day of the year (198th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e....\u003c/b\u003e 2007 ??? An \u003cb\u003eearthquake\u003c/b\u003e of magnitude 6.8 and 6.6 aftershock occurs \u003cbr\u003e  off the Niigata coast of \u003cb\u003e....\u003c/b\u003e 1990); \u003cb\u003e1943\u003c/b\u003e ??? Martin Huba, Slovak actor and director; \u003cbr\u003e  \u003cb\u003e1943\u003c/b\u003e ??? Jimmy \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSouth\u003c/b\u003e African cricketer; 1973 ??? Graham Robertson, \u003cb\u003eAmerican\u003c/b\u003e \u003cbr\u003e  director and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZS52co24Wh8J",
+   "formattedUrl": "en.wikipedia.org/wiki/July_16",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eJuly\u003c/b\u003e_\u003cb\u003e16\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic Earthquakes in the United States and Its Territories",
+   "htmlTitle": "Historic \u003cb\u003eEarthquakes\u003c/b\u003e in the United States and Its Territories",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/historical_state.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... Rhode Island ??? South   Carolina ??? South Dakota ??? Tennessee ??? Texas ??? Utah ??? Vermont ... Alaska - M 8.2 ??   1943 11 03 - Skwenta, Alaska - M 7.4 ?? 1946 04 01 - Unimak Island, ... Alaska - M   6.4 ?? 2008 04 16 - Andreanof Islands, Aleutian Islands, Alaska - M 6.6 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e Rhode Island ??? \u003cb\u003eSouth\u003c/b\u003e \u003cbr\u003e  Carolina ??? \u003cb\u003eSouth\u003c/b\u003e Dakota ??? Tennessee ??? Texas ??? Utah ??? Vermont \u003cb\u003e...\u003c/b\u003e Alaska - M 8.2 &middot; \u003cbr\u003e  \u003cb\u003e1943\u003c/b\u003e 11 03 - Skwenta, Alaska - M 7.4 &middot; 1946 04 01 - Unimak Island, \u003cb\u003e...\u003c/b\u003e Alaska - M \u003cbr\u003e  6.4 &middot; 2008 04 \u003cb\u003e16\u003c/b\u003e - Andreanof Islands, Aleutian Islands, Alaska - M 6.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wtOd-mlZMXgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/historical_state.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/historical_state.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 01902-09-19  September 19, 1902, Warooka, South Australia, Australia, 2, 6.0, ML, USGS ...   01902-12-16December 16, 1902, Andijan, Uzbekistan, 40.8, 72.3, 4,700, 6.4, ML   (USGS 1000+), USGS ..... 01943-07-23July 23, 1943, 14:53 UTC, Central Java ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 01902-09-19\u003cbr\u003e  September 19, 1902, Warooka, \u003cb\u003eSouth\u003c/b\u003e Australia, Australia, 2, 6.0, ML, USGS \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  01902-12-\u003cb\u003e16\u003c/b\u003eDecember \u003cb\u003e16\u003c/b\u003e, 1902, Andijan, Uzbekistan, 40.8, 72.3, 4,700, 6.4, ML \u003cbr\u003e  (USGS 1000+), USGS \u003cb\u003e.....\u003c/b\u003e 01943-07-23\u003cb\u003eJuly\u003c/b\u003e 23, \u003cb\u003e1943\u003c/b\u003e, 14:53 UTC, Central Java \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 8 and Greater Earthquakes Since 1900",
+   "htmlTitle": "Magnitude 8 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e Since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/mag8/magnitude8_1900_date.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "1943/04/06 16:07, -30.75, -72.0, 8.2, 18, off the coast of Coquimbo, Chile ... 1977/  08/19 06:08, -11.085, 118.464, 8.3, 100, south of Sumbawa, Indonesia ...",
+   "htmlSnippet": "\u003cb\u003e1943\u003c/b\u003e/04/06 \u003cb\u003e16\u003c/b\u003e:07, -30.75, -72.0, 8.2, 18, off the coast of Coquimbo, Chile \u003cb\u003e...\u003c/b\u003e 1977/\u003cbr\u003e  08/19 06:08, -11.085, 118.464, 8.3, 100, \u003cb\u003esouth\u003c/b\u003e of Sumbawa, Indonesia \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-_taVO3onUwJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/.../magnitude8_1900_date.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/.../magnitude8_1900_date.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/mag8/images/mag8_1900.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "273",
+      "height": "184",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM096zGDz8ARm3ME-WMUo4oT_MrHV9SZI69Lm6O-tm7XIkyyUOe-9cIb0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atom bomb successfully tested ??? History.com This Day in History ...",
+   "htmlTitle": "Atom bomb successfully tested ??? History.com This Day in History \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/atom-bomb-successfully-tested",
+   "displayLink": "www.history.com",
+   "snippet": "Lead Story: Atom bomb successfully tested, 1945; American Revolution ... 1979;   Disaster: Earthquake wreaks havoc in the Philippines, 1990; General Interest:   First ... But the Project took final form in the desert of New Mexico, where, in 1943,   ... Finally, on the morning of July 16, in the New Mexico desert 120 miles south of ...",
+   "htmlSnippet": "Lead Story: Atom bomb successfully tested, 1945; \u003cb\u003eAmerican\u003c/b\u003e Revolution \u003cb\u003e...\u003c/b\u003e 1979; \u003cbr\u003e  Disaster: \u003cb\u003eEarthquake\u003c/b\u003e wreaks havoc in the Philippines, 1990; General Interest: \u003cbr\u003e  First \u003cb\u003e...\u003c/b\u003e But the Project took final form in the desert of New Mexico, where, in \u003cb\u003e1943\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Finally, on the morning of \u003cb\u003eJuly 16\u003c/b\u003e, in the New Mexico desert 120 miles \u003cb\u003esouth\u003c/b\u003e of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-6FQmYNv9y8J",
+   "formattedUrl": "www.history.com/this-day-in.../atom-bomb-successfully-tested",
+   "htmlFormattedUrl": "www.history.com/this-day-in.../atom-bomb-successfully-tested",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.history.com/images/media/video/tdih_jul16_broadband_1146871/tdih_jul16_broadband_small_150x100.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "80",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2kjxq-UcUaEfxAVPdFkaaH-tWbIqt25HqzYVLguSWnBcHw8hTtglQUw"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Atom bomb successfully tested ??? History.com This Day in History ??? 7/16/1945",
+      "asset_type_id": "6",
+      "is_sponsored": "N",
+      "network": "History",
+      "display_description": "Discover what happened today in history. Read about major past events that happened today including special entries on crime, entertainment, and more.",
+      "asset_id": "1091594",
+      "viewport": "width=device-width",
+      "og:image": "http://www.history.com/images/media/video/tdih_jul16_broadband_1146871/tdih_jul16_broadband_small_150x100.jpg",
+      "og:title": "Atom bomb successfully tested ??? History.com This Day in History ??? 7/16/1945",
+      "og:description": "Discover what happened today in history. Read about major past events that happened today including special entries on crime, entertainment, and more.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/atom-bomb-successfully-tested",
+      "og:type": "video",
+      "og:video:type": "application/x-shockwave-flash",
+      "og:video": "http://www.history.com/flash/VideoPlayer.swf?vid=43360711202",
+      "og:video:height": "300",
+      "og:video:width": "480"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.4 - 16km SSW of Piedecuesta, Colombia 2012-11-25 22:24:09 ...",
+   "htmlTitle": "M4.4 - \u003cb\u003e16km\u003c/b\u003e SSW of Piedecuesta, Colombia 2012-11-25 22:24:09 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dy3b",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 25, 2012 ... (INTERIOR/USGS-2) published at 74 FR 34033 (July 14, 2009). ... Samana   earthquake in northeastern Hispaniola and the July 29, 1943 M7.6 ... Here, the   North and South America plates subduct towards the west beneath ...",
+   "htmlSnippet": "Nov 25, 2012 \u003cb\u003e...\u003c/b\u003e (INTERIOR/USGS-2) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e Samana \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in northeastern Hispaniola and the \u003cb\u003eJuly\u003c/b\u003e 29, \u003cb\u003e1943\u003c/b\u003e M7.6 \u003cb\u003e...\u003c/b\u003e Here, the \u003cbr\u003e  North and \u003cb\u003eSouth America\u003c/b\u003e plates subduct towards the west beneath \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-tNRs06w94sJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dy3b",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dy3b"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on July 16th This Day in History",
+   "htmlTitle": "What Happened on \u003cb\u003eJuly 16th\u003c/b\u003e This Day in History",
+   "link": "http://www.thepeoplehistory.com/july16th.html",
+   "displayLink": "www.thepeoplehistory.com",
+   "snippet": "July 16th What Happened on the day you were born on This day in History ...   16th July 1990 : A 7.7-magnitude earthquake strikes Luzon Island in the ... rains   produced flash floods and landslides in the Gangwon province of South Korea.",
+   "htmlSnippet": "\u003cb\u003eJuly 16th\u003c/b\u003e What Happened on the day you were born on This day in History \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e16th July\u003c/b\u003e 1990 : A 7.7-magnitude \u003cb\u003eearthquake\u003c/b\u003e strikes Luzon Island in the \u003cb\u003e...\u003c/b\u003e rains \u003cbr\u003e  produced flash floods and landslides in the Gangwon province of \u003cb\u003eSouth\u003c/b\u003e Korea.",
+   "cacheId": "zvIffoozGHkJ",
+   "formattedUrl": "www.thepeoplehistory.com/july16th.html",
+   "htmlFormattedUrl": "www.thepeoplehistory.com/\u003cb\u003ejuly16\u003c/b\u003eth.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "The People History -- Steve Pearson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "July 16 Events in History",
+   "htmlTitle": "\u003cb\u003eJuly 16\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/july_16.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "July 16 in history.",
+   "htmlSnippet": "\u003cb\u003eJuly 16\u003c/b\u003e in history.",
+   "cacheId": "DF-B_L2pGfwJ",
+   "formattedUrl": "www.brainyhistory.com/days/july_16.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003ejuly\u003c/b\u003e_\u003cb\u003e16\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "July 16 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/july_16.html"
+     }
+    ]
+   }
+  }
+ ]
+}

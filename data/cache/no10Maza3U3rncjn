@@ -1,0 +1,267 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 28 1950 Eurasia Earthquake",
+    "totalResults": "32300",
+    "searchTerms": "Oct 28 1950 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 28 1950 Eurasia Earthquake",
+    "totalResults": "32300",
+    "searchTerms": "Oct 28 1950 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 1.086177,
+  "formattedSearchTime": "1.09",
+  "totalResults": "32300",
+  "formattedTotalResults": "32,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1950 Assam ??? Tibet earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1950\u003c/b\u003e Assam ??? Tibet \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1950_Assam_%E2%80%93_Tibet_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1950 Assam ??? Tibet earthquake, also known as the Assam earthquake or   Medog earthquake), occurred on August 15, 1950, and had a magnitude of 8.6.",
+   "htmlSnippet": "The \u003cb\u003e1950\u003c/b\u003e Assam ??? Tibet \u003cb\u003eearthquake\u003c/b\u003e, also known as the Assam \u003cb\u003eearthquake\u003c/b\u003e or \u003cbr\u003e  Medog \u003cb\u003eearthquake\u003c/b\u003e), occurred on August 15, \u003cb\u003e1950\u003c/b\u003e, and had a magnitude of 8.6.",
+   "cacheId": "Kr2T0RzfKDAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1950_Assam_???_Tibet_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1950\u003c/b\u003e_Assam_???_Tibet_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Topografic_map_of_Tibetan_Plateau.png/250px-Topografic_map_of_Tibetan_Plateau.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "107",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQuFsDI8Xjm_uX0hZjm5JcBjynDsKepCrIXRjkvuxqzsj1AwxYATP4YAhs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "W of Farkhor, Tajikistan - Earthquake Hazards Program - USGS",
+   "htmlTitle": "W of Farkhor, Tajikistan - \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program - USGS",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000d9me",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 20, 2012 ... Page Last Modified: October 28, 2012 12:44:28 UTC ... Himalaya dominantly   results from the continental collision of the India and Eurasia plates, ... Himalaya   earthquake occurred on 15th August 1950 in Assam, eastern India.",
+   "htmlSnippet": "Oct 20, 2012 \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eOctober 28\u003c/b\u003e, 2012 12:44:\u003cb\u003e28\u003c/b\u003e UTC \u003cb\u003e...\u003c/b\u003e Himalaya dominantly \u003cbr\u003e  results from the continental collision of the India and \u003cb\u003eEurasia\u003c/b\u003e plates, \u003cb\u003e...\u003c/b\u003e Himalaya \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e occurred on 15th August \u003cb\u003e1950\u003c/b\u003e in Assam, eastern India.",
+   "cacheId": "Ns4d75QRDeQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000d9me",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000d9me"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes in china, including the tangshan ... - Facts and Details",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e in china, including the tangshan \u003cb\u003e...\u003c/b\u003e - Facts and Details",
+   "link": "http://factsanddetails.com/china.php?itemid=396",
+   "displayLink": "factsanddetails.com",
+   "snippet": "Tangshan Earthquake in 1976 On average, China experiences 18 earthquake of   ... the older heavier Indian crust wedges under Eurasia and thrust up the high ...   India, Oct. 11, 1737 (300,000); 3) Tangshan, China, July 28, 1976 (242,000); ...   Nias Island, Indonesia on March 28, 2005 (8.7); 9) Tibet on August 15, 1950 (8.6)  ; ...",
+   "htmlSnippet": "Tangshan \u003cb\u003eEarthquake\u003c/b\u003e in 1976 On average, China experiences 18 \u003cb\u003eearthquake\u003c/b\u003e of \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e the older heavier Indian crust wedges under \u003cb\u003eEurasia\u003c/b\u003e and thrust up the high \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  India, \u003cb\u003eOct\u003c/b\u003e. 11, 1737 (300,000); 3) Tangshan, China, July \u003cb\u003e28\u003c/b\u003e, 1976 (242,000); \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Nias Island, Indonesia on March \u003cb\u003e28\u003c/b\u003e, 2005 (8.7); 9) Tibet on August 15, \u003cb\u003e1950\u003c/b\u003e (8.6)\u003cbr\u003e  ; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qsHmUIfuvOkJ",
+   "formattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "htmlFormattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20080317-tanshan1976%2032.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScOoH604SVx1lIDpfHg0Q0qhqY8sAjC9a4IM7umgB4cMHH8cygGk30fo9o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2005 Kashmir earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2005 Kashmir \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2005_Kashmir_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "It occurred at 08:52:37 Pakistan Standard Time (03:52:37 GMT) on 8 October   2005. ... Pakistan-administered Kashmir lies in the area of collision of the   Eurasian ...",
+   "htmlSnippet": "It occurred at 08:52:37 Pakistan Standard Time (03:52:37 GMT) on 8 \u003cb\u003eOctober\u003c/b\u003e \u003cbr\u003e  2005. \u003cb\u003e...\u003c/b\u003e Pakistan-administered Kashmir lies in the area of collision of the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "u0tW-q7uQXgJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2005_Kashmir_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2005_Kashmir_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2005_Pakistan_earthquake.png/240px-2005_Pakistan_earthquake.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "164",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Lq9Ge3rjnUDCV_TCtr7Il_UgWQ3LGKKeG2BzBEFJecJuWWEIZMdVWus"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IRIS - Recent Earthquake Teachable Moments",
+   "htmlTitle": "IRIS - Recent \u003cb\u003eEarthquake\u003c/b\u003e Teachable Moments",
+   "link": "http://www.iris.edu/hq/retm",
+   "displayLink": "www.iris.edu",
+   "snippet": "A 7.1-magnitude earthquake struck offshore Tuesday morning (1:53 am local   time) with the epicenter 236 km (147 miles) ... October 28, 2012 (03:04:10 UTC) ...",
+   "htmlSnippet": "A 7.1-magnitude \u003cb\u003eearthquake\u003c/b\u003e struck offshore Tuesday morning (1:53 am local \u003cbr\u003e  time) with the epicenter 236 km (147 miles) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eOctober 28\u003c/b\u003e, 2012 (03:04:10 UTC) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-nIeK0K8gWkJ",
+   "formattedUrl": "www.iris.edu/hq/retm",
+   "htmlFormattedUrl": "www.iris.edu/hq/retm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Sikkim earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Sikkim \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Sikkim_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2011 Sikkim earthquake, also known as the 2011 Himalayan earthquake ...   At its location, the continental Indian and Eurasian Plates converge with one   another ... [28] In Gangtok, many government offices and hospitals were left   unusable. ..... British Columbia, Canada (6.4, Sep 9); Sikkim, India (6.8, Sep 18)???.   October ...",
+   "htmlSnippet": "The 2011 Sikkim \u003cb\u003eearthquake\u003c/b\u003e, also known as the 2011 Himalayan \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  At its location, the continental Indian and \u003cb\u003eEurasian\u003c/b\u003e Plates converge with one \u003cbr\u003e  another \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e28\u003c/b\u003e] In Gangtok, many government offices and hospitals were left \u003cbr\u003e  unusable. \u003cb\u003e.....\u003c/b\u003e British Columbia, Canada (6.4, Sep 9); Sikkim, India (6.8, Sep 18)???. \u003cbr\u003e  \u003cb\u003eOctober\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bVahxC6LT_MJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Sikkim_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Sikkim_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan - University of Colorado Boulder",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan - University of Colorado Boulder",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. .... magnitude   before the advent of the magnitude scale in the mid-1950s. ..... thickness and the   strength of the continental lithosphere, Geology, vol.28, ... October 2002 ...",
+   "htmlSnippet": "of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. \u003cb\u003e....\u003c/b\u003e magnitude \u003cbr\u003e  before the advent of the magnitude scale in the mid-\u003cb\u003e1950s\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e thickness and the \u003cbr\u003e  strength of the continental lithosphere, Geology, vol.\u003cb\u003e28\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eOctober\u003c/b\u003e 2002 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Plate tectonics - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Plate tectonics - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Plate_tectonics",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquakes, volcanic activity, mountain-building, and oceanic trench formation   occur along ..... The same holds for the African, Eurasian, and Antarctic plates. ....   During the late 1950s it was successfully shown on two occasions that these data   could show the ...... A Symposium on Continental Drift, held in 28 October 1965.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e, volcanic activity, mountain-building, and oceanic trench formation \u003cbr\u003e  occur along \u003cb\u003e.....\u003c/b\u003e The same holds for the African, \u003cb\u003eEurasian\u003c/b\u003e, and Antarctic plates. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  During the late \u003cb\u003e1950s\u003c/b\u003e it was successfully shown on two occasions that these data \u003cbr\u003e  could show the \u003cb\u003e......\u003c/b\u003e A Symposium on Continental Drift, held in \u003cb\u003e28 October\u003c/b\u003e 1965.",
+   "cacheId": "63PsD3Mc70MJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Plate_tectonics",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Plate_tectonics",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e??? ????????? (Plate tectonics)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "??? ???????????? ?????? ?????? ??? ???????????? ????????? ????????????. ??????????????? '???????????????'??? ???????????? ??????????????? ????????? ????????? ?????? ??? ????????? ????????? ???????????? ??? ???????????? ??????????????? ??????. ??? ???????????? ????????? ?????? ????????? ?????? ?????? ????????? ????????? ??? ????????? ??? ??? ????????? ???????????? ??????. ???????????? ????????? ????????? ????????? ???????????? ????????? ????????????,...",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Plate_tectonics",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://www.encyber.com/search_w/ctdetail.php?masterno=180405&contentno=180405",
+      "Output::link2c": "????????????",
+      "Output::text2d": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2e": "http://ko.wikipedia.org/wiki/???_?????????",
+      "Output::link2e": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "/images/icons/onebox/dictionary-40.gif",
+      "image_size": "40x40",
+      "Output::inline_image_width": "40",
+      "Output::inline_image_height": "40"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismicity and focal mechanism of earthquakes - Idosi.org",
+   "htmlTitle": "seismicity and focal mechanism of \u003cb\u003eearthquakes\u003c/b\u003e - Idosi.org",
+   "link": "http://www.idosi.org/rjes/rjes2(1)10/2.pdf",
+   "displayLink": "www.idosi.org",
+   "snippet": "pre- historical seismicity data indicate that large destructive earthquakes have ...   interaction of the African, Arabian and Eurasian plates and Sinai subplate, is the   main .... Cairo in the period from 1903 to 1950. ... in June 28, 1972 at latitude 27.6  ??N and longitude 33.7??E ... On 12 October 1992, a damaging earthquake of ...",
+   "htmlSnippet": "pre- historical seismicity data indicate that large destructive \u003cb\u003eearthquakes\u003c/b\u003e have \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  interaction of the African, Arabian and \u003cb\u003eEurasian\u003c/b\u003e plates and Sinai subplate, is the \u003cbr\u003e  main \u003cb\u003e....\u003c/b\u003e Cairo in the period from 1903 to \u003cb\u003e1950\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e in June \u003cb\u003e28\u003c/b\u003e, 1972 at latitude 27.6\u003cbr\u003e  ??N and longitude 33.7??E \u003cb\u003e...\u003c/b\u003e On 12 \u003cb\u003eOctober\u003c/b\u003e 1992, a damaging \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9ScTKeTzkKkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.idosi.org/rjes/rjes2(1)10/2.pdf",
+   "htmlFormattedUrl": "www.idosi.org/rjes/rjes2(1)10/2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "WordPerfect - [h:\\...\\4310a-~1.doc - unmodified]",
+      "creationdate": "D:20100306151903",
+      "title": "SEISMICITY AND FOCAL MECHANISM OF EARTHQUAKES IN THE NORTHEASTERN P",
+      "author": "Administrator",
+      "producer": "Acrobat PDFWriter 4.05 for Windows NT"
+     }
+    ]
+   }
+  }
+ ]
+}
+ }
+ ]
+}
+

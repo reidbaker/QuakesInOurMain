@@ -1,0 +1,320 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 30 1994 Africa Earthquake",
+    "totalResults": "509000",
+    "searchTerms": "Oct 30 1994 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 30 1994 Africa Earthquake",
+    "totalResults": "509000",
+    "searchTerms": "Oct 30 1994 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.460129,
+  "formattedSearchTime": "0.46",
+  "totalResults": "509000",
+  "formattedTotalResults": "509,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The October 30, 1994, seismic disturbance in South Africa ...",
+   "htmlTitle": "The \u003cb\u003eOctober 30, 1994\u003c/b\u003e, \u003cb\u003eseismic\u003c/b\u003e disturbance in South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.agu.org/pubs/crossref/1997/97JB00509.shtml",
+   "displayLink": "www.agu.org",
+   "snippet": "The relative amplitude method is applied to body waves recorded at teleseismic   distances from the October 30, 1994, mb 5.6 seismic disturbance, in South ...",
+   "htmlSnippet": "The relative amplitude method is applied to body waves recorded at teleseismic \u003cbr\u003e  distances from the \u003cb\u003eOctober 30, 1994\u003c/b\u003e, mb 5.6 \u003cb\u003eseismic\u003c/b\u003e disturbance, in South \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.agu.org/pubs/crossref/1997/97JB00509.shtml",
+   "htmlFormattedUrl": "www.agu.org/pubs/crossref/1997/97JB00509.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.publisher": "American Geophysical Union",
+      "dc.language": "en",
+      "dc.rights": "?? 2008 American Geophysical Union",
+      "dc.title": "The October 30, 1994, seismic disturbance in South Africa: Earthquake or large rock burst?",
+      "dc.creator": "David Bowers",
+      "dc.identifier": "doi:10.1029/97JB00509",
+      "dc.source": "Citation: Bowers, D. (1997), The October 30, 1994, seismic disturbance in South Africa: Earthquake or large rock burst?, J. Geophys. Res., 102(B5), 9843???9857, doi:10.1029/97JB00509.",
+      "dc.date": "NaN",
+      "prism.copyright": "?? 2008 American Geophysical Union",
+      "prism.rightsagent": "author.help@agu.org",
+      "prism.publicationname": "Journal of Geophysical Research",
+      "prism.issn": "0148-0227",
+      "prism.eissn": "0148-0227",
+      "prism.publicationdate": "NaN",
+      "prism.volume": "102",
+      "prism.number": "B5",
+      "prism.startingpage": "null",
+      "citation_journal_title": "Journal of Geophysical Research",
+      "citation_publisher": "American Geophysical Union",
+      "citation_authors": "David Bowers",
+      "citation_title": "The October 30, 1994, seismic disturbance in South Africa: Earthquake or large rock burst?",
+      "citation_date": "NaN",
+      "citation_year": "1997",
+      "citation_volume": "102",
+      "citation_issue": "B5",
+      "citation_firstpage": "9843",
+      "citation_lastpage": "9857",
+      "citation_issn": "0148-0227",
+      "citation_language": "English",
+      "citation_doi": "doi:10.1029/97JB00509",
+      "citation_abstract": "The relative amplitude method is applied to body waves recorded at teleseismic distances from the October 30, 1994, mb 5.6 seismic disturbance, in South Africa, to determine the source depth and moment tensor. The results indicate that the source is shallow and that moment tensors with a positive volume change component are inconsistent with the observations. Observations of Rg in the frequency range 0.5???2.0 Hz at two regional distance stations also indicate that the source is shallow (less than about 3 km deep). Three-component broadband and long-period seismograms recorded at regional distances show strong Love wave excitation and a lobed Rayleigh radiation pattern, observations that are inconsistent with collapse mechanisms recently proposed for some large rock bursts (mine tremors). Modeling of teleseismic broadband P and regional distance surface waves shows that the source depth is shallow (2???3 km) and that the observed source radiation is consistent with that expected from a 45?? normal dip-slip fa",
+      "citation_pdf_url": "http://www.agu.org/journals/jb/v102/iB05/97JB00509/97JB00509.pdf",
+      "citation_abstract_html_url": "http://www.agu.org/pubs/crossref/1997/97JB00509.shtml",
+      "fulltext_pdf": "http://www.agu.org/journals/jb/v102/iB05/97JB00509/97JB00509.pdf",
+      "citation_author_institution": "AWE Blacknest, Reading, England",
+      "citation_journal_abbrev": "J. Geophys. Res.",
+      "citation_reference": "citation_title=The October 30, 1994, seismic disturbance in South Africa: Earthquake or large rock burst?; citation_author=David Bowers; citation_journal_title=Journal of Geophysical Research; citation_volume=102; citation_number=B5; citation_pages=9843; citation_year=1997",
+      "indexterm": "7200 Seismology"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Ecuador ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Ecuador \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "2 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed ... Mongolia, 1957 -   Magnitude : 8.1 ??? 30 people killed ..... Philippines, 1994 - Magnitude : 7.1 ??? 78   people killed ... After the quake struck off the west coast of Haida Gwaii on Oct. 27   at 8:04 p.m. PT, emergency officials in B.C. did not issue any sort of ...",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e...\u003c/b\u003e Mongolia, 1957 - \u003cbr\u003e  Magnitude : 8.1 ??? \u003cb\u003e30\u003c/b\u003e people killed \u003cb\u003e.....\u003c/b\u003e Philippines, \u003cb\u003e1994\u003c/b\u003e - Magnitude : 7.1 ??? 78 \u003cbr\u003e  people killed \u003cb\u003e...\u003c/b\u003e After the \u003cb\u003equake\u003c/b\u003e struck off the west coast of Haida Gwaii on \u003cb\u003eOct\u003c/b\u003e. 27 \u003cbr\u003e  at 8:04 p.m. PT, emergency officials in B.C. did not issue any sort of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Read also: links to all 30 prior parts of this eruption report please go to the ....   Earthquakes to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4 ...",
+   "htmlSnippet": "Read also: links to all \u003cb\u003e30\u003c/b\u003e prior parts of this eruption report please go to the \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Characteristics and Mechanisms of Rockbursts",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Characteristics and Mechanisms of Rockbursts",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADP204470",
+   "displayLink": "www.dtic.mil",
+   "snippet": "problems for seismic monitoring of potential underground nuclear explosion ....   The South African mine tremor of 10/30/94 occurred in the Orange Free State ...",
+   "htmlSnippet": "problems for \u003cb\u003eseismic\u003c/b\u003e monitoring of potential underground nuclear explosion \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The South \u003cb\u003eAfrican\u003c/b\u003e mine tremor of \u003cb\u003e10/30/94\u003c/b\u003e occurred in the Orange Free State \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "th3NcNL_B6oJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADP204470",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADP204470"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1994 - Earthquake Hazards Program - USGS",
+   "htmlTitle": "\u003cb\u003e1994\u003c/b\u003e - \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program - USGS",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1994",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 6.1, NORTHERN SUMATRA, INDONESIA, Oct 31 1994, 11:48:15, 3.036, 96.193,   199410311148. 5.1, SOUTH AFRICA, Oct 30 1994, 06:06:28 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 6.1, NORTHERN SUMATRA, INDONESIA, Oct 31 1994, 11:48:15, 3.036, 96.193, \u003cbr\u003e  199410311148. 5.1, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eOct 30 1994\u003c/b\u003e, 06:06:28 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bIcI3-sSRhAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1994",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1994\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Investigations of the Seismic Characteristics of Rockbursts PHILLIPS ...",
+   "htmlTitle": "Investigations of the \u003cb\u003eSeismic\u003c/b\u003e Characteristics of Rockbursts PHILLIPS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA304549",
+   "displayLink": "www.dtic.mil",
+   "snippet": "South African Mine Tremor of October 30,1994. 19. 3.1 Background. 19 ... from 31   mine tremors and 10 southern Africa earthquakes (after. Bennett et al., 1993).",
+   "htmlSnippet": "South \u003cb\u003eAfrican\u003c/b\u003e Mine Tremor of \u003cb\u003eOctober 30,1994\u003c/b\u003e. 19. 3.1 Background. 19 \u003cb\u003e...\u003c/b\u003e from 31 \u003cbr\u003e  mine tremors and 10 southern \u003cb\u003eAfrica earthquakes\u003c/b\u003e (after. Bennett et al., 1993).",
+   "cacheId": "UzDB6Eg_GVEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA304549",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA304549",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:191030121130606",
+      "title": "/tardir/mig/a304549.tiff",
+      "creator": "LuraDocument PDF Compressor Server 5.7.66.46 (original: tif_convert_2_ps())",
+      "producer": "Recoded by LuraDocument PDF v2.46",
+      "moddate": "D:20111003100123-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Source Characterization and Energy Partitioning from In",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Source Characterization and Energy Partitioning from In",
+   "link": "http://www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2005/PAPERS/03-15.pdf",
+   "displayLink": "www.ldeo.columbia.edu",
+   "snippet": "Rand gold-mining region of South Africa, approximately 80 km southwest of .....   events as well based on the well-studied large event of October 30, 1994 (e.g. ...",
+   "htmlSnippet": "Rand gold-mining region of South \u003cb\u003eAfrica\u003c/b\u003e, approximately 80 km southwest of \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  events as well based on the well-studied large event of \u003cb\u003eOctober 30, 1994\u003c/b\u003e (e.g. \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5vH68j6OM3EJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2005/.../03-15.pdf",
+   "htmlFormattedUrl": "www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2005/.../03-15.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050825084659-06'00'",
+      "author": "marvw",
+      "creator": "FrameMaker 7.0",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20050825084721-06'00'",
+      "title": "Ammon_ir37mf27o0s7-P.fm"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "here - Welcome to AWE Blacknest",
+   "htmlTitle": "here - Welcome to AWE Blacknest",
+   "link": "http://www.blacknest.gov.uk/older_publications.html",
+   "displayLink": "www.blacknest.gov.uk",
+   "snippet": "Bowers, D. The October 30, 1994, seismic disturbance in South Africa:   Earthquake or large rock burst? JGR, Vl. 102, No. B5, 9843-9857 (May 10, 1997).",
+   "htmlSnippet": "Bowers, D. The \u003cb\u003eOctober 30\u003c/b\u003e, \u003cb\u003e1994\u003c/b\u003e, \u003cb\u003eseismic\u003c/b\u003e disturbance in South \u003cb\u003eAfrica\u003c/b\u003e: \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e or large rock burst? JGR, Vl. 102, No. B5, 9843-9857 (May 10, 1997).",
+   "cacheId": "eIOGcMdyaxUJ",
+   "formattedUrl": "www.blacknest.gov.uk/older_publications.html",
+   "htmlFormattedUrl": "www.blacknest.gov.uk/older_publications.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "copyright": "??2010. All rights reserved.",
+      "language": "English (UK)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "DEVELOPING AND EXPLOITING A UNIQUE SEISMIC DATA SET ...",
+   "htmlTitle": "DEVELOPING AND EXPLOITING A UNIQUE \u003cb\u003eSEISMIC\u003c/b\u003e DATA SET \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2007/PAPERS/01-19.PDF",
+   "displayLink": "www.ldeo.columbia.edu",
+   "snippet": "Soc. Am. 76: 1069???1086, 1986. Bowers, D. (1997). The October 30, 1994 seismic   disturbance in South Africa: Earthquake or large rockburst? J. Geophys. Res.",
+   "htmlSnippet": "Soc. Am. 76: 1069???1086, 1986. Bowers, D. (1997). The \u003cb\u003eOctober 30, 1994 seismic\u003c/b\u003e \u003cbr\u003e  disturbance in South \u003cb\u003eAfrica\u003c/b\u003e: \u003cb\u003eEarthquake\u003c/b\u003e or large rockburst? J. Geophys. Res.",
+   "cacheId": "ZZhj40SgmjgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2007/.../01-19.PDF",
+   "htmlFormattedUrl": "www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2007/.../01-19.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070816113514-06'00'",
+      "author": "169005",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20070821100322-06'00'",
+      "title": "Microsoft Word - nyblade_54_au37ds0#3C1B39"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Characteristics and Mechanisms of Rockbursts, - Storming ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Characteristics and Mechanisms of Rockbursts, - Storming \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.stormingmedia.us/07/0744/P074402.html",
+   "displayLink": "www.stormingmedia.us",
+   "snippet": "Our investigations have focussed primarily on regional seismic signal ... the   October 30, 1994 (M = 5.6) mine tremor in South Africa, the March 11, 1995 (M =   4.0) ...",
+   "htmlSnippet": "Our investigations have focussed primarily on regional \u003cb\u003eseismic\u003c/b\u003e signal \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  \u003cb\u003eOctober 30, 1994\u003c/b\u003e (M = 5.6) mine tremor in South \u003cb\u003eAfrica\u003c/b\u003e, the March 11, 1995 (M = \u003cbr\u003e  4.0) \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.stormingmedia.us/07/0744/P074402.html",
+   "htmlFormattedUrl": "www.stormingmedia.us/07/0744/P074402.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Storming Media",
+      "netinsert": "0.0.1.6.4.1"
+     }
+    ]
+   }
+  }
+ ]
+}

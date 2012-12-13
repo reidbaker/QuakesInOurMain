@@ -1,0 +1,314 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 19 1906 Eurasia Earthquake",
+    "totalResults": "12000",
+    "searchTerms": "Nov 19 1906 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 19 1906 Eurasia Earthquake",
+    "totalResults": "12000",
+    "searchTerms": "Nov 19 1906 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.242465,
+  "formattedSearchTime": "0.24",
+  "totalResults": "12000",
+  "formattedTotalResults": "12,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Have earthquakes happened in Australia",
+   "htmlTitle": "Have \u003cb\u003eearthquakes\u003c/b\u003e happened in Australia",
+   "link": "http://wiki.answers.com/Q/Have_earthquakes_happened_in_Australia",
+   "displayLink": "wiki.answers.com",
+   "snippet": "There have been a number of earthquakes in Australia, but generally they do not   cause ... pushed north and is colliding with the Eurasian, Philippine and Pacific   plates. ... On 19 November 1906 a large magnitude 7.6 earthquake hit the Indian ...",
+   "htmlSnippet": "There have been a number of \u003cb\u003eearthquakes\u003c/b\u003e in Australia, but generally they do not \u003cbr\u003e  cause \u003cb\u003e...\u003c/b\u003e pushed north and is colliding with the \u003cb\u003eEurasian\u003c/b\u003e, Philippine and Pacific \u003cbr\u003e  plates. \u003cb\u003e...\u003c/b\u003e On \u003cb\u003e19 November 1906\u003c/b\u003e a large magnitude 7.6 \u003cb\u003eearthquake\u003c/b\u003e hit the Indian \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NExmABHmwY4J",
+   "formattedUrl": "wiki.answers.com/Q/Have_earthquakes_happened_in_Australia",
+   "htmlFormattedUrl": "wiki.answers.com/Q/Have_\u003cb\u003eearthquakes\u003c/b\u003e_happened_in_Australia",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "//rxf.answcdn.com/includes/images/icons/a-icon.png"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Answers.com",
+      "url": "Answers.com"
+     },
+     {
+      "title": "Wiki Answers",
+      "url": "Wiki Answers"
+     },
+     {
+      "title": "Categories",
+      "url": "Categories"
+     },
+     {
+      "title": "Science",
+      "url": "Science"
+     },
+     {
+      "title": "Earth Sciences",
+      "url": "Earth Sciences"
+     },
+     {
+      "title": "Natural Disasters",
+      "url": "Natural Disasters"
+     },
+     {
+      "title": "Earthquakes",
+      "url": "Earthquakes"
+     }
+    ],
+    "metatags": [
+     {
+      "abtest": "mode_id=-1",
+      "fb:app_id": "168416999909992",
+      "og:image": "//rxf.answcdn.com/includes/images/icons/a-icon.png",
+      "og:site_name": "Answers.com",
+      "og:title": "Answer to: Have earthquakes happened in Australia?",
+      "og:description": "There have been a number of earthquakes in Australia, but generally they do not cause major damage. Many of them are simply seismic activity many.",
+      "og:type": "answers-com:answer",
+      "og:url": "http://wiki.answers.com/Q/Have_earthquakes_happened_in_Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Most of the earthquakes registered in Taiwan actually occur off the east coast and   ... in a number of major earthquakes, including the 1906 Meishan earthquake   and the ... November 15, 1916, 06:31, Central Taiwan, 24.1, 120.9, 3, 6.2, 1, 97 ...   1941, 03:19, Chiayi, 23.4, 120.5, 12, 7.1, 358, 4,520, 1941 Zhongpu earthquake ...",
+   "htmlSnippet": "Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in Taiwan actually occur off the east coast and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e in a number of major \u003cb\u003eearthquakes\u003c/b\u003e, including the \u003cb\u003e1906\u003c/b\u003e Meishan \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  and the \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNovember\u003c/b\u003e 15, 1916, 06:31, Central Taiwan, 24.1, 120.9, 3, 6.2, 1, 97 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1941, 03:\u003cb\u003e19\u003c/b\u003e, Chiayi, 23.4, 120.5, 12, 7.1, 358, 4,520, 1941 Zhongpu \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.8 - 174km SSW of Kokopo, Papua New Guinea 2012-11-19 11 ...",
+   "htmlTitle": "M4.8 - 174km SSW of Kokopo, Papua New Guinea 2012-11-\u003cb\u003e19\u003c/b\u003e 11 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000duv3",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 19, 2012 ... Earthquake location 5.885??S, 151.871??E ... Page Last Modified: November 19,   2012 14:01:55 UTC ... 1 events in 1906 1919 2007 the western end of the   australia pacific plate boundary perhaps the most ... separates australia from the   eurasia plate including the sunda block portion is dominantly convergent ...",
+   "htmlSnippet": "Nov 19, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e location 5.885??S, 151.871??E \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eNovember 19\u003c/b\u003e, \u003cbr\u003e  2012 14:01:55 UTC \u003cb\u003e...\u003c/b\u003e 1 events in \u003cb\u003e1906\u003c/b\u003e 1919 2007 the western end of the \u003cbr\u003e  australia pacific plate boundary perhaps the most \u003cb\u003e...\u003c/b\u003e separates australia from the \u003cbr\u003e  \u003cb\u003eeurasia\u003c/b\u003e plate including the sunda block portion is dominantly convergent \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MYNhyd2Zf08J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000duv3",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000duv3"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Great Japan Earthquake of 1923 | History & Archaeology ...",
+   "htmlTitle": "The Great Japan \u003cb\u003eEarthquake\u003c/b\u003e of 1923 | History &amp; Archaeology \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.smithsonianmag.com/history-archaeology/The-Great-Japan-Earthquake-of-1923.html",
+   "displayLink": "www.smithsonianmag.com",
+   "snippet": "The powerful quake and ensuing tsunami that struck Yokohama and Tokyo   traumatized a nation ... itself against the Eurasian continental plate, releasing a   massive burst of tectonic energy. ..... If the 1923 Japan Earthquake forged the   path to World War II, then the 1906 San ... Posted by Tim Shey on May 19,2011 |   01:01 PM ...",
+   "htmlSnippet": "The powerful \u003cb\u003equake\u003c/b\u003e and ensuing tsunami that struck Yokohama and Tokyo \u003cbr\u003e  traumatized a nation \u003cb\u003e...\u003c/b\u003e itself against the \u003cb\u003eEurasian\u003c/b\u003e continental plate, releasing a \u003cbr\u003e  massive burst of tectonic energy. \u003cb\u003e.....\u003c/b\u003e If the 1923 Japan \u003cb\u003eEarthquake\u003c/b\u003e forged the \u003cbr\u003e  path to World War II, then the \u003cb\u003e1906\u003c/b\u003e San \u003cb\u003e...\u003c/b\u003e Posted by Tim Shey on May \u003cb\u003e19\u003c/b\u003e,2011 | \u003cbr\u003e  01:01 PM \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PJsAnOopEr4J",
+   "formattedUrl": "www.smithsonianmag.com/.../The-Great-Japan-Earthquake-of-1923.html",
+   "htmlFormattedUrl": "www.smithsonianmag.com/.../The-Great-Japan-\u003cb\u003eEarthquake\u003c/b\u003e-of-1923.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://media.smithsonianmag.com/images/Japan-Earthquake-Ueno-district-ablaze-388.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "306",
+      "height": "165",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBg2FxYBTuEpEMPrPyyVvVNbF4g8JpL7-JHXP80kKEWyIky2476YEcSGI"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "Copyright (c) 2012 Smithsonian Enterprises",
+      "doc-class": "Living Document",
+      "y_key": "4db4ce401959515c",
+      "msvalidate.01": "320310DE693C522666918FF173E165C5",
+      "alexaverifyid": "8NewHaRwFShfWTmgIEaXfldqwGc",
+      "og:title": "The Great Japan Earthquake of 1923",
+      "og:description": "The powerful quake and ensuing tsunami that struck Yokohama and Tokyo traumatized a nation and unleashed historic consequences",
+      "og:site_name": "Smithsonian magazine",
+      "og:image": "http://media.smithsonianmag.com/images/Japan-Earthquake-Ueno-district-ablaze-388.jpg",
+      "og:type": "article",
+      "og:url": "http://www.smithsonianmag.com/history-archaeology/The-Great-Japan-Earthquake-of-1923.html",
+      "fb:admins": "43600163",
+      "fb:app_id": "207775292647618"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "Even in the 19th and early 20th century, communications have remained poor   due to the skeletal ... Revised estimates of the Arabia-Eurasia convergence rate   based on recent GPS ..... SZ Sredneaziatskaya Zhizn 1906:222,262 ....   Kondorskaya N., Shebalin N. (1997) Nov'i katalog sil'nih zemletriasenii na   territorii SSSR, Izd.",
+   "htmlSnippet": "Even in the \u003cb\u003e19th\u003c/b\u003e and early 20th century, communications have remained poor \u003cbr\u003e  due to the skeletal \u003cb\u003e...\u003c/b\u003e Revised estimates of the Arabia-\u003cb\u003eEurasia\u003c/b\u003e convergence rate \u003cbr\u003e  based on recent GPS \u003cb\u003e.....\u003c/b\u003e SZ Sredneaziatskaya Zhizn \u003cb\u003e1906\u003c/b\u003e:222,262 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Kondorskaya N., Shebalin N. (1997) \u003cb\u003eNov\u003c/b\u003e&#39;i katalog sil&#39;nih zemletriasenii na \u003cbr\u003e  territorii SSSR, Izd.",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2005 Kashmir earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2005 Kashmir \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2005_Kashmir_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "It registered a moment magnitude of 7.6 making it similar in size to the 1906 ... As   of 8 November, the government of Pakistan's official death toll was 75,000. ...   Pakistan-administered Kashmir lies in the area of collision of the Eurasian .... \"  New figures put quake toll at more than 79,000\" AP, ,,MSNBC.com, 19 October   2005.",
+   "htmlSnippet": "It registered a moment magnitude of 7.6 making it similar in size to the \u003cb\u003e1906\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e As \u003cbr\u003e  of 8 \u003cb\u003eNovember\u003c/b\u003e, the government of Pakistan&#39;s official death toll was 75,000. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Pakistan-administered Kashmir lies in the area of collision of the \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e &quot;\u003cbr\u003e  New figures put \u003cb\u003equake\u003c/b\u003e toll at more than 79,000&quot; AP, ,,MSNBC.com, \u003cb\u003e19\u003c/b\u003e October \u003cbr\u003e  2005.",
+   "cacheId": "u0tW-q7uQXgJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2005_Kashmir_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2005_Kashmir_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2005_Pakistan_earthquake.png/240px-2005_Pakistan_earthquake.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "164",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Lq9Ge3rjnUDCV_TCtr7Il_UgWQ3LGKKeG2BzBEFJecJuWWEIZMdVWus"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a band of ... 1906, 32, 1936, 21, 1966, 19 ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a band of \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1906\u003c/b\u003e, 32, 1936, 21, 1966, \u003cb\u003e19\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 7 Earthquake Hazards",
+   "htmlTitle": "Chapter 7 \u003cb\u003eEarthquake\u003c/b\u003e Hazards",
+   "link": "http://www.geology.sdsu.edu/visualgeology/naturaldisasters/Chapters/Chapter7EarthquakeHazards.pdf",
+   "displayLink": "www.geology.sdsu.edu",
+   "snippet": "occurred on September 19 within the Cocos subduction zone at a depth of about   10 ??? 14 km,. i.e., along ... damage during the great 1906 7.8 Mw magnitude San   Francisco earthquake. Figure 3. ... Eurasian plate to the north, and the African   plate and Arabian microplate to the southeast ..... 14, 2005 and November 15,   2006.",
+   "htmlSnippet": "occurred on September \u003cb\u003e19\u003c/b\u003e within the Cocos subduction zone at a depth of about \u003cbr\u003e  10 ??? 14 km,. i.e., along \u003cb\u003e...\u003c/b\u003e damage during the great \u003cb\u003e1906\u003c/b\u003e 7.8 Mw magnitude San \u003cbr\u003e  Francisco \u003cb\u003eearthquake\u003c/b\u003e. Figure 3. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e plate to the north, and the African \u003cbr\u003e  plate and Arabian microplate to the southeast \u003cb\u003e.....\u003c/b\u003e 14, 2005 and \u003cb\u003eNovember\u003c/b\u003e 15, \u003cbr\u003e  2006.",
+   "cacheId": "ebGj5sGuqjoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geology.sdsu.edu/visualgeology/.../Chapter7EarthquakeHazards.pdf",
+   "htmlFormattedUrl": "www.geology.sdsu.edu/visualgeology/.../Chapter7\u003cb\u003eEarthquake\u003c/b\u003eHazards.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Gary",
+      "creationdate": "D:20090723141045-07'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20090723141045-07'00'",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "title": "Microsoft Word - Chapter7EarthquakeHazards"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Insurance in Turkey - ISBN: 0821365835",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Insurance in Turkey - ISBN: 0821365835",
+   "link": "http://siteresources.worldbank.org/FINANCIALSECTOR/Resources/TurkeyEQInsurance_Book.pdf",
+   "displayLink": "siteresources.worldbank.org",
+   "snippet": "Earthquake insurance in Turkey : history of the Turkish Catastrophe Pool / ...   Contents vii. 1.4. Framework of the MEER Emergency Response Loan. 19. 2.1 ...   Nov. 1???Oct. 31, 2001???5. 65. 3.3 The TCIP's Current Information Technology   System. 68. 4.1 .... industrialized area since the 1906 San Francisco and the   1923 Tokyo ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e insurance in Turkey : history of the Turkish Catastrophe Pool / \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Contents vii. 1.4. Framework of the MEER Emergency Response Loan. \u003cb\u003e19\u003c/b\u003e. 2.1 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNov\u003c/b\u003e. 1???Oct. 31, 2001???5. 65. 3.3 The TCIP&#39;s Current Information Technology \u003cbr\u003e  System. 68. 4.1 \u003cb\u003e....\u003c/b\u003e industrialized area since the \u003cb\u003e1906\u003c/b\u003e San Francisco and the \u003cbr\u003e  1923 Tokyo \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b0aZ1Bk8GcsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "siteresources.worldbank.org/.../Resources/TurkeyEQInsurance_Book.pdf",
+   "htmlFormattedUrl": "siteresources.worldbank.org/.../Resources/TurkeyEQInsurance_Book.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070211084852+05'30'",
+      "author": "Eugene Gurenko, Rodney Lester, Olivier Mahul and Serap Oguz Gonulal",
+      "creator": "Adobe Acrobat 7.0",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20070215085124-05'00'",
+      "title": "Earthquake Insurance in Turkey - ISBN: 0821365835"
+     }
+    ]
+   }
+  }
+ ]
+}

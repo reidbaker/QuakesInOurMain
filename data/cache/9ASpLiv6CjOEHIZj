@@ -1,0 +1,352 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 21 1956 Eurasia Earthquake",
+    "totalResults": "13900",
+    "searchTerms": "Jul 21 1956 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 21 1956 Eurasia Earthquake",
+    "totalResults": "13900",
+    "searchTerms": "Jul 21 1956 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.162156,
+  "formattedSearchTime": "0.16",
+  "totalResults": "13900",
+  "formattedTotalResults": "13,900"
+ },
+ "spelling": {
+  "correctedQuery": "July 21 1956 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 21 1956 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The northern part of Greece lies on the Eurasian Plate while the southern part   lies on the ... 9 July 1956, 03:11:39, Dodecanese, 36.9, 26.0, 56, 7.8, Ms   Triggered a tsunami that .... This page was last modified on 29 November 2012 at   21:10.",
+   "htmlSnippet": "The northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the southern part \u003cbr\u003e  lies on the \u003cb\u003e...\u003c/b\u003e 9 \u003cb\u003eJuly 1956\u003c/b\u003e, 03:11:39, Dodecanese, 36.9, 26.0, 56, 7.8, Ms \u003cbr\u003e  Triggered a tsunami that \u003cb\u003e....\u003c/b\u003e This page was last modified on 29 November 2012 at \u003cbr\u003e  \u003cb\u003e21\u003c/b\u003e:10.",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNCORRECTED PROOF",
+   "htmlTitle": "UNCORRECTED PROOF",
+   "link": "http://eost.u-strasbg.fr/semipgs/VitaFinzi_INDIA_qsr.pdf",
+   "displayLink": "eost.u-strasbg.fr",
+   "snippet": "As intraplate earthquakes are often not associated with major known faults their   ... collision with Eurasia. ..... the Anjar event of 21 July 1956 on a fault striking 55 ...",
+   "htmlSnippet": "As intraplate \u003cb\u003eearthquakes\u003c/b\u003e are often not associated with major known faults their \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e collision with \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e the Anjar event of \u003cb\u003e21 July 1956\u003c/b\u003e on a fault striking 55 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FFoYV8wMYYYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "eost.u-strasbg.fr/semipgs/VitaFinzi_INDIA_qsr.pdf",
+   "htmlFormattedUrl": "eost.u-strasbg.fr/semipgs/VitaFinzi_INDIA_qsr.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040225142729+05'30'",
+      "moddate": "D:20040225142729+05'30'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "title": "doi:10.1016/j.quascirev.2004.01.008",
+      "creator": "Elsevier"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History of India and How Safe Are We? | MapsofIndia Blog",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History of India and How Safe Are We? | MapsofIndia Blog",
+   "link": "http://blog.mapsofindia.com/2010/01/17/earthquake-history-of-india-and-how-safe-are-we/",
+   "displayLink": "blog.mapsofindia.com",
+   "snippet": "Jan 17, 2010... the history of mankind. Earthquakes have the power to uproot trees and send   them . ... 1956 JUL 21, ANJAR, GUJARAT, 7, NA. 1999 MAR 29 ...",
+   "htmlSnippet": "Jan 17, 2010\u003cb\u003e...\u003c/b\u003e the history of mankind. \u003cb\u003eEarthquakes\u003c/b\u003e have the power to uproot trees and send \u003cbr\u003e  them . \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1956 JUL 21\u003c/b\u003e, ANJAR, GUJARAT, 7, NA. 1999 MAR 29 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ffcqb1JllZMJ",
+   "formattedUrl": "blog.mapsofindia.com/.../earthquake-history-of-india-and-how-safe-are-we/",
+   "htmlFormattedUrl": "blog.mapsofindia.com/.../\u003cb\u003eearthquake\u003c/b\u003e-history-of-india-and-how-safe-are-we/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://198.65.139.229/~blogmap/wp-content/uploads/2010/01/india-map-seismiczone1.jpg?w=265"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "211",
+      "height": "239",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2leeGzDZT96uooxFP2gfNU4t1W15OAg7MNtlXS15kb4rRPTsY3xDus1hj"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "MapsofIndia Blog -",
+      "fb:admins": "100000703909807",
+      "og:title": "Earthquake History of India and How Safe Are We?",
+      "og:url": "http://blog.mapsofindia.com/2010/01/17/earthquake-history-of-india-and-how-safe-are-we/",
+      "og:type": "article"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "niharhazra",
+      "nickname": "niharhazra",
+      "photo": "http://0.gravatar.com/avatar/e8ae516e386da851f1974aff3c7d13d0?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "lowprice",
+      "nickname": "lowprice",
+      "url": "http://lowpricescan.com/",
+      "url_text": "lowprice",
+      "photo": "http://0.gravatar.com/avatar/e978566cceb0b568f4e55586667b24ce?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "glypeproxy US",
+      "url": "http://glypeproxy.us/",
+      "url_text": "glypeproxy US",
+      "photo": "http://0.gravatar.com/avatar/e1bf143e8e4cb8ce44d982164f721e67?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "mapsofindia1",
+      "photo": "http://1.gravatar.com/avatar/ffade411e9a37924af2b197e4d3c9eb7?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "Parvesh Malhotra",
+      "photo": "http://1.gravatar.com/avatar/7c742f2c045264f3b870508b003cd2fb?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "buy helmets online",
+      "url": "http://www.helmetwale.com/",
+      "url_text": "buy helmets online",
+      "photo": "http://0.gravatar.com/avatar/40b6c63f6b18f35725256c13a41796b4?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2.2. Active Faults 15-32",
+   "htmlTitle": "2.2. Active Faults 15-32",
+   "link": "http://www.st.hirosaki-u.ac.jp/~tamao/Gujarat/web/Gujarat_2_2.pdf",
+   "displayLink": "www.st.hirosaki-u.ac.jp",
+   "snippet": "has experienced two large magnitude earthquakes, i.e. the July 21, 1956 Anjar   with ML 7 and the 2001 event with .... the collision of Indian and Eurasian plates.",
+   "htmlSnippet": "has experienced two large magnitude \u003cb\u003eearthquakes\u003c/b\u003e, i.e. the \u003cb\u003eJuly 21, 1956\u003c/b\u003e Anjar \u003cbr\u003e  with ML 7 and the 2001 event with \u003cb\u003e....\u003c/b\u003e the collision of Indian and \u003cb\u003eEurasian\u003c/b\u003e plates.",
+   "cacheId": "iZik6ymHCqAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.st.hirosaki-u.ac.jp/~tamao/Gujarat/web/Gujarat_2_2.pdf",
+   "htmlFormattedUrl": "www.st.hirosaki-u.ac.jp/~tamao/Gujarat/web/Gujarat_2_2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20020730162914+09'00'",
+      "moddate": "D:20020730162914+09'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "negishi",
+      "creator": "Pscript.dll Version 5.0",
+      "title": "Gujarat_2_2.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SCIENCE OF TSUNAMI HAZARDS",
+   "htmlTitle": "SCIENCE OF TSUNAMI HAZARDS",
+   "link": "http://tsunamisociety.org/304GPC.pdf",
+   "displayLink": "tsunamisociety.org",
+   "snippet": "interaction with the African and Eurasian tectonic plates and examines and   evaluates ... earthquakes on July 21, 365 AD along the western coast of the   Island of Crete ..... that occurred on 9 July 1956 near the southwest coast of the   island of ...",
+   "htmlSnippet": "interaction with the African and \u003cb\u003eEurasian\u003c/b\u003e tectonic plates and examines and \u003cbr\u003e  evaluates \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e on \u003cb\u003eJuly 21\u003c/b\u003e, 365 AD along the western coast of the \u003cbr\u003e  Island of Crete \u003cb\u003e.....\u003c/b\u003e that occurred on 9 \u003cb\u003eJuly 1956\u003c/b\u003e near the southwest coast of the \u003cbr\u003e  island of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "atR5A7Zadi8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "tsunamisociety.org/304GPC.pdf",
+   "htmlFormattedUrl": "tsunamisociety.org/304GPC.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "304GPC",
+      "author": "Admin",
+      "producer": "Mac OS X 10.7.2 Quartz PDFContext",
+      "creator": "Word",
+      "creationdate": "D:20111227151430Z00'00'",
+      "moddate": "D:20111227151430Z00'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1. Tectonic Setting",
+   "htmlTitle": "1. Tectonic Setting",
+   "link": "http://www.st.hirosaki-u.ac.jp/~tamao/Gujarat/print/Gujarat_1.pdf",
+   "displayLink": "www.st.hirosaki-u.ac.jp",
+   "snippet": "Jan 26, 2001 ... Eurasian plates collide, and about 400 km east of the junction between .... Source   parameters of the Anjar earthquake of July 21, 1956, India, ...",
+   "htmlSnippet": "Jan 26, 2001 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e plates collide, and about 400 km east of the junction between \u003cb\u003e....\u003c/b\u003e Source \u003cbr\u003e  parameters of the Anjar \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eJuly 21, 1956\u003c/b\u003e, India, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "doUViOfrBPEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.st.hirosaki-u.ac.jp/~tamao/Gujarat/print/Gujarat_1.pdf",
+   "htmlFormattedUrl": "www.st.hirosaki-u.ac.jp/~tamao/Gujarat/print/Gujarat_1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Gujarat_1.doc (??????????????????) - Microsoft Word",
+      "creationdate": "D:20020711220537",
+      "title": "Gujarat_1.doc",
+      "author": "negishi",
+      "producer": "Acrobat PDFWriter 5.0 Windows NT"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tip",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tip",
+   "link": "http://www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "Eurasian Plate (Figure 1) and going under the Eurasian. Plate; this ... 30,000. 15   Aug. 1950 Assam. 19:31. 8.5. X. 1,530. 21 Jul. 1956 Anjar. 21:02. 7.0. IX. 115 ...",
+   "htmlSnippet": "\u003cb\u003eEurasian\u003c/b\u003e Plate (Figure 1) and going under the \u003cb\u003eEurasian\u003c/b\u003e. Plate; this \u003cb\u003e...\u003c/b\u003e 30,000. 15 \u003cbr\u003e  Aug. 1950 Assam. 19:31. 8.5. X. 1,530. \u003cb\u003e21 Jul. 1956\u003c/b\u003e Anjar. 21:02. 7.0. IX. 115 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ChwROW281zgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20091012130112+05'30'",
+      "author": "admin",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20091012130112+05'30'",
+      "title": "Microsoft Word - EQTip04.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tips",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tips",
+   "link": "http://www.ourvmc.org/Files/EQTips_Full.pdf",
+   "displayLink": "www.ourvmc.org",
+   "snippet": "Tip 21: Why are Open-Ground Storey Buildings Vulnerable in Earthquakes? 41 ...   North American. Plate. Antarctic Plate. Eurasian. Plate. African. Plate. South .....   30,000. 15 Aug. 1950 Assam. 19:31. 8.5. X. 1,530. 21 Jul. 1956 Anjar. 21:02. 7.0 ...",
+   "htmlSnippet": "Tip 21: Why are Open-Ground Storey Buildings Vulnerable in \u003cb\u003eEarthquakes\u003c/b\u003e? 41 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  North American. Plate. Antarctic Plate. \u003cb\u003eEurasian\u003c/b\u003e. Plate. African. Plate. South \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  30,000. 15 Aug. 1950 Assam. 19:31. 8.5. X. 1,530. \u003cb\u003e21 Jul. 1956\u003c/b\u003e Anjar. 21:02. 7.0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eJE3wg7LCwYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "htmlFormattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050816131846+05'30'",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20050816133329+05'30'",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.5 - 104km SE of Phek, India 2012-11-02 21:31:48 UTC",
+   "htmlTitle": "M4.5 - 104km SE of Phek, India 2012-11-02 \u003cb\u003e21\u003c/b\u003e:31:48 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000djpa",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 2, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... (INTERIOR/USGS-2) published at 74 FR 34033 (July 14, 2009). ...   beneath Eurasia generates numerous earthquakes and consequently makes ....   Between 1930 and 1956, six M7.0+ earthquakes occurred near the ...",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e (INTERIOR/USGS-2) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  beneath \u003cb\u003eEurasia\u003c/b\u003e generates numerous \u003cb\u003eearthquakes\u003c/b\u003e and consequently makes \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Between 1930 and \u003cb\u003e1956\u003c/b\u003e, six M7.0+ \u003cb\u003eearthquakes\u003c/b\u003e occurred near the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z1n22y4sYJMJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000djpa",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000djpa"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Shallowing of mafic crust and seismic instability in the high velocity ...",
+   "htmlTitle": "Shallowing of mafic crust and \u003cb\u003eseismic\u003c/b\u003e instability in the high velocity \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://rd.springer.com/article/10.1007/s12594-009-0176-8",
+   "displayLink": "rd.springer.com",
+   "snippet": "Detailed study of nine such earthquake localities (as appended ...",
+   "htmlSnippet": "Detailed study of nine such \u003cb\u003eearthquake\u003c/b\u003e localities (as appended \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KtAx1J8-1PsJ",
+   "formattedUrl": "rd.springer.com/article/10.1007/s12594-009-0176-8",
+   "htmlFormattedUrl": "rd.springer.com/article/10.1007/s12594-009-0176-8",
+   "pagemap": {
+    "person": [
+     {
+      "name": "O. P. Pandey"
+     },
+     {
+      "name": "O. P. Pandey"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, minimum-scale=1, maximum-scale=1",
+      "format-detection": "telephone=no",
+      "citation_publisher": "Springer-Verlag",
+      "citation_title": "Shallowing of mafic crust and seismic instability in the high velocity Indian Shield",
+      "citation_firstpage": "615",
+      "citation_lastpage": "624",
+      "citation_doi": "10.1007/s12594-009-0176-8",
+      "citation_language": "en",
+      "citation_abstract_html_url": "http://link.springer.com/article/10.1007/s12594-009-0176-8",
+      "citation_pdf_url": "http://link.springer.com/content/pdf/10.1007%2Fs12594-009-0176-8",
+      "citation_author": "O. P. Pandey",
+      "citation_author_institution": "National Geophysical Research Institute (Council of Scientific & Industrial Research)",
+      "citation_author_email": "om_pandey@rediffmail.com",
+      "citation_journal_title": "Journal of the Geological Society of India",
+      "citation_journal_abbrev": "J Geol Soc India",
+      "citation_volume": "74",
+      "citation_issue": "5",
+      "citation_issn": "0016-7622",
+      "citation_online_date": "2009/11/18",
+      "citation_publication_date": "2009/11/01"
+     }
+    ],
+    "scholarlyarticle": [
+     {
+      "datepublished": "November 2009",
+      "headline": "Shallowing of mafic crust and seismic instability in the high velocity Indian Shield",
+      "description": "Indian shield has been frequented by number of large and moderate magnitude damaging earthquakes since historical times, including the recent disastrous ones like Latur Mw 6.3 in 1993, Jabalpur...",
+      "image": "http://rd.springer.com/static-content/0.5825/covers/journals/831/12594.jpg",
+      "publisher": "Springer-Verlag",
+      "genre": "Hydrogeology Geology",
+      "keywords": "Granulites Seismic instability Earthquakes Uplift P- and S-wave velocities Indian shield"
+     }
+    ]
+   }
+  }
+ ]
+}

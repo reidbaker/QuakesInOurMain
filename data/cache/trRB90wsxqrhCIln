@@ -1,0 +1,319 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 8 1900 Eurasia Earthquake",
+    "totalResults": "21300",
+    "searchTerms": "Feb 8 1900 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 8 1900 Eurasia Earthquake",
+    "totalResults": "21300",
+    "searchTerms": "Feb 8 1900 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.192237,
+  "formattedSearchTime": "0.19",
+  "totalResults": "21300",
+  "formattedTotalResults": "21,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the M 9.0 massive Tohoku, Sendai, Japan ...",
+   "htmlTitle": "Understanding the M 9.0 massive Tohoku, Sendai, Japan \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/03/18/understanding-the-m-9-0-massive-tohoku-sendai-japan-earthquake-and-tsunami/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 18, 2011 ... The magnitude 9.0 Tohoku earthquake on March 11, 2011, which occurred near   the northeast coast of Honshu, Japan, resulted from thrust ...",
+   "htmlSnippet": "Mar 18, 2011 \u003cb\u003e...\u003c/b\u003e The magnitude 9.0 Tohoku \u003cb\u003eearthquake\u003c/b\u003e on March 11, 2011, which occurred near \u003cbr\u003e  the northeast coast of Honshu, Japan, resulted from thrust \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Tplkh4qcUSQJ",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-m-9-0-massive-tohoku-sendai- japan-earthquake-and-tsunami/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-m-9-0-massive-tohoku-sendai- japan-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/c0001xgp/download/intensity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "243",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXWCqPl96ZTVvHm0RV-CGIcezhrz6dl7_ycaDASHXh1OS906dV7j5ZLDXh"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "polat",
+      "nickname": "polat"
+     },
+     {
+      "fn": "bryce",
+      "nickname": "bryce",
+      "url": "http://google/",
+      "url_text": "bryce"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Deterministic seismic hazard macrozonation of India",
+   "htmlTitle": "Deterministic \u003cb\u003eseismic\u003c/b\u003e hazard macrozonation of India",
+   "link": "http://www.ias.ac.in/jess/oct2012/1351.pdf",
+   "displayLink": "www.ias.ac.in",
+   "snippet": "Earthquakes are known to have occurred in Indian subcontinent from ancient   times. This paper presents ... the Indian and Eurasian plates converge at the rate   of 50 mm/year (Bilham ...... 8th February 1900; Indian J. Meteorol. Geophys. 15(2) ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e are known to have occurred in Indian subcontinent from ancient \u003cbr\u003e  times. This paper presents \u003cb\u003e...\u003c/b\u003e the Indian and \u003cb\u003eEurasian\u003c/b\u003e plates converge at the rate \u003cbr\u003e  of 50 mm/year (Bilham \u003cb\u003e......\u003c/b\u003e \u003cb\u003e8th February 1900\u003c/b\u003e; Indian J. Meteorol. Geophys. 15(2) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QnxqpO2JzQwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ias.ac.in/jess/oct2012/1351.pdf",
+   "htmlFormattedUrl": "www.ias.ac.in/jess/oct2012/1351.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20121012101305+08'00'",
+      "creator": "LaTeX with hyperref package",
+      "moddate": "D:20121012101305+08'00'",
+      "producer": "Acrobat Distiller 10.0.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Moderate earthquake near Tangshan, China reminds the 1976 ...",
+   "htmlTitle": "Moderate \u003cb\u003eearthquake\u003c/b\u003e near Tangshan, China reminds the 1976 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/28/moderate-earthquake-near-tangshan-china-reminds-the-1976-disaster-also-felt-in-beijing-today/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 31, 2012 ... Earthquakes with a magnitude of M7 or more since 1900 in today's epicenter   area - image courtesy USGS ... Depth (Hypocenter) : 8 km (CENC) ...",
+   "htmlSnippet": "May 31, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e with a magnitude of M7 or more since \u003cb\u003e1900\u003c/b\u003e in today&#39;s epicenter \u003cbr\u003e  area - image courtesy USGS \u003cb\u003e...\u003c/b\u003e Depth (Hypocenter) : \u003cb\u003e8\u003c/b\u003e km (CENC) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P7WIm5zAJ-EJ",
+   "formattedUrl": "earthquake-report.com/.../moderate-earthquake-near-tangshan-china-reminds -the-1976-disaster-also-felt-in-beijing-today/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../moderate-\u003cb\u003eearthquake\u003c/b\u003e-near-tangshan-china-reminds -the-1976-disaster-also-felt-in-beijing-today/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/cn-28052012-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "198",
+      "height": "255",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudtnFaHh2iFzDoAMutICniQYadV1TH-iL-XbqKxM-qFwzRU6pe1aQEYvA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since \u003cb\u003e1900\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since \u003cb\u003e1900\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the deadly Uzbekistan / Kyrgyzstan earthquake (July ...",
+   "htmlTitle": "Understanding the deadly Uzbekistan / Kyrgyzstan \u003cb\u003eearthquake\u003c/b\u003e (July \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/23/understanding-the-deadly-uzbekistan-kyrgyzstan-earthquake-july-19-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 23, 2011 ... Historic very strong to massive earthquakes since 1900 in the greater epicenter   area. Historic earthquakes in the immediate vicinity of the July ...",
+   "htmlSnippet": "Jul 23, 2011 \u003cb\u003e...\u003c/b\u003e Historic very strong to massive \u003cb\u003eearthquakes\u003c/b\u003e since \u003cb\u003e1900\u003c/b\u003e in the greater epicenter \u003cbr\u003e  area. Historic \u003cb\u003eearthquakes\u003c/b\u003e in the immediate vicinity of the July \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rpCzs7eVVO8J",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-deadly-uzbekistan-kyrgyzstan- earthquake-july-19-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-deadly-uzbekistan-kyrgyzstan- \u003cb\u003eearthquake\u003c/b\u003e-july-19-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/07/uzbek-23072011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "250",
+      "height": "202",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRal41NG-xMjnq5yWVPqiwMOoqm97CsTOBRkkc2mTkYMrYDP0v9MIvG24I1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.8 - 28km NNW of Yongchang, China 2012-12-01 15:16:47 UTC",
+   "htmlTitle": "M4.\u003cb\u003e8\u003c/b\u003e - 28km NNW of Yongchang, China 2012-12-01 15:16:47 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000e1z9",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Dec 1, 2012 ... Northward underthrusting of India beneath Eurasia generates numerous   earthquakes and consequently makes this area one of the most ...",
+   "htmlSnippet": "Dec 1, 2012 \u003cb\u003e...\u003c/b\u003e Northward underthrusting of India beneath \u003cb\u003eEurasia\u003c/b\u003e generates numerous \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e and consequently makes this area one of the most \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tkP5Pl2p4sQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000e1z9",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000e1z9"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in India",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 27, 2011 ... The earthquakes listed are covering a time frame from 1900 until 2010. .... is due   to the Indian plate pushing northward into the Eurasian plate.",
+   "htmlSnippet": "Jan 27, 2011 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquakes\u003c/b\u003e listed are covering a time frame from \u003cb\u003e1900\u003c/b\u003e until 2010. \u003cb\u003e....\u003c/b\u003e is due \u003cbr\u003e  to the Indian plate pushing northward into the \u003cb\u003eEurasian\u003c/b\u003e plate.",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/26/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-india/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Jos???? Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tip",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tip",
+   "link": "http://www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "Where are the Seismic Zones in India? ... Eurasian Plate (Figure 1) and going   under the Eurasian. Plate; this process of ... 8 Feb. 1900 Coimbatore 03:11. 6.0. X ...",
+   "htmlSnippet": "Where are the \u003cb\u003eSeismic\u003c/b\u003e Zones in India? \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate (Figure 1) and going \u003cbr\u003e  under the \u003cb\u003eEurasian\u003c/b\u003e. Plate; this process of \u003cb\u003e...\u003c/b\u003e \u003cb\u003e8 Feb. 1900\u003c/b\u003e Coimbatore 03:11. 6.0. X \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ChwROW281zgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20091012130112+05'30'",
+      "author": "admin",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20091012130112+05'30'",
+      "title": "Microsoft Word - EQTip04.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tips",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tips",
+   "link": "http://www.ourvmc.org/Files/EQTips_Full.pdf",
+   "displayLink": "www.ourvmc.org",
+   "snippet": "While the subject of earthquake engineering has its own sophistication and a lot   of new research is ...... 17:11. 8.7. XII. 1,500. 8 Feb. 1900 Coimbatore 03:11. 6.0 ...",
+   "htmlSnippet": "While the subject of \u003cb\u003eearthquake\u003c/b\u003e engineering has its own sophistication and a lot \u003cbr\u003e  of new research is \u003cb\u003e......\u003c/b\u003e 17:11. 8.7. XII. 1,500. \u003cb\u003e8 Feb. 1900\u003c/b\u003e Coimbatore 03:11. 6.0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eJE3wg7LCwYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "htmlFormattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050816131846+05'30'",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20050816133329+05'30'",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "6 Major earthquakes; 7 Prediction; 8 Preparedness; 9 Historical views; 10   Earthquakes in culture .... Another example is the strongly oblique convergent   plate boundary between the Arabian and Eurasian plates where it .... The United   States Geological Survey estimates that, since 1900, there have ..... February 10,   2009.",
+   "htmlSnippet": "6 Major \u003cb\u003eearthquakes\u003c/b\u003e; 7 Prediction; \u003cb\u003e8\u003c/b\u003e Preparedness; 9 Historical views; 10 \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e in culture \u003cb\u003e....\u003c/b\u003e Another example is the strongly oblique convergent \u003cbr\u003e  plate boundary between the Arabian and \u003cb\u003eEurasian\u003c/b\u003e plates where it \u003cb\u003e....\u003c/b\u003e The United \u003cbr\u003e  States Geological Survey estimates that, since \u003cb\u003e1900\u003c/b\u003e, there have \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eFebruary\u003c/b\u003e 10, \u003cbr\u003e  2009.",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ?????????, ????????? ???????????? ?????? ????????? ????????? ???????????? ????????????. ?????? ????????? ?????? ??? ??????????????? ??????????????? ???????????? ?????? ????????? ??????????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,253 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 27 1913 Asia Earthquake",
+    "totalResults": "67100",
+    "searchTerms": "Oct 27 1913 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 27 1913 Asia Earthquake",
+    "totalResults": "67100",
+    "searchTerms": "Oct 27 1913 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.218101,
+  "formattedSearchTime": "0.22",
+  "totalResults": "67100",
+  "formattedTotalResults": "67,100"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes, Floods and Landslides",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e, Floods and Landslides",
+   "link": "http://www.icsu.org/icsu-asia/publications/science-planning-reports/science-plan-on-hazards-and-disasters/Earthquake-%20Floods%20-%20Landslides.pdf",
+   "displayLink": "www.icsu.org",
+   "snippet": "THE PLAN FOR ASIA AND THE PACIFIC. 25. Earthquakes. 26. Floods. 27.   Landslides ..... discussion at the ICSU General Assembly scheduled for October   2008. ..... 1913. 1. TB10A. 1931. 1. 1941. 2. TB10. 1930. 2. 194. 1. Port Blair.   2010. 10 ...",
+   "htmlSnippet": "THE PLAN FOR \u003cb\u003eASIA\u003c/b\u003e AND THE PACIFIC. 25. \u003cb\u003eEarthquakes\u003c/b\u003e. 26. Floods. \u003cb\u003e27\u003c/b\u003e. \u003cbr\u003e  Landslides \u003cb\u003e.....\u003c/b\u003e discussion at the ICSU General Assembly scheduled for \u003cb\u003eOctober\u003c/b\u003e \u003cbr\u003e  2008. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1913\u003c/b\u003e. 1. TB10A. 1931. 1. 1941. 2. TB10. 1930. 2. 194. 1. Port Blair. \u003cbr\u003e  2010. 10 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gkywd6I53kEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.icsu.org/...asia/.../Earthquake-%20Floods%20-%20Landslides.pdf",
+   "htmlFormattedUrl": "www.icsu.org/...\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-%20Floods%20-%20Landslides.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081128230311-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20081129072011+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? Asia Minor ... M 6.8   Fatalities 2,266; 2003 05 27 - Northern Algeria - M 5.8 Fatalities 9 ..... 1908 12 12   - Off the Coast of Central Peru - M 8.2; 1913 11 04 - Abancay, Peru ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? \u003cb\u003eAsia\u003c/b\u003e Minor \u003cb\u003e...\u003c/b\u003e M 6.8 \u003cbr\u003e  Fatalities 2,266; 2003 05 \u003cb\u003e27\u003c/b\u003e - Northern Algeria - M 5.8 Fatalities 9 \u003cb\u003e.....\u003c/b\u003e 1908 12 12 \u003cbr\u003e  - Off the Coast of Central Peru - M 8.2; \u003cb\u003e1913\u003c/b\u003e 11 04 - Abancay, Peru \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKES: WHAT NEEDS TO BE DONE IN ASIA",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKES\u003c/b\u003e: WHAT NEEDS TO BE DONE IN \u003cb\u003eASIA\u003c/b\u003e",
+   "link": "http://www.scj.go.jp/en/sca/activities/conferences/conf_8_projects/pdf/n2.pdf",
+   "displayLink": "www.scj.go.jp",
+   "snippet": "Asia is seismically one of the most. Earthquake prone regions in the world. The   recent earthquake of 12th May 2008 in China, ... 27 ???Jul-96 ... 5 ??? Oct ??? 1948 ....   1913. 1. TB10A. 1931. 1. 1941. 2. TB10. 1930. 2. 1945. 1. Port Blair. 2010. 10 ...",
+   "htmlSnippet": "\u003cb\u003eAsia\u003c/b\u003e is seismically one of the most. \u003cb\u003eEarthquake\u003c/b\u003e prone regions in the world. The \u003cbr\u003e  recent \u003cb\u003eearthquake\u003c/b\u003e of 12th May 2008 in China, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e27\u003c/b\u003e ???Jul-96 \u003cb\u003e...\u003c/b\u003e 5 ??? \u003cb\u003eOct\u003c/b\u003e ??? 1948 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1913\u003c/b\u003e. 1. TB10A. 1931. 1. 1941. 2. TB10. 1930. 2. 1945. 1. Port Blair. 2010. 10 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.scj.go.jp/en/sca/activities/conferences/conf_8_projects/pdf/n2.pdf",
+   "htmlFormattedUrl": "www.scj.go.jp/en/sca/activities/conferences/conf_8_projects/pdf/n2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "company": "NGRI",
+      "creationdate": "D:20080603091232+09'00'",
+      "creator": "PowerPoint ??? Acrobat PDFMaker 8.1",
+      "moddate": "D:20110421204712+09'00'",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 50,000 or More Deaths",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 50,000 or More Deaths",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/most_destructive.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Date UTC, Location, Deaths, Magnitude, Comments.",
+   "htmlSnippet": "Date UTC, Location, Deaths, Magnitude, Comments.",
+   "cacheId": "Lqtp1s1LRLAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/most_destructive.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/most_destructive.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An earthquake (also known as a quake, tremor or temblor) is the result of a ... was   a 9.0 magnitude earthquake in Japan in 2011 (as of October 2012), and it was   the ..... inferred for older anomalous clusters of large earthquakes in the Middle   East. .... By such analyses of seismograms the Earth's core was located in 1913   by ...",
+   "htmlSnippet": "An \u003cb\u003eearthquake\u003c/b\u003e (also known as a \u003cb\u003equake\u003c/b\u003e, tremor or temblor) is the result of a \u003cb\u003e...\u003c/b\u003e was \u003cbr\u003e  a 9.0 magnitude \u003cb\u003eearthquake\u003c/b\u003e in Japan in 2011 (as of \u003cb\u003eOctober\u003c/b\u003e 2012), and it was \u003cbr\u003e  the \u003cb\u003e.....\u003c/b\u003e inferred for older anomalous clusters of large \u003cb\u003eearthquakes\u003c/b\u003e in the Middle \u003cbr\u003e  East. \u003cb\u003e....\u003c/b\u003e By such analyses of seismograms the Earth&#39;s core was located in \u003cb\u003e1913\u003c/b\u003e \u003cbr\u003e  by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ?????????, ????????? ???????????? ?????? ????????? ????????? ???????????? ????????????. ?????? ????????? ?????? ??? ??????????????? ??????????????? ???????????? ?????? ????????? ??????????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dr. Charles Schencking",
+   "htmlTitle": "Dr. Charles Schencking",
+   "link": "http://www.history.hku.hk/people/staff-charles-schencking.html",
+   "displayLink": "www.history.hku.hk",
+   "snippet": "His book entitled The Great Kant?? Earthquake and the Chimera of National   Reconstruction in ... Kanto Earthquake of 1923,\" Modern Asian Studies 40:4 (  October 2006): 833-874. ... in Japan, 1890-1913,\" in Sandra Wilson, ed., Nation   and Nationalism in Japan, (London: ... Japanese Studies 27:2 (September 2007):   212-215.",
+   "htmlSnippet": "His book entitled The Great Kant?? \u003cb\u003eEarthquake\u003c/b\u003e and the Chimera of National \u003cbr\u003e  Reconstruction in \u003cb\u003e...\u003c/b\u003e Kanto \u003cb\u003eEarthquake\u003c/b\u003e of 1923,&quot; Modern \u003cb\u003eAsian\u003c/b\u003e Studies 40:4 (\u003cbr\u003e  \u003cb\u003eOctober\u003c/b\u003e 2006): 833-874. \u003cb\u003e...\u003c/b\u003e in Japan, 1890-\u003cb\u003e1913\u003c/b\u003e,&quot; in Sandra Wilson, ed., Nation \u003cbr\u003e  and Nationalism in Japan, (London: \u003cb\u003e...\u003c/b\u003e Japanese Studies \u003cb\u003e27\u003c/b\u003e:2 (September 2007): \u003cbr\u003e  212-215.",
+   "cacheId": "3XsTvKntU2UJ",
+   "formattedUrl": "www.history.hku.hk/people/staff-charles-schencking.html",
+   "htmlFormattedUrl": "www.history.hku.hk/people/staff-charles-schencking.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.history.hku.hk/people/images/staff-charles-schencking.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "124",
+      "height": "172",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaAUP_u5uKCPCFA1Tuv5WaUwWUkkD2KnCZamsCO7SOriMvlgci2O_30g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption,   landslide, hurricanes etc. ... September, October, 1887 ..... August 26???27, 1883 ...",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cbr\u003e  landslide, hurricanes etc. \u003cb\u003e...\u003c/b\u003e September, \u003cb\u003eOctober\u003c/b\u003e, 1887 \u003cb\u003e.....\u003c/b\u003e August 26???\u003cb\u003e27\u003c/b\u003e, 1883 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Most Deadly 100 Natural Disasters of the 20TH Century",
+   "htmlTitle": "The Most Deadly 100 Natural Disasters of the 20TH Century",
+   "link": "http://www.disastercenter.com/disaster/TOP100K.html",
+   "displayLink": "www.disastercenter.com",
+   "snippet": "Country, Year, Day, Month, Disaster, Region, Continent, Killed ...",
+   "htmlSnippet": "Country, Year, Day, Month, Disaster, Region, Continent, Killed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FVKd2KJQEXsJ",
+   "formattedUrl": "www.disastercenter.com/disaster/TOP100K.html",
+   "htmlFormattedUrl": "www.disastercenter.com/disaster/TOP100K.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Christopher Effgen"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude (misc units) over time for deadly earthquakes since 1900. The   following list .... 1910-06-24 13:27, Algeria, 36.100, 3.400, 33, 6.4 UK, 81. 1911-  01-03 23: ... 1913-06-14 09:33, Bulgaria, 43.500, 25.500, 0, 6.8 UK, 500. 1913-08  -06 22: ...",
+   "htmlSnippet": "Magnitude (misc units) over time for deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900. The \u003cbr\u003e  following list \u003cb\u003e....\u003c/b\u003e 1910-06-24 13:\u003cb\u003e27\u003c/b\u003e, Algeria, 36.100, 3.400, 33, 6.4 UK, 81. 1911-\u003cbr\u003e  01-03 23: \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1913\u003c/b\u003e-06-14 09:33, Bulgaria, 43.500, 25.500, 0, 6.8 UK, 500. \u003cb\u003e1913\u003c/b\u003e-08\u003cbr\u003e  -06 22: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  }
+ ]
+}

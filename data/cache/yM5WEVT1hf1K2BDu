@@ -1,0 +1,289 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 22 1939 Eurasia Earthquake",
+    "totalResults": "13200",
+    "searchTerms": "Jun 22 1939 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 22 1939 Eurasia Earthquake",
+    "totalResults": "13200",
+    "searchTerms": "Jun 22 1939 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.206844,
+  "formattedSearchTime": "0.21",
+  "totalResults": "13200",
+  "formattedTotalResults": "13,200"
+ },
+ "spelling": {
+  "correctedQuery": "June 22 1939 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 22 1939 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "M5.3 - 2km ENE of Silopi, Turkey 2012-06-14 05:52:54 UTC",
+   "htmlTitle": "M5.3 - 2km ENE of Silopi, Turkey 2012-06-14 05:52:54 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000aflu",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jun 14, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... Page Last Modified: June 22, 2012 11:53:34 UTC ... moving   northwards at a rate of about 40 mm/yr and colliding with the Eurasian plate. ...   Between 1939 and 1999 a series of devastating M7+ strike-slip earthquakes ...",
+   "htmlSnippet": "Jun 14, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e Page Last Modified: \u003cb\u003eJune 22\u003c/b\u003e, 2012 11:53:34 UTC \u003cb\u003e...\u003c/b\u003e moving \u003cbr\u003e  northwards at a rate of about 40 mm/yr and colliding with the \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Between \u003cb\u003e1939\u003c/b\u003e and 1999 a series of devastating M7+ strike-slip \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xKGeGEEXvZQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000aflu",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000aflu"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "June 2, 1859, 10:30, Erzurum see 1859 ... October 22, 1926, 21:59 local time,   Kars ... see 1939 Erzincan earthquake, 39.77, 39.53, 32,700, 7.8, MS, USGS ...",
+   "htmlSnippet": "\u003cb\u003eJune\u003c/b\u003e 2, 1859, 10:30, Erzurum see 1859 \u003cb\u003e...\u003c/b\u003e October \u003cb\u003e22\u003c/b\u003e, 1926, 21:59 local time, \u003cbr\u003e  Kars \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1939\u003c/b\u003e Erzincan \u003cb\u003eearthquake\u003c/b\u003e, 39.77, 39.53, 32,700, 7.8, MS, USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude-7.2 Earthquake in Eastern Turkey | Science Features",
+   "htmlTitle": "Magnitude-7.2 \u003cb\u003eEarthquake\u003c/b\u003e in Eastern Turkey | Science Features",
+   "link": "http://www.usgs.gov/blogs/features/usgs_top_story/earthquake-in-eastern-turkey/",
+   "displayLink": "www.usgs.gov",
+   "snippet": "Oct 24, 2011 ... In 1939, a magnitude-7.8 earthquake struck near Erzincan, killing an ... the   Arabian plate converges with Eurasia in a northerly direction at a ...",
+   "htmlSnippet": "Oct 24, 2011 \u003cb\u003e...\u003c/b\u003e In \u003cb\u003e1939\u003c/b\u003e, a magnitude-7.8 \u003cb\u003eearthquake\u003c/b\u003e struck near Erzincan, killing an \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  Arabian plate converges with \u003cb\u003eEurasia\u003c/b\u003e in a northerly direction at a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1qvEm99TTdUJ",
+   "formattedUrl": "www.usgs.gov/blogs/features/usgs.../earthquake-in-eastern-turkey/",
+   "htmlFormattedUrl": "www.usgs.gov/blogs/features/usgs.../\u003cb\u003eearthquake\u003c/b\u003e-in-eastern-turkey/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.usgs.gov/blogs/features/files/2011/10/Turkey-shakemap-300x169.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "135",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzs_KN4OII5UOfv-aJKjg3dBcFS08acZ3ropSLkxrcGDMq6_AwRSvPqwrz"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An earthquake (also known as a quake, tremor or temblor) is the result of a   sudden .... the North Anatolian Fault in Turkey (1939) and the Denali Fault in   Alaska (2002), are ... convergent plate boundary between the Arabian and   Eurasian plates where it ... between small tidally induced forces and non-volcanic   tremor activity.",
+   "htmlSnippet": "An \u003cb\u003eearthquake\u003c/b\u003e (also known as a \u003cb\u003equake\u003c/b\u003e, tremor or temblor) is the result of a \u003cbr\u003e  sudden \u003cb\u003e....\u003c/b\u003e the North Anatolian Fault in Turkey (\u003cb\u003e1939\u003c/b\u003e) and the Denali Fault in \u003cbr\u003e  Alaska (2002), are \u003cb\u003e...\u003c/b\u003e convergent plate boundary between the Arabian and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plates where it \u003cb\u003e...\u003c/b\u003e between small tidally induced forces and non-volcanic \u003cbr\u003e  tremor activity.",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ?????????, ????????? ???????????? ?????? ????????? ????????? ???????????? ????????????. ?????? ????????? ?????? ??? ??????????????? ??????????????? ???????????? ?????? ????????? ??????????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Risk in Africa: A community leader's guide",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Risk in Africa: A community leader&#39;s guide",
+   "link": "http://www.ipred-iisee.org/database/housing%20safety/Benouar-Booklet-Disaster-Community.pdf",
+   "displayLink": "www.ipred-iisee.org",
+   "snippet": "For many of African countries, earthquake hazard constitutes a serious threat to   .... along the border of the African and Eurasian plates. In North .... 1939 Jun. 22 ...",
+   "htmlSnippet": "For many of African countries, \u003cb\u003eearthquake\u003c/b\u003e hazard constitutes a serious threat to \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e along the border of the African and \u003cb\u003eEurasian\u003c/b\u003e plates. In North \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1939 Jun. 22\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M_jx6b7OIKoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipred-iisee.org/database/.../Benouar-Booklet-Disaster-Community.pdf",
+   "htmlFormattedUrl": "www.ipred-iisee.org/database/.../Benouar-Booklet-Disaster-Community.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050408084455+02'00'",
+      "moddate": "D:20050408084455+02'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "Benouar",
+      "creator": "PScript5.dll Version 5.2.2",
+      "title": "Microsoft Word - Final-Version-Earthquake Risk in Africa-Community -Guide-09.12.04.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are ... One of the largest earthquakes ever was the Chile event of   22 May 1960 with moment magnitude of 9.5 ... 1 November 1755, magnitude 8.7   Ms; Assam, 12 June 1897, magnitude 8.7 Ms; Alaska, ... 1909, 32, 1939, 21, 1969  , 27 ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are \u003cb\u003e...\u003c/b\u003e One of the largest \u003cb\u003eearthquakes\u003c/b\u003e ever was the Chile event of \u003cbr\u003e  \u003cb\u003e22\u003c/b\u003e May 1960 with moment magnitude of 9.5 \u003cb\u003e...\u003c/b\u003e 1 November 1755, magnitude 8.7 \u003cbr\u003e  Ms; Assam, 12 \u003cb\u003eJune\u003c/b\u003e 1897, magnitude 8.7 Ms; Alaska, \u003cb\u003e...\u003c/b\u003e 1909, 32, \u003cb\u003e1939\u003c/b\u003e, 21, 1969\u003cbr\u003e  , 27 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes of Dhaka | Syed Humayun Akhter - Academia.edu",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e of Dhaka | Syed Humayun Akhter - Academia.edu",
+   "link": "http://www.academia.edu/429823/Earthquakes_of_Dhaka",
+   "displayLink": "www.academia.edu",
+   "snippet": "In broad terms, Bangladesh is an earthquake-prone country; its northern and   eastern ... These form two boundaries where plates converge??? the India-Eurasia   plate ..... and 7,253 deaths were reported in adjoining parts of India (Dunn et al.,   1939). ..... 5: 22-44. Oldham, R. D. 1899. Report of the Great Earthquake of 12th   June ...",
+   "htmlSnippet": "In broad terms, Bangladesh is an \u003cb\u003eearthquake\u003c/b\u003e-prone country; its northern and \u003cbr\u003e  eastern \u003cb\u003e...\u003c/b\u003e These form two boundaries where plates converge??? the India-\u003cb\u003eEurasia\u003c/b\u003e \u003cbr\u003e  plate \u003cb\u003e.....\u003c/b\u003e and 7,253 deaths were reported in adjoining parts of India (Dunn et al., \u003cbr\u003e  \u003cb\u003e1939\u003c/b\u003e). \u003cb\u003e.....\u003c/b\u003e 5: \u003cb\u003e22\u003c/b\u003e-44. Oldham, R. D. 1899. Report of the Great \u003cb\u003eEarthquake\u003c/b\u003e of 12th \u003cbr\u003e  \u003cb\u003eJune\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oQzGGKBogVMJ",
+   "formattedUrl": "www.academia.edu/429823/Earthquakes_of_Dhaka",
+   "htmlFormattedUrl": "www.academia.edu/429823/\u003cb\u003eEarthquakes\u003c/b\u003e_of_Dhaka",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://2.academia-assets.com/images/open-graph-icons/fb-paper.gif?a73840d740bdbb95f6ef159ee5afa482"
+     }
+    ],
+    "person": [
+     {
+      "url": "Syed Humayun Akhter",
+      "name": "Syed Humayun Akhter"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "2369844204",
+      "og:type": "article",
+      "og:url": "http://www.academia.edu/429823/Earthquakes_of_Dhaka",
+      "og:title": "Earthquakes of Dhaka",
+      "og:image": "http://2.academia-assets.com/images/open-graph-icons/fb-paper.gif?a73840d740bdbb95f6ef159ee5afa482",
+      "og:description": "\"Introduction: Dhaka, one of the oldest historical cities in the Indian sub-continent and now the capital of Bangladesh, is vulnerable to earthquakes. In broad terms, Bangladesh is an earthquake-prone country; its northern and eastern regions in",
+      "article:author": "http://univdhaka.academia.edu/SyedHumayunAkhter"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Turkey - All About Turkey",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Turkey - All About Turkey",
+   "link": "http://www.allaboutturkey.com/deprem.htm",
+   "displayLink": "www.allaboutturkey.com",
+   "snippet": "The North Anatolian fault has produced seven large (MS) 7.0 earthquakes in the   period from 1939 through 1999. These earthquakes have ruptured the fault ...",
+   "htmlSnippet": "The North Anatolian fault has produced seven large (MS) 7.0 \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cbr\u003e  period from \u003cb\u003e1939\u003c/b\u003e through 1999. These \u003cb\u003eearthquakes\u003c/b\u003e have ruptured the fault \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CTyIXW07OJwJ",
+   "formattedUrl": "www.allaboutturkey.com/deprem.htm",
+   "htmlFormattedUrl": "www.allaboutturkey.com/deprem.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Statistical Review of World Energy June 2012",
+   "htmlTitle": "Statistical Review of World Energy \u003cb\u003eJune\u003c/b\u003e 2012",
+   "link": "http://www.bp.com/assets/bp_internet/globalbp/globalbp_uk_english/reports_and_publications/statistical_energy_review_2011/STAGING/local_assets/pdf/statistical_review_of_world_energy_full_report_2012.pdf",
+   "displayLink": "www.bp.com",
+   "snippet": "22 Production and consumption ... Energy June 2012 does not necessarily meet   the definitions, guidelines and ... The earthquake and tsunami in Japan was a   humanitarian ..... Eurasia. Middle. East. Africa. Asia. Pacific. 2011 by region.   World proved oil reserves at the end of 2011 reached 1652.6 billion barrels,   sufficient to ...",
+   "htmlSnippet": "\u003cb\u003e22\u003c/b\u003e Production and consumption \u003cb\u003e...\u003c/b\u003e Energy \u003cb\u003eJune\u003c/b\u003e 2012 does not necessarily meet \u003cbr\u003e  the definitions, guidelines and \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e and tsunami in Japan was a \u003cbr\u003e  humanitarian \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e. Middle. East. Africa. Asia. Pacific. 2011 by region. \u003cbr\u003e  World proved oil reserves at the end of 2011 reached 1652.6 billion barrels, \u003cbr\u003e  sufficient to \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.bp.com/.../statistical_review_of_world_energy_full_report_2012.pdf",
+   "htmlFormattedUrl": "www.bp.com/.../statistical_review_of_world_energy_full_report_2012.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "BP",
+      "creationdate": "D:20120607145923+01'00'",
+      "creator": "Adobe InDesign CS5 (7.0.4)",
+      "moddate": "D:20120607151320+01'00'",
+      "producer": "Acrobat Distiller 10.1.2 (Macintosh)",
+      "title": "Statistical Review of World Energy June 2012"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Progressive failure on the North Anatolian fault since 1939 by ...",
+   "htmlTitle": "Progressive failure on the North Anatolian fault since \u003cb\u003e1939\u003c/b\u003e by \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ipgp.fr/~armijo/paraseminario/Stein-97.pdf",
+   "displayLink": "www.ipgp.fr",
+   "snippet": "few measurements of the 1939-44 earthquake fault slip (Ambraseys, 1970; Ketin,   ...... 31.1??1.3??N) Anatolia-Eurasia rotation pole, which lies at the intersection of   the .... 22. 5.4. 25. 28.6. 1966. 19 Aug. 6.6. 0.6. 15. 8.2. 55. 30.0. 1967. 22 Jul. 7.0.   2.7 ..... resulting from the California earthquake sequence of April to June 1992, ...",
+   "htmlSnippet": "few measurements of the \u003cb\u003e1939\u003c/b\u003e-44 \u003cb\u003eearthquake\u003c/b\u003e fault slip (Ambraseys, 1970; Ketin, \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e 31.1??1.3??N) Anatolia-\u003cb\u003eEurasia\u003c/b\u003e rotation pole, which lies at the intersection of \u003cbr\u003e  the \u003cb\u003e....\u003c/b\u003e \u003cb\u003e22\u003c/b\u003e. 5.4. 25. 28.6. 1966. 19 Aug. 6.6. 0.6. 15. 8.2. 55. 30.0. 1967. \u003cb\u003e22\u003c/b\u003e Jul. 7.0. \u003cbr\u003e  2.7 \u003cb\u003e.....\u003c/b\u003e resulting from the California \u003cb\u003eearthquake\u003c/b\u003e sequence of April to \u003cb\u003eJune\u003c/b\u003e 1992, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mr0DdRlBbwQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipgp.fr/~armijo/paraseminario/Stein-97.pdf",
+   "htmlFormattedUrl": "www.ipgp.fr/~armijo/paraseminario/Stein-97.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20051026180646+02'00'",
+      "creationdate": "D:20051026175831+02'00'",
+      "creator": "Safari",
+      "producer": "Mac OS X 10.3.9 Quartz PDFContext"
+     }
+    ]
+   }
+  }
+ ]
+}

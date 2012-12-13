@@ -1,0 +1,287 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 31 1955 South America Earthquake",
+    "totalResults": "97100",
+    "searchTerms": "Jan 31 1955 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 31 1955 South America Earthquake",
+    "totalResults": "97100",
+    "searchTerms": "Jan 31 1955 South America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.239597,
+  "formattedSearchTime": "0.24",
+  "totalResults": "97100",
+  "formattedTotalResults": "97,100"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "The intraplate Porto dos Ga??chos seismic zone in the Amazon craton",
+   "htmlTitle": "The intraplate Porto dos Ga??chos \u003cb\u003eseismic\u003c/b\u003e zone in the Amazon craton",
+   "link": "http://www.ovsicori.una.ac.cr/index.php?option=com_phocadownload&view=category&download=370:the-intraplate-porto-dos-gauchos-seismic-zone-in-the-amazon-craton--brazil&id=1:sismologia&Itemid=86",
+   "displayLink": "www.ovsicori.una.ac.cr",
+   "snippet": "Serra do Tombador, Mato Grosso state ??? Brazil, on January 31, 1955 with a   magnitude of ..... of the most important seismic zones in mid-plate South America ...",
+   "htmlSnippet": "Serra do Tombador, Mato Grosso state ??? Brazil, on \u003cb\u003eJanuary 31, 1955\u003c/b\u003e with a \u003cbr\u003e  magnitude of \u003cb\u003e.....\u003c/b\u003e of the most important \u003cb\u003eseismic\u003c/b\u003e zones in mid-plate \u003cb\u003eSouth America\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "c18ijpqTUcAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ovsicori.una.ac.cr/index.php?option...seismic...",
+   "htmlFormattedUrl": "www.ovsicori.una.ac.cr/index.php?option...\u003cb\u003eseismic\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090326232402+08'00'",
+      "author": "Lucas Vieira Barros; Marcelo Assump????o; Ronnie Quintero; Daniel Caixeta",
+      "creator": "Elsevier",
+      "authoritativedomain_1_": "elsevier.com",
+      "authoritativedomain_2_": "sciencedirect.com",
+      "moddate": "D:20090327010731+08'00'",
+      "title": "The intraplate Porto dos Ga??chos seismic zone in the Amazon craton ??? Brazil"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Anthony Lomax - Publications and meeting presentations",
+   "htmlTitle": "Anthony Lomax - Publications and meeting presentations",
+   "link": "http://alomax.free.fr/pub_list.html",
+   "displayLink": "alomax.free.fr",
+   "snippet": "(2012), High-precision earthquake locations in Switzerland using regional   secondary ..... the enigma of the serra de tombador, mato grosso, brazil,   earthquake of jan. 31, 1955, the largest (mb = 6.6) known brazilian event, IASPEI   General ... to the Durance Network in the South of France, American Geophysical   Union ...",
+   "htmlSnippet": "(2012), High-precision \u003cb\u003eearthquake\u003c/b\u003e locations in Switzerland using regional \u003cbr\u003e  secondary \u003cb\u003e.....\u003c/b\u003e the enigma of the serra de tombador, mato grosso, brazil, \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003ejan. 31, 1955\u003c/b\u003e, the largest (mb = 6.6) known brazilian event, IASPEI \u003cbr\u003e  General \u003cb\u003e...\u003c/b\u003e to the Durance Network in the \u003cb\u003eSouth\u003c/b\u003e of France, \u003cb\u003eAmerican\u003c/b\u003e Geophysical \u003cbr\u003e  Union \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zXmXe1aFAT0J",
+   "formattedUrl": "alomax.free.fr/pub_list.html",
+   "htmlFormattedUrl": "alomax.free.fr/pub_list.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "created": "0;0",
+      "changedby": "Anthony Lomax",
+      "changed": "20121109;15163700"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Basement depths in the Parecis Basin (Amazon) with receiver ...",
+   "htmlTitle": "Basement depths in the Parecis Basin (Amazon) with receiver \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iag.usp.br/~marcelo/pdfs/BarrosAssumpcao_Local_RF_JSAmES2011.pdf",
+   "displayLink": "www.iag.usp.br",
+   "snippet": "The largest earthquake ever observed in the stable continental interior of the   South American plate (large circle in Fig. 1) occurred on January 31, 1955, in the ...",
+   "htmlSnippet": "The largest \u003cb\u003eearthquake\u003c/b\u003e ever observed in the stable continental interior of the \u003cbr\u003e  \u003cb\u003eSouth American\u003c/b\u003e plate (large circle in Fig. 1) occurred on \u003cb\u003eJanuary 31, 1955\u003c/b\u003e, in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "svtuQ5d7OH8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iag.usp.br/~marcelo/.../BarrosAssumpcao_Local_RF_JSAmES2011.pdf",
+   "htmlFormattedUrl": "www.iag.usp.br/~marcelo/.../BarrosAssumpcao_Local_RF_JSAmES2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "crossmarkdomains_2_": "elsevier.com",
+      "crossmarkmajorversiondate": "2010-04-23",
+      "creationdate": "7th July 2011",
+      "subject": "Journal of South American Earth Sciences, 32 (2011) 142-151. doi:10.1016/j.jsames.2011.04.002",
+      "author": "Lucas Vieira Barros",
+      "creationdate__text": "7th July 2011",
+      "creator": "Elsevier",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "elsevierwebpdfspecifications": "6.2",
+      "crossmarkdomainexclusive": "true",
+      "moddate": "D:20110707105908+05'30'",
+      "doi": "10.1016/j.jsames.2011.04.002",
+      "crossmarkdomains_1_": "sciencedirect.com",
+      "title": "Basement depths in the Parecis Basin (Amazon) with receiver functions from small local earthquakes in the Porto dos GaUchos seismic zone"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on January 31 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eJanuary 31\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/jan31.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "January 31, 1605 \"In Tokaido, Japan a major earthquake causes 5,000 ...   January 31, 1865 \"Congress passes 13th Amendment, abolishing slavery in   America .... effects travelled from the west coast of Scotland round to the south-  east coast of ... January 31, 1955 \"In Oakville Ontario the l09-day strike of Ford   workers at ...",
+   "htmlSnippet": "January 31, 1605 &quot;In Tokaido, Japan a major \u003cb\u003eearthquake\u003c/b\u003e causes 5,000 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  January 31, 1865 &quot;Congress passes 13th Amendment, abolishing slavery in \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e effects travelled from the west coast of Scotland round to the \u003cb\u003esouth\u003c/b\u003e-\u003cbr\u003e  east coast of \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary 31, 1955\u003c/b\u003e &quot;In Oakville Ontario the l09-day strike of Ford \u003cbr\u003e  workers at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2yp84DPs4BQJ",
+   "formattedUrl": "www.datesinhistory.com/jan31.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003ejan31\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Intraplate Seismogenic Zone of Porto dos Gauchos in the ...",
+   "htmlTitle": "The Intraplate Seismogenic Zone of Porto dos Gauchos in the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://adsabs.harvard.edu/abs/2007AGUSM.S51A..05B",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "7205 Continental crust (1219), 7215 Earthquake source observations (1240), ...   in the stable continent of the South America plate (6.2 mb on January 31, 1955).",
+   "htmlSnippet": "7205 Continental crust (1219), 7215 \u003cb\u003eEarthquake\u003c/b\u003e source observations (1240), \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  in the stable continent of the \u003cb\u003eSouth America\u003c/b\u003e plate (6.2 mb on \u003cb\u003eJanuary 31, 1955\u003c/b\u003e).",
+   "formattedUrl": "adsabs.harvard.edu/abs/2007AGUSM.S51A..05B",
+   "htmlFormattedUrl": "adsabs.harvard.edu/abs/2007AGUSM.S51A..05B",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/2007AGUSM.S51A..05B",
+      "citation_title": "The Intraplate Seismogenic Zone of Porto dos Gauchos in the Amazon Craton, Brazil",
+      "citation_authors": "Barros, L. V.; Assumpcao, M. S.; Quintero, R. Q.",
+      "citation_keywords": "7205 Continental crust (1219), 7215 Earthquake source observations (1240), 7230 Seismicity and tectonics (1207, 1217, 1240, 1242)",
+      "citation_date": "05/2007",
+      "citation_journal_title": "AGU Spring Meeting Abstracts",
+      "citation_firstpage": "05",
+      "prism.publicationname": "AGU Spring Meeting Abstracts",
+      "prism.volume": "-1",
+      "prism.startingpage": "05",
+      "dc.language": "en",
+      "dc.date": "2007-05",
+      "dc.source": "American Geophysical Union, Spring Meeting 2007, abstract #S51A-05",
+      "dc.title": "The Intraplate Seismogenic Zone of Porto dos Gauchos in the Amazon Craton, Brazil",
+      "dc.creator": "Barros, L. V."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Deaths from U.S. Earthquakes",
+   "htmlTitle": "Deaths from \u003cb\u003eU.S. Earthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/us_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zMzOhL0o33sJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/us_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/us_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 01902-09-19  September 19, 1902, Warooka, South Australia, Australia, 2, 6.0, ML, USGS ...   01906-01-31January 31, 1906, 15:36, Colombia???Ecuador see 1906 ..... 01955-  07-16July 16, 1955, 09:07 local time, S??ke, Ayd??n, Turkey, 37.55, 27.05, 23, 6.8,   MS ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 01902-09-19\u003cbr\u003e  September 19, 1902, Warooka, \u003cb\u003eSouth\u003c/b\u003e Australia, Australia, 2, 6.0, ML, USGS \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  01906-01-\u003cb\u003e31January 31\u003c/b\u003e, 1906, 15:36, Colombia???Ecuador see 1906 \u003cb\u003e.....\u003c/b\u003e 01955-\u003cbr\u003e  07-16July 16, \u003cb\u003e1955\u003c/b\u003e, 09:07 local time, S??ke, Ayd??n, Turkey, 37.55, 27.05, 23, 6.8, \u003cbr\u003e  MS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "1912 Jan 31 20:11:48, 61.0N, 147.5W, 7.0, Prince William Sound ... 1916 Feb 06   21:51:19, 48.5N, 178.5E, 7.7, South of Rat Islands. 1916 Apr ... 1955 Mar 14 13:  12:04.0, 52.5N, 173.5W, 7.0, Andreanof Islands .... Accessibility ?? FOIA ?? Privacy ??   Policies and Notices ?? In partnership with nehrp ?? Take Pride in America; USA.gov ...",
+   "htmlSnippet": "1912 \u003cb\u003eJan 31\u003c/b\u003e 20:11:48, 61.0N, 147.5W, 7.0, Prince William Sound \u003cb\u003e...\u003c/b\u003e 1916 Feb 06 \u003cbr\u003e  21:51:19, 48.5N, 178.5E, 7.7, \u003cb\u003eSouth\u003c/b\u003e of Rat Islands. 1916 Apr \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1955\u003c/b\u003e Mar 14 13:\u003cbr\u003e  12:04.0, 52.5N, 173.5W, 7.0, Andreanof Islands \u003cb\u003e....\u003c/b\u003e Accessibility &middot; FOIA &middot; Privacy &middot; \u003cbr\u003e  Policies and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake shakes Charleston, South Carolina ??? History.com This ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e shakes Charleston, \u003cb\u003eSouth\u003c/b\u003e Carolina ??? History.com This \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/earthquake-shakes-charleston-south-carolina",
+   "displayLink": "www.history.com",
+   "snippet": "An earthquake near Charleston, South Carolina, on this day in 1886 leaves more   ... August 31. This Day in History. Like This Day In History on Facebook ... attack,   1777; Automotive: William Cobb demonstrates first solar-powered car, 1955 ...   ever hit the American continent: the \"Big One\" in Miami in 1926, the New England ...",
+   "htmlSnippet": "An \u003cb\u003eearthquake\u003c/b\u003e near Charleston, \u003cb\u003eSouth\u003c/b\u003e Carolina, on this day in 1886 leaves more \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e August \u003cb\u003e31\u003c/b\u003e. This Day in History. Like This Day In History on Facebook \u003cb\u003e...\u003c/b\u003e attack, \u003cbr\u003e  1777; Automotive: William Cobb demonstrates first solar-powered car, \u003cb\u003e1955\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  ever hit the \u003cb\u003eAmerican\u003c/b\u003e continent: the &quot;Big One&quot; in Miami in 1926, the New England \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-XdMCf3badQJ",
+   "formattedUrl": "www.history.com/this.../earthquake-shakes-charleston-south-carolina",
+   "htmlFormattedUrl": "www.history.com/this.../\u003cb\u003eearthquake\u003c/b\u003e-shakes-charleston-\u003cb\u003esouth\u003c/b\u003e-carolina",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://shop.history.com/img/product/resized/752/00071418-344752_catl_100.jpg?k=952efb6c&pid=71418&s=catl&sn=history"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO52LP_bjEOZ77_mvTSOcq89xf0qGC7lsmCSVlxiVvLfl4xjNpdXIGMw"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Earthquake shakes Charleston, South Carolina ??? History.com This Day in History ??? 8/31/1886",
+      "asset_type_id": "6",
+      "network": "History",
+      "display_description": "An earthquake near Charleston, South Carolina, on this day in 1886 leaves more than 100 people dead and hundreds of buildings destroyed. This was the largest recorded earthquake in the history of the southeastern United States.",
+      "asset_id": "1092870",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Earthquake shakes Charleston, South Carolina ??? History.com This Day in History ??? 8/31/1886",
+      "og:description": "An earthquake near Charleston, South Carolina, on this day in 1886 leaves more than 100 people dead and hundreds of buildings destroyed. This was the largest recorded earthquake in the history of the southeastern United States.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/earthquake-shakes-charleston-south-carolina"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic Earthquakes in the United States and Its Territories",
+   "htmlTitle": "Historic \u003cb\u003eEarthquakes\u003c/b\u003e in the United States and Its Territories",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/historical_state.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... Puerto Rico ??? Rhode Island ???   South Carolina ??? South Dakota ??? Tennessee ??? Texas ... 1900 10 09 - Kodiak   Island, Alaska - M 7.7 ?? 1901 12 31 - Cook Inlet, Alaska - M 7.1 .... California - M   6.5 Fatalities 1 ?? 1955 10 24 - Concord, California - M 5.4 Fatalities 1 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e Puerto Rico ??? Rhode Island ??? \u003cbr\u003e  \u003cb\u003eSouth\u003c/b\u003e Carolina ??? \u003cb\u003eSouth\u003c/b\u003e Dakota ??? Tennessee ??? Texas \u003cb\u003e...\u003c/b\u003e 1900 10 09 - Kodiak \u003cbr\u003e  Island, Alaska - M 7.7 &middot; 1901 12 \u003cb\u003e31\u003c/b\u003e - Cook Inlet, Alaska - M 7.1 \u003cb\u003e....\u003c/b\u003e California - M \u003cbr\u003e  6.5 Fatalities 1 &middot; \u003cb\u003e1955\u003c/b\u003e 10 24 - Concord, California - M 5.4 Fatalities 1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wtOd-mlZMXgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/historical_state.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/historical_state.php"
+  }
+ ]
+}
