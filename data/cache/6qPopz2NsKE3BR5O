@@ -1,0 +1,262 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 28 1993 India Earthquake",
+    "totalResults": "501000",
+    "searchTerms": "Aug 28 1993 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 28 1993 India Earthquake",
+    "totalResults": "501000",
+    "searchTerms": "Aug 28 1993 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.341934,
+  "formattedSearchTime": "0.34",
+  "totalResults": "501000",
+  "formattedTotalResults": "501,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "6 days ago ... Did you know this earthquake happened on the same day in history ? ... and   damage and casualties in the Mumbai (Bombay) area, India. .... She died in 1993   at the age of 105. ... Two people killed and 28 houses damaged in Choco   Department. .... 45 miles east of the region hit by the August earthquake.",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e Did you know this \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in history ? \u003cb\u003e...\u003c/b\u003e and \u003cbr\u003e  damage and casualties in the Mumbai (Bombay) area, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e She died in \u003cb\u003e1993\u003c/b\u003e \u003cbr\u003e  at the age of 105. \u003cb\u003e...\u003c/b\u003e Two people killed and \u003cb\u003e28\u003c/b\u003e houses damaged in Choco \u003cbr\u003e  Department. \u003cb\u003e....\u003c/b\u003e 45 miles east of the region hit by the \u003cb\u003eAugust earthquake\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1993",
+   "htmlTitle": "\u003cb\u003e1993\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1993",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.9, MAHARASHTRA, INDIA, Aug 28 1993, 04:26:26, 17.334, 73.793,   199308280426. 5.0, NEAR THE COAST OF GUJARAT, INDIA, Aug 24 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.9, MAHARASHTRA, \u003cb\u003eINDIA\u003c/b\u003e, \u003cb\u003eAug 28 1993\u003c/b\u003e, 04:26:26, 17.334, 73.793, \u003cbr\u003e  199308280426. 5.0, NEAR THE COAST OF GUJARAT, \u003cb\u003eINDIA\u003c/b\u003e, Aug 24 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YXXTbW3WCpsJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1993",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1993\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Koynanagar - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Koynanagar - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Koynanagar",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Koynanagar is a town near the Koyna Hydroelectric Project in the Indian state of   Maharashtra. The area is one of ... August 28, 1993, 4.8, 5 km. February 1, 1994 ...",
+   "htmlSnippet": "Koynanagar is a town near the Koyna Hydroelectric Project in the \u003cb\u003eIndian\u003c/b\u003e state of \u003cbr\u003e  Maharashtra. The area is one of \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust 28, 1993\u003c/b\u003e, 4.8, 5 km. February 1, 1994 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b1ijNjKba2gJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Koynanagar",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Koynanagar"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Enhanced reservoir-induced earthquakes in Koyna region, India ...",
+   "htmlTitle": "Enhanced reservoir-induced \u003cb\u003eearthquakes\u003c/b\u003e in Koyna region, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.csulb.edu/~rodrigue/quake/gupta.pdf",
+   "displayLink": "www.csulb.edu",
+   "snippet": "National Geophysical Research Institute, Hyderabad-500 007, India. Received 9   ... burst of seismic activity in Koyna-Warna region began in August, 1993, and   was monitored with a close network of digital and ... occurred on 28 August, 1993  .",
+   "htmlSnippet": "National Geophysical Research Institute, Hyderabad-500 007, \u003cb\u003eIndia\u003c/b\u003e. Received 9 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e burst of \u003cb\u003eseismic\u003c/b\u003e activity in Koyna-Warna region began in August, 1993, and \u003cbr\u003e  was monitored with a close network of digital and \u003cb\u003e...\u003c/b\u003e occurred on \u003cb\u003e28 August, 1993\u003c/b\u003e\u003cbr\u003e  .",
+   "cacheId": "Gi3kXS3n5NAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.csulb.edu/~rodrigue/quake/gupta.pdf",
+   "htmlFormattedUrl": "www.csulb.edu/~rodrigue/\u003cb\u003equake\u003c/b\u003e/gupta.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:19970625120616",
+      "producer": "Acrobat Distiller 2.1 voor Windows",
+      "moddate": "D:19970710094659"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in India - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Indian subcontinent has a history of devastating earthquakes. The major   reason for the high ... see 1993 Latur earthquake, 18.08??N, 76.52??E, 9,748, 6.2 ...",
+   "htmlSnippet": "The \u003cb\u003eIndian\u003c/b\u003e subcontinent has a history of devastating \u003cb\u003eearthquakes\u003c/b\u003e. The major \u003cbr\u003e  reason for the high \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1993\u003c/b\u003e Latur \u003cb\u003eearthquake\u003c/b\u003e, 18.08??N, 76.52??E, 9,748, 6.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EBwHZvfyZioJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eIndia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Post-Earthquake Studies",
+   "htmlTitle": "Post-\u003cb\u003eEarthquake\u003c/b\u003e Studies",
+   "link": "http://www.iitk.ac.in/nicee/skj/eq_studies.htm",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "Killari (Latur) earthquake of September 1993 ... Sumatra earthquake and tsunami   (Indian mainland and A&N Islands) of December 2004 ... Earthquake of August   1988,\" Proceedings, Second International Conference on Recent Advances in ...   in Central India\", EERI Special Earthquake Report, EERI Newsletter, Vol. 28, No.",
+   "htmlSnippet": "Killari (Latur) \u003cb\u003eearthquake\u003c/b\u003e of September \u003cb\u003e1993\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Sumatra \u003cb\u003eearthquake\u003c/b\u003e and tsunami \u003cbr\u003e  (\u003cb\u003eIndian\u003c/b\u003e mainland and A&amp;N Islands) of December 2004 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eAugust\u003c/b\u003e \u003cbr\u003e  1988,&quot; Proceedings, Second International Conference on Recent Advances in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  in Central \u003cb\u003eIndia\u003c/b\u003e&quot;, EERI Special \u003cb\u003eEarthquake\u003c/b\u003e Report, EERI Newsletter, Vol. \u003cb\u003e28\u003c/b\u003e, No.",
+   "cacheId": "sfDZJ3hLFOAJ",
+   "formattedUrl": "www.iitk.ac.in/nicee/skj/eq_studies.htm",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/skj/eq_studies.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indian Earthquakes : An Overview ABSTRACT 1.0 INTRODUCTION ...",
+   "htmlTitle": "\u003cb\u003eIndian Earthquakes\u003c/b\u003e : An Overview ABSTRACT 1.0 INTRODUCTION \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nicee.org/readings/paper4.pdf",
+   "displayLink": "www.nicee.org",
+   "snippet": "of 1993 (the most tragic earthquake of last 50 years in India which caused about   8000 deaths), .... This magnitude 6.6 earthquake shook northern Bihar and Nepal   on August 21, 1988 at 04:39 hours (e.g. .... Newsletter, Vol.28, No.1, pp 1-8. 10.",
+   "htmlSnippet": "of \u003cb\u003e1993\u003c/b\u003e (the most tragic \u003cb\u003eearthquake\u003c/b\u003e of last 50 years in \u003cb\u003eIndia\u003c/b\u003e which caused about \u003cbr\u003e  8000 deaths), \u003cb\u003e....\u003c/b\u003e This magnitude 6.6 \u003cb\u003eearthquake\u003c/b\u003e shook northern Bihar and Nepal \u003cbr\u003e  on \u003cb\u003eAugust\u003c/b\u003e 21, 1988 at 04:39 hours (e.g. \u003cb\u003e....\u003c/b\u003e Newsletter, Vol.\u003cb\u003e28\u003c/b\u003e, No.1, pp 1-8. 10.",
+   "cacheId": "FfyX3idetkoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nicee.org/readings/paper4.pdf",
+   "htmlFormattedUrl": "www.nicee.org/readings/paper4.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20031127115451+05'30'",
+      "moddate": "D:20031127115451+05'30'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "snehal",
+      "creator": "ADOBEPS4.DRV Version 4.50",
+      "title": "Microsoft Word - paper4.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Volcanic Eruptions ??? Infoplease.com",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions ??? Infoplease.com",
+   "link": "http://www.infoplease.com/ipa/A0001439.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "World \u003e Disasters. Earthquakes and Volcanic Eruptions. A.D..",
+   "htmlSnippet": "World &gt; Disasters. \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions. A.D..",
+   "cacheId": "eiPTxuWU3LMJ",
+   "formattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "htmlFormattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "chunk": "ART",
+      "idx": "Disasters",
+      "isub": "earthquake in (1755)",
+      "title": "Earthquakes and Volcanic Eruptions",
+      "waif": "Earthquakes",
+      "uniqid": "A0001439",
+      "parent": "A0001437",
+      "subchannel": "world",
+      "channel": "world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dr.D.Shanker, Department of Earthquake Engineering, Indian ...",
+   "htmlTitle": "Dr.D.Shanker, Department of \u003cb\u003eEarthquake\u003c/b\u003e Engineering, \u003cb\u003eIndian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "displayLink": "www.iitr.ac.in",
+   "snippet": "Lesson for Architects & Engineers from recent Indian earthquakes, The Institution   of ... Physics of the Earth Interior (IASPEI-97), Thessaloniki, Greece, 18-28,August   1997. ... 1995,; Eighteenth Annual Convention of AEG January 24-26, 1993.",
+   "htmlSnippet": "Lesson for Architects &amp; Engineers from recent \u003cb\u003eIndian earthquakes\u003c/b\u003e, The Institution \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e Physics of the Earth Interior (IASPEI-97), Thessaloniki, Greece, 18-\u003cb\u003e28\u003c/b\u003e,\u003cb\u003eAugust\u003c/b\u003e \u003cbr\u003e  1997. \u003cb\u003e...\u003c/b\u003e 1995,; Eighteenth Annual Convention of AEG January 24-26, \u003cb\u003e1993\u003c/b\u003e.",
+   "cacheId": "hHwFGSSoXkwJ",
+   "formattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "htmlFormattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iitr.ac.in/departments/EQ/uploads/Image/faculty/dayasfeq.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu_bdrlQOpb_1Wbl2uX4msnwe12PH6PLiAfVChL8t2pocU2dbwugf2Wa3-"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee",
+      "dc.title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee Index",
+      "dc.creator": "Information Management Group, IIT Roorkee",
+      "dc.creator.address": "img@iitr.ernet.in",
+      "dc.subject.keyword": "Department of Earthquake Engineering,Earthquake Engineering,Structural Dynamics,Soil Dynamics,Seismology,Seismotectonics,Instrumentation,DEQ,IIT Roorkee,Indian Institute of Technology,technology,roorkee,academics,b.tech,m.tech,PhD,Student Homepages,Research,Alumni,SRTEE,events,School of Research and Training in Earthquake Engineering,Codal Provisions,Disaster Mitigation,seismic zoning map,Strong Motion Instruments,Undergraduate,Shake and Shock tables,quasi static testing lab,Activities,Facilities",
+      "dc.subject.description": "Earthquake Engineering, IIT Roorkee involves b.tech,m.tech.undergraduate students for research activities and training in Seismology,Seismotectonics,Instrumentation,soil dynamics technology etc.",
+      "dc.type": "webpage",
+      "dc.image.like": "/Main/template/IIT_Roorkee_Main_Building.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1897 Jun 12, Possibly the most severe quake in history struck Assam, India. ....   1973 Aug 28, More than 600 people died as an earthquake shook central Mexico  . .... 1993 Jan 15, A 7.5 earthquake struck northern Japan and 2 people died.",
+   "htmlSnippet": "1897 Jun 12, Possibly the most severe \u003cb\u003equake\u003c/b\u003e in history struck Assam, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  1973 \u003cb\u003eAug 28\u003c/b\u003e, More than 600 people died as an \u003cb\u003eearthquake\u003c/b\u003e shook central Mexico\u003cbr\u003e  . \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1993\u003c/b\u003e Jan 15, A 7.5 \u003cb\u003eearthquake\u003c/b\u003e struck northern Japan and 2 people died.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  }
+ ]
+}

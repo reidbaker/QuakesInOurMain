@@ -1,0 +1,285 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 18 1981 Australia Earthquake",
+    "totalResults": "197000",
+    "searchTerms": "Jun 18 1981 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 18 1981 Australia Earthquake",
+    "totalResults": "197000",
+    "searchTerms": "Jun 18 1981 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.265789,
+  "formattedSearchTime": "0.27",
+  "totalResults": "197000",
+  "formattedTotalResults": "197,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 18 1981 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 18 1981 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... This database has been presented at the Australian Earthquake ..... due to the   earthquake ($144 billion), with about 18% due to the Fukushima disaster ($59   billion). ... The Christchurch earthquakes on the 21st February, 13th June and .....   Ganse, R.A., Nelson J.B. [1981] ???Catalog of significant earthquakes ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e due to the \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e ($144 billion), with about \u003cb\u003e18\u003c/b\u003e% due to the Fukushima disaster ($59 \u003cbr\u003e  billion). \u003cb\u003e...\u003c/b\u003e The Christchurch \u003cb\u003eearthquakes\u003c/b\u003e on the 21st February, 13th \u003cb\u003eJune\u003c/b\u003e and \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Ganse, R.A., Nelson J.B. [\u003cb\u003e1981\u003c/b\u003e] ???Catalog of significant \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   Unless otherwise stated ..... Boolarra, 22 June 1969, magnitude 5.0, aftershock of   20 June earthquake. Westernport Bay, 7 .... of Western Australia. 18 May 2005.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  Unless otherwise stated \u003cb\u003e.....\u003c/b\u003e Boolarra, 22 \u003cb\u003eJune\u003c/b\u003e 1969, magnitude 5.0, aftershock of \u003cbr\u003e  20 \u003cb\u003eJune earthquake\u003c/b\u003e. Westernport Bay, 7 \u003cb\u003e....\u003c/b\u003e of Western \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e18\u003c/b\u003e May 2005.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Cadoux, WA, earthquake of 2 June 1979",
+   "htmlTitle": "The Cadoux, WA, \u003cb\u003eearthquake\u003c/b\u003e of 2 \u003cb\u003eJune\u003c/b\u003e 1979",
+   "link": "http://www.seismicity.see.uwa.edu.au/welcome/seismicity_of_western_australia/wa_historical/cadoux",
+   "displayLink": "www.seismicity.see.uwa.edu.au",
+   "snippet": "Mar 28, 2004 ... The Meckering Western Australia earthquake of October 1968 ... Geol Survey of   WA Report 11 (Lewis, Daetwyler, Bunting & Moncrief, 1981) .... The fau lt was   considered to have a strike of 18 deg (i.e. NNE), and a dip of 81 ...",
+   "htmlSnippet": "Mar 28, 2004 \u003cb\u003e...\u003c/b\u003e The Meckering Western \u003cb\u003eAustralia earthquake\u003c/b\u003e of October 1968 \u003cb\u003e...\u003c/b\u003e Geol Survey of \u003cbr\u003e  WA Report 11 (Lewis, Daetwyler, Bunting &amp; Moncrief, \u003cb\u003e1981\u003c/b\u003e) \u003cb\u003e....\u003c/b\u003e The fau lt was \u003cbr\u003e  considered to have a strike of \u003cb\u003e18\u003c/b\u003e deg (i.e. NNE), and a dip of 81 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5IUp0vPXAxYJ",
+   "formattedUrl": "www.seismicity.see.uwa.edu.au/.../seismicity_of...australia/.../cadoux",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.see.uwa.edu.au/.../\u003cb\u003eseismic\u003c/b\u003eity_of...\u003cb\u003eaustralia\u003c/b\u003e/.../cadoux",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=27328"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "266",
+      "height": "190",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSOE2MS91UUzsA85XWNlR9wlHusU0zWY4LdlLPxFVXNYupK1K-Juh1kqx5V"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "The Cadoux, WA, earthquake of 2 June 1979",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/43831",
+      "dc.date.modified": "2004-03-28",
+      "dc.date.created": "2004-02-09",
+      "dc.date.valid": "2005-03-28",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/43831",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. Earthquakes of   ... 7 1961???1970; 8 1971???1980; 9 1981???1990; 10 1991???2000; 11 See also; 12   References ... 1906, Off the coast of Western Australia, Australia, 7.6, Mw ..... see   1937 Orizaba earthquake, 18.52, ???95.88, 34, 7.3, MS ...... Retrieved June 9, 2011  .",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003eEarthquakes\u003c/b\u003e of \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 7 1961???1970; 8 1971???1980; 9 \u003cb\u003e1981\u003c/b\u003e???1990; 10 1991???2000; 11 See also; 12 \u003cbr\u003e  References \u003cb\u003e...\u003c/b\u003e 1906, Off the coast of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e.....\u003c/b\u003e see \u003cbr\u003e  1937 Orizaba \u003cb\u003eearthquake\u003c/b\u003e, 18.52, ???95.88, 34, 7.3, MS \u003cb\u003e......\u003c/b\u003e Retrieved \u003cb\u003eJune\u003c/b\u003e 9, 2011\u003cbr\u003e  .",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... 1941 04 29 - Meeberrie, Australia - M 7.2 ?? 1968 10 14 - Meckering, Australia ....   1875 05 18 - northern Colombia - M 7.3 Fatalities 16,000; 1970 07 31 ... 1978 06   20 - Greece - M 6.6 Fatalities 50; 1981 02 24 - Greece - M 6.8 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e 1941 04 29 - Meeberrie, \u003cb\u003eAustralia\u003c/b\u003e - M 7.2 &middot; 1968 10 14 - Meckering, \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  1875 05 \u003cb\u003e18\u003c/b\u003e - northern Colombia - M 7.3 Fatalities 16,000; 1970 07 31 \u003cb\u003e...\u003c/b\u003e 1978 06 \u003cbr\u003e  20 - Greece - M 6.6 Fatalities 50; \u003cb\u003e1981\u003c/b\u003e 02 24 - Greece - M 6.8 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes in Victoria",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e in Victoria",
+   "link": "http://www.aees.org.au/Articles/McCue_Vic_Earthquakes.pdf",
+   "displayLink": "www.aees.org.au",
+   "snippet": "Abstract Several hundred earthquakes felt in Australia have been ... (1978),   Gibson and others (1981), Wilkie and others (1993, 1994), Gibson (1995), ... An   article in the South Australian (Tuesday 1st June 1847) about the 1847   earthquake in ..... The Argus (18 April 1931) reports that a chimney collapsed in   Mr McLean??s ...",
+   "htmlSnippet": "Abstract Several hundred \u003cb\u003eearthquakes\u003c/b\u003e felt in \u003cb\u003eAustralia\u003c/b\u003e have been \u003cb\u003e...\u003c/b\u003e (1978), \u003cbr\u003e  Gibson and others (\u003cb\u003e1981\u003c/b\u003e), Wilkie and others (1993, 1994), Gibson (1995), \u003cb\u003e...\u003c/b\u003e An \u003cbr\u003e  article in the South \u003cb\u003eAustralian\u003c/b\u003e (Tuesday 1st \u003cb\u003eJune\u003c/b\u003e 1847) about the 1847 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e.....\u003c/b\u003e The Argus (\u003cb\u003e18\u003c/b\u003e April 1931) reports that a chimney collapsed in \u003cbr\u003e  Mr McLean??s \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2OEy-r8HztsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.aees.org.au/Articles/McCue_Vic_Earthquakes.pdf",
+   "htmlFormattedUrl": "www.aees.org.au/Articles/McCue_Vic_\u003cb\u003eEarthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "K F McCue",
+      "creationdate": "D:20120527105352Z",
+      "creator": "Microsoft Word",
+      "moddate": "D:20120528092854+10'00'",
+      "producer": "Mac OS X 10.6.8 Quartz PDFContext",
+      "title": "Historical earthquakes in Victoria"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Earthquake History USGS.",
+   "htmlTitle": "Colorado \u003cb\u003eEarthquake\u003c/b\u003e History USGS.",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Colorado is considered a region of minor earthquake activity, although there ....   The residents in the northeast Denver area were shaken by a mild earthquake on   June 10, ... On April 2, 1981 at 9:10 a.m. MST, a sharp earthquake, magnitude 4.1  , ... On September 18 at 10:12 a.m. MDT, a small part of the north-central part of ...",
+   "htmlSnippet": "Colorado is considered a region of minor \u003cb\u003eearthquake\u003c/b\u003e activity, although there \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The residents in the northeast Denver area were shaken by a mild \u003cb\u003eearthquake\u003c/b\u003e on \u003cbr\u003e  \u003cb\u003eJune\u003c/b\u003e 10, \u003cb\u003e...\u003c/b\u003e On April 2, \u003cb\u003e1981\u003c/b\u003e at 9:10 a.m. MST, a sharp \u003cb\u003eearthquake\u003c/b\u003e, magnitude 4.1\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e On September \u003cb\u003e18\u003c/b\u003e at 10:12 a.m. MDT, a small part of the north-central part of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "30ABL9k2McIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/colorado/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The June 2000 Mw 7.9 earthquakes south of Sumatra: Deformation ...",
+   "htmlTitle": "The \u003cb\u003eJune\u003c/b\u003e 2000 Mw 7.9 \u003cb\u003eearthquakes\u003c/b\u003e south of Sumatra: Deformation \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://people.bu.edu/rea/web_online/abercrombie_2001JB000674.pdf",
+   "displayLink": "people.bu.edu",
+   "snippet": "[1] Two large (Mw 7.9) earthquakes occurred on 4 and 18 June 2000, south of   Sumatra, beneath the Indian ... deformation in the India???Australia composite   plate. The occurrence of the ... al., 1981, 2001] is primarily strike-slip. The CMT   solution ...",
+   "htmlSnippet": "[1] Two large (Mw 7.9) \u003cb\u003eearthquakes\u003c/b\u003e occurred on 4 and \u003cb\u003e18 June\u003c/b\u003e 2000, south of \u003cbr\u003e  Sumatra, beneath the Indian \u003cb\u003e...\u003c/b\u003e deformation in the India???\u003cb\u003eAustralia\u003c/b\u003e composite \u003cbr\u003e  plate. The occurrence of the \u003cb\u003e...\u003c/b\u003e al., \u003cb\u003e1981\u003c/b\u003e, 2001] is primarily strike-slip. The CMT \u003cbr\u003e  solution \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nN8vMFLArK0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "people.bu.edu/rea/web_online/abercrombie_2001JB000674.pdf",
+   "htmlFormattedUrl": "people.bu.edu/rea/web_online/abercrombie_2001JB000674.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20021230132544",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "title": "jb000674 1..16",
+      "moddate": "D:20021230132546+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Significant Earthquakes of the World, 1981",
+   "htmlTitle": "Significant \u003cb\u003eEarthquakes\u003c/b\u003e of the World, \u003cb\u003e1981\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/significant/sig_1981.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jan 5, 2010 ... 1981. SIGNIFICANT EARTHQUAKES OF THE WORLD, 1981 Earthquakes of   magnitude 6.5 or greater or ones that caused fatalities, injuries or ...",
+   "htmlSnippet": "Jan 5, 2010 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1981\u003c/b\u003e. SIGNIFICANT \u003cb\u003eEARTHQUAKES\u003c/b\u003e OF THE WORLD, \u003cb\u003e1981 Earthquakes\u003c/b\u003e of \u003cbr\u003e  magnitude 6.5 or greater or ones that caused fatalities, injuries or \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "txDx72xEvAMJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/.../sig_1981.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/.../sig_\u003cb\u003e1981\u003c/b\u003e.php"
+  }
+ ]
+}

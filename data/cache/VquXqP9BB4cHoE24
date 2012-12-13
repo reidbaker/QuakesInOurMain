@@ -1,0 +1,215 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 15 1965 South America Earthquake",
+    "totalResults": "425000",
+    "searchTerms": "Aug 15 1965 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 15 1965 South America Earthquake",
+    "totalResults": "425000",
+    "searchTerms": "Aug 15 1965 South America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.368823,
+  "formattedSearchTime": "0.37",
+  "totalResults": "425000",
+  "formattedTotalResults": "425,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list August 15, 2012",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust 15\u003c/b\u003e, 2012",
+   "link": "http://earthquake-report.com/2012/08/14/complete-earthquakes-list-august-15-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 16, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ???   STATES Felt an earthquake ? Click on I FELT IT below or use the ...",
+   "htmlSnippet": "Aug 16, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? \u003cbr\u003e  STATES Felt an \u003cb\u003eearthquake\u003c/b\u003e ? Click on I FELT IT below or use the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Au8RsgkjgXEJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-august-15-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eaugust\u003c/b\u003e-\u003cb\u003e15\u003c/b\u003e-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 15, 2012 ??? new strong M5.3 ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust 15\u003c/b\u003e, 2012 ??? new strong M5.3 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/14/major-earthquakes-list-august-15-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "(Major) Earthquakes list August 15, 2012 ??? new strong M5.3 aftershock in the   devastated area. Last update: August 16, 2012 at 7:41 am by By Ashish Khanal ...",
+   "htmlSnippet": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust 15\u003c/b\u003e, 2012 ??? new strong M5.3 aftershock in the \u003cbr\u003e  devastated area. Last update: \u003cb\u003eAugust\u003c/b\u003e 16, 2012 at 7:41 am by By Ashish Khanal \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "60DUoGRlTokJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-august-15-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eaugust\u003c/b\u003e-\u003cb\u003e15\u003c/b\u003e-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "gfrimen",
+      "nickname": "gfrimen"
+     },
+     {
+      "fn": "James",
+      "nickname": "James"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 8, 2012 ??? 2 x Greater Los Angeles ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust\u003c/b\u003e 8, 2012 ??? 2 x Greater Los Angeles \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/07/major-earthquakes-list-august-8-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 8, 2012 ... Just felt another earthquake a little shake in SOuth Pasadena Wednesday August   8 935am PST; Paramount - Jolt then rolling for a few seconds ...",
+   "htmlSnippet": "Aug 8, 2012 \u003cb\u003e...\u003c/b\u003e Just felt another \u003cb\u003eearthquake\u003c/b\u003e a little shake in \u003cb\u003eSOuth\u003c/b\u003e Pasadena Wednesday \u003cb\u003eAugust\u003c/b\u003e \u003cbr\u003e  8 935am PST; Paramount - Jolt then rolling for a few seconds \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hYaxttWA4UMJ",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-august-8-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eaugust\u003c/b\u003e-8-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "JERRY",
+      "nickname": "JERRY"
+     },
+     {
+      "fn": "Veronica Leighton"
+     },
+     {
+      "fn": "Shabina",
+      "nickname": "Shabina"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list August 14, 2012",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust\u003c/b\u003e 14, 2012",
+   "link": "http://earthquake-report.com/2012/08/13/complete-earthquakes-list-august-14-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: August 15, 2012 at 11:02 pm by By Ashish Khanal ?? REAL TIME   EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES ...",
+   "htmlSnippet": "Last update: \u003cb\u003eAugust 15\u003c/b\u003e, 2012 at 11:02 pm by By Ashish Khanal &middot; REAL TIME \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dngaHfzveNcJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-august-14-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eaugust\u003c/b\u003e-14-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "darren",
+      "nickname": "darren"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South America (realtime) earthquakes list ??? Sismos en Am??rica del ...",
+   "htmlTitle": "\u003cb\u003eSouth America\u003c/b\u003e (realtime) \u003cb\u003eearthquakes\u003c/b\u003e list ??? Sismos en Am??rica del \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/01/south-america-realtime-earthquakes-list-sismos-en-america-del-sur/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 25, 2012 ... The list below shows the last earthquakes in South America ... EMSC, Offshore O'  higgins, Chile, Dec 04 14:15 PM, 2.7, 35.0, MAP ?? I Felt It ...",
+   "htmlSnippet": "May 25, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eSouth America\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e EMSC, Offshore O&#39;\u003cbr\u003e  higgins, Chile, Dec 04 14:\u003cb\u003e15\u003c/b\u003e PM, 2.7, 35.0, MAP &middot; I Felt It \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qgi0pAHrD2UJ",
+   "formattedUrl": "earthquake-report.com/.../south-america-realtime-earthquakes-list-sismos-en- america-del-sur/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003esouth\u003c/b\u003e-\u003cb\u003eamerica\u003c/b\u003e-realtime-\u003cb\u003eearthquakes\u003c/b\u003e-list-sismos-en- \u003cb\u003eamerica\u003c/b\u003e-del-sur/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 16, 2012 ??? Moderate earthquake ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust\u003c/b\u003e 16, 2012 ??? Moderate \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/15/major-earthquakes-list-august-16-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: August 16, 2012 at 3:26 pm by By Ashish Khanal ?? REAL TIME   EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES ...",
+   "htmlSnippet": "Last update: \u003cb\u003eAugust\u003c/b\u003e 16, 2012 at 3:26 pm by By Ashish Khanal &middot; REAL TIME \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vdabL-eA_tsJ",
+   "formattedUrl": "earthquake-report.com/.../15/major-earthquakes-list-august-16-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e15\u003c/b\u003e/major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eaugust\u003c/b\u003e-16-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 26, 2012 ??? Powerful earthquake ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust\u003c/b\u003e 26, 2012 ??? Powerful \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/25/major-earthquakes-list-august-26-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 26, 2012 ... The most powerful ones (4 in total) started at 19:20 UTCThe epicenter of these   earthquakes are south of the Salton Sea and a north of Calexico ...",
+   "htmlSnippet": "Aug 26, 2012 \u003cb\u003e...\u003c/b\u003e The most powerful ones (4 in total) started at 19:20 UTCThe epicenter of these \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e are \u003cb\u003esouth\u003c/b\u003e of the Salton Sea and a north of Calexico \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fmmW0UWZJYsJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-august-26-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eaugust\u003c/b\u003e-26-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 9, 2012 ??? Earthquake near Lombok ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust\u003c/b\u003e 9, 2012 ??? \u003cb\u003eEarthquake\u003c/b\u003e near Lombok \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/08/major-earthquakes-list-august-9-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 9, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ???   STATES Felt an earthquake ? Click on I FELT IT below or use the ...",
+   "htmlSnippet": "Aug 9, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? \u003cbr\u003e  STATES Felt an \u003cb\u003eearthquake\u003c/b\u003e ? Click on I FELT IT below or use the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HWp2rcLRdCIJ",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-august-9-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eaugust\u003c/b\u003e-9-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 14, 2012 ??? Moderate earthquake ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust\u003c/b\u003e 14, 2012 ??? Moderate \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/13/major-earthquakes-list-august-14-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: August 14, 2012 at 11:29 pm by By Ashish Khanal ?? REAL TIME   EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES Felt an ...",
+   "htmlSnippet": "Last update: \u003cb\u003eAugust\u003c/b\u003e 14, 2012 at 11:29 pm by By Ashish Khanal &middot; REAL TIME \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? STATES Felt an \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ERvnp6E1zYoJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-august-14-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eaugust\u003c/b\u003e-14-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "gfrimen",
+      "nickname": "gfrimen"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list August 25, 2012",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eAugust\u003c/b\u003e 25, 2012",
+   "link": "http://earthquake-report.com/2012/08/24/complete-earthquakes-list-august-25-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 27, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ???   STATES Felt an earthquake ? Click on I FELT IT below or use the ...",
+   "htmlSnippet": "Aug 27, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? \u003cbr\u003e  STATES Felt an \u003cb\u003eearthquake\u003c/b\u003e ? Click on I FELT IT below or use the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hNB5iZEXBnkJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-august-25-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eaugust\u003c/b\u003e-25-2012/"
+  }
+ ]
+}
