@@ -1,0 +1,237 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 11 1996 Eurasia Earthquake",
+    "totalResults": "28700",
+    "searchTerms": "Sep 11 1996 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 11 1996 Eurasia Earthquake",
+    "totalResults": "28700",
+    "searchTerms": "Sep 11 1996 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.175679,
+  "formattedSearchTime": "0.18",
+  "totalResults": "28700",
+  "formattedTotalResults": "28,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The northern part of Greece lies on the Eurasian Plate while the southern part   lies on the Aegean Sea Plate. The Aegean Sea Plate .... Papazachos, B.C. (1996  ). \"Large seismic ... \"Magnitude 6.0 GREECE 1999 September 07 11:56:49 UTC\".",
+   "htmlSnippet": "The northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the southern part \u003cbr\u003e  lies on the Aegean Sea Plate. The Aegean Sea Plate \u003cb\u003e....\u003c/b\u003e Papazachos, B.C. (\u003cb\u003e1996\u003c/b\u003e\u003cbr\u003e  ). &quot;Large \u003cb\u003eseismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e &quot;Magnitude 6.0 GREECE 1999 \u003cb\u003eSeptember\u003c/b\u003e 07 \u003cb\u003e11\u003c/b\u003e:56:49 UTC&quot;.",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NOVA | Japan's Killer Quake",
+   "htmlTitle": "NOVA | Japan&#39;s Killer \u003cb\u003eQuake\u003c/b\u003e",
+   "link": "http://www.pbs.org/wgbh/nova/earth/japan-killer-quake.html",
+   "displayLink": "www.pbs.org",
+   "snippet": "An eyewitness account and investigation of the epic earthquake, tsunami, and   nuclear crisis. ... PBS Aired February 29, 2012 on PBS. Originally aired 03.30.11 ...",
+   "htmlSnippet": "An eyewitness account and investigation of the epic \u003cb\u003eearthquake\u003c/b\u003e, tsunami, and \u003cbr\u003e  nuclear crisis. \u003cb\u003e...\u003c/b\u003e PBS Aired February 29, 2012 on PBS. Originally aired 03.30.\u003cb\u003e11\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6PcAA8PCEOwJ",
+   "formattedUrl": "www.pbs.org/wgbh/nova/earth/japan-killer-quake.html",
+   "htmlFormattedUrl": "www.pbs.org/wgbh/nova/earth/japan-killer-\u003cb\u003equake\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pbs.org/wgbh/nova/assets/img/posters/japan-killer-quake-vi.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "299",
+      "height": "168",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIj6O0JLLqEtp4wq_GAAT1EmydBQnap6rzGdPW8MbE-8dX5m64HDH_PyME"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Tomography of the Arabian-Eurasian Collision Zone and ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Tomography of the Arabian-\u003cb\u003eEurasian\u003c/b\u003e Collision Zone and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "displayLink": "www.dtic.mil",
+   "snippet": "SEISMIC TOMOGRAPHY OF THE ARABIAN-EURASIAN COLLISION ZONE. 5a.   CONTRACT ..... Figure 11. Seismograms recorded at short period station (PAY)   and in a borehole at. SRO. .... described as the sum of three time terms (Pei et al.,   2007; Hearn, 1996): _. _. _. _ pn ij pn i ..... pages, Portsmouth, VA (Sept 23 ??? 25).",
+   "htmlSnippet": "\u003cb\u003eSEISMIC\u003c/b\u003e TOMOGRAPHY OF THE ARABIAN-\u003cb\u003eEURASIAN\u003c/b\u003e COLLISION ZONE. 5a. \u003cbr\u003e  CONTRACT \u003cb\u003e.....\u003c/b\u003e Figure \u003cb\u003e11\u003c/b\u003e. Seismograms recorded at short period station (PAY) \u003cbr\u003e  and in a borehole at. SRO. \u003cb\u003e....\u003c/b\u003e described as the sum of three time terms (Pei et al., \u003cbr\u003e  2007; Hearn, \u003cb\u003e1996\u003c/b\u003e): _. _. _. _ pn ij pn i \u003cb\u003e.....\u003c/b\u003e pages, Portsmouth, VA (\u003cb\u003eSept\u003c/b\u003e 23 ??? 25).",
+   "cacheId": "SncVpbfhL5gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ford",
+      "creationdate": "D:20100602103736-04'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20100721112503-04'00'",
+      "producer": "Acrobat Distiller 9.3.2 (Windows)",
+      "title": "Microsoft Word - 07C0001_final_b.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.0 - 155km SW of Dadali, Solomon Islands 2012-09-21 11:59:35 ...",
+   "htmlTitle": "M5.0 - 155km SW of Dadali, Solomon Islands 2012-09-21 \u003cb\u003e11\u003c/b\u003e:59:35 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000ct73",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Sep 21, 2012 ... Earthquake Hazards Program ... M5.0 - 155km SW of Dadali, Solomon Islands   2012-09-21 11:59:35 UTC ... Page Last Modified: September 29, 2012 12:24:03   UTC ... northern Papua province of Indonesia that killed 166 people in 1996. ... to   Sumatra and primarily separates Australia from the Eurasia plate, ...",
+   "htmlSnippet": "Sep 21, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program \u003cb\u003e...\u003c/b\u003e M5.0 - 155km SW of Dadali, Solomon Islands \u003cbr\u003e  2012-09-21 \u003cb\u003e11\u003c/b\u003e:59:35 UTC \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eSeptember\u003c/b\u003e 29, 2012 12:24:03 \u003cbr\u003e  UTC \u003cb\u003e...\u003c/b\u003e northern Papua province of Indonesia that killed 166 people in \u003cb\u003e1996\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e to \u003cbr\u003e  Sumatra and primarily separates Australia from the \u003cb\u003eEurasia\u003c/b\u003e plate, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4Tm7UrqrsBoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000ct73",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000ct73"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Central-Eurasia-L Archive - Miscellaneous - Index",
+   "htmlTitle": "Central-\u003cb\u003eEurasia\u003c/b\u003e-L Archive - Miscellaneous - Index",
+   "link": "http://cesww.fas.harvard.edu/cel_misc.html",
+   "displayLink": "cesww.fas.harvard.edu",
+   "snippet": "Davis Center for Russian and Eurasian Studies, Harvard University ...... URGENT   APPEAL- Support Recovery from Earthquake in Turkey (AFEMOTI) - Posted: 1   Sep 1999 .... WEB INFORMATION- Central Eurasia Project - Posted: 11 Sep   1996 ...",
+   "htmlSnippet": "Davis Center for Russian and \u003cb\u003eEurasian\u003c/b\u003e Studies, Harvard University \u003cb\u003e......\u003c/b\u003e URGENT \u003cbr\u003e  APPEAL- Support Recovery from \u003cb\u003eEarthquake\u003c/b\u003e in Turkey (AFEMOTI) - Posted: 1 \u003cbr\u003e  \u003cb\u003eSep\u003c/b\u003e 1999 \u003cb\u003e....\u003c/b\u003e WEB INFORMATION- Central \u003cb\u003eEurasia\u003c/b\u003e Project - Posted: \u003cb\u003e11 Sep\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1996\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ai859ZWWtaQJ",
+   "formattedUrl": "cesww.fas.harvard.edu/cel_misc.html",
+   "htmlFormattedUrl": "cesww.fas.harvard.edu/cel_misc.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "EN"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKES AND JAPAN - Japan | Facts and Details",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKES\u003c/b\u003e AND JAPAN - Japan | Facts and Details",
+   "link": "http://factsanddetails.com/japan.php?itemid=866",
+   "displayLink": "factsanddetails.com",
+   "snippet": "Apr 10, 2012 ... Earthquakes along Eurasian Plate and the Philippine Sea Plate are ... detect   underground shock waves, 11 that scan for undersea explosions as well 80 ...   But this was changed in 1996, following the Great Hanshin Earthquake. ..... ???An   earthquake that struck Fukushima Prefecture in September was similar ...",
+   "htmlSnippet": "Apr 10, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e along \u003cb\u003eEurasian\u003c/b\u003e Plate and the Philippine Sea Plate are \u003cb\u003e...\u003c/b\u003e detect \u003cbr\u003e  underground shock waves, \u003cb\u003e11\u003c/b\u003e that scan for undersea explosions as well 80 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  But this was changed in \u003cb\u003e1996\u003c/b\u003e, following the Great Hanshin \u003cb\u003eEarthquake\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e ???An \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e that struck Fukushima Prefecture in \u003cb\u003eSeptember\u003c/b\u003e was similar \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gJeK6jryG6YJ",
+   "formattedUrl": "factsanddetails.com/japan.php?itemid=866",
+   "htmlFormattedUrl": "factsanddetails.com/japan.php?itemid=866",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20090818-J.B.%20Macelwane%20Archives,%20St.%20Louis%20University%20719.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "290",
+      "height": "174",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRH6f5OfsiID9AVZgulPBlv8cY8Av628YChnSCvFZTJZytErhJIUpen8wuB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude and Location of Historical Earthquakes in Japan and ...",
+   "htmlTitle": "Magnitude and Location of Historical \u003cb\u003eEarthquakes\u003c/b\u003e in Japan and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "displayLink": "usgsprojects.org",
+   "snippet": "activity for the enigmatic 11 November 1855 Ansei Edo earthquake are   consistent ... Earthquakes felt in Tokyo occur as shallow crustal events, as PHS-   Eurasian ..... The epicenter of the 3 September 1998 earthquake is about ....   pattern of damage reports that the source is near Tokyo (e.g., Usami, 1996), but   the focal depth ...",
+   "htmlSnippet": "activity for the enigmatic \u003cb\u003e11\u003c/b\u003e November 1855 Ansei Edo \u003cb\u003eearthquake\u003c/b\u003e are \u003cbr\u003e  consistent \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e felt in Tokyo occur as shallow crustal events, as PHS- \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e The epicenter of the 3 \u003cb\u003eSeptember\u003c/b\u003e 1998 \u003cb\u003eearthquake\u003c/b\u003e is about \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  pattern of damage reports that the source is near Tokyo (e.g., Usami, \u003cb\u003e1996\u003c/b\u003e), but \u003cbr\u003e  the focal depth \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MqYLfainWs0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "htmlFormattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20041108141107-08'00'",
+      "creationdate": "D:20041108162556-05'00'",
+      "title": "151522_1_art_file_2_1099949021.pdf",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 6.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The south of Java earthquake of 1921 September 11: a negative",
+   "htmlTitle": "The south of Java \u003cb\u003eearthquake\u003c/b\u003e of 1921 \u003cb\u003eSeptember 11\u003c/b\u003e: a negative",
+   "link": "http://www.earth.northwestern.edu/people/emile/PDF/EAO226.pdf",
+   "displayLink": "www.earth.northwestern.edu",
+   "snippet": "We present a detailed study of the earthquake of 1921 September 11, located   between the ... 1947 Hikurangi, 1992 Nicaragua, 1996 Chimbote, Peru, 1994 and ...",
+   "htmlSnippet": "We present a detailed study of the \u003cb\u003eearthquake\u003c/b\u003e of 1921 \u003cb\u003eSeptember 11\u003c/b\u003e, located \u003cbr\u003e  between the \u003cb\u003e...\u003c/b\u003e 1947 Hikurangi, 1992 Nicaragua, \u003cb\u003e1996\u003c/b\u003e Chimbote, Peru, 1994 and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bD7AgIAzJO0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.northwestern.edu/people/emile/PDF/EAO226.pdf",
+   "htmlFormattedUrl": "www.earth.northwestern.edu/people/emile/PDF/EAO226.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "Fri Aug 24 10:44:41 2012"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Turkey - All About Turkey",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Turkey - All About Turkey",
+   "link": "http://www.allaboutturkey.com/deprem.htm",
+   "displayLink": "www.allaboutturkey.com",
+   "snippet": "Earthquakes in Turkey and sismic faults. ... followed by a full appeal for CHF 65   million on 8 September 1999, which remains active. ... 29.987?? E., which places   the epicenter about 11 kilometers, or seven miles, ... motion of the Arabian plate   against the Eurasian plate, squeezing the small Turkish micro plate westwards.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e in Turkey and sismic faults. \u003cb\u003e...\u003c/b\u003e followed by a full appeal for CHF 65 \u003cbr\u003e  million on 8 \u003cb\u003eSeptember\u003c/b\u003e 1999, which remains active. \u003cb\u003e...\u003c/b\u003e 29.987?? E., which places \u003cbr\u003e  the epicenter about \u003cb\u003e11\u003c/b\u003e kilometers, or seven miles, \u003cb\u003e...\u003c/b\u003e motion of the Arabian plate \u003cbr\u003e  against the \u003cb\u003eEurasian\u003c/b\u003e plate, squeezing the small Turkish micro plate westwards.",
+   "cacheId": "CTyIXW07OJwJ",
+   "formattedUrl": "www.allaboutturkey.com/deprem.htm",
+   "htmlFormattedUrl": "www.allaboutturkey.com/deprem.htm"
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 8 1958 Eurasia Earthquake",
+    "totalResults": "10700",
+    "searchTerms": "Jul 8 1958 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 8 1958 Eurasia Earthquake",
+    "totalResults": "10700",
+    "searchTerms": "Jul 8 1958 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.22058,
+  "formattedSearchTime": "0.22",
+  "totalResults": "10700",
+  "formattedTotalResults": "10,700"
+ },
+ "spelling": {
+  "correctedQuery": "July 8 1958 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 8 1958 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "M4.8 - 10km WNW of Ichihara, Japan 2012-11-24 08:59:47 UTC",
+   "htmlTitle": "M4.\u003cb\u003e8\u003c/b\u003e - 10km WNW of Ichihara, Japan 2012-11-24 08:59:47 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dxm5",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 24, 2012 ... M4.8 - 10km WNW of Ichihara, Japan 2012-11-24 08:59:47 UTC ... Location and   Magnitude contributed by: USGS National Earthquake Information Center .... (  INTERIOR/USGS-2) published at 74 FR 34033 (July 14, 2009). ... plate itself   subducting under the eurasia plate along zone extending from taiwan ...",
+   "htmlSnippet": "Nov 24, 2012 \u003cb\u003e...\u003c/b\u003e M4.\u003cb\u003e8\u003c/b\u003e - 10km WNW of Ichihara, Japan 2012-11-24 08:59:47 UTC \u003cb\u003e...\u003c/b\u003e Location and \u003cbr\u003e  Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information Center \u003cb\u003e....\u003c/b\u003e (\u003cbr\u003e  INTERIOR/USGS-2) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e plate itself \u003cbr\u003e  subducting under the \u003cb\u003eeurasia\u003c/b\u003e plate along zone extending from taiwan \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hPoLty6kbhkJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dxm5",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dxm5"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes - anonymous (2 mb pdf)",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e - anonymous (2 mb pdf)",
+   "link": "http://www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "displayLink": "www.arvindguptatoys.com",
+   "snippet": "On 26 January 2001at 8:46:41 lST at a latitude of 23.40, longitude .... The major   plates are: Antartic Plate, Eurasian] plate, .... 1958 July 21 Amar, Gujarat 7.0 ...",
+   "htmlSnippet": "On 26 January 2001at \u003cb\u003e8\u003c/b\u003e:46:41 lST at a latitude of 23.40, longitude \u003cb\u003e....\u003c/b\u003e The major \u003cbr\u003e  plates are: Antartic Plate, \u003cb\u003eEurasian\u003c/b\u003e] plate, \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1958 July\u003c/b\u003e 21 Amar, Gujarat 7.0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "noMHUn-Du88J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "htmlFormattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-\u003cb\u003eearthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Thu Feb 16 16:50:09 2006",
+      "moddate": "Thu Jul 13 23:23:24 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.8 - 151km ESE of Yamada, Japan 2012-11-30 11:42:58 UTC",
+   "htmlTitle": "M4.\u003cb\u003e8\u003c/b\u003e - 151km ESE of Yamada, Japan 2012-11-30 11:42:58 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000e1ha",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 30, 2012 ... M4.8 - 151km ESE of Yamada, Japan 2012-11-30 11:42:58 UTC ... Location and   Magnitude contributed by: USGS National Earthquake Information Center ....   plate; North America plate; Eurasia plate; and Philippine Sea plate. ... the M8.4   1958 Etorofu earthquake, the M8.5 1963 Kuril earthquake, and the ...",
+   "htmlSnippet": "Nov 30, 2012 \u003cb\u003e...\u003c/b\u003e M4.\u003cb\u003e8\u003c/b\u003e - 151km ESE of Yamada, Japan 2012-11-30 11:42:58 UTC \u003cb\u003e...\u003c/b\u003e Location and \u003cbr\u003e  Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information Center \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  plate; North America plate; \u003cb\u003eEurasia\u003c/b\u003e plate; and Philippine Sea plate. \u003cb\u003e...\u003c/b\u003e the M8.4 \u003cbr\u003e  \u003cb\u003e1958\u003c/b\u003e Etorofu \u003cb\u003eearthquake\u003c/b\u003e, the M8.5 1963 Kuril \u003cb\u003eearthquake\u003c/b\u003e, and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "56jlzUQeduEJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000e1ha",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000e1ha"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. Central ....   calculated Ms or mb values for fewer than 8% of the 147 post-1892 instrumentally   recorded ..... Patterson J. (1908) Seismic diturbances; Simla Observatory,   Monthly Weather Review, July issue, ..... 1958 322110735.367.4 6 1205.91 20.   25 2 ...",
+   "htmlSnippet": "of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. Central \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  calculated Ms or mb values for fewer than \u003cb\u003e8\u003c/b\u003e% of the 147 post-1892 instrumentally \u003cbr\u003e  recorded \u003cb\u003e.....\u003c/b\u003e Patterson J. (1908) \u003cb\u003eSeismic\u003c/b\u003e diturbances; Simla Observatory, \u003cbr\u003e  Monthly Weather Review, \u003cb\u003eJuly\u003c/b\u003e issue, \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1958\u003c/b\u003e 322110735.367.4 6 1205.91 20. \u003cbr\u003e  25 2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "English",
+   "htmlTitle": "English",
+   "link": "http://www.theeurasia.kz/index.php?lang=eng",
+   "displayLink": "www.theeurasia.kz",
+   "snippet": "Eurasia became the leader of the Kazakh insurance market on premium volume;   its capital exceeded KZT6.6 billion. From this moment, the company continues ...",
+   "htmlSnippet": "\u003cb\u003eEurasia\u003c/b\u003e became the leader of the Kazakh insurance market on premium volume; \u003cbr\u003e  its capital exceeded KZT6.6 billion. From this moment, the company continues \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4EP671b2ugoJ",
+   "formattedUrl": "www.theeurasia.kz/index.php?lang=eng",
+   "htmlFormattedUrl": "www.the\u003cb\u003eeurasia\u003c/b\u003e.kz/index.php?lang=eng",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.theeurasia.kz/i/banner_1_eng.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "80",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRltbiDL-rUqWCl4k6FrYVUDUYxTk-VhgE6LV_aca6p8fMXAxNtqVJVI2k"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "navigation guide for the disaster pages of dr. george pc",
+   "htmlTitle": "navigation guide for the disaster pages of dr. george pc",
+   "link": "http://www.drgeorgepc.com/NavigationGuide.html",
+   "displayLink": "www.drgeorgepc.com",
+   "snippet": "Earthquake and Tsunami of 12 July 1993 in the Sea of Japan/East Sea (Okushiri)   ... Source Mechanism Study of the Earthquake and Tsunami of July 8, 1958 in ....   Seismo-Dynamics of Compressional Collision and Subduction at Eurasia's ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e and Tsunami of 12 July 1993 in the Sea of Japan/East Sea (Okushiri) \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Source Mechanism Study of the \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami of \u003cb\u003eJuly 8, 1958\u003c/b\u003e in \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Seismo-Dynamics of Compressional Collision and Subduction at \u003cb\u003eEurasia&#39;s\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GJPd07vfXFcJ",
+   "formattedUrl": "www.drgeorgepc.com/NavigationGuide.html",
+   "htmlFormattedUrl": "www.drgeorgepc.com/NavigationGuide.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.drgeorgepc.com/DisasterPageLogo5.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "182",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPBFCJlVONS1vwx64RPR1HPYZZ7YYwPKrDIrq9bCp_hzIex4D9T1_Nq0g"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tips",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tips",
+   "link": "http://www.ourvmc.org/Files/EQTips_Full.pdf",
+   "displayLink": "www.ourvmc.org",
+   "snippet": "While the subject of earthquake engineering has its own sophistication and a lot   of new .... North American. Plate. Antarctic Plate. Eurasian. Plate. African. Plate.   South ..... Richter,C.F., (1958), Elementary Seismology, W. H. Freeman and ...   Four Great earthquakes (M\u003e8) occurred in a span .... July 2002; Revised August   2004 ...",
+   "htmlSnippet": "While the subject of \u003cb\u003eearthquake\u003c/b\u003e engineering has its own sophistication and a lot \u003cbr\u003e  of new \u003cb\u003e....\u003c/b\u003e North American. Plate. Antarctic Plate. \u003cb\u003eEurasian\u003c/b\u003e. Plate. African. Plate. \u003cbr\u003e  South \u003cb\u003e.....\u003c/b\u003e Richter,C.F., (\u003cb\u003e1958\u003c/b\u003e), Elementary Seismology, W. H. Freeman and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Four Great \u003cb\u003eearthquakes\u003c/b\u003e (M&gt;\u003cb\u003e8\u003c/b\u003e) occurred in a span \u003cb\u003e....\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 2002; Revised August \u003cbr\u003e  2004 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eJE3wg7LCwYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "htmlFormattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050816131846+05'30'",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20050816133329+05'30'",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a band of ... 1928, 22, 1958, 10, 1988, 8 ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a band of \u003cb\u003e...\u003c/b\u003e 1928, 22, \u003cb\u003e1958\u003c/b\u003e, 10, 1988, \u003cb\u003e8\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Turkey - All About Turkey",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Turkey - All About Turkey",
+   "link": "http://www.allaboutturkey.com/deprem.htm",
+   "displayLink": "www.allaboutturkey.com",
+   "snippet": "Earthquakes in Turkey and sismic faults. ... appeal, followed by a full appeal for   CHF 65 million on 8 September 1999, which remains active. ... (Termed the 1957   Abant earthquake); 1967 July 22. ... by the northwards motion of the Arabian   plate against the Eurasian plate, squeezing the small Turkish micro plate   westwards.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e in Turkey and sismic faults. \u003cb\u003e...\u003c/b\u003e appeal, followed by a full appeal for \u003cbr\u003e  CHF 65 million on \u003cb\u003e8\u003c/b\u003e September 1999, which remains active. \u003cb\u003e...\u003c/b\u003e (Termed the 1957 \u003cbr\u003e  Abant \u003cb\u003eearthquake\u003c/b\u003e); 1967 \u003cb\u003eJuly\u003c/b\u003e 22. \u003cb\u003e...\u003c/b\u003e by the northwards motion of the Arabian \u003cbr\u003e  plate against the \u003cb\u003eEurasian\u003c/b\u003e plate, squeezing the small Turkish micro plate \u003cbr\u003e  westwards.",
+   "cacheId": "CTyIXW07OJwJ",
+   "formattedUrl": "www.allaboutturkey.com/deprem.htm",
+   "htmlFormattedUrl": "www.allaboutturkey.com/deprem.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Watchers - Increasing seismic activities in Aegean Sea, Greece ...",
+   "htmlTitle": "The Watchers - Increasing \u003cb\u003eseismic\u003c/b\u003e activities in Aegean Sea, Greece \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://thewatchers.adorraeli.com/2012/01/28/increasing-seismic-activities-in-aegean-sea-greece-with-tectonic-summary/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Jan 28, 2012 ... Most shallow earthquakes in central and northern Greece (depths less than 50   km) result from interaction between the Eurasia plate and the ...",
+   "htmlSnippet": "Jan 28, 2012 \u003cb\u003e...\u003c/b\u003e Most shallow \u003cb\u003eearthquakes\u003c/b\u003e in central and northern Greece (depths less than 50 \u003cbr\u003e  km) result from interaction between the \u003cb\u003eEurasia\u003c/b\u003e plate and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oRpi1B6yrLEJ",
+   "formattedUrl": "thewatchers.adorraeli.com/.../increasing-seismic-activities-in-aegean-sea- greece-with-tectonic-summary/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/.../increasing-\u003cb\u003eseismic\u003c/b\u003e-activities-in-aegean-sea- greece-with-tectonic-summary/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/01/Aegeansea_small.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "330",
+      "height": "153",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMzE8vTewcdaFbNQXgzSUaWN7t5zPpfHh3dJIzHkALOLE4xP1gEK6TsFTx"
+     }
+    ],
+    "article": [
+     {
+      "name": "Increasing seismic activities in Aegean Sea, Greece (with tectonic summary)",
+      "description": "A moderate earthquake has struck off the northern coast of Greece near Heraklion, Crete for the second time in two days. The first earthquake had a magnitude 5.3 on Thursday, January 26, 2012...",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Increasing seismic activities in Aegean Sea, Greece (with tectonic summary)",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2012/01/28/increasing-seismic-activities-in-aegean-sea-greece-with-tectonic-summary?year=2012&monthnum=01&day=28&name=increasing-seismic-activities-in-aegean-sea-greece-with-tectonic-summary",
+      "og:description": "A moderate earthquake has struck off the northern coast of Greece near Heraklion, Crete for the second time in two days.??The first earthquake had a magnitude 5.3 on Thursday, January 26, 2012 at depth of 14km, and the second earthquake had about the same magnitude ??? 5.4 at depth of 5km.????Last January magnitude 6.2 hit Crete.??Dodecanese archipelago also experienced??strong shaking last few days with strongest earthquake measuring 4.8 yesterday. From the start of the year we can see the increased seismic activities mainly around Aegean Sea region.??Real Time Seismicity in Greece for the last 24 hours (Automatic Alerts) Tectonic summary...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:image": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/01/Aegeansea_small.jpg",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "S.Quade"
+     },
+     {
+      "fn": "Fred",
+      "nickname": "Fred"
+     },
+     {
+      "fn": "Paula Naula on Facebook",
+      "url": "http://www.facebook.com/profile.php?id=100002954759112",
+      "url_text": "Paula Naula on Facebook"
+     },
+     {
+      "fn": "Lianne Smith"
+     },
+     {
+      "fn": "donnie",
+      "nickname": "donnie"
+     },
+     {
+      "fn": "chillymanjaro",
+      "nickname": "chillymanjaro"
+     }
+    ]
+   }
+  }
+ ]
+}

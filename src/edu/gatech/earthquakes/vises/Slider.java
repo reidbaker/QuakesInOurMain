@@ -22,17 +22,20 @@ public class Slider extends AbstractVisualization implements Interactable {
     int goalLeft, goalRight;
     int snappedLeft, snappedRight;
     int rangeMin, rangeMax;
-    
+
     long timeMin, timeMax;
 
     int drawInterval;
 
     DataSet data;
-    
+
     long[][] drawData;
-    
+
     int[] years;
     int[] fullYears;
+
+
+    static float factor = .5f;
 
     boolean moveLeft, moveRight, moveAll;
 
@@ -64,15 +67,15 @@ public class Slider extends AbstractVisualization implements Interactable {
 
     public void grabDates() {
 	Set<Date> dates = Sets.newTreeSet();
-	
+
 	int size = data.getDatum().size();
         drawData = new long[size][2];
-	
+
         timeMin = Long.MAX_VALUE;
         timeMax = Long.MIN_VALUE;
-        
+
         int index = 0;
-        
+
 	for (DataRow dr : data) {
 	    Date newDate = (Date) dr.getVariables().get(DataRow.DATE);
 	    long dateTime = newDate.getTime();
@@ -82,13 +85,13 @@ public class Slider extends AbstractVisualization implements Interactable {
 	    if(dateTime > timeMax){
 	        timeMax = dateTime;
 	    }
-	    
+
 	    double mag = (Double) dr.getVariables().get(DataRow.MOMENT_MAGNITUDE);
 	    long dataY = (long)PApplet.map((float)mag, 4.0f, 8.0f, 0f, (float)h);
-	    
+
 	    drawData[index][0] = dateTime;
 	    drawData[index++][1] = dataY;
-	    
+
 	    dates.add(newDate);
 	}
 	Date[] dateArray = dates.toArray(new Date[] {});
@@ -150,7 +153,7 @@ public class Slider extends AbstractVisualization implements Interactable {
     }
 
     public void dragLH(int nx, int px) {
-	goalLeft += nx - px;
+	goalLeft += (nx - px) / factor;
 	if (goalLeft < x) {
 	    goalLeft += x - goalLeft;
 	} else if (goalLeft > goalRight - w / fullYears.length) {
@@ -159,7 +162,7 @@ public class Slider extends AbstractVisualization implements Interactable {
     }
 
     public void dragRH(int nx, int px) {
-	goalRight += nx - px;
+	goalRight += (nx - px) / factor;
 	if (goalRight > x + w) {
 	    goalRight -= (goalRight - (x + w));
 	} else if (goalLeft > goalRight - w / fullYears.length) {
@@ -274,7 +277,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 //		int height = (int)PApplet.map((float) mag, 4.0f, 8.0f, 0f,
 //		        (float) h);
 		int height = (int)drawData[index][1];
-		
+
 		if(xLocationNew > lastDrawX || index == data.getDatum().size()-1){
 		    if(lastDrawY != -1){
 		        p.line(lastDrawX, y + h, lastDrawX, y + h - lastDrawY);
@@ -282,7 +285,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 		    }
                     lastDrawX = xLocationNew;
 		}
-		
+
 		if(height > lastDrawY){
 		    lastDrawY = height;
 		}
@@ -383,7 +386,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 	}
 	return calcuated;
     }
-    
+
     private float xLocationMap2(long time,
             float leftEdge, float rightEdge, float sliderLeft, float sliderRight) {
         float calcuated = 0;
@@ -403,12 +406,10 @@ public class Slider extends AbstractVisualization implements Interactable {
     }
 
     private static float fuzzLeft(float point, float leftEdge) {
-	float factor = .5f;
 	return ((point - leftEdge) * factor) + leftEdge;
     }
 
     private static float fuzzRight(float point, float rightEdge) {
-	float factor = .5f;
 	return rightEdge - ((rightEdge - point) * factor);
     }
 

@@ -1,0 +1,315 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 9 1996 Australia Earthquake",
+    "totalResults": "524000",
+    "searchTerms": "Jun 9 1996 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 9 1996 Australia Earthquake",
+    "totalResults": "524000",
+    "searchTerms": "Jun 9 1996 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.186584,
+  "formattedSearchTime": "0.19",
+  "totalResults": "524000",
+  "formattedTotalResults": "524,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 9 1996 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 9 1996 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake in the greater Melbourne area, Australia",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e in the greater Melbourne area, \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/19/strong-earthquake-in-the-greater-melbourne-area-australia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: June 21, 2012 at 1:44 am by By Armand Vervaeck and James   Daniell. Earthquake overview : Strong earthquake near Melbourne, Australia ....   earthquakes recently near Mt. Baw Baw of the same magnitude in 1996, Ml5.0. ...   South morang Vic 3752 - 5 to 9 pm eastern standard time felt light shaking   2seconds ...",
+   "htmlSnippet": "Last update: \u003cb\u003eJune\u003c/b\u003e 21, 2012 at 1:44 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell. \u003cb\u003eEarthquake\u003c/b\u003e overview : Strong \u003cb\u003eearthquake\u003c/b\u003e near Melbourne, \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e recently near Mt. Baw Baw of the same magnitude in \u003cb\u003e1996\u003c/b\u003e, Ml5.0. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  South morang Vic 3752 - 5 to \u003cb\u003e9\u003c/b\u003e pm eastern standard time felt light shaking \u003cbr\u003e  2seconds \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HhIXsW-HgNIJ",
+   "formattedUrl": "earthquake-report.com/.../strong-earthquake-in-the-greater-melbourne-area- australia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../strong-\u003cb\u003eearthquake\u003c/b\u003e-in-the-greater-melbourne-area- \u003cb\u003eaustralia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/06/541087.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo19JnftJE4AfP4wr-zBSahET5M8jZRmdBiyuMtd60ixCwoL_CJAS6K2b0"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "dj flexij (dj jordan)"
+     },
+     {
+      "fn": "Ruth Friend"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories   .... Picton, New South Wales, 01973-03-099 March 1973, 5.6, Damage totaling   $2.8 million .... Boolarra, 22 June 1969, magnitude 5.0, aftershock of 20 June   earthquake. .... \"1996-09-25, Thomson Reservoir, Intensity Map\". seismology   research ...",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Picton, New South Wales, 01973-03-09\u003cb\u003e9\u003c/b\u003e March 1973, 5.6, Damage totaling \u003cbr\u003e  $2.8 million \u003cb\u003e....\u003c/b\u003e Boolarra, 22 \u003cb\u003eJune\u003c/b\u003e 1969, magnitude 5.0, aftershock of 20 \u003cb\u003eJune\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e &quot;\u003cb\u003e1996\u003c/b\u003e-09-25, Thomson Reservoir, Intensity Map&quot;. seismology \u003cbr\u003e  research \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive January and ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive January and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/31/worldwide-earthquake-related-news-archive-january-and-february-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 14, 2012 ... There is even a precedent: in 1996, an earthquake turned Lijiang in Yunnan ...   The Christchurch Earthquake and the associated aftershocks in June ... February   9, 2012 .... The people who went through a broker have been offered that deal by   Ansvar Australia, but only until their current policy expires at any ...",
+   "htmlSnippet": "Apr 14, 2012 \u003cb\u003e...\u003c/b\u003e There is even a precedent: in \u003cb\u003e1996\u003c/b\u003e, an \u003cb\u003eearthquake\u003c/b\u003e turned Lijiang in Yunnan \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The Christchurch \u003cb\u003eEarthquake\u003c/b\u003e and the associated aftershocks in \u003cb\u003eJune\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e February \u003cbr\u003e  \u003cb\u003e9\u003c/b\u003e, 2012 \u003cb\u003e....\u003c/b\u003e The people who went through a broker have been offered that deal by \u003cbr\u003e  Ansvar \u003cb\u003eAustralia\u003c/b\u003e, but only until their current policy expires at any \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "I5hH1EcNcK0J",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- january-and-february-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- january-and-february-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. Earthquakes of   magnitude ... 01906-11-19November 19, 1906, Off the coast of Western Australia,   Australia, 7.6, Mw ..... earthquake. 48.89, ???79, 6.2, Mw (Bent, 1996), USGS ...   01943-06-08June 8 and 9, 1943, 20:42 UTC and 03:06 UTC, Sumatra see 1943 ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003eEarthquakes\u003c/b\u003e of \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e 01906-11-19November 19, 1906, Off the coast of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e. 48.89, ???79, 6.2, Mw (Bent, \u003cb\u003e1996\u003c/b\u003e), USGS \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  01943-06-08\u003cb\u003eJune\u003c/b\u003e 8 and \u003cb\u003e9\u003c/b\u003e, 1943, 20:42 UTC and 03:06 UTC, Sumatra see 1943 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes in NSW",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e in NSW",
+   "link": "http://www.aees.org.au/Articles/McCue_NSW_EQs.pdf",
+   "displayLink": "www.aees.org.au",
+   "snippet": "1839 (died 1878), he wrote the first paper about Australian earthquakes and   compiled a list of ..... isoseismal map published in McCue (1996) is due for an   update. .... 9 p.m.. Figure 8 Felt area of the June 18, 1935 earthquake near   Gunning ...",
+   "htmlSnippet": "1839 (died 1878), he wrote the first paper about \u003cb\u003eAustralian earthquakes\u003c/b\u003e and \u003cbr\u003e  compiled a list of \u003cb\u003e.....\u003c/b\u003e isoseismal map published in McCue (\u003cb\u003e1996\u003c/b\u003e) is due for an \u003cbr\u003e  update. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e9\u003c/b\u003e p.m.. Figure 8 Felt area of the \u003cb\u003eJune\u003c/b\u003e 18, 1935 \u003cb\u003eearthquake\u003c/b\u003e near \u003cbr\u003e  Gunning \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kv0RwT56Bd4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.aees.org.au/Articles/McCue_NSW_EQs.pdf",
+   "htmlFormattedUrl": "www.aees.org.au/Articles/McCue_NSW_EQs.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "K F McCue",
+      "creationdate": "D:20120615040223Z",
+      "creator": "Microsoft Word",
+      "moddate": "D:20120619152818+10'00'",
+      "producer": "Mac OS X 10.6.8 Quartz PDFContext",
+      "title": "Historical earthquakes in NSW"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "6 Major earthquakes; 7 Prediction; 8 Preparedness; 9 Historical views; 10   Earthquakes in culture ..... The greatest earthquake in Australia's history is also   claimed to be induced by humanity, .... as depicted in the novels Richter 10 (1996  ) and Goodbye California (1977) among other works. .... Madrigal, Alexis (4 June   2008).",
+   "htmlSnippet": "6 Major \u003cb\u003eearthquakes\u003c/b\u003e; 7 Prediction; 8 Preparedness; \u003cb\u003e9\u003c/b\u003e Historical views; 10 \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e in culture \u003cb\u003e.....\u003c/b\u003e The greatest \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eAustralia&#39;s\u003c/b\u003e history is also \u003cbr\u003e  claimed to be induced by humanity, \u003cb\u003e....\u003c/b\u003e as depicted in the novels Richter 10 (\u003cb\u003e1996\u003c/b\u003e\u003cbr\u003e  ) and Goodbye California (1977) among other works. \u003cb\u003e....\u003c/b\u003e Madrigal, Alexis (4 \u003cb\u003eJune\u003c/b\u003e \u003cbr\u003e  2008).",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ?????????, ????????? ???????????? ?????? ????????? ????????? ???????????? ????????????. ?????? ????????? ?????? ??? ??????????????? ??????????????? ???????????? ?????? ????????? ??????????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Canberra Region",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Canberra Region",
+   "link": "http://www.ga.gov.au/image_cache/GA11006.pdf",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Geoscience Australia has tried to make the information in this product as ..... The   Canberra Times of 9 February 1961 noted that ???a slight earth tremor ... epicentres   of these earthquakes (except the June 1996 Tidbinbilla ACT event which is ...",
+   "htmlSnippet": "Geoscience \u003cb\u003eAustralia\u003c/b\u003e has tried to make the information in this product as \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  Canberra Times of \u003cb\u003e9\u003c/b\u003e February 1961 noted that ???a slight earth tremor \u003cb\u003e...\u003c/b\u003e epicentres \u003cbr\u003e  of these \u003cb\u003eearthquakes\u003c/b\u003e (except the \u003cb\u003eJune 1996\u003c/b\u003e Tidbinbilla ACT event which is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "L7u9H_Su4doJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ga.gov.au/image_cache/GA11006.pdf",
+   "htmlFormattedUrl": "www.ga.gov.au/image_cache/GA11006.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20080213114321+11'00'",
+      "creationdate": "D:20071219175051+11'00'",
+      "title": "Canberra",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "author": "Australian Seismological Centre",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "company": "DEETYA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Western Australia has had a regular history of earthquakes throughout its ... The   Calingiri earthquake of June 1971, along with the Meckering and ... On 20 April   1946 a magnitude 5.7 earthquake occurred near Yallingup at 9:13pm on 19 April ...",
+   "htmlSnippet": "Western \u003cb\u003eAustralia\u003c/b\u003e has had a regular history of \u003cb\u003eearthquakes\u003c/b\u003e throughout its \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  Calingiri \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eJune\u003c/b\u003e 1971, along with the Meckering and \u003cb\u003e...\u003c/b\u003e On 20 April \u003cbr\u003e  1946 a magnitude 5.7 \u003cb\u003eearthquake\u003c/b\u003e occurred near Yallingup at \u003cb\u003e9\u003c/b\u003e:13pm on 19 April \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "9/56 YEAR CYCLE: AUSTRALIAN EARTHQUAKES",
+   "htmlTitle": "\u003cb\u003e9\u003c/b\u003e/56 YEAR CYCLE: \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.davidmcminn.com/eqpages/appendaust.htm",
+   "displayLink": "www.davidmcminn.com",
+   "snippet": "The 56 year Sequence 12 was the most important in Australian seismic history,   as it contained 6 major ... 1996. 2005. The 56 year sequences are separated by   an interval of 9 years. Years in ... 6.9, June 26, 1892, Offshore Flinders Island,   Tas ...",
+   "htmlSnippet": "The 56 year Sequence 12 was the most important in \u003cb\u003eAustralian seismic\u003c/b\u003e history, \u003cbr\u003e  as it contained 6 major \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1996\u003c/b\u003e. 2005. The 56 year sequences are separated by \u003cbr\u003e  an interval of \u003cb\u003e9\u003c/b\u003e years. Years in \u003cb\u003e...\u003c/b\u003e 6.9, \u003cb\u003eJune\u003c/b\u003e 26, 1892, Offshore Flinders Island, \u003cbr\u003e  Tas \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Pj3M1ZRiI8J",
+   "formattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "htmlFormattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Minerals | Recent earthquakes in SA",
+   "htmlTitle": "Minerals | Recent \u003cb\u003eearthquakes\u003c/b\u003e in SA",
+   "link": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "displayLink": "www.pir.sa.gov.au",
+   "snippet": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals ... Time   (UTC) which is 9:30 hours behind South Australian time or 10:30 hours behind ...",
+   "htmlSnippet": "Most recent \u003cb\u003eearthquakes\u003c/b\u003e recorded in South \u003cb\u003eAustralia\u003c/b\u003e by PIRSA&#39;s Minerals \u003cb\u003e...\u003c/b\u003e Time \u003cbr\u003e  (UTC) which is \u003cb\u003e9\u003c/b\u003e:30 hours behind South \u003cb\u003eAustralian\u003c/b\u003e time or 10:30 hours behind \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SS6ROhNnXxwJ",
+   "formattedUrl": "www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+   "htmlFormattedUrl": "www.pir.sa.gov.au/minerals/\u003cb\u003eearthquakes\u003c/b\u003e/recent_\u003cb\u003eearthquakes\u003c/b\u003e_in_sa",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en",
+      "dc.creator.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.publisher.corporatename": "Department of Primary Industries and Regions, South Australia",
+      "dc.title": "Recent earthquakes in SA",
+      "dc.date.created": "2008-05-20EST10:03:29",
+      "dc.date.modified": "2012-12-05EST15:22:43",
+      "dc.rights": "Copyright (c) Department of Primary Industries and Regions, South Australia",
+      "dc.identifier": "http://www.pir.sa.gov.au/minerals/earthquakes/recent_earthquakes_in_sa",
+      "dc.subject": "earthquake, latest, South Australia, recent",
+      "dc.description": "Most recent earthquakes recorded in South Australia by PIRSA's Minerals division",
+      "subject": "earthquake, latest, South Australia, recent"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,279 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 3 1975 Australia Earthquake",
+    "totalResults": "150000",
+    "searchTerms": "Oct 3 1975 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 3 1975 Australia Earthquake",
+    "totalResults": "150000",
+    "searchTerms": "Oct 3 1975 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.230095,
+  "formattedSearchTime": "0.23",
+  "totalResults": "150000",
+  "formattedTotalResults": "150,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... ???Tenemossismo,??? Ebrard tweeted at 3:23 a.m. Wednesday, translated ... After the   quake struck off the west coast of Haida Gwaii on Oct. 27 at 8:04 p.m. ..... From   1975-1995 there were only four states that did not have any earthquakes. ..... 37   cm at Pago Pago, American Samoa; 4 cm at Southport, Australia.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e ???Tenemossismo,??? Ebrard tweeted at \u003cb\u003e3\u003c/b\u003e:23 a.m. Wednesday, translated \u003cb\u003e...\u003c/b\u003e After the \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e struck off the west coast of Haida Gwaii on \u003cb\u003eOct\u003c/b\u003e. 27 at 8:04 p.m. \u003cb\u003e.....\u003c/b\u003e From \u003cbr\u003e  \u003cb\u003e1975\u003c/b\u003e-1995 there were only four states that did not have any \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e 37 \u003cbr\u003e  cm at Pago Pago, American Samoa; 4 cm at Southport, \u003cb\u003eAustralia\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Earthquake overview : A massive M7.3 earthquake struck the Honshu, Japan   coast , but luckily far out in the sea. Tsunami alert for 1 prefecture and more ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e overview : A massive M7.\u003cb\u003e3 earthquake\u003c/b\u003e struck the Honshu, Japan \u003cbr\u003e  coast , but luckily far out in the sea. Tsunami alert for 1 prefecture and more \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 List of earthquakes; 2 Other significant earthquakes; 3 See also; 4 References;   5 External ..... \"The Meckering Western Australia earthquake of October 1968\".",
+   "htmlSnippet": "1 List of \u003cb\u003eearthquakes\u003c/b\u003e; 2 Other significant \u003cb\u003eearthquakes\u003c/b\u003e; \u003cb\u003e3\u003c/b\u003e See also; 4 References; \u003cbr\u003e  5 External \u003cb\u003e.....\u003c/b\u003e &quot;The Meckering Western \u003cb\u003eAustralia earthquake\u003c/b\u003e of \u003cb\u003eOctober\u003c/b\u003e 1968&quot;.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Important Historical Earthquakes in Western Australia",
+   "htmlTitle": "Important Historical \u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_of_western_australia/wa_historical",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Sep 18, 2012 ... The Meckering Western Australia earthquake of October 1968 ... It's magnitude   was 6.9, and caused surface faulting up to 3 metres high, and .... of magnitude   6.0 or more (24/3/70, M 6.7, 16/7/71, M6.4 and 3/10/75, M 6.2), and ...",
+   "htmlSnippet": "Sep 18, 2012 \u003cb\u003e...\u003c/b\u003e The Meckering Western \u003cb\u003eAustralia earthquake\u003c/b\u003e of October 1968 \u003cb\u003e...\u003c/b\u003e It&#39;s magnitude \u003cbr\u003e  was 6.9, and caused surface faulting up to 3 metres high, and \u003cb\u003e....\u003c/b\u003e of magnitude \u003cbr\u003e  6.0 or more (24/3/70, M 6.7, 16/7/71, M6.4 and \u003cb\u003e3/10/75\u003c/b\u003e, M 6.2), and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qpeWLwpcb5UJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity...australia/wa_historical",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity...\u003cb\u003eaustralia\u003c/b\u003e/wa_historical",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "Large earthquakes of Western Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/37821",
+      "dc.date.modified": "2012-09-18",
+      "dc.date.created": "2003-12-16",
+      "dc.date.valid": "2013-09-18",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/37821",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Western Australia has had a regular history of earthquakes throughout its .... A   magnitude 5.0 earthquake occurred at 12:07 GMT on 3 October (8.07 pm local   time) ... M6.4 and 3/10/75, M 6.2), and 25 earthquakes of magnitude 5.0 or more,   the ...",
+   "htmlSnippet": "Western \u003cb\u003eAustralia\u003c/b\u003e has had a regular history of \u003cb\u003eearthquakes\u003c/b\u003e throughout its \u003cb\u003e....\u003c/b\u003e A \u003cbr\u003e  magnitude 5.0 \u003cb\u003eearthquake\u003c/b\u003e occurred at 12:07 GMT on 3 October (8.07 pm local \u003cbr\u003e  time) \u003cb\u003e...\u003c/b\u003e M6.4 and \u003cb\u003e3/10/75\u003c/b\u003e, M 6.2), and 25 \u003cb\u003eearthquakes\u003c/b\u003e of magnitude 5.0 or more, \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xOpqfAyoWKwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthquake_locations_Western_Australia_dot_map_-_Perth.png/220px-Earthquake_locations_Western_Australia_dot_map_-_Perth.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "267",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUOs-IlvqUwY-F_6rnA_lnaAa4vmzEjMMH5bY6IU6Mndm3q-cmKxHflzGS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "9/56 YEAR CYCLE: AUSTRALIAN EARTHQUAKES",
+   "htmlTitle": "9/56 YEAR CYCLE: \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.davidmcminn.com/eqpages/appendaust.htm",
+   "displayLink": "www.davidmcminn.com",
+   "snippet": "The 56 year Sequence 12 was the most important in Australian seismic ... 6.4,   October 3, 1975, Tobin Lake, WA ... 6.2, December 15, 1873, Central Australia ...",
+   "htmlSnippet": "The 56 year Sequence 12 was the most important in \u003cb\u003eAustralian seismic\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 6.4, \u003cbr\u003e  \u003cb\u003eOctober 3, 1975\u003c/b\u003e, Tobin Lake, WA \u003cb\u003e...\u003c/b\u003e 6.2, December 15, 1873, Central \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Pj3M1ZRiI8J",
+   "formattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "htmlFormattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Earthquake History USGS.",
+   "htmlTitle": "Colorado \u003cb\u003eEarthquake\u003c/b\u003e History USGS.",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "The program consisted of four tests between September 3 and October 26. Many   slight shocks ... A sharp earthquake struck western Colorado January 30, 1975.",
+   "htmlSnippet": "The program consisted of four tests between September \u003cb\u003e3\u003c/b\u003e and \u003cb\u003eOctober\u003c/b\u003e 26. Many \u003cbr\u003e  slight shocks \u003cb\u003e...\u003c/b\u003e A sharp \u003cb\u003eearthquake\u003c/b\u003e struck western Colorado January 30, \u003cb\u003e1975\u003c/b\u003e.",
+   "cacheId": "30ABL9k2McIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/colorado/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Quake shakes Central Victoria - Weekly Times Now",
+   "htmlTitle": "\u003cb\u003eQuake\u003c/b\u003e shakes Central Victoria - Weekly Times Now",
+   "link": "http://www.weeklytimesnow.com.au/article/2012/10/03/543965_latest-news.html",
+   "displayLink": "www.weeklytimesnow.com.au",
+   "snippet": "Sarah Scopelianos | October 3, 2012 ... Geoscience Australia this morning   confirmed the small earthquake south west of the ... \"The largest recorded in the   area was in 1959 with a 4.0 magnitude and oddly enough the next one was in   1975.",
+   "htmlSnippet": "Sarah Scopelianos | \u003cb\u003eOctober 3\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e Geoscience \u003cb\u003eAustralia\u003c/b\u003e this morning \u003cbr\u003e  confirmed the small \u003cb\u003eearthquake\u003c/b\u003e south west of the \u003cb\u003e...\u003c/b\u003e &quot;The largest recorded in the \u003cbr\u003e  area was in 1959 with a 4.0 magnitude and oddly enough the next one was in \u003cbr\u003e  \u003cb\u003e1975\u003c/b\u003e.",
+   "cacheId": "s9PdtIzsYngJ",
+   "formattedUrl": "www.weeklytimesnow.com.au/article/.../543965_latest-news.html",
+   "htmlFormattedUrl": "www.weeklytimesnow.com.au/article/.../543965_latest-news.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:title": "Quake shakes Central Victoria",
+      "og:type": "article"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... Australia ??? Azerbaijan ???   Bhutan ??? Bolivia ??? Brazil ??? Bulgaria ??? Canada ??? Caribbean Sea .... 1974 05 10 -   China - M 6.8 Fatalities 20,000; 1975 02 04 - Haicheng, China - M 7.0 .... 7.6   Fatalities 8; 2002 11 02 - Northern Sumatera, Indonesia - M 7.4 Fatalities 3 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e ??? Azerbaijan ??? \u003cbr\u003e  Bhutan ??? Bolivia ??? Brazil ??? Bulgaria ??? Canada ??? Caribbean Sea \u003cb\u003e....\u003c/b\u003e 1974 05 10 - \u003cbr\u003e  China - M 6.8 Fatalities 20,000; \u003cb\u003e1975\u003c/b\u003e 02 04 - Haicheng, China - M 7.0 \u003cb\u003e....\u003c/b\u003e 7.6 \u003cbr\u003e  Fatalities 8; 2002 11 02 - Northern Sumatera, Indonesia - M 7.4 Fatalities \u003cb\u003e3\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Geologic Hazards Slides, Volume 1 - Earthquake Damage to Schools",
+   "htmlTitle": "Geologic Hazards Slides, Volume 1 - \u003cb\u003eEarthquake\u003c/b\u003e Damage to Schools",
+   "link": "http://www.smate.wwu.edu/teched/geology/eq-schools.html",
+   "displayLink": "www.smate.wwu.edu",
+   "snippet": "OF CHINA: Tangshan July 27, 1976 7.9 240,000 PERU: Lima October 3, 1974   7.6 78 TURKEY: Lice September 6, 1975 6.7 2,300 UNITED STATES: ....   Damage to School in 1979 Cadoux, Australia Earthquake Earthquake of June 2,   1979, ...",
+   "htmlSnippet": "OF CHINA: Tangshan July 27, 1976 7.9 240,000 PERU: Lima \u003cb\u003eOctober 3\u003c/b\u003e, 1974 \u003cbr\u003e  7.6 78 TURKEY: Lice September 6, \u003cb\u003e1975\u003c/b\u003e 6.7 2,300 UNITED STATES: \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Damage to School in 1979 Cadoux, \u003cb\u003eAustralia Earthquake Earthquake\u003c/b\u003e of June 2, \u003cbr\u003e  1979, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dFgEMN1GPK0J",
+   "formattedUrl": "www.smate.wwu.edu/teched/geology/eq-schools.html",
+   "htmlFormattedUrl": "www.smate.wwu.edu/teched/geology/eq-schools.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.smate.wwu.edu/teched/geology/jump.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "108",
+      "height": "63",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSzafJY7ARc2er5sEZ7thB1NUPmjuJnkFdbye1uk__zKn-LUGsRK9rr"
+     }
+    ]
+   }
+  }
+ ]
+}
