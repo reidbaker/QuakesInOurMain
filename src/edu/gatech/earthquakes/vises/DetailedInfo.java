@@ -77,7 +77,7 @@ public class DetailedInfo extends Individual implements Brushable {
 			searching = false;
 		    }
 		}
-	    }).run(); // Should be threaded in the end, but having I/O issues
+	    }).start(); // Should be threaded in the end, but having I/O issues
 		      // right now.
 	}
     }
