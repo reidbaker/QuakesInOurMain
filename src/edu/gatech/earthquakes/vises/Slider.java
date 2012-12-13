@@ -22,10 +22,15 @@ public class Slider extends AbstractVisualization implements Interactable {
     int goalLeft, goalRight;
     int snappedLeft, snappedRight;
     int rangeMin, rangeMax;
+    
+    long timeMin, timeMax;
 
     int drawInterval;
 
     DataSet data;
+    
+    long[][] drawData;
+    
     int[] years;
     int[] fullYears;
 
@@ -59,8 +64,32 @@ public class Slider extends AbstractVisualization implements Interactable {
 
     public void grabDates() {
 	Set<Date> dates = Sets.newTreeSet();
+	
+	int size = data.getDatum().size();
+        drawData = new long[size][2];
+	
+        timeMin = Long.MAX_VALUE;
+        timeMax = Long.MIN_VALUE;
+        
+        int index = 0;
+        
 	for (DataRow dr : data) {
-	    dates.add((Date) dr.getVariables().get(DataRow.DATE));
+	    Date newDate = (Date) dr.getVariables().get(DataRow.DATE);
+	    long dateTime = newDate.getTime();
+	    if(dateTime < timeMin){
+	        timeMin = dateTime;
+	    }
+	    if(dateTime > timeMax){
+	        timeMax = dateTime;
+	    }
+	    
+	    double mag = (Double) dr.getVariables().get(DataRow.MOMENT_MAGNITUDE);
+	    long dataY = (long)PApplet.map((float)mag, 4.0f, 8.0f, 0f, (float)h);
+	    
+	    drawData[index][0] = dateTime;
+	    drawData[index++][1] = dataY;
+	    
+	    dates.add(newDate);
 	}
 	Date[] dateArray = dates.toArray(new Date[] {});
 	years = new int[dateArray.length];
@@ -231,6 +260,7 @@ public class Slider extends AbstractVisualization implements Interactable {
 	p.strokeCap(PApplet.ROUND);
 	int prevYear = 0;
 	double prevMag = 0;
+	int index = 0;
 	for (DataRow r : data) {
 	    Date date = (Date) r.getVariables().get(DataRow.DATE);
 	    Calendar cal = Calendar.getInstance();
@@ -238,15 +268,18 @@ public class Slider extends AbstractVisualization implements Interactable {
 	    int year = cal.get(Calendar.YEAR);
 	    double mag = (double) r.getVariables()
 		    .get(DataRow.MOMENT_MAGNITUDE);
-	    if (year > prevYear || mag > prevMag) { // Optimization, dont draw
+	    //if (year > prevYear || mag > prevMag) { // Optimization, dont draw
 		                                    // line unless new year or
 		                                    // magnitude is larger
-		float xLocation = xLocationMap(year, fullYears[0],
-		        fullYears[fullYears.length - 1], x, x + w, left, right);
+//		float xLocation = xLocationMap(year, fullYears[0],
+//		        fullYears[fullYears.length - 1], x, x + w, left, right);
+		float xLocationNew = xLocationMap2(drawData[index][0], x, x+w, left, right);
 		float height = PApplet.map((float) mag, 4.0f, 8.0f, 0f,
 		        (float) h);
-		p.line(xLocation, y + h, xLocation, y + h - height);
-	    }
+		height = drawData[index][1];
+		p.line(xLocationNew, y + h, xLocationNew, y + h - height);
+		index ++;
+	    //}
 	}
 
 	p.fill(Theme.getDarkUIColor());
@@ -342,6 +375,24 @@ public class Slider extends AbstractVisualization implements Interactable {
 		    sliderLeftOffset, sliderRightOffset);
 	}
 	return calcuated;
+    }
+    
+    private float xLocationMap2(long time,
+            float leftEdge, float rightEdge, float sliderLeft, float sliderRight) {
+        float calcuated = 0;
+        float linear = PApplet.map(time, timeMin, timeMax, leftEdge, rightEdge);
+        if (linear < sliderLeft) {
+            calcuated = fuzzLeft(linear, leftEdge);
+        } else if (linear > sliderRight) {
+            calcuated = fuzzRight(linear, rightEdge);
+        } else {
+            float sliderLeftOffset = fuzzLeft(sliderLeft, leftEdge);
+            float sliderRightOffset = ((rightEdge - sliderRight) / 2)
+                    + sliderRight;
+            calcuated = PApplet.map(linear, sliderLeft, sliderRight,
+                    sliderLeftOffset, sliderRightOffset);
+        }
+        return calcuated;
     }
 
     private static float fuzzLeft(float point, float leftEdge) {
