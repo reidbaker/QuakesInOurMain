@@ -232,8 +232,6 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 	                - offset)), Math.min((w - buffer * 2) / 3 - offset,
 	        (h - buffer * 2) / 3 - offset));
 
-	System.out.println((float) w / h);
-
     }
 
     private class TypeCount implements Comparable<TypeCount> {

@@ -265,9 +265,9 @@ public class Slider extends AbstractVisualization implements Interactable {
 	    Date date = (Date) r.getVariables().get(DataRow.DATE);
 	    Calendar cal = Calendar.getInstance();
 	    cal.setTime(date);
-	    int year = cal.get(Calendar.YEAR);
-	    double mag = (double) r.getVariables()
-		    .get(DataRow.MOMENT_MAGNITUDE);
+//	    int year = cal.get(Calendar.YEAR);
+//	    double mag = (double) r.getVariables()
+//		    .get(DataRow.MOMENT_MAGNITUDE);
 //		float xLocation = xLocationMap(year, fullYears[0],
 //		        fullYears[fullYears.length - 1], x, x + w, left, right);
 		int xLocationNew = (int)xLocationMap2(drawData[index][0], x, x+w, left, right);
