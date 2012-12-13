@@ -30,7 +30,7 @@ public class DetailedInfo extends Individual implements Brushable {
     private volatile String title;
 
     // To keep from spamming custom search
-    private volatile boolean searching;
+//    private volatile boolean searching;
 
     // Formatting
     private int xPadding;
@@ -41,7 +41,7 @@ public class DetailedInfo extends Individual implements Brushable {
         super(x, y, w, h, displayData, "Detailed Information");
         setFormatting(w, h);
         recalculateNumResults();
-        searching = false;
+//        searching = false;
     }
 
     private void setFormatting(int width, int height) {
@@ -56,13 +56,13 @@ public class DetailedInfo extends Individual implements Brushable {
 
                 @Override
                 public void run() {
-                    searching = true;
+//                    searching = true;
                     try {
                         numResults = CustomSearch.getTotalCount(CustomSearch
                                 .getInstance().getQuery(getWebQuery()));
                         title = CustomSearch.getTitles(0, CustomSearch
                                 .getInstance().getQuery(getWebQuery()));
-                        searching = false;
+//                        searching = false;
                     } catch (UnknownHostException uhe) {
                         numResults = -1;
                         title = "";
@@ -75,7 +75,7 @@ public class DetailedInfo extends Individual implements Brushable {
                         numResults = -1;
                         title = "";
                     } finally {
-                        searching = false;
+//                        searching = false;
                     }
                 }
             }).start();
