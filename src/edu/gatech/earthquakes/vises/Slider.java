@@ -33,6 +33,9 @@ public class Slider extends AbstractVisualization implements Interactable {
     
     int[] years;
     int[] fullYears;
+    
+
+    static float factor = .5f;
 
     boolean moveLeft, moveRight, moveAll;
 
@@ -150,7 +153,7 @@ public class Slider extends AbstractVisualization implements Interactable {
     }
 
     public void dragLH(int nx, int px) {
-	goalLeft += nx - px;
+	goalLeft += (nx - px) / factor;
 	if (goalLeft < x) {
 	    goalLeft += x - goalLeft;
 	} else if (goalLeft > goalRight - w / fullYears.length) {
@@ -159,7 +162,7 @@ public class Slider extends AbstractVisualization implements Interactable {
     }
 
     public void dragRH(int nx, int px) {
-	goalRight += nx - px;
+	goalRight += (nx - px) / factor;
 	if (goalRight > x + w) {
 	    goalRight -= (goalRight - (x + w));
 	} else if (goalLeft > goalRight - w / fullYears.length) {
@@ -403,12 +406,10 @@ public class Slider extends AbstractVisualization implements Interactable {
     }
 
     private static float fuzzLeft(float point, float leftEdge) {
-	float factor = .5f;
 	return ((point - leftEdge) * factor) + leftEdge;
     }
 
     private static float fuzzRight(float point, float rightEdge) {
-	float factor = .5f;
 	return rightEdge - ((rightEdge - point) * factor);
     }
 
