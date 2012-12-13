@@ -1,0 +1,274 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 8 1933 North America Earthquake",
+    "totalResults": "84700",
+    "searchTerms": "Feb 8 1933 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 8 1933 North America Earthquake",
+    "totalResults": "84700",
+    "searchTerms": "Feb 8 1933 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.283972,
+  "formattedSearchTime": "0.28",
+  "totalResults": "84700",
+  "formattedTotalResults": "84,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the M 9.0 massive Tohoku, Sendai, Japan ...",
+   "htmlTitle": "Understanding the M 9.0 massive Tohoku, Sendai, Japan \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/03/18/understanding-the-m-9-0-massive-tohoku-sendai-japan-earthquake-and-tsunami/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 18, 2011 ... At the latitude of this earthquake, the Pacific plate moves approximately   westwards with respect to the North America plate at a rate of 83 mm/yr, ...",
+   "htmlSnippet": "Mar 18, 2011 \u003cb\u003e...\u003c/b\u003e At the latitude of this \u003cb\u003eearthquake\u003c/b\u003e, the Pacific plate moves approximately \u003cbr\u003e  westwards with respect to the \u003cb\u003eNorth America\u003c/b\u003e plate at a rate of 83 mm/yr, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Tplkh4qcUSQJ",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-m-9-0-massive-tohoku-sendai- japan-earthquake-and-tsunami/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-m-9-0-massive-tohoku-sendai- japan-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/c0001xgp/download/intensity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "243",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXWCqPl96ZTVvHm0RV-CGIcezhrz6dl7_ycaDASHXh1OS906dV7j5ZLDXh"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "polat",
+      "nickname": "polat"
+     },
+     {
+      "fn": "bryce",
+      "nickname": "bryce",
+      "url": "http://google/",
+      "url_text": "bryce"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1663 Charlevoix earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1663 Charlevoix \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1663_Charlevoix_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1663 Charlevoix earthquake occurred on February 5, 1663 in the ... The   event occurred during the early European settlement of North America and some   of ...",
+   "htmlSnippet": "The 1663 Charlevoix \u003cb\u003eearthquake\u003c/b\u003e occurred on \u003cb\u003eFebruary\u003c/b\u003e 5, 1663 in the \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  event occurred during the early European settlement of \u003cb\u003eNorth America\u003c/b\u003e and some \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "12Rjey_WQMUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1663_Charlevoix_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1663_Charlevoix_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive July ??? August 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive July ??? August 2012",
+   "link": "http://earthquake-report.com/2012/09/27/worldwide-earthquake-related-news-archive-july-august-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Sep 27, 2012 ... Did you know this earthquake happened on the same day in history ? China,   1933 ??? Magnitude : 7.5. More than 9,300 dead, one of the world's ...",
+   "htmlSnippet": "Sep 27, 2012 \u003cb\u003e...\u003c/b\u003e Did you know this \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in history ? China, \u003cbr\u003e  \u003cb\u003e1933\u003c/b\u003e ??? Magnitude : 7.5. More than 9,300 dead, one of the world&#39;s \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HaxPeAcZA3EJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive-july- august-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive-july- august-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/07/Screen-Shot-2012-08-25-at-09.58.29.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "309",
+      "height": "163",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzypNNy5tko_c6aX69Wn810jyC7Y09K0GD8f5NfAM7xdjFanrHoJnPCxE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "HowStuffWorks \"1932-1933 Flight Timeline\"",
+   "htmlTitle": "HowStuffWorks &quot;1932-\u003cb\u003e1933\u003c/b\u003e Flight Timeline&quot;",
+   "link": "http://science.howstuffworks.com/golden-age-of-flight-timeline6.htm",
+   "displayLink": "science.howstuffworks.com",
+   "snippet": "February 6-8, 1933 A Fairey Long-Range Monoplane sets a world distance   record of 5,309.24 miles. February 6-9, 1933 ... He is the first to achieve solo   flights across both the North and South Atlantic and the first to fly solo from   England to South America. February 8, 1933 ... Fact or Fiction: Earthquake Quiz ??   Top 10 Things ...",
+   "htmlSnippet": "February 6-\u003cb\u003e8, 1933\u003c/b\u003e A Fairey Long-Range Monoplane sets a world distance \u003cbr\u003e  record of 5,309.24 miles. February 6-9, 1933 \u003cb\u003e...\u003c/b\u003e He is the first to achieve solo \u003cbr\u003e  flights across both the \u003cb\u003eNorth\u003c/b\u003e and South Atlantic and the first to fly solo from \u003cbr\u003e  England to South \u003cb\u003eAmerica\u003c/b\u003e. \u003cb\u003eFebruary 8, 1933\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Fact or Fiction: \u003cb\u003eEarthquake\u003c/b\u003e Quiz &middot; \u003cbr\u003e  Top 10 Things \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IW_snhMQOF8J",
+   "formattedUrl": "science.howstuffworks.com/golden-age-of-flight-timeline6.htm",
+   "htmlFormattedUrl": "science.howstuffworks.com/golden-age-of-flight-timeline6.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://static.ddmcdn.com/gif/golden-age-of-flight6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "304",
+      "height": "166",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8fA8XOKj_5oraXb3tn4GRblOirAL94acLaJfeefxsOu8eElFaYu6SIEm"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "HowStuffWorks \"1932-1933 Flight Timeline\"",
+      "og:url": "http://science.howstuffworks.com/transport/flight/classic/golden-age-of-flight-timeline.htm",
+      "og:site_name": "HowStuffWorks",
+      "og:description": "The Golden Age of Flight timeline chronicles some of the major milestones in this era of aviation. Check out the Golden Age of Flight timeline.",
+      "fb:admins": "100001675325868",
+      "fb:app_id": "125879910816296"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report",
+   "link": "http://earthquake-report.com/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Strong extremely shallow earthquake in Iran kills at least 8 people, 23 injured   and a lot of damage. 05.12.2012 ??? A seemingly moderate earthquake became a ...",
+   "htmlSnippet": "Strong extremely shallow \u003cb\u003eearthquake\u003c/b\u003e in Iran kills at least \u003cb\u003e8\u003c/b\u003e people, 23 injured \u003cbr\u003e  and a lot of damage. 05.12.2012 ??? A seemingly moderate \u003cb\u003eearthquake\u003c/b\u003e became a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_sc9WSRNqbUJ",
+   "formattedUrl": "earthquake-report.com/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/11/Screen-Shot-2012-11-11-at-03.01.16-110x110.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "88",
+      "height": "88",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1x_5Zz5w3CJeXhHC4KPFPg8IB7BfrCXfF79u2EOqDn4NgA_8kyHtb6w"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/index.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 28, 2012 ... Get real-time earthquake notifications sent to you using a number of ... is moving   eastward toward South America by seafloor spreading at the ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of \u003cb\u003e...\u003c/b\u003e is moving \u003cbr\u003e  eastward toward South \u003cb\u003eAmerica\u003c/b\u003e by seafloor spreading at the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D_0uDpIsu6kJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/index.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami Hazard to North and West Vancouver, British Columbia",
+   "htmlTitle": "Tsunami Hazard to \u003cb\u003eNorth\u003c/b\u003e and West Vancouver, British Columbia",
+   "link": "http://www.nsemo.org/sites/default/files/files/NSEMO%2520report.pdf",
+   "displayLink": "www.nsemo.org",
+   "snippet": "Studies of tidal marshes on the Pacific coast of North America that suddenly   subsided during great (M \u003e8) earthquakes show that the Cascadia subduction   zone ...",
+   "htmlSnippet": "Studies of tidal marshes on the Pacific coast of \u003cb\u003eNorth America\u003c/b\u003e that suddenly \u003cbr\u003e  subsided during great (M &gt;\u003cb\u003e8\u003c/b\u003e) \u003cb\u003eearthquakes\u003c/b\u003e show that the Cascadia subduction \u003cbr\u003e  zone \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0RoA066Ro8kJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nsemo.org/sites/default/files/files/NSEMO%2520report.pdf",
+   "htmlFormattedUrl": "www.nsemo.org/sites/default/files/files/NSEMO%2520report.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060130090217-08'00'",
+      "author": "Jerome Lesemann",
+      "creator": "Acrobat PDFMaker 7.0.5 for Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20060130090313-08'00'",
+      "sourcemodified": "D:20060130170126",
+      "title": "- Tsunamis on the Westcoast of North America"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 8 and Greater Earthquakes Since 1900",
+   "htmlTitle": "Magnitude \u003cb\u003e8\u003c/b\u003e and Greater \u003cb\u003eEarthquakes\u003c/b\u003e Since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/mag8/magnitude8_1900_date.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Display Magnitude 8 Earthquakes in Google Earth. ... 1933/03/02 17:31, 39.22,   144.62, 8.4, 2990, Sanriku, Japan. 1934/01/15 08:43, 27.55 .... 2004/12/23 14:59,   -49.312, 161.345, 8.1, north of Macquarie Island ... Accessibility ?? FOIA ?? Privacy ??   Policies and Notices ?? In partnership with nehrp ?? Take Pride in America ?? USA.  gov ...",
+   "htmlSnippet": "Display Magnitude \u003cb\u003e8 Earthquakes\u003c/b\u003e in Google Earth. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1933\u003c/b\u003e/03/02 17:31, 39.22, \u003cbr\u003e  144.62, 8.4, 2990, Sanriku, Japan. 1934/01/15 08:43, 27.55 \u003cb\u003e....\u003c/b\u003e 2004/12/23 14:59, \u003cbr\u003e  -49.312, 161.345, 8.1, \u003cb\u003enorth\u003c/b\u003e of Macquarie Island \u003cb\u003e...\u003c/b\u003e Accessibility &middot; FOIA &middot; Privacy &middot; \u003cbr\u003e  Policies and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e &middot; USA.\u003cbr\u003e  gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-_taVO3onUwJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/.../magnitude8_1900_date.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/.../magnitude8_1900_date.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/mag8/images/mag8_1900.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "273",
+      "height": "184",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM096zGDz8ARm3ME-WMUo4oT_MrHV9SZI69Lm6O-tm7XIkyyUOe-9cIb0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake FAQ",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e FAQ",
+   "link": "http://seismo.berkeley.edu/faq/1906_0.html",
+   "displayLink": "seismo.berkeley.edu",
+   "snippet": "What kind of earthquake was the 1906 San Francisco earthquake? .... New   Zealand earthquake of February 22, 2011 was the result of liquefaction. .... The   Pacific Plate is moving northwest with respect to the North American Plate at .....   Plugging in the numbers, for a magnitude 8 earthquake, about the biggest that   we could ...",
+   "htmlSnippet": "What kind of \u003cb\u003eearthquake\u003c/b\u003e was the 1906 San Francisco \u003cb\u003eearthquake\u003c/b\u003e? \u003cb\u003e....\u003c/b\u003e New \u003cbr\u003e  Zealand \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eFebruary\u003c/b\u003e 22, 2011 was the result of liquefaction. \u003cb\u003e....\u003c/b\u003e The \u003cbr\u003e  Pacific Plate is moving northwest with respect to the \u003cb\u003eNorth American\u003c/b\u003e Plate at \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Plugging in the numbers, for a magnitude \u003cb\u003e8 earthquake\u003c/b\u003e, about the biggest that \u003cbr\u003e  we could \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fMnAJDrCuwgJ",
+   "formattedUrl": "seismo.berkeley.edu/faq/1906_0.html",
+   "htmlFormattedUrl": "seismo.berkeley.edu/faq/1906_0.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. .... 2009 01 03 - Near the North   Coast of Papua, Indonesia - M 7.4 ?? 2009 01 03 - Near the .... 2004 11 20 - Costa   Rica - M 6.4 Fatalities 8; 2004 11 15 - Near the West Coast of ..... 1933 11 20 -   Baffin Bay, Canada - M 7.4; 1933 08 25 - Sichuan, China - M 7.4 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e....\u003c/b\u003e 2009 01 03 - Near the \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  Coast of Papua, Indonesia - M 7.4 &middot; 2009 01 03 - Near the \u003cb\u003e....\u003c/b\u003e 2004 11 20 - Costa \u003cbr\u003e  Rica - M 6.4 Fatalities \u003cb\u003e8\u003c/b\u003e; 2004 11 15 - Near the West Coast of \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1933\u003c/b\u003e 11 20 - \u003cbr\u003e  Baffin Bay, Canada - M 7.4; \u003cb\u003e1933\u003c/b\u003e 08 25 - Sichuan, China - M 7.4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  }
+ ]
+}

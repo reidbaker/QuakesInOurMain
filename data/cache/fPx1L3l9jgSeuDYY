@@ -1,0 +1,358 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 4 1974 Africa Earthquake",
+    "totalResults": "204000",
+    "searchTerms": "Sep 4 1974 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 4 1974 Africa Earthquake",
+    "totalResults": "204000",
+    "searchTerms": "Sep 4 1974 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.266591,
+  "formattedSearchTime": "0.27",
+  "totalResults": "204000",
+  "formattedTotalResults": "204,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 4 1974 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 4 1974 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed. The earthquake was   centered in the gold mining area of Welkom ...... Many sources list the casualty   total at 10,000, but a news release on 9 Dec 1988 advised that the correct death   toll was 110,000. ... Peru, 1974 ??? Magnitude : 7.6 ??? 78 people killed ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? \u003cb\u003e4\u003c/b\u003e people killed. The \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  centered in the gold mining area of Welkom \u003cb\u003e......\u003c/b\u003e Many sources list the casualty \u003cbr\u003e  total at 10,000, but a news release on 9 \u003cb\u003eDec\u003c/b\u003e 1988 advised that the correct death \u003cbr\u003e  toll was 110,000. \u003cb\u003e...\u003c/b\u003e Peru, \u003cb\u003e1974\u003c/b\u003e ??? Magnitude : 7.6 ??? 78 people killed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Tripoli, Libya, Earthquake of September 4, 1974: Implications for ...",
+   "htmlTitle": "The Tripoli, Libya, \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eSeptember 4, 1974\u003c/b\u003e: Implications for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.agu.org/pubs/crossref/1990/TC009i002p00231.shtml",
+   "displayLink": "www.agu.org",
+   "snippet": "... and inland seas); Seismology: Earthquake parameters; Tectonophysics: Plate   motions, past and present; Information Related to Geographic Region: Africa ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e and inland seas); Seismology: \u003cb\u003eEarthquake\u003c/b\u003e parameters; Tectonophysics: Plate \u003cbr\u003e  motions, past and present; Information Related to Geographic Region: \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.agu.org/pubs/crossref/1990/TC009i002p00231.shtml",
+   "htmlFormattedUrl": "www.agu.org/pubs/crossref/1990/TC009i002p00231.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.publisher": "American Geophysical Union",
+      "dc.language": "en",
+      "dc.rights": "?? 2008 American Geophysical Union",
+      "dc.title": "The Tripoli, Libya, Earthquake of September 4, 1974: Implications for the active tectonics of the central Mediterranean",
+      "dc.creator": "Rob Westaway",
+      "dc.identifier": "doi:10.1029/TC009i002p00231",
+      "dc.source": "Citation: Westaway, R. (1990), The Tripoli, Libya, Earthquake of September 4, 1974: Implications for the active tectonics of the central Mediterranean, Tectonics, 9(2), 231???248, doi:10.1029/TC009i002p00231.",
+      "dc.date": "NaN",
+      "prism.copyright": "?? 2008 American Geophysical Union",
+      "prism.rightsagent": "author.help@agu.org",
+      "prism.publicationname": "Tectonics",
+      "prism.issn": "0278-7407",
+      "prism.eissn": "0278-7407",
+      "prism.publicationdate": "NaN",
+      "prism.volume": "9",
+      "prism.number": "2",
+      "prism.startingpage": "null",
+      "citation_journal_title": "Tectonics",
+      "citation_publisher": "American Geophysical Union",
+      "citation_authors": "Rob Westaway",
+      "citation_title": "The Tripoli, Libya, Earthquake of September 4, 1974: Implications for the active tectonics of the central Mediterranean",
+      "citation_date": "NaN",
+      "citation_year": "1990",
+      "citation_volume": "9",
+      "citation_issue": "2",
+      "citation_firstpage": "231",
+      "citation_lastpage": "248",
+      "citation_issn": "0278-7407",
+      "citation_language": "English",
+      "citation_doi": "doi:10.1029/TC009i002p00231",
+      "citation_abstract": "Source parameters have been determined for the earthquake (Ms 5.6) that occurred offshore of Tripoli, Libya, on September 4, 1974. One nodal plane of its focal mechanism has dip 37??, strike 297??, and rake ???141??, indicating oblique normal faulting. This nodal plane is subparallel to many west-northwest striking normal faults in the epicentral area and is most likely the fault plane, indicating a component of right-lateral strike-slip with slip vector azimuth N84??E. Inversion of long-period teleseismic body waves indicates 12-km centroid depth and 0.4 ?? 1018 N m seismic moment. A much larger earthquake (Ms 7.0) on April 19, 1935, that occurred in the same zone of active oblique normal faults ???400 km farther southeast near Sirte probably involved similar slip sense. This zone, for which the name ???Tunisia-Libya seismic zone??? appears appropriate, has overall northwest-southeast extent ???1000 km from northern Libya to between Tunisia and Sicily. It takes up a change in motion direction relative to sta",
+      "citation_pdf_url": "http://www.agu.org/journals/tc/v009/i002/TC009i002p00231/TC009i002p00231.pdf",
+      "citation_abstract_html_url": "http://www.agu.org/pubs/crossref/1990/TC009i002p00231.shtml",
+      "fulltext_pdf": "http://www.agu.org/journals/tc/v009/i002/TC009i002p00231/TC009i002p00231.pdf",
+      "indexterm": "7230 Seismology: Seismicity"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list July 30, 2012 ??? Earthquake in South ...",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list July 30, 2012 ??? \u003cb\u003eEarthquake\u003c/b\u003e in South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/07/29/complete-earthquakes-list-july-30-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 31, 2012 ... Earthquake in South Africa An earthquake was reported in this site out of   Bloemfontein and Reddersburg, South Africa Geoscience South Africa ...",
+   "htmlSnippet": "Jul 31, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e in South \u003cb\u003eAfrica\u003c/b\u003e An \u003cb\u003eearthquake\u003c/b\u003e was reported in this site out of \u003cbr\u003e  Bloemfontein and Reddersburg, South \u003cb\u003eAfrica\u003c/b\u003e Geoscience South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nMjKCPuqJLcJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-july-30-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-july-30-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Worldwide earthquakes M 4.4 or higher. Earthquakes of M 2.5 or more, click here  .Keep this page open (in a browser tab) ??? NEW POSTINGS WILL APPEAR ...",
+   "htmlSnippet": "Worldwide \u003cb\u003eearthquakes\u003c/b\u003e M 4.4 or higher. \u003cb\u003eEarthquakes\u003c/b\u003e of M 2.5 or more, click here\u003cbr\u003e  .Keep this page open (in a browser tab) ??? NEW POSTINGS WILL APPEAR \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the Lorca, Spain May 11 2011 earthquake",
+   "htmlTitle": "Understanding the Lorca, Spain May 11 2011 \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/05/12/understanding-the-lorca-spain-may-11-2011-earthquake/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 12, 2011 ... The southeastern Spain earthquake of 11 May, 2011, occurred within the plate   boundary region that separates the Eurasia and Africa (Nubia) ...",
+   "htmlSnippet": "May 12, 2011 \u003cb\u003e...\u003c/b\u003e The southeastern Spain \u003cb\u003eearthquake\u003c/b\u003e of 11 May, 2011, occurred within the plate \u003cbr\u003e  boundary region that separates the Eurasia and \u003cb\u003eAfrica\u003c/b\u003e (Nubia) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zWWHwSVsn3QJ",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-lorca-spain-may-11-2011- earthquake/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-lorca-spain-may-11-2011- \u003cb\u003eearthquake\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://neic.usgs.gov/neis/eq_depot/2011/eq_110511_c0003c5s/neic_c0003c5s_w.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "212",
+      "height": "237",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMr5_9zov2Km8io-c7V-fBR_Pm1kh4lRtyNkDV0-89wtBejZr56JQiCR5d"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Murcia Property",
+      "url": "http://www.platinumholidayrentals.com/",
+      "url_text": "Murcia Property"
+     },
+     {
+      "fn": "elena sarri??n"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 4 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember 4\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_4",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 4 is the 247th day of the year (248th in leap years) in the ... to prevent   African American students from enrolling in Central High School. ... 2010 ???   Canterbury earthquake: a 7.1 magnitude earthquake which struck the South   Island of New Zealand at 4:35 am .... 1914); 1974 ??? Marcel Achard, French   playwright (b.",
+   "htmlSnippet": "\u003cb\u003eSeptember 4\u003c/b\u003e is the 247th day of the year (248th in leap years) in the \u003cb\u003e...\u003c/b\u003e to prevent \u003cbr\u003e  \u003cb\u003eAfrican\u003c/b\u003e American students from enrolling in Central High School. \u003cb\u003e...\u003c/b\u003e 2010 ??? \u003cbr\u003e  Canterbury \u003cb\u003eearthquake\u003c/b\u003e: a 7.1 magnitude \u003cb\u003eearthquake\u003c/b\u003e which struck the South \u003cbr\u003e  Island of New Zealand at \u003cb\u003e4\u003c/b\u003e:35 am \u003cb\u003e....\u003c/b\u003e 1914); \u003cb\u003e1974\u003c/b\u003e ??? Marcel Achard, French \u003cbr\u003e  playwright (b.",
+   "cacheId": "uY5WWSWtfqsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_4",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e4\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Earthquakes",
+   "htmlTitle": "Historical \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/index.php?option=com_content&view=article&id=1612:historical-earthquakes&catid=138:seismology-unit-activities&Itemid=615",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "Theron, J.H., 1974, The earthquake of 29 September 1969 in the southwestern   Cape Province, South Africa. Seismologic Series 4, Geological Survey, p. 12-18.",
+   "htmlSnippet": "Theron, J.H., \u003cb\u003e1974\u003c/b\u003e, The \u003cb\u003eearthquake\u003c/b\u003e of 29 \u003cb\u003eSeptember\u003c/b\u003e 1969 in the southwestern \u003cbr\u003e  Cape Province, South \u003cb\u003eAfrica\u003c/b\u003e. Seismologic Series \u003cb\u003e4\u003c/b\u003e, Geological Survey, p. 12-18.",
+   "cacheId": "HzRAmQ_5o1MJ",
+   "formattedUrl": "www.geoscience.org.za/index.php?...earthquakes...",
+   "htmlFormattedUrl": "www.geoscience.org.za/index.php?...\u003cb\u003eearthquakes\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Historical Earthquakes",
+      "author": "Malcolm Simpson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "E EE!",
+   "htmlTitle": "E EE!",
+   "link": "http://www.dtic.mil/dtic/tr/fulltext/u2/a317610.pdf",
+   "displayLink": "www.dtic.mil",
+   "snippet": "4. 3. Magnitude \u003e 5.0 Earthquakes of Northern Africa (1963-1988) .................... 5.   4. ..... The Tripoli, Libya, earthquake of September 4, 1974: Implications for the ...",
+   "htmlSnippet": "4. 3. Magnitude &gt; 5.0 \u003cb\u003eEarthquakes\u003c/b\u003e of Northern \u003cb\u003eAfrica\u003c/b\u003e (1963-1988) .................... 5. \u003cbr\u003e  4. \u003cb\u003e.....\u003c/b\u003e The Tripoli, Libya, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eSeptember 4\u003c/b\u003e, \u003cb\u003e1974\u003c/b\u003e: Implications for the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VCsRtl-OaYgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/dtic/tr/fulltext/u2/a317610.pdf",
+   "htmlFormattedUrl": "www.dtic.mil/dtic/tr/fulltext/u2/a317610.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "efa": "19 JUL 1996",
+      "de": "*DATA BASES, *SYSTEMS ENGINEERING, *GEOPHYSICS, *NORTH AFRICA, *LITHOSPHERE, *GEOLOGIC MODELS, LIBYA, THICKNESS, GLOBAL, SITES, DEPTH, TIME, SEISMIC DATA, EARTH CRUST, DATA ACQUISITION, DELAY, GRAVITY, MAPS, SYSTEMS APPROACH.",
+      "moddate": "D:20110513064237-04'00'",
+      "tc": "UNCLASSIFIED",
+      "dcs": "UNCLASSIFIED",
+      "au": "Doser, D. I., Keller, G. R., Harder, S., Miller, K. C.",
+      "fg": "GEOLOGY, GEOCHEMISTRY AND MINERALOGY, COMPUTER SYSTEMS",
+      "dc": "APPROVED FOR PUBLIC RELEASE",
+      "hdl": "http://handle.dtic.mil/100.2/ADA317610",
+      "ad": "ADA317610",
+      "producer": "; modified using iText 5.0.4 (c) 1T3XT BVBA",
+      "ci": "UNCLASSIFIED",
+      "ac": "UNCLASSIFIED",
+      "ab": "We have collected seismic, geologic, gravity and other potential field data to develop a model of the North African lithosphere via an integrated approach. We have constructed a gravity data base for the region, including over 5300 gravity readings for northern Libya. We have generated a Bouguer gravity map of northern Africa and are currently modeling gravity data along three transects across North Africa. These results were used as the basis on which to construct a preliminary map of crustal thickness for the region. The maps and interpreted transects are available through a World Wide Web site, and the gravity data base can also be accessed electronically, We have begun a collection of seismograms from Worldwide Standardized Seismograph Network stations located at regional distances from magnitude greater than 5.0 earthquakes occurring within North Africa (between 1963 and 1988) and their associated aftershocks. We have collected delay time, travel time, focal mechanisms, focal depth and magnitude informat",
+      "rs": "PL*",
+      "pag": "45",
+      "gc": "4816",
+      "cs": "ACTIVE",
+      "ic": "UNCLASSIFIED",
+      "id": "LITHOSPHERIC DATA BASE, PE69120H, WUPLDENNGMAI",
+      "org": "PUBLIC/STATE ACADEMIC EDUCATIONAL INSTITUTIONS",
+      "pgc": "0",
+      "upd": "26 JUN 1997",
+      "an": "ADA317610",
+      "title": "Development of a Lithospheric Model and Geophysical Data Base for North Africa.",
+      "dlc": "DTIC",
+      "rc": "UNCLASSIFIED",
+      "ti": "Development of a Lithospheric Model and Geophysical Data Base for North Africa.",
+      "rd": "19 JUL 1996",
+      "rcc": "UNCLASSIFIED",
+      "ca": "TEXAS UNIV AT EL PASO DEPT OF GEOLOGICAL SCIENCES",
+      "tt": "ACTIVE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "9/56 YEAR CYCLE: SOUTH AFRICAN EARTHQUAKES",
+   "htmlTitle": "9/56 YEAR CYCLE: SOUTH \u003cb\u003eAFRICAN EARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.davidmcminn.com/eqpages/appendza.htm",
+   "displayLink": "www.davidmcminn.com",
+   "snippet": "Theron, J.H., 1974, The earthquake of 29 September 1969 in the southwestern   Cape Province, South Africa. Seismologic Series 4, Geological Survey, p. 12-18.",
+   "htmlSnippet": "Theron, J.H., \u003cb\u003e1974\u003c/b\u003e, The \u003cb\u003eearthquake\u003c/b\u003e of 29 \u003cb\u003eSeptember\u003c/b\u003e 1969 in the southwestern \u003cbr\u003e  Cape Province, South \u003cb\u003eAfrica\u003c/b\u003e. Seismologic Series \u003cb\u003e4\u003c/b\u003e, Geological Survey, p. 12-18.",
+   "cacheId": "iMbVclYAUTQJ",
+   "formattedUrl": "www.davidmcminn.com/eqpages/appendza.htm",
+   "htmlFormattedUrl": "www.davidmcminn.com/eqpages/appendza.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity along the northwestern edge of the Adria microplate",
+   "htmlTitle": "Seismicity along the northwestern edge of the Adria microplate",
+   "link": "http://users.isterre.fr/thouve/articles/Adria.pdf",
+   "displayLink": "users.isterre.fr",
+   "snippet": "earthquakes occurred during this period, or where the connection ..... constraints   on the Africa-Eurasia plate boundary zone in southern Italy, Geophys. ....   Westaway, R., The Tripoli, Libya, earthquake of September 4, 1974: Implications   for the ...",
+   "htmlSnippet": "\u003cb\u003eearthquakes\u003c/b\u003e occurred during this period, or where the connection \u003cb\u003e.....\u003c/b\u003e constraints \u003cbr\u003e  on the \u003cb\u003eAfrica\u003c/b\u003e-Eurasia plate boundary zone in southern Italy, Geophys. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Westaway, R., The Tripoli, Libya, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eSeptember 4, 1974\u003c/b\u003e: Implications \u003cbr\u003e  for the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lPUIW-w32MUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "users.isterre.fr/thouve/articles/Adria.pdf",
+   "htmlFormattedUrl": "users.isterre.fr/thouve/articles/Adria.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20071016173327+02'00'",
+      "author": "Franois Thouvenot and Julien Frchet",
+      "creator": "Acrobat PDFMaker 7.0 pour Word",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20071016173517+02'00'",
+      "company": "LGIT, Maison des gosciences, BP 53, 38041 GRENOBLE CEDEX 9, France",
+      "manager": "Franois Thouvenot",
+      "sourcemodified": "D:20041213142024"
+     }
+    ]
+   }
+  }
+ ]
+}

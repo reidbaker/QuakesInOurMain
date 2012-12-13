@@ -1,0 +1,292 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 17 1990 Australia Earthquake",
+    "totalResults": "528000",
+    "searchTerms": "Jan 17 1990 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 17 1990 Australia Earthquake",
+    "totalResults": "528000",
+    "searchTerms": "Jan 17 1990 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.275103,
+  "formattedSearchTime": "0.28",
+  "totalResults": "528000",
+  "formattedTotalResults": "528,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake in the greater Melbourne area, Australia",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e in the greater Melbourne area, \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/19/strong-earthquake-in-the-greater-melbourne-area-australia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 21, 2012 ... All historic damaging earthquakes in Australia can be seen in this paper here on   the socio-economic effects of Australian earthquakes.",
+   "htmlSnippet": "Jun 21, 2012 \u003cb\u003e...\u003c/b\u003e All historic damaging \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e can be seen in this paper here on \u003cbr\u003e  the socio-economic effects of \u003cb\u003eAustralian earthquakes\u003c/b\u003e.",
+   "cacheId": "HhIXsW-HgNIJ",
+   "formattedUrl": "earthquake-report.com/.../strong-earthquake-in-the-greater-melbourne-area- australia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../strong-\u003cb\u003eearthquake\u003c/b\u003e-in-the-greater-melbourne-area- \u003cb\u003eaustralia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/06/541087.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo19JnftJE4AfP4wr-zBSahET5M8jZRmdBiyuMtd60ixCwoL_CJAS6K2b0"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "dj flexij (dj jordan)"
+     },
+     {
+      "fn": "Ruth Friend"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on January 17 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eJanuary 17\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/jan17.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "January 17, 1800 \"Minor earthquake recorded in Sydney, Australia.\" January ....   January 17, 1990 5th Rock & Roll Hall of Fame Awards Bobby Darin; January ...",
+   "htmlSnippet": "January 17, 1800 &quot;Minor \u003cb\u003eearthquake\u003c/b\u003e recorded in Sydney, \u003cb\u003eAustralia\u003c/b\u003e.&quot; January \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eJanuary 17\u003c/b\u003e, \u003cb\u003e1990\u003c/b\u003e 5th Rock &amp; Roll Hall of Fame Awards Bobby Darin; January \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iFDT4pB2pJQJ",
+   "formattedUrl": "www.datesinhistory.com/jan17.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003ejan17\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... The earthquake was centered in the gold mining area of Welkom about .... As a   member of the Apollo 17 party, he was able to conduct field ..... Afghanistan, 1990   - Magnitude : 6.0 ??? 11 people killied .... Australia, 1968 ??? Magnitude : 6.9 ... to find   themselves without a new contract from 1 January 2013 on.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom about \u003cb\u003e....\u003c/b\u003e As a \u003cbr\u003e  member of the Apollo \u003cb\u003e17\u003c/b\u003e party, he was able to conduct field \u003cb\u003e.....\u003c/b\u003e Afghanistan, \u003cb\u003e1990\u003c/b\u003e \u003cbr\u003e  - Magnitude : 6.0 ??? 11 people killied \u003cb\u003e....\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e, 1968 ??? Magnitude : 6.9 \u003cb\u003e...\u003c/b\u003e to find \u003cbr\u003e  themselves without a new contract from 1 \u003cb\u003eJanuary\u003c/b\u003e 2013 on.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1990",
+   "htmlTitle": "\u003cb\u003e1990\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1990",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 5.9,   COSTA RICA, Dec 22 1990, 17:27:55 UTC, 9.982, -84.229, 199012221727 .....   5.5, Meckering, Australia, Jan 17 1990, 06:38:06 UTC, -31.654 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 5.9, \u003cbr\u003e  COSTA RICA, Dec 22 1990, 17:27:55 UTC, 9.982, -84.229, 199012221727 \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  5.5, Meckering, \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eJan 17 1990\u003c/b\u003e, 06:38:06 UTC, -31.654 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jjFaE2vNKJcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1990",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1990\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jamaica earthquake list",
+   "htmlTitle": "Jamaica \u003cb\u003eearthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 27, 2012 ... The list below shows the last earthquakes in Jamaica ... No listed earthquakes   means that there were NO earthquakes noticed by our data ...",
+   "htmlSnippet": "Apr 27, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in Jamaica \u003cb\u003e...\u003c/b\u003e No listed \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  means that there were NO \u003cb\u003eearthquakes\u003c/b\u003e noticed by our data \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VNjkeO-jsS8J",
+   "formattedUrl": "earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/04/27/jamaica-\u003cb\u003eearthquake\u003c/b\u003e-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "al",
+   "htmlTitle": "al",
+   "link": "http://www.bsee.gov/Research-and-Training/Technology-Assessment-and-Research/tarprojects/001-099/068AL.aspx",
+   "displayLink": "www.bsee.gov",
+   "snippet": "paper (February 1990). The recorded earthquake corresponds to the 3.5-  magnitude quake of 17 January. 1990, centered near Gardena, CA. The   epicenterof the ...",
+   "htmlSnippet": "paper (February 1990). The recorded \u003cb\u003eearthquake\u003c/b\u003e corresponds to the 3.5-\u003cbr\u003e  magnitude \u003cb\u003equake\u003c/b\u003e of \u003cb\u003e17 January\u003c/b\u003e. \u003cb\u003e1990\u003c/b\u003e, centered near Gardena, CA. The \u003cbr\u003e  epicenterof the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1TwrRf9Jv_gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.bsee.gov/Research-and-Training/Technology...and.../068AL.aspx",
+   "htmlFormattedUrl": "www.bsee.gov/Research-and-Training/Technology...and.../068AL.aspx",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "C:SCANDALLSCANDALL.EXE",
+      "producer": "Pixel Translations (PIXPDF Ver.1.38)",
+      "creationdate": "Wed Jun 14 14:14:57 2000"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "January 17 Events in History",
+   "htmlTitle": "\u003cb\u003eJanuary 17\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/january_17.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "January 17 in history.",
+   "htmlSnippet": "\u003cb\u003eJanuary 17\u003c/b\u003e in history.",
+   "cacheId": "xQTnJdGWaH8J",
+   "formattedUrl": "www.brainyhistory.com/days/january_17.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003ejanuary\u003c/b\u003e_\u003cb\u003e17\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "January 17 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/january_17.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "January 17 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eJanuary 17\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/January_17",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "January 17 is the 17th day of the year in the Gregorian calendar. .... 1994 ??? 1994   Northridge earthquake: A magnitude 6.7 earthquake hits Northridge, California.",
+   "htmlSnippet": "\u003cb\u003eJanuary 17\u003c/b\u003e is the \u003cb\u003e17th\u003c/b\u003e day of the year in the Gregorian calendar. \u003cb\u003e....\u003c/b\u003e 1994 ??? 1994 \u003cbr\u003e  Northridge \u003cb\u003eearthquake\u003c/b\u003e: A magnitude 6.7 \u003cb\u003eearthquake\u003c/b\u003e hits Northridge, California.",
+   "cacheId": "4E_pdYnSFcoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/January_17",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eJanuary\u003c/b\u003e_\u003cb\u003e17\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.see.uwa.edu.au/welcome/seismicity_of_western_australia",
+   "displayLink": "www.seismicity.see.uwa.edu.au",
+   "snippet": "1990- 1-17 0638 8.2 116.990 -31.720 5.8 6 Meckering ... WEST AUSTRALIAN   EARTHQUAKES BY REGION ... in the southwest, of magnitude 3.0 and above,   Jan 1990 to Aug 2005 ...",
+   "htmlSnippet": "\u003cb\u003e1990\u003c/b\u003e- 1-\u003cb\u003e17\u003c/b\u003e 0638 8.2 116.990 -31.720 5.8 6 Meckering \u003cb\u003e...\u003c/b\u003e WEST \u003cb\u003eAUSTRALIAN\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEARTHQUAKES\u003c/b\u003e BY REGION \u003cb\u003e...\u003c/b\u003e in the southwest, of magnitude 3.0 and above, \u003cbr\u003e  \u003cb\u003eJan 1990\u003c/b\u003e to Aug 2005 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5e31QRIrX_IJ",
+   "formattedUrl": "www.seismicity.see.uwa.edu.au/.../seismicity_of_western_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.see.uwa.edu.au/.../\u003cb\u003eseismic\u003c/b\u003eity_of_western_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32149"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "251",
+      "height": "201",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEhwAdfh2ft4Dj0q-qTfTF1lCs-bf_TkvzBTKrbWRaQ82WhAuKsnIyTa4"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity of Western Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/44594",
+      "dc.date.modified": "2011-08-24",
+      "dc.date.created": "2004-02-16",
+      "dc.date.valid": "2012-08-24",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/44594",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australian Earthquake News",
+   "htmlTitle": "\u003cb\u003eAustralian Earthquake\u003c/b\u003e News",
+   "link": "http://www.esands.com/Earthquakes.html",
+   "displayLink": "www.esands.com",
+   "snippet": "Have you felt an earthquake in eastern Australia? If so, it ... Earthquake in   Australia ... 2012 October 17, Northeast of Broken Hill, NSW ML 3.7 (Map) ... was   located near Eugowra, a small town in central NSW where a sequence of   earthquakes occurred in the late 1990's. .... 2012 January 24, Queenstown, TAS   ML 3.1 (Map) ...",
+   "htmlSnippet": "Have you felt an \u003cb\u003eearthquake\u003c/b\u003e in eastern \u003cb\u003eAustralia\u003c/b\u003e? If so, it \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e in \u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 2012 October \u003cb\u003e17\u003c/b\u003e, Northeast of Broken Hill, NSW ML 3.7 (Map) \u003cb\u003e...\u003c/b\u003e was \u003cbr\u003e  located near Eugowra, a small town in central NSW where a sequence of \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e occurred in the late \u003cb\u003e1990&#39;s\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 2012 \u003cb\u003eJanuary\u003c/b\u003e 24, Queenstown, TAS \u003cbr\u003e  ML 3.1 (Map) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HfqMWvlx4QwJ",
+   "formattedUrl": "www.esands.com/Earthquakes.html",
+   "htmlFormattedUrl": "www.esands.com/\u003cb\u003eEarthquakes\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.esands.com/images/EQ_NEWS_700x250.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "376",
+      "height": "134",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQstT98CdH6GVq4e_ntv_YwV8IAmgo1c2oc1enG_s9W4yR5NI1uCLW5_8G-"
+     }
+    ]
+   }
+  }
+ ]
+}

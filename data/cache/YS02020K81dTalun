@@ -1,0 +1,286 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 25 1995 Africa Earthquake",
+    "totalResults": "513000",
+    "searchTerms": "Sep 25 1995 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 25 1995 Africa Earthquake",
+    "totalResults": "513000",
+    "searchTerms": "Sep 25 1995 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.30318,
+  "formattedSearchTime": "0.30",
+  "totalResults": "513000",
+  "formattedTotalResults": "513,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed. The earthquake was   centered in the gold mining area of Welkom about 300 kilometers ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed. The \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  centered in the gold mining area of Welkom about 300 kilometers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Earthquake Report, sign up for Facebook today. .... Earthquakes   to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4 ..... (Major)   Earthquakes list November 25, 2012 ??? Shallow earthquake in Rondonia, Brazil ...   Earthquakes to remember : Egypt - November 22 1995 - Magnitude : 7.2 - 8 ...",
+   "htmlSnippet": "To connect with \u003cb\u003eEarthquake\u003c/b\u003e Report, sign up for Facebook today. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e \u003cbr\u003e  to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 \u003cb\u003e.....\u003c/b\u003e (Major) \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e list November \u003cb\u003e25\u003c/b\u003e, 2012 ??? Shallow \u003cb\u003eearthquake\u003c/b\u003e in Rondonia, Brazil \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e to remember : Egypt - November 22 \u003cb\u003e1995\u003c/b\u003e - Magnitude : 7.2 - 8 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive \u003cb\u003eSeptember\u003c/b\u003e 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The most recent earthquake related news : Click here .... September 25, 2012.   Did you ..... Mexico, 1995 ??? Magnitude : 7.5 - 3 fatalities .... have torn Saudi   Arabia away from the rest of the African continent, forming the Red Sea.",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The most recent \u003cb\u003eearthquake\u003c/b\u003e related news : Click here \u003cb\u003e....\u003c/b\u003e \u003cb\u003eSeptember 25\u003c/b\u003e, 2012. \u003cbr\u003e  Did you \u003cb\u003e.....\u003c/b\u003e Mexico, \u003cb\u003e1995\u003c/b\u003e ??? Magnitude : 7.5 - 3 fatalities \u003cb\u003e....\u003c/b\u003e have torn Saudi \u003cbr\u003e  Arabia away from the rest of the \u003cb\u003eAfrican\u003c/b\u003e continent, forming the Red Sea.",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- \u003cb\u003eseptember\u003c/b\u003e-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1995",
+   "htmlTitle": "\u003cb\u003e1995\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1995",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 4.7,   SOUTH AFRICA, Nov 25 1995, 04:05:05, -26.930, 26.749, 199511250405 .... 5.5,   DEMOCRATIC REPUBLIC OF THE CONGO, Sep 25 1995 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 4.7, \u003cbr\u003e  SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Nov 25 1995, 04:05:05, -26.930, 26.749, 199511250405 \u003cb\u003e....\u003c/b\u003e 5.5, \u003cbr\u003e  DEMOCRATIC REPUBLIC OF THE CONGO, \u003cb\u003eSep 25 1995\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "p-QqmT7xyh0J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1995",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1995\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 25 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember 25\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_25",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 25 is the 268th day of the year (269th in leap years) in the Gregorian   calendar. ... 2003 ??? A magnitude-8.0 earthquake strikes just offshore Hokkaid??,   Japan. .... Jean Sorel, French actor; 1936 ??? Juliet Prowse, South African actress   and dancer (d. .... 1928); 1995 ??? Bessie Delany, American physician and author (  b.",
+   "htmlSnippet": "\u003cb\u003eSeptember 25\u003c/b\u003e is the 268th day of the year (269th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e 2003 ??? A magnitude-8.0 \u003cb\u003eearthquake\u003c/b\u003e strikes just offshore Hokkaid??, \u003cbr\u003e  Japan. \u003cb\u003e....\u003c/b\u003e Jean Sorel, French actor; 1936 ??? Juliet Prowse, South \u003cb\u003eAfrican\u003c/b\u003e actress \u003cbr\u003e  and dancer (d. \u003cb\u003e....\u003c/b\u003e 1928); \u003cb\u003e1995\u003c/b\u003e ??? Bessie Delany, American physician and author (\u003cbr\u003e  b.",
+   "cacheId": "xbjHtbCFCOQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_25",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e25\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SCC EECC",
+   "htmlTitle": "SCC EECC",
+   "link": "http://www.scec.org/news/newsletter/issue21.pdf",
+   "displayLink": "www.scec.org",
+   "snippet": "Southern California Earthquake Center Quarterly Newsletter, Vol. 2, No. ...... for   earthquake simulations,. Physical Review E, page proofs returned, Sept. 25,   1995.",
+   "htmlSnippet": "Southern California \u003cb\u003eEarthquake\u003c/b\u003e Center Quarterly Newsletter, Vol. 2, No. \u003cb\u003e......\u003c/b\u003e for \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e simulations,. Physical Review E, page proofs returned, \u003cb\u003eSept\u003c/b\u003e. \u003cb\u003e25\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e1995\u003c/b\u003e.",
+   "cacheId": "bPN2euoBO0sJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.scec.org/news/newsletter/issue21.pdf",
+   "htmlFormattedUrl": "www.scec.org/news/newsletter/issue21.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:19990714102016",
+      "producer": "Acrobat Distiller 3.01 for Power Macintosh",
+      "creator": "Adobe PageMaker 6.0",
+      "title": "Untitled-1",
+      "author": "team"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "01615-09-16September 16, 1615, Arica, Chile (then part of the Spanish Empire),   1615 .... 142,800, 7.9, An earthquake which struck the Kant?? plain on the   Japanese main island of ... 2, 1995 Great Hanshin earthquake, Japan, 6.9, $100   billion ...",
+   "htmlSnippet": "01615-09-16\u003cb\u003eSeptember\u003c/b\u003e 16, 1615, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of the Spanish Empire), \u003cbr\u003e  1615 \u003cb\u003e....\u003c/b\u003e 142,800, 7.9, An \u003cb\u003eearthquake\u003c/b\u003e which struck the Kant?? plain on the \u003cbr\u003e  Japanese main island of \u003cb\u003e...\u003c/b\u003e 2, \u003cb\u003e1995\u003c/b\u003e Great Hanshin \u003cb\u003eearthquake\u003c/b\u003e, Japan, 6.9, $100 \u003cbr\u003e  billion \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kinematics of the East African Rift from GPS and Earthquake Slip ...",
+   "htmlTitle": "Kinematics of the East \u003cb\u003eAfrican\u003c/b\u003e Rift from GPS and \u003cb\u003eEarthquake\u003c/b\u003e Slip \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "displayLink": "web.ics.purdue.edu",
+   "snippet": "Although the East African rift system (EAR) is often cited as the archetype for ...   We show that the currently available GPS and earthquake slip vector data are .....   edge of the Tanzania craton (e.g., Nyblade & Langston 1995; Foster & Jackson   1998). ... deformation along the Malawi rift end between 20??S and 25??S (Figure 3  ).",
+   "htmlSnippet": "Although the East \u003cb\u003eAfrican\u003c/b\u003e rift system (EAR) is often cited as the archetype for \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  We show that the currently available GPS and \u003cb\u003eearthquake\u003c/b\u003e slip vector data are \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  edge of the Tanzania craton (e.g., Nyblade &amp; Langston \u003cb\u003e1995\u003c/b\u003e; Foster &amp; Jackson \u003cbr\u003e  1998). \u003cb\u003e...\u003c/b\u003e deformation along the Malawi rift end between 20??S and \u003cb\u003e25\u003c/b\u003e??S (Figure 3\u003cbr\u003e  ).",
+   "cacheId": "l9mnsFHY0nAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "htmlFormattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060606100131-04'00'",
+      "creator": "Word",
+      "moddate": "D:20060606100131-04'00'",
+      "producer": "Mac OS X 10.3.9 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption,   landslide, hurricanes etc. In order to be classified as a disaster it will have ...",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cbr\u003e  landslide, hurricanes etc. In order to be classified as a disaster it will have \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Humanitarian Service Medal (HSM) ??? APPROVED OPERATIONS ...",
+   "htmlTitle": "Humanitarian Service Medal (HSM) ??? APPROVED OPERATIONS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://prhome.defense.gov/rfm/mpp/OEPM/docs/HSM%20Approved%20Operations%20V2.pdf",
+   "displayLink": "prhome.defense.gov",
+   "snippet": "Big Thompson Flood Disaster Relief 31-Jul-1976 3-Aug-1976 CO. Bolivian ....   Popayan Earthquake Disaster Relief 31-Mar-1983 8-Apr-1983 Colombia. Utah   Flood ... Lake Nyos Disaster Relief Operation 25-Aug-1986 26-Sep-1986   Cameroon. Northern .... 1-Aug-1993 30-Sep-1995 Cambodia. Northridge ....   South Africa ...",
+   "htmlSnippet": "Big Thompson Flood Disaster Relief 31-Jul-1976 3-\u003cb\u003eAug\u003c/b\u003e-1976 CO. Bolivian \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Popayan \u003cb\u003eEarthquake\u003c/b\u003e Disaster Relief 31-Mar-1983 8-Apr-1983 Colombia. Utah \u003cbr\u003e  Flood \u003cb\u003e...\u003c/b\u003e Lake Nyos Disaster Relief Operation \u003cb\u003e25\u003c/b\u003e-\u003cb\u003eAug\u003c/b\u003e-1986 26-\u003cb\u003eSep\u003c/b\u003e-1986 \u003cbr\u003e  Cameroon. Northern \u003cb\u003e....\u003c/b\u003e 1-\u003cb\u003eAug\u003c/b\u003e-1993 30-\u003cb\u003eSep\u003c/b\u003e-\u003cb\u003e1995\u003c/b\u003e Cambodia. Northridge \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wyLEVObPCoEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "prhome.defense.gov/rfm/.../HSM%20Approved%20Operations%20V2.pdf",
+   "htmlFormattedUrl": "prhome.defense.gov/rfm/.../HSM%20Approved%20Operations%20V2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090406120447-04'00'",
+      "author": "Nittled",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "moddate": "D:20090406120447-04'00'",
+      "title": "Microsoft Word - HSM Approved Operations V2.DOC"
+     }
+    ]
+   }
+  }
+ ]
+}

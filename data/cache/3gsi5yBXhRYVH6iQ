@@ -1,0 +1,269 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 29 1969 Eurasia Earthquake",
+    "totalResults": "17600",
+    "searchTerms": "Sep 29 1969 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 29 1969 Eurasia Earthquake",
+    "totalResults": "17600",
+    "searchTerms": "Sep 29 1969 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.183132,
+  "formattedSearchTime": "0.18",
+  "totalResults": "17600",
+  "formattedTotalResults": "17,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/index.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Get real-time earthquake notifications sent to you using a number of popular ...   and Eurasian Plates, as North America moves westward relative to Eurasia.",
+   "htmlSnippet": "Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of popular \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  and \u003cb\u003eEurasian\u003c/b\u003e Plates, as North America moves westward relative to \u003cb\u003eEurasia\u003c/b\u003e.",
+   "cacheId": "D_0uDpIsu6kJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/index.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "XML",
+   "htmlTitle": "XML",
+   "link": "http://www.sajs.co.za/index.php/SAJS/article/view/975/xml",
+   "displayLink": "www.sajs.co.za",
+   "snippet": "Sep 13, 2012 ... This earthquake was regarded as having a Modified Mercalli Scale .... In: The   earthquake of 29 September 1969 in the southwestern Cape Province, South   Africa. ... The first globalization: The Eurasian exchange, 1500???1800.",
+   "htmlSnippet": "Sep 13, 2012 \u003cb\u003e...\u003c/b\u003e This \u003cb\u003eearthquake\u003c/b\u003e was regarded as having a Modified Mercalli Scale \u003cb\u003e....\u003c/b\u003e In: The \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e29 September 1969\u003c/b\u003e in the southwestern Cape Province, South \u003cbr\u003e  Africa. \u003cb\u003e...\u003c/b\u003e The first globalization: The \u003cb\u003eEurasian\u003c/b\u003e exchange, 1500???1800.",
+   "cacheId": "v_aI6OBefKsJ",
+   "mime": "text/xml",
+   "formattedUrl": "www.sajs.co.za/index.php/SAJS/article/view/975/xml",
+   "htmlFormattedUrl": "www.sajs.co.za/index.php/SAJS/article/view/975/xml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1969 Yangjiang earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1969\u003c/b\u003e Yangjiang \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1969_Yangjiang_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1969 Yangjiang earthquake is located in Guangdong ... between the Indian and   Eurasian Plates and the subduction of the Philippine Sea Plate. ... a b USGS (29   March 2010). ... This page was last modified on 9 September 2012 at 17:23.",
+   "htmlSnippet": "\u003cb\u003e1969\u003c/b\u003e Yangjiang \u003cb\u003eearthquake\u003c/b\u003e is located in Guangdong \u003cb\u003e...\u003c/b\u003e between the Indian and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e Plates and the subduction of the Philippine Sea Plate. \u003cb\u003e...\u003c/b\u003e a b USGS (\u003cb\u003e29\u003c/b\u003e \u003cbr\u003e  March 2010). \u003cb\u003e...\u003c/b\u003e This page was last modified on 9 \u003cb\u003eSeptember\u003c/b\u003e 2012 at 17:23.",
+   "cacheId": "V2pqcSQH7nkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1969_Yangjiang_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1969\u003c/b\u003e_Yangjiang_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indian Earthquakes : An Overview ABSTRACT 1.0 INTRODUCTION ...",
+   "htmlTitle": "Indian \u003cb\u003eEarthquakes\u003c/b\u003e : An Overview ABSTRACT 1.0 INTRODUCTION \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nicee.org/readings/paper4.pdf",
+   "displayLink": "www.nicee.org",
+   "snippet": "to the movement of the Indian plate towards the Eurasian plate at the rate of   about ..... Berg,G.V., Das,Y.C., Gokhale,K.V.G.K., and Setlur,A.V., 1969, \"The   Koyna, India, ... Patterns in the Ms=6.4, September 29, 1993 Killari (Latur)   Earthquake in ...",
+   "htmlSnippet": "to the movement of the Indian plate towards the \u003cb\u003eEurasian\u003c/b\u003e plate at the rate of \u003cbr\u003e  about \u003cb\u003e.....\u003c/b\u003e Berg,G.V., Das,Y.C., Gokhale,K.V.G.K., and Setlur,A.V., \u003cb\u003e1969\u003c/b\u003e, &quot;The \u003cbr\u003e  Koyna, India, \u003cb\u003e...\u003c/b\u003e Patterns in the Ms=6.4, \u003cb\u003eSeptember 29\u003c/b\u003e, 1993 Killari (Latur) \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FfyX3idetkoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nicee.org/readings/paper4.pdf",
+   "htmlFormattedUrl": "www.nicee.org/readings/paper4.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20031127115451+05'30'",
+      "moddate": "D:20031127115451+05'30'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "snehal",
+      "creator": "ADOBEPS4.DRV Version 4.50",
+      "title": "Microsoft Word - paper4.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Japan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Japan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Japan was originally attached to the eastern coast of the Eurasian continent. ....   On September 1, 1923, an earthquake measuring 7.9 M, the 1923 Great Kant?? ....   an earthquake measuring 6.6 M, the Ch??etsu Offshore Earthquake hit about 29 ...   and in 1969 the Coordinating Committee for Earthquake Prediction (CCEP) was ...",
+   "htmlSnippet": "Japan was originally attached to the eastern coast of the \u003cb\u003eEurasian\u003c/b\u003e continent. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  On \u003cb\u003eSeptember\u003c/b\u003e 1, 1923, an \u003cb\u003eearthquake\u003c/b\u003e measuring 7.9 M, the 1923 Great Kant?? \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  an \u003cb\u003eearthquake\u003c/b\u003e measuring 6.6 M, the Ch??etsu Offshore \u003cb\u003eEarthquake\u003c/b\u003e hit about \u003cb\u003e29\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  and in \u003cb\u003e1969\u003c/b\u003e the Coordinating Committee for \u003cb\u003eEarthquake\u003c/b\u003e Prediction (CCEP) was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NuRGcOQIbpIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Japan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Japan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Japan_separation.png/270px-Japan_separation.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "152",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAivkrzGCuUOdUUabCsPoOS7Ntz0yc_PFSUl2M5kTnoihqkPpJiCdL5c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Learning Earthquake Design and Construction - 3. What are ...",
+   "htmlTitle": "Learning \u003cb\u003eEarthquake\u003c/b\u003e Design and Construction - 3. What are \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ias.ac.in/resonance/Sept2004/pdf/Sept2004Classroom2.pdf",
+   "displayLink": "www.ias.ac.in",
+   "snippet": "RESONANCE ??? September 2004 ... structures, and design and construction of   earthquake resistant buildings. .... (Indian Reprint in 1969 by Eurasia Publish- ....   29 Mar. 1999. Chamoli. 00:35. 6.6. VIII. 63. 26 Jan. 2001. Bhuj. 08:46. 7.7. X ...",
+   "htmlSnippet": "RESONANCE ??? \u003cb\u003eSeptember\u003c/b\u003e 2004 \u003cb\u003e...\u003c/b\u003e structures, and design and construction of \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e resistant buildings. \u003cb\u003e....\u003c/b\u003e (Indian Reprint in \u003cb\u003e1969\u003c/b\u003e by \u003cb\u003eEurasia\u003c/b\u003e Publish- \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e29\u003c/b\u003e Mar. 1999. Chamoli. 00:35. 6.6. VIII. 63. 26 Jan. 2001. Bhuj. 08:46. 7.7. X \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "YJh-LY1_4FcJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ias.ac.in/resonance/Sept2004/pdf/Sept2004Classroom2.pdf",
+   "htmlFormattedUrl": "www.ias.ac.in/resonance/\u003cb\u003eSept\u003c/b\u003e2004/pdf/\u003cb\u003eSept\u003c/b\u003e2004Classroom2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Adobe PageMaker 6.5 - [C:\\milind\\resonance\\working\\classroom2.p65]",
+      "creationdate": "D:20040909191609",
+      "title": "Learning Earthquake Design and Construction - 3. What are Magnitude and Intensity?",
+      "author": "C V R Murty",
+      "producer": "Acrobat PDFWriter 4.05 for Windows NT",
+      "subject": "Resonance, September 2004, Classroom",
+      "moddate": "D:20040909194244+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of earthquakes in Turkey, including any notable historical   earthquakes ... Turkey is a seismically active area within the complex zone of   collision between the Eurasian Plate and both the African and Arabian Plates. ...   September 10, 1509, Istanbul ..... This page was last modified on 29 November   2012 at 17:51.",
+   "htmlSnippet": "This is a list of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey, including any notable historical \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Turkey is a seismically active area within the complex zone of \u003cbr\u003e  collision between the \u003cb\u003eEurasian\u003c/b\u003e Plate and both the African and Arabian Plates. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 10, 1509, Istanbul \u003cb\u003e.....\u003c/b\u003e This page was last modified on \u003cb\u003e29\u003c/b\u003e November \u003cbr\u003e  2012 at 17:51.",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SURFACE-WAVE MAGNITUDES OF EURASIAN EARTHQUAKES ...",
+   "htmlTitle": "SURFACE-WAVE MAGNITUDES OF \u003cb\u003eEURASIAN EARTHQUAKES\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "1969; Lieberman and Pomeroy, 1969). In addition, the .... and in it found 29 for   which an estimate of M s could be obtained both from stations in the 10 ... vertical  -component EIL seismogram for the September 8, 1971 earthquake in the   western ...",
+   "htmlSnippet": "\u003cb\u003e1969\u003c/b\u003e; Lieberman and Pomeroy, \u003cb\u003e1969\u003c/b\u003e). In addition, the \u003cb\u003e....\u003c/b\u003e and in it found \u003cb\u003e29\u003c/b\u003e for \u003cbr\u003e  which an estimate of M s could be obtained both from stations in the 10 \u003cb\u003e...\u003c/b\u003e vertical\u003cbr\u003e  -component EIL seismogram for the \u003cb\u003eSeptember\u003c/b\u003e 8, 1971 \u003cb\u003eearthquake\u003c/b\u003e in the \u003cbr\u003e  western \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010282008.TIF",
+      "creationdate": "Tue Aug 02 19:47:49 2005",
+      "title": "010282008.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20051010114911+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 2009",
+   "htmlTitle": "\u003cb\u003eSeptember\u003c/b\u003e 2009",
+   "link": "http://saweatherobserver.blogspot.com/2009_09_01_archive.html",
+   "displayLink": "saweatherobserver.blogspot.com",
+   "snippet": "Sep 30, 2009 ... Yesterday's 8.0 earthquake in the region of the Samoan Islands and the .... grinds   against the Eurasia plate to create regular tremors and sometimes quakes. ......   The Tulbagh/Ceres/Worseley Earthquake (29 September 1969) ...",
+   "htmlSnippet": "Sep 30, 2009 \u003cb\u003e...\u003c/b\u003e Yesterday&#39;s 8.0 \u003cb\u003eearthquake\u003c/b\u003e in the region of the Samoan Islands and the \u003cb\u003e....\u003c/b\u003e grinds \u003cbr\u003e  against the \u003cb\u003eEurasia\u003c/b\u003e plate to create regular tremors and sometimes quakes. \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  The Tulbagh/Ceres/Worseley \u003cb\u003eEarthquake\u003c/b\u003e (\u003cb\u003e29 September 1969\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ia6h2CHdSZsJ",
+   "formattedUrl": "saweatherobserver.blogspot.com/2009_09_01_archive.html",
+   "htmlFormattedUrl": "saweatherobserver.blogspot.com/2009_09_01_archive.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=1100",
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 10"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes of Dhaka | Syed Humayun Akhter - Academia.edu",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e of Dhaka | Syed Humayun Akhter - Academia.edu",
+   "link": "http://www.academia.edu/429823/Earthquakes_of_Dhaka",
+   "displayLink": "www.academia.edu",
+   "snippet": "These form two boundaries where plates converge??? the India-Eurasia plate ....   This earthquake was severe in Dhaka with no loss of life (Rizvi, 1969, ... The   earthquake was followed by eleven aftershocks during the period 21 July to 5   September ..... 29. Sella, G. F., T. H. Dixon and A. Mao, 2002. REVEL: A model for   recent ...",
+   "htmlSnippet": "These form two boundaries where plates converge??? the India-\u003cb\u003eEurasia\u003c/b\u003e plate \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  This \u003cb\u003eearthquake\u003c/b\u003e was severe in Dhaka with no loss of life (Rizvi, \u003cb\u003e1969\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e was followed by eleven aftershocks during the period 21 July to 5 \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e29\u003c/b\u003e. Sella, G. F., T. H. Dixon and A. Mao, 2002. REVEL: A model for \u003cbr\u003e  recent \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oQzGGKBogVMJ",
+   "formattedUrl": "www.academia.edu/429823/Earthquakes_of_Dhaka",
+   "htmlFormattedUrl": "www.academia.edu/429823/\u003cb\u003eEarthquakes\u003c/b\u003e_of_Dhaka",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://2.academia-assets.com/images/open-graph-icons/fb-paper.gif?a73840d740bdbb95f6ef159ee5afa482"
+     }
+    ],
+    "person": [
+     {
+      "url": "Syed Humayun Akhter",
+      "name": "Syed Humayun Akhter"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "2369844204",
+      "og:type": "article",
+      "og:url": "http://www.academia.edu/429823/Earthquakes_of_Dhaka",
+      "og:title": "Earthquakes of Dhaka",
+      "og:image": "http://2.academia-assets.com/images/open-graph-icons/fb-paper.gif?a73840d740bdbb95f6ef159ee5afa482",
+      "og:description": "\"Introduction: Dhaka, one of the oldest historical cities in the Indian sub-continent and now the capital of Bangladesh, is vulnerable to earthquakes. In broad terms, Bangladesh is an earthquake-prone country; its northern and eastern regions in",
+      "article:author": "http://univdhaka.academia.edu/SyedHumayunAkhter"
+     }
+    ]
+   }
+  }
+ ]
+}

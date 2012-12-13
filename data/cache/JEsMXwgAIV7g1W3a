@@ -1,0 +1,243 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 28 1990 North America Earthquake",
+    "totalResults": "588000",
+    "searchTerms": "Jul 28 1990 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 28 1990 North America Earthquake",
+    "totalResults": "588000",
+    "searchTerms": "Jul 28 1990 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.537564,
+  "formattedSearchTime": "0.54",
+  "totalResults": "588000",
+  "formattedTotalResults": "588,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 28 1990 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 28 1990 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... The earthquake was centered in the gold mining area of Welkom about 300 ....   The Pacific Plate is moving northwest with respect to the North American Plate at   approximately 56 .... Two people killed and 28 houses damaged in Choco   Department. ..... Afghanistan, 1990 - Magnitude : 6.0 ??? 11 people killied ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom about 300 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The Pacific Plate is moving northwest with respect to the \u003cb\u003eNorth American\u003c/b\u003e Plate at \u003cbr\u003e  approximately 56 \u003cb\u003e....\u003c/b\u003e Two people killed and \u003cb\u003e28\u003c/b\u003e houses damaged in Choco \u003cbr\u003e  Department. \u003cb\u003e.....\u003c/b\u003e Afghanistan, \u003cb\u003e1990\u003c/b\u003e - Magnitude : 6.0 ??? 11 people killied \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-\u003cb\u003ejuly\u003c/b\u003e-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M7.8 - 136km S of Masset, Canada 2012-10-28 03:04:08 UTC",
+   "htmlTitle": "M7.8 - 136km S of Masset, Canada 2012-10-\u003cb\u003e28\u003c/b\u003e 03:04:08 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000df7n",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 28, 2012 ... At the location of this event, the Pacific plate moves approximately north-  northwest with respect to the North America plate at a rate of ...",
+   "htmlSnippet": "Oct 28, 2012 \u003cb\u003e...\u003c/b\u003e At the location of this event, the Pacific plate moves approximately north-\u003cbr\u003e  northwest with respect to the \u003cb\u003eNorth America\u003c/b\u003e plate at a rate of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dRrgHIUukbkJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000df7n",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000df7n"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "July 28 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eJuly 28\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/July_28",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "July 28 is the 209th day of the year (210th in leap years) in the Gregorian   calendar. ... establishing African American citizenship and guaranteeing due   process of law. ... 1976 ??? The Tangshan earthquake measuring between 7.8 and   8.2 moment ... 2010 ??? Airblue Flight 202 crashes into the Margalla Hills north of   Islamabad, ...",
+   "htmlSnippet": "\u003cb\u003eJuly 28\u003c/b\u003e is the 209th day of the year (210th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e establishing African \u003cb\u003eAmerican\u003c/b\u003e citizenship and guaranteeing due \u003cbr\u003e  process of law. \u003cb\u003e...\u003c/b\u003e 1976 ??? The Tangshan \u003cb\u003eearthquake\u003c/b\u003e measuring between 7.8 and \u003cbr\u003e  8.2 moment \u003cb\u003e...\u003c/b\u003e 2010 ??? Airblue Flight 202 crashes into the Margalla Hills \u003cb\u003enorth\u003c/b\u003e of \u003cbr\u003e  Islamabad, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "APHHHoZGPwgJ",
+   "formattedUrl": "en.wikipedia.org/wiki/July_28",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eJuly\u003c/b\u003e_\u003cb\u003e28\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Significant L.A. Area Earthquakes: 1769-Present ?? Quake City",
+   "htmlTitle": "Significant L.A. Area \u003cb\u003eEarthquakes\u003c/b\u003e: 1769-Present ?? \u003cb\u003eQuake\u003c/b\u003e City",
+   "link": "http://foreshock.wordpress.com/significant-la-area-earthquakes-1769-present/",
+   "displayLink": "foreshock.wordpress.com",
+   "snippet": "July 28, 1769 @ 4pm-Felt by members of the Portola Expedition in the Los   Angeles ... it is considered one of the greatest recorded earthquakes in U.S.   history. ...... Ten miles to the north, the Upland earthquakes that occurred in 1988   & 1990, ...",
+   "htmlSnippet": "\u003cb\u003eJuly 28\u003c/b\u003e, 1769 @ 4pm-Felt by members of the Portola Expedition in the Los \u003cbr\u003e  Angeles \u003cb\u003e...\u003c/b\u003e it is considered one of the greatest recorded \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eU.S.\u003c/b\u003e \u003cbr\u003e  history. \u003cb\u003e......\u003c/b\u003e Ten miles to the \u003cb\u003enorth\u003c/b\u003e, the Upland \u003cb\u003eearthquakes\u003c/b\u003e that occurred in 1988 \u003cbr\u003e  &amp; \u003cb\u003e1990\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_LPH2VGPcVYJ",
+   "formattedUrl": "foreshock.wordpress.com/significant-la-area-earthquakes-1769-present/",
+   "htmlFormattedUrl": "foreshock.wordpress.com/significant-la-area-\u003cb\u003eearthquakes\u003c/b\u003e-1769-present/",
+   "pagemap": {
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "Significant L.A. Area Earthquakes:??1769-Present",
+      "og:url": "http://foreshock.wordpress.com/significant-la-area-earthquakes-1769-present/",
+      "og:description": "July 28, 1769 @ 4pm-Felt by members of the Portola Expedition in the Los Angeles basin-specifically the Santa Ana River area about 50km SE of Los Angeles-as noted in the diary of??Father Juan Crespi...",
+      "og:site_name": "Quake City",
+      "twitter:site": "@wordpressdotcom",
+      "twitter:card": "summary",
+      "fb:app_id": "249643311490",
+      "application-name": "Quake City",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "Life's Journey-Sponsored by www.stores.ebay.com/Holiday-Bros-Art-and-Gift-Gallery",
+      "msapplication-task": "name=Subscribe;action-uri=http://foreshock.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico",
+      "title": "Significant L.A. Area Earthquakes:??1769-Present | Quake City on WordPress.com"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Hans Laetz"
+     },
+     {
+      "fn": "Billy",
+      "nickname": "Billy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1990 - Earthquake Hazards Program - USGS",
+   "htmlTitle": "\u003cb\u003e1990\u003c/b\u003e - \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program - USGS",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1990",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 5.7, NEAR NORTH COAST OF NEW GUINEA, P.N.G., Nov 23 1990 .... 5.3,   SUDAN, Jul 28 1990, 16:46:04, 5.234, 32.667, 199007281646 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 5.7, NEAR \u003cb\u003eNORTH\u003c/b\u003e COAST OF NEW GUINEA, P.N.G., Nov 23 1990 \u003cb\u003e....\u003c/b\u003e 5.3, \u003cbr\u003e  SUDAN, \u003cb\u003eJul 28 1990\u003c/b\u003e, 16:46:04, 5.234, 32.667, 199007281646 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jjFaE2vNKJcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1990",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1990\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Volcanic Eruptions ??? Infoplease.com",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions ??? Infoplease.com",
+   "link": "http://www.infoplease.com/ipa/A0001439.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "1877: June 26, north-central Ecuador: eruption of Mt. Cotopaxi caused severe   mudflows ... 5:36 P.M. local time): strongest earthquake ever to strike North   America (9.2 ... July 28, Tangshan, China: worst earthquake to hit China in 20th   century; ... 1990: June 21, northwest Iran: magnitude 7.7 earthquake destroyed   cities and ...",
+   "htmlSnippet": "1877: June 26, north-central Ecuador: eruption of Mt. Cotopaxi caused severe \u003cbr\u003e  mudflows \u003cb\u003e...\u003c/b\u003e 5:36 P.M. local time): strongest \u003cb\u003eearthquake\u003c/b\u003e ever to strike \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e (9.2 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly 28\u003c/b\u003e, Tangshan, China: worst \u003cb\u003eearthquake\u003c/b\u003e to hit China in 20th \u003cbr\u003e  century; \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1990\u003c/b\u003e: June 21, northwest Iran: magnitude 7.7 \u003cb\u003eearthquake\u003c/b\u003e destroyed \u003cbr\u003e  cities and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eiPTxuWU3LMJ",
+   "formattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "htmlFormattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "chunk": "ART",
+      "idx": "Disasters",
+      "isub": "earthquake in (1755)",
+      "title": "Earthquakes and Volcanic Eruptions",
+      "waif": "Earthquakes",
+      "uniqid": "A0001439",
+      "parent": "A0001437",
+      "subchannel": "world",
+      "channel": "world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes - Simple English Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e - Simple English Wikipedia, the free encyclopedia",
+   "link": "http://simple.wikipedia.org/wiki/List_of_earthquakes",
+   "displayLink": "simple.wikipedia.org",
+   "snippet": "The following is a list of major earthquakes: ... Alaska, United States, 125, 9.2,   Most powerful earthquake in U.S. history, known as the Good Friday Earthquake.",
+   "htmlSnippet": "The following is a list of major \u003cb\u003eearthquakes\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e Alaska, United States, 125, 9.2, \u003cbr\u003e  Most powerful \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eU.S.\u003c/b\u003e history, known as the Good Friday \u003cb\u003eEarthquake\u003c/b\u003e.",
+   "cacheId": "gpzcSuj1SusJ",
+   "formattedUrl": "simple.wikipedia.org/wiki/List_of_earthquakes",
+   "htmlFormattedUrl": "simple.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Case Studies - Earthquakes - Forces of Nature",
+   "htmlTitle": "Case Studies - \u003cb\u003eEarthquakes\u003c/b\u003e - Forces of Nature",
+   "link": "http://library.thinkquest.org/C003603/english/earthquakes/casestudies.shtml",
+   "displayLink": "library.thinkquest.org",
+   "snippet": "... Province, Iran (1981, June 11); California, USA (1989, October 17); Iran (1990)   ... The epicenter, north of Boston, produced an earthquake at 4:11 a.m. Many ....   Soon afterwards, he began loaning money to the survivors, and his small   institution has become today's Bank of America. .... Tangshan, China (1976, July   28) ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e Province, Iran (1981, June 11); California, USA (1989, October 17); Iran (\u003cb\u003e1990\u003c/b\u003e) \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e The epicenter, \u003cb\u003enorth\u003c/b\u003e of Boston, produced an \u003cb\u003eearthquake\u003c/b\u003e at 4:11 a.m. Many \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Soon afterwards, he began loaning money to the survivors, and his small \u003cbr\u003e  institution has become today&#39;s Bank of \u003cb\u003eAmerica\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e Tangshan, China (1976, \u003cb\u003eJuly\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e28\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lI0uGtuvyB0J",
+   "formattedUrl": "library.thinkquest.org/C003603/.../earthquakes/casestudies.shtml",
+   "htmlFormattedUrl": "library.thinkquest.org/C003603/.../\u003cb\u003eearthquakes\u003c/b\u003e/casestudies.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ThinkQuest Team #C003603"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "David M. Boore pubs online",
+   "htmlTitle": "David M. Boore pubs online",
+   "link": "http://www.daveboore.com/pubs_online.php",
+   "displayLink": "www.daveboore.com",
+   "snippet": "(3.1 Mb) [published version of 21 March 2008 revision added 07 July 2008. ...   Earthquake ground-motion prediction equations for eastern North America, Bull.   .... recording of the 1990 Upland, California, earthquake: Implications for ground   ..... earthquake of June 28, 1966, Pure and Applied Geophysics 113, 293--296.",
+   "htmlSnippet": "(3.1 Mb) [published version of 21 March 2008 revision added 07 \u003cb\u003eJuly\u003c/b\u003e 2008. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e ground-motion prediction equations for eastern \u003cb\u003eNorth America\u003c/b\u003e, Bull. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e recording of the \u003cb\u003e1990\u003c/b\u003e Upland, California, \u003cb\u003eearthquake\u003c/b\u003e: Implications for ground \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e of June \u003cb\u003e28\u003c/b\u003e, 1966, Pure and Applied Geophysics 113, 293--296.",
+   "cacheId": "RaE5TqxKYpQJ",
+   "formattedUrl": "www.daveboore.com/pubs_online.php",
+   "htmlFormattedUrl": "www.daveboore.com/pubs_online.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Worldwide Disasters - Earthquakes and Volcanic Eruptions",
+   "htmlTitle": "Historical Worldwide Disasters - \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions",
+   "link": "http://disasters.albertarose.org/world_earthquakes_volcanoes.html",
+   "displayLink": "disasters.albertarose.org",
+   "snippet": "Worldwide Historical Natural Disasters Earthquakes and ...",
+   "htmlSnippet": "Worldwide Historical Natural Disasters \u003cb\u003eEarthquakes\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vwujIGo0yuAJ",
+   "formattedUrl": "disasters.albertarose.org/world_earthquakes_volcanoes.html",
+   "htmlFormattedUrl": "disasters.albertarose.org/world_\u003cb\u003eearthquakes\u003c/b\u003e_volcanoes.html"
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 12 1976 South America Earthquake",
+    "totalResults": "143000",
+    "searchTerms": "Mar 12 1976 South America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 12 1976 South America Earthquake",
+    "totalResults": "143000",
+    "searchTerms": "Mar 12 1976 South America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.230424,
+  "formattedSearchTime": "0.23",
+  "totalResults": "143000",
+  "formattedTotalResults": "143,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes list March 22, 2012",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e list March 22, 2012",
+   "link": "http://earthquake-report.com/2012/03/22/earthquakes-list-march-22-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 22, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ???   STATES Felt an earthquake ? Click on I FELT IT below or use the ...",
+   "htmlSnippet": "Mar 22, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS ??? COUNTRIES ??? \u003cbr\u003e  STATES Felt an \u003cb\u003eearthquake\u003c/b\u003e ? Click on I FELT IT below or use the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KLK-wk9wSD8J",
+   "formattedUrl": "earthquake-report.com/2012/03/.../earthquakes-list-march-22-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/03/.../\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003emar\u003c/b\u003ech-22-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "jane",
+      "nickname": "jane"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list September 5, 2012 ??? Massive earthquake ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list September 5, 2012 ??? Massive \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/09/04/major-earthquakes-list-september-5-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Sep 5, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS ... The earthquake   occurred on top of the North American plate which is ... GEOFON, Costa Rica,   Sep 05 15:12 PM, 5.0, 34.0, MAP ?? I Felt It ... My mom lives at Tango Mar (Tambor)   can someone please let me know anything from the region? I live in ...",
+   "htmlSnippet": "Sep 5, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  occurred on top of the North \u003cb\u003eAmerican\u003c/b\u003e plate which is \u003cb\u003e...\u003c/b\u003e GEOFON, Costa Rica, \u003cbr\u003e  Sep 05 15:\u003cb\u003e12\u003c/b\u003e PM, 5.0, 34.0, MAP &middot; I Felt It \u003cb\u003e...\u003c/b\u003e My mom lives at Tango \u003cb\u003eMar\u003c/b\u003e (Tambor) \u003cbr\u003e  can someone please let me know anything from the region? I live in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iV_Dt5iwBfUJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-september-5-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-september-5-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes list March 21, 2012 ??? Very strong earthquake in Papua ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e list March 21, 2012 ??? Very strong \u003cb\u003eearthquake\u003c/b\u003e in Papua \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/21/earthquakes-list-march-21-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 22, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS .... USGS, Off The East   Coast Of Honshu, Japan, Mar 21 12:01 PM, 4.8, 34.2, MAP ?? I Felt It ... of M 4.0 or   higher with emphasis to earthquakes in the America's and the Pacific Ocean ....   EARTHQUAKE related news ??? To remember : South-Africa 1976 ...",
+   "htmlSnippet": "Mar 22, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD ??? REGIONS \u003cb\u003e....\u003c/b\u003e USGS, Off The East \u003cbr\u003e  Coast Of Honshu, Japan, \u003cb\u003eMar\u003c/b\u003e 21 \u003cb\u003e12\u003c/b\u003e:01 PM, 4.8, 34.2, MAP &middot; I Felt It \u003cb\u003e...\u003c/b\u003e of M 4.0 or \u003cbr\u003e  higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the Pacific Ocean \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : \u003cb\u003eSouth\u003c/b\u003e-Africa \u003cb\u003e1976\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MLroZa8JysgJ",
+   "formattedUrl": "earthquake-report.com/2012/03/.../earthquakes-list-march-21-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/03/.../\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003emar\u003c/b\u003ech-21-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes list March 22, 2012 ??? Full list",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e list March 22, 2012 ??? Full list",
+   "link": "http://earthquake-report.com/2012/03/22/earthquakes-list-march-22-2012-full-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Earthquakes list March 22, 2012 ??? Full list. Last update: March 22, 2012 at 12:28   am by By Ashish Khanal ?? REAL TIME EARTHQUAKE LIST S ??? WORLD ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e list March 22, 2012 ??? Full list. Last update: March 22, 2012 at \u003cb\u003e12\u003c/b\u003e:28 \u003cbr\u003e  am by By Ashish Khanal &middot; REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST \u003cb\u003eS\u003c/b\u003e ??? WORLD \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "slyVGWfZAGsJ",
+   "formattedUrl": "earthquake-report.com/.../earthquakes-list-march-22-2012-full-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003emar\u003c/b\u003ech-22-2012-full-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1976",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, ... 5.2, SOUTH   AFRICA, Dec 08 1976, 08:38:23 UTC, -27.979, 26.677, 197612080838 ... 7.0,   Muradiye, Turkey, Nov 24 1976, 12:22:18 UTC, 39.082, 44.031, 197611241222   .... 5.2, SWITZERLAND, Mar 26 1976, 22:28:32, 47.575, 9.405 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, \u003cb\u003e...\u003c/b\u003e 5.2, \u003cb\u003eSOUTH\u003c/b\u003e \u003cbr\u003e  AFRICA, Dec 08 \u003cb\u003e1976\u003c/b\u003e, 08:38:23 UTC, -27.979, 26.677, 197612080838 \u003cb\u003e...\u003c/b\u003e 7.0, \u003cbr\u003e  Muradiye, Turkey, Nov 24 \u003cb\u003e1976\u003c/b\u003e, \u003cb\u003e12\u003c/b\u003e:22:18 UTC, 39.082, 44.031, 197611241222 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 5.2, SWITZERLAND, \u003cb\u003eMar\u003c/b\u003e 26 \u003cb\u003e1976\u003c/b\u003e, 22:28:32, 47.575, 9.405 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pRpHCJZ8ESAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1976",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1976\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 T??hoku earthquake and tsunami - Wikipedia, the free ...",
+   "htmlTitle": "2011 T??hoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "[12] It was the most powerful known earthquake ever to have hit Japan, and one   of the five most ..... As of 16 Mar 2012 aftershocks continued, totaling 1887 events   over ... the entire Pacific coast of North and South America from Alaska to Chile.   ...... Since 1976, when Katsuhiko Ishibashi said a large earthquake in the Suruga ...",
+   "htmlSnippet": "[\u003cb\u003e12\u003c/b\u003e] It was the most powerful known \u003cb\u003eearthquake\u003c/b\u003e ever to have hit Japan, and one \u003cbr\u003e  of the five most \u003cb\u003e.....\u003c/b\u003e As of 16 \u003cb\u003eMar\u003c/b\u003e 2012 aftershocks continued, totaling 1887 events \u003cbr\u003e  over \u003cb\u003e...\u003c/b\u003e the entire Pacific coast of North and \u003cb\u003eSouth America\u003c/b\u003e from Alaska to Chile. \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e Since \u003cb\u003e1976\u003c/b\u003e, when Katsuhiko Ishibashi said a large \u003cb\u003eearthquake\u003c/b\u003e in the Suruga \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w6_5DbhKMEUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_T??hoku_earthquake_and_tsunami",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_T??hoku_\u003cb\u003eearthquake\u003c/b\u003e_and_tsunami",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2011_Tohoku_earthquake_observed_tsunami_heights_en.png/240px-2011_Tohoku_earthquake_observed_tsunami_heights_en.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "175",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQn7T6dG2ESn6Xj9T3bxHT-o7dnG_YBeivQ9XoPtMgQ2LnRcp2cRTj7a1"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??200 meters"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "U.S. GAO - B-138942, MAY 19, 1977, 56 COMP.GEN. 629",
+   "htmlTitle": "U.S. GAO - B-138942, MAY 19, 1977, 56 COMP.GEN. 629",
+   "link": "http://redbook.gao.gov/17/fl0080829.php",
+   "displayLink": "redbook.gao.gov",
+   "snippet": "May 19, 1977... THE COMPTROLLER GENERAL'S GUIDELINES OF MARCH 12, 1976, .... IN   CENTRAL AND SOUTH AMERICA WHERE TRAVEL ACROSS ...",
+   "htmlSnippet": "May 19, 1977\u003cb\u003e...\u003c/b\u003e THE COMPTROLLER GENERAL&#39;S GUIDELINES OF \u003cb\u003eMARCH 12, 1976\u003c/b\u003e, \u003cb\u003e....\u003c/b\u003e IN \u003cbr\u003e  CENTRAL AND \u003cb\u003eSOUTH AMERICA\u003c/b\u003e WHERE TRAVEL ACROSS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "34HvOapf3nMJ",
+   "formattedUrl": "redbook.gao.gov/17/fl0080829.php",
+   "htmlFormattedUrl": "redbook.gao.gov/17/fl0080829.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "date": "1977-05-19",
+      "last-modified": "Mon, 13 Sep 2004 08:32:07 -0400"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Summary - Earthquake Summary",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Summary - \u003cb\u003eEarthquake\u003c/b\u003e Summary",
+   "link": "http://earthquakesummary.info/",
+   "displayLink": "earthquakesummary.info",
+   "snippet": "No significant (M\u003e=5) or unusual earthquakes were reported in Indonesia or the   Philippines today. CENTRAL AND SOUTH AMERICA. O: 11DEC2012 12:14:56 ...",
+   "htmlSnippet": "No significant (M&gt;=5) or unusual \u003cb\u003eearthquakes\u003c/b\u003e were reported in Indonesia or the \u003cbr\u003e  Philippines today. CENTRAL AND \u003cb\u003eSOUTH AMERICA\u003c/b\u003e. O: 11DEC2012 \u003cb\u003e12\u003c/b\u003e:14:56 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uf1MR-aljNEJ",
+   "formattedUrl": "earthquakesummary.info/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquakes\u003c/b\u003eum\u003cb\u003emar\u003c/b\u003ey.info/",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Lowell Whiteside"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of the strongest and deadliest earthquakes",
+   "htmlTitle": "List of the strongest and deadliest \u003cb\u003eearthquakes\u003c/b\u003e",
+   "link": "http://news.mongabay.com/2010/0227-earthquake.html",
+   "displayLink": "news.mongabay.com",
+   "snippet": "Feb 27, 2010 ... (12/03/2007) In 1999 a 7.3 earthquake struck Nantou County at the center of ...   tsunamis that killed more than 25,000 people in South America. Nov. ... Mar. 11,   2011: Magnitude 8.9 in Honshu, Japan. Damage and loss of life ... 27, 1976: 7.5   magnitude quake in Tangshan, China, 255,000-655,000 deaths ...",
+   "htmlSnippet": "Feb 27, 2010 \u003cb\u003e...\u003c/b\u003e (\u003cb\u003e12\u003c/b\u003e/03/2007) In 1999 a 7.3 \u003cb\u003eearthquake\u003c/b\u003e struck Nantou County at the center of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  tsunamis that killed more than 25,000 people in \u003cb\u003eSouth America\u003c/b\u003e. Nov. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMar\u003c/b\u003e. 11, \u003cbr\u003e  2011: Magnitude 8.9 in Honshu, Japan. Damage and loss of life \u003cb\u003e...\u003c/b\u003e 27, \u003cb\u003e1976\u003c/b\u003e: 7.5 \u003cbr\u003e  magnitude quake in Tangshan, China, 255,000-655,000 deaths \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XfEBTajJa3oJ",
+   "formattedUrl": "news.mongabay.com/2010/0227-earthquake.html",
+   "htmlFormattedUrl": "news.mongabay.com/2010/0227-\u003cb\u003eearthquake\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://photos.mongabay.com/10/neic_tfan.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "197",
+      "height": "256",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTeGJr-bF8FcwuPk_uV_AYl5bxmBPwsH4CvUUG3o7sKsh_p8FuJBOUwonI"
+     }
+    ],
+    "metatags": [
+     {
+      "tags": "earth science earthquakes disasters environment",
+      "og:title": "List of the strongest and deadliest earthquakes",
+      "og:type": "article",
+      "og:url": "http://news.mongabay.com/2010/0227-earthquake.html",
+      "og:site_name": "Mongabay.com",
+      "og:description": "On February 27, 2010 a magnitude 8.8 earthquake struck Maule, Chile causing widespread damage and casualties.  The quake ranks as one of the ten strongest earthquakes ever recorded.."
+     }
+    ]
+   }
+  }
+ ]
+}

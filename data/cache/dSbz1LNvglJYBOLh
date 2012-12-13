@@ -1,0 +1,328 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 28 1989 Australia Earthquake",
+    "totalResults": "464000",
+    "searchTerms": "May 28 1989 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 28 1989 Australia Earthquake",
+    "totalResults": "464000",
+    "searchTerms": "May 28 1989 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.199546,
+  "formattedSearchTime": "0.20",
+  "totalResults": "464000",
+  "formattedTotalResults": "464,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... The earthquake was centered in the gold mining area of Welkom about .... China,   1989 - Magnitude : 5.2 ??? 4 people killed ... Two people killed and 28 houses   damaged in Choco Department. ..... This earthquake may be the largest ???on land???   earthquake in the modern .... Australia, 1968 ??? Magnitude : 6.9 ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom about \u003cb\u003e....\u003c/b\u003e China, \u003cbr\u003e  \u003cb\u003e1989\u003c/b\u003e - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e...\u003c/b\u003e Two people killed and \u003cb\u003e28\u003c/b\u003e houses \u003cbr\u003e  damaged in Choco Department. \u003cb\u003e.....\u003c/b\u003e This \u003cb\u003eearthquake may\u003c/b\u003e be the largest ???on land??? \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in the modern \u003cb\u003e....\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e, 1968 ??? Magnitude : 6.9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Ayers Rock, Australia, earthquake of 28 May 1989: A temporally ...",
+   "htmlTitle": "The Ayers Rock, \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e28 May 1989\u003c/b\u003e: A temporally \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/80/2/313.abstract",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "At 0255 UTC on 28 May 1989 an mb 5.8 earthquake shook the Yulara Resort   and Uluru National Park in the Northern Territory of Australia. The epicenter lay   40 ...",
+   "htmlSnippet": "At 0255 UTC on \u003cb\u003e28 May 1989\u003c/b\u003e an mb 5.8 \u003cb\u003eearthquake\u003c/b\u003e shook the Yulara Resort \u003cbr\u003e  and Uluru National Park in the Northern Territory of \u003cb\u003eAustralia\u003c/b\u003e. The epicenter lay \u003cbr\u003e  40 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "bssa.geoscienceworld.org/content/80/2/313.abstract",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/80/2/313.abstract",
+   "pagemap": {
+    "person": [
+     {
+      "name": "J. Roger Bowman"
+     },
+     {
+      "name": "John A. Collins"
+     },
+     {
+      "name": "Michael G. Bostock"
+     },
+     {
+      "name": "John Grant"
+     }
+    ],
+    "metatags": [
+     {
+      "hw.ad-path": "/cgi/content/abstract/80/2/313",
+      "hw.identifier": "/ssabull/80/2/313.atom",
+      "dc.format": "text/html",
+      "dc.language": "en",
+      "dc.title": "The Ayers Rock, Australia, earthquake of 28 May 1989: A temporally isolated mb 5.8 intraplate event",
+      "dc.date": "1990-04-01",
+      "dc.publisher": "Seismological Society of America",
+      "dc.contributor": "J. Roger Bowman",
+      "citation_journal_title": "Bulletin of the Seismological Society of America",
+      "citation_journal_abbrev": "Bulletin of the Seismological Society of America",
+      "citation_issn": "0037-1106",
+      "citation_author": "J. Roger Bowman",
+      "citation_title": "The Ayers Rock, Australia, earthquake of 28 May 1989: A temporally isolated mb 5.8 intraplate event",
+      "citation_date": "04/01/1990",
+      "citation_volume": "80",
+      "citation_issue": "2",
+      "citation_firstpage": "313",
+      "citation_lastpage": "324",
+      "citation_id": "80/2/313",
+      "citation_mjid": "ssabull;80/2/313",
+      "citation_abstract_html_url": "http://bssa.geoscienceworld.org/content/80/2/313.abstract",
+      "citation_pdf_url": "http://bssa.geoscienceworld.org/content/80/2/313.full.pdf",
+      "citation_public_url": "http://bssa.geoscienceworld.org/content/80/2/313",
+      "citation_section": "Articles"
+     }
+    ],
+    "scholarlyarticle": [
+     {
+      "articlebody": "Copyright ?? 1990, by the Seismological Society of America The Ayers Rock, Australia, earthquake of 28 May 1989: A temporally isolated mb 5.8 intraplate event J. Roger Bowman, John A. Collins,...",
+      "headline": "The Ayers Rock, Australia, earthquake of 28 May 1989: A temporally isolated mb 5.8 intraplate event",
+      "description": "Abstract At 0255 UTC on 28 May 1989 an mb 5.8 earthquake shook the Yulara Resort and Uluru National Park in the Northern Territory of Australia. The epicenter lay 40 km west of Ayers Rock in...",
+      "datepublished": "April 1990"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... Mw8.1 ??? May 23, 1989 ??? North of Macquarie Island ... is the intersection in   between the Indian Plate, the Australian plate and the Burma plate.",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e Mw8.1 ??? \u003cb\u003eMay\u003c/b\u003e 23, \u003cb\u003e1989\u003c/b\u003e ??? North of Macquarie Island \u003cb\u003e...\u003c/b\u003e is the intersection in \u003cbr\u003e  between the Indian Plate, the \u003cb\u003eAustralian\u003c/b\u003e plate and the Burma plate.",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1989",
+   "htmlTitle": "\u003cb\u003e1989\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1989",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, ... 5.4,   Newcastle, Australia, Dec 27 1989, 23:26:27 UTC, -32.952, 151.610,   198912272326 .... 5.8, Mt Olga, Australia, May 28 1989, 02:55:23 UTC, -25.139 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, \u003cb\u003e...\u003c/b\u003e 5.4, \u003cbr\u003e  Newcastle, \u003cb\u003eAustralia\u003c/b\u003e, Dec 27 1989, 23:26:27 UTC, -32.952, 151.610, \u003cbr\u003e  198912272326 \u003cb\u003e....\u003c/b\u003e 5.8, Mt Olga, \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eMay 28 1989\u003c/b\u003e, 02:55:23 UTC, -25.139 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "amogNa_WR7UJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1989",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1989\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... The author takes no responsibility for errors that may be in the data and also   misuse of the data provided. .... This database has been presented at the   Australian Earthquake Engineering Society .... Sendai Aftershock, JP, 07.04.2011  , 4, (2-4), 28, 268 ..... =10, Loma Prieta, USA, 18.10.1989, $2.51bn, Amer.",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e The author takes no responsibility for errors that \u003cb\u003emay\u003c/b\u003e be in the data and also \u003cbr\u003e  misuse of the data provided. \u003cb\u003e....\u003c/b\u003e This database has been presented at the \u003cbr\u003e  \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering Society \u003cb\u003e....\u003c/b\u003e Sendai Aftershock, JP, 07.04.2011\u003cbr\u003e  , 4, (2-4), \u003cb\u003e28\u003c/b\u003e, 268 \u003cb\u003e.....\u003c/b\u003e =10, Loma Prieta, USA, 18.10.\u003cb\u003e1989\u003c/b\u003e, $2.51bn, Amer.",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   Unless otherwise stated, this list uses the Richter magnitude scale, as most ...",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  Unless otherwise stated, this list uses the Richter magnitude scale, as most \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list July 25, 2012 ??? Very strong earthquake ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list July 25, 2012 ??? Very strong \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/07/24/major-earthquakes-list-july-25-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 25, 2012 ... Personalized E-mail earthquake alerts for this area. Click on Subscribe to E-mail   list of this page below and make your choice of ??? delivery ...",
+   "htmlSnippet": "Jul 25, 2012 \u003cb\u003e...\u003c/b\u003e Personalized E-mail \u003cb\u003eearthquake\u003c/b\u003e alerts for this area. Click on Subscribe to E-mail \u003cbr\u003e  list of this page below and make your choice of ??? delivery \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TIiQnYHgfp4J",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-july-25-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-july-25-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "THE AYERS ROCK, AUSTRALIA, EARTHQUAKE OF 28 MAY 1989 ...",
+   "htmlTitle": "THE AYERS ROCK, \u003cb\u003eAUSTRALIA\u003c/b\u003e, \u003cb\u003eEARTHQUAKE\u003c/b\u003e OF \u003cb\u003e28 MAY 1989\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.bssaonline.org/content/80/2/313.full.pdf",
+   "displayLink": "www.bssaonline.org",
+   "snippet": "At 0255 UTC on 28 May 1989 an mb 5.8 earthquake shook the Yulara Resort   and Uluru National Park in the Northern Territory of Australia. The epicenter lay ...",
+   "htmlSnippet": "At 0255 UTC on \u003cb\u003e28 May 1989\u003c/b\u003e an mb 5.8 \u003cb\u003eearthquake\u003c/b\u003e shook the Yulara Resort \u003cbr\u003e  and Uluru National Park in the Northern Territory of \u003cb\u003eAustralia\u003c/b\u003e. The epicenter lay \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.bssaonline.org/content/80/2/313.full.pdf",
+   "htmlFormattedUrl": "www.bssaonline.org/content/80/2/313.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010374006.TIF",
+      "creationdate": "Fri Sep 16 10:28:36 2005",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20051008092955+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic Events - Earthquakes - Geoscience Australia",
+   "htmlTitle": "Historic Events - \u003cb\u003eEarthquakes\u003c/b\u003e - Geoscience \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.ga.gov.au/hazards/earthquakes/earthquake-basics/historic.html",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Australian Earthquake Engineering Society 2010 Conference, Perth, Western ...   on 28 December 1989 when an earthquake shook Newcastle in New South   Wales, .... It occurred just off the coast between Beachport and Robe on 10 May   1897.",
+   "htmlSnippet": "\u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering Society 2010 Conference, Perth, Western \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  on \u003cb\u003e28\u003c/b\u003e December \u003cb\u003e1989\u003c/b\u003e when an \u003cb\u003eearthquake\u003c/b\u003e shook Newcastle in New South \u003cbr\u003e  Wales, \u003cb\u003e....\u003c/b\u003e It occurred just off the coast between Beachport and Robe on 10 \u003cb\u003eMay\u003c/b\u003e \u003cbr\u003e  1897.",
+   "cacheId": "JhDevNXPNjcJ",
+   "formattedUrl": "www.ga.gov.au/hazards/earthquakes/earthquake-basics/historic.html",
+   "htmlFormattedUrl": "www.ga.gov.au/hazards/\u003cb\u003eearthquakes\u003c/b\u003e/\u003cb\u003eearthquake\u003c/b\u003e-basics/historic.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "Historic Events - Earthquakes",
+      "dc.creator": "c\\=AU\\;o\\=Australia Government\\;ou\\=Geoscience Australia",
+      "dc.publisher": "c\\=AU\\;o\\=Australian Government\\;ou\\=Geoscience Australia",
+      "agls.function": "Earth Science",
+      "dc.identifier": "historic.html",
+      "dc.format": "text/html",
+      "dc.language": "en-AU",
+      "agls.audience": "all",
+      "dc.coverage.jurisdiction": "Commonwealth of Australia",
+      "dc.rights": "; \u003cmeta name=\"DC.Rights\" scheme=\"URI\" content=\"http://creativecommons.org/licenses/by/2.5/au/\"\u003e",
+      "dc.date.created": "2010-06-22 10:34:20",
+      "dc.date.modified": "2012-11-23 17:46:06",
+      "dc.description": "Historically, bushfires, floods, earthquakes, landslides and cyclones have caused loss of life and significant damage to property and infrastructure.",
+      "topic": "Hazards",
+      "topic id": "700",
+      "multimedia products url": "http://www.ga.gov.au/cedda/multimedia/",
+      "publication products url": "http://www.ga.gov.au/cedda/publications/",
+      "map products url": "http://www.ga.gov.au/cedda/maps/",
+      "data and application products url": "http://www.ga.gov.au/cedda/data/",
+      "genericemail": "earthquakes@ga.gov.au",
+      "newsitemdate": "01 January 2010"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Uluru (Ayers Rock), Australia, Earthquake of 28 May 1989",
+   "htmlTitle": "The Uluru (Ayers Rock), \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003e28 May 1989\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/84/1/209.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "Abstract At 02 hr 55 min 21 sec UTC on 28 May 1989 a Richter Me 5.6   earthquake occurred in Central Australia in crystalline basement beneath the   southern ...",
+   "htmlSnippet": "Abstract At 02 hr 55 min 21 sec UTC on \u003cb\u003e28 May 1989\u003c/b\u003e a Richter Me 5.6 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e occurred in Central \u003cb\u003eAustralia\u003c/b\u003e in crystalline basement beneath the \u003cbr\u003e  southern \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/84/1/209.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/84/1/209.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010401017.TIF",
+      "creationdate": "Sat Sep 17 21:39:34 2005",
+      "title": "010401017.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20051001092710+08'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

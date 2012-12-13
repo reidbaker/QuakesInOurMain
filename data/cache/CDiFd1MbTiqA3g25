@@ -1,0 +1,304 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 24 1940 Eurasia Earthquake",
+    "totalResults": "18000",
+    "searchTerms": "May 24 1940 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 24 1940 Eurasia Earthquake",
+    "totalResults": "18000",
+    "searchTerms": "May 24 1940 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.207035,
+  "formattedSearchTime": "0.21",
+  "totalResults": "18000",
+  "formattedTotalResults": "18,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "data suggests that the Arabia's collision rate with Eurasia may have reduced to   22 mm/yr (Sella ... itself may accommodate as much as 19-24 mm/yr of strike-slip   motion (Lawrence et al 1992). At latitude ...... Am., vol.54, pp.1927-1940. Tatar, M ...",
+   "htmlSnippet": "data suggests that the Arabia&#39;s collision rate with \u003cb\u003eEurasia may\u003c/b\u003e have reduced to \u003cbr\u003e  22 mm/yr (Sella \u003cb\u003e...\u003c/b\u003e itself \u003cb\u003emay\u003c/b\u003e accommodate as much as 19-\u003cb\u003e24\u003c/b\u003e mm/yr of strike-slip \u003cbr\u003e  motion (Lawrence et al 1992). At latitude \u003cb\u003e......\u003c/b\u003e Am., vol.54, pp.1927-\u003cb\u003e1940\u003c/b\u003e. Tatar, M \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Plate tectonics - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Plate tectonics - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Plate_tectonics",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquakes, volcanic activity, mountain-building, and oceanic trench formation   ... piece of mantle may be part of the lithosphere or the asthenosphere at different   times, .... The same holds for the African, Eurasian, and Antarctic plates. ... In   1973, George W. Moore of the USGS and R. C. Bostrom presented evidence for a ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e, volcanic activity, mountain-building, and oceanic trench formation \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e piece of mantle \u003cb\u003emay\u003c/b\u003e be part of the lithosphere or the asthenosphere at different \u003cbr\u003e  times, \u003cb\u003e....\u003c/b\u003e The same holds for the African, \u003cb\u003eEurasian\u003c/b\u003e, and Antarctic plates. \u003cb\u003e...\u003c/b\u003e In \u003cbr\u003e  1973, George W. Moore of the USGS and R. C. Bostrom presented evidence for a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "63PsD3Mc70MJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Plate_tectonics",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Plate_tectonics",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e??? ????????? (Plate tectonics)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "??? ???????????? ?????? ?????? ??? ???????????? ????????? ????????????. ??????????????? '???????????????'??? ???????????? ??????????????? ????????? ????????? ?????? ??? ????????? ????????? ???????????? ??? ???????????? ??????????????? ??????. ??? ???????????? ????????? ?????? ????????? ?????? ?????? ????????? ????????? ??? ????????? ??? ??? ????????? ???????????? ??????. ???????????? ????????? ????????? ????????? ???????????? ????????? ????????????,...",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Plate_tectonics",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://www.encyber.com/search_w/ctdetail.php?masterno=180405&contentno=180405",
+      "Output::link2c": "????????????",
+      "Output::text2d": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2e": "http://ko.wikipedia.org/wiki/???_?????????",
+      "Output::link2e": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "/images/icons/onebox/dictionary-40.gif",
+      "image_size": "40x40",
+      "Output::inline_image_width": "40",
+      "Output::inline_image_height": "40"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tips",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tips",
+   "link": "http://www.ourvmc.org/Files/EQTips_Full.pdf",
+   "displayLink": "www.ourvmc.org",
+   "snippet": "May 2002. Figure 4:: Some typical recorded accelerograms. 0.5g. Time (sec).   1985 Mex ico Earthquake (SCT 1A; N90E). 1940 Imper ial Valley Earthquak e (El ...",
+   "htmlSnippet": "\u003cb\u003eMay\u003c/b\u003e 2002. Figure 4:: Some typical recorded accelerograms. 0.5g. Time (sec). \u003cbr\u003e  1985 Mex ico \u003cb\u003eEarthquake\u003c/b\u003e (SCT 1A; N90E). \u003cb\u003e1940\u003c/b\u003e Imper ial Valley Earthquak e (El \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eJE3wg7LCwYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "htmlFormattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050816131846+05'30'",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20050816133329+05'30'",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates ... One of the largest earthquakes ever was the Chile event of 22   May 1960 with moment ... 1905, 26, 1935, 24, 1965, 22 ... 1910, 36, 1940, 23,   1970, 29 ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates \u003cb\u003e...\u003c/b\u003e One of the largest \u003cb\u003eearthquakes\u003c/b\u003e ever was the Chile event of 22 \u003cbr\u003e  \u003cb\u003eMay\u003c/b\u003e 1960 with moment \u003cb\u003e...\u003c/b\u003e 1905, 26, 1935, \u003cb\u003e24\u003c/b\u003e, 1965, 22 \u003cb\u003e...\u003c/b\u003e 1910, 36, \u003cb\u003e1940\u003c/b\u003e, 23, \u003cbr\u003e  1970, 29 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Environmental and Social Impact Assessment for the Eurasia Tunnel ...",
+   "htmlTitle": "Environmental and Social Impact Assessment for the \u003cb\u003eEurasia\u003c/b\u003e Tunnel \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.eib.org/attachments/pipeline/20090678_nts_en.pdf",
+   "displayLink": "www.eib.org",
+   "snippet": "24. 6.5.1. Impacts during operation. 24. 6.5.2. Impacts during Construction. 26 ...   A.??. (ATA?? - the Eurasia Tunnel Operation, Construction and Investment Inc. Co.)   ...... earthquake shaking or other rapid loading which may cause ???flowing??? of the   ... the sea for road construction between the 1940s and 1960s may also contain ...",
+   "htmlSnippet": "\u003cb\u003e24\u003c/b\u003e. 6.5.1. Impacts during operation. \u003cb\u003e24\u003c/b\u003e. 6.5.2. Impacts during Construction. 26 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  A.??. (ATA?? - the \u003cb\u003eEurasia\u003c/b\u003e Tunnel Operation, Construction and Investment Inc. Co.) \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e shaking or other rapid loading which \u003cb\u003emay\u003c/b\u003e cause ???flowing??? of the \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e the sea for road construction between the \u003cb\u003e1940s\u003c/b\u003e and 1960s \u003cb\u003emay\u003c/b\u003e also contain \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CjVZf1VaWgYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.eib.org/attachments/pipeline/20090678_nts_en.pdf",
+   "htmlFormattedUrl": "www.eib.org/attachments/pipeline/20090678_nts_en.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110131143533+01'00'",
+      "author": "Jutta.Kalter",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "moddate": "D:20110131161710+01'00'",
+      "title": "00_1_NTS_31_01_11_.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic waves and surface waves: past and present",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e waves and surface waves: past and present",
+   "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009",
+   "displayLink": "www.scielo.org.mx",
+   "snippet": "While the subject may have seemed rather exotic at the time ???and still is, at least   in some parts of .... E. H. Love (1863???1940), Horace Lamb (1849???1934) and   others, and are known by their discoverers (Figure 5). ... the \"peak and trough\"   method for Eurasian earthquakes (Figure 9) by D. G??th (1962). .... J. Int., 141, 12???  24.",
+   "htmlSnippet": "While the subject \u003cb\u003emay\u003c/b\u003e have seemed rather exotic at the time ???and still is, at least \u003cbr\u003e  in some parts of \u003cb\u003e....\u003c/b\u003e E. H. Love (1863???\u003cb\u003e1940\u003c/b\u003e), Horace Lamb (1849???1934) and \u003cbr\u003e  others, and are known by their discoverers (Figure 5). \u003cb\u003e...\u003c/b\u003e the &quot;peak and trough&quot; \u003cbr\u003e  method for \u003cb\u003eEurasian earthquakes\u003c/b\u003e (Figure 9) by D. G??th (1962). \u003cb\u003e....\u003c/b\u003e J. Int., 141, 12???\u003cbr\u003e  \u003cb\u003e24\u003c/b\u003e.",
+   "cacheId": "l1ENIIrcteEJ",
+   "formattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016...",
+   "htmlFormattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0016...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.scielo.org.mx/img/revistas/geoint/v50n4/a9f3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWzENg6uD9O57Xz00pxuqTlyLxv1FuevlMnC6pM25BwqirfLDfFKZB3d-Y"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_journal_title": "Geof??sica internacional",
+      "citation_journal_title_abbrev": "Geof??s. Intl",
+      "citation_publisher": "Instituto de Geof??sica, UNAM",
+      "citation_title": "Seismic waves and surface waves: past and present",
+      "citation_date": "12/2011",
+      "citation_volume": "50",
+      "citation_issue": "4",
+      "citation_issn": "0016-7169",
+      "citation_abstract_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_fulltext_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_pdf_url": "http://www.scielo.org.mx/scielo.php?script=sci_pdf&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_author": "Malischewsky, Peter G.",
+      "citation_author_institution": "Friedrich-Schiller-Universitat Jena, Germany",
+      "citation_firstpage": "485",
+      "citation_lastpage": "493"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Regional stresses along the Eurasia-Africa plate boundary derived ...",
+   "htmlTitle": "Regional stresses along the \u003cb\u003eEurasia\u003c/b\u003e-Africa plate boundary derived \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/u0h166q721025040.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "plane solutions of large earthquakes may serve as an indication of their general   trend for a given region. ... this point (24~ earthquakes are located along a West-  East transform fault, the. Azores-Gibraltar fault .... 1940-02-29. 16 07 42. 35.50 ...",
+   "htmlSnippet": "plane solutions of large \u003cb\u003eearthquakes may\u003c/b\u003e serve as an indication of their general \u003cbr\u003e  trend for a given region. \u003cb\u003e...\u003c/b\u003e this point (\u003cb\u003e24\u003c/b\u003e~ \u003cb\u003eearthquakes\u003c/b\u003e are located along a West-\u003cbr\u003e  East transform fault, the. Azores-Gibraltar fault \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1940\u003c/b\u003e-02-29. 16 07 42. 35.50 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "915141007.TIF",
+      "creationdate": "Mon Nov 29 11:50:47 2004",
+      "title": "Regional stresses along the Eurasia-Africa plate boundary derived from focal mechanisms of large earthquakes",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20041209041100+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A crust and upper mantle model of Eurasia and North Africa for Pn ...",
+   "htmlTitle": "A crust and upper mantle model of \u003cb\u003eEurasia\u003c/b\u003e and North Africa for Pn \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://e-reports-ext.llnl.gov/pdf/371267.pdf",
+   "displayLink": "e-reports-ext.llnl.gov",
+   "snippet": "We develop a Regional Seismic Travel Time (RSTT) model and methods to   account for ... 1-D models (e.g. Jeffreys and Bullen, 1940; Herrin et al. 1968 ...   condition may be met by long-standing networks and for limited geographic   regions, .... 24 0. V. (4) where Xm is the horizontal distance traveled in the mantle,   and V0 is a ...",
+   "htmlSnippet": "We develop a Regional \u003cb\u003eSeismic\u003c/b\u003e Travel Time (RSTT) model and methods to \u003cbr\u003e  account for \u003cb\u003e...\u003c/b\u003e 1-D models (e.g. Jeffreys and Bullen, \u003cb\u003e1940\u003c/b\u003e; Herrin et al. 1968 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  condition \u003cb\u003emay\u003c/b\u003e be met by long-standing networks and for limited geographic \u003cbr\u003e  regions, \u003cb\u003e....\u003c/b\u003e \u003cb\u003e24\u003c/b\u003e 0. V. (4) where Xm is the horizontal distance traveled in the mantle, \u003cbr\u003e  and V0 is a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FouZbzA3h4gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "https://e-reports-ext.llnl.gov/pdf/371267.pdf",
+   "htmlFormattedUrl": "https://e-reports-ext.llnl.gov/pdf/371267.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "iText 1.4.7 (by lowagie.com)",
+      "moddate": "D:20100331132426-07'00'",
+      "creationdate": "D:20100331132426-07'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The accommodation of Arabia-Eurasia Plate convergence in Iran",
+   "htmlTitle": "The accommodation of Arabia-\u003cb\u003eEurasia\u003c/b\u003e Plate convergence in Iran",
+   "link": "http://www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "displayLink": "www.agu.org",
+   "snippet": "that earthquakes between 1909 and 1992 can account for only a small part (,-???10  -20%) ... ther questions that may be related to the dynamics (i.e., to .... To our   knowledge there are no geodetic (either. 4O. 36. 32. 28. 24. 42. 46 ..... May 4,   1940 ...",
+   "htmlSnippet": "that \u003cb\u003eearthquakes\u003c/b\u003e between 1909 and 1992 can account for only a small part (,-???10\u003cbr\u003e  -20%) \u003cb\u003e...\u003c/b\u003e ther questions that \u003cb\u003emay\u003c/b\u003e be related to the dynamics (i.e., to \u003cb\u003e....\u003c/b\u003e To our \u003cbr\u003e  knowledge there are no geodetic (either. 4O. 36. 32. 28. \u003cb\u003e24\u003c/b\u003e. 42. 46 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eMay\u003c/b\u003e 4, \u003cbr\u003e  \u003cb\u003e1940\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "htmlFormattedUrl": "www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "James Jackson, John Haines, William Holt",
+      "creationdate": "D:20070524134205Z",
+      "creator": "www.PrincetonImaging.com",
+      "moddate": "D:20121011152108-04'00'",
+      "producer": "escape 1.1",
+      "subject": "Tectonophysics: Continental neotectonics; Seismology: Seismicity and seismotectonics; Tectonophysics: Dynamics, seismotectonics; Tectonophysics: Continental tectonics&mdash;general",
+      "title": "The accommodation of Arabia-Eurasia Plate convergence in Iran"
+     }
+    ]
+   }
+  }
+ ]
+}

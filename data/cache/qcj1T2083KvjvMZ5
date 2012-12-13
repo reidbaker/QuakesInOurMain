@@ -1,0 +1,301 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 29 1993 Africa Earthquake",
+    "totalResults": "349000",
+    "searchTerms": "Aug 29 1993 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 29 1993 Africa Earthquake",
+    "totalResults": "349000",
+    "searchTerms": "Aug 29 1993 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.251578,
+  "formattedSearchTime": "0.25",
+  "totalResults": "349000",
+  "formattedTotalResults": "349,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed ... the direct opposite of the   Agadir, Morocco earthquake of 29 Feb 1960. .... She died in 1993 at the age of   105. .... 45 miles east of the region hit by the August earthquake.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e...\u003c/b\u003e the direct opposite of the \u003cbr\u003e  Agadir, Morocco \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e29\u003c/b\u003e Feb 1960. \u003cb\u003e....\u003c/b\u003e She died in \u003cb\u003e1993\u003c/b\u003e at the age of \u003cbr\u003e  105. \u003cb\u003e....\u003c/b\u003e 45 miles east of the region hit by the \u003cb\u003eAugust earthquake\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Earthquakes",
+   "htmlTitle": "Historical \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/index.php?option=com_content&view=article&id=1612:historical-earthquakes&catid=138:seismology-unit-activities&Itemid=615",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "The knowledge of early earthquakes in South Africa, as in other parts of the world  , is based on ... South African Earthquakes .... Die Burger, 29 Aug 1963 ...",
+   "htmlSnippet": "The knowledge of early \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAfrica\u003c/b\u003e, as in other parts of the world\u003cbr\u003e  , is based on \u003cb\u003e...\u003c/b\u003e South \u003cb\u003eAfrican Earthquakes\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Die Burger, \u003cb\u003e29 Aug\u003c/b\u003e 1963 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HzRAmQ_5o1MJ",
+   "formattedUrl": "www.geoscience.org.za/index.php?...earthquakes...",
+   "htmlFormattedUrl": "www.geoscience.org.za/index.php?...\u003cb\u003eearthquakes\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Historical Earthquakes",
+      "author": "Malcolm Simpson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive September 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The most recent earthquake related news : Click here ... 36 cm at Honolulu,   Hawaii; 29 cm at Papeete, French Polynesia; .... Oregon, 1993 - Magnitude : 6.0   ..... Saudi Arabia away from the rest of the African continent, forming the Red Sea.   ... There were many aftershocks ??? a strong one on Sep 16 at 22:18 ...",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The most recent \u003cb\u003eearthquake\u003c/b\u003e related news : Click here \u003cb\u003e...\u003c/b\u003e 36 cm at Honolulu, \u003cbr\u003e  Hawaii; \u003cb\u003e29\u003c/b\u003e cm at Papeete, French Polynesia; \u003cb\u003e....\u003c/b\u003e Oregon, \u003cb\u003e1993\u003c/b\u003e - Magnitude : 6.0 \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Saudi Arabia away from the rest of the \u003cb\u003eAfrican\u003c/b\u003e continent, forming the Red Sea. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e There were many aftershocks ??? a strong one on \u003cb\u003eSep\u003c/b\u003e 16 at 22:18 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- \u003cb\u003esep\u003c/b\u003etember-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude (misc units) over time for deadly earthquakes since 1900 .... 1903-03-  29 22:30, Judea and Samaria, 32.200, 35.300, 5.7 UK, 20. 1903-04-28, Turkey ...",
+   "htmlSnippet": "Magnitude (misc units) over time for deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 \u003cb\u003e....\u003c/b\u003e 1903-03-\u003cbr\u003e  \u003cb\u003e29\u003c/b\u003e 22:30, Judea and Samaria, 32.200, 35.300, 5.7 UK, 20. 1903-04-28, Turkey \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1973",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 5.2,   SOUTH AFRICA, Aug 29 1973, 15:06:05, -22.484, 29.245 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 5.2, \u003cbr\u003e  SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eAug 29\u003c/b\u003e 1973, 15:06:05, -22.484, 29.245 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hRybTxkgXNEJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1973",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=1973"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquakes in Germany are relatively weak but occur several times a year, ...   This zone of intraplate deformation is caused by the continuing effects of the   Alpine orogeny as the African Plate continues to .... 26 August 1878, Tollhausen,   unknown, One person killed, damage to ... [29] 20 people had to be dug out of   rubble.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany are relatively weak but occur several times a year, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  This zone of intraplate deformation is caused by the continuing effects of the \u003cbr\u003e  Alpine orogeny as the \u003cb\u003eAfrican\u003c/b\u003e Plate continues to \u003cb\u003e....\u003c/b\u003e 26 \u003cb\u003eAugust\u003c/b\u003e 1878, Tollhausen, \u003cbr\u003e  unknown, One person killed, damage to \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e29\u003c/b\u003e] 20 people had to be dug out of \u003cbr\u003e  rubble.",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismotectonics and seismic hazards in Africa",
+   "htmlTitle": "Seismotectonics and \u003cb\u003eseismic\u003c/b\u003e hazards in \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "displayLink": "eost.u-strasbg.fr",
+   "snippet": "Africa. In this project, the preparation of thematic maps in earthquake ..... Istanbul   Following the August 17, 1999 Izmit and November 12, 1999 .... empirical study   based on the aftershocks of the Killari earthquake of September 29, 1993, XXVI ...",
+   "htmlSnippet": "\u003cb\u003eAfrica\u003c/b\u003e. In this project, the preparation of thematic maps in \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e Istanbul \u003cbr\u003e  Following the \u003cb\u003eAugust\u003c/b\u003e 17, 1999 Izmit and November 12, 1999 \u003cb\u003e....\u003c/b\u003e empirical study \u003cbr\u003e  based on the aftershocks of the Killari \u003cb\u003eearthquake\u003c/b\u003e of September \u003cb\u003e29\u003c/b\u003e, \u003cb\u003e1993\u003c/b\u003e, XXVI \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uxGp73DozZUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "htmlFormattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110615115411+02'00'",
+      "author": "Mustapha",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20110615115411+02'00'",
+      "title": "Microsoft Word - Seismotectonic-Map_Project.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Subway Tunnel Walls Thinner Than Designed : Red Line: Concrete ...",
+   "htmlTitle": "Subway Tunnel Walls Thinner Than Designed : Red Line: Concrete \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://articles.latimes.com/1993-08-29/news/mn-29206_1_concrete-subway-tunnels/3",
+   "displayLink": "articles.latimes.com",
+   "snippet": "August 29, 1993|DAVID WILLMAN | TIMES STAFF WRITER ... walls less than 12   inches thick would be more vulnerable to bending forces of an earthquake.",
+   "htmlSnippet": "\u003cb\u003eAugust 29\u003c/b\u003e, \u003cb\u003e1993\u003c/b\u003e|DAVID WILLMAN | TIMES STAFF WRITER \u003cb\u003e...\u003c/b\u003e walls less than 12 \u003cbr\u003e  inches thick would be more vulnerable to bending forces of an \u003cb\u003eearthquake\u003c/b\u003e.",
+   "cacheId": "aqhHPPrSjLMJ",
+   "formattedUrl": "articles.latimes.com/1993-08-29/news/mn-29206_1_concrete.../3",
+   "htmlFormattedUrl": "articles.latimes.com/\u003cb\u003e1993\u003c/b\u003e-08-\u003cb\u003e29\u003c/b\u003e/news/mn-29206_1_concrete.../3",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:admins": "100001837105818",
+      "fb:app_id": "186620898040944",
+      "og:title": "Subway Tunnel Walls Thinner Than Designed :  Red Line: Concrete flaws in some areas may add risk in a big quake, experts say. Officials say the structure is sound.",
+      "og:type": "article",
+      "og:url": "http://articles.latimes.com/1993-08-29/news/mn-29206_1_concrete-subway-tunnels",
+      "og:description": "Numerous segments of tunnel in the new Los Angeles subway were built with less concrete than designed--defects that experts say might reduce the subway's ability to withstand a major (Page 3 of 3)...",
+      "og:site_name": "Los Angeles Times Articles"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan News",
+   "htmlTitle": "Japan News",
+   "link": "http://topics.nytimes.com/top/news/international/countriesandterritories/japan/index.html",
+   "displayLink": "topics.nytimes.com",
+   "snippet": "Nov 26, 2012 ... Africa ?? Americas ?? Asia Pacific ?? Europe ?? Middle East ... In many ways, Japan is   still reeling from the devastating earthquake and ... disaster, with Naoto Kan   resigning as prime minister in August 2011. ..... November 29, 2012, Thursday ...   the Breakdown of Japanese High-Tech Industrial Policy, 1975-1993\" ...",
+   "htmlSnippet": "Nov 26, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAfrica\u003c/b\u003e &middot; Americas &middot; Asia Pacific &middot; Europe &middot; Middle East \u003cb\u003e...\u003c/b\u003e In many ways, Japan is \u003cbr\u003e  still reeling from the devastating \u003cb\u003eearthquake\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e disaster, with Naoto Kan \u003cbr\u003e  resigning as prime minister in \u003cb\u003eAugust\u003c/b\u003e 2011. \u003cb\u003e.....\u003c/b\u003e November \u003cb\u003e29\u003c/b\u003e, 2012, Thursday \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  the Breakdown of Japanese High-Tech Industrial Policy, 1975-\u003cb\u003e1993\u003c/b\u003e&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AmbEferUf_IJ",
+   "formattedUrl": "topics.nytimes.com/top/news/international/.../japan/index.html",
+   "htmlFormattedUrl": "topics.nytimes.com/top/news/international/.../japan/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/03/12/timestopics/japan-topics/japan-topics-sfSpan.jpg",
+      "type": "1",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/03/12/timestopics/japan-topics/japan-topics-sfSpan.jpg",
+      "width": "395",
+      "height": "259"
+     }
+    ],
+    "metatags": [
+     {
+      "name": "Japan",
+      "node": "Top/News/World/Countries and Territories/Japan",
+      "path": "top/news/international/countriesandterritories/japan",
+      "dsk": "World",
+      "summary": "\u003cp\u003e\u003cspan class=timestamp\u003eUpdated: Nov. 26, 2012\u003c/span\u003e\u003c/p\u003e \u003cp\u003eIn many ways, Japan is still reeling from the devastating earthquake and tsunami of March 11, 2011, and the nuclear crisis and huge leaks of radiation it set off.\u003c/p\u003e \u003cp\u003eThe disaster led to soul searching in a nation already worn down by two lost decades of economic growth, a rapidly aging and shrinking population, and the rapid rise of its longtime rival, China.\u003c/p\u003e \u003cp\u003eYears of political paralysis continued after the disaster, with \u003ca href=http://topics.nytimes.com/top/reference/timestopics/people/k/naoto_kan/index.html?scp=1-spot&amp",
+      "k2id": "1124987358886",
+      "thumbnail": "http://graphics8.nytimes.com/images/2012/03/12/timestopics/japan-topics/japan-topics-sfSpan.jpg",
+      "thumbnail_height": "259",
+      "thumbnail_width": "395",
+      "pt": "Topic",
+      "cg": "World",
+      "gtn": "Japan",
+      "scg": "Destinations",
+      "pst": "Location"
+     }
+    ]
+   }
+  }
+ ]
+}

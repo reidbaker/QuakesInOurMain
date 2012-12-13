@@ -1,0 +1,328 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 24 1974 Australia Earthquake",
+    "totalResults": "121000",
+    "searchTerms": "Dec 24 1974 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 24 1974 Australia Earthquake",
+    "totalResults": "121000",
+    "searchTerms": "Dec 24 1974 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.275149,
+  "formattedSearchTime": "0.28",
+  "totalResults": "121000",
+  "formattedTotalResults": "121,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on December 24 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eDecember 24\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/dec24.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "Dates In History and December 24 in history. ... Byzantine church Hagia Sophia   in Constantinople is inaugurated for the second time after being destroyed by   earthquakes. .... December 24, 1974 \"Cyclone Tracy devastates Darwin, Australia  .\" ...",
+   "htmlSnippet": "Dates In History and December 24 in history. \u003cb\u003e...\u003c/b\u003e Byzantine church Hagia Sophia \u003cbr\u003e  in Constantinople is inaugurated for the second time after being destroyed by \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eDecember 24, 1974\u003c/b\u003e &quot;Cyclone Tracy devastates Darwin, \u003cb\u003eAustralia\u003c/b\u003e\u003cbr\u003e  .&quot; \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B8Qtr8pT7m8J",
+   "formattedUrl": "www.datesinhistory.com/dec24.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003edec24\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 8, 2012 at 8:10 am by By Armand Vervaeck and James   Daniell ... The earthquake was centered in the gold mining area of Welkom about   300 .... November 24 2012 ...... Hawaii; 37 cm at Pago Pago, American Samoa; 4   cm at Southport, Australia. .... Peru, 1974 ??? Magnitude : 7.6 ??? 78 people killed ...",
+   "htmlSnippet": "Last update: \u003cb\u003eDecember\u003c/b\u003e 8, 2012 at 8:10 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom about \u003cbr\u003e  300 \u003cb\u003e....\u003c/b\u003e November \u003cb\u003e24\u003c/b\u003e 2012 \u003cb\u003e......\u003c/b\u003e Hawaii; 37 cm at Pago Pago, American Samoa; 4 \u003cbr\u003e  cm at Southport, \u003cb\u003eAustralia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e Peru, \u003cb\u003e1974\u003c/b\u003e ??? Magnitude : 7.6 ??? 78 people killed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "How many people were officially confirmed dead in Cyclone Tracy",
+   "htmlTitle": "How many people were officially confirmed dead in Cyclone Tracy",
+   "link": "http://wiki.answers.com/Q/How_many_people_were_officially_confirmed_dead_in_Cyclone_Tracy",
+   "displayLink": "wiki.answers.com",
+   "snippet": "Officially, 71 people died in tropical cyclone Tracy, which struck Darwin, the   capital city of Australia's Northern Territory, overnight on December 24, 1974, ...",
+   "htmlSnippet": "Officially, 71 people died in tropical cyclone Tracy, which struck Darwin, the \u003cbr\u003e  capital city of \u003cb\u003eAustralia&#39;s\u003c/b\u003e Northern Territory, overnight on \u003cb\u003eDecember 24, 1974\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "l3vO3XLbqbYJ",
+   "formattedUrl": "wiki.answers.com/.../How_many_people_were_officially_confirmed_dead_ in_Cyclone_Tracy",
+   "htmlFormattedUrl": "wiki.answers.com/.../How_many_people_were_officially_confirmed_dead_ in_Cyclone_Tracy",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "//rxf.answcdn.com/includes/images/icons/a-icon.png"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Answers.com",
+      "url": "Answers.com"
+     },
+     {
+      "title": "Wiki Answers",
+      "url": "Wiki Answers"
+     },
+     {
+      "title": "Categories",
+      "url": "Categories"
+     },
+     {
+      "title": "Science",
+      "url": "Science"
+     },
+     {
+      "title": "Earth Sciences",
+      "url": "Earth Sciences"
+     },
+     {
+      "title": "Natural Disasters",
+      "url": "Natural Disasters"
+     },
+     {
+      "title": "Hurricanes Typhoons and Cyclones",
+      "url": "Hurricanes Typhoons and Cyclones"
+     }
+    ],
+    "metatags": [
+     {
+      "abtest": "mode_id=-1",
+      "fb:app_id": "168416999909992",
+      "og:image": "//rxf.answcdn.com/includes/images/icons/a-icon.png",
+      "og:site_name": "Answers.com",
+      "og:title": "Answer to: How many people were officially confirmed dead in Cyclone Tracy?",
+      "og:description": "Officially, 71 people died in tropical cyclone Tracy, which struck Darwin, the capital city of Australia's Northern Territory, overnight on December.",
+      "og:type": "answers-com:answer",
+      "og:url": "http://wiki.answers.com/Q/How_many_people_were_officially_confirmed_dead_in_Cyclone_Tracy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list July 30, 2012 ??? Another earthquake in ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list July 30, 2012 ??? Another \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/07/29/major-earthquakes-list-july-30-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 31, 2012 ... 27/28 July earthquake was the worst since 1974...we all left the buildings. Today,   30 July - equally strong if not stronger quake again reported ...",
+   "htmlSnippet": "Jul 31, 2012 \u003cb\u003e...\u003c/b\u003e 27/28 July \u003cb\u003eearthquake\u003c/b\u003e was the worst since \u003cb\u003e1974\u003c/b\u003e...we all left the buildings. Today, \u003cbr\u003e  30 July - equally strong if not stronger \u003cb\u003equake\u003c/b\u003e again reported \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bQsDDMtssSUJ",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-july-30-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-july-30-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 24: Information from Answers.com",
+   "htmlTitle": "\u003cb\u003eDecember 24\u003c/b\u003e: Information from Answers.com",
+   "link": "http://www.answers.com/topic/december-24",
+   "displayLink": "www.answers.com",
+   "snippet": "December 24, 2011 ??? Saturday Events on December 24, 2011 Moon Phase:   New Moon ... Idol???), radio personality (???America's Top 40???), born Atlanta, GA, Dec   24, 1974. ... is dedicated for the second time after being destroyed by   earthquakes. .... 1947 ??? Kevin Sheedy, coach of Australian Football League club   Essendon FC ...",
+   "htmlSnippet": "December 24, 2011 ??? Saturday Events on December 24, 2011 Moon Phase: \u003cbr\u003e  New Moon \u003cb\u003e...\u003c/b\u003e Idol???), radio personality (???America&#39;s Top 40???), born Atlanta, GA, \u003cb\u003eDec\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e24, 1974\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e is dedicated for the second time after being destroyed by \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 1947 ??? Kevin Sheedy, coach of \u003cb\u003eAustralian\u003c/b\u003e Football League club \u003cbr\u003e  Essendon FC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-a3_jd4Vd-wJ",
+   "formattedUrl": "www.answers.com/topic/december-24",
+   "htmlFormattedUrl": "www.answers.com/topic/\u003cb\u003edecember\u003c/b\u003e-\u003cb\u003e24\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "//rxf.answcdn.com/includes/images/icons/a-icon.png"
+     }
+    ],
+    "metatags": [
+     {
+      "abtest": "mode_id=20000",
+      "dsid": "2874",
+      "deid": "358",
+      "osk": "dec24",
+      "topicid": "3547795",
+      "taxonomy": "other",
+      "taxonomy_site": "other",
+      "url": "tname=december-24",
+      "topicname": "December 24",
+      "topicuniquetitle": "december-24",
+      "msapplication-starturl": "http://www.answers.com",
+      "application-name": "Answers.com",
+      "fb:app_id": "168416999909992",
+      "og:image": "//rxf.answcdn.com/includes/images/icons/a-icon.png",
+      "og:site_name": "Answers.com",
+      "og:type": "website",
+      "og:title": "December 24",
+      "og:url": "http://www.answers.com/topic/december-24"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 24 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDecember 24\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/December_24",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "December 24 is the 358th day of the year (359th in leap years) in the Gregorian   ... is dedicated for the second time after being destroyed by earthquakes.",
+   "htmlSnippet": "\u003cb\u003eDecember 24\u003c/b\u003e is the 358th day of the year (359th in leap years) in the Gregorian \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e is dedicated for the second time after being destroyed by \u003cb\u003eearthquakes\u003c/b\u003e.",
+   "cacheId": "GlXwhx_if2wJ",
+   "formattedUrl": "en.wikipedia.org/wiki/December_24",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDecember\u003c/b\u003e_\u003cb\u003e24\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Occasional Paper No. 57",
+   "htmlTitle": "Occasional Paper No. 57",
+   "link": "http://artsandmuseums.nt.gov.au/__data/assets/pdf_file/0006/114945/occpaper57_ej18.pdf",
+   "displayLink": "artsandmuseums.nt.gov.au",
+   "snippet": "... on December 24 1974. In an earlier documentary on an unexpected   earthquake in Western Australia I'd recorded the characteristically observant   comments of ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e on \u003cb\u003eDecember 24 1974\u003c/b\u003e. In an earlier documentary on an unexpected \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in Western \u003cb\u003eAustralia\u003c/b\u003e I&#39;d recorded the characteristically observant \u003cbr\u003e  comments of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GYJnsKTRGBEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "artsandmuseums.nt.gov.au/__data/assets/pdf_file/.../occpaper57_ej18.pdf",
+   "htmlFormattedUrl": "artsandmuseums.nt.gov.au/__data/assets/pdf_file/.../occpaper57_ej18.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050302131115+09'30'",
+      "moddate": "D:20050302131115+09'30'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "sj6",
+      "creator": "PScript5.dll Version 5.2",
+      "title": "Microsoft Word - Bill Bunbury paper.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   .... 5.6, $4.1 million, Damage was caused in Moss Vale, Bowral and Robertson.   .... Simpson Desert, 21 December 1937, magnitude 6.0, in a remote location of ...",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 5.6, $4.1 million, Damage was caused in Moss Vale, Bowral and Robertson. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Simpson Desert, 21 \u003cb\u003eDecember\u003c/b\u003e 1937, magnitude 6.0, in a remote location of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volunteering: a visual history - IFRC",
+   "htmlTitle": "Volunteering: a visual history - IFRC",
+   "link": "http://www.ifrc.org/volunteering-gallery",
+   "displayLink": "www.ifrc.org",
+   "snippet": "Haiti earthquake 2010 Haitian Red Cross Volunteeer Jean Zacharie delivers first   aid to .... Australia Cyclone Tracy 1975 A Red Cross volunteer registers citizens ...   The storm hit on December 24, 1974, killing 71 and leaving 41,000 homeless.",
+   "htmlSnippet": "Haiti \u003cb\u003eearthquake\u003c/b\u003e 2010 Haitian Red Cross Volunteeer Jean Zacharie delivers first \u003cbr\u003e  aid to \u003cb\u003e....\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e Cyclone Tracy 1975 A Red Cross volunteer registers citizens \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The storm hit on \u003cb\u003eDecember 24, 1974\u003c/b\u003e, killing 71 and leaving 41,000 homeless.",
+   "cacheId": "6uvJUWQFzxEJ",
+   "formattedUrl": "www.ifrc.org/volunteering-gallery",
+   "htmlFormattedUrl": "www.ifrc.org/volunteering-gallery",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://w3.ifrc.org/Docs/pubs/volunteer/Find_the_volunteer_inside_%20you/images/medium/Scan09a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "250",
+      "height": "202",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqIOIOgcDO9TmCZXpoGeycylUnn-64GPiBYRhdR1CVdDGFcSGU_uShTnB3"
+     }
+    ],
+    "metatags": [
+     {
+      "site": "Public",
+      "rating": "General",
+      "creation_date": "2012-12-05 00:05:00Z",
+      "last-modified": "2012-12-05 00:11:39Z",
+      "revised": "2012-12-05 00:11:39Z",
+      "google-translate-customization": "b5beb9452cd21a08-8939e9936d6dac57-gfc8e430e9ec6738a-13"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... 8.2, Mw, USGS. 01906-11-19November 19, 1906, Off the coast of Western   Australia, Australia, 7.6, Mw ... see December 1911 Guerrero earthquake, 17.00,   ???100.50, 7.6, Mw, USGS .... see 1931 Fuyun earthquake, 46.8, 89.9, 10,000, 8.0,   Mw ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e 8.2, Mw, USGS. 01906-11-19November 19, 1906, Off the coast of Western \u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e...\u003c/b\u003e see \u003cb\u003eDecember\u003c/b\u003e 1911 Guerrero \u003cb\u003eearthquake\u003c/b\u003e, 17.00, \u003cbr\u003e  ???100.50, 7.6, Mw, USGS \u003cb\u003e....\u003c/b\u003e see 1931 Fuyun \u003cb\u003eearthquake\u003c/b\u003e, 46.8, 89.9, 10,000, 8.0, \u003cbr\u003e  Mw \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  }
+ ]
+}

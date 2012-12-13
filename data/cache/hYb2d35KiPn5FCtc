@@ -1,0 +1,283 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 26 1988 Africa Earthquake",
+    "totalResults": "94100",
+    "searchTerms": "Mar 26 1988 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 26 1988 Africa Earthquake",
+    "totalResults": "94100",
+    "searchTerms": "Mar 26 1988 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.21576,
+  "formattedSearchTime": "0.22",
+  "totalResults": "94100",
+  "formattedTotalResults": "94,100"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Earthquake Report, sign up for Facebook today. .... Earthquakes   to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4 people .....   Earthquakes to remember : Vanuatu - November 26 1999 - Magnitude : 7.5 - 5   people killed ... Earthquakes to remember : Quebec (Canada) - November 25   1988 ...",
+   "htmlSnippet": "To connect with \u003cb\u003eEarthquake\u003c/b\u003e Report, sign up for Facebook today. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e \u003cbr\u003e  to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 people \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e to remember : Vanuatu - November \u003cb\u003e26\u003c/b\u003e 1999 - Magnitude : 7.5 - 5 \u003cbr\u003e  people killed \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e to remember : Quebec (Canada) - November 25 \u003cbr\u003e  \u003cb\u003e1988\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900. Sorted by ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900. Sorted by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Wp53QF265fgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths_sort.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Popular Articles & Stories for March 26, 1988 - Los Angeles Times",
+   "htmlTitle": "Popular Articles &amp; Stories for \u003cb\u003eMarch 26, 1988\u003c/b\u003e - Los Angeles Times",
+   "link": "http://articles.latimes.com/1988/mar/26",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Mar 26, 1988 ... Popular articles, stories & photos for March 26, 1988 in the Los Angeles Times   news archives, including an extensive archive and timeline that ...",
+   "htmlSnippet": "Mar 26, 1988 \u003cb\u003e...\u003c/b\u003e Popular articles, stories &amp; photos for March \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e1988\u003c/b\u003e in the Los Angeles Times \u003cbr\u003e  news archives, including an extensive archive and timeline that \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rgYBVw7XsC4J",
+   "formattedUrl": "articles.latimes.com/1988/mar/26",
+   "htmlFormattedUrl": "articles.latimes.com/\u003cb\u003e1988\u003c/b\u003e/\u003cb\u003emar\u003c/b\u003e/\u003cb\u003e26\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "March 26 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "March \u003cb\u003e26\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/March_26",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "March 26 is the 85th day of the year (86th in leap years) in the Gregorian   calendar. There are 280 days ... 1812 ??? An earthquake destroys Caracas,   Venezuela. 1830 ??? The ... 1958 ??? The African Regroupment Party is launched at   a meeting in Paris. 1967 ??? Ten ... 1988); 1913 ??? Paul Erd??s, Hungarian   mathematician (d. 1996) ...",
+   "htmlSnippet": "March \u003cb\u003e26\u003c/b\u003e is the 85th day of the year (86th in leap years) in the Gregorian \u003cbr\u003e  calendar. There are 280 days \u003cb\u003e...\u003c/b\u003e 1812 ??? An \u003cb\u003eearthquake\u003c/b\u003e destroys Caracas, \u003cbr\u003e  Venezuela. 1830 ??? The \u003cb\u003e...\u003c/b\u003e 1958 ??? The \u003cb\u003eAfrican\u003c/b\u003e Regroupment Party is launched at \u003cbr\u003e  a meeting in Paris. 1967 ??? Ten \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1988\u003c/b\u003e); 1913 ??? Paul Erd??s, Hungarian \u003cbr\u003e  mathematician (d. 1996) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oL6DTlWSU5QJ",
+   "formattedUrl": "en.wikipedia.org/wiki/March_26",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eMar\u003c/b\u003ech_\u003cb\u003e26\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1",
+   "htmlTitle": "1",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA339756",
+   "displayLink": "www.dtic.mil",
+   "snippet": "Oct 20, 1997 ... C40. Seismograms of Libyan Earthquake - March 26, 1988 69. List of Tables. 1.   Magnitude ?? 5.0 Earthquakes of Northern Africa (1963-1988) 6 ...",
+   "htmlSnippet": "Oct 20, 1997 \u003cb\u003e...\u003c/b\u003e C40. Seismograms of Libyan \u003cb\u003eEarthquake\u003c/b\u003e - \u003cb\u003eMarch 26, 1988\u003c/b\u003e 69. List of Tables. 1. \u003cbr\u003e  Magnitude ?? 5.0 \u003cb\u003eEarthquakes\u003c/b\u003e of Northern \u003cb\u003eAfrica\u003c/b\u003e (1963-1988) 6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DwoP2gC9cXMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA339756",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA339756",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:191020912153955",
+      "title": "/tardir/mig/a339756.tiff",
+      "creator": "LuraDocument PDF Compressor Server 5.7.66.46 (original: tif_convert_2_ps())",
+      "producer": "Recoded by LuraDocument PDF v2.46",
+      "moddate": "D:20110819133021-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Earthquakes",
+   "htmlTitle": "Historical \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/index.php?option=com_content&view=article&id=1612:historical-earthquakes&catid=138:seismology-unit-activities&Itemid=615",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "The knowledge of early earthquakes in South Africa, as in other parts of the world  , is based on macroseismic ... Since 1988 several seismological stations have   been upgraded to digital stations. ... 26 Dec 1810 ? .... In Tulbagh/Ceres area 10   tremors were felt on 4 Mar 1970; at Ceres at 01:00 a readning of 4 Richter Scale.",
+   "htmlSnippet": "The knowledge of early \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAfrica\u003c/b\u003e, as in other parts of the world\u003cbr\u003e  , is based on macroseismic \u003cb\u003e...\u003c/b\u003e Since \u003cb\u003e1988\u003c/b\u003e several seismological stations have \u003cbr\u003e  been upgraded to digital stations. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e26\u003c/b\u003e Dec 1810 ? \u003cb\u003e....\u003c/b\u003e In Tulbagh/Ceres area 10 \u003cbr\u003e  tremors were felt on 4 \u003cb\u003eMar\u003c/b\u003e 1970; at Ceres at 01:00 a readning of 4 Richter Scale.",
+   "cacheId": "HzRAmQ_5o1MJ",
+   "formattedUrl": "www.geoscience.org.za/index.php?...earthquakes...",
+   "htmlFormattedUrl": "www.geoscience.org.za/index.php?...\u003cb\u003eearthquakes\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Historical Earthquakes",
+      "author": "Malcolm Simpson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.eoearth.org/article/Earthquake",
+   "displayLink": "www.eoearth.org",
+   "snippet": "Sep 18, 2012 ... An earthquake is a sudden vibration or trembling in the Earth. ... the December   26, 2004 Sumatra-Andaman Island earthquake reult in far greater distruction and   ..... Kazakhstan, Honduras, Japan, Malawi, Samoa, South Africa and Tonga, as   well as the U.S. territory of American Samoa. ... December 7, 1988 ...",
+   "htmlSnippet": "Sep 18, 2012 \u003cb\u003e...\u003c/b\u003e An \u003cb\u003eearthquake\u003c/b\u003e is a sudden vibration or trembling in the Earth. \u003cb\u003e...\u003c/b\u003e the December \u003cbr\u003e  \u003cb\u003e26\u003c/b\u003e, 2004 Sumatra-Andaman Island \u003cb\u003eearthquake\u003c/b\u003e reult in far greater distruction and \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Kazakhstan, Honduras, Japan, Malawi, Samoa, South \u003cb\u003eAfrica\u003c/b\u003e and Tonga, as \u003cbr\u003e  well as the U.S. territory of American Samoa. \u003cb\u003e...\u003c/b\u003e December 7, \u003cb\u003e1988\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6EW6L0xuCUMJ",
+   "formattedUrl": "www.eoearth.org/article/Earthquake",
+   "htmlFormattedUrl": "www.eoearth.org/article/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.eoearth.org/images/163668/500x0/scale/Earthquake.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "USGS"
+     }
+    ],
+    "person": [
+     {
+      "name": "Michael Pidwirny"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "296",
+      "height": "170",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRVj1MhkFXG056LCRiNsj017SBuq0sBJTJFANlEl3KADk13a3FgcbmejU8"
+     }
+    ],
+    "article": [
+     {
+      "name": "Earthquake",
+      "datepublished": "July 18, 2010, 2:05 pm",
+      "datemodified": "September 18, 2012, 5:06 pm",
+      "articlesection": "Hazards & Disasters",
+      "articlebody": "An earthquake is a sudden vibration or trembling in the Earth. More than 150,000 tremors strong enough to be felt by humans occur each year worldwide (see Chance of an Earthquake). Earthquake..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on March 26 - What happened on my birthday ...",
+   "htmlTitle": "What happened on March \u003cb\u003e26\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/mar26.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "March 26, 1812 \"In Venezuela an earthquake destroys the City of Caracas ...   March 26, 1889 \"South Africa all out 47, then follow-on all out 43 vs England\" ....   March 26, 1988 Number one hit on UK music charts - Aswad - Don't Turn Around ...",
+   "htmlSnippet": "March \u003cb\u003e26\u003c/b\u003e, 1812 &quot;In Venezuela an \u003cb\u003eearthquake\u003c/b\u003e destroys the City of Caracas \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  March \u003cb\u003e26\u003c/b\u003e, 1889 &quot;South \u003cb\u003eAfrica\u003c/b\u003e all out 47, then follow-on all out 43 vs England&quot; \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  March \u003cb\u003e26\u003c/b\u003e, \u003cb\u003e1988\u003c/b\u003e Number one hit on UK music charts - Aswad - Don&#39;t Turn Around \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SE2M2UtJTaQJ",
+   "formattedUrl": "www.datesinhistory.com/mar26.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003emar26\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kinematics of the East African Rift from GPS and Earthquake Slip ...",
+   "htmlTitle": "Kinematics of the East \u003cb\u003eAfrican\u003c/b\u003e Rift from GPS and \u003cb\u003eEarthquake\u003c/b\u003e Slip \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "displayLink": "web.ics.purdue.edu",
+   "snippet": "Although the East African rift system (EAR) is often cited as the archetype for ...   We show that the currently available GPS and earthquake slip vector data are .....   channel (Grimison & Chen 1988) and the NE-SW trending Mweru and ..... 26.   Figure 1: GPS sites used in this study. Black dots show seismicity (NEIC catalog).",
+   "htmlSnippet": "Although the East \u003cb\u003eAfrican\u003c/b\u003e rift system (EAR) is often cited as the archetype for \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  We show that the currently available GPS and \u003cb\u003eearthquake\u003c/b\u003e slip vector data are \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  channel (Grimison &amp; Chen \u003cb\u003e1988\u003c/b\u003e) and the NE-SW trending Mweru and \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e26\u003c/b\u003e. \u003cbr\u003e  Figure 1: GPS sites used in this study. Black dots show seismicity (NEIC catalog).",
+   "cacheId": "l9mnsFHY0nAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "htmlFormattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060606100131-04'00'",
+      "creator": "Word",
+      "moddate": "D:20060606100131-04'00'",
+      "producer": "Mac OS X 10.3.9 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Tsunamis",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Tsunamis",
+   "link": "http://na.unep.net/atlas/onePlanetManyPeople/images/chapters/Atlas_Chapter4_Screen.pdf",
+   "displayLink": "na.unep.net",
+   "snippet": "Northern Sumatra earthquake of December 26, 2004. ..... 9 Mar 2005 ...... What   makes drought in the Horn of Africa an issue of global interest is its .... 1988.   Piper Alpha, North Sea Oil rig. 167 deaths from explosion of offshore oil platform.   1989 ...",
+   "htmlSnippet": "Northern Sumatra \u003cb\u003eearthquake\u003c/b\u003e of December \u003cb\u003e26\u003c/b\u003e, 2004. \u003cb\u003e.....\u003c/b\u003e 9 \u003cb\u003eMar\u003c/b\u003e 2005 \u003cb\u003e......\u003c/b\u003e What \u003cbr\u003e  makes drought in the Horn of \u003cb\u003eAfrica\u003c/b\u003e an issue of global interest is its \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1988\u003c/b\u003e. \u003cbr\u003e  Piper Alpha, North Sea Oil rig. 167 deaths from explosion of offshore oil platform. \u003cbr\u003e  1989 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7kqCtp7ciUEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "na.unep.net/atlas/onePlanetManyPeople/images/.../Atlas_Chapter4_Screen.pdf",
+   "htmlFormattedUrl": "na.unep.net/atlas/onePlanetManyPeople/images/.../Atlas_Chapter4_Screen.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20051110115322-06'00'",
+      "creationdate": "D:20051108194159-06'00'",
+      "title": "untitled",
+      "producer": "Acrobat Distiller 6.0 for Macintosh"
+     }
+    ]
+   }
+  }
+ ]
+}

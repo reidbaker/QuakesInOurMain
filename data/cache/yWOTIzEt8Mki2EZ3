@@ -1,0 +1,314 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 27 1960 Asia Earthquake",
+    "totalResults": "522000",
+    "searchTerms": "Aug 27 1960 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 27 1960 Asia Earthquake",
+    "totalResults": "522000",
+    "searchTerms": "Aug 27 1960 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 1.36259,
+  "formattedSearchTime": "1.36",
+  "totalResults": "522000",
+  "formattedTotalResults": "522,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Moderate earthquake in Northern India (greater New Delhi area)",
+   "htmlTitle": "Moderate \u003cb\u003eearthquake\u003c/b\u003e in Northern India (greater New Delhi area)",
+   "link": "http://earthquake-report.com/2012/03/05/moderate-earthquake-in-northern-india-greater-new-delhi-area/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 7, 2012 ... The M6.0 Gurgaon earthquake on 27 August 1960 ... with emphasis to   earthquakes in European and Asian / Middle East sphere (4 and up) and ...",
+   "htmlSnippet": "Mar 7, 2012 \u003cb\u003e...\u003c/b\u003e The M6.0 Gurgaon \u003cb\u003eearthquake\u003c/b\u003e on \u003cb\u003e27 August 1960\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e with emphasis to \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "xEKsDs3qg-kJ",
+   "formattedUrl": "earthquake-report.com/.../moderate-earthquake-in-northern-india-greater- new-delhi-area/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../moderate-\u003cb\u003eearthquake\u003c/b\u003e-in-northern-india-greater- new-delhi-area/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/03/in-05032012-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "134",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAhwD4x4gK46qe7dy2_uoPwJYoldzyOi__ultsz01XYy9SbWNrzbTmTDU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - SAARC Disaster Management Centre",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - SAARC Disaster Management Centre",
+   "link": "http://saarc-sdmc.nic.in/pdf/publications/sdr/chapter-9.pdf",
+   "displayLink": "saarc-sdmc.nic.in",
+   "snippet": "On a continental scale, the seismicity of central and eastern Asia is the result of   ..... 10 October 1956, the M6.0 Gurgaon earthquake on 27 August 1960 and the ...",
+   "htmlSnippet": "On a continental scale, the seismicity of central and eastern \u003cb\u003eAsia\u003c/b\u003e is the result of \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e 10 October 1956, the M6.0 Gurgaon \u003cb\u003eearthquake\u003c/b\u003e on \u003cb\u003e27 August 1960\u003c/b\u003e and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EV8VJBxcTs0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "saarc-sdmc.nic.in/pdf/publications/sdr/chapter-9.pdf",
+   "htmlFormattedUrl": "saarc-sdmc.nic.in/pdf/publications/sdr/chapter-9.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081218160011+05'30'",
+      "moddate": "D:20081218160039+05'30'",
+      "producer": "Acrobat Distiller 3.0 for Windows"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... Movie about Asian tsunami shuns 'disaster' label .... After the quake struck off the   west coast of Haida Gwaii on Oct. 27 at ... 45 miles east of the region hit by the   August earthquake. ... When the Chilean earthquake occurred in 1960,   seismographs recorded seismic waves that traveled all around the Earth.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e Movie about \u003cb\u003eAsian\u003c/b\u003e tsunami shuns &#39;disaster&#39; label \u003cb\u003e....\u003c/b\u003e After the \u003cb\u003equake\u003c/b\u003e struck off the \u003cbr\u003e  west coast of Haida Gwaii on Oct. \u003cb\u003e27\u003c/b\u003e at \u003cb\u003e...\u003c/b\u003e 45 miles east of the region hit by the \u003cbr\u003e  \u003cb\u003eAugust earthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e When the Chilean \u003cb\u003eearthquake\u003c/b\u003e occurred in \u003cb\u003e1960\u003c/b\u003e, \u003cbr\u003e  seismographs recorded seismic waves that traveled all around the Earth.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "site-specific microzonation study in delhi metropolitan ... - C-MMACS",
+   "htmlTitle": "site-specific microzonation study in delhi metropolitan \u003cb\u003e...\u003c/b\u003e - C-MMACS",
+   "link": "http://www.cmmacs.ernet.in/cmmacs/Publications/resch_rep/rrcm0203r.pdf",
+   "displayLink": "www.cmmacs.ernet.in",
+   "snippet": "Abstract. Delhi ??? the capital of India lies on a severe earthquake hazard threats   not only from the local ... section, while the source of the August 27, 1960 (M=6.0)   earthquake is adopted for ..... earthquakes and contemporary tectonics of Asia.",
+   "htmlSnippet": "Abstract. Delhi ??? the capital of India lies on a severe \u003cb\u003eearthquake\u003c/b\u003e hazard threats \u003cbr\u003e  not only from the local \u003cb\u003e...\u003c/b\u003e section, while the source of the \u003cb\u003eAugust 27, 1960\u003c/b\u003e (M=6.0) \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e is adopted for \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e and contemporary tectonics of \u003cb\u003eAsia\u003c/b\u003e.",
+   "cacheId": "E5n_Itr5M4wJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.cmmacs.ernet.in/cmmacs/Publications/resch_rep/rrcm0203r.pdf",
+   "htmlFormattedUrl": "www.cmmacs.ernet.in/cmmacs/Publications/resch_rep/rrcm0203r.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "RRCM0203 - Microsoft Word",
+      "creationdate": "D:20030616134411",
+      "title": "RRCM0203",
+      "author": "suchanda",
+      "producer": "Acrobat PDFWriter 4.05 for Windows NT",
+      "moddate": "D:20030618141722-07'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake near Lorca and Murcia, Spain",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e near Lorca and Murcia, Spain",
+   "link": "http://earthquake-report.com/2011/05/13/moderate-earthquake-near-lorca-and-murcia-spain/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 1, 2011 ... UPDATE 08:15 UTC : Many homes in Lorca were built in the 1960s before laws   existed to construct earthquake resistant buildings. UPDATE ...",
+   "htmlSnippet": "Jul 1, 2011 \u003cb\u003e...\u003c/b\u003e UPDATE 08:15 UTC : Many homes in Lorca were built in the \u003cb\u003e1960s\u003c/b\u003e before laws \u003cbr\u003e  existed to construct \u003cb\u003eearthquake\u003c/b\u003e resistant buildings. UPDATE \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nbeVsqBqJ6sJ",
+   "formattedUrl": "earthquake-report.com/.../moderate-earthquake-near-lorca-and-murcia-spain/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../moderate-\u003cb\u003eearthquake\u003c/b\u003e-near-lorca-and-murcia-spain/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/lorca-filipe.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "325",
+      "height": "155",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8k-AXdy9qHTay7tKzeg-VxsyT1vK3tb7uplg8hl3tLALBIWNtLZpVRMDN"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Fatman",
+      "nickname": "Fatman"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Tracy",
+      "nickname": "Tracy"
+     },
+     {
+      "fn": "Fatman",
+      "nickname": "Fatman"
+     },
+     {
+      "fn": "Eveline Sullivan"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Amanda Akrigg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Site-specific Microzonation Study in Delhi ... - SpringerLink",
+   "htmlTitle": "Site-specific Microzonation Study in Delhi \u003cb\u003e...\u003c/b\u003e - SpringerLink",
+   "link": "http://www.springerlink.com/index/wy0u03dawchchpd1.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "Abstract ??? Delhi ??? the capital of India lies on a severe earthquake hazard threat   not only from ... sources of July 15, 1720 (MMI = IX, M = 7.4) and August 27, 1960   (M = 6.0) have been used in ..... Contemporary Tectonics of Asia, Earth Planet.",
+   "htmlSnippet": "Abstract ??? Delhi ??? the capital of India lies on a severe \u003cb\u003eearthquake\u003c/b\u003e hazard threat \u003cbr\u003e  not only from \u003cb\u003e...\u003c/b\u003e sources of July 15, 1720 (MMI = IX, M = 7.4) and \u003cb\u003eAugust 27, 1960\u003c/b\u003e \u003cbr\u003e  (M = 6.0) have been used in \u003cb\u003e.....\u003c/b\u003e Contemporary Tectonics of \u003cb\u003eAsia\u003c/b\u003e, Earth Planet.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/wy0u03dawchchpd1.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/wy0u03dawchchpd1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040320200849+05'30'",
+      "moddate": "D:20040323142958+01'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "creator": "3B2 Total Publishing System 8.05a/W"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The impact of cultural and religious influences during natural ...",
+   "htmlTitle": "The impact of cultural and religious influences during natural \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/09/27/the-impact-of-cultural-and-religious-influences-during-natural-disasters-references/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: September 27, 2012 at 1:26 pm by By Armand Vervaeck ... climatic   and seismic construction of God in the Philippines, Journal of South East Asian   Studies 35 (1), p. .... Horton R (1960) ??? A definition of religion and its uses, The   Journal of the Royal ... Thesis for Master of Arts at University of Hawaii, August   1969 ...",
+   "htmlSnippet": "Last update: September \u003cb\u003e27\u003c/b\u003e, 2012 at 1:26 pm by By Armand Vervaeck \u003cb\u003e...\u003c/b\u003e climatic \u003cbr\u003e  and seismic construction of God in the Philippines, Journal of South East \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  Studies 35 (1), p. \u003cb\u003e....\u003c/b\u003e Horton R (\u003cb\u003e1960\u003c/b\u003e) ??? A definition of religion and its uses, The \u003cbr\u003e  Journal of the Royal \u003cb\u003e...\u003c/b\u003e Thesis for Master of Arts at University of Hawaii, \u003cb\u003eAugust\u003c/b\u003e \u003cbr\u003e  1969 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MGiw9Nw5nxwJ",
+   "formattedUrl": "earthquake-report.com/.../27/the-impact-of-cultural-and-religious-influences- during-natural-disasters-references/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e27\u003c/b\u003e/the-impact-of-cultural-and-religious-influences- during-natural-disasters-references/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Strongest earthquake in 40 years hits Southeast Asia - Wikinews ...",
+   "htmlTitle": "Strongest \u003cb\u003eearthquake\u003c/b\u003e in 40 years hits Southeast \u003cb\u003eAsia\u003c/b\u003e - Wikinews \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/N:Strong_earthquake_in_South_East_Asia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "(Redirected from Strong earthquake in South East Asia) .... The largest recorded   earthquake was the Great Chilean Earthquake of 1960, ... Aftershocks off the   Nicobar Islands were also reported, including ones of magnitude 7.3 [26], and 6.5   [27]. .... Turkey: Hit in August and November 1999 by a series of earthquakes that ...",
+   "htmlSnippet": "(Redirected from Strong \u003cb\u003eearthquake\u003c/b\u003e in South East \u003cb\u003eAsia\u003c/b\u003e) \u003cb\u003e....\u003c/b\u003e The largest recorded \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e was the Great Chilean \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003e1960\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e Aftershocks off the \u003cbr\u003e  Nicobar Islands were also reported, including ones of magnitude 7.3 [26], and 6.5 \u003cbr\u003e  [\u003cb\u003e27\u003c/b\u003e]. \u003cb\u003e....\u003c/b\u003e Turkey: Hit in \u003cb\u003eAugust\u003c/b\u003e and November 1999 by a series of \u003cb\u003eearthquakes\u003c/b\u003e that \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0e-Y0euDd3UJ",
+   "formattedUrl": "en.wikipedia.org/wiki/N:Strong_earthquake_in_South_East_Asia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/N:Strong_\u003cb\u003eearthquake\u003c/b\u003e_in_South_East_\u003cb\u003eAsia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chennai_damage_6.jpg/250px-Chennai_damage_6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "259",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfljY-SAMLZPMzfeturk5gNYNVHItQNWY8uuynuFplmPeXItwCWRDyObA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "California earthquake swarm unlikely to trigger massive temblor ...",
+   "htmlTitle": "California \u003cb\u003eearthquake\u003c/b\u003e swarm unlikely to trigger massive temblor \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://latimesblogs.latimes.com/lanow/2012/08/why-the-earthquake-swarm-in-california-happened.html",
+   "displayLink": "latimesblogs.latimes.com",
+   "snippet": "August 27, 2012 | 4:32 pm. increase text size decrease text size. What was the   cause of hundreds of earthquakes in southeastern California over the weekend?",
+   "htmlSnippet": "\u003cb\u003eAugust 27\u003c/b\u003e, 2012 | 4:32 pm. increase text size decrease text size. What was the \u003cbr\u003e  cause of hundreds of \u003cb\u003eearthquakes\u003c/b\u003e in southeastern California over the weekend?",
+   "cacheId": "bGGSftmNFoIJ",
+   "formattedUrl": "latimesblogs.latimes.com/.../why-the-earthquake-swarm-in-california- happened.html",
+   "htmlFormattedUrl": "latimesblogs.latimes.com/.../why-the-\u003cb\u003eearthquake\u003c/b\u003e-swarm-in-california- happened.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://latimesblogs.latimes.com/fb.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "y_key": "db08ee6e14fd534c",
+      "msvalidate.01": "AAC9C18F70AC386BC4DCF4DDF9BF1786",
+      "og:image": "http://latimesblogs.latimes.com/fb.jpg",
+      "fb:admins": "100000786395051",
+      "fb:app_id": "198998776808357",
+      "title": "California earthquake swarm unlikely to trigger massive temblor",
+      "author": "Rong-Gong Lin II",
+      "og:type": "article",
+      "og:title": "California earthquake swarm unlikely to trigger massive temblor",
+      "og:url": "http://latimesblogs.latimes.com/lanow/2012/08/why-the-earthquake-swarm-in-california-happened.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? Asia Minor ??? Atlantic ... M   6.8 Fatalities 2,266; 2003 05 27 - Northern Algeria - M 5.8 Fatalities 9 ... Chile - M   8.2 Fatalities 25; 1960 05 21 - Arauco Peninsula, Chile - M 7.9 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? \u003cb\u003eAsia\u003c/b\u003e Minor ??? Atlantic \u003cb\u003e...\u003c/b\u003e M \u003cbr\u003e  6.8 Fatalities 2,266; 2003 05 \u003cb\u003e27\u003c/b\u003e - Northern Algeria - M 5.8 Fatalities 9 \u003cb\u003e...\u003c/b\u003e Chile - M \u003cbr\u003e  8.2 Fatalities 25; \u003cb\u003e1960\u003c/b\u003e 05 21 - Arauco Peninsula, Chile - M 7.9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  }
+ ]
+}

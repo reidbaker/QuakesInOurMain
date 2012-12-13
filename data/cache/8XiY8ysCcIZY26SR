@@ -1,0 +1,365 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 7 1992 Asia Earthquake",
+    "totalResults": "176000",
+    "searchTerms": "Mar 7 1992 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 7 1992 Asia Earthquake",
+    "totalResults": "176000",
+    "searchTerms": "Mar 7 1992 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.519801,
+  "formattedSearchTime": "0.52",
+  "totalResults": "176000",
+  "formattedTotalResults": "176,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news - Earthquake Report",
+   "htmlTitle": "Worldwide VOLCANO news - \u003cb\u003eEarthquake\u003c/b\u003e Report",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... A single M2.7 earthquake struck beneath the Mallard Lake (northeast) resurgent   dome at Yellowstone Caldera (WY, USA). Another episode of ...",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e A single M2.\u003cb\u003e7 earthquake\u003c/b\u003e struck beneath the Mallard Lake (northeast) resurgent \u003cbr\u003e  dome at Yellowstone Caldera (WY, USA). Another episode of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "921 earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "921 \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/921_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the September 21, 2009 earthquake in Bhutan, see 2009 Bhutan earthquake.   ... Near Dongshih, near the northern end of the fault, a 7 m (23 ft) high waterfall   was ... With Taiwan struggling to recover from the after-effects of the 1997 Asian   ..... (6.8, Mar 29); Tehuac??n (7.0, Jun 15); ??zmit (7.6, Aug 17); Athens (6.0, Sep 7) ...",
+   "htmlSnippet": "For the September 21, 2009 \u003cb\u003eearthquake\u003c/b\u003e in Bhutan, see 2009 Bhutan \u003cb\u003eearthquake\u003c/b\u003e. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Near Dongshih, near the northern end of the fault, a \u003cb\u003e7\u003c/b\u003e m (23 ft) high waterfall \u003cbr\u003e  was \u003cb\u003e...\u003c/b\u003e With Taiwan struggling to recover from the after-effects of the 1997 \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e (6.8, \u003cb\u003eMar\u003c/b\u003e 29); Tehuac??n (7.0, Jun 15); ??zmit (7.6, Aug 17); Athens (6.0, Sep \u003cb\u003e7\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "k_2mwXUgXcsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/921_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/921_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Earthquake-_road_crack.jpg/240px-Earthquake-_road_crack.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "258",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZgci-Bz6y7xl-_MAoTA6tJfdoimCl7iBRPDl-Glmi97Qcp7y6HvoHfAs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Latest Earthquakes - Earthquake Hazards Program - USGS",
+   "htmlTitle": "Latest \u003cb\u003eEarthquakes\u003c/b\u003e - \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program - USGS",
+   "link": "http://earthquake.usgs.gov/earthquakes/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 28, 2012 ... Get real-time earthquake notifications sent to you using a number of popular ...   December 12, 1992. M 7.8 ... Earthquake ???Top 10??? Lists & Maps ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of popular \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  December 12, \u003cb\u003e1992\u003c/b\u003e. M 7.8 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e ???Top 10??? Lists \u003cb\u003e&amp;\u003c/b\u003e Maps \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B66hI8WgyEYJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Quake Alters Earth's Balance and Widens Japan - NYTimes.com",
+   "htmlTitle": "\u003cb\u003eQuake\u003c/b\u003e Alters Earth&#39;s Balance and Widens Japan - NYTimes.com",
+   "link": "http://www.nytimes.com/2011/03/14/world/asia/14seismic.html",
+   "displayLink": "www.nytimes.com",
+   "snippet": "Mar 13, 2011 ... Quake Moves Japan Closer to U.S. and Alters Earth's Spin ... That part of Asia, to   the surprise of many who look at the geological map, sits ... and a magnitude-7.3   earthquake in Landers, Calif., in 1992 also caught earthquake experts by   surprise. ... Get 50% Off The New York Times & Free All Digital Access.",
+   "htmlSnippet": "Mar 13, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eQuake\u003c/b\u003e Moves Japan Closer to U.S. and Alters Earth&#39;s Spin \u003cb\u003e...\u003c/b\u003e That part of \u003cb\u003eAsia\u003c/b\u003e, to \u003cbr\u003e  the surprise of many who look at the geological map, sits \u003cb\u003e...\u003c/b\u003e and a magnitude-7.3 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in Landers, Calif., in \u003cb\u003e1992\u003c/b\u003e also caught \u003cb\u003eearthquake\u003c/b\u003e experts by \u003cbr\u003e  surprise. \u003cb\u003e...\u003c/b\u003e Get 50% Off The New York Times \u003cb\u003e&amp;\u003c/b\u003e Free All Digital Access.",
+   "formattedUrl": "www.nytimes.com/2011/03/14/world/asia/14seismic.html",
+   "htmlFormattedUrl": "www.nytimes.com/2011/03/14/world/\u003cb\u003easia\u003c/b\u003e/14seismic.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/common/icons/t_wb_75.gif"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Kenneth Chang",
+      "ptime": "20110314000000",
+      "utime": "20111127170843"
+     },
+     {
+      "displaydate": "March 13, 2011",
+      "hdl": "Quake Alters Earth???s Balance and Widens Japan",
+      "hdl_p": "Quake Moves Japan Closer to U.S. and Alters Earth???s Spin",
+      "byl": "By KENNETH CHANG",
+      "lp": "The unbuckling of two tectonic plates shifted Japan???s coastline by up to 13 feet, and a 250-mile-long section dropped in altitude by about two feet.",
+      "cre": "The New York Times",
+      "edt": "NewYork",
+      "pdate": "20110313",
+      "des": "Earth",
+      "geo": "Japan",
+      "dat": "March 13, 2011",
+      "tom": "News",
+      "dsk": "World / Asia Pacific",
+      "articleid": "1248069674688",
+      "article_template_version": "700",
+      "hdr_img": "/images/article/header/sect_world.gif",
+      "sectionfront_jsonp": "http://json8.nytimes.com/pages/world/asia/index.jsonp",
+      "cg": "world",
+      "scg": "asia",
+      "pt": "Article",
+      "pst": "News",
+      "msapplication-starturl": "http://www.nytimes.com/",
+      "og:url": "http://www.nytimes.com/2011/03/14/world/asia/14seismic.html",
+      "og:type": "article",
+      "og:title": "Quake Alters Earth???s Balance and Widens Japan",
+      "og:image": "http://graphics8.nytimes.com/images/common/icons/t_wb_75.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Road to Recovery",
+   "htmlTitle": "Road to Recovery",
+   "link": "http://www.kantei.go.jp/foreign/policy/documents/2012/__icsFiles/afieldfile/2012/03/07/road_to_recovery.pdf",
+   "displayLink": "www.kantei.go.jp",
+   "snippet": "Estimated Economic Damage of the Great East Japan Earthquake ?????????10. ???   Current ... Magnitude : 9.0 (Mar. 11th 2011) ... Pref. approx. 7:30am. ??? After   establishing their base, they commenced rescue ...... research bases and Asian   headquarters ..... 1,992. (27%). 1985. 5,840. 818. (14%). 1,285. (22%). 1,577. (27  %). 1,034 ...",
+   "htmlSnippet": "Estimated Economic Damage of the Great East Japan \u003cb\u003eEarthquake\u003c/b\u003e ?????????10. ??? \u003cbr\u003e  Current \u003cb\u003e...\u003c/b\u003e Magnitude : 9.0 (\u003cb\u003eMar\u003c/b\u003e. 11th 2011) \u003cb\u003e...\u003c/b\u003e Pref. approx. \u003cb\u003e7\u003c/b\u003e:30am. ??? After \u003cbr\u003e  establishing their base, they commenced rescue \u003cb\u003e......\u003c/b\u003e research bases and \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  headquarters \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1,992\u003c/b\u003e. (27%). 1985. 5,840. 818. (14%). 1,285. (22%). 1,577. (27\u003cbr\u003e  %). 1,034 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iUJfiX2hY0YJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.kantei.go.jp/foreign/policy/documents/.../road_to_recovery.pdf",
+   "htmlFormattedUrl": "www.kantei.go.jp/foreign/policy/documents/.../road_to_recovery.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "CS863417",
+      "creationdate": "D:20120307094156+09'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20120307094156+09'00'",
+      "producer": "Acrobat Distiller 9.5.0 (Windows)",
+      "title": "Microsoft PowerPoint - 120301???set???RoadtoRecovery.pptx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ferndale, California - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Ferndale, California - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Ferndale,_California",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "3 Geography; 4 Climate; 5 Earthquakes; 6 Demographics ..... Month, Jan, Feb,   Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec, Year .... American, 20 (1.5%)   Asian, 2 (0.1%) Pacific Islander, 17 (1.2%) from other races, and 28 (2.0%) from   two or more races. ..... Cape Mendocino, California Earthquakes, April 25 & 26,   1992.",
+   "htmlSnippet": "3 Geography; 4 Climate; 5 \u003cb\u003eEarthquakes\u003c/b\u003e; 6 Demographics \u003cb\u003e.....\u003c/b\u003e Month, Jan, Feb, \u003cbr\u003e  \u003cb\u003eMar\u003c/b\u003e, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec, Year \u003cb\u003e....\u003c/b\u003e American, 20 (1.5%) \u003cbr\u003e  \u003cb\u003eAsian\u003c/b\u003e, 2 (0.1%) Pacific Islander, 17 (1.2%) from other races, and 28 (2.0%) from \u003cbr\u003e  two or more races. \u003cb\u003e.....\u003c/b\u003e Cape Mendocino, California \u003cb\u003eEarthquakes\u003c/b\u003e, April 25 \u003cb\u003e&amp;\u003c/b\u003e 26, \u003cbr\u003e  \u003cb\u003e1992\u003c/b\u003e.",
+   "cacheId": "Ap_pyhySxfgJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Ferndale,_California",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Ferndale,_California",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ferndale.jpg/250px-Ferndale.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9RqfCeOL68xYxWAFZvGMUAEKtOUrpgRNoXSEbYpkE1owqfuuHX8gyLKXO"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "City of Ferndale",
+      "url": "ci.ferndale.ca.us",
+      "url_text": "ci.ferndale.ca.us",
+      "category": "City"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline Turkey 1961-2012",
+   "htmlTitle": "Timeline Turkey 1961-2012",
+   "link": "http://timelines.ws/countries/TURKEY_B.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1966 Aug 19, An earthquake struck Varko, Turkey, and some 2,400 were killed.   ..... 1992 Mar 7, An Israeli security chief was killed in a car bomb attack in .... The   remains show many similarities to Sivapithecus from South Asia, and have ...",
+   "htmlSnippet": "1966 Aug 19, An \u003cb\u003eearthquake\u003c/b\u003e struck Varko, Turkey, and some 2,400 were killed. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1992 Mar 7\u003c/b\u003e, An Israeli security chief was killed in a car bomb attack in \u003cb\u003e....\u003c/b\u003e The \u003cbr\u003e  remains show many similarities to Sivapithecus from South \u003cb\u003eAsia\u003c/b\u003e, and have \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XKBBl1U9RLsJ",
+   "formattedUrl": "timelines.ws/countries/TURKEY_B.HTML",
+   "htmlFormattedUrl": "timelines.ws/countries/TURKEY_B.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algis Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Could recent earthquakes be linked to melting glaciers? ??? Ask an ...",
+   "htmlTitle": "Could recent \u003cb\u003eearthquakes\u003c/b\u003e be linked to melting glaciers? ??? Ask an \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.abc.net.au/science/articles/2011/03/17/3165155.htm",
+   "displayLink": "www.abc.net.au",
+   "snippet": "Mar 17, 2011 ... What causes the ground to liquefy after an earthquake?, Science Online, ...   generating a tsunami that killed hundreds of thousands across Asia. .... 18 Mar   2011 7:36:03am ... Concept (US Journal of Soil & Water Cons'n,1992); ...",
+   "htmlSnippet": "Mar 17, 2011 \u003cb\u003e...\u003c/b\u003e What causes the ground to liquefy after an \u003cb\u003eearthquake\u003c/b\u003e?, Science Online, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  generating a tsunami that killed hundreds of thousands across \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 18 \u003cb\u003eMar\u003c/b\u003e \u003cbr\u003e  2011 \u003cb\u003e7\u003c/b\u003e:36:03am \u003cb\u003e...\u003c/b\u003e Concept (US Journal of Soil \u003cb\u003e&amp;\u003c/b\u003e Water Cons&#39;n,\u003cb\u003e1992\u003c/b\u003e); \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rqKt-aOuvCIJ",
+   "formattedUrl": "www.abc.net.au/science/articles/2011/03/17/3165155.htm",
+   "htmlFormattedUrl": "www.abc.net.au/science/articles/2011/03/17/3165155.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.abc.net.au/reslib/201103/r734995_5960847.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "212",
+      "height": "238",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUz9PpzaTDj9GEyXngMmTSMsasiBvStzXgjjdESSIc8NbacoY_tl83FGdP"
+     }
+    ],
+    "article": [
+     {
+      "name": "Could recent earthquakes be linked to melting glaciers?",
+      "description": "(none)"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Could recent earthquakes be linked to melting glaciers?",
+      "dc.description": "\u003cblockquote\u003eFollowing a trip to New Zealand I was amazed to see how much the glaciers had diminished since my last visit in 1964",
+      "dc.creator.corporatename": "Australian Broadcasting Corporation",
+      "dc.date": "2011-03-17T10:59:00+11:00",
+      "dc.format": "text/html",
+      "dc.identifier": "http://abc.net.au/science/articles/2011/03/17/3165155.htm",
+      "dc.language": "en-AU",
+      "dc.publisher.corporatename": "Australian Broadcasting Corporation",
+      "dc.rights": "http://www.abc.net.au/common/copyrigh.htm",
+      "dc.rightsholder": "ABC",
+      "dc.subject": "Disasters and Accidents;Disasters and Accidents:Earthquake;Environment:Climate Change;Science and Technology:Earth Sciences;Science and Technology:Geology",
+      "dc.type": "item",
+      "dcterms.issued": "2011-03-17T10:59:00+11:00",
+      "dcterms.modified": "2011-03-17T13:24:00+11:00",
+      "abc.structuralgenre": "article",
+      "abc.site": "science",
+      "abc.tags": "disasters-and-accidents;earthquake;climate-change;earth-sciences;geology",
+      "wt.cg_n": "expert",
+      "wt.cg_s": "Site_askanexpert;Topic_latest"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Famous earthquakes damages info: date ?? location ?? deaths ?? mag.",
+   "htmlTitle": "Famous \u003cb\u003eearthquakes\u003c/b\u003e damages info: date ?? location ?? deaths ?? mag.",
+   "link": "http://www.astrologyweekly.com/data-archive/famous-earthquakes-damages-info.php",
+   "displayLink": "www.astrologyweekly.com",
+   "snippet": "Famous earthquakes damages info: date ?? location ?? deaths ?? mag. ... 1268, Cilicia  , Asia Minor, 60 000, n/a. 1290 .... 1992, Mar 13 & 15, E Turkey, 4 000, 6.2/6.0 ...",
+   "htmlSnippet": "Famous \u003cb\u003eearthquakes\u003c/b\u003e damages info: date ?? location ?? deaths ?? mag. \u003cb\u003e...\u003c/b\u003e 1268, Cilicia\u003cbr\u003e  , \u003cb\u003eAsia\u003c/b\u003e Minor, 60 000, n/a. 1290 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1992\u003c/b\u003e, \u003cb\u003eMar\u003c/b\u003e 13 \u003cb\u003e&amp;\u003c/b\u003e 15, E Turkey, 4 000, 6.2/6.0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1IKEu6Nst8MJ",
+   "formattedUrl": "www.astrologyweekly.com/.../famous-earthquakes-damages-info.php",
+   "htmlFormattedUrl": "www.astrologyweekly.com/.../famous-\u003cb\u003eearthquakes\u003c/b\u003e-damages-info.php"
+  }
+ ]
+}

@@ -1,0 +1,311 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 18 1929 Asia Earthquake",
+    "totalResults": "73600",
+    "searchTerms": "Nov 18 1929 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 18 1929 Asia Earthquake",
+    "totalResults": "73600",
+    "searchTerms": "Nov 18 1929 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.27974,
+  "formattedSearchTime": "0.28",
+  "totalResults": "73600",
+  "formattedTotalResults": "73,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... Movie about Asian tsunami shuns 'disaster' label ... Canada (New Foundland),   1929 - Magnitude : 7.2 ??? 27 people killed .... The epicenter of the November 12,   1999 earthquake was at 40.8 N , 31.6 E (Strasburg ... Several segments of   surface faulting were seen in a zone about 18 km (11 mi) long from ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e Movie about \u003cb\u003eAsian\u003c/b\u003e tsunami shuns &#39;disaster&#39; label \u003cb\u003e...\u003c/b\u003e Canada (New Foundland), \u003cbr\u003e  \u003cb\u003e1929\u003c/b\u003e - Magnitude : 7.2 ??? 27 people killed \u003cb\u003e....\u003c/b\u003e The epicenter of the \u003cb\u003eNovember\u003c/b\u003e 12, \u003cbr\u003e  1999 \u003cb\u003eearthquake\u003c/b\u003e was at 40.8 N , 31.6 E (Strasburg \u003cb\u003e...\u003c/b\u003e Several segments of \u003cbr\u003e  surface faulting were seen in a zone about \u003cb\u003e18\u003c/b\u003e km (11 mi) long from \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CBC News Indepth: Asia Earthquake",
+   "htmlTitle": "CBC News Indepth: \u003cb\u003eAsia Earthquake\u003c/b\u003e",
+   "link": "http://www.cbc.ca/news/background/asia_earthquake/nfld.html",
+   "displayLink": "www.cbc.ca",
+   "snippet": "Dec 31, 2004 ... Asia Earthquake tsunami. ... 18, 1929, long before the Dominion of   Newfoundland joined ... An earthquake rumbled in the Grand Banks.",
+   "htmlSnippet": "Dec 31, 2004 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAsia Earthquake\u003c/b\u003e tsunami. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e18\u003c/b\u003e, \u003cb\u003e1929\u003c/b\u003e, long before the Dominion of \u003cbr\u003e  Newfoundland joined \u003cb\u003e...\u003c/b\u003e An \u003cb\u003eearthquake\u003c/b\u003e rumbled in the Grand Banks.",
+   "cacheId": "P6GMt-0NeLoJ",
+   "formattedUrl": "www.cbc.ca/news/background/asia_earthquake/nfld.html",
+   "htmlFormattedUrl": "www.cbc.ca/news/background/\u003cb\u003easia\u003c/b\u003e_\u003cb\u003eearthquake\u003c/b\u003e/nfld.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cbc.ca/news/background/asia_earthquake/gfx_nfld/titlephoto_nfld.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "281",
+      "height": "179",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3FRqQm1gHVqzERYkjPKG1jLIUz886FhidiSEJk4BjJVDBgJmetZzu7bk"
+     }
+    ],
+    "metatags": [
+     {
+      "created_date": "2004-12-29",
+      "target": "Asia Earthquake tsunami"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Submarine earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Submarine \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Submarine_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A submarine, undersea, or underwater earthquake is an earthquake that occurs   ... common in Asia, where many submarine links cross submarine earthquake   zones ... November 18, 1929, 1929 Grand Banks earthquake, The epicenter is at ...",
+   "htmlSnippet": "A submarine, undersea, or underwater \u003cb\u003eearthquake\u003c/b\u003e is an \u003cb\u003eearthquake\u003c/b\u003e that occurs \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e common in \u003cb\u003eAsia\u003c/b\u003e, where many submarine links cross submarine \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  zones \u003cb\u003e...\u003c/b\u003e \u003cb\u003eNovember 18, 1929\u003c/b\u003e, 1929 Grand Banks \u003cb\u003eearthquake\u003c/b\u003e, The epicenter is at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qGtwMqtTHgMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Submarine_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Submarine_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003eSubmarine earthquake\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "A submarine, undersea, or underwater earthquake is an earthquake that occurs underwater at the seabed bottom of a body of water, especially an ocean. They are the leading cause of tsunami s. The magnitude can be measured scientifically by the use of either the Richter scale or the Mercalli scale Understanding plate tectonics helps to explain the cause of submarine earthquakes. The Earth's surface or lithosphere comprises tectonic plates which average approximately 50 miles in thickness,...",
+      "Output::gray1b": "- ???????????? (??????)",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Submarine_earthquake",
+      "Output::link2": "???????????? (??????)",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/9960b7a3115368d2.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake swarm is hitting the Czech Republic / Germany border ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e swarm is hitting the Czech Republic / Germany border \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/08/26/earthquake-swarm-is-hitting-the-cheb-vogtland-area-on-the-chech-germany-border/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Sep 4, 2011 ... Earthquake overview : The Germany Czech border area has been hit by an ...   They have had large swarms in 1901, 1903, 1908, 1929, 1936, 1962 ... 2011-08-  26 13:18:36 M 2.4 Depth 5 km .... to earthquakes in European and Asian / Middle   East sphere (4 and up) and a lot of the rest of the world (5 and up).",
+   "htmlSnippet": "Sep 4, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : The Germany Czech border area has been hit by an \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  They have had large swarms in 1901, 1903, 1908, \u003cb\u003e1929\u003c/b\u003e, 1936, 1962 \u003cb\u003e...\u003c/b\u003e 2011-08-\u003cbr\u003e  26 13:\u003cb\u003e18\u003c/b\u003e:36 M 2.4 Depth 5 km \u003cb\u003e....\u003c/b\u003e to \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle \u003cbr\u003e  East sphere (4 and up) and a lot of the rest of the world (5 and up).",
+   "cacheId": "jAe2A6if2HIJ",
+   "formattedUrl": "earthquake-report.com/.../earthquake-swarm-is-hitting-the-cheb-vogtland- area-on-the-chech-germany-border/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003eearthquake\u003c/b\u003e-swarm-is-hitting-the-cheb-vogtland- area-on-the-chech-germany-border/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mw2.google.com/mw-panoramio/photos/medium/47665963.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_16Q2S_HtkWCNRFRtaeZwBIxkH6PJpm8wDEQROG4m49pVTS_XypmYyg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. .... 01929-11-  18November 18, 1929, 20:32, Grand Banks, Newfoundland, Canada see 1929 ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 01929-11-\u003cbr\u003e  18\u003cb\u003eNovember 18, 1929\u003c/b\u003e, 20:32, Grand Banks, Newfoundland, Canada see 1929 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami Time Travel Event Maps | ngdc.noaa.gov",
+   "htmlTitle": "Tsunami Time Travel Event Maps | ngdc.noaa.gov",
+   "link": "http://www.ngdc.noaa.gov/hazard/tsu_travel_time_events.shtml",
+   "displayLink": "www.ngdc.noaa.gov",
+   "snippet": "On November 18, 1929 a magnitude 7.4 Mw earthquake occurred 250 km south   ... by the earthquake and subsequent tsunami in 14 countries in South Asia and ...",
+   "htmlSnippet": "On \u003cb\u003eNovember 18, 1929\u003c/b\u003e a magnitude 7.4 Mw \u003cb\u003eearthquake\u003c/b\u003e occurred 250 km south \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e by the \u003cb\u003eearthquake\u003c/b\u003e and subsequent tsunami in 14 countries in South \u003cb\u003eAsia\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ny3Z2KfB8acJ",
+   "formattedUrl": "www.ngdc.noaa.gov/hazard/tsu_travel_time_events.shtml",
+   "htmlFormattedUrl": "www.ngdc.noaa.gov/hazard/tsu_travel_time_events.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ngdc.noaa.gov/hazard/icons/1755_1101_th.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "111",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI38aZO5xfyBunh0fzw6kl6DNDfxzhw95RLarq_V1tp4bpKBYBBkKPCQ"
+     }
+    ],
+    "metatags": [
+     {
+      "operator": "Heather.McCullough",
+      "questions": "haz.info",
+      "return": "hazards",
+      "dc.creator": "National Geophysical Data Center",
+      "dc.date.created": "2006-07-28",
+      "dc.date.reviewed": "2011-10-05",
+      "dc.language": "EN-US",
+      "dc.description": "Tsunami Time Travel (TTT) Maps: TTT software calculates first-arrival travel times on a grid for a tsunami generated at a given earthquake epicenter",
+      "dc.publisher": "U.S. Department of Commerce",
+      "dc.subject": "geoscientificInformation"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami",
+   "htmlTitle": "Tsunami",
+   "link": "http://library.thinkquest.org/16132/html/tsunami.html",
+   "displayLink": "library.thinkquest.org",
+   "snippet": "Although tsunamis are rare along the Atlantic coastline, a severe earthquake on   November 18, 1929, in the Grand Banks of Newfoundland generated a tsunami ...",
+   "htmlSnippet": "Although tsunamis are rare along the Atlantic coastline, a severe \u003cb\u003eearthquake\u003c/b\u003e on \u003cbr\u003e  \u003cb\u003eNovember 18, 1929\u003c/b\u003e, in the Grand Banks of Newfoundland generated a tsunami \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BwLRYmwEhOcJ",
+   "formattedUrl": "library.thinkquest.org/16132/html/tsunami.html",
+   "htmlFormattedUrl": "library.thinkquest.org/16132/html/tsunami.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://library.thinkquest.org/16132/media/tsunbig.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "318",
+      "height": "159",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLm5ow0U2s1osYYri_LCsBTxIKKpA6bgwz_DNtDKbamgwbbY9ErzTr8p6k"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1929 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1929\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1929",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In Asia, the Republic of China and the Soviet Union engaged in a minor conflict ...   The other major clash was the 1929 Safed massacre, in which 18???20 Jews .... In   November, the 1929 Grand Banks earthquake occurred off the south coast of ...",
+   "htmlSnippet": "In \u003cb\u003eAsia\u003c/b\u003e, the Republic of China and the Soviet Union engaged in a minor conflict \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The other major clash was the \u003cb\u003e1929\u003c/b\u003e Safed massacre, in which \u003cb\u003e18\u003c/b\u003e???20 Jews \u003cb\u003e....\u003c/b\u003e In \u003cbr\u003e  \u003cb\u003eNovember\u003c/b\u003e, the \u003cb\u003e1929\u003c/b\u003e Grand Banks \u003cb\u003eearthquake\u003c/b\u003e occurred off the south coast of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WQz2SshNf4sJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1929",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1929\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Case Studies - Earthquakes - Forces of Nature",
+   "htmlTitle": "Case Studies - \u003cb\u003eEarthquakes\u003c/b\u003e - Forces of Nature",
+   "link": "http://library.thinkquest.org/C003603/english/earthquakes/casestudies.shtml",
+   "displayLink": "library.thinkquest.org",
+   "snippet": "Click on the links to read about earthquakes which have occurred throughout   history. ... North Atlantic Ocean (1929, November 18); Ito, Japan (1930,   November 25); Kansu, China .... Boston, Massachusetts, USA (1755, November   18) ..... One of South Asia's worst earthquakes in forty years killed more than   5,200 people and ...",
+   "htmlSnippet": "Click on the links to read about \u003cb\u003eearthquakes\u003c/b\u003e which have occurred throughout \u003cbr\u003e  history. \u003cb\u003e...\u003c/b\u003e North Atlantic Ocean (\u003cb\u003e1929\u003c/b\u003e, \u003cb\u003eNovember 18\u003c/b\u003e); Ito, Japan (1930, \u003cbr\u003e  \u003cb\u003eNovember\u003c/b\u003e 25); Kansu, China \u003cb\u003e....\u003c/b\u003e Boston, Massachusetts, USA (1755, \u003cb\u003eNovember\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e18\u003c/b\u003e) \u003cb\u003e.....\u003c/b\u003e One of South \u003cb\u003eAsia&#39;s\u003c/b\u003e worst \u003cb\u003eearthquakes\u003c/b\u003e in forty years killed more than \u003cbr\u003e  5,200 people and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lI0uGtuvyB0J",
+   "formattedUrl": "library.thinkquest.org/C003603/.../earthquakes/casestudies.shtml",
+   "htmlFormattedUrl": "library.thinkquest.org/C003603/.../\u003cb\u003eearthquakes\u003c/b\u003e/casestudies.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ThinkQuest Team #C003603"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami Early Warning System - Tsunamis in history",
+   "htmlTitle": "Tsunami Early Warning System - Tsunamis in history",
+   "link": "http://cwarn.org/tsunami/tsunami-in-history",
+   "displayLink": "cwarn.org",
+   "snippet": "It was the second largest earthquake in recorded history and generated massive   .... On November 18, 1929, an earthquake of magnitude 7.2 occurred beneath the   Laurentian Slope on the Grand Banks. .... Other tsunami in South Asia ...",
+   "htmlSnippet": "It was the second largest \u003cb\u003eearthquake\u003c/b\u003e in recorded history and generated massive \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eNovember 18, 1929\u003c/b\u003e, an \u003cb\u003eearthquake\u003c/b\u003e of magnitude 7.2 occurred beneath the \u003cbr\u003e  Laurentian Slope on the Grand Banks. \u003cb\u003e....\u003c/b\u003e Other tsunami in South \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TdUG9ZxOZywJ",
+   "formattedUrl": "cwarn.org/tsunami/tsunami-in-history",
+   "htmlFormattedUrl": "cwarn.org/tsunami/tsunami-in-history"
+  }
+ ]
+}

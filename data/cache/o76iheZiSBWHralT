@@ -1,0 +1,266 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 20 1931 North America Earthquake",
+    "totalResults": "94400",
+    "searchTerms": "Apr 20 1931 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 20 1931 North America Earthquake",
+    "totalResults": "94400",
+    "searchTerms": "Apr 20 1931 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.363932,
+  "formattedSearchTime": "0.36",
+  "totalResults": "94400",
+  "formattedTotalResults": "94,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "New York Earthquakes",
+   "htmlTitle": "New York \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/new_york/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... On April 20, 1931, an earthquake centering near Lake George threw down about   20 chimneys at Warrensburg and twisted a church spire ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eApril 20, 1931\u003c/b\u003e, an \u003cb\u003eearthquake\u003c/b\u003e centering near Lake George threw down about \u003cbr\u003e  20 chimneys at Warrensburg and twisted a church spire \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SLSYXci3fnQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/new_york/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/new_york/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on April 20 - What happened on my birthday. Today ...",
+   "htmlTitle": "What happened on \u003cb\u003eApril 20\u003c/b\u003e - What happened on my birthday. Today \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/apr20.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "April 20, 1931 \"Louis Armstrong recorded the classic, \" When It' s Sleepy Time ...   April 20, 1934 \"One of America' s most beloved child stars made her debut. ...   April 20, 1935 \"On the island of Formosa a 7.1 quake causes 3,280 deaths. ...   April 20, 1962 New Orleans Citizens Co gives free 1-way ride to blacks to move   North ...",
+   "htmlSnippet": "\u003cb\u003eApril 20, 1931\u003c/b\u003e &quot;Louis Armstrong recorded the classic, &quot; When It&#39; s Sleepy Time \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  April 20, 1934 &quot;One of \u003cb\u003eAmerica\u003c/b\u003e&#39; s most beloved child stars made her debut. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  April 20, 1935 &quot;On the island of Formosa a 7.1 \u003cb\u003equake\u003c/b\u003e causes 3,280 deaths. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  April 20, 1962 New Orleans Citizens Co gives free 1-way ride to blacks to move \u003cbr\u003e  \u003cb\u003eNorth\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5scmx2kJYuwJ",
+   "formattedUrl": "www.datesinhistory.com/apr20.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eapr20\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SECTION 5.4.5: RISK ASSESSMENT ??? EARTHQUAKE DMA 2000 ...",
+   "htmlTitle": "SECTION 5.4.5: RISK ASSESSMENT ??? \u003cb\u003eEARTHQUAKE\u003c/b\u003e DMA 2000 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.saratogacountyny.gov/upload/2011100612626.pdf",
+   "displayLink": "www.saratogacountyny.gov",
+   "snippet": "Oct 6, 2011 ... April 20, 1931: During the afternoon of April 20th, the first shock of an earthquake   struck Warren. County, New York, just north of Saratoga ...",
+   "htmlSnippet": "Oct 6, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eApril 20\u003c/b\u003e, \u003cb\u003e1931\u003c/b\u003e: During the afternoon of April 20th, the first shock of an \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  struck Warren. County, New York, just \u003cb\u003enorth\u003c/b\u003e of Saratoga \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZyamSdJLO4sJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.saratogacountyny.gov/upload/2011100612626.pdf",
+   "htmlFormattedUrl": "www.saratogacountyny.gov/upload/2011100612626.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20111006121920-04'00'",
+      "author": "heather.apgar",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "moddate": "D:20111006121926-04'00'",
+      "title": "Microsoft Word - Section 5.4.5 - Earthquake - 112409 - FINAL.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Section 5.4.4 - Earthquake",
+   "htmlTitle": "Section 5.4.4 - \u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.fultoncountyny.gov/hazard/Section%205.4.4%20-%20Earthquake.pdf",
+   "displayLink": "www.fultoncountyny.gov",
+   "snippet": "areas of the State, with the north-northeast portion having the higher seismic risk   and the ... the Atlantic Ocean, the Northeast coast of America was a plate   boundary. ..... April 20, 1931: During the afternoon of April 20th, the first shock of   an ...",
+   "htmlSnippet": "areas of the State, with the \u003cb\u003enorth\u003c/b\u003e-northeast portion having the higher \u003cb\u003eseismic\u003c/b\u003e risk \u003cbr\u003e  and the \u003cb\u003e...\u003c/b\u003e the Atlantic Ocean, the Northeast coast of \u003cb\u003eAmerica\u003c/b\u003e was a plate \u003cbr\u003e  boundary. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eApril 20\u003c/b\u003e, \u003cb\u003e1931\u003c/b\u003e: During the afternoon of April 20th, the first shock of \u003cbr\u003e  an \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Rp2q3koMjUsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.fultoncountyny.gov/hazard/Section%205.4.4%20-%20Earthquake.pdf",
+   "htmlFormattedUrl": "www.fultoncountyny.gov/hazard/Section%205.4.4%20-%\u003cb\u003e20Earthquake\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "francis.ronquillo",
+      "creationdate": "D:20101119074741-05'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20101119074741-05'00'",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "title": "Microsoft Word - Section 5.4.4 - Earthquake - 111810.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003e20th\u003c/b\u003e-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "01931-01-27January 27, 1931, 20:09 UTC, Burma see 1931 Myitkyina   earthquake, 25.67, 96.15, 7.6, USGS ... 01931-06-07June 7, 1931, 00:25,   offshore, Yorkshire, North Sea, United Kingdom see 1931 ... 01938-04-19April 19  , 1938, 12:59 local time, K??r??ehir, Turkey, 39.1, 34.0, 160, 6.6, MS ...",
+   "htmlSnippet": "01931-01-27January 27, \u003cb\u003e1931\u003c/b\u003e, \u003cb\u003e20\u003c/b\u003e:09 UTC, Burma see \u003cb\u003e1931\u003c/b\u003e Myitkyina \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, 25.67, 96.15, 7.6, USGS \u003cb\u003e...\u003c/b\u003e 01931-06-07June 7, \u003cb\u003e1931\u003c/b\u003e, 00:25, \u003cbr\u003e  offshore, Yorkshire, \u003cb\u003eNorth\u003c/b\u003e Sea, United Kingdom see \u003cb\u003e1931\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 01938-04-19\u003cb\u003eApril\u003c/b\u003e 19\u003cbr\u003e  , 1938, 12:59 local time, K??r??ehir, Turkey, 39.1, 34.0, 160, 6.6, MS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismic retrofitting strategies for bridges in moderate",
+   "htmlTitle": "\u003cb\u003eseismic\u003c/b\u003e retrofitting strategies for bridges in moderate",
+   "link": "http://www-personal.umich.edu/~nowak/Papers/Malik,%20paper%2012-14-02.doc",
+   "displayLink": "www-personal.umich.edu",
+   "snippet": "The mostly felt series of earthquakes occurred in 1811-12 near New Madrid, ....   Table 1 Damaging Earthquakes in Eastern North America .... Apr. 20, 1931 ...",
+   "htmlSnippet": "The mostly felt series of \u003cb\u003eearthquakes\u003c/b\u003e occurred in 1811-12 near New Madrid, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Table 1 Damaging \u003cb\u003eEarthquakes\u003c/b\u003e in Eastern \u003cb\u003eNorth America\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003eApr. 20, 1931\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D4MaXzjvupMJ",
+   "mime": "application/msword",
+   "fileFormat": "Microsoft Word",
+   "formattedUrl": "www-personal.umich.edu/~nowak/.../Malik,%20paper%2012-14-02.doc",
+   "htmlFormattedUrl": "www-personal.umich.edu/~nowak/.../Malik,%20paper%2012-14-02.doc"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Guerrero???Oaxaca earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 Guerrero???Oaxaca \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_Guerrero%E2%80%93Oaxaca_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Map of southern Mexico showing the areas affected by the earthquake of 20   March 2012, ... subducted below the North American Plate at a rate of 6.4 cm/yr (  2.5 in/yr). ... 828 aftershocks have occurred, the strongest of them was felt on 2   April 2012 .... 1911 Michoac??n ?? December 1911 Guerrero ?? 1931 Oaxaca ?? 1932   Jalisco ...",
+   "htmlSnippet": "Map of southern Mexico showing the areas affected by the \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e20\u003c/b\u003e \u003cbr\u003e  March 2012, \u003cb\u003e...\u003c/b\u003e subducted below the \u003cb\u003eNorth American\u003c/b\u003e Plate at a rate of 6.4 cm/yr (\u003cbr\u003e  2.5 in/yr). \u003cb\u003e...\u003c/b\u003e 828 aftershocks have occurred, the strongest of them was felt on 2 \u003cbr\u003e  \u003cb\u003eApril\u003c/b\u003e 2012 \u003cb\u003e....\u003c/b\u003e 1911 Michoac??n &middot; December 1911 Guerrero &middot; \u003cb\u003e1931\u003c/b\u003e Oaxaca &middot; 1932 \u003cbr\u003e  Jalisco \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "95xbbIfirO0J",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_Guerrero???Oaxaca_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_Guerrero???Oaxaca_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Intensity_Oaxaca_2012.jpg/240px-Intensity_Oaxaca_2012.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkotZ9luDV0noo7aRUW8oatgnuA830lvoQAJd_ZYLqMNbuCCUJIJ_xpE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes - Simple English Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e - Simple English Wikipedia, the free encyclopedia",
+   "link": "http://simple.wikipedia.org/wiki/List_of_earthquakes",
+   "displayLink": "simple.wikipedia.org",
+   "snippet": "The following is a list of major earthquakes: ... Alaska, United States, 125, 9.2,   Most powerful earthquake in U.S. history, known as the Good Friday Earthquake.",
+   "htmlSnippet": "The following is a list of major \u003cb\u003eearthquakes\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e Alaska, United States, 125, 9.2, \u003cbr\u003e  Most powerful \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eU.S.\u003c/b\u003e history, known as the Good Friday \u003cb\u003eEarthquake\u003c/b\u003e.",
+   "cacheId": "gpzcSuj1SusJ",
+   "formattedUrl": "simple.wikipedia.org/wiki/List_of_earthquakes",
+   "htmlFormattedUrl": "simple.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2010 Baja California earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2010 Baja California \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2010_Baja_California_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "It was centered 15 miles (20 kilometers) northwest of the town of Borrego Springs  . The quake in April transferred stress to fault zones farther north, triggering the ...",
+   "htmlSnippet": "It was centered 15 miles (\u003cb\u003e20\u003c/b\u003e kilometers) northwest of the town of Borrego Springs\u003cbr\u003e  . The \u003cb\u003equake\u003c/b\u003e in \u003cb\u003eApril\u003c/b\u003e transferred stress to fault zones farther \u003cb\u003enorth\u003c/b\u003e, triggering the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ztBD1_CSZyYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2010_Baja_California_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2010_Baja_California_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mexico_States_blank_map.svg/250px-Mexico_States_blank_map.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "130",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTf7AQzenzcyTmnHodEvHft_WAOvgQ2F-Y6WuoKHZyG1Ax-4RpCAgmP9ZM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Notable Earthquakes Shake Texas on Occasion | Texas Almanac",
+   "htmlTitle": "Notable \u003cb\u003eEarthquakes\u003c/b\u003e Shake Texas on Occasion | Texas Almanac",
+   "link": "http://www.texasalmanac.com/topics/environment/notable-earthquakes-shake-texas-occasion",
+   "displayLink": "www.texasalmanac.com",
+   "snippet": "16, 1931, near the town of Valentine in Jeff Davis County. ... 1907 (3.6) ??? In April   1907, an earthquake near Amarillo occurred. ... The shock was strongly recorded   on all seismographs in North America and at stations all over ... 1951 (4.2) ??? The   Panhandle area was the center for another moderate shock on June 20, 1951.",
+   "htmlSnippet": "16, \u003cb\u003e1931\u003c/b\u003e, near the town of Valentine in Jeff Davis County. \u003cb\u003e...\u003c/b\u003e 1907 (3.6) ??? In \u003cb\u003eApril\u003c/b\u003e \u003cbr\u003e  1907, an \u003cb\u003eearthquake\u003c/b\u003e near Amarillo occurred. \u003cb\u003e...\u003c/b\u003e The shock was strongly recorded \u003cbr\u003e  on all seismographs in \u003cb\u003eNorth America\u003c/b\u003e and at stations all over \u003cb\u003e...\u003c/b\u003e 1951 (4.2) ??? The \u003cbr\u003e  Panhandle area was the center for another moderate shock on June \u003cb\u003e20\u003c/b\u003e, 1951.",
+   "cacheId": "xxQi0qeIcKgJ",
+   "formattedUrl": "www.texasalmanac.com/.../notable-earthquakes-shake-texas-occasion",
+   "htmlFormattedUrl": "www.texasalmanac.com/.../notable-\u003cb\u003eearthquakes\u003c/b\u003e-shake-texas-occasion",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.texasalmanac.com/sites/default/files/images/maps/quakemap2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGWTxdQSuGZx2pz6OFlpfvbBAig_uVCccZCFxzkjVg9ZYA6bVAjVdXVU-L"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "The Texas Almanac is a biennially published reference work providing information for the general public on the history of the state and its people, government and politics, economics, natural resources, holidays, culture, education, recreation, the arts, and other topics."
+     }
+    ]
+   }
+  }
+ ]
+}

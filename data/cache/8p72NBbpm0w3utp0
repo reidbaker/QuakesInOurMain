@@ -1,0 +1,321 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 22 1987 Australia Earthquake",
+    "totalResults": "222000",
+    "searchTerms": "Dec 22 1987 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 22 1987 Australia Earthquake",
+    "totalResults": "222000",
+    "searchTerms": "Dec 22 1987 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.586812,
+  "formattedSearchTime": "0.59",
+  "totalResults": "222000",
+  "formattedTotalResults": "222,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 8, 2012 at 8:10 am by By Armand Vervaeck and James   Daniell ... The earthquake was centered in the gold mining area of Welkom about   300 kilometers south of ... Alaska, 1987 - Magnitude : 7.8 .... November 22 2012   ...... Hawaii; 37 cm at Pago Pago, American Samoa; 4 cm at Southport, Australia.",
+   "htmlSnippet": "Last update: \u003cb\u003eDecember\u003c/b\u003e 8, 2012 at 8:10 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom about \u003cbr\u003e  300 kilometers south of \u003cb\u003e...\u003c/b\u003e Alaska, \u003cb\u003e1987\u003c/b\u003e - Magnitude : 7.8 \u003cb\u003e....\u003c/b\u003e November \u003cb\u003e22\u003c/b\u003e 2012 \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e Hawaii; 37 cm at Pago Pago, American Samoa; 4 cm at Southport, \u003cb\u003eAustralia\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on December 22 - happened Today in History",
+   "htmlTitle": "What happened on \u003cb\u003eDecember 22\u003c/b\u003e - happened Today in History",
+   "link": "http://www.datesinhistory.com/dec22.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "December 22, 1603 Mehmed III Sultan of the Ottoman Empire dies and is   succeeded ... sentenced to transportation to Australia, set sail on the convict ship   Speke. .... December 22, 1987 Canada beats Finland 4-1 to win first-ever gold   medal at the ... December 22, 2003 \"A magnitude 6.6 earthquake hits near San   Simeon, ...",
+   "htmlSnippet": "December 22, 1603 Mehmed III Sultan of the Ottoman Empire dies and is \u003cbr\u003e  succeeded \u003cb\u003e...\u003c/b\u003e sentenced to transportation to \u003cb\u003eAustralia\u003c/b\u003e, set sail on the convict ship \u003cbr\u003e  Speke. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eDecember 22, 1987\u003c/b\u003e Canada beats Finland 4-1 to win first-ever gold \u003cbr\u003e  medal at the \u003cb\u003e...\u003c/b\u003e December 22, 2003 &quot;A magnitude 6.6 \u003cb\u003eearthquake\u003c/b\u003e hits near San \u003cbr\u003e  Simeon, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-Hi9V-3rQdYJ",
+   "formattedUrl": "www.datesinhistory.com/dec22.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003edec22\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Tohoku earthquake and tsunami : CATDAT 41 report ...",
+   "htmlTitle": "Japan Tohoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami : CATDAT 41 report \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/02/japan-tohoku-earthquake-and-tsunami-catdat-41-report-october-2-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 5, 2011 ... CATDAT and Earthquake-Report.com have been reporting on this earthquake   and ... 65% has been built under major Japanese seismic codes (1981, 1987 etc.  ) ... For further information, come to the Australian Earthquake Engineering .....   Earthquakes list December 12, 2012 - Another earthquake in the St ...",
+   "htmlSnippet": "Oct 5, 2011 \u003cb\u003e...\u003c/b\u003e CATDAT and \u003cb\u003eEarthquake\u003c/b\u003e-Report.com have been reporting on this \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e 65% has been built under major Japanese \u003cb\u003eseismic\u003c/b\u003e codes (1981, \u003cb\u003e1987\u003c/b\u003e etc.\u003cbr\u003e  ) \u003cb\u003e...\u003c/b\u003e For further information, come to the \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eDecember\u003c/b\u003e 12, 2012 - Another \u003cb\u003eearthquake\u003c/b\u003e in the St \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "35ovD4FI7OwJ",
+   "formattedUrl": "earthquake-report.com/.../japan-tohoku-earthquake-and-tsunami-catdat-41- report-october-2-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../japan-tohoku-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami-catdat-41- report-october-2-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/JMA-Intensity.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "186",
+      "height": "270",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpowXEZ0UgNHafUonfrPTdaftD1Q_A5_YcnKK4LO_B08MpxlkwlmmdRHrQ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "anon",
+      "nickname": "anon"
+     },
+     {
+      "fn": "Ana Paula Silva Correia and Jos?? Rodrigues Ribeiro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Neil deGrasse Tyson (neiltyson) on Twitter",
+   "htmlTitle": "Neil deGrasse Tyson (neiltyson) on Twitter",
+   "link": "https://twitter.com/neiltyson",
+   "displayLink": "twitter.com",
+   "snippet": "On December 22, 2012, I wonder what next \"end-of-world\" hoax will join the list of   failed predictions: http://bit.ly/uQn42D ?? Expand Collapse. Reply; Retweeted ...",
+   "htmlSnippet": "On \u003cb\u003eDecember 22\u003c/b\u003e, 2012, I wonder what next &quot;end-of-world&quot; hoax will join the list of \u003cbr\u003e  failed predictions: http://bit.ly/uQn42D &middot; Expand Collapse. Reply; Retweeted \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XTtNvOJnnSMJ",
+   "formattedUrl": "https://twitter.com/neiltyson",
+   "htmlFormattedUrl": "https://twitter.com/neiltyson",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://twimg0-a.akamaihd.net/profile_images/74188698/NeilTysonOriginsA-Crop_reasonably_small.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "102",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ-YK8Ty5USJCHlDz7alClJjyCnGiIfFChXy59z1XsWi1lxXj2pJ5_sQ"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 22 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDecember 22\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/December_22",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "December 22 is the 356th day of the year (357th in leap years) in the Gregorian   calendar. ... 1987 ??? In Zimbabwe, the political parties ZANU and ZAPU reach an ...",
+   "htmlSnippet": "\u003cb\u003eDecember 22\u003c/b\u003e is the 356th day of the year (357th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1987\u003c/b\u003e ??? In Zimbabwe, the political parties ZANU and ZAPU reach an \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QFt-q1-536QJ",
+   "formattedUrl": "en.wikipedia.org/wiki/December_22",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDecember\u003c/b\u003e_\u003cb\u003e22\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Popular Articles & Stories for December 22, 1987 - Los Angeles Times",
+   "htmlTitle": "Popular Articles &amp; Stories for \u003cb\u003eDecember 22, 1987\u003c/b\u003e - Los Angeles Times",
+   "link": "http://articles.latimes.com/1987/dec/22",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Dec 22, 1987 ... Popular articles, stories & photos for December 22, 1987 in the Los Angeles   Times news ... Local News in Brief : Earthquake Assistance ...",
+   "htmlSnippet": "Dec 22, 1987 \u003cb\u003e...\u003c/b\u003e Popular articles, stories &amp; photos for \u003cb\u003eDecember 22\u003c/b\u003e, \u003cb\u003e1987\u003c/b\u003e in the Los Angeles \u003cbr\u003e  Times news \u003cb\u003e...\u003c/b\u003e Local News in Brief : \u003cb\u003eEarthquake\u003c/b\u003e Assistance \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5uL0Avo8N2QJ",
+   "formattedUrl": "articles.latimes.com/1987/dec/22",
+   "htmlFormattedUrl": "articles.latimes.com/\u003cb\u003e1987\u003c/b\u003e/\u003cb\u003edec\u003c/b\u003e/\u003cb\u003e22\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Spatial and temporal variation of seismicity across Australiai",
+   "htmlTitle": "Spatial and temporal variation of seismicity across Australiai",
+   "link": "http://www.balkangeophysoc.gr/online-journal/2002_V5/nov2002/v5-4-2.pdf",
+   "displayLink": "www.balkangeophysoc.gr",
+   "snippet": "The earthquake near. Nhill, western Victoria, on 22 December 1987 and the   seismicity of eastern Australia: BMR Journal of Australian Geology &. Geophysics ...",
+   "htmlSnippet": "The \u003cb\u003eearthquake\u003c/b\u003e near. Nhill, western Victoria, on \u003cb\u003e22 December 1987\u003c/b\u003e and the \u003cbr\u003e  seismicity of eastern \u003cb\u003eAustralia\u003c/b\u003e: BMR Journal of \u003cb\u003eAustralian\u003c/b\u003e Geology &amp;. Geophysics \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qw8veCbEHBUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.balkangeophysoc.gr/online-journal/2002_V5/nov2002/v5-4-2.pdf",
+   "htmlFormattedUrl": "www.balkangeophysoc.gr/online-journal/2002_V5/nov2002/v5-4-2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20021111124338-04'00'",
+      "creationdate": "D:20021111124147-04'00'",
+      "title": "Spatial and temporal variation of seismicity across Australiai",
+      "author": "Fuchun Luan",
+      "creator": "Microsoft Word 8.0",
+      "producer": "Acrobat Distiller 4.0 for Windows"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Database ??? Search Results - Geoscience Australia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Database ??? Search Results - Geoscience \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.ga.gov.au/earthquakes/list.do?isRegionSelected=true&region=Vic",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Geoscience Australia Home ?? Earthquakes @ GA ... 4.9, 22 December 1987 @ 15  :06:30, 23 December 1987 @ 02:06:30, -36.107, 141.539, 6, near Nhill VIC ...",
+   "htmlSnippet": "Geoscience \u003cb\u003eAustralia\u003c/b\u003e Home &middot; \u003cb\u003eEarthquakes\u003c/b\u003e @ GA \u003cb\u003e...\u003c/b\u003e 4.9, \u003cb\u003e22 December 1987\u003c/b\u003e @ 15\u003cbr\u003e  :06:30, 23 \u003cb\u003eDecember 1987\u003c/b\u003e @ 02:06:30, -36.107, 141.539, 6, near Nhill VIC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fI_MJ3RVHbQJ",
+   "formattedUrl": "www.ga.gov.au/earthquakes/list.do?isRegionSelected=true...Vic",
+   "htmlFormattedUrl": "www.ga.gov.au/\u003cb\u003eearthquakes\u003c/b\u003e/list.do?isRegionSelected=true...Vic"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquake warnings ??? south australians waiting for the big one",
+   "htmlTitle": "\u003cb\u003eearthquake\u003c/b\u003e warnings ??? south \u003cb\u003eaustralians\u003c/b\u003e waiting for the big one",
+   "link": "http://cooberpedyregionaltimes.wordpress.com/2010/04/18/earthquake-warnings-south-australians-waiting-for-the-big-one/",
+   "displayLink": "cooberpedyregionaltimes.wordpress.com",
+   "snippet": "Apr 18, 2010 ... 5.1 MAGNITUDE EARTHQUAKE OFF SOUTH AUSTRALIAN COAST ... Vertical-  component waveforms recorded during the 22 November, 2003 ML .... NSW, in   December 2009 to commemorate the 20th anniversary of the 1989 .... such as the   1987-1988 Tennant Creek earthquake sequence that included ...",
+   "htmlSnippet": "Apr 18, 2010 \u003cb\u003e...\u003c/b\u003e 5.1 MAGNITUDE \u003cb\u003eEARTHQUAKE\u003c/b\u003e OFF SOUTH \u003cb\u003eAUSTRALIAN\u003c/b\u003e COAST \u003cb\u003e...\u003c/b\u003e Vertical-\u003cbr\u003e  component waveforms recorded during the \u003cb\u003e22\u003c/b\u003e November, 2003 ML \u003cb\u003e....\u003c/b\u003e NSW, in \u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e 2009 to commemorate the 20th anniversary of the 1989 \u003cb\u003e....\u003c/b\u003e such as the \u003cbr\u003e  \u003cb\u003e1987\u003c/b\u003e-1988 Tennant Creek \u003cb\u003eearthquake\u003c/b\u003e sequence that included \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "63G1tK1jrUMJ",
+   "formattedUrl": "cooberpedyregionaltimes.wordpress.com/.../earthquake-warnings-south- australians-waiting-for-the-big-one/",
+   "htmlFormattedUrl": "cooberpedyregionaltimes.wordpress.com/.../\u003cb\u003eearthquake\u003c/b\u003e-warnings-south- \u003cb\u003eaustralians\u003c/b\u003e-waiting-for-the-big-one/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://cooberpedyregionaltimes.files.wordpress.com/2010/04/mt-barker-quake.jpg?w=270&h=270"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "216",
+      "height": "216",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsE7U8nBR82TRxCUeC0l6lW7zHu2b0vliwyU0nv_f6-bPBtGM_STfrOe4"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "06EEDF94A14FAAD22BA1AA3442AB25A8",
+      "og:type": "article",
+      "og:title": "EARTHQUAKE WARNINGS ??? SOUTH AUSTRALIANS WAITING FOR THE BIG??ONE",
+      "og:url": "http://cooberpedyregionaltimes.wordpress.com/2010/04/18/earthquake-warnings-south-australians-waiting-for-the-big-one/",
+      "og:description": "* Newcastle 1989 *??Flinders Ranges??2003 * Woomera:Torrens Fault *??Olympic Dam??:Mashers Fault * National Radioactive Waste???? Repository *??Mt. Barker ??? Adelaide:?? with a popluation of approxima...",
+      "og:site_name": "Coober Pedy Regional Times",
+      "og:image": "http://i2.wp.com/cooberpedyregionaltimes.files.wordpress.com/2010/04/odxeisappendixkgroundwaterandgeochemistryk1-8baselinehydrogeologicalassessment_figs2-4.jpg?fit=400%2C400",
+      "twitter:site": "@wordpressdotcom",
+      "twitter:image": "http://i2.wp.com/cooberpedyregionaltimes.files.wordpress.com/2010/04/odxeisappendixkgroundwaterandgeochemistryk1-8baselinehydrogeologicalassessment_figs2-4.jpg",
+      "twitter:card": "summary",
+      "fb:app_id": "249643311490",
+      "application-name": "Coober Pedy Regional Times",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "Regional Newspaper South Australia",
+      "msapplication-task": "name=Subscribe;action-uri=http://cooberpedyregionaltimes.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico",
+      "title": "EARTHQUAKE WARNINGS ??? SOUTH AUSTRALIANS WAITING FOR THE BIG??ONE | Coober Pedy Regional Times on WordPress.com"
+     }
+    ]
+   }
+  }
+ ]
+}

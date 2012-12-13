@@ -1,0 +1,400 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 27 1980 Eurasia Earthquake",
+    "totalResults": "33900",
+    "searchTerms": "Jul 27 1980 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 27 1980 Eurasia Earthquake",
+    "totalResults": "33900",
+    "searchTerms": "Jul 27 1980 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.253409,
+  "formattedSearchTime": "0.25",
+  "totalResults": "33900",
+  "formattedTotalResults": "33,900"
+ },
+ "spelling": {
+  "correctedQuery": "July 27 1980 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 27 1980 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Moderate earthquake near Tangshan, China reminds the 1976 ...",
+   "htmlTitle": "Moderate \u003cb\u003eearthquake\u003c/b\u003e near Tangshan, China reminds the 1976 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/28/moderate-earthquake-near-tangshan-china-reminds-the-1976-disaster-also-felt-in-beijing-today/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 31, 2012 ... The earthquake hit in the early morning, at 03:42:53.8 local time (1976 July 27 19  :42:53.8 UTC), and lasted 23 seconds. Chinese government ...",
+   "htmlSnippet": "May 31, 2012 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e hit in the early morning, at 03:42:53.8 local time (1976 \u003cb\u003eJuly 27\u003c/b\u003e 19\u003cbr\u003e  :42:53.8 UTC), and lasted 23 seconds. Chinese government \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P7WIm5zAJ-EJ",
+   "formattedUrl": "earthquake-report.com/.../moderate-earthquake-near-tangshan-china-reminds -the-1976-disaster-also-felt-in-beijing-today/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../moderate-\u003cb\u003eearthquake\u003c/b\u003e-near-tangshan-china-reminds -the-1976-disaster-also-felt-in-beijing-today/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/cn-28052012-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "198",
+      "height": "255",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudtnFaHh2iFzDoAMutICniQYadV1TH-iL-XbqKxM-qFwzRU6pe1aQEYvA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes in china, including the tangshan earthquake",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e in china, including the tangshan \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://factsanddetails.com/china.php?itemid=396",
+   "displayLink": "factsanddetails.com",
+   "snippet": "Tangshan Earthquake in 1976 On average, China experiences 18 earthquake ...   the older heavier Indian crust wedges under Eurasia and thrust up the high   plateaus .... scenes of domestic life in the Chinese city of Tangshan on July 27,   1976.",
+   "htmlSnippet": "Tangshan \u003cb\u003eEarthquake\u003c/b\u003e in 1976 On average, China experiences 18 \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  the older heavier Indian crust wedges under \u003cb\u003eEurasia\u003c/b\u003e and thrust up the high \u003cbr\u003e  plateaus \u003cb\u003e....\u003c/b\u003e scenes of domestic life in the Chinese city of Tangshan on \u003cb\u003eJuly 27\u003c/b\u003e, \u003cbr\u003e  1976.",
+   "cacheId": "qsHmUIfuvOkJ",
+   "formattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "htmlFormattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20080317-tanshan1976%2032.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScOoH604SVx1lIDpfHg0Q0qhqY8sAjC9a4IM7umgB4cMHH8cygGk30fo9o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in India",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Killer earthquakes in India. Last update: January 27, 2011 at 7:56 am by By   Armand Vervaeck ... M 5.5?? 23-08-1980?? ?? ?? India Depth 14.5 km?? ??? killing 15   people ... The stress that caused this earthquake is due to the Indian plate   pushing northward into the Eurasian plate. Complex earthquake. ... July 18, 2011   at 4:07 pm ...",
+   "htmlSnippet": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in India. Last update: January \u003cb\u003e27\u003c/b\u003e, 2011 at 7:56 am by By \u003cbr\u003e  Armand Vervaeck \u003cb\u003e...\u003c/b\u003e M 5.5?? 23-08-\u003cb\u003e1980??\u003c/b\u003e ?? ?? India Depth 14.5 km?? ??? killing 15 \u003cbr\u003e  people \u003cb\u003e...\u003c/b\u003e The stress that caused this \u003cb\u003eearthquake\u003c/b\u003e is due to the Indian plate \u003cbr\u003e  pushing northward into the \u003cb\u003eEurasian\u003c/b\u003e plate. Complex \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 18, 2011 \u003cbr\u003e  at 4:07 pm \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/26/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-india/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Jos???? Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.4 - 47km S of Pagan, Northern Mariana Islands 2012-11-27 07 ...",
+   "htmlTitle": "M5.4 - 47km S of Pagan, Northern Mariana Islands 2012-11-\u003cb\u003e27\u003c/b\u003e 07 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dyts",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 27, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... (INTERIOR/USGS-2) published at 74 FR 34033 (July 14, 2009). ... by   the larger Pacific and Eurasia plates and the smaller Sunda plate. ... and the Sulu   and Cotabato trenches in the south (Cardwell et al., 1980).",
+   "htmlSnippet": "Nov 27, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e (INTERIOR/USGS-2) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e by \u003cbr\u003e  the larger Pacific and \u003cb\u003eEurasia\u003c/b\u003e plates and the smaller Sunda plate. \u003cb\u003e...\u003c/b\u003e and the Sulu \u003cbr\u003e  and Cotabato trenches in the south (Cardwell et al., \u003cb\u003e1980\u003c/b\u003e).",
+   "cacheId": "0uQsO2FMGQcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dyts",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dyts"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Unusual Indian Ocean earthquakes hint at tectonic breakup : Nature ...",
+   "htmlTitle": "Unusual Indian Ocean \u003cb\u003eearthquakes\u003c/b\u003e hint at tectonic breakup : Nature \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nature.com/uidfinder/10.1038/nature.2012.11487",
+   "displayLink": "www.nature.com",
+   "snippet": "Sep 26, 2012 ... Seismologists have suspected since the 1980s4 that the Indo-Australian plate   may be breaking up. But the 11 April earthquakes represent ???the ...",
+   "htmlSnippet": "Sep 26, 2012 \u003cb\u003e...\u003c/b\u003e Seismologists have suspected since the \u003cb\u003e1980s\u003c/b\u003e4 that the Indo-Australian plate \u003cbr\u003e  may be breaking up. But the 11 April \u003cb\u003eearthquakes\u003c/b\u003e represent ???the \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.nature.com/uidfinder/10.1038/nature.2012.11487",
+   "htmlFormattedUrl": "www.nature.com/uidfinder/10.1038/nature.2012.11487",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.nature.com/polopoly_fs/7.6576.1348668107!/image/SEQmapFinal_300dpi%20reduced.jpg_gen/derivatives/box_118/SEQmapFinal_300dpi%20reduced.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:site_name": "Nature News & Comment",
+      "og:title": "Unusual Indian Ocean earthquakes hint at tectonic breakup",
+      "og:description": "April 2012 quakes occurred away from plate edges, suggesting formation of a new boundary.",
+      "og:url": "http://www.nature.com/news/unusual-indian-ocean-earthquakes-hint-at-tectonic-breakup-1.11487",
+      "og:image": "http://www.nature.com/polopoly_fs/7.6576.1348668107!/image/SEQmapFinal_300dpi%20reduced.jpg_gen/derivatives/box_118/SEQmapFinal_300dpi%20reduced.jpg",
+      "article:tag": "Geology",
+      "article:section": "News",
+      "handheldfriendly": "True",
+      "viewport": "width=device-width,initial-scale=1.0,maximum-scale=2.2,user-scalable=yes",
+      "access": "Yes",
+      "wt.cg_n": "Nature News",
+      "wt.cg_s": "News",
+      "wt.z_cg_type": "Nature News",
+      "citation_authors": "Shen, Helen;",
+      "citation_journal_title": "Nature News",
+      "citation_doi": "doi:10.1038/nature.2012.11487",
+      "citation_title": "Unusual Indian Ocean earthquakes hint at tectonic breakup"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Helen Shen"
+     },
+     {
+      "fn": "Delescluse, M."
+     },
+     {
+      "fn": "Yue, H."
+     },
+     {
+      "fn": "Lay, T."
+     },
+     {
+      "fn": "Koper, K. D."
+     },
+     {
+      "fn": "Pollitz, F. F."
+     },
+     {
+      "fn": "Stein, R. S."
+     },
+     {
+      "fn": "Sevilgen, V."
+     },
+     {
+      "fn": "B??rgmann, R."
+     },
+     {
+      "fn": "Wiens, D. A."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An earthquake (also known as a quake, tremor or temblor) is the result of a   sudden .... oblique convergent plate boundary between the Arabian and   Eurasian plates where ... of volcanic eruptions, as during the Mount St. Helens   eruption of 1980. ... inferred for older anomalous clusters of large earthquakes in   the Middle East.",
+   "htmlSnippet": "An \u003cb\u003eearthquake\u003c/b\u003e (also known as a \u003cb\u003equake\u003c/b\u003e, tremor or temblor) is the result of a \u003cbr\u003e  sudden \u003cb\u003e....\u003c/b\u003e oblique convergent plate boundary between the Arabian and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plates where \u003cb\u003e...\u003c/b\u003e of volcanic eruptions, as during the Mount St. Helens \u003cbr\u003e  eruption of \u003cb\u003e1980\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e inferred for older anomalous clusters of large \u003cb\u003eearthquakes\u003c/b\u003e in \u003cbr\u003e  the Middle East.",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ?????????, ????????? ???????????? ?????? ????????? ????????? ???????????? ????????????. ?????? ????????? ?????? ??? ??????????????? ??????????????? ???????????? ?????? ????????? ??????????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Spectral Discrimination between Explosions and Earthquakes in ...",
+   "htmlTitle": "Spectral Discrimination between Explosions and \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/dtic/tr/fulltext/u2/a230048.pdf",
+   "displayLink": "www.dtic.mil",
+   "snippet": "propagation at regional distances (e.g., Nuttli, 1973, 1980; Gupta and Burnetti,   1980;. Hasegawa, 1985 ... study the regional propagation of high-frequency   seismic phases in Eurasia at relatively ... 87198a Jul 17,1987198 01:17:07.0   49.80 78.11 000 5.8 8.9 ... 87361a Dec 27,1987361 03:05:04.7 49.86 78.76 000   6.1 8.6 ...",
+   "htmlSnippet": "propagation at regional distances (e.g., Nuttli, 1973, \u003cb\u003e1980\u003c/b\u003e; Gupta and Burnetti, \u003cbr\u003e  \u003cb\u003e1980\u003c/b\u003e;. Hasegawa, 1985 \u003cb\u003e...\u003c/b\u003e study the regional propagation of high-frequency \u003cbr\u003e  \u003cb\u003eseismic\u003c/b\u003e phases in \u003cb\u003eEurasia\u003c/b\u003e at relatively \u003cb\u003e...\u003c/b\u003e 87198a \u003cb\u003eJul\u003c/b\u003e 17,1987198 01:17:07.0 \u003cbr\u003e  49.80 78.11 000 5.8 8.9 \u003cb\u003e...\u003c/b\u003e 87361a Dec \u003cb\u003e27\u003c/b\u003e,1987361 03:05:04.7 49.86 78.76 000 \u003cbr\u003e  6.1 8.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x3bNAZrlI28J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/dtic/tr/fulltext/u2/a230048.pdf",
+   "htmlFormattedUrl": "www.dtic.mil/dtic/tr/fulltext/u2/a230048.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "efa": "AUG 1990",
+      "de": "*EXPLOSIONS, *SEISMOLOGY, *SEISMIC DATA, RATIOS, NETWORKS, ALGEBRA, PATHS, DEPTH, FREQUENCY BANDS, SPECTRA, VERTICAL ORIENTATION, SCALE, MEASURING INSTRUMENTS, BROADBAND, HORIZONTAL ORIENTATION, DISCRIMINATION, EARTHQUAKES, TEST FACILITIES, EURASIA, PROPAGATION, CHINA, USSR, DIGITAL SYSTEMS",
+      "moddate": "D:20110514180755-04'00'",
+      "ds": "Approved for public release; distribution is unlimited.",
+      "tc": "UNCLASSIFIED",
+      "dcs": "UNCLASSIFIED",
+      "au": "Chan, W. W., Baumstark, R., Cessaro, R. K.",
+      "fg": "SEISMOLOGY, SEISMIC DETECTION AND DETECTORS, EXPLOSIONS",
+      "dc": "APPROVED FOR PUBLIC RELEASE",
+      "hdl": "http://handle.dtic.mil/100.2/ADA230048",
+      "ad": "ADA230048",
+      "ac": "UNCLASSIFIED",
+      "ci": "UNCLASSIFIED",
+      "producer": "; modified using iText 5.0.4 (c) 1T3XT BVBA",
+      "ab": "An analysis is performed of the seismic discrimination capabilities of regional phases recorded at the station WMQ in the Chinese Digital Seismic Network (CDSN). This station is located at regional distances from both the Soviet test site in E. Kazakhstan and the seismically active Tien Shan area. The study is based on 3 spectral ratio discriminants: Pg/Lg spectral ratios, Pg and Lg frequency band ratios, and vertical/horizontal spectral ratios. Both short- period and broad-band data are used. The Pg/Lg ratio is an effective discriminant between 3 and 12 Hz, and the vertical/horizontal ratios perform similarly to it, although in the case of Lg more study is needed to explain the value of this ratio. The Pg and Lg frequency band ratios were ineffective discriminants. The study attempts to identify the effects of propagation path and event depth on the discriminants. It appears that the spectral ratio discriminant remains effective for 2 earthquakes observed along paths close to the path from the test site to W",
+      "rs": "GL",
+      "pag": "58",
+      "gc": "5110",
+      "cs": "ACTIVE",
+      "ic": "UNCLASSIFIED",
+      "id": "REGIONAL PHASES, SPECTRAL RATIOS, THREE COMPONENT DATA, PE62714E",
+      "org": "INDUSTRIAL/COMMERCIAL",
+      "upd": "02 DEC 2009",
+      "an": "ADA230048",
+      "title": "Spectral Discrimination between Explosions and Earthquakes in Central Eurasia",
+      "dlc": "DTIC AND NTIS",
+      "rc": "UNCLASSIFIED",
+      "ti": "Spectral Discrimination between Explosions and Earthquakes in Central Eurasia",
+      "rd": "AUG 1990",
+      "rcc": "UNCLASSIFIED",
+      "ca": "TELEDYNE GEOTECH ALEXANDRIA VA",
+      "tt": "ACTIVE",
+      "rn": "SCIENTIFIC-1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1980 Azores Islands earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1980\u003c/b\u003e Azores Islands \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1980_Azores_Islands_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Location of the epicenter of the 1980 Azores Earthquake ... Epicenter, 38??49???N   27??47???W\ufeff / \ufeff38.81??N 27.78??W\ufeff / 38.81; -27.78 ... between the European, Eurasian   and African plate boundaries, forming their own ... (2007), p.37-54; ^ a b Hirn, A.;   Haessler, H.; Trong, P. Hoang; Wittlinger, G.; Vcitor, L. A. Mendes (July 1980).",
+   "htmlSnippet": "Location of the epicenter of the \u003cb\u003e1980\u003c/b\u003e Azores \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Epicenter, 38??49???N \u003cbr\u003e  \u003cb\u003e27\u003c/b\u003e??47???W\ufeff / \ufeff38.81??N 27.78??W\ufeff / 38.81; -27.78 \u003cb\u003e...\u003c/b\u003e between the European, \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  and African plate boundaries, forming their own \u003cb\u003e...\u003c/b\u003e (2007), p.37-54; ^ a b Hirn, A.; \u003cbr\u003e  Haessler, H.; Trong, P. Hoang; Wittlinger, G.; Vcitor, L. A. Mendes (\u003cb\u003eJuly 1980\u003c/b\u003e).",
+   "cacheId": "ob7EfHHTCJAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1980_Azores_Islands_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1980\u003c/b\u003e_Azores_Islands_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Portugal_Azores_location_map.svg/240px-Portugal_Azores_location_map.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "116",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn_ao0c4b0nqoUXNsZEdDi9rVlc6lEw8wMBvB_66yO1Si2Pl-Q10vzgaY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismo-electromagnetic phenomena in the western part of the ...",
+   "htmlTitle": "Seismo-electromagnetic phenomena in the western part of the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nat-hazards-earth-syst-sci.net/11/241/2011/nhess-11-241-2011.pdf",
+   "displayLink": "www.nat-hazards-earth-syst-sci.net",
+   "snippet": "Jan 28, 2011 ... Eurasian, African and American plate boundaries (Fig. 1). ... Terceira Island, the   1980 and 1998 earthquakes took place in ..... July, 27, 2008.",
+   "htmlSnippet": "Jan 28, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e, African and American plate boundaries (Fig. 1). \u003cb\u003e...\u003c/b\u003e Terceira Island, the \u003cbr\u003e  \u003cb\u003e1980\u003c/b\u003e and 1998 \u003cb\u003eearthquakes\u003c/b\u003e took place in \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e, \u003cb\u003e27\u003c/b\u003e, 2008.",
+   "cacheId": "LBkNWZSYnMkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nat-hazards-earth-syst-sci.net/11/241/2011/nhess-11-241-2011.pdf",
+   "htmlFormattedUrl": "www.nat-hazards-earth-syst-sci.net/11/241/2011/nhess-11-241-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "copernicus.cls version 4.0",
+      "producer": "pdfeTeX-1.303",
+      "creationdate": "D:20110207143718+01'00'",
+      "fullbanner": "This is pdfeTeX, Version 3.141592--1.30.3--2.2 (Web2c 7.5.5) kpathsea version 3.5.5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Eruption of Mount St. Helens on July 22, 1980. About 90% ... More recently, an   8.8-magnitude earthquake struck central Chile on February 27, 2010 (2010 Chile ...",
+   "htmlSnippet": "Eruption of Mount St. Helens on \u003cb\u003eJuly\u003c/b\u003e 22, \u003cb\u003e1980\u003c/b\u003e. About 90% \u003cb\u003e...\u003c/b\u003e More recently, an \u003cbr\u003e  8.8-magnitude \u003cb\u003eearthquake\u003c/b\u003e struck central Chile on February \u003cb\u003e27\u003c/b\u003e, 2010 (2010 Chile \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tsTbckV5UlMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/350px-Plates_tect2_en.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNHFOl-Bk26-FaTF7pkl5JMdpOL7ZVVfIpGgqYQLH5fLGCa5kI2fQG4vBn"
+     }
+    ]
+   }
+  }
+ ]
+}

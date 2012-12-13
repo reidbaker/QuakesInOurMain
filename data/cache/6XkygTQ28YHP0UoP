@@ -1,0 +1,279 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 14 1968 Eurasia Earthquake",
+    "totalResults": "17800",
+    "searchTerms": "Oct 14 1968 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 14 1968 Eurasia Earthquake",
+    "totalResults": "17800",
+    "searchTerms": "Oct 14 1968 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.196376,
+  "formattedSearchTime": "0.20",
+  "totalResults": "17800",
+  "formattedTotalResults": "17,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Abstracts - CA Langston",
+   "htmlTitle": "Abstracts - CA Langston",
+   "link": "http://www.ceri.memphis.edu/people/clangstn/abstracts.html",
+   "displayLink": "www.ceri.memphis.edu",
+   "snippet": "Langston, C.A. A body wave inversion of the Koyna, India, earthquake of 10 ....   and aftershocks of the October 14, 1968 Meckering, Australia earthquake: depth   of .... Langston, C.A., Intraplate earthquakes in Eurasia (Invited Talk), 13th annual ...",
+   "htmlSnippet": "Langston, C.A. A body wave inversion of the Koyna, India, \u003cb\u003eearthquake\u003c/b\u003e of 10 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  and aftershocks of the \u003cb\u003eOctober 14\u003c/b\u003e, \u003cb\u003e1968\u003c/b\u003e Meckering, Australia \u003cb\u003eearthquake\u003c/b\u003e: depth \u003cbr\u003e  of \u003cb\u003e....\u003c/b\u003e Langston, C.A., Intraplate \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eEurasia\u003c/b\u003e (Invited Talk), 13th annual \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XgxRhSQV_R0J",
+   "formattedUrl": "www.ceri.memphis.edu/people/clangstn/abstracts.html",
+   "htmlFormattedUrl": "www.ceri.memphis.edu/people/clangstn/abstracts.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australia's worst earthquakes: top 10 most devastating - Australian ...",
+   "htmlTitle": "Australia&#39;s worst \u003cb\u003eearthquakes\u003c/b\u003e: top 10 most devastating - Australian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.australiangeographic.com.au/journal/australias-worst-earthquakes-top-10-most-devastating.htm",
+   "displayLink": "www.australiangeographic.com.au",
+   "snippet": "Jul 10, 2012 ... Australia has few big earthquakes, but some of them have caused great   devastation. ... with the Pacific plate in the east and the Eurasian plate to the   north. ... Meckering, Western Australia, 14 October 1968 (Magnitude 6.9) ...",
+   "htmlSnippet": "Jul 10, 2012 \u003cb\u003e...\u003c/b\u003e Australia has few big \u003cb\u003eearthquakes\u003c/b\u003e, but some of them have caused great \u003cbr\u003e  devastation. \u003cb\u003e...\u003c/b\u003e with the Pacific plate in the east and the \u003cb\u003eEurasian\u003c/b\u003e plate to the \u003cbr\u003e  north. \u003cb\u003e...\u003c/b\u003e Meckering, Western Australia, \u003cb\u003e14 October 1968\u003c/b\u003e (Magnitude 6.9) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EcyP2GgfKjMJ",
+   "formattedUrl": "www.australiangeographic.com.au/.../australias-worst-earthquakes-top-10- most-devastating.htm",
+   "htmlFormattedUrl": "www.australiangeographic.com.au/.../australias-worst-\u003cb\u003eearthquakes\u003c/b\u003e-top-10- most-devastating.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "209",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlg8_OIjgcNebdL7N4vyhhGcMAiqTyf4CIY1s3_LkTKzBtigNrzmiSn7lQ"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "distribution": "global",
+      "og:title": "Australia's worst earthquakes",
+      "og:description": "Australia has few big earthquakes, but some of them have caused great devastation. Here are the 10 most significant.",
+      "og:image": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 East Azerbaijan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2012 East Azerbaijan earthquakes occurred near the cities of Ahar and   Varzaqan in ... in the shallow crust about 300 km east of the Eurasia-Arabian   Plate boundary. ... On August 14, three days after the initial quakes, another 5.1   aftershock struck the same area at a depth of 10 km. ..... Haida Gwaii, Canada (  7.7, Oct 27) ...",
+   "htmlSnippet": "The 2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e occurred near the cities of Ahar and \u003cbr\u003e  Varzaqan in \u003cb\u003e...\u003c/b\u003e in the shallow crust about 300 km east of the \u003cb\u003eEurasia\u003c/b\u003e-Arabian \u003cbr\u003e  Plate boundary. \u003cb\u003e...\u003c/b\u003e On August \u003cb\u003e14\u003c/b\u003e, three days after the initial quakes, another 5.1 \u003cbr\u003e  aftershock struck the same area at a depth of 10 km. \u003cb\u003e.....\u003c/b\u003e Haida Gwaii, Canada (\u003cbr\u003e  7.7, \u003cb\u003eOct\u003c/b\u003e 27) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z3LJZUSFL8IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/250px-Iran_relief_location_map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlK7xfIu2EE120ax5sst5KSWyd5SxHE-3pbK-lYso7uZkfMn3WOONAqcQQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic hazard mapping in Australia, the Southwest Paci???c and ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e hazard mapping in Australia, the Southwest Paci???c and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.annalsofgeophysics.eu/index.php/annals/article/download/3776/3840",
+   "displayLink": "www.annalsofgeophysics.eu",
+   "snippet": "Key words earthquakes ~ Australia-Soullz Pac1???r:- ... ian, Philippine and   Eurasian plates (???g. 1). The .... quake on 14 October 1968 did engineers accept ...",
+   "htmlSnippet": "Key words \u003cb\u003eearthquakes\u003c/b\u003e ~ Australia-Soullz Pac1???r:- \u003cb\u003e...\u003c/b\u003e ian, Philippine and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plates (???g. 1). The \u003cb\u003e....\u003c/b\u003e \u003cb\u003equake\u003c/b\u003e on \u003cb\u003e14 October 1968\u003c/b\u003e did engineers accept \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jZwS_1Y08qcJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.annalsofgeophysics.eu/index.php/annals/article/download/.../3840",
+   "htmlFormattedUrl": "www.annalsofgeophysics.eu/index.php/annals/article/download/.../3840",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Mon Jul 24 18:08:35 2006",
+      "creationdate": "Mon Jul 24 18:08:24 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.ga.gov.au/image_cache/GA12968.pdf",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Damage sustained by the Workers Club following an earthquake in ... Western   Australia, October 1968 ... the Antarctic, Eurasian, Philippine and Pacific plates.",
+   "htmlSnippet": "Damage sustained by the Workers Club following an \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e Western \u003cbr\u003e  Australia, \u003cb\u003eOctober 1968\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e the Antarctic, \u003cb\u003eEurasian\u003c/b\u003e, Philippine and Pacific plates.",
+   "cacheId": "3oPLbaQJtt4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ga.gov.au/image_cache/GA12968.pdf",
+   "htmlFormattedUrl": "www.ga.gov.au/image_cache/GA12968.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20081008100406+11'00'",
+      "creationdate": "D:20081008100406+11'00'",
+      "title": "Natural Hazards in Australia Complete Doc.pdf",
+      "creator": "Adobe InDesign CS3 (5.0)",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "author": "U65459"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Eurasia spreading basin to Laptev Shelf transition: structural pattern ...",
+   "htmlTitle": "\u003cb\u003eEurasia\u003c/b\u003e spreading basin to Laptev Shelf transition: structural pattern \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.geo.uni-bremen.de/sensorik/publikationen/Drachev_Kaul_GJI_152.pdf",
+   "displayLink": "www.geo.uni-bremen.de",
+   "snippet": "The high heat flow and the distribution of earthquake epicentres allow us ...   Siberian Islands at the eastern end of the Eurasia basin (Fig. 1), where ..... C14   dating performed by the Leibniz. Laboratory .... according to the approach of   Lachenbruch (1968). The overall ..... St Petersburg, Russia, October 12???14, 2000  . Program ...",
+   "htmlSnippet": "The high heat flow and the distribution of \u003cb\u003eearthquake\u003c/b\u003e epicentres allow us \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Siberian Islands at the eastern end of the \u003cb\u003eEurasia\u003c/b\u003e basin (Fig. 1), where \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eC14\u003c/b\u003e \u003cbr\u003e  dating performed by the Leibniz. Laboratory \u003cb\u003e....\u003c/b\u003e according to the approach of \u003cbr\u003e  Lachenbruch (\u003cb\u003e1968\u003c/b\u003e). The overall \u003cb\u003e.....\u003c/b\u003e St Petersburg, Russia, \u003cb\u003eOctober\u003c/b\u003e 12???\u003cb\u003e14\u003c/b\u003e, 2000\u003cbr\u003e  . Program \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CLETSNkWpSAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geo.uni-bremen.de/sensorik/.../Drachev_Kaul_GJI_152.pdf",
+   "htmlFormattedUrl": "www.geo.uni-bremen.de/sensorik/.../Drachev_Kaul_GJI_152.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030208100752",
+      "producer": "Acrobat Distiller 4.05 for Macintosh",
+      "author": "pinnacle",
+      "creator": "Textures??: PSPrinter 8.3.1",
+      "title": "gji1882.tex",
+      "moddate": "D:20020210045726+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHARACTERIZATION OF SEISMIC SOURCE AND PATH IN ...",
+   "htmlTitle": "CHARACTERIZATION OF \u003cb\u003eSEISMIC\u003c/b\u003e SOURCE AND PATH IN \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA305476",
+   "displayLink": "www.dtic.mil",
+   "snippet": "Characterization of Seismic Source and Path in Central. Eurasia Using Digital   Seismograms from Borovoye. Observatory, Northern Kazakhstan. 6. AUTHOR(S) ...",
+   "htmlSnippet": "Characterization of \u003cb\u003eSeismic\u003c/b\u003e Source and Path in Central. \u003cb\u003eEurasia\u003c/b\u003e Using Digital \u003cbr\u003e  Seismograms from Borovoye. Observatory, Northern Kazakhstan. 6. AUTHOR(S) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KOK0j1kpR-4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA305476",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA305476",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:191030116154542",
+      "title": "/tardir/mig/a305476.tiff",
+      "creator": "LuraDocument PDF Compressor Server 5.7.66.46 (original: tif_convert_2_ps())",
+      "producer": "Recoded by LuraDocument PDF v2.46",
+      "moddate": "D:20111001121727-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. ... which   includes the Dasht-e-Bayaz fault system that ruptured in 1968 and ..... 14.   REFERENCES. Newspapers With very few exceptions, references to ..... October   2002 ...",
+   "htmlSnippet": "of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. \u003cb\u003e...\u003c/b\u003e which \u003cbr\u003e  includes the Dasht-e-Bayaz fault system that ruptured in \u003cb\u003e1968\u003c/b\u003e and \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e14\u003c/b\u003e. \u003cbr\u003e  REFERENCES. Newspapers With very few exceptions, references to \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eOctober\u003c/b\u003e \u003cbr\u003e  2002 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SEISMICITY AND FOCAL MECHANISM OF EARTHQUAKES IN THE ...",
+   "htmlTitle": "SEISMICITY AND FOCAL MECHANISM OF \u003cb\u003eEARTHQUAKES\u003c/b\u003e IN THE \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.idosi.org/rjes/rjes2(1)10/2.pdf",
+   "displayLink": "www.idosi.org",
+   "snippet": "pre- historical seismicity data indicate that large destructive earthquakes ...   interaction of the African, Arabian and Eurasian plates and Sinai subplate, is the   main factor behind the .... [14] argue for a 105 Km left lateral movement .... On 12   October 1992, a damaging earthquake of .... Gergawi, A. and H.M. El Khashab,   1968.",
+   "htmlSnippet": "pre- historical seismicity data indicate that large destructive \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  interaction of the African, Arabian and \u003cb\u003eEurasian\u003c/b\u003e plates and Sinai subplate, is the \u003cbr\u003e  main factor behind the \u003cb\u003e....\u003c/b\u003e [\u003cb\u003e14\u003c/b\u003e] argue for a 105 Km left lateral movement \u003cb\u003e....\u003c/b\u003e On 12 \u003cbr\u003e  \u003cb\u003eOctober\u003c/b\u003e 1992, a damaging \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e....\u003c/b\u003e Gergawi, A. and H.M. El Khashab, \u003cbr\u003e  \u003cb\u003e1968\u003c/b\u003e.",
+   "cacheId": "9ScTKeTzkKkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.idosi.org/rjes/rjes2(1)10/2.pdf",
+   "htmlFormattedUrl": "www.idosi.org/rjes/rjes2(1)10/2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "WordPerfect - [h:\\...\\4310a-~1.doc - unmodified]",
+      "creationdate": "D:20100306151903",
+      "title": "SEISMICITY AND FOCAL MECHANISM OF EARTHQUAKES IN THE NORTHEASTERN P",
+      "author": "Administrator",
+      "producer": "Acrobat PDFWriter 4.05 for Windows NT"
+     }
+    ]
+   }
+  }
+ ]
+}

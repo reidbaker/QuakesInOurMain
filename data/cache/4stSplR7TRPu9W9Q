@@ -1,0 +1,269 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 25 1981 Eurasia Earthquake",
+    "totalResults": "20700",
+    "searchTerms": "Apr 25 1981 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 25 1981 Eurasia Earthquake",
+    "totalResults": "20700",
+    "searchTerms": "Apr 25 1981 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.335132,
+  "formattedSearchTime": "0.34",
+  "totalResults": "20700",
+  "formattedTotalResults": "20,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Tomography of the Arabian-Eurasian Collision Zone and ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Tomography of the Arabian-\u003cb\u003eEurasian\u003c/b\u003e Collision Zone and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "displayLink": "www.dtic.mil",
+   "snippet": "Eurasia (Bird, 1978; ??eng??r and Y??lmaz, 1981; Jackson and McKenzie, 1984;   Dewey et al.,. 1986). Pre- ..... catalogue includes 25,471 earthquakes between   Feb, 2006 and Apr, 2009. More than ... locations and the 3D relocations is 25 km.",
+   "htmlSnippet": "\u003cb\u003eEurasia\u003c/b\u003e (Bird, 1978; ??eng??r and Y??lmaz, \u003cb\u003e1981\u003c/b\u003e; Jackson and McKenzie, 1984; \u003cbr\u003e  Dewey et al.,. 1986). Pre- \u003cb\u003e.....\u003c/b\u003e catalogue includes 25,471 \u003cb\u003eearthquakes\u003c/b\u003e between \u003cbr\u003e  Feb, 2006 and \u003cb\u003eApr\u003c/b\u003e, 2009. More than \u003cb\u003e...\u003c/b\u003e locations and the 3D relocations is \u003cb\u003e25\u003c/b\u003e km.",
+   "cacheId": "SncVpbfhL5gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ford",
+      "creationdate": "D:20100602103736-04'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20100721112503-04'00'",
+      "producer": "Acrobat Distiller 9.3.2 (Windows)",
+      "title": "Microsoft Word - 07C0001_final_b.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Great Hanshin earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Great Hanshin \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Great_Hanshin_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Damage from the Great Hanshin Earthquake is kept intact at the Earthquake ... in   Japan was fully mechanized (from April 1996) and JMA seismic intensity Levels 5   and 6 ... High rise buildings that were built after the modern 1981 building code   .... accommodated east-west shortening of the Eurasian plate due to its collision ...",
+   "htmlSnippet": "Damage from the Great Hanshin \u003cb\u003eEarthquake\u003c/b\u003e is kept intact at the \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e in \u003cbr\u003e  Japan was fully mechanized (from \u003cb\u003eApril\u003c/b\u003e 1996) and JMA \u003cb\u003eseismic\u003c/b\u003e intensity Levels 5 \u003cbr\u003e  and 6 \u003cb\u003e...\u003c/b\u003e High rise buildings that were built after the modern \u003cb\u003e1981\u003c/b\u003e building code \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e accommodated east-west shortening of the \u003cb\u003eEurasian\u003c/b\u003e plate due to its collision \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3EKWfUsUJqAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Great_Hanshin_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Great_Hanshin_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Port_of_Kobe_Earthquake_Memorial_Park2.jpg/240px-Port_of_Kobe_Earthquake_Memorial_Park2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "144",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoouJX2Tqx20tzJP1PhwXTW-ugG69h-tHreKmWr6SSZeyieHuIsSak14Bh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NOTES AND CORRESPONDENCE The 15 April 1909 Taipei ...",
+   "htmlTitle": "NOTES AND CORRESPONDENCE The 15 \u003cb\u003eApril\u003c/b\u003e 1909 Taipei \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.earth.sinica.edu.tw/papers/1490.pdf",
+   "displayLink": "www.earth.sinica.edu.tw",
+   "snippet": "the earthquakes determined by others will also be described. Key words: ...   tween the Philippine Sea plate and the Eurasian plate (Tsai et al. .... 25??N, 121.5??  S h = 80 km. 7.3 .... and Duda (1979), and Abe (1981) in their respective earth-   quake ...",
+   "htmlSnippet": "the \u003cb\u003eearthquakes\u003c/b\u003e determined by others will also be described. Key words: \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  tween the Philippine Sea plate and the \u003cb\u003eEurasian\u003c/b\u003e plate (Tsai et al. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e25\u003c/b\u003e??N, 121.5??\u003cbr\u003e  S h = 80 km. 7.3 \u003cb\u003e....\u003c/b\u003e and Duda (1979), and Abe (\u003cb\u003e1981\u003c/b\u003e) in their respective earth- \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fYZQbaqKD6kJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.sinica.edu.tw/papers/1490.pdf",
+   "htmlFormattedUrl": "www.earth.sinica.edu.tw/papers/1490.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110125111224+08'00'",
+      "creator": "Adobe InDesign CS3 (5.0.4)",
+      "producer": "Adobe PDF Library 8.0",
+      "moddate": "D:20110125111225+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 1983 Akita-Oki Earthquake (Mw =7.8)",
+   "htmlTitle": "The 1983 Akita-Oki \u003cb\u003eEarthquake\u003c/b\u003e (Mw =7.8)",
+   "link": "http://www.gps.caltech.edu/uploads/File/People/kanamori/HKepr85.pdf",
+   "displayLink": "www.gps.caltech.edu",
+   "snippet": "The source parameters of the May 26, 1983, earthquake off the coast of Akita ... V   between the North American and Eurasia plates is 1.1 cm/year along the Japan   Sea .... (1981). Since the first-motion data reported by SHIMAZAKI and MORI (  1983), ... (1983) indicate a dip angle ranging from 25?? to 34??, we constrained the   dip ...",
+   "htmlSnippet": "The source parameters of the May 26, 1983, \u003cb\u003eearthquake\u003c/b\u003e off the coast of Akita \u003cb\u003e...\u003c/b\u003e V \u003cbr\u003e  between the North American and \u003cb\u003eEurasia\u003c/b\u003e plates is 1.1 cm/year along the Japan \u003cbr\u003e  Sea \u003cb\u003e....\u003c/b\u003e (\u003cb\u003e1981\u003c/b\u003e). Since the first-motion data reported by SHIMAZAKI and MORI (\u003cbr\u003e  1983), \u003cb\u003e...\u003c/b\u003e (1983) indicate a dip angle ranging from \u003cb\u003e25\u003c/b\u003e?? to 34??, we constrained the \u003cbr\u003e  dip \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QQpGdTdgs48J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.gps.caltech.edu/uploads/File/People/kanamori/HKepr85.pdf",
+   "htmlFormattedUrl": "www.gps.caltech.edu/uploads/File/People/kanamori/HKepr85.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "sspdflib 1.0 http://www.scansoft.com",
+      "creator": "PaperPort http://www.scansoft.com",
+      "author": "CLS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Multi-channel seismic reflection measurements in the Eurasian ...",
+   "htmlTitle": "Multi-channel \u003cb\u003eseismic\u003c/b\u003e reflection measurements in the \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.sciencedirect.com/science/article/pii/0040195185900083",
+   "displayLink": "www.sciencedirect.com",
+   "snippet": "We present the first multi-channel seismic reflection data ever collected from the   ... station FRAM-IV and operated for 34 days about 370 km north of Svalbard in   April???May 1982. .... of a deep ocean environment (Hamilton, 1979; Houtz, 1981)   due to 106 the large water ..... Paper E/2 presented at ONS Conf., Stavanger, 25   pp.",
+   "htmlSnippet": "We present the first multi-channel \u003cb\u003eseismic\u003c/b\u003e reflection data ever collected from the \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e station FRAM-IV and operated for 34 days about 370 km north of Svalbard in \u003cbr\u003e  \u003cb\u003eApril\u003c/b\u003e???May 1982. \u003cb\u003e....\u003c/b\u003e of a deep ocean environment (Hamilton, 1979; Houtz, \u003cb\u003e1981\u003c/b\u003e) \u003cbr\u003e  due to 106 the large water \u003cb\u003e.....\u003c/b\u003e Paper E/2 presented at ONS Conf., Stavanger, \u003cb\u003e25\u003c/b\u003e \u003cbr\u003e  pp.",
+   "formattedUrl": "www.sciencedirect.com/science/article/pii/0040195185900083",
+   "htmlFormattedUrl": "www.sciencedirect.com/science/article/pii/0040195185900083",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_publisher": "Elsevier",
+      "citation_journal_title": "Tectonophysics",
+      "citation_issn": "0040-1951",
+      "citation_volume": "114",
+      "citation_issue": "1",
+      "citation_date": "1985/04/20",
+      "citation_title": "Multi-channel seismic reflection measurements in the Eurasian Basin, Arctic Ocean, from U.S. ice station Fram-IV",
+      "citation_firstpage": "103",
+      "citation_lastpage": "115",
+      "citation_type": "JOUR",
+      "citation_pii": "0040195185900083",
+      "citation_doi": "10.1016/0040-1951(85)90008-3",
+      "citation_authors": "Kristoffersen, Yngve;Husebye, Eystein S."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 2. Earthquake Damage Scenario",
+   "htmlTitle": "Chapter 2. \u003cb\u003eEarthquake\u003c/b\u003e Damage Scenario",
+   "link": "http://www.ndrrmc.gov.ph/attachments/020_E_SUMMARY_02.PDF",
+   "displayLink": "www.ndrrmc.gov.ph",
+   "snippet": "Many earthquake generators are distributed all over the country as shown in   Figure 2.1.1 ... The Eurasian Plate (or South China Plate) subducts eastward   beneath Luzon Island along the .... 90. 0 1970.04.12 7.0. 6 East Luzon Trough.   Subduction. R. 8.0. 275. 71. 25. 0. 7. 6.8 ...... 1961-1970 1971-1980 1981-1990   1991-2000 ...",
+   "htmlSnippet": "Many \u003cb\u003eearthquake\u003c/b\u003e generators are distributed all over the country as shown in \u003cbr\u003e  Figure 2.1.1 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eEurasian\u003c/b\u003e Plate (or South China Plate) subducts eastward \u003cbr\u003e  beneath Luzon Island along the \u003cb\u003e....\u003c/b\u003e 90. 0 1970.04.12 7.0. 6 East Luzon Trough. \u003cbr\u003e  Subduction. R. 8.0. 275. 71. \u003cb\u003e25\u003c/b\u003e. 0. 7. 6.8 \u003cb\u003e......\u003c/b\u003e 1961-1970 1971-1980 \u003cb\u003e1981\u003c/b\u003e-1990 \u003cbr\u003e  1991-2000 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ogFLNz3NQE0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ndrrmc.gov.ph/attachments/020_E_SUMMARY_02.PDF",
+   "htmlFormattedUrl": "www.ndrrmc.gov.ph/attachments/020_E_SUMMARY_02.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "CovTOC_summary - Microsoft Word",
+      "creationdate": "D:20040614135911Z",
+      "title": "CovTOC_summary.doc",
+      "author": "Owner01",
+      "producer": "Acrobat PDFWriter 5.0 Windows NT",
+      "moddate": "D:20040623101423+09'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Himalayan Frontal Thrust of India is not blind",
+   "htmlTitle": "The Himalayan Frontal Thrust of India is not blind",
+   "link": "http://cires.colorado.edu/~bilham/HimalayanEarthquakes/Himalayan_thrust.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "We report evidence of surface rupturing earthquakes at Chandigarh, Kala ... The   ongoing collision of India into Eurasia has resulted in three major earthquakes ...   (Seeber and Armbruster, 1981), it has generally been assumed on the basis of ....   The Pinjore surface (Qt3) sits approximately 25 m above the river grade and is ...",
+   "htmlSnippet": "We report evidence of surface rupturing \u003cb\u003eearthquakes\u003c/b\u003e at Chandigarh, Kala \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  ongoing collision of India into \u003cb\u003eEurasia\u003c/b\u003e has resulted in three major \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  (Seeber and Armbruster, \u003cb\u003e1981\u003c/b\u003e), it has generally been assumed on the basis of \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The Pinjore surface (Qt3) sits approximately \u003cb\u003e25\u003c/b\u003e m above the river grade and is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gwopp5zmbEMJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/HimalayanEarthquakes/Himalayan_thrust.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Himalayan\u003cb\u003eEarthquakes\u003c/b\u003e/Himalayan_thrust.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20040706112931-07'00'",
+      "creationdate": "D:20040630201106-04'00'",
+      "title": "Microsoft Word - 148206_0_art_file_1_1088640500.doc",
+      "creator": "Acrobat PDFMaker 6.0 for Word",
+      "producer": "Acrobat Distiller 6.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates ... 1916, 25, 1946, 35, 1976, 25 ... 1921, 11, 1951, 21, 1981, 14 ...   The 2 April 1990 Bishop's Castle earthquake in the Welsh Borders, with a   magnitude ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates \u003cb\u003e...\u003c/b\u003e 1916, \u003cb\u003e25\u003c/b\u003e, 1946, 35, 1976, \u003cb\u003e25\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 1921, 11, 1951, 21, \u003cb\u003e1981\u003c/b\u003e, 14 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The 2 \u003cb\u003eApril\u003c/b\u003e 1990 Bishop&#39;s Castle \u003cb\u003eearthquake\u003c/b\u003e in the Welsh Borders, with a \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1981 Jun 11, Earthquake in southeast Iran killed at least 1,500 people. .... 1992   Apr 25, An earthquake measuring 7.1 on the Richter scale shook northern   California. ..... south of the boundary between the Indo-Australian and Eurasian   Plates.",
+   "htmlSnippet": "\u003cb\u003e1981\u003c/b\u003e Jun 11, \u003cb\u003eEarthquake\u003c/b\u003e in southeast Iran killed at least 1,500 people. \u003cb\u003e....\u003c/b\u003e 1992 \u003cbr\u003e  \u003cb\u003eApr 25\u003c/b\u003e, An \u003cb\u003eearthquake\u003c/b\u003e measuring 7.1 on the Richter scale shook northern \u003cbr\u003e  California. \u003cb\u003e.....\u003c/b\u003e south of the boundary between the Indo-Australian and \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  Plates.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 18 1976 Eurasia Earthquake",
+    "totalResults": "17700",
+    "searchTerms": "Jan 18 1976 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 18 1976 Eurasia Earthquake",
+    "totalResults": "17700",
+    "searchTerms": "Jan 18 1976 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.23649,
+  "formattedSearchTime": "0.24",
+  "totalResults": "17700",
+  "formattedTotalResults": "17,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the M 9.0 massive Tohoku, Sendai, Japan ...",
+   "htmlTitle": "Understanding the M 9.0 massive Tohoku, Sendai, Japan \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/03/18/understanding-the-m-9-0-massive-tohoku-sendai-japan-earthquake-and-tsunami/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: March 18, 2011 at 12:24 am by By Armand Vervaeck and James   Daniell. The magnitude 9.0 Tohoku earthquake on March 11, 2011, which ...",
+   "htmlSnippet": "Last update: March \u003cb\u003e18\u003c/b\u003e, 2011 at 12:24 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell. The magnitude 9.0 Tohoku \u003cb\u003eearthquake\u003c/b\u003e on March 11, 2011, which \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Tplkh4qcUSQJ",
+   "formattedUrl": "earthquake-report.com/.../18/understanding-the-m-9-0-massive-tohoku- sendai-japan-earthquake-and-tsunami/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e18\u003c/b\u003e/understanding-the-m-9-0-massive-tohoku- sendai-japan-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/c0001xgp/download/intensity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "243",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXWCqPl96ZTVvHm0RV-CGIcezhrz6dl7_ycaDASHXh1OS906dV7j5ZLDXh"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "polat",
+      "nickname": "polat"
+     },
+     {
+      "fn": "bryce",
+      "nickname": "bryce",
+      "url": "http://google/",
+      "url_text": "bryce"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Arctic Earthquakes G.P. Avetisov.",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Arctic \u003cb\u003eEarthquakes\u003c/b\u003e G.P. Avetisov.",
+   "link": "http://www.ngdc.noaa.gov/mgg/avetisov/CONCL.htm",
+   "displayLink": "www.ngdc.noaa.gov",
+   "snippet": "Apr 28, 2008 ... the formation of a single boundary of the Eurasian and North American ... Two felt   earthquakes dated January 18, 1976 and July 17, 1977 are ...",
+   "htmlSnippet": "Apr 28, 2008 \u003cb\u003e...\u003c/b\u003e the formation of a single boundary of the \u003cb\u003eEurasian\u003c/b\u003e and North American \u003cb\u003e...\u003c/b\u003e Two felt \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e dated \u003cb\u003eJanuary 18, 1976\u003c/b\u003e and July 17, 1977 are \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JpHruqnQ1k0J",
+   "formattedUrl": "www.ngdc.noaa.gov/mgg/avetisov/CONCL.htm",
+   "htmlFormattedUrl": "www.ngdc.noaa.gov/mgg/avetisov/CONCL.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "operator": "carla.j.moore",
+      "questions": "mgg.info",
+      "return": "mgg",
+      "dc.title": "NOAA/NESDIS/NGDC/MGG-Conclusion: Seismically Active Zones of the Arctic",
+      "dc.description": "This publication is offered by the World Data Center for Marine Geology and Geophysics, Boulder with the permission of the author, G.P. Avetisov and the RF Committee for Geology and Natural Resources Management, National Research Institute of Geology and Mineral Resources of the World Oceans.  It is a translation and update of a work previously published only in Russian - VNIIOkeanogeologia 1996.",
+      "dc.creator": "G.P.Avetisov",
+      "dc.date.created": "1996-01-01",
+      "dc.date.reviewed": "2008-04-28",
+      "dc.language": "en",
+      "dc.publisher": "U.S. Department of Commerce",
+      "dc.subject": "Geoscientific Information"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the 7.2 magnitude earthquake in East Turkey ...",
+   "htmlTitle": "Understanding the 7.2 magnitude \u003cb\u003eearthquake\u003c/b\u003e in East Turkey \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/24/understanding-the-7-2-magnitude-earthquake-in-east-turkey-october-23-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 3, 2011 ... Earthquake information : A very strong damaging earthquake occurred in the Van   province in eastern Turkey. The earthquake was felt in all the ...",
+   "htmlSnippet": "Nov 3, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e information : A very strong damaging \u003cb\u003eearthquake\u003c/b\u003e occurred in the Van \u003cbr\u003e  province in eastern Turkey. The \u003cb\u003eearthquake\u003c/b\u003e was felt in all the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OOncbECc9g0J",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-7-2-magnitude-earthquake-in- east-turkey-october-23-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-7-2-magnitude-\u003cb\u003eearthquake\u003c/b\u003e-in- east-turkey-october-23-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/turkey-23102011-5.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "199",
+      "height": "253",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStchkZVG4Mw7K2WdXEe_hfi_gjwXdybHJaST6ipZ4hpsRuiWSsfBjh8mvi"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Jennifer",
+      "nickname": "Jennifer",
+      "url": "http://jordanjansen.com/",
+      "url_text": "Jennifer"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes in china, including the tangshan earthquake",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e in china, including the tangshan \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://factsanddetails.com/china.php?itemid=396",
+   "displayLink": "factsanddetails.com",
+   "snippet": "Tangshan Earthquake in 1976 On average, China experiences 18 earthquake ...   the older heavier Indian crust wedges under Eurasia and thrust up the high ...   Historic Earthquakes Pacific Earthquake Engineering Researc Center, Jan Kozak ...",
+   "htmlSnippet": "Tangshan \u003cb\u003eEarthquake\u003c/b\u003e in \u003cb\u003e1976\u003c/b\u003e On average, China experiences \u003cb\u003e18 earthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  the older heavier Indian crust wedges under \u003cb\u003eEurasia\u003c/b\u003e and thrust up the high \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Historic \u003cb\u003eEarthquakes\u003c/b\u003e Pacific \u003cb\u003eEarthquake\u003c/b\u003e Engineering Researc Center, \u003cb\u003eJan\u003c/b\u003e Kozak \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qsHmUIfuvOkJ",
+   "formattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "htmlFormattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20080317-tanshan1976%2032.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScOoH604SVx1lIDpfHg0Q0qhqY8sAjC9a4IM7umgB4cMHH8cygGk30fo9o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the Pakistan January 19 Magnitude 7.2 earthquake",
+   "htmlTitle": "Understanding the Pakistan \u003cb\u003eJanuary\u003c/b\u003e 19 Magnitude 7.2 \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/01/26/understanding-the-pakistan-january-19-magnitude-7-2-earthquake/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: January 28, 2011 at 10:35 am by By Armand Vervaeck and James   Daniell ... at the epicenter of the January 18, 2011 earthquake was about one-  fourth as violent ... Arabian-plate lithosphere is subducted beneath the Eurasia   plate at the Makran ... EARTHQUAKE related news ??? To remember : South-Africa   1976 ...",
+   "htmlSnippet": "Last update: \u003cb\u003eJanuary\u003c/b\u003e 28, 2011 at 10:35 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e...\u003c/b\u003e at the epicenter of the \u003cb\u003eJanuary 18\u003c/b\u003e, 2011 \u003cb\u003eearthquake\u003c/b\u003e was about one-\u003cbr\u003e  fourth as violent \u003cb\u003e...\u003c/b\u003e Arabian-plate lithosphere is subducted beneath the \u003cb\u003eEurasia\u003c/b\u003e \u003cbr\u003e  plate at the Makran \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South-Africa \u003cbr\u003e  \u003cb\u003e1976\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_KyIrMsRrskJ",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-pakistan-january-19-magnitude- 7-2-earthquake/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-pakistan-\u003cb\u003ejanuary\u003c/b\u003e-19-magnitude- 7-2-\u003cb\u003eearthquake\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/01/pakistan-january19.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "209",
+      "height": "242",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSy_jZsuBG6AEvnk21jJnUrOpsAHEHuXP7AdwMjiPfYga-se1vYxpPpft0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Moderate earthquake near Tangshan, China reminds the 1976 ...",
+   "htmlTitle": "Moderate \u003cb\u003eearthquake\u003c/b\u003e near Tangshan, China reminds the \u003cb\u003e1976\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/28/moderate-earthquake-near-tangshan-china-reminds-the-1976-disaster-also-felt-in-beijing-today/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 31, 2012 ... The earthquake hit in the early morning, at 03:42:53.8 local time (1976 July 27 19  :42:53.8 UTC), and lasted 23 seconds. Chinese government ...",
+   "htmlSnippet": "May 31, 2012 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e hit in the early morning, at 03:42:53.8 local time (\u003cb\u003e1976\u003c/b\u003e July 27 19\u003cbr\u003e  :42:53.8 UTC), and lasted 23 seconds. Chinese government \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P7WIm5zAJ-EJ",
+   "formattedUrl": "earthquake-report.com/.../moderate-earthquake-near-tangshan-china-reminds -the-1976-disaster-also-felt-in-beijing-today/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../moderate-\u003cb\u003eearthquake\u003c/b\u003e-near-tangshan-china-reminds -the-\u003cb\u003e1976\u003c/b\u003e-disaster-also-felt-in-beijing-today/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/cn-28052012-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "198",
+      "height": "255",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudtnFaHh2iFzDoAMutICniQYadV1TH-iL-XbqKxM-qFwzRU6pe1aQEYvA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Arctic Earthquakes G.P. Avetisov.",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Arctic \u003cb\u003eEarthquakes\u003c/b\u003e G.P. Avetisov.",
+   "link": "http://www.ngdc.noaa.gov/mgg/avetisov/CHAP1.htm",
+   "displayLink": "www.ngdc.noaa.gov",
+   "snippet": "Apr 28, 2008 ... 1 Development of the seismic stations network in the Arctic ... Station was opened   in 1977 near the felt earthquake dated January 18, 1976. ..... presenting tectono-  seismic zoning of the Eurasian subbasin off the Arctic ocean ...",
+   "htmlSnippet": "Apr 28, 2008 \u003cb\u003e...\u003c/b\u003e 1 Development of the \u003cb\u003eseismic\u003c/b\u003e stations network in the Arctic \u003cb\u003e...\u003c/b\u003e Station was opened \u003cbr\u003e  in 1977 near the felt \u003cb\u003eearthquake\u003c/b\u003e dated \u003cb\u003eJanuary 18, 1976\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e presenting tectono-\u003cbr\u003e  \u003cb\u003eseismic\u003c/b\u003e zoning of the \u003cb\u003eEurasian\u003c/b\u003e subbasin off the Arctic ocean \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QezSwmh5kNAJ",
+   "formattedUrl": "www.ngdc.noaa.gov/mgg/avetisov/CHAP1.htm",
+   "htmlFormattedUrl": "www.ngdc.noaa.gov/mgg/avetisov/CHAP1.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ngdc.noaa.gov/mgg/avetisov/images/icon01.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "204",
+      "height": "200",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQK2dHNgsf5ORDlNL0_g26QWijKEWJv_DyU2gachfqAd4vI9lKJV23oTY6m"
+     }
+    ],
+    "metatags": [
+     {
+      "operator": "carla.j.moore",
+      "questions": "mgg.info",
+      "return": "mgg",
+      "dc.title": "NOAA/NESDIS/NGDC/MGG- Chapter 1: Seismically Active Zones of the Arctic",
+      "dc.description": "This publication is offered by the World Data Center for Marine Geology and Geophysics, Boulder with the permission of the author, G.P. Avetisov and the RF Committee for Geology and Natural Resources Management, National Research Institute of Geology and Mineral Resources of the World Oceans.  It is a translation and update of a work previously published only in Russian - VNIIOkeanogeologia 1996.",
+      "dc.creator": "G.P.Avetisov",
+      "dc.date.created": "1996-01-01",
+      "dc.date.reviewed": "2008-04-28",
+      "dc.language": "en",
+      "dc.publisher": "U.S. Department of Commerce",
+      "dc.subject": "Geoscientific Information"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of earthquakes in Turkey, including any notable historical ... Turkey is   a seismically active area within the complex zone of collision between the   Eurasian Plate and both the African and Arabian Plates. .... August 13, 1951, 18:  36, Kur??unlu ... see 1976 ??ald??ran-Muradiye earthquake, 39.12, 44.03, 3840, 7.5,   MS ...",
+   "htmlSnippet": "This is a list of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey, including any notable historical \u003cb\u003e...\u003c/b\u003e Turkey is \u003cbr\u003e  a seismically active area within the complex zone of collision between the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e Plate and both the African and Arabian Plates. \u003cb\u003e....\u003c/b\u003e August 13, 1951, \u003cb\u003e18\u003c/b\u003e:\u003cbr\u003e  36, Kur??unlu \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1976\u003c/b\u003e ??ald??ran-Muradiye \u003cb\u003eearthquake\u003c/b\u003e, 39.12, 44.03, 3840, 7.5, \u003cbr\u003e  MS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "18 Seismicity and Earth's Interior",
+   "htmlTitle": "\u003cb\u003e18\u003c/b\u003e Seismicity and Earth&#39;s Interior",
+   "link": "http://www.earthds.info/pdfs/EDS_18.PDF",
+   "displayLink": "www.earthds.info",
+   "snippet": "Earthquakes are vibrations of Earth, caused by the rupture and sudden ..... (B)   Earthquake of January 1994, Northridge, California. .... Eurasian plate. Kobe.   Strike slip fault. FIGURE 18.10. The 1995 Kobe, Japan, ... Tangshan, China, 1976  .",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e are vibrations of Earth, caused by the rupture and sudden \u003cb\u003e.....\u003c/b\u003e (B) \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eJanuary\u003c/b\u003e 1994, Northridge, California. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e plate. Kobe. \u003cbr\u003e  Strike slip fault. FIGURE 18.10. The 1995 Kobe, Japan, \u003cb\u003e...\u003c/b\u003e Tangshan, China, \u003cb\u003e1976\u003c/b\u003e\u003cbr\u003e  .",
+   "cacheId": "kb42bUpnhD0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earthds.info/pdfs/EDS_18.PDF",
+   "htmlFormattedUrl": "www.earthds.info/pdfs/EDS_\u003cb\u003e18\u003c/b\u003e.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080821185230-06'00'",
+      "moddate": "D:20080821185230-06'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,289 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 12 1995 India Earthquake",
+    "totalResults": "334000",
+    "searchTerms": "Mar 12 1995 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 12 1995 India Earthquake",
+    "totalResults": "334000",
+    "searchTerms": "Mar 12 1995 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.229514,
+  "formattedSearchTime": "0.23",
+  "totalResults": "334000",
+  "formattedTotalResults": "334,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Earthquake Report, sign up for Facebook today. ..... Earthquake   in Iran : at least 6 people killed, 12 injured and 4 villages heavily ..... Earthquakes   to remember : India - November 27 1945 - Magnitude : 8.0 - +4000 people ....   Earthquakes to remember : Egypt - November 22 1995 - Magnitude : 7.2 - 8   people ...",
+   "htmlSnippet": "To connect with \u003cb\u003eEarthquake\u003c/b\u003e Report, sign up for Facebook today. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e \u003cbr\u003e  in Iran : at least 6 people killed, \u003cb\u003e12\u003c/b\u003e injured and 4 villages heavily \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e \u003cbr\u003e  to remember : \u003cb\u003eIndia\u003c/b\u003e - November 27 1945 - Magnitude : 8.0 - +4000 people \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e to remember : Egypt - November 22 \u003cb\u003e1995\u003c/b\u003e - Magnitude : 7.2 - 8 \u003cbr\u003e  people \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive 8.9 aftershock / earthquake along the Japanese coast",
+   "htmlTitle": "Massive 8.9 aftershock / \u003cb\u003eearthquake\u003c/b\u003e along the Japanese coast",
+   "link": "http://earthquake-report.com/2011/03/11/massive-earthquake-out-of-the-honshu-coast-japan/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 4, 2011 ... This is part 1 of our ongoing story on the March 9, M 7.3 earthquake who initiated   the massive M .... 17:15 JST 11 Mar 2011, 17:12 JST 11 Mar 2011, Ibaraki-ken   Oki, M6.4, 4 ... Kobe 1995 ??? $142 billion USD (in 2011 dollars) ..... M 5.3 2011/03/  09 13:57 Depth 23.2 km NICOBAR ISLANDS, INDIA REGION ...",
+   "htmlSnippet": "Apr 4, 2011 \u003cb\u003e...\u003c/b\u003e This is part 1 of our ongoing story on the March 9, M 7.3 \u003cb\u003eearthquake\u003c/b\u003e who initiated \u003cbr\u003e  the massive M \u003cb\u003e....\u003c/b\u003e 17:15 JST 11 \u003cb\u003eMar\u003c/b\u003e 2011, 17:\u003cb\u003e12\u003c/b\u003e JST 11 \u003cb\u003eMar\u003c/b\u003e 2011, Ibaraki-ken \u003cbr\u003e  Oki, M6.4, 4 \u003cb\u003e...\u003c/b\u003e Kobe \u003cb\u003e1995\u003c/b\u003e ??? $142 billion USD (in 2011 dollars) \u003cb\u003e.....\u003c/b\u003e M 5.3 2011/03/\u003cbr\u003e  09 13:57 Depth 23.2 km NICOBAR ISLANDS, \u003cb\u003eINDIA\u003c/b\u003e REGION \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-vLtJUBtx50J",
+   "formattedUrl": "earthquake-report.com/.../massive-earthquake-out-of-the-honshu-coast-japan/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-\u003cb\u003eearthquake\u003c/b\u003e-out-of-the-honshu-coast-japan/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/03/honshu-11-03-2011.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "309",
+      "height": "163",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvLKfPpZRnNdjBVQKCY2PHhJlsrYnVWqP865ULG6Ihk8a1RPsCkaL3-9Q"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "lorena",
+      "nickname": "lorena"
+     },
+     {
+      "fn": "Kristy Schwenk"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Kristy Schwenk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1995",
+   "htmlTitle": "\u003cb\u003e1995\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1995",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, ... 4.6,   MAHARASHTRA, INDIA, Dec 14 1995, 04:09:32, 18.131, 76.543, 199512140409   ..... 4.7, MAHARASHTRA, INDIA, Mar 12 1995, 08:22:56, 17.298 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, \u003cb\u003e...\u003c/b\u003e 4.6, \u003cbr\u003e  MAHARASHTRA, \u003cb\u003eINDIA\u003c/b\u003e, Dec 14 1995, 04:09:32, 18.131, 76.543, 199512140409 \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e 4.7, MAHARASHTRA, \u003cb\u003eINDIA\u003c/b\u003e, \u003cb\u003eMar 12 1995\u003c/b\u003e, 08:22:56, 17.298 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "p-QqmT7xyh0J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1995",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1995\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jamaica earthquake list",
+   "htmlTitle": "Jamaica \u003cb\u003eearthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 27, 2012 ... The list below shows the last earthquakes in Jamaica ... No listed earthquakes   means that there were NO earthquakes .... (Major) Earthquakes list December 12,   2012 - Moderate shallow earthquake in central Costa Rica ...",
+   "htmlSnippet": "Apr 27, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in Jamaica \u003cb\u003e...\u003c/b\u003e No listed \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  means that there were NO \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e (Major) \u003cb\u003eEarthquakes\u003c/b\u003e list December \u003cb\u003e12\u003c/b\u003e, \u003cbr\u003e  2012 - Moderate shallow \u003cb\u003eearthquake\u003c/b\u003e in central Costa Rica \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VNjkeO-jsS8J",
+   "formattedUrl": "earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/04/27/jamaica-\u003cb\u003eearthquake\u003c/b\u003e-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atm??sfera",
+   "htmlTitle": "Atm??sfera",
+   "link": "http://redalyc.uaemex.mx/pdf/565/56519101.pdf",
+   "displayLink": "redalyc.uaemex.mx",
+   "snippet": "Department of Earth Sciences, Indian Institute of Technology,. Roorkee 247 ....   On March 12, 1995; an earthquake of magnitude of 4.7 with an epicenter location ...",
+   "htmlSnippet": "Department of Earth Sciences, \u003cb\u003eIndian\u003c/b\u003e Institute of Technology,. Roorkee 247 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  On \u003cb\u003eMarch 12, 1995\u003c/b\u003e; an \u003cb\u003eearthquake\u003c/b\u003e of magnitude of 4.7 with an epicenter location \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "redalyc.uaemex.mx/pdf/565/56519101.pdf",
+   "htmlFormattedUrl": "redalyc.uaemex.mx/pdf/565/56519101.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20051213100641-06'00'",
+      "subject": "Effect of seismic activities on ion temperature in the F2 region of the ionosphere Atm??sfera Sharma, D. K.; Rai, Jagdish; Chand, R.; Israil, M.; Vol. 19, N??m. 001, enero, 2006, pp. 1-7, Universidad Nacional Aut??noma de M??xico, M??xico",
+      "author": "Sharma, D. K.; Rai, Jagdish; Chand, R.; Israil, M.",
+      "creator": "Adobe PageMaker 7.0",
+      "producer": "Acrobat Distiller 6.0.1 (Windows)",
+      "moddate": "D:20060403191015-05'00'",
+      "title": "Redalyc. Effect of seismic activities on ion temperature in the F2 region of the ionosphere. Atm??sfera"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Atm??sfera - Effect of seismic activities on ion temperature in the F2 ...",
+   "htmlTitle": "Atm??sfera - Effect of seismic activities on ion temperature in the F2 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-62362006000100001",
+   "displayLink": "www.scielo.org.mx",
+   "snippet": "Department of Earth Sciences, Indian Institute of Technology, .... On March 12,   1995; an earthquake of magnitude of 4.7 with an epicenter location (17.74??N and ...",
+   "htmlSnippet": "Department of Earth Sciences, \u003cb\u003eIndian\u003c/b\u003e Institute of Technology, \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eMarch 12,\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1995\u003c/b\u003e; an \u003cb\u003eearthquake\u003c/b\u003e of magnitude of 4.7 with an epicenter location (17.74??N and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-rArOuqd7vgJ",
+   "formattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187...",
+   "htmlFormattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0187...",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_journal_title": "Atm??sfera",
+      "citation_journal_title_abbrev": "Atm??sfera",
+      "citation_publisher": "Centro de Ciencias de la Atm??sfera, UNAM",
+      "citation_title": "Effect of seismic activities on ion temperature in the F2 region of the ionosphere",
+      "citation_date": "01/2006",
+      "citation_volume": "19",
+      "citation_issue": "1",
+      "citation_issn": "0187-6236",
+      "citation_abstract_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0187-62362006000100001&lng=es&nrm=iso&tlng=en",
+      "citation_fulltext_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0187-62362006000100001&lng=es&nrm=iso&tlng=en",
+      "citation_pdf_url": "http://www.scielo.org.mx/scielo.php?script=sci_pdf&pid=S0187-62362006000100001&lng=es&nrm=iso&tlng=en",
+      "citation_author": "SHARMA, D. K.",
+      "citation_firstpage": "1",
+      "citation_lastpage": "7"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan's 3/11/11 Mega 9.1 Earthquake: Another Illuminati Production ...",
+   "htmlTitle": "Japan&#39;s 3/11/11 Mega 9.1 \u003cb\u003eEarthquake\u003c/b\u003e: Another Illuminati Production \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://educate-yourself.org/cn/japanquakemanufactured12mar11.shtml",
+   "displayLink": "educate-yourself.org",
+   "snippet": "Mar 11, 2011 ... The evidence is mounting quickly that not only the mega-earthquke and ... Mega   9.1 Earthquake: Another Illuminati Production? (Mar. 12, 2011) .... between 1995   to 1997 in Iran, Afghanistan, Pakistan, western India, and the ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e The evidence is mounting quickly that not only the mega-\u003cb\u003eearthquke\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e Mega \u003cbr\u003e  9.1 \u003cb\u003eEarthquake\u003c/b\u003e: Another Illuminati Production? (\u003cb\u003eMar\u003c/b\u003e. \u003cb\u003e12\u003c/b\u003e, 2011) \u003cb\u003e....\u003c/b\u003e between \u003cb\u003e1995\u003c/b\u003e \u003cbr\u003e  to 1997 in Iran, Afghanistan, Pakistan, western \u003cb\u003eIndia\u003c/b\u003e, and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RPHUpfLBYzAJ",
+   "formattedUrl": "educate-yourself.org/cn/japanquakemanufactured12mar11.shtml",
+   "htmlFormattedUrl": "educate-yourself.org/cn/japan\u003cb\u003equake\u003c/b\u003emanufactured\u003cb\u003e12mar\u003c/b\u003e11.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "By Doreen Miller",
+      "classification": "national news, world news, science news"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Earthquake and Tsunami Update Saturday, March 12, 2011 ...",
+   "htmlTitle": "Japan \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami Update Saturday, March \u003cb\u003e12\u003c/b\u003e, 2011 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.coe-dmha.org/Research/ResearchInfoMgmt/Japan/Japan03122011.pdf",
+   "displayLink": "www.coe-dmha.org",
+   "snippet": "Mar 12, 2011 ... A powerful 8.9-magnitude earthquake hit Japan on Friday (March 11) at 1446   local ... Kobe in 1995 left some 6,400 dead. .... led by team leader Arjun Katoch (  India), is being sent to Japan to assist the GoJ with the ... evacuation of   thousands of residents on Saturday (Mar 12) from a 20-km area around the ...",
+   "htmlSnippet": "Mar 12, 2011 \u003cb\u003e...\u003c/b\u003e A powerful 8.9-magnitude \u003cb\u003eearthquake\u003c/b\u003e hit Japan on Friday (March 11) at 1446 \u003cbr\u003e  local \u003cb\u003e...\u003c/b\u003e Kobe in \u003cb\u003e1995\u003c/b\u003e left some 6,400 dead. \u003cb\u003e....\u003c/b\u003e led by team leader Arjun Katoch (\u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e), is being sent to Japan to assist the GoJ with the \u003cb\u003e...\u003c/b\u003e evacuation of \u003cbr\u003e  thousands of residents on Saturday (\u003cb\u003eMar 12\u003c/b\u003e) from a 20-km area around the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4X8LekP--R4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.coe-dmha.org/Research/ResearchInfoMgmt/.../Japan03122011.pdf",
+   "htmlFormattedUrl": "www.coe-dmha.org/Research/ResearchInfoMgmt/.../Japan03122011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Aoki, Alan  CTR",
+      "creator": "Microsoft?? Office Word 2007",
+      "creationdate": "D:20110312193928",
+      "moddate": "D:20110312193928",
+      "producer": "Microsoft?? Office Word 2007"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Popular Articles & Stories for March 12, 1995 - Los Angeles Times",
+   "htmlTitle": "Popular Articles &amp; Stories for \u003cb\u003eMarch 12, 1995\u003c/b\u003e - Los Angeles Times",
+   "link": "http://articles.latimes.com/1995/mar/12",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Mar 12, 1995 ... Popular articles, stories & photos for March 12, 1995 in the Los ... Simply   Alarming : In Sleepy Indian Wells, Jensens Are Keeping .... SANTA MONICA :   Steeple Chase Ends as Quake Repairs Begin KATHLEEN KELLEHER ...",
+   "htmlSnippet": "Mar 12, 1995 \u003cb\u003e...\u003c/b\u003e Popular articles, stories &amp; photos for March \u003cb\u003e12\u003c/b\u003e, \u003cb\u003e1995\u003c/b\u003e in the Los \u003cb\u003e...\u003c/b\u003e Simply \u003cbr\u003e  Alarming : In Sleepy \u003cb\u003eIndian\u003c/b\u003e Wells, Jensens Are Keeping \u003cb\u003e....\u003c/b\u003e SANTA MONICA : \u003cbr\u003e  Steeple Chase Ends as \u003cb\u003eQuake\u003c/b\u003e Repairs Begin KATHLEEN KELLEHER \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iy-3qNtiaooJ",
+   "formattedUrl": "articles.latimes.com/1995/mar/12",
+   "htmlFormattedUrl": "articles.latimes.com/\u003cb\u003e1995\u003c/b\u003e/\u003cb\u003emar\u003c/b\u003e/\u003cb\u003e12\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Curriculum Vitae Roger Bilham",
+   "htmlTitle": "Curriculum Vitae Roger Bilham",
+   "link": "http://cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "Roger Bilham: Publications on Indian Tectonics 1984- 2012 ... relation to the   rupture zones of contiguous great Himalayan earthquakes, Current Science, 69(2  ), 155-187, 1995. 12. ..... Khan, M. A. R. Bendick, I.M. Bhat, R. Bilham, D.M. Kakar.",
+   "htmlSnippet": "Roger Bilham: Publications on \u003cb\u003eIndian\u003c/b\u003e Tectonics 1984- 2012 \u003cb\u003e...\u003c/b\u003e relation to the \u003cbr\u003e  rupture zones of contiguous great Himalayan \u003cb\u003eearthquakes\u003c/b\u003e, Current Science, 69(2\u003cbr\u003e  ), 155-187, \u003cb\u003e1995\u003c/b\u003e. \u003cb\u003e12\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e Khan, \u003cb\u003eM. A. R.\u003c/b\u003e Bendick, I.M. Bhat, R. Bilham, D.M. Kakar.",
+   "cacheId": "zPj_TcY3wqsJ",
+   "formattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/\u003cb\u003eIndia\u003c/b\u003e%20publications.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Curriculum Vitae  Roger Bilham",
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 14"
+     }
+    ]
+   }
+  }
+ ]
+}

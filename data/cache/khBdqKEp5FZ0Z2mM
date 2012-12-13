@@ -1,0 +1,254 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Nov 21 1981 North America Earthquake",
+    "totalResults": "335000",
+    "searchTerms": "Nov 21 1981 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Nov 21 1981 North America Earthquake",
+    "totalResults": "335000",
+    "searchTerms": "Nov 21 1981 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.290921,
+  "formattedSearchTime": "0.29",
+  "totalResults": "335000",
+  "formattedTotalResults": "335,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Timpson, Texas earthquake updated to M4.8 (from M4.3) + I Felt It ...",
+   "htmlTitle": "Timpson, Texas \u003cb\u003eearthquake\u003c/b\u003e updated to M4.8 (from M4.3) + I Felt It \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/17/second-earthquake-in-7-days-near-timpson-texas-usa/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 19, 2012 ... USGS has updated the Magnitude of the earthquake from Mw4.3 to Mw4.8. ...   earthquakes were reported in Rusk in 1891, Center in 1981, and ..... Most of   North America east of the Rocky Mountains has infrequent earthquakes. .... list   November 10, 2012 - Moderate but extremely shallow earthquake near ...",
+   "htmlSnippet": "May 19, 2012 \u003cb\u003e...\u003c/b\u003e USGS has updated the Magnitude of the \u003cb\u003eearthquake\u003c/b\u003e from Mw4.3 to Mw4.8. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e were reported in Rusk in 1891, Center in \u003cb\u003e1981\u003c/b\u003e, and \u003cb\u003e.....\u003c/b\u003e Most of \u003cbr\u003e  \u003cb\u003eNorth America\u003c/b\u003e east of the Rocky Mountains has infrequent \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e list \u003cbr\u003e  \u003cb\u003eNovember\u003c/b\u003e 10, 2012 - Moderate but extremely shallow \u003cb\u003eearthquake\u003c/b\u003e near \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-kAlRDZm7XIJ",
+   "formattedUrl": "earthquake-report.com/.../second-earthquake-in-7-days-near-timpson-texas- usa/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../second-\u003cb\u003eearthquake\u003c/b\u003e-in-7-days-near-timpson-texas- usa/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/tx-17052012-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "257",
+      "height": "196",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRSpQxUoGlJFtWZV1Tyy_LCOn_KPmnfA69sFusbEEInH8X08hE9qA2gClU"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "John",
+      "nickname": "John"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Tom",
+      "nickname": "Tom"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on November 21 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eNovember 21\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/nov21.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "November 21, 1789 \"North Carolina ratifies constitution, becomes 12th US state\"   .... November 21, 1975 Linda McCartney drug charges in US are dropped ...   November 21, 1981 Number one hit on UK music charts - Queen & David ...   November 21, 2004 \"The island of Dominica is hit by the most destructive   earthquake in ...",
+   "htmlSnippet": "November 21, 1789 &quot;\u003cb\u003eNorth\u003c/b\u003e Carolina ratifies constitution, becomes 12th US state&quot; \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e November 21, 1975 Linda McCartney drug charges in \u003cb\u003eUS\u003c/b\u003e are dropped \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember 21, 1981\u003c/b\u003e Number one hit on UK music charts - Queen &amp; David \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  November 21, 2004 &quot;The island of Dominica is hit by the most destructive \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Bi4MuZDxN4oJ",
+   "formattedUrl": "www.datesinhistory.com/nov21.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003enov21\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "November 21 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eNovember 21\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/November_21",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "November 21 is the 325th day of the year (326th in leap years) in the ... 1789 ???   North Carolina ratifies the United States Constitution and is admitted as the ...   New York, 39-0, in the first ever professional American football night game. ...   2004 ??? The island of Dominica is hit by the most destructive earthquake in its   history.",
+   "htmlSnippet": "\u003cb\u003eNovember 21\u003c/b\u003e is the 325th day of the year (326th in leap years) in the \u003cb\u003e...\u003c/b\u003e 1789 ??? \u003cbr\u003e  \u003cb\u003eNorth\u003c/b\u003e Carolina ratifies the United States Constitution and is admitted as the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  New York, 39-0, in the first ever professional \u003cb\u003eAmerican\u003c/b\u003e football night game. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  2004 ??? The island of Dominica is hit by the most destructive \u003cb\u003eearthquake\u003c/b\u003e in its \u003cbr\u003e  history.",
+   "cacheId": "zlyKUatbGEMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/November_21",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eNovember\u003c/b\u003e_\u003cb\u003e21\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Mw = 6.3, November 21, 2004, Les Saintes earthquake ...",
+   "htmlTitle": "The Mw = 6.3, \u003cb\u003eNovember 21\u003c/b\u003e, 2004, Les Saintes \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.agu.org/journals/jb/jb1110/2011JB008310/body.shtml",
+   "displayLink": "www.agu.org",
+   "snippet": "[1] On November 21, 2004, a magnitude 6.3 earthquake occurred offshore, 10 km   south of ... of oblique convergence between the North American and Caribbean   plates. ... White dots: 1981???2006, shallow (\u003c30 km) seismicity from bulletins of ...",
+   "htmlSnippet": "[1] On \u003cb\u003eNovember 21\u003c/b\u003e, 2004, a magnitude 6.3 \u003cb\u003eearthquake\u003c/b\u003e occurred offshore, 10 km \u003cbr\u003e  south of \u003cb\u003e...\u003c/b\u003e of oblique convergence between the \u003cb\u003eNorth American\u003c/b\u003e and Caribbean \u003cbr\u003e  plates. \u003cb\u003e...\u003c/b\u003e White dots: \u003cb\u003e1981\u003c/b\u003e???2006, shallow (&lt;30 km) seismicity from bulletins of \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.agu.org/journals/jb/jb1110/2011JB008310/body.shtml",
+   "htmlFormattedUrl": "www.agu.org/journals/jb/jb1110/2011JB008310/body.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "The Mw = 6.3, November 21, 2004, Les Saintes earthquake (Guadeloupe): Tectonic setting, slip model and static stress changes",
+      "authors": "N. Feuillet, F. Beauducel, E. Jacques, P. Tapponnier, B. Delouis, S. Bazin, M. Vall??e, and G. C. P. King",
+      "first-author": "Feuillet, N.",
+      "journal": "Journal of Geophysical Research",
+      "doi": "10.1029/2011JB008310",
+      "paper-number": "2011JB008310",
+      "paper-type": "regular article",
+      "publisher": "American Geophysical Union",
+      "citation": "Feuillet, N., F. Beauducel, E. Jacques, P. Tapponnier, B. Delouis, S. Bazin, M. Vall??e, and G. C. P. King (2011), The Mw = 6.3, November 21, 2004, Les Saintes earthquake (Guadeloupe): Tectonic setting, slip model and static stress changes, J. Geophys. Res., 116, B10301, doi:10.1029/2011JB008310.",
+      "copyright": "Copyright 2011 by American Geophysical Union",
+      "index-terms": "7223 Seismology: Earthquake interaction, forecasting, and prediction (1217, 1242, 4315); 7230 Seismology: Seismicity and tectonics (1207, 1217, 1240, 1242); 8168 Tectonophysics: Stresses: general",
+      "published-online": "2011-October-4",
+      "abstract": "Seismotectonic and slip model of the 2004 M 6.3 Saintes (Guadeloupe) earthquake Aftershocks occurred in areas of static Coulomb stress increase The earthquake had an effect on Dominican geothermal areas On November 21, 2004, a magnitude 6.3 earthquake occurred offshore, 10 km south of Les Saintes archipelago in Guadeloupe (French West Indies). There were more than 30000 aftershocks recorded in the following two years, most of them at shallow depth near the islands of the archipelago. The main shock and its main aftershock of February 14, 2005 (Mw = 5.8) ruptured a NE-dipping normal fault (Roseau fault), mapped and identified as active from high-resolution bathymetric data a few years before. This fault belongs to an arc-parallel en echelon fault system that follows the inner edge of the northern part of the Lesser Antilles arc, accommodating the sinistral component of oblique convergence between the North American and Caribbean plates. The distribution of aftershocks and damage (destruction and landslides) ar",
+      "html-url": "http://www.agu.org/journals/jb/jb1110/2011JB008310/index.html",
+      "abstract-url": "http://www.agu.org/journals/jb/jb1110/2011JB008310/index.html",
+      "pdf-url": "http://www.agu.org/journals/jb/jb1110/2011JB008310/2011JB008310.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "November 21st All Events",
+   "htmlTitle": "\u003cb\u003eNovember 21st\u003c/b\u003e All Events",
+   "link": "http://november-21st.inhistorytoday.com/",
+   "displayLink": "november-21st.inhistorytoday.com",
+   "snippet": "November 21st, 2005 (November 21 2005), Death, Hugh Sidey, American ... The   island of Dominica is hit by the most destructive earthquake in its history. ... Event,   Iran-Contra Affair: National Security Council member Oliver North and ...   November 21st, 1981 (November 21 1981), Birth, Wesley Britt, American football   player ...",
+   "htmlSnippet": "November 21st, 2005 (November 21 2005), Death, Hugh Sidey, \u003cb\u003eAmerican\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  island of Dominica is hit by the most destructive \u003cb\u003eearthquake\u003c/b\u003e in its history. \u003cb\u003e...\u003c/b\u003e Event, \u003cbr\u003e  Iran-Contra Affair: National Security Council member Oliver \u003cb\u003eNorth\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eNovember 21st, 1981\u003c/b\u003e (\u003cb\u003eNovember 21 1981\u003c/b\u003e), Birth, Wesley Britt, \u003cb\u003eAmerican\u003c/b\u003e football \u003cbr\u003e  player \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bSMYcCoAxBwJ",
+   "formattedUrl": "november-21st.inhistorytoday.com/",
+   "htmlFormattedUrl": "\u003cb\u003enovember\u003c/b\u003e-21st.inhistorytoday.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Earthquake History USGS.",
+   "htmlTitle": "Colorado \u003cb\u003eEarthquake\u003c/b\u003e History USGS.",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "The earthquake of November 7, 1882, the first ever to cause damage at Denver,   .... in the north-central part of Colorado on November 1, 1981, at 8:03 p.m. MST.   ... A very minor earthquake, magnitude 2.5, occurred on September 21 at 3:21 ...   Policies and Notices ?? In partnership with nehrp ?? Take Pride in America ?? USA.  gov ...",
+   "htmlSnippet": "The \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eNovember\u003c/b\u003e 7, 1882, the first ever to cause damage at Denver, \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e in the \u003cb\u003enorth\u003c/b\u003e-central part of Colorado on \u003cb\u003eNovember\u003c/b\u003e 1, \u003cb\u003e1981\u003c/b\u003e, at 8:03 p.m. MST. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e A very minor \u003cb\u003eearthquake\u003c/b\u003e, magnitude 2.5, occurred on September \u003cb\u003e21\u003c/b\u003e at 3:\u003cb\u003e21\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Policies and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e &middot; USA.\u003cbr\u003e  gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "30ABL9k2McIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/colorado/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Significant Earthquakes on the Enriquillo Fault System, Hispaniola",
+   "htmlTitle": "Significant \u003cb\u003eEarthquakes\u003c/b\u003e on the Enriquillo Fault System, Hispaniola",
+   "link": "http://woodshole.er.usgs.gov/staffpages/utenbrink/my%20publications/Haiti_BSSA_in_press.pdf",
+   "displayLink": "woodshole.er.usgs.gov",
+   "snippet": "the Dominican Republic, followed by the November 21, 1751 MI6.6 ... collision of   the Bahamas carbonate platform, situated on the North America (NOAM) ....   Program, 2010b; Kelleher et al., 1973); MS8.0 (Abe, 1981); and MS7.8 (Pacheco   and ...",
+   "htmlSnippet": "the Dominican Republic, followed by the \u003cb\u003eNovember 21\u003c/b\u003e, 1751 MI6.6 \u003cb\u003e...\u003c/b\u003e collision of \u003cbr\u003e  the Bahamas carbonate platform, situated on the \u003cb\u003eNorth America\u003c/b\u003e (NOAM) \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Program, 2010b; Kelleher et al., 1973); MS8.0 (Abe, \u003cb\u003e1981\u003c/b\u003e); and MS7.8 (Pacheco \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eAyyQxsTilsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "woodshole.er.usgs.gov/staffpages/utenbrink/.../Haiti_BSSA_in_press.pdf",
+   "htmlFormattedUrl": "woodshole.er.usgs.gov/staffpages/utenbrink/.../Haiti_BSSA_in_press.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20111005204905-04'00'",
+      "author": "3",
+      "producer": "iTextSharp 5.0.4 (c) 1T3XT BVBA",
+      "moddate": "D:20111102094421-04'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Notable Earthquakes Shake Texas on Occasion | Texas Almanac",
+   "htmlTitle": "Notable \u003cb\u003eEarthquakes\u003c/b\u003e Shake Texas on Occasion | Texas Almanac",
+   "link": "http://www.texasalmanac.com/topics/environment/notable-earthquakes-shake-texas-occasion",
+   "displayLink": "www.texasalmanac.com",
+   "snippet": "The 1891 Rusk and the 1981 Center and Jacksonville earthquakes in Northeast   .... The shock was strongly recorded on all seismographs in North America and at   stations all over the world. ... A minor aftershock was felt at Valentine on Nov. 3.   .... 24, at 12:21 p.m., 17 miles southeast of Alpine near Big Bend National Park.",
+   "htmlSnippet": "The 1891 Rusk and the \u003cb\u003e1981\u003c/b\u003e Center and Jacksonville \u003cb\u003eearthquakes\u003c/b\u003e in Northeast \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e The shock was strongly recorded on all seismographs in \u003cb\u003eNorth America\u003c/b\u003e and at \u003cbr\u003e  stations all over the world. \u003cb\u003e...\u003c/b\u003e A minor aftershock was felt at Valentine on \u003cb\u003eNov\u003c/b\u003e. 3. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 24, at 12:\u003cb\u003e21\u003c/b\u003e p.m., 17 miles southeast of Alpine near Big Bend National Park.",
+   "cacheId": "xxQi0qeIcKgJ",
+   "formattedUrl": "www.texasalmanac.com/.../notable-earthquakes-shake-texas-occasion",
+   "htmlFormattedUrl": "www.texasalmanac.com/.../notable-\u003cb\u003eearthquakes\u003c/b\u003e-shake-texas-occasion",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.texasalmanac.com/sites/default/files/images/maps/quakemap2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGWTxdQSuGZx2pz6OFlpfvbBAig_uVCccZCFxzkjVg9ZYA6bVAjVdXVU-L"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "The Texas Almanac is a biennially published reference work providing information for the general public on the history of the state and its people, government and politics, economics, natural resources, holidays, culture, education, recreation, the arts, and other topics."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History of Florida",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History of Florida",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/florida/florida_eq_history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Earthquake History of Florida: 1727 to 1981 ... in Florida seem to be related to   seismic events elsewhere in North America. ... 1902 May 20-21. ... No local   events were recorded until November, 1977 when slight shock was ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e History of Florida: 1727 to \u003cb\u003e1981\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e in Florida seem to be related to \u003cbr\u003e  \u003cb\u003eseismic\u003c/b\u003e events elsewhere in \u003cb\u003eNorth America\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 1902 May 20-\u003cb\u003e21\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e No local \u003cbr\u003e  events were recorded until \u003cb\u003eNovember\u003c/b\u003e, 1977 when slight shock was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m32dbcClU58J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/.../florida_eq_history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/.../florida_eq_history.php"
+  }
+ ]
+}

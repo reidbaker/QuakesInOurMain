@@ -1,0 +1,266 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 5 1987 Asia Earthquake",
+    "totalResults": "101000",
+    "searchTerms": "Mar 5 1987 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 5 1987 Asia Earthquake",
+    "totalResults": "101000",
+    "searchTerms": "Mar 5 1987 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.192023,
+  "formattedSearchTime": "0.19",
+  "totalResults": "101000",
+  "formattedTotalResults": "101,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake: a transient oscillation or series of oscillations of the ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e: a transient oscillation or series of oscillations of the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.rrtd.nic.in/Earthquake.html",
+   "displayLink": "www.rrtd.nic.in",
+   "snippet": "The other region underlies the Mediterranean region eastward through Asia,   passing ... Intensity of quake 5.5; March 5, 1987: Ecuador: over 1,000 people   killed.",
+   "htmlSnippet": "The other region underlies the Mediterranean region eastward through \u003cb\u003eAsia\u003c/b\u003e, \u003cbr\u003e  passing \u003cb\u003e...\u003c/b\u003e Intensity of \u003cb\u003equake\u003c/b\u003e 5.5; \u003cb\u003eMarch 5, 1987\u003c/b\u003e: Ecuador: over 1,000 people \u003cbr\u003e  killed.",
+   "cacheId": "X07Cg4pD5BQJ",
+   "formattedUrl": "www.rrtd.nic.in/Earthquake.html",
+   "htmlFormattedUrl": "www.rrtd.nic.in/\u003cb\u003eEarthquake\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chronology for Lowland Indigenous Peoples in Ecuador",
+   "htmlTitle": "Chronology for Lowland Indigenous Peoples in Ecuador",
+   "link": "http://www.unhcr.org/refworld/country,,,CHRON,ECU,,469f3884a,0.html",
+   "displayLink": "www.unhcr.org",
+   "snippet": "Mar 5, 1987, A strong earthquake shook the northwest region of the Amazon,   closing off main roads to the Napo region and spilling millions of barrels of oil into ...",
+   "htmlSnippet": "\u003cb\u003eMar 5, 1987\u003c/b\u003e, A strong \u003cb\u003eearthquake\u003c/b\u003e shook the northwest region of the Amazon, \u003cbr\u003e  closing off main roads to the Napo region and spilling millions of barrels of oil into \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.unhcr.org/refworld/country,,,CHRON,ECU,,469f3884a,0.html",
+   "htmlFormattedUrl": "www.unhcr.org/refworld/country,,,CHRON,ECU,,469f3884a,0.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "language": "en",
+      "author": "United Nations High Commissioner for Refugees"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "References for Significant Worldwide Landslides",
+   "htmlTitle": "References for Significant Worldwide Landslides",
+   "link": "http://landslides.usgs.gov/learning/majorls_refs.php",
+   "displayLink": "landslides.usgs.gov",
+   "snippet": "Aug 9, 2010 ... Brand, E.W., 1984, Landslides in Southeast Asia: a state-of-the-art report, ... 5, p.   445 - 464. Cluff, L.S., 1971, Peru earthquake of May 31, 1970, .... 1995, Mass   wasting triggered by the 5 March, 1987 Ecuador earthquakes: ...",
+   "htmlSnippet": "Aug 9, 2010 \u003cb\u003e...\u003c/b\u003e Brand, E.W., 1984, Landslides in Southeast \u003cb\u003eAsia\u003c/b\u003e: a state-of-the-art report, \u003cb\u003e...\u003c/b\u003e 5, p. \u003cbr\u003e  445 - 464. Cluff, L.S., 1971, Peru \u003cb\u003eearthquake\u003c/b\u003e of May 31, 1970, \u003cb\u003e....\u003c/b\u003e 1995, Mass \u003cbr\u003e  wasting triggered by the \u003cb\u003e5 March, 1987\u003c/b\u003e Ecuador \u003cb\u003eearthquakes\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gEOWwTqM3acJ",
+   "formattedUrl": "landslides.usgs.gov/learning/majorls_refs.php",
+   "htmlFormattedUrl": "landslides.usgs.gov/learning/majorls_refs.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in South America",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in South America",
+   "link": "http://earthquaketrack.com/v/southamerica/biggest",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The Largest Earthquakes in South America. ... Biggest Earthquakes Near South   America. Recent Quakes ... E. over 5 years ago, 8.0 magnitude, 39 km depth ...",
+   "htmlSnippet": "The Largest \u003cb\u003eEarthquakes\u003c/b\u003e in South America. \u003cb\u003e...\u003c/b\u003e Biggest \u003cb\u003eEarthquakes\u003c/b\u003e Near South \u003cbr\u003e  America. Recent Quakes \u003cb\u003e...\u003c/b\u003e E. over \u003cb\u003e5\u003c/b\u003e years ago, 8.0 magnitude, 39 km depth \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4IMKfZTkGl0J",
+   "formattedUrl": "earthquaketrack.com/v/southamerica/biggest",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/southamerica/biggest",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "ogZu9O8P6JUbafuHeyM1RPs6kIDYin8N5Qrz7DZRNnI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "These citations are from the QUAKELINE?? database and",
+   "htmlTitle": "These citations are from the QUAKELINE?? database and",
+   "link": "ftp://mceer.buffalo.edu/pub/searches/04/02/040209.txt",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "AB On November 24, 1987 an M 6.0 earthquake struck from an epicenter   approximately 10 ..... Title: 1987 Ecuador earthquakes of March 5, 1987. ....   Earthquakes Geographical Area: Asia; Japan Language: English Publication   Type: Technical ...",
+   "htmlSnippet": "AB On November 24, 1987 an M 6.0 \u003cb\u003eearthquake\u003c/b\u003e struck from an epicenter \u003cbr\u003e  approximately 10 \u003cb\u003e.....\u003c/b\u003e Title: 1987 Ecuador \u003cb\u003eearthquakes\u003c/b\u003e of \u003cb\u003eMarch 5, 1987\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e Geographical Area: \u003cb\u003eAsia\u003c/b\u003e; Japan Language: English Publication \u003cbr\u003e  Type: Technical \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "M5ZzAvjhwtQJ",
+   "mime": "text/plain",
+   "formattedUrl": "ftp://mceer.buffalo.edu/pub/searches/04/02/040209.txt",
+   "htmlFormattedUrl": "ftp://mceer.buffalo.edu/pub/searches/04/02/040209.txt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes & Volcanoes - Books Sitemap",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e &amp; Volcanoes - Books Sitemap",
+   "link": "http://books.google.com/sitemap/Sitemap/Nature/Earthquakes_Volcanoes.html",
+   "displayLink": "books.google.com",
+   "snippet": "Books ??? Sitemap ??? Nature ??? Earthquakes & Volcanoes.",
+   "htmlSnippet": "Books ??? Sitemap ??? Nature ??? \u003cb\u003eEarthquakes\u003c/b\u003e &amp; Volcanoes.",
+   "formattedUrl": "books.google.com/sitemap/Sitemap/Nature/Earthquakes_Volcanoes.html",
+   "htmlFormattedUrl": "books.google.com/sitemap/Sitemap/Nature/\u003cb\u003eEarthquakes\u003c/b\u003e_Volcanoes.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TIMELINE: Latin American earthquakes since 1970 | Reuters",
+   "htmlTitle": "TIMELINE: Latin American \u003cb\u003eearthquakes\u003c/b\u003e since 1970 | Reuters",
+   "link": "http://www.reuters.com/article/2007/08/16/us-peru-earthquake-factbox-idUSN1633320120070816",
+   "displayLink": "www.reuters.com",
+   "snippet": "Aug 16, 2007 ... March 5, 1987 - ECUADOR - A quake with a magnitude of 7.0 hits El Reventador,   50 miles east of Quito. More than 1,000 people are killed.",
+   "htmlSnippet": "Aug 16, 2007 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMarch 5, 1987\u003c/b\u003e - ECUADOR - A \u003cb\u003equake\u003c/b\u003e with a magnitude of 7.0 hits El Reventador, \u003cbr\u003e  50 miles east of Quito. More than 1,000 people are killed.",
+   "cacheId": "9maN-CpzY-8J",
+   "formattedUrl": "www.reuters.com/.../us-peru-earthquake-factbox-idUSN1633320120070816",
+   "htmlFormattedUrl": "www.reuters.com/.../us-peru-\u003cb\u003eearthquake\u003c/b\u003e-factbox-idUSN1633320120070816",
+   "pagemap": {
+    "metatags": [
+     {
+      "dcsext.channellist": "topNews;newsOne;worldNews",
+      "revision_date": "Thu Aug 16 14:53:03 UTC 2007",
+      "og:title": "TIMELINE: Latin American earthquakes since 1970",
+      "og:type": "article",
+      "og:site_name": "Reuters",
+      "og:url": "http://www.reuters.com/article/2007/08/16/us-peru-earthquake-factbox-idUSN1633320120070816",
+      "fb:app_id": "169549326390879",
+      "dcsext.artcms": "1",
+      "dcsext.contenttype": "Text",
+      "dcsext.contentid": "USN1633320120070816",
+      "dcsext.contentchannel": "worldNews",
+      "dcsext.contentid_worldnews": "USN1633320120070816",
+      "dcsext.contentheadline": "TIMELINE%3A+Latin+American+earthquakes+since+1970",
+      "dcsext.pagenumber": "1",
+      "dcsext.pagetotal": "1",
+      "dcsext.rchannel": "News",
+      "dcsext.rcountry": "BETAUS",
+      "wt.cg_n": "News - World",
+      "wt.cg_s": "worldNews",
+      "dcsext.dartzone": "us.reuters/news/world/article"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "COPING WITH DISASTERS",
+   "htmlTitle": "COPING WITH DISASTERS",
+   "link": "http://www.toolkitsportdevelopment.org/html/resources/7B/7BB3B250-3EB8-44C6-AA8E-CC6592C53550/CopingWithDisaster.pdf",
+   "displayLink": "www.toolkitsportdevelopment.org",
+   "snippet": "blast or a tornado may affect hundreds of people or, like an earthquake or a ....   On Thursday, March 5, 1987, two earthquakes occurred in Ecuador, about .....   Latah, found under various names in the South Pacific and Southeast Asia,   involves ...",
+   "htmlSnippet": "blast or a tornado may affect hundreds of people or, like an \u003cb\u003eearthquake\u003c/b\u003e or a \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  On \u003cb\u003eThursday, March 5, 1987\u003c/b\u003e, two \u003cb\u003eearthquakes\u003c/b\u003e occurred in Ecuador, about \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Latah, found under various names in the South Pacific and Southeast \u003cb\u003eAsia\u003c/b\u003e, \u003cbr\u003e  involves \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AkQSrMmDJIkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.toolkitsportdevelopment.org/html/.../7B/.../CopingWithDisaster.pdf",
+   "htmlFormattedUrl": "www.toolkitsportdevelopment.org/html/.../7B/.../CopingWithDisaster.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "D:20010919165446",
+      "title": "9-17-01",
+      "author": "John H. Ehrenreich",
+      "producer": "Acrobat PDFWriter 4.0 for Windows",
+      "moddate": "D:20010924091212-04'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Humanitarian Service Medal (HSM) ??? APPROVED OPERATIONS ...",
+   "htmlTitle": "Humanitarian Service Medal (HSM) ??? APPROVED OPERATIONS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://prhome.defense.gov/rfm/mpp/OEPM/docs/HSM%20Approved%20Operations%20V2.pdf",
+   "displayLink": "prhome.defense.gov",
+   "snippet": "29-Apr-1975 30-Apr-1975 Vietnam. Guatemala Earthquake Disaster ... 21-Jul-  1979 30-Jun-1984 Southeast Asia ... Popayan Earthquake Disaster Relief 31-  Mar-1983 8-Apr-1983 Colombia ... 5-Sep-1987 15-Sep-1987 United States.   Operation ...",
+   "htmlSnippet": "29-Apr-1975 30-Apr-1975 Vietnam. Guatemala \u003cb\u003eEarthquake\u003c/b\u003e Disaster \u003cb\u003e...\u003c/b\u003e 21-Jul-\u003cbr\u003e  1979 30-Jun-1984 Southeast \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Popayan \u003cb\u003eEarthquake\u003c/b\u003e Disaster Relief 31-\u003cbr\u003e  \u003cb\u003eMar\u003c/b\u003e-1983 8-Apr-1983 Colombia \u003cb\u003e...\u003c/b\u003e \u003cb\u003e5\u003c/b\u003e-Sep-\u003cb\u003e1987\u003c/b\u003e 15-Sep-\u003cb\u003e1987\u003c/b\u003e United States. \u003cbr\u003e  Operation \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wyLEVObPCoEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "prhome.defense.gov/rfm/.../HSM%20Approved%20Operations%20V2.pdf",
+   "htmlFormattedUrl": "prhome.defense.gov/rfm/.../HSM%20Approved%20Operations%20V2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090406120447-04'00'",
+      "author": "Nittled",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "moddate": "D:20090406120447-04'00'",
+      "title": "Microsoft Word - HSM Approved Operations V2.DOC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "htmlTitle": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "link": "http://www.google.com/patents/US4650368",
+   "displayLink": "www.google.com",
+   "snippet": "Issue date: Mar 17, 1987 ... US3172267, Jan 30, 1961, Mar 9, 1965, FISHER ...   US4391925, Jun 24, 1982, Jul 5, 1983, Exxon Research & Engineering Co. ...   1998, Aug 10, 1999, Earthquake resistant building structure employing sandbags   ... Versa-Lok Asia Inc. Retaining wall system with interlocked wall-building units ...",
+   "htmlSnippet": "Issue date: \u003cb\u003eMar\u003c/b\u003e 17, \u003cb\u003e1987\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e US3172267, Jan 30, 1961, \u003cb\u003eMar\u003c/b\u003e 9, 1965, FISHER \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4391925, Jun 24, 1982, Jul \u003cb\u003e5\u003c/b\u003e, 1983, Exxon Research &amp; Engineering Co. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1998, Aug 10, 1999, \u003cb\u003eEarthquake\u003c/b\u003e resistant building structure employing sandbags \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Versa-Lok \u003cb\u003eAsia\u003c/b\u003e Inc. Retaining wall system with interlocked wall-building units \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4650368",
+   "htmlFormattedUrl": "www.google.com/patents/US4650368",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR78_gi9yedYhVl783bhQwJ-UKQQWxmI91Xmh0hfc7LqIqLE_Fjr84W0Kc"
+     }
+    ],
+    "book": [
+     {
+      "description": "A flood water containment bag constructed of lightweight, inexpensive porous material with a quantity of water absorbent material therein which increases substantially in volume and weight...",
+      "url": "http://www.google.com/patents/US4650368?utm_source=gb-gplus-share",
+      "name": "Patent US4650368 - Flood water containment bag",
+      "image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4650368",
+      "title": "Patent US4650368 - Flood water containment bag",
+      "og:title": "Patent US4650368 - Flood water containment bag",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  }
+ ]
+}

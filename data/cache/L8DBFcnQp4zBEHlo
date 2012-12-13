@@ -1,0 +1,302 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 19 1902 Australia Earthquake",
+    "totalResults": "35100",
+    "searchTerms": "Sep 19 1902 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 19 1902 Australia Earthquake",
+    "totalResults": "35100",
+    "searchTerms": "Sep 19 1902 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.204092,
+  "formattedSearchTime": "0.20",
+  "totalResults": "35100",
+  "formattedTotalResults": "35,100"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 01902-09-19  September 19, 1902, Warooka, South Australia, Australia, 2, 6.0, ML, USGS ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 01902-09-19\u003cbr\u003e  \u003cb\u003eSeptember 19, 1902\u003c/b\u003e, Warooka, South \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, 2, 6.0, ML, USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... Earthquake overview : An 8.6 magnitude earthquake occurred 500 ... Update 23/  04 ??? 08:19 UTC .... Mw8.0 ??? September 20, 1920 ??? Loyalty Islands Region ...   Mw8.0 ??? 1902 ??? Sea of Okhotsk ... The actual greater area is the intersection in   between the Indian Plate, the Australian plate and the Burma plate.",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : An 8.6 magnitude \u003cb\u003eearthquake\u003c/b\u003e occurred 500 \u003cb\u003e...\u003c/b\u003e Update 23/\u003cbr\u003e  04 ??? 08:\u003cb\u003e19\u003c/b\u003e UTC \u003cb\u003e....\u003c/b\u003e Mw8.0 ??? \u003cb\u003eSeptember\u003c/b\u003e 20, 1920 ??? Loyalty Islands Region \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Mw8.0 ??? \u003cb\u003e1902\u003c/b\u003e ??? Sea of Okhotsk \u003cb\u003e...\u003c/b\u003e The actual greater area is the intersection in \u003cbr\u003e  between the Indian Plate, the \u003cb\u003eAustralian\u003c/b\u003e plate and the Burma plate.",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Warooka",
+   "htmlTitle": "Warooka",
+   "link": "http://www.about-australia.com/destinations/warooka/",
+   "displayLink": "www.about-australia.com",
+   "snippet": "The best way to find anything Australian. Australia ... On September 19, 1902 at   8.30pm, Warooka was hit by an earthquake, measuring six on the Richter scale.",
+   "htmlSnippet": "The best way to find anything \u003cb\u003eAustralian\u003c/b\u003e. \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eSeptember 19, 1902\u003c/b\u003e at \u003cbr\u003e  8.30pm, Warooka was hit by an \u003cb\u003eearthquake\u003c/b\u003e, measuring six on the Richter scale.",
+   "cacheId": "Ernq_XEsK8oJ",
+   "formattedUrl": "www.about-australia.com/destinations/warooka/",
+   "htmlFormattedUrl": "www.about-\u003cb\u003eaustralia\u003c/b\u003e.com/destinations/warooka/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.about-australia.com/wp-content/themes/about-australia/images/logo-beta.png"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://www.about-australia.com/wp-content/themes/about-australia/images/logo-beta.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   Unless otherwise stated, this list uses the Richter magnitude scale, as most ...",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  Unless otherwise stated, this list uses the Richter magnitude scale, as most \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Damaging Earthquakes Database 2010 ??? The Year in Review ...",
+   "htmlTitle": "Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2010 ??? The Year in Review \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/wp-content/uploads/2011/03/CATDAT-EQ-Data-1st-Annual-Review-2010-James-Daniell-03-03-2011.pdf",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Feb 27, 2011 ... I would like to thank the University of Adelaide, Australia, Universit?? Joseph ....   4.3 Secondary Effect Losses from Earthquakes ??? 1900 to 2010..................................  ..................19 .... September, causing another high insured loss, but no structural   .... A good example of this is the Shemakha earthquake of 1902 in ...",
+   "htmlSnippet": "Feb 27, 2011 \u003cb\u003e...\u003c/b\u003e I would like to thank the University of Adelaide, \u003cb\u003eAustralia\u003c/b\u003e, Universit?? Joseph \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  4.3 Secondary Effect Losses from \u003cb\u003eEarthquakes\u003c/b\u003e ??? 1900 to 2010..................................\u003cbr\u003e  ..................\u003cb\u003e19\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e, causing another high insured loss, but no structural \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e A good example of this is the Shemakha \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e1902\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cAitKwePwBgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110303154353+01'00'",
+      "author": "admin",
+      "creator": "Acrobat PDFMaker 7.0.7 f??r Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20110303154744+01'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Seismicity in Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Seismicity in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Aug 20, 2011 ... For a listing of recent Australian earthquakes, follow this link ... 19 Sep1902,   Warooka, Yorke Peninsula, SA, 6.0, 5, 12m, two known deaths ...",
+   "htmlSnippet": "Aug 20, 2011 \u003cb\u003e...\u003c/b\u003e For a listing of recent \u003cb\u003eAustralian earthquakes\u003c/b\u003e, follow this link \u003cb\u003e...\u003c/b\u003e \u003cb\u003e19 Sep1902\u003c/b\u003e, \u003cbr\u003e  Warooka, Yorke Peninsula, SA, 6.0, 5, 12m, two known deaths \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w1yMftxdSCkJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity_in_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32684"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0y-_VdOt97EaQcatNSECvkyYtwP5d-jCx_yj8JSWfCuxRjC0WZH2IuGo"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity in Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/43699",
+      "dc.date.modified": "2011-08-20",
+      "dc.date.created": "2004-02-07",
+      "dc.date.valid": "2012-08-20",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/43699",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australia's worst earthquakes: top 10 most devastating - Australian ...",
+   "htmlTitle": "\u003cb\u003eAustralia&#39;s\u003c/b\u003e worst \u003cb\u003eearthquakes\u003c/b\u003e: top 10 most devastating - \u003cb\u003eAustralian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.australiangeographic.com.au/journal/australias-worst-earthquakes-top-10-most-devastating.htm",
+   "displayLink": "www.australiangeographic.com.au",
+   "snippet": "Jul 10, 2012 ... Warooka, South Australia, 19 September 1902 (Magnitude 6.0) The second-  largest recorded South Australian earthquake, this disaster ...",
+   "htmlSnippet": "Jul 10, 2012 \u003cb\u003e...\u003c/b\u003e Warooka, South \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003e19 September 1902\u003c/b\u003e (Magnitude 6.0) The second-\u003cbr\u003e  largest recorded South \u003cb\u003eAustralian earthquake\u003c/b\u003e, this disaster \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EcyP2GgfKjMJ",
+   "formattedUrl": "www.australiangeographic.com.au/.../australias-worst-earthquakes-top-10- most-devastating.htm",
+   "htmlFormattedUrl": "www.\u003cb\u003eaustralian\u003c/b\u003egeographic.com.au/.../\u003cb\u003eaustralias\u003c/b\u003e-worst-\u003cb\u003eearthquakes\u003c/b\u003e-top-10- most-devastating.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "209",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlg8_OIjgcNebdL7N4vyhhGcMAiqTyf4CIY1s3_LkTKzBtigNrzmiSn7lQ"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "distribution": "global",
+      "og:title": "Australia's worst earthquakes",
+      "og:description": "Australia has few big earthquakes, but some of them have caused great devastation. Here are the 10 most significant.",
+      "og:image": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Noteworthy earthquakes in Australia",
+   "htmlTitle": "Noteworthy \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.quakes.uq.edu.au/html/quake_info/list_aust.html",
+   "displayLink": "www.quakes.uq.edu.au",
+   "snippet": "1902 Sep 19. Warooka (SA). 35.0 S. 137.4 E. 6.0. VII. -. 1918 Jun 6. Gladstone (  QLD). 23.5 S. 152.5 E. 6.0. VI. Among the largest E. Australian earthquakes, and ...",
+   "htmlSnippet": "\u003cb\u003e1902 Sep 19\u003c/b\u003e. Warooka (SA). 35.0 S. 137.4 E. 6.0. VII. -. 1918 Jun 6. Gladstone (\u003cbr\u003e  QLD). 23.5 S. 152.5 E. 6.0. VI. Among the largest E. \u003cb\u003eAustralian earthquakes\u003c/b\u003e, and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZMCKEoqrTNsJ",
+   "formattedUrl": "www.quakes.uq.edu.au/html/quake_info/list_aust.html",
+   "htmlFormattedUrl": "www.\u003cb\u003equake\u003c/b\u003es.uq.edu.au/html/\u003cb\u003equake\u003c/b\u003e_info/list_aust.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.quakes.uq.edu.au/html/quake_info/images/kent_hotel.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "270",
+      "height": "186",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5RHLtej8Xf6F4gY-5DvkKj27Jjy_OtvWHds9wL4qAxxr6jgDqWdbCzng"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "9/56 YEAR CYCLE: AUSTRALIAN EARTHQUAKES",
+   "htmlTitle": "9/56 YEAR CYCLE: \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.davidmcminn.com/eqpages/appendaust.htm",
+   "displayLink": "www.davidmcminn.com",
+   "snippet": "The 56 year Sequence 12 was the most important in Australian seismic history,   as it contained 6 major Australian ... 6.0, September 19, 1902, Warroka, SA ...",
+   "htmlSnippet": "The 56 year Sequence 12 was the most important in \u003cb\u003eAustralian seismic\u003c/b\u003e history, \u003cbr\u003e  as it contained 6 major \u003cb\u003eAustralian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 6.0, \u003cb\u003eSeptember 19, 1902\u003c/b\u003e, Warroka, SA \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5Pj3M1ZRiI8J",
+   "formattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "htmlFormattedUrl": "www.davidmcminn.com/eqpages/appendaust.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Australian earthquakes - Lists - Trove",
+   "htmlTitle": "South \u003cb\u003eAustralian earthquakes\u003c/b\u003e - Lists - Trove",
+   "link": "http://trove.nla.gov.au/list?id=14473",
+   "displayLink": "trove.nla.gov.au",
+   "snippet": "Sep 7, 2011 ... South Australia has been affected by severe earthquakes, the most severe being   that on Friday. September 19. 1902. ... 227 words: Digitised ...",
+   "htmlSnippet": "Sep 7, 2011 \u003cb\u003e...\u003c/b\u003e South \u003cb\u003eAustralia\u003c/b\u003e has been affected by severe \u003cb\u003eearthquakes\u003c/b\u003e, the most severe being \u003cbr\u003e  that on Friday. \u003cb\u003eSeptember 19\u003c/b\u003e. \u003cb\u003e1902\u003c/b\u003e. ... 227 words: Digitised \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nn7fXS3wDkcJ",
+   "formattedUrl": "trove.nla.gov.au/list?id=14473",
+   "htmlFormattedUrl": "trove.nla.gov.au/list?id=14473"
+  }
+ ]
+}
