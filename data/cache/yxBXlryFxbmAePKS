@@ -1,0 +1,256 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 10 1901 Eurasia Earthquake",
+    "totalResults": "6440",
+    "searchTerms": "Jan 10 1901 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 10 1901 Eurasia Earthquake",
+    "totalResults": "6440",
+    "searchTerms": "Jan 10 1901 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.17187,
+  "formattedSearchTime": "0.17",
+  "totalResults": "6440",
+  "formattedTotalResults": "6,440"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Latest Earthquakes",
+   "htmlTitle": "Latest \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Get real-time earthquake notifications sent to you using a number of popular ...   and Eurasian Plates, as North America moves westward relative to Eurasia. ... M   4.3, 17km SE of Hazard, Kentucky Saturday, November 10, 2012 17:08:14 UTC ...",
+   "htmlSnippet": "Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of popular \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  and \u003cb\u003eEurasian\u003c/b\u003e Plates, as North America moves westward relative to \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e M \u003cbr\u003e  4.3, 17km SE of Hazard, Kentucky Saturday, November \u003cb\u003e10\u003c/b\u003e, 2012 17:08:14 UTC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B66hI8WgyEYJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismicity, groundwater level variations and earth tides",
+   "htmlTitle": "seismicity, groundwater level variations and earth tides",
+   "link": "http://www.irsm.cas.cz/abstracts/AGG/02_12/9_Kolinsky.pdf",
+   "displayLink": "www.irsm.cas.cz",
+   "snippet": "Petr KOLￃﾍNSKￃﾝ *, Jan VALENTA and Renata GAￅﾽDOVￃﾁ. Institute of ...   earthquake occurred in 1901 (Woldￅﾙich, 1901) and reached the .... immersion   depth of 10 m and resolution is 1 mm. ...... Eurasian earthquakes: the SVAL   program, Acta ...",
+   "htmlSnippet": "Petr KOLￃﾍNSKￃﾝ *, \u003cb\u003eJan\u003c/b\u003e VALENTA and Renata GAￅﾽDOVￃﾁ. Institute of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e occurred in \u003cb\u003e1901\u003c/b\u003e (Woldￅﾙich, \u003cb\u003e1901\u003c/b\u003e) and reached the \u003cb\u003e....\u003c/b\u003e immersion \u003cbr\u003e  depth of \u003cb\u003e10\u003c/b\u003e m and resolution is 1 mm. \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian earthquakes\u003c/b\u003e: the SVAL \u003cbr\u003e  program, Acta \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Whvzmn91aPwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.irsm.cas.cz/abstracts/AGG/02_12/9_Kolinsky.pdf",
+   "htmlFormattedUrl": "www.irsm.cas.cz/abstracts/AGG/02_12/9_Kolinsky.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20120614153113+02'00'",
+      "author": "Frantiￅﾡek",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20120614153113+02'00'",
+      "title": "Microsoft Word - 9a. Kolinsk.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Between 1901 and the year 2000 there were 91 major earthquakes in Taiwan, 48   of them resulting ... January 11, 1908, 11:35, Hualien, 23.7, 121.4, 10, 7.3, 2, 3 ...",
+   "htmlSnippet": "Between \u003cb\u003e1901\u003c/b\u003e and the year 2000 there were 91 major \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan, 48 \u003cbr\u003e  of them resulting \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary\u003c/b\u003e 11, 1908, 11:35, Hualien, 23.7, 121.4, \u003cb\u003e10\u003c/b\u003e, 7.3, 2, 3 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The March 11, 2011 Mw 8.9 Sendai, Japan, earthquake : a ...",
+   "htmlTitle": "The March 11, 2011 Mw 8.9 Sendai, Japan, \u003cb\u003eearthquake\u003c/b\u003e : a \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ceas.iisc.ernet.in/events/Japan2011-1.pdf",
+   "displayLink": "ceas.iisc.ernet.in",
+   "snippet": "Mar 11, 2011 ... the west beneath Eurasia. Deformation of the ... at the plate interface causes   interplate earthquakes that ... Best Double Couple: Mo=3.9*10**22 ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e the west beneath \u003cb\u003eEurasia\u003c/b\u003e. Deformation of the \u003cb\u003e...\u003c/b\u003e at the plate interface causes \u003cbr\u003e  interplate \u003cb\u003eearthquakes\u003c/b\u003e that \u003cb\u003e...\u003c/b\u003e Best Double Couple: Mo=3.9*\u003cb\u003e10\u003c/b\u003e**22 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GGrg_AxRG-wJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ceas.iisc.ernet.in/events/Japan2011-1.pdf",
+   "htmlFormattedUrl": "ceas.iisc.ernet.in/events/Japan2011-1.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Kusala Rajendran",
+      "creationdate": "D:20110314141407+05'30'",
+      "creator": "Microsoft PowerPoint: cgpdftops CUPS filter",
+      "moddate": "D:20110314141407+05'30'",
+      "producer": "Acrobat Distiller 9.0.0 (Macintosh)",
+      "title": "poster_final_japan2.pptx"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of tsunamis in Europe - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of tsunamis in Europe - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_tsunamis_in_Europe",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The aftermath of the Messina earthquake and tsunami on December 28, 1908 ...   Most of the earthquakes occur on the Eurasian Plate but earthquakes and ... 11   January 1693 ￂﾷ Italy, 1000, Earthquake ... 31 March 1901, Bulgaria ... =&st_2=  &bt_1=&bt_10=&st_10=&ge_9=&le_9=&bt_3=&st_3=&type_19=  EXACT&query_19= ...",
+   "htmlSnippet": "The aftermath of the Messina \u003cb\u003eearthquake\u003c/b\u003e and tsunami on December 28, 1908 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Most of the \u003cb\u003eearthquakes\u003c/b\u003e occur on the \u003cb\u003eEurasian\u003c/b\u003e Plate but \u003cb\u003eearthquakes\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e 11 \u003cbr\u003e  \u003cb\u003eJanuary\u003c/b\u003e 1693 &middot; Italy, 1000, \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 31 March \u003cb\u003e1901\u003c/b\u003e, Bulgaria \u003cb\u003e...\u003c/b\u003e =&amp;st_2=\u003cbr\u003e  &amp;bt_1=\u003cb\u003e&amp;bt_10\u003c/b\u003e=\u003cb\u003e&amp;st_10\u003c/b\u003e=&amp;ge_9=&amp;le_9=&amp;bt_3=&amp;st_3=&amp;type_19=\u003cbr\u003e  EXACT&amp;query_19= \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P7BKZxU97kcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_tsunamis_in_Europe",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_tsunamis_in_Europe",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/thumb/9/92/Messina_earthquake.jpg/220px-Messina_earthquake.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "110",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeL4l8__EdaDbwSE7XmVKR4nIdM6YHjePzwwDXKUbbL0VZto8Wb8vTeg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "18 Seismicity and Earth's Interior",
+   "htmlTitle": "18 Seismicity and Earth&#39;s Interior",
+   "link": "http://www.earthds.info/pdfs/EDS_18.PDF",
+   "displayLink": "www.earthds.info",
+   "snippet": "an earthquake with a magnitude of 2 are therefore 10 times as great in amplitude   ... (B) Earthquake of January 1994, Northridge, California. .... Eurasian plate.   Kobe. Strike slip fault. FIGURE 18.10. The 1995 Kobe, Japan, ..... 1901. 1922.   1934. 1966. FIGURE 18.12. Six Parkfield earthquakes between 1857 and 1966 ...",
+   "htmlSnippet": "an \u003cb\u003eearthquake\u003c/b\u003e with a magnitude of 2 are therefore \u003cb\u003e10\u003c/b\u003e times as great in amplitude \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e (B) \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eJanuary\u003c/b\u003e 1994, Northridge, California. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cbr\u003e  Kobe. Strike slip fault. FIGURE 18.10. The 1995 Kobe, Japan, \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1901\u003c/b\u003e. 1922. \u003cbr\u003e  1934. 1966. FIGURE 18.12. Six Parkfield \u003cb\u003eearthquakes\u003c/b\u003e between 1857 and 1966 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kb42bUpnhD0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earthds.info/pdfs/EDS_18.PDF",
+   "htmlFormattedUrl": "www.earthds.info/pdfs/EDS_18.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080821185230-06'00'",
+      "moddate": "D:20080821185230-06'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "FAULTING ASSOCIATE!) wrra LARGE smrraqumcrs AND THE ...",
+   "htmlTitle": "FAULTING ASSOCIATE!) wrra LARGE smrraqumcrs AND THE \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.colorado.edu/geolsci/faculty/molnarpdf/1984JGR.M&Deng.EQs&AsianDeforma.pdf",
+   "displayLink": "www.colorado.edu",
+   "snippet": "Sep 15, 2012 ... respect to Eurasia in the last 80 years with an ... earthquakes and the apparent   timing of ￢ﾀﾜevents in .... May 10 , 1976 3 20.26 106.02 7.1 320 00 355. Jan. 19 ,   1975 0 32. ... Jan. 26, 1901 '0 31.0 101.1 6.9 0.09 (305) (90) (0) ...",
+   "htmlSnippet": "Sep 15, 2012 \u003cb\u003e...\u003c/b\u003e respect to \u003cb\u003eEurasia\u003c/b\u003e in the last 80 years with an \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e and the apparent \u003cbr\u003e  timing of ￢ﾀﾜevents in \u003cb\u003e....\u003c/b\u003e May \u003cb\u003e10\u003c/b\u003e , 1976 3 20.26 106.02 7.1 320 00 355. \u003cb\u003eJan\u003c/b\u003e. 19 , \u003cbr\u003e  1975 0 32. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJan\u003c/b\u003e. 26, \u003cb\u003e1901\u003c/b\u003e &#39;0 31.0 101.1 6.9 0.09 (305) (90) (0) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ocfcgRpbpaAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.colorado.edu/geolsci/.../1984JGR.M&Deng.EQs&AsianDeforma.pdf",
+   "htmlFormattedUrl": "www.colorado.edu/geolsci/.../1984JGR.M&amp;Deng.EQs&amp;AsianDeforma.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creator": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creationdate": "Thu Jun  3 04:59:06 2004",
+      "moddate": "Thu Jun  3 05:09:30 2004"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Notes for G&G 120b",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Notes for G&amp;G 120b",
+   "link": "http://www.geology.yale.edu/~jjpark/AGIquake.html",
+   "displayLink": "www.geology.yale.edu",
+   "snippet": "Earthquakes occur when rock fractures beneath the surface of Earth. .... fault of   radius 10 km gives rise (approximately) to a magnitude M=7.0 earthquake. ... of   earthquake zones associated with the confluence of the African, Eurasian and ...   The city of Kobe, Japan suffered a devastating earthquake on 17 January 1995.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e occur when rock fractures beneath the surface of Earth. \u003cb\u003e....\u003c/b\u003e fault of \u003cbr\u003e  radius \u003cb\u003e10\u003c/b\u003e km gives rise (approximately) to a magnitude M=7.0 \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e of \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e zones associated with the confluence of the African, \u003cb\u003eEurasian\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The city of Kobe, Japan suffered a devastating \u003cb\u003eearthquake\u003c/b\u003e on 17 \u003cb\u003eJanuary\u003c/b\u003e 1995.",
+   "cacheId": "hUE5gzNYerEJ",
+   "formattedUrl": "www.geology.yale.edu/~jjpark/AGIquake.html",
+   "htmlFormattedUrl": "www.geology.yale.edu/~jjpark/AGI\u003cb\u003equake\u003c/b\u003e.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A study on seismicity and seismic hazard for Karnataka State",
+   "htmlTitle": "A study on seismicity and \u003cb\u003eseismic\u003c/b\u003e hazard for Karnataka State",
+   "link": "http://www.ias.ac.in/jess/apr2012/475.pdf",
+   "displayLink": "www.ias.ac.in",
+   "snippet": "the Eurasian plate, movements are occurring along major intraplate faults   resulting in ... The earthquake events reported by various national and   international .... to 1900), pre-instrumentation (from 1901￢ﾀﾓ1963) .... 10. 5.7. 470.   40. 5. 347. 11. 5.7. 283. 41. 5. 166. 12. 5.7. 35. 42. 5. 118. 13 ..... CIST 017 dated   1 January 2010).",
+   "htmlSnippet": "the \u003cb\u003eEurasian\u003c/b\u003e plate, movements are occurring along major intraplate faults \u003cbr\u003e  resulting in \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e events reported by various national and \u003cbr\u003e  international \u003cb\u003e....\u003c/b\u003e to 1900), pre-instrumentation (from \u003cb\u003e1901\u003c/b\u003e￢ﾀﾓ1963) \u003cb\u003e....\u003c/b\u003e \u003cb\u003e10\u003c/b\u003e. 5.7. 470. \u003cbr\u003e  40. 5. 347. 11. 5.7. 283. 41. 5. 166. 12. 5.7. 35. 42. 5. 118. 13 \u003cb\u003e.....\u003c/b\u003e CIST 017 dated \u003cbr\u003e  1 \u003cb\u003eJanuary\u003c/b\u003e 2010).",
+   "cacheId": "17dBtX5I1ikJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ias.ac.in/jess/apr2012/475.pdf",
+   "htmlFormattedUrl": "www.ias.ac.in/jess/apr2012/475.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20120423171911+08'00'",
+      "producer": "Acrobat Distiller 10.0.0 (Windows)",
+      "creator": "dvips(k) 5.96dev Copyright 2007 Radical Eye Software",
+      "creationdate": "D:20120423161650+08'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

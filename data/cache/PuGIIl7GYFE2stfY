@@ -1,0 +1,340 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 1 1942 Asia Earthquake",
+    "totalResults": "336000",
+    "searchTerms": "Sep 1 1942 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 1 1942 Asia Earthquake",
+    "totalResults": "336000",
+    "searchTerms": "Sep 1 1942 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.246782,
+  "formattedSearchTime": "0.25",
+  "totalResults": "336000",
+  "formattedTotalResults": "336,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "VP-8 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "VP-8 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/VP-8",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Active, September 1, 1942 ￢ﾀﾓ present ... Southwest Asia Service Medal (1) .... VP-8   carried out combat missions throughout Southeast Asia for the U.S. .... to the   aftermath of 2004 Indian Ocean earthquake (Operation Unified Assistance), ...",
+   "htmlSnippet": "Active, \u003cb\u003eSeptember 1, 1942\u003c/b\u003e ￢ﾀﾓ present \u003cb\u003e...\u003c/b\u003e Southwest \u003cb\u003eAsia\u003c/b\u003e Service Medal (1) \u003cb\u003e....\u003c/b\u003e VP-8 \u003cbr\u003e  carried out combat missions throughout Southeast \u003cb\u003eAsia\u003c/b\u003e for the U.S. \u003cb\u003e....\u003c/b\u003e to the \u003cbr\u003e  aftermath of 2004 Indian Ocean \u003cb\u003eearthquake\u003c/b\u003e (Operation Unified Assistance), \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P-K8zvbiKQEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/VP-8",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/VP-8",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vp-8_logo.jpg/200px-Vp-8_logo.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "160",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSW70P4QRbbTlqka8TE9mYdL6tlHXQIc5IS_vCsSzdtrD5f3EKBKnJyjm69"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "VP-8 Tigers",
+      "nickname": "The Fighting Tigers",
+      "label": "Naval Air Station Jacksonville, Jacksonville, Florida"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on September 1 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eSeptember 1\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/sep01.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "Dates In History and September 1 in history. What happened ... September 1,   1923 \"The Great Kant earthquake devastates Tokyo and Yokohama, killing about   100,000 people.\" ... September 1, 1961 USSR tests nuclear bombs in central   Asia ...",
+   "htmlSnippet": "Dates In History and \u003cb\u003eSeptember 1\u003c/b\u003e in history. What happened \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember 1\u003c/b\u003e, \u003cbr\u003e  1923 &quot;The Great Kant \u003cb\u003eearthquake\u003c/b\u003e devastates Tokyo and Yokohama, killing about \u003cbr\u003e  100,000 people.&quot; \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember 1\u003c/b\u003e, 1961 USSR tests nuclear bombs in central \u003cbr\u003e  \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QjG8dOXRC68J",
+   "formattedUrl": "www.datesinhistory.com/sep01.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003esep\u003c/b\u003e01.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 1 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember 1\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_1",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 1 is the 244th day of the year (245th in leap years) in the Gregorian   calendar. There are 121 days remaining until the end of the year.",
+   "htmlSnippet": "\u003cb\u003eSeptember 1\u003c/b\u003e is the 244th day of the year (245th in leap years) in the Gregorian \u003cbr\u003e  calendar. There are 121 days remaining until the end of the year.",
+   "cacheId": "nQr4vi31KWUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_1",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e1\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Afghanistan ￢ﾀﾢ Albania ￢ﾀﾢ Algeria ￢ﾀﾢ Argentina ￢ﾀﾢ Armenia ￢ﾀﾢ Asia Minor ￢ﾀﾢ Atlantic .... M   5.8 ￂﾷ 2007 11 29 - Martinique Region, Windward Islands - M 7.4 Fatalities 1 ....   1902 04 19 - Guatemala - M 7.5 Fatalities 2,000; 1942 08 06 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Afghanistan ￢ﾀﾢ Albania ￢ﾀﾢ Algeria ￢ﾀﾢ Argentina ￢ﾀﾢ Armenia ￢ﾀﾢ \u003cb\u003eAsia\u003c/b\u003e Minor ￢ﾀﾢ Atlantic \u003cb\u003e....\u003c/b\u003e M \u003cbr\u003e  5.8 &middot; 2007 11 29 - Martinique Region, Windward Islands - M 7.4 Fatalities \u003cb\u003e1\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  1902 04 19 - Guatemala - M 7.5 Fatalities 2,000; \u003cb\u003e1942\u003c/b\u003e 08 06 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Most Deadly 100 Natural Disasters of the 20TH Century",
+   "htmlTitle": "The Most Deadly 100 Natural Disasters of the 20TH Century",
+   "link": "http://www.disastercenter.com/disaster/TOP100K.html",
+   "displayLink": "www.disastercenter.com",
+   "snippet": "... Continent, Killed. 1, NA, 1917, Epidemic, NA, ALL, 20,000,000.",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e Continent, Killed. \u003cb\u003e1\u003c/b\u003e, NA, 1917, Epidemic, NA, ALL, 20,000,000.",
+   "cacheId": "FVKd2KJQEXsJ",
+   "formattedUrl": "www.disastercenter.com/disaster/TOP100K.html",
+   "htmlFormattedUrl": "www.disastercenter.com/disaster/TOP100K.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Christopher Effgen"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Iran earthquake, September 1962 | The Iran Earthquake of 1962 ...",
+   "htmlTitle": "Iran \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eSeptember\u003c/b\u003e 1962 | The Iran \u003cb\u003eEarthquake\u003c/b\u003e of 1962 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://life.time.com/history/iran-earthquake-1962-photos-from-the-ruins/",
+   "displayLink": "life.time.com",
+   "snippet": "While not as lethal as other Iranian earthquakes across the centuries ￢ﾀﾔ some of   which left five and even ten times as many people dead ￢ﾀﾔ the September 1, ...",
+   "htmlSnippet": "While not as lethal as other Iranian \u003cb\u003eearthquakes\u003c/b\u003e across the centuries ￢ﾀﾔ some of \u003cbr\u003e  which left five and even ten times as many people dead ￢ﾀﾔ the \u003cb\u003eSeptember 1\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9scvzrNovbcJ",
+   "formattedUrl": "life.time.com/history/iran-earthquake-1962-photos-from-the-ruins/",
+   "htmlFormattedUrl": "life.time.com/history/iran-\u003cb\u003eearthquake\u003c/b\u003e-1962-photos-from-the-ruins/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://timelifeblog.files.wordpress.com/2012/09/15_115091034.jpg?w=150"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "79",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_dr18CAST-C2npGiPA_Y9ziICa3M6NE20wz-fZ_ksBxJjuEhrpgyt9Q"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width,maximum-scale=1.0,user-scalable=yes",
+      "og:site_name": "TIME.com",
+      "og:type": "article",
+      "og:title": "The Iran Earthquake of 1962: Photos From the End of a World | LIFE | TIME.com",
+      "og:url": "http://life.time.com/history/iran-earthquake-1962-photos-from-the-ruins/",
+      "fb:admins": "1124331582,500054654,220400,512158401,808970553,1502271052",
+      "og:image": "http://timelifeblog.files.wordpress.com/2012/09/15_115091034.jpg?w=150",
+      "application-name": "LIFE",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "Classic Pictures From LIFE Magazine's Archives",
+      "msapplication-task": "name=Subscribe;action-uri=http://life.time.com/feed/;icon-uri=http://0.gravatar.com/blavatar/4d5cc66f7683e3284bfa141e634586c3?s=16"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Christchurch earthquake timeline: New Zealand's biggest quakes ...",
+   "htmlTitle": "Christchurch \u003cb\u003eearthquake\u003c/b\u003e timeline: New Zealand&#39;s biggest quakes \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/newzealand/9094955/Christchurch-earthquake-timeline-New-Zealands-biggest-quakes.html",
+   "displayLink": "www.telegraph.co.uk",
+   "snippet": "Feb 21, 2012 ... Here are some of the other earthquakes that have shaken the country. ... Europe ￂﾷ   Middle East ￂﾷ Australasia ￂﾷ Africa ￂﾷ South America ￂﾷ Central Asia ... Image 1 of 6 ...   June 24, 1942 - An earthquake measuring 7.2 hit Wairarapa, killing one ...   September 4, 2010 - A 7.1 magnitude shake struck Christchurch, ...",
+   "htmlSnippet": "Feb 21, 2012 \u003cb\u003e...\u003c/b\u003e Here are some of the other \u003cb\u003eearthquakes\u003c/b\u003e that have shaken the country. \u003cb\u003e...\u003c/b\u003e Europe &middot; \u003cbr\u003e  Middle East &middot; Australasia &middot; Africa &middot; South America &middot; Central \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Image \u003cb\u003e1\u003c/b\u003e of 6 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  June 24, \u003cb\u003e1942\u003c/b\u003e - An \u003cb\u003eearthquake\u003c/b\u003e measuring 7.2 hit Wairarapa, killing one \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 4, 2010 - A 7.1 magnitude shake struck Christchurch, \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.telegraph.co.uk/.../Christchurch-earthquake-timeline-New-Zealands- biggest-quakes.html",
+   "htmlFormattedUrl": "www.telegraph.co.uk/.../Christchurch-\u003cb\u003eearthquake\u003c/b\u003e-timeline-New-Zealands- biggest-\u003cb\u003equake\u003c/b\u003es.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.telegraph.co.uk/multimedia/archive/01831/earthquake-man-run_1831780a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "177",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFuDhlCLhl7CfeILRMKp2TYZVRG7Fg0IPKaB4pHIEInCTdo7jSar7VW8U"
+     }
+    ],
+    "metatags": [
+     {
+      "tmgads.zone": "news.worldnews.australiaandthepacific.newzealand",
+      "tmgads.channel": "news",
+      "tmgads.section": "news-world_news-australia_and_the_pacific-new_zealand",
+      "tmgads.articleid": "9094955",
+      "tmgads.pagetype": "story",
+      "tmgads.level": "5",
+      "tmgads.geo": "US",
+      "section-id": "2164",
+      "last-modified": "2012-02-21",
+      "article-id": "9094955",
+      "title": "Christchurch earthquake timeline: New Zealand's biggest quakes",
+      "gsamlc": "news/worldnews/australiaandthepacific/newzealand",
+      "gsachannel": "news",
+      "gsachannelname": "News",
+      "gsacategory": "worldnews",
+      "gsagenre": "australiaandthepacific",
+      "gsasectionuniquename": "news-world_news-australia_and_the_pacific-new_zealand",
+      "gsaarticletype": "Story",
+      "dc.date.issued": "2012-02-21",
+      "fb:app_id": "120118784736295",
+      "fb:admins": "686953094,531239902,100002344351237",
+      "og:description": "When a 6.3-magnitude earthquake hit New Zealand's second-biggest city on   February 22 last year, it was one of the worst natural disasters the country   had suffered in recent history. Here are some of the other earthquakes that   have shaken the country.",
+      "og:site_name": "Telegraph.co.uk",
+      "og:title": "Christchurch earthquake timeline: New Zealand's biggest quakes - Telegraph",
+      "og:url": "http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/newzealand/9094955/Christchurch-earthquake-timeline-New-Zealands-biggest-quakes.html",
+      "og:image": "http://i.telegraph.co.uk/multimedia/archive/01831/earthquake-man-run_1831780a.jpg",
+      "og:type": "article",
+      "twitter:card": "summary",
+      "twitter:site": "@Telegraph",
+      "dcsext.mlc": "/news/worldnews/australiaandthepacific/newzealand/article",
+      "dcsext.genre": "australiaandthepacific",
+      "dcsext.category": "worldnews",
+      "wt.cg_s": "worldnews",
+      "dcsext.channel": "news",
+      "wt.cg_n": "news",
+      "dcsext.content_type": "Story",
+      "dcsext.level": "5",
+      "dcsext.articlefirstpublished": "2012-02-21",
+      "dcsext.articleid": "9094955",
+      "dcsext.cf": "1",
+      "dcsext.pd": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 1st September | HistoryOrb.com",
+   "htmlTitle": "Historical Events on 1st \u003cb\u003eSeptember\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/september/1",
+   "displayLink": "www.historyorb.com",
+   "snippet": "Historical events for the 1st of September. See what famous, interesting and   notable events happened throughout history on 1 September.",
+   "htmlSnippet": "Historical events for the 1st of \u003cb\u003eSeptember\u003c/b\u003e. See what famous, interesting and \u003cbr\u003e  notable events happened throughout history on \u003cb\u003e1 September\u003c/b\u003e.",
+   "cacheId": "C55TwLjKN8IJ",
+   "formattedUrl": "www.historyorb.com/events/september/1",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003eseptember\u003c/b\u003e/\u003cb\u003e1\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BBC News - Japan profile - Timeline",
+   "htmlTitle": "BBC News - Japan profile - Timeline",
+   "link": "http://www.bbc.co.uk/news/world-asia-pacific-15219730",
+   "displayLink": "www.bbc.co.uk",
+   "snippet": "Nov 16, 2012 ... 1923 - Earthquake in Tokyo region kills more than 100,000 people. ... 1942 -   Japan occupies a succession of countries, including the Philippines, Dutch ... war   criminals; Ceremonies at the shrine raise hackles across Asia ... 2002 September   - Koizumi becomes the first Japanese leader to visit North Korea.",
+   "htmlSnippet": "Nov 16, 2012 \u003cb\u003e...\u003c/b\u003e 1923 - \u003cb\u003eEarthquake\u003c/b\u003e in Tokyo region kills more than 100,000 people. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1942\u003c/b\u003e - \u003cbr\u003e  Japan occupies a succession of countries, including the Philippines, Dutch \u003cb\u003e...\u003c/b\u003e war \u003cbr\u003e  criminals; Ceremonies at the shrine raise hackles across \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 2002 \u003cb\u003eSeptember\u003c/b\u003e \u003cbr\u003e  - Koizumi becomes the first Japanese leader to visit North Korea.",
+   "cacheId": "rfwzzMfeulcJ",
+   "formattedUrl": "www.bbc.co.uk/news/world-asia-pacific-15219730",
+   "htmlFormattedUrl": "www.bbc.co.uk/news/world-\u003cb\u003easia\u003c/b\u003e-pacific-15219730",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.bbcimg.co.uk/media/images/55912000/jpg/_55912632_night_tokyo.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "243",
+      "height": "136",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLV1313ZNUUP5jnRvB-QxQ2IrACSprCa7K4TjrzRDLD6em67BU2rk2bGWL"
+     }
+    ],
+    "metatags": [
+     {
+      "originalpublicationdate": "2012/11/16 09:22:06",
+      "ukfs_url": "/news/world-asia-pacific-15219730",
+      "headline": "Japan profile",
+      "ifs_url": "/news/world-asia-pacific-15219730",
+      "section": "Asia-Pacific",
+      "contentflavor": "STORY",
+      "cps_id": "15219730",
+      "cps_site_name": "BBC News",
+      "cps_section_path": "World/Asia Pacific",
+      "cps_asset_type": "STY",
+      "cps_platform": "HighWeb",
+      "cps_audience": "US",
+      "og:title": "Japan profile",
+      "og:type": "article",
+      "og:url": "http://www.bbc.co.uk/news/world-asia-pacific-15219730",
+      "og:site_name": "BBC News",
+      "bbcsearch_noindex": "atom",
+      "application-name": "BBC News",
+      "msapplication-tileimage": "/img/1_0_2/cream/hi/news/bbc-news-pin.png",
+      "msapplication-tilecolor": "#CC0101",
+      "viewport": "width = 996",
+      "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more",
+      "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico"
+     }
+    ]
+   }
+  }
+ ]
+}

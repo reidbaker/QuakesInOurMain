@@ -1,0 +1,270 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 12 1929 North America Earthquake",
+    "totalResults": "95800",
+    "searchTerms": "Aug 12 1929 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 12 1929 North America Earthquake",
+    "totalResults": "95800",
+    "searchTerms": "Aug 12 1929 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.463464,
+  "formattedSearchTime": "0.46",
+  "totalResults": "95800",
+  "formattedTotalResults": "95,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... The earthquake was centered in the gold mining area of Welkom about ... 15 cm.   at Hilo, 12 cm. at Nawiliwili and 5 cm. at Honolulu, Hawaii; and ... The Pacific   Plate is moving northwest with respect to the North American Plate at   approximately 56 ..... 45 miles east of the region hit by the August earthquake.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom about \u003cb\u003e...\u003c/b\u003e 15 cm. \u003cbr\u003e  at Hilo, \u003cb\u003e12\u003c/b\u003e cm. at Nawiliwili and 5 cm. at Honolulu, Hawaii; and \u003cb\u003e...\u003c/b\u003e The Pacific \u003cbr\u003e  Plate is moving northwest with respect to the \u003cb\u003eNorth American\u003c/b\u003e Plate at \u003cbr\u003e  approximately 56 \u003cb\u003e.....\u003c/b\u003e 45 miles east of the region hit by the \u003cb\u003eAugust earthquake\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New York Earthquakes",
+   "htmlTitle": "New York \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/new_york/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Strong earthquakes in 1638, 1661, 1663, and 1732 in the St. Lawrence ...   occurred in the Attica area from a strong shock on August 12, 1929.",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Strong \u003cb\u003eearthquakes\u003c/b\u003e in 1638, 1661, 1663, and 1732 in the St. Lawrence \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  occurred in the Attica area from a strong shock on \u003cb\u003eAugust 12, 1929\u003c/b\u003e.",
+   "cacheId": "SLSYXci3fnQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/new_york/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/new_york/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Hazard in Pennsylvania",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Hazard in Pennsylvania",
+   "link": "http://www.dcnr.state.pa.us/ucmprd1/groups/public/documents/document/dcnr_014601.pdf",
+   "displayLink": "www.dcnr.state.pa.us",
+   "snippet": "only the eastern half of North America, Pennsylvania has experienced fewer and   .... Earthquakes in eastern North America .... County), Pa., on August 12, 1929.",
+   "htmlSnippet": "only the eastern half of \u003cb\u003eNorth America\u003c/b\u003e, Pennsylvania has experienced fewer and \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e County), Pa., on \u003cb\u003eAugust 12, 1929\u003c/b\u003e.",
+   "cacheId": "CMsrqIhH06QJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dcnr.state.pa.us/ucmprd1/groups/public/.../dcnr_014601.pdf",
+   "htmlFormattedUrl": "www.dcnr.state.pa.us/ucmprd1/groups/public/.../dcnr_014601.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030618190933Z",
+      "moddate": "D:20030618154148-04'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "creator": "QuarkXPress(tm) for Windows 5.01"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New York Geology and Earthquake Hazard",
+   "htmlTitle": "New York Geology and \u003cb\u003eEarthquake\u003c/b\u003e Hazard",
+   "link": "ftp://mceer.buffalo.edu/pub/searches/07/09/070902.html",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Attica, New York earthquake, August 12, 1929. .... The Geology of North America   series is part of the Decade of North American Geology (DNAG) Project.",
+   "htmlSnippet": "Attica, New York \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eAugust 12, 1929\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e The Geology of \u003cb\u003eNorth America\u003c/b\u003e \u003cbr\u003e  series is part of the Decade of \u003cb\u003eNorth American\u003c/b\u003e Geology (DNAG) Project.",
+   "cacheId": "RKqANiMRju8J",
+   "formattedUrl": "ftp://mceer.buffalo.edu/pub/searches/07/09/070902.html",
+   "htmlFormattedUrl": "ftp://mceer.buffalo.edu/pub/searches/07/09/070902.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 East Azerbaijan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The deformation in the area near Tabriz is dominated by the North Tabriz Fault, ...   A 5.0 quake struck three hours later and, early on August 12, a 5.1 aftershock   struck ... statement on August 12: \"The American [sic] people send the Iranian   people our ..... 1909 Borujerd ￂﾷ 1929 Koppeh Dagh ￂﾷ 1930 Salmas ￂﾷ 1962 Bou'in-  Zahra ...",
+   "htmlSnippet": "The deformation in the area near Tabriz is dominated by the \u003cb\u003eNorth\u003c/b\u003e Tabriz Fault, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  A 5.0 \u003cb\u003equake\u003c/b\u003e struck three hours later and, early on \u003cb\u003eAugust 12\u003c/b\u003e, a 5.1 aftershock \u003cbr\u003e  struck \u003cb\u003e...\u003c/b\u003e statement on \u003cb\u003eAugust 12\u003c/b\u003e: &quot;The \u003cb\u003eAmerican\u003c/b\u003e [sic] people send the Iranian \u003cbr\u003e  people our \u003cb\u003e.....\u003c/b\u003e 1909 Borujerd &middot; \u003cb\u003e1929\u003c/b\u003e Koppeh Dagh &middot; 1930 Salmas &middot; 1962 Bou&#39;in-\u003cbr\u003e  Zahra \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z3LJZUSFL8IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/250px-Iran_relief_location_map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlK7xfIu2EE120ax5sst5KSWyd5SxHE-3pbK-lYso7uZkfMn3WOONAqcQQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "QUAKELINEￂﾮ Literature Search ￢ﾀﾓ Clarendon Linden Fault",
+   "htmlTitle": "QUAKELINEￂﾮ Literature Search ￢ﾀﾓ Clarendon Linden Fault",
+   "link": "ftp://mceer.buffalo.edu/pub/searches/08/02/080201.html",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "The article includes a list of significant earthquakes that have occurred in New ...   NY, August 12, 1929; 5) Massena, NY/Cornwall, Ontario, September 5, 1944; ....   TI: CENTRAL AND EASTERN NORTH AMERICAN SEISMICITY: 1568-1987.",
+   "htmlSnippet": "The article includes a list of significant \u003cb\u003eearthquakes\u003c/b\u003e that have occurred in New \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  NY, \u003cb\u003eAugust 12, 1929\u003c/b\u003e; 5) Massena, NY/Cornwall, Ontario, September 5, 1944; \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  TI: CENTRAL AND EASTERN \u003cb\u003eNORTH AMERICAN\u003c/b\u003e SEISMICITY: 1568-1987.",
+   "cacheId": "9VfL-eGBJh0J",
+   "formattedUrl": "ftp://mceer.buffalo.edu/pub/searches/08/02/080201.html",
+   "htmlFormattedUrl": "ftp://mceer.buffalo.edu/pub/searches/08/02/080201.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNITED STATES EARTHQUAKES",
+   "htmlTitle": "UNITED STATES \u003cb\u003eEARTHQUAKES\u003c/b\u003e",
+   "link": "http://digital.library.unt.edu/ark:/67531/metadc40322/m2/1/high_res_d/earthquakes_1929_w.pdf",
+   "displayLink": "digital.library.unt.edu",
+   "snippet": "Earthquake epicenters-1929. 5. 3. ... Bulletin Seismological Society of America,   1929. .... New York: Three listed; Attica earthquake of August 12 destructive. .....   as far north as Great Falls, west toward Missoula, and east of Bozeman and ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e epicenters-\u003cb\u003e1929\u003c/b\u003e. 5. 3. \u003cb\u003e...\u003c/b\u003e Bulletin Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e1929\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e New York: Three listed; Attica \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eAugust 12\u003c/b\u003e destructive. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  as far \u003cb\u003enorth\u003c/b\u003e as Great Falls, west toward Missoula, and east of Bozeman and \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "digital.library.unt.edu/ark:/67531/.../m2/1/.../earthquakes_1929_w.pdf",
+   "htmlFormattedUrl": "digital.library.unt.edu/ark:/67531/.../m2/1/.../\u003cb\u003eearthquakes\u003c/b\u003e_\u003cb\u003e1929\u003c/b\u003e_w.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100629161623-07'00'",
+      "creator": "PdfCompressor 4.0.362",
+      "moddate": "D:20100629161623-07'00'",
+      "producer": "CVISION Technologies"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "LIQUEFACTION POTENTIAL OF COHESIONLESS SOILS",
+   "htmlTitle": "LIQUEFACTION POTENTIAL OF COHESIONLESS SOILS",
+   "link": "https://www.dot.ny.gov/divisions/engineering/technical-services/technical-services-repository/GDP-9b.pdf",
+   "displayLink": "www.dot.ny.gov",
+   "snippet": "Earthquakes of this magnitude can cause structural and ground failures from ......   old North American plate, where a great deal of the tectonic action took place   over .... occurred in this zone near Attica in Wyoming County on August 12, 1929.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e of this magnitude can cause structural and ground failures from \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  old \u003cb\u003eNorth American\u003c/b\u003e plate, where a great deal of the tectonic action took place \u003cbr\u003e  over \u003cb\u003e....\u003c/b\u003e occurred in this zone near Attica in Wyoming County on \u003cb\u003eAugust 12, 1929\u003c/b\u003e.",
+   "cacheId": "KJp3Kt7R9yIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "https://www.dot.ny.gov/divisions/engineering/technical.../GDP-9b.pdf",
+   "htmlFormattedUrl": "https://www.dot.ny.gov/divisions/engineering/technical.../GDP-9b.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "To:",
+      "author": "spalko",
+      "creator": "Microsoftￂﾮ Office Word 2007",
+      "creationdate": "D:20110914074542",
+      "moddate": "D:20110914074542",
+      "producer": "Microsoftￂﾮ Office Word 2007"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Virginia earthquake felt in Western New York - The Daily News ...",
+   "htmlTitle": "Virginia \u003cb\u003eearthquake\u003c/b\u003e felt in Western New York - The Daily News \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://thedailynewsonline.com/news/article_5f9efa9a-cdb2-11e0-a9bb-001cc4c03286.html",
+   "displayLink": "thedailynewsonline.com",
+   "snippet": "WARSAW ￢ﾀﾔ A \"moderate but significant\" earthquake originating in Virginia   Tuesday afternoon rattled ... Posted: Wednesday, August 24, 2011 12:00 am |   Updated: 1:15 am, Mon Nov 12, 2012. ... The quake was felt as far north as   Toronto, as far west as Indiana and ... 12, 1929, that measured about 5.6 on the   Richter Scale.",
+   "htmlSnippet": "WARSAW ￢ﾀﾔ A &quot;moderate but significant&quot; \u003cb\u003eearthquake\u003c/b\u003e originating in Virginia \u003cbr\u003e  Tuesday afternoon rattled \u003cb\u003e...\u003c/b\u003e Posted: Wednesday, \u003cb\u003eAugust\u003c/b\u003e 24, 2011 \u003cb\u003e12\u003c/b\u003e:00 am | \u003cbr\u003e  Updated: 1:15 am, Mon Nov \u003cb\u003e12\u003c/b\u003e, 2012. \u003cb\u003e...\u003c/b\u003e The \u003cb\u003equake\u003c/b\u003e was felt as far \u003cb\u003enorth\u003c/b\u003e as \u003cbr\u003e  Toronto, as far west as Indiana and \u003cb\u003e...\u003c/b\u003e \u003cb\u003e12\u003c/b\u003e, \u003cb\u003e1929\u003c/b\u003e, that measured about 5.6 on the \u003cbr\u003e  Richter Scale.",
+   "formattedUrl": "thedailynewsonline.com/.../article_5f9efa9a-cdb2-11e0-a9bb-001cc4c03286. html",
+   "htmlFormattedUrl": "thedailynewsonline.com/.../article_5f9efa9a-cdb2-11e0-a9bb-001cc4c03286. html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://bloximages.chicago2.vip.townnews.com/thedailynewsonline.com/content/tncms/assets/v3/editorial/0/d6/0d6ecb9e-ce05-11e0-80c9-001cc4c03286/4e54767071143.preview-100.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "114",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQG9mmCLgP4NK8avkNKq9quERbnHBjvaUj9bYky769TPIYe5aIDsbwHEg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Virginia earthquake felt in Western New York",
+      "og:site_name": "The Daily News Online",
+      "fb:app_id": "177314258985581",
+      "og:image": "http://bloximages.chicago2.vip.townnews.com/thedailynewsonline.com/content/tncms/assets/v3/editorial/0/d6/0d6ecb9e-ce05-11e0-80c9-001cc4c03286/4e54767071143.preview-100.jpg"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "The Daily News Online",
+      "url": "http://thedailynewsonline.com/",
+      "url_text": "The Daily News Online"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismic retrofitting strategies for bridges in moderate",
+   "htmlTitle": "\u003cb\u003eseismic\u003c/b\u003e retrofitting strategies for bridges in moderate",
+   "link": "http://www-personal.umich.edu/~nowak/Papers/Malik,%20paper%2012-14-02.doc",
+   "displayLink": "www-personal.umich.edu",
+   "snippet": "The mostly felt series of earthquakes occurred in 1811-12 near New Madrid,   Missouri. The largest of .... Table 1 Damaging Earthquakes in Eastern North   America ... St. Lawrence River, Quebec. VIII. 6.5. Aug. 12, 1929. Attica, New York.   VII. 5.2 ...",
+   "htmlSnippet": "The mostly felt series of \u003cb\u003eearthquakes\u003c/b\u003e occurred in 1811-12 near New Madrid, \u003cbr\u003e  Missouri. The largest of \u003cb\u003e....\u003c/b\u003e Table 1 Damaging \u003cb\u003eEarthquakes\u003c/b\u003e in Eastern \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e St. Lawrence River, Quebec. VIII. 6.5. \u003cb\u003eAug. 12, 1929\u003c/b\u003e. Attica, New York. \u003cbr\u003e  VII. 5.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D4MaXzjvupMJ",
+   "mime": "application/msword",
+   "fileFormat": "Microsoft Word",
+   "formattedUrl": "www-personal.umich.edu/~nowak/.../Malik,%20paper%2012-14-02.doc",
+   "htmlFormattedUrl": "www-personal.umich.edu/~nowak/.../Malik,%20paper%2012-14-02.doc"
+  }
+ ]
+}

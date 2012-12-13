@@ -1,0 +1,353 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 10 1997 Africa Earthquake",
+    "totalResults": "526000",
+    "searchTerms": "Feb 10 1997 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 10 1997 Africa Earthquake",
+    "totalResults": "526000",
+    "searchTerms": "Feb 10 1997 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.240065,
+  "formattedSearchTime": "0.24",
+  "totalResults": "526000",
+  "formattedTotalResults": "526,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1997",
+   "htmlTitle": "\u003cb\u003e1997\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 4.7,   SOUTH AFRICA, Dec 12 1997, 16:42:47, -26.951, 26.704, 199712121642 ..... 5.2  , SOUTH AFRICA, Feb 10 1997, 16:10:30, -26.923, 26.760 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 4.7, \u003cbr\u003e  SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Dec 12 1997, 16:42:47, -26.951, 26.704, 199712121642 \u003cb\u003e.....\u003c/b\u003e 5.2\u003cbr\u003e  , SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eFeb 10 1997\u003c/b\u003e, 16:10:30, -26.923, 26.760 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HMUJ7bMGrqcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1997\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 8, 2012 at 8:10 am by By Armand Vervaeck and James   Daniell ... South-Africa, 1976 - Magnitude : 5.2 ￢ﾀﾓ 4 people killed ... Russia (  Kamchatka), 1997 - Magnitude : 7.8 ... earthquake to have occurred on land in   the 20th Century; the direct opposite of the Agadir, Morocco earthquake of 29 Feb   1960.",
+   "htmlSnippet": "Last update: December 8, 2012 at 8:\u003cb\u003e10\u003c/b\u003e am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ￢ﾀﾓ 4 people killed \u003cb\u003e...\u003c/b\u003e Russia (\u003cbr\u003e  Kamchatka), \u003cb\u003e1997\u003c/b\u003e - Magnitude : 7.8 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e to have occurred on land in \u003cbr\u003e  the 20th Century; the direct opposite of the Agadir, Morocco \u003cb\u003eearthquake\u003c/b\u003e of 29 \u003cb\u003eFeb\u003c/b\u003e \u003cbr\u003e  1960.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Earthquakes to remember : Ecuador - December 10 1970 - Magnitude : 7.6 - 72   ... Earthquakes to remember : South-Africa - December 8 1976 - Magnitude : 5.2 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e to remember : Ecuador - December \u003cb\u003e10\u003c/b\u003e 1970 - Magnitude : 7.6 - 72 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes Triggered by Africa's Katse Dam Force Families to ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e Triggered by \u003cb\u003eAfrica&#39;s\u003c/b\u003e Katse Dam Force Families to \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.internationalrivers.org/resources/earthquakes-triggered-by-africa-s-katse-dam-force-families-to-abandon-damaged-village-3860",
+   "displayLink": "www.internationalrivers.org",
+   "snippet": "Monday, February 10, 1997. Earthquakes caused by the filling of a huge   reservoir in the southern African country of Lesotho have terrified local people for   more ...",
+   "htmlSnippet": "\u003cb\u003eMonday, February 10, 1997\u003c/b\u003e. \u003cb\u003eEarthquakes\u003c/b\u003e caused by the filling of a huge \u003cbr\u003e  reservoir in the southern \u003cb\u003eAfrican\u003c/b\u003e country of Lesotho have terrified local people for \u003cbr\u003e  more \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1YjGeaUHqa8J",
+   "formattedUrl": "www.internationalrivers.org/.../earthquakes-triggered-by-africa-s-katse-dam- force-families-to-abandon-damaged-village-3860",
+   "htmlFormattedUrl": "www.internationalrivers.org/.../\u003cb\u003eearthquakes\u003c/b\u003e-triggered-by-\u003cb\u003eafrica\u003c/b\u003e-s-katse-dam- force-families-to-abandon-damaged-village-3860",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.internationalrivers.org/files/styles/left/public/images/resource/aaron_levy/katsecrack.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "151",
+      "height": "334",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr4sIeN6m8Jwa8Bcr_QNYAKdSyp0kP0WS5atE3l0fxCrxtO-DqfEbUiFI"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "International Rivers",
+      "og:title": "Earthquakes Triggered by Africa's Katse Dam Force Families to Abandon Damaged Village",
+      "og:type": "website",
+      "og:url": "http://www.internationalrivers.org/resources/earthquakes-triggered-by-africa-s-katse-dam-force-families-to-abandon-damaged-village-3860"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on February 10 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eFebruary 10\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/feb10.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "February 10, 1098 Crusaders defeat Prince Redwan of Aleppo at Antioch ....   February 10, 1943 8th Army sweeps through North Africa to Tunisia ... February   10, 1965 In Northwestern Iran a 5.1 earthquake occurred. ... February 10, 1997   Lemrick Nelson found guilty in the fatal stabbing on Hasidic Jew Yankel   Rosenbaum in ...",
+   "htmlSnippet": "February 10, 1098 Crusaders defeat Prince Redwan of Aleppo at Antioch \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  February 10, 1943 8th Army sweeps through North \u003cb\u003eAfrica\u003c/b\u003e to Tunisia \u003cb\u003e...\u003c/b\u003e February \u003cbr\u003e  10, 1965 In Northwestern Iran a 5.1 \u003cb\u003eearthquake\u003c/b\u003e occurred. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFebruary 10\u003c/b\u003e, \u003cb\u003e1997\u003c/b\u003e \u003cbr\u003e  Lemrick Nelson found guilty in the fatal stabbing on Hasidic Jew Yankel \u003cbr\u003e  Rosenbaum in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oPdtzonHH3IJ",
+   "formattedUrl": "www.datesinhistory.com/feb10.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003efeb10\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic moment-frequency relation for shallow earthquakes ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e moment-frequency relation for shallow \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://moho.ess.ucla.edu/~kagan/reg.pdf",
+   "displayLink": "moho.ess.ucla.edu",
+   "snippet": "B2, PAGES 2835-2852, FEBRUARY 10,1997. Seismic moment-frequency   relation ... The earthquake size distribution is approximated by the gamma law: a   ..... Africa. 32. 0.67ￂﾱ0.13. 33. 38. Australia. 7. 0.66ￂﾱ0.28. 34. 42. N.E. Asia-  Greenland ...",
+   "htmlSnippet": "B2, PAGES 2835-2852, \u003cb\u003eFEBRUARY 10,1997\u003c/b\u003e. \u003cb\u003eSeismic\u003c/b\u003e moment-frequency \u003cbr\u003e  relation \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e size distribution is approximated by the gamma law: a \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eAfrica\u003c/b\u003e. 32. 0.67ￂﾱ0.13. 33. 38. Australia. 7. 0.66ￂﾱ0.28. 34. 42. N.E. Asia-\u003cbr\u003e  Greenland \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AyTyl5V1g2YJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "moho.ess.ucla.edu/~kagan/reg.pdf",
+   "htmlFormattedUrl": "moho.ess.ucla.edu/~kagan/reg.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "admin",
+      "creationdate": "D:19991229222535Z",
+      "creator": "Acrobat Capture Server 2.01",
+      "moddate": "D:20100512134822-07'00'",
+      "producer": "Adobe Acrobat 9.0 Paper Capture Plug-in"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NSF - News - News Archive",
+   "htmlTitle": "NSF - News - News Archive",
+   "link": "http://www.nsf.gov/news/archive-releases2.jsp",
+   "displayLink": "www.nsf.gov",
+   "snippet": "NSF TO ESTABLISH \"CYBERSYSTEM\" FOR EARTHQUAKE ENGINEERING ...   NSF 99-08 - February 10, 1999 .... BIOGENIC EMISSIONS HIGHER THAN   EXPECTED OVER AFRICAN SAVANNA; NSF PR 97-74 - December 10, 1997 ...",
+   "htmlSnippet": "NSF TO ESTABLISH &quot;CYBERSYSTEM&quot; FOR \u003cb\u003eEARTHQUAKE\u003c/b\u003e ENGINEERING \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  NSF 99-08 - \u003cb\u003eFebruary 10\u003c/b\u003e, 1999 \u003cb\u003e....\u003c/b\u003e BIOGENIC EMISSIONS HIGHER THAN \u003cbr\u003e  EXPECTED OVER \u003cb\u003eAFRICAN\u003c/b\u003e SAVANNA; NSF PR 97-74 - December \u003cb\u003e10\u003c/b\u003e, \u003cb\u003e1997\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "F9pp3APZkWAJ",
+   "formattedUrl": "www.nsf.gov/news/archive-releases2.jsp",
+   "htmlFormattedUrl": "www.nsf.gov/news/archive-releases2.jsp",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "eweir",
+      "language": "English",
+      "created": "12-14-2004",
+      "subject": "Archive of NSF News Material"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "References",
+   "htmlTitle": "References",
+   "link": "http://jgs.lyellcollection.org/content/154/6/947.refs",
+   "displayLink": "jgs.lyellcollection.org",
+   "snippet": "Rifting Archaean lithosphere: the Eyasi-Manyara-Natron rifts, East Africa. C.   EBINGER1,5, ..... Revision received February 10, 1997. ￂﾩ Geological Society of ...",
+   "htmlSnippet": "Rifting Archaean lithosphere: the Eyasi-Manyara-Natron rifts, East \u003cb\u003eAfrica\u003c/b\u003e. C. \u003cbr\u003e  EBINGER1,5, \u003cb\u003e.....\u003c/b\u003e Revision received \u003cb\u003eFebruary 10, 1997\u003c/b\u003e. ￂﾩ Geological Society of \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "jgs.lyellcollection.org/content/154/6/947.refs",
+   "htmlFormattedUrl": "jgs.lyellcollection.org/content/154/6/947.refs",
+   "pagemap": {
+    "person": [
+     {
+      "name": "C. EBINGER"
+     },
+     {
+      "name": "Y. POUDJOM DJOMANI"
+     },
+     {
+      "name": "E. MBEDE"
+     },
+     {
+      "name": "A. FOSTER"
+     }
+    ],
+    "metatags": [
+     {
+      "hw.ad-path": "/cgi/content/refs/154/6/947",
+      "hw.identifier": "/jgs/154/6/947.atom",
+      "dc.format": "text/html",
+      "dc.language": "en",
+      "dc.title": "Rifting Archaean lithosphere: the Eyasi-Manyara-Natron rifts, East Africa",
+      "dc.identifier": "10.1144/gsjgs.154.6.0947",
+      "dc.date": "1997-12-01",
+      "dc.publisher": "Geological Society of London",
+      "dc.contributor": "C. EBINGER",
+      "citation_journal_title": "Journal of the Geological Society",
+      "citation_journal_abbrev": "Journal of the Geological Society",
+      "citation_issn": "0016-7649",
+      "citation_author": "C. EBINGER",
+      "citation_title": "Rifting Archaean lithosphere: the Eyasi-Manyara-Natron rifts, East Africa",
+      "citation_date": "12/01/1997",
+      "citation_volume": "154",
+      "citation_issue": "6",
+      "citation_firstpage": "947",
+      "citation_lastpage": "960",
+      "citation_id": "154/6/947",
+      "citation_mjid": "jgs;154/6/947",
+      "citation_doi": "10.1144/gsjgs.154.6.0947",
+      "citation_abstract_html_url": "http://jgs.lyellcollection.org/content/154/6/947.abstract",
+      "citation_pdf_url": "http://jgs.lyellcollection.org/content/154/6/947.full.pdf",
+      "citation_public_url": "http://jgs.lyellcollection.org/content/154/6/947",
+      "citation_section": "Article"
+     }
+    ],
+    "scholarlyarticle": [
+     {
+      "articlebody": "Rifting Archaean lithosphere: the Eyasi-Manyara-Natron rifts, East Africa C. EBINGER1,5, Y. POUDJOM DJOMANI1, E. MBEDE2, A. FOSTER3 and J. B. DAWSON4 1Department of Earth Sciences, University...",
+      "headline": "Rifting Archaean lithosphere: the Eyasi-Manyara-Natron rifts, East Africa",
+      "datepublished": "December 1997"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in Southern and Central Africa",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in Southern and Central \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/v/safrica/biggest",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The Largest Earthquakes in Southern and Central Africa. ... Depth: 16 km. I. over   27 years ago, 6.4 magnitude, 10 km depth. Madimba, Mtwara, Tanzania ...",
+   "htmlSnippet": "The Largest \u003cb\u003eEarthquakes\u003c/b\u003e in Southern and Central \u003cb\u003eAfrica\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Depth: 16 km. I. over \u003cbr\u003e  27 years ago, 6.4 magnitude, \u003cb\u003e10\u003c/b\u003e km depth. Madimba, Mtwara, Tanzania \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m62cDSAclQYJ",
+   "formattedUrl": "earthquaketrack.com/v/safrica/biggest",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/s\u003cb\u003eafrica\u003c/b\u003e/biggest",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "NDXASV7TK5B6gR9DrJFeDLvnZI7xgwC/ECeK3ULvUG4="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Charleston, Missouri - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Charleston, Missouri - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Charleston,_Missouri",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The city was the epicenter of the October 31, 1895 6.6 earthquake on the New   Madrid ... On February 10, 1997, the courthouse was damaged by fire and was ...   The racial makeup of the city was 47.6% White, 50.4% African American, 0.3% ...",
+   "htmlSnippet": "The city was the epicenter of the October 31, 1895 6.6 \u003cb\u003eearthquake\u003c/b\u003e on the New \u003cbr\u003e  Madrid \u003cb\u003e...\u003c/b\u003e On \u003cb\u003eFebruary 10, 1997\u003c/b\u003e, the courthouse was damaged by fire and was \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The racial makeup of the city was 47.6% White, 50.4% \u003cb\u003eAfrican\u003c/b\u003e American, 0.3% \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cOfF8TCtRaQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Charleston,_Missouri",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Charleston,_Missouri",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Charleston-mo-map.gif/250px-Charleston-mo-map.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "148",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTB3cgV_hNZrlBfNQBbM4GsU6l4ZrHU75hw5kPuvJ7SwkT_9y7rzhaDs7OZ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Charleston, Missouri",
+      "category": "City"
+     }
+    ]
+   }
+  }
+ ]
+}

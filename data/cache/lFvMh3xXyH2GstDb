@@ -1,0 +1,335 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 14 1951 North America Earthquake",
+    "totalResults": "76600",
+    "searchTerms": "Mar 14 1951 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 14 1951 North America Earthquake",
+    "totalResults": "76600",
+    "searchTerms": "Mar 14 1951 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.310799,
+  "formattedSearchTime": "0.31",
+  "totalResults": "76600",
+  "formattedTotalResults": "76,600"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news ￢ﾀﾓ Now moved to a special category",
+   "htmlTitle": "Worldwide VOLCANO news ￢ﾀﾓ Now moved to a special category",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... Jon Frimann (Iceland Earthquakes and Volcanoes blog) reports a cluster .... June   14, 2012 .... Volcanic activity from the American West to Colombia ..... Volcanic   Plateau of New Zealand's North Island has been on close watch ...",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e Jon Frimann (Iceland \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanoes blog) reports a cluster \u003cb\u003e....\u003c/b\u003e June \u003cbr\u003e  \u003cb\u003e14\u003c/b\u003e, 2012 \u003cb\u003e....\u003c/b\u003e Volcanic activity from the \u003cb\u003eAmerican\u003c/b\u003e West to Colombia \u003cb\u003e.....\u003c/b\u003e Volcanic \u003cbr\u003e  Plateau of New Zealand&#39;s \u003cb\u003eNorth\u003c/b\u003e Island has been on close watch \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "On 14 March 1951, shortly before 11 am, a magnitude 5.8 quake with ... [14] 30   people were injured in North Rhine-Westphalia alone, mostly by falling roof tiles   .... and seismic hazard in the northern Rhine area\", Geological Society of America ...",
+   "htmlSnippet": "On \u003cb\u003e14 March 1951\u003c/b\u003e, shortly before 11 am, a magnitude 5.8 \u003cb\u003equake\u003c/b\u003e with \u003cb\u003e...\u003c/b\u003e [14] 30 \u003cbr\u003e  people were injured in \u003cb\u003eNorth\u003c/b\u003e Rhine-Westphalia alone, mostly by falling roof tiles \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e and \u003cb\u003eseismic\u003c/b\u003e hazard in the northern Rhine area&quot;, Geological Society of \u003cb\u003eAmerica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "1951 Feb 13 22:12:53.8, 55.55N, 156.35W, 7.1, Alaska Peninsula. 1953 Jan 05   07:48:21.6, 53.32N, 171.04E, 7.1, Near Islands. 1955 Mar 14 13:12:04.0, 52.5N ...",
+   "htmlSnippet": "\u003cb\u003e1951\u003c/b\u003e Feb 13 22:12:53.8, 55.55N, 156.35W, 7.1, Alaska Peninsula. 1953 Jan 05 \u003cbr\u003e  07:48:21.6, 53.32N, 171.04E, 7.1, Near Islands. 1955 \u003cb\u003eMar 14\u003c/b\u003e 13:12:04.0, 52.5N \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Hazard in Pennsylvania",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Hazard in Pennsylvania",
+   "link": "http://www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "displayLink": "www.dcnr.state.pa.us",
+   "snippet": "Richter magnitude 5.3 earthquake that had an epicenter near Au. Sable Forks,   N. Y. ... only the eastern half of North America, Pennsylvania has experienced .....   Mar. 19,. 1880. Chambersburg. 3.5. Epicenter may have been in Maryland ...   1951. Allentown. 3.3 (est.) Sept. 14,. 1961. Allentown. Unknown. LUZERNE   COUNTY ...",
+   "htmlSnippet": "Richter magnitude 5.3 \u003cb\u003eearthquake\u003c/b\u003e that had an epicenter near Au. Sable Forks, \u003cbr\u003e  N. Y. \u003cb\u003e...\u003c/b\u003e only the eastern half of \u003cb\u003eNorth America\u003c/b\u003e, Pennsylvania has experienced \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eMar\u003c/b\u003e. 19,. 1880. Chambersburg. 3.5. Epicenter may have been in Maryland \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1951\u003c/b\u003e. Allentown. 3.3 (est.) Sept. \u003cb\u003e14\u003c/b\u003e,. 1961. Allentown. Unknown. LUZERNE \u003cbr\u003e  COUNTY \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yLantnncP08J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "htmlFormattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030630201551Z",
+      "creator": "QuarkXPress(tm) for Windows 5.01",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "moddate": "D:20070716094835-04'00'",
+      "title": "front.qxd (Page 3)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tectonics of the Caribbean and Middle America",
+   "htmlTitle": "Tectonics of the Caribbean and Middle \u003cb\u003eAmerica\u003c/b\u003e",
+   "link": "http://www.colorado.edu/GeolSci/faculty/molnarpdf/1969GSAB.Molnar-Sykes.pdf",
+   "displayLink": "www.colorado.edu",
+   "snippet": "and beneath the rest of Central America in a more north￢ﾀﾔnorth'easterly direction.   The Cocos ..... events listed by Gutenberg and Richter (1951) and Acharya ...   number 14) for -an earthquake on the Rivera fracture ZUIIC was determined   Sykes (1967). Asterisks ..... 102 23 Mar 66 16.82 s5-.90 '9 250 10 1-601 -11 c LL-  SS ...",
+   "htmlSnippet": "and beneath the rest of Central \u003cb\u003eAmerica\u003c/b\u003e in a more \u003cb\u003enorth\u003c/b\u003e￢ﾀﾔ\u003cb\u003enorth\u003c/b\u003e&#39;easterly direction. \u003cbr\u003e  The Cocos \u003cb\u003e.....\u003c/b\u003e events listed by Gutenberg and Richter (\u003cb\u003e1951\u003c/b\u003e) and Acharya \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  number \u003cb\u003e14\u003c/b\u003e) for -an \u003cb\u003eearthquake\u003c/b\u003e on the Rivera fracture ZUIIC was determined \u003cbr\u003e  Sykes (1967). Asterisks \u003cb\u003e.....\u003c/b\u003e 102 23 \u003cb\u003eMar\u003c/b\u003e 66 16.82 s5-.90 &#39;9 250 10 1-601 -11 c LL-\u003cbr\u003e  SS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9fKHpnnB7SsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.colorado.edu/GeolSci/faculty/.../1969GSAB.Molnar-Sykes.pdf",
+   "htmlFormattedUrl": "www.colorado.edu/GeolSci/faculty/.../1969GSAB.Molnar-Sykes.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creator": "Acrobat 5.0 Image Conversion Plug-in for Macintosh",
+      "creationdate": "Fri Apr  9 07:59:57 2004",
+      "moddate": "Tue Apr 20 08:10:21 2004"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - IN THE NEWS",
+   "htmlTitle": "Seismicity of Western Australia - IN THE NEWS",
+   "link": "http://www.seismicity.see.uwa.edu.au/welcome/in_the_news",
+   "displayLink": "www.seismicity.see.uwa.edu.au",
+   "snippet": "Jun 13, 2012 ... 23 Mar, 5.7, near Ernabella SA, largest Australian earthquake for some years.   surface cracks. 2011 ... More information on historical events in Central America   ... 20 Dec 2007, 6.6, North Island, N.Z., extensive damage in Gisbon. ... 1951 Aug   21 - Magnitude 6.9 event - damaged many homes and triggered ...",
+   "htmlSnippet": "Jun 13, 2012 \u003cb\u003e...\u003c/b\u003e 23 \u003cb\u003eMar\u003c/b\u003e, 5.7, near Ernabella SA, largest Australian \u003cb\u003eearthquake\u003c/b\u003e for some years. \u003cbr\u003e  surface cracks. 2011 \u003cb\u003e...\u003c/b\u003e More information on historical events in Central \u003cb\u003eAmerica\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 20 Dec 2007, 6.6, \u003cb\u003eNorth\u003c/b\u003e Island, N.Z., extensive damage in Gisbon. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1951\u003c/b\u003e Aug \u003cbr\u003e  21 - Magnitude 6.9 event - damaged many homes and triggered \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tvtWYazPt9IJ",
+   "formattedUrl": "www.seismicity.see.uwa.edu.au/welcome/in_the_news",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.see.uwa.edu.au/welcome/in_the_news",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=150795"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "221",
+      "height": "228",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUznTCZ5Q-LqI7DxEOcH1IFmMxEgv8eJhijRt4llYxpBXP8uvUMRfXGCf"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "IN THE NEWS",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/60905",
+      "dc.date.modified": "2012-06-13",
+      "dc.date.created": "2004-11-24",
+      "dc.date.valid": "2013-06-13",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/60905",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A STUDY OF NORTHEASTERN NORTH AMERICAN SPECTRAL ...",
+   "htmlTitle": "A STUDY OF NORTHEASTERN \u003cb\u003eNORTH AMERICAN\u003c/b\u003e SPECTRAL \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/67/3/599.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "Thirty-two earthquakes in northeastern North America ranging in seismic   moments .... 1951. 21-26. 41.1. 74.3. 1.4E21. 1.4E21. 1. 0.65. 3.6 2.4. 3.8. 21. 14   Oct. 1952. 22-04 ... II Mar. 1976. 03-30. 41.6. 71.3. 1.5E19. 1.5E19. 5. 0.12. 1.8   0.4. 2.2 ...",
+   "htmlSnippet": "Thirty-two \u003cb\u003eearthquakes\u003c/b\u003e in northeastern \u003cb\u003eNorth America\u003c/b\u003e ranging in \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  moments \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1951\u003c/b\u003e. 21-26. 41.1. 74.3. 1.4E21. 1.4E21. 1. 0.65. 3.6 2.4. 3.8. 21. \u003cb\u003e14\u003c/b\u003e \u003cbr\u003e  Oct. 1952. 22-04 \u003cb\u003e...\u003c/b\u003e II \u003cb\u003eMar\u003c/b\u003e. 1976. 03-30. 41.6. 71.3. 1.5E19. 1.5E19. 5. 0.12. 1.8 \u003cbr\u003e  0.4. 2.2 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/67/3/599.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/67/3/599.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "0102940004.TIF",
+      "creationdate": "Wed Aug 10 13:37:57 2005",
+      "title": "0102940004.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050811094834+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline Disasters and Tragedies",
+   "htmlTitle": "Timeline Disasters and Tragedies",
+   "link": "http://timelines.ws/subjects/Disasters.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1287 Dec 14, The Zuider Zee seawall collapsed with the loss of 50,000 lives. ...   1570 Nov 2, A tidal wave in the North Sea destroyed the sea walls from Holland   to ... 1812 Mar 26, Earthquake destroyed 90% of Caracas; about 20,000 died. ...   1857 Sep 12, A wooden-hulled steamship, the SS Central America under Capt.",
+   "htmlSnippet": "1287 Dec \u003cb\u003e14\u003c/b\u003e, The Zuider Zee seawall collapsed with the loss of 50,000 lives. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1570 Nov 2, A tidal wave in the \u003cb\u003eNorth\u003c/b\u003e Sea destroyed the sea walls from Holland \u003cbr\u003e  to \u003cb\u003e...\u003c/b\u003e 1812 \u003cb\u003eMar\u003c/b\u003e 26, \u003cb\u003eEarthquake\u003c/b\u003e destroyed 90% of Caracas; about 20,000 died. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1857 Sep 12, A wooden-hulled steamship, the SS Central \u003cb\u003eAmerica\u003c/b\u003e under Capt.",
+   "cacheId": "Q61zzhQhMmQJ",
+   "formattedUrl": "timelines.ws/subjects/Disasters.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/Disasters.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Strongest Ever Japan Earthquake and Tsunami, News updates for ...",
+   "htmlTitle": "Strongest Ever Japan \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami, News updates for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.garyjwolff.com/strongest-ever-japan-earthquake-and-tsunami-May-14-20-stories.html",
+   "displayLink": "www.garyjwolff.com",
+   "snippet": "May 14-20, 2011 news updates for the strongest ever Japan earthquake and   tsunami ... May 20, 2011 22:50 (JST): North American plate slipped as far as 30   meters - A ... to 14.7 billion dollars, which is the largest since the company   opened in 1951. ..... News updates for Mar. 12-18, 2011 (original page - 1st week   after Mar.",
+   "htmlSnippet": "May \u003cb\u003e14\u003c/b\u003e-20, 2011 news updates for the strongest ever Japan \u003cb\u003eearthquake\u003c/b\u003e and \u003cbr\u003e  tsunami \u003cb\u003e...\u003c/b\u003e May 20, 2011 22:50 (JST): \u003cb\u003eNorth American\u003c/b\u003e plate slipped as far as 30 \u003cbr\u003e  meters - A \u003cb\u003e...\u003c/b\u003e to 14.7 billion dollars, which is the largest since the company \u003cbr\u003e  opened in \u003cb\u003e1951\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e News updates for \u003cb\u003eMar\u003c/b\u003e. 12-18, 2011 (original page - 1st week \u003cbr\u003e  after \u003cb\u003eMar\u003c/b\u003e.",
+   "cacheId": "tGCisw_zOpkJ",
+   "formattedUrl": "www.garyjwolff.com/strongest-ever-japan-earthquake-and-tsunami-May-14- 20-stories.html",
+   "htmlFormattedUrl": "www.garyjwolff.com/strongest-ever-japan-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami-May-\u003cb\u003e14\u003c/b\u003e- 20-stories.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.garyjwolff.com/image-files/march_quake_mechanism.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_0cTo9fUKtTEhf7IWmFsnk76eRwsv3hImiMHtPd3-jnUaRsyc-hrQOG4"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Strongest Ever Japan Earthquake and Tsunami, News  updates for May 14-20, 2011",
+      "og:description": "May 14-20, 2011 news updates for the strongest ever Japan earthquake and tsunami on Mar. 11, 2011, including maps, photos, and videos.",
+      "og:type": "article",
+      "og:url": "http://www.garyjwolff.com/strongest-ever-japan-earthquake-and-tsunami-May-14-20-stories.html",
+      "og:image": "http://www.garyjwolff.com/image-files/march_quake_mechanism.jpg",
+      "fb:app_id": "231971580176652"
+     }
+    ]
+   }
+  }
+ ]
+}

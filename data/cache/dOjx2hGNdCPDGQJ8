@@ -1,0 +1,327 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 13 1989 Australia Earthquake",
+    "totalResults": "375000",
+    "searchTerms": "Oct 13 1989 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 13 1989 Australia Earthquake",
+    "totalResults": "375000",
+    "searchTerms": "Oct 13 1989 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.426059,
+  "formattedSearchTime": "0.43",
+  "totalResults": "375000",
+  "formattedTotalResults": "375,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... China, 1989 - Magnitude : 5.2 ￢ﾀﾓ 4 people killed .... November 13 2012 ... After the   quake struck off the west coast of Haida Gwaii on Oct. 27 at 8:04 p.m. ..... 37 cm at   Pago Pago, American Samoa; 4 cm at Southport, Australia.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e China, \u003cb\u003e1989\u003c/b\u003e - Magnitude : 5.2 ￢ﾀﾓ 4 people killed \u003cb\u003e....\u003c/b\u003e November \u003cb\u003e13\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e After the \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e struck off the west coast of Haida Gwaii on \u003cb\u003eOct\u003c/b\u003e. 27 at 8:04 p.m. \u003cb\u003e.....\u003c/b\u003e 37 cm at \u003cbr\u003e  Pago Pago, American Samoa; 4 cm at Southport, \u003cb\u003eAustralia\u003c/b\u003e.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../13/template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e13\u003c/b\u003e/template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic Events - Earthquakes - Geoscience Australia",
+   "htmlTitle": "Historic Events - \u003cb\u003eEarthquakes\u003c/b\u003e - Geoscience \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.ga.gov.au/hazards/earthquakes/earthquake-basics/historic.html",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Australian Earthquake Engineering Society 2010 Conference, Perth, Western ...   1989 when an earthquake shook Newcastle in New South Wales, leaving 13 ...   earthquake of October 1968 was not the largest in Western Australia's history, ...",
+   "htmlSnippet": "\u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering Society 2010 Conference, Perth, Western \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1989\u003c/b\u003e when an \u003cb\u003eearthquake\u003c/b\u003e shook Newcastle in New South Wales, leaving \u003cb\u003e13\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eOctober\u003c/b\u003e 1968 was not the largest in Western \u003cb\u003eAustralia&#39;s\u003c/b\u003e history, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JhDevNXPNjcJ",
+   "formattedUrl": "www.ga.gov.au/hazards/earthquakes/earthquake-basics/historic.html",
+   "htmlFormattedUrl": "www.ga.gov.au/hazards/\u003cb\u003eearthquakes\u003c/b\u003e/\u003cb\u003eearthquake\u003c/b\u003e-basics/historic.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.title": "Historic Events - Earthquakes",
+      "dc.creator": "c\\=AU\\;o\\=Australia Government\\;ou\\=Geoscience Australia",
+      "dc.publisher": "c\\=AU\\;o\\=Australian Government\\;ou\\=Geoscience Australia",
+      "agls.function": "Earth Science",
+      "dc.identifier": "historic.html",
+      "dc.format": "text/html",
+      "dc.language": "en-AU",
+      "agls.audience": "all",
+      "dc.coverage.jurisdiction": "Commonwealth of Australia",
+      "dc.rights": "; \u003cmeta name=\"DC.Rights\" scheme=\"URI\" content=\"http://creativecommons.org/licenses/by/2.5/au/\"\u003e",
+      "dc.date.created": "2010-06-22 10:34:20",
+      "dc.date.modified": "2012-11-23 17:46:06",
+      "dc.description": "Historically, bushfires, floods, earthquakes, landslides and cyclones have caused loss of life and significant damage to property and infrastructure.",
+      "topic": "Hazards",
+      "topic id": "700",
+      "multimedia products url": "http://www.ga.gov.au/cedda/multimedia/",
+      "publication products url": "http://www.ga.gov.au/cedda/publications/",
+      "map products url": "http://www.ga.gov.au/cedda/maps/",
+      "data and application products url": "http://www.ga.gov.au/cedda/data/",
+      "genericemail": "earthquakes@ga.gov.au",
+      "newsitemdate": "01 January 2010"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ￢ﾀﾓ 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ￢ﾀﾓ 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... Mw8.1 ￢ﾀﾓ May 23, 1989 ￢ﾀﾓ North of Macquarie Island ... Mw8.5 ￢ﾀﾓ October 13, 1963   ￢ﾀﾓ Kuril Islands (v. minor damage) ... actual greater area is the intersection in   between the Indian Plate, the Australian plate and the Burma plate.",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e Mw8.1 ￢ﾀﾓ May 23, \u003cb\u003e1989\u003c/b\u003e ￢ﾀﾓ North of Macquarie Island \u003cb\u003e...\u003c/b\u003e Mw8.5 ￢ﾀﾓ \u003cb\u003eOctober 13\u003c/b\u003e, 1963 \u003cbr\u003e  ￢ﾀﾓ Kuril Islands (v. minor damage) \u003cb\u003e...\u003c/b\u003e actual greater area is the intersection in \u003cbr\u003e  between the Indian Plate, the \u003cb\u003eAustralian\u003c/b\u003e plate and the Burma plate.",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1989",
+   "htmlTitle": "\u003cb\u003e1989\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1989",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 5.3, NEAR THE SOUTH COAST OF HONSHU, JAPAN, Oct 13 1989, 21:19:58,   34.792, 139.548, 198910132119. 5.5, WESTERN AUSTRALIA ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 5.3, NEAR THE SOUTH COAST OF HONSHU, JAPAN, \u003cb\u003eOct 13 1989\u003c/b\u003e, 21:19:58, \u003cbr\u003e  34.792, 139.548, 198910132119. 5.5, WESTERN \u003cb\u003eAUSTRALIA\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "amogNa_WR7UJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1989",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1989\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ￢ﾀﾓ Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ￢ﾀﾓ Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... Figure 13 ￢ﾀﾓ Yearly Earthquake and Secondary Effect deaths in CATDAT for ...   from the Van earthquake in October, in the India-Nepal-Tibet region in   September, in China ... This database has been presented at the Australian   Earthquake Engineering ..... =10, Loma Prieta, USA, 18.10.1989, $2.51bn, Amer.",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e Figure \u003cb\u003e13\u003c/b\u003e ￢ﾀﾓ Yearly \u003cb\u003eEarthquake\u003c/b\u003e and Secondary Effect deaths in CATDAT for \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  from the Van \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eOctober\u003c/b\u003e, in the India-Nepal-Tibet region in \u003cbr\u003e  September, in China \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e Engineering \u003cb\u003e.....\u003c/b\u003e =10, Loma Prieta, USA, 18.10.\u003cb\u003e1989\u003c/b\u003e, $2.51bn, Amer.",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1989 Newcastle earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1989\u003c/b\u003e Newcastle \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1989_Newcastle_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1989 Newcastle earthquake was a Richter magnitude 5.6 earthquake that ...   It was one of Australia's most serious natural disasters, killing 13 people and ...",
+   "htmlSnippet": "The \u003cb\u003e1989\u003c/b\u003e Newcastle \u003cb\u003eearthquake\u003c/b\u003e was a Richter magnitude 5.6 \u003cb\u003eearthquake\u003c/b\u003e that \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  It was one of \u003cb\u003eAustralia\u003c/b\u003e&#39;s most serious natural disasters, killing \u003cb\u003e13\u003c/b\u003e people and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mbb0m4QT37MJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1989_Newcastle_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1989\u003c/b\u003e_Newcastle_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/1989_Newcastle_earthquake_map.png/240px-1989_Newcastle_earthquake_map.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "163",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROjN0IfmahSwxuFTM8o5fyIW7a1GxihsIV1bNpKBkc2M1WBI7ABziaYaej"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Christchurch M 6.0 aftershock : 1 person killed and 45 people with ...",
+   "htmlTitle": "Christchurch M 6.0 aftershock : 1 person killed and 45 people with \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/06/13/damaging-aftershock-christchurch-6-june/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 23, 2011 ... Aftershock summary : On Monday the 13th of June, Christchurch ... Similar   damage occurred in the Newcastle 1989 earthquake in Australia, ...",
+   "htmlSnippet": "Jun 23, 2011 \u003cb\u003e...\u003c/b\u003e Aftershock summary : On Monday the \u003cb\u003e13th\u003c/b\u003e of June, Christchurch \u003cb\u003e...\u003c/b\u003e Similar \u003cbr\u003e  damage occurred in the Newcastle \u003cb\u003e1989 earthquake\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zviXG1Asu9wJ",
+   "formattedUrl": "earthquake-report.com/.../13/damaging-aftershock-christchurch-6-june/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e13\u003c/b\u003e/damaging-aftershock-christchurch-6-june/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/06/cathedral-window-nz.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "226",
+      "height": "223",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqrZRPSIu33_fgFDWxU24y4hkzxFPSjsoNthtFREco99SzJ7E2ovYD1RcM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jim Berkland - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Jim Berkland - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Jim_Berkland",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In an interview published on October 13, 1989, one day before the start of   baseball's 1989 World Series, Berkland predicted that an earthquake with   magnitude ...",
+   "htmlSnippet": "In an interview published on \u003cb\u003eOctober 13\u003c/b\u003e, \u003cb\u003e1989\u003c/b\u003e, one day before the start of \u003cbr\u003e  baseball&#39;s 1989 World Series, Berkland predicted that an \u003cb\u003eearthquake\u003c/b\u003e with \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D0DBxURw3SUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Jim_Berkland",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Jim_Berkland"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "Issue date: Sep 13, 2011. Application number: 12/130,922 ...",
+   "htmlSnippet": "Issue date: Sep \u003cb\u003e13\u003c/b\u003e, 2011. Application number: 12/130,922 \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 01906-11-19  November 19, 1906, Off the coast of Western Australia, Australia, 7.6, Mw ....   Valley, Montana, United States, 46.32, ￢ﾈﾒ111.52, 6.6, Mw (Dosier, 1989), USGS ...   01926-10-22October 22, 1926, 13:35, Monterey Bay, California, United States,   36.55 ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 01906-11-19\u003cbr\u003e  November 19, 1906, Off the coast of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Valley, Montana, United States, 46.32, ￢ﾈﾒ111.52, 6.6, Mw (Dosier, \u003cb\u003e1989\u003c/b\u003e), USGS \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  01926-10-22\u003cb\u003eOctober\u003c/b\u003e 22, 1926, \u003cb\u003e13\u003c/b\u003e:35, Monterey Bay, California, United States, \u003cbr\u003e  36.55 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  }
+ ]
+}

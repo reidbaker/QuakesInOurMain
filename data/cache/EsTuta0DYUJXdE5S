@@ -1,0 +1,327 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 14 1968 Australia Earthquake",
+    "totalResults": "119000",
+    "searchTerms": "Oct 14 1968 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 14 1968 Australia Earthquake",
+    "totalResults": "119000",
+    "searchTerms": "Oct 14 1968 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.452189,
+  "formattedSearchTime": "0.45",
+  "totalResults": "119000",
+  "formattedTotalResults": "119,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Meckering, Western Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Meckering, Western \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Meckering,_Western_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "At 10:59 am on 14 October 1968, a 40-second earthquake measuring 6.9 ... area   in the south western region of Western Australia.",
+   "htmlSnippet": "At 10:59 am on \u003cb\u003e14 October 1968\u003c/b\u003e, a 40-second \u003cb\u003eearthquake\u003c/b\u003e measuring 6.9 \u003cb\u003e...\u003c/b\u003e area \u003cbr\u003e  in the south western region of Western \u003cb\u003eAustralia\u003c/b\u003e.",
+   "cacheId": "x8Ucj4DXUu0J",
+   "formattedUrl": "en.wikipedia.org/wiki/Meckering,_Western_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Meckering,_Western_\u003cb\u003eAustralia\u003c/b\u003e",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Meckering"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Meckering Western Australia earthquake of October 1968",
+   "htmlTitle": "The Meckering Western \u003cb\u003eAustralia earthquake\u003c/b\u003e of \u003cb\u003eOctober 1968\u003c/b\u003e",
+   "link": "http://www.seismicity.see.uwa.edu.au/welcome/seismicity_of_western_australia/wa_historical/meckering",
+   "displayLink": "www.seismicity.see.uwa.edu.au",
+   "snippet": "May 18, 2005 ... Volcanoes & Earthquakes in south-eastern Australia ... At 10.59a.m., on 14th   October, 1968, the small town of Meckering, about 130 km east of ...",
+   "htmlSnippet": "May 18, 2005 \u003cb\u003e...\u003c/b\u003e Volcanoes &amp; \u003cb\u003eEarthquakes\u003c/b\u003e in south-eastern \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e At 10.59a.m., on \u003cb\u003e14th\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eOctober, 1968\u003c/b\u003e, the small town of Meckering, about 130 km east of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2PTjWMM8VDUJ",
+   "formattedUrl": "www.seismicity.see.uwa.edu.au/.../seismicity...australia/wa.../meckering",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.see.uwa.edu.au/.../\u003cb\u003eseismic\u003c/b\u003eity...\u003cb\u003eaustralia\u003c/b\u003e/wa.../meckering",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32669"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHDAiH9pjKVYEueZa_Vdp8iSur5CfjVbgWfyhMkm77ThaRwq-IGlfmzOE"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "The Meckering Western Australia earthquake of October 1968",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/38461",
+      "dc.date.modified": "2005-05-18",
+      "dc.date.created": "2004-01-02",
+      "dc.date.valid": "2006-05-18",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/38461",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "October 14, 1968 Meckering Australia earthquake",
+   "htmlTitle": "\u003cb\u003eOctober 14\u003c/b\u003e, \u003cb\u003e1968\u003c/b\u003e Meckering \u003cb\u003eAustralia earthquake\u003c/b\u003e",
+   "link": "http://ngdc.noaa.gov/hazardimages/event/show/6",
+   "displayLink": "ngdc.noaa.gov",
+   "snippet": "The magnitude 6.8 earthquake caused $2.2 million in property damage. This   earthquake was particularly efficient in the generation of surface waves.",
+   "htmlSnippet": "The magnitude 6.8 \u003cb\u003eearthquake\u003c/b\u003e caused $2.2 million in property damage. This \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e was particularly efficient in the generation of surface waves.",
+   "cacheId": "gwyBMT8EquUJ",
+   "formattedUrl": "ngdc.noaa.gov/hazardimages/event/show/6",
+   "htmlFormattedUrl": "ngdc.noaa.gov/hazardimages/event/show/6",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ngdc.noaa.gov/hazard/icons/med_res/1/1_28.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "183",
+      "height": "275",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT666LVoncgQLd8PphccUQN-daxMa8vAgdTRVtzpjsyNy9vRsx8z-Us-t0"
+     }
+    ],
+    "metatags": [
+     {
+      "questions": "haz.info",
+      "return": "hazards",
+      "dc.title": "NOAA/NESDIS/NGDC/MGG-Natural Hazards Images",
+      "dc.description": "Images depicting Natural Hazards from the NOAA National Geophysical Data Center.",
+      "dc.creator": "Heather.McCullough",
+      "dc.date.created": "2007-02-21",
+      "dc.date.reviewed": "2008-07-18",
+      "dc.language": "EN-US",
+      "dc.publisher": "U.S. Department of Commerce",
+      "dc.subject": "geoscientificInformation",
+      "layout": "main"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Meckering Earthquake Information",
+   "htmlTitle": "Meckering \u003cb\u003eEarthquake\u003c/b\u003e Information",
+   "link": "http://allshookup.org/swsz/history.htm",
+   "displayLink": "allshookup.org",
+   "snippet": "At 10.59a.m. on the 14th October 1968, the small town of Meckering, about 130 ...   Scale making it one of the largest recorded in the seismic history of Australia.",
+   "htmlSnippet": "At 10.59a.m. on the \u003cb\u003e14th October 1968\u003c/b\u003e, the small town of Meckering, about 130 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Scale making it one of the largest recorded in the \u003cb\u003eseismic\u003c/b\u003e history of \u003cb\u003eAustralia\u003c/b\u003e.",
+   "cacheId": "Ai-MhgdqR8oJ",
+   "formattedUrl": "allshookup.org/swsz/history.htm",
+   "htmlFormattedUrl": "allshookup.org/swsz/history.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://allshookup.org/swsz/mainst.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "326",
+      "height": "155",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxW597Bc9R-SXLXxtWT31XUQSS0eHxbJx1beLFacZozzzV-cqf6G3SHXSr"
+     }
+    ],
+    "metatags": [
+     {
+      "expires": "14 October 2009"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "WATER LEVEL CHANGES PRECEDING THE MECKERING ...",
+   "htmlTitle": "WATER LEVEL CHANGES PRECEDING THE MECKERING \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.bssaonline.org/content/60/5/1739.full.pdf",
+   "displayLink": "www.bssaonline.org",
+   "snippet": "AUSTRALIA, EARTHQUAKE OF OCTOBER 14, 1968. BY F. R. GORDON. The   most damaging earthquake in Australian history took place at 02h58m50.9s ...",
+   "htmlSnippet": "\u003cb\u003eAUSTRALIA\u003c/b\u003e, \u003cb\u003eEARTHQUAKE\u003c/b\u003e OF \u003cb\u003eOCTOBER 14, 1968\u003c/b\u003e. BY F. R. GORDON. The \u003cbr\u003e  most damaging \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eAustralian\u003c/b\u003e history took place at 02h58m50.9s \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.bssaonline.org/content/60/5/1739.full.pdf",
+   "htmlFormattedUrl": "www.bssaonline.org/content/60/5/1739.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010255018.TIF",
+      "creationdate": "Tue Sep 20 18:39:13 2005",
+      "title": "010255018.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050921140306+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Australian Vista - meckering earthquake",
+   "htmlTitle": "West \u003cb\u003eAustralian\u003c/b\u003e Vista - meckering \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://www.westaustralianvista.com/meckering-earthquake.html",
+   "displayLink": "www.westaustralianvista.com",
+   "snippet": "Gone In 40 Seconds : On the 14th of October 1968 Australia would experience   one of the most devastating earthquakes in history, the Meckering earthquake.",
+   "htmlSnippet": "Gone In 40 Seconds : On the 14th of \u003cb\u003eOctober 1968 Australia\u003c/b\u003e would experience \u003cbr\u003e  one of the most devastating \u003cb\u003eearthquakes\u003c/b\u003e in history, the Meckering \u003cb\u003eearthquake\u003c/b\u003e.",
+   "cacheId": "aRW-xbrBqh4J",
+   "formattedUrl": "www.westaustralianvista.com/meckering-earthquake.html",
+   "htmlFormattedUrl": "www.west\u003cb\u003eaustralian\u003c/b\u003evista.com/meckering-\u003cb\u003eearthquake\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.westaustralianvista.com/images/Bu55TDIG-Australia.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "158",
+      "height": "111",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_L4ofBat_J-gh-p2U3sVCjRhm90UmgUSaGYTGgH4pce4rtre1wPyGLA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... Complex earthquake with at least one event occurring about 14 seconds after the   onset. ..... After the quake struck off the west coast of Haida Gwaii on Oct. 27 at 8:  04 p.m. PT, emergency ..... Australia, 1968 ￢ﾀﾓ Magnitude : 6.9 ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e Complex \u003cb\u003eearthquake\u003c/b\u003e with at least one event occurring about \u003cb\u003e14\u003c/b\u003e seconds after the \u003cbr\u003e  onset. \u003cb\u003e.....\u003c/b\u003e After the \u003cb\u003equake\u003c/b\u003e struck off the west coast of Haida Gwaii on \u003cb\u003eOct\u003c/b\u003e. 27 at 8:\u003cbr\u003e  04 p.m. PT, emergency \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003e1968\u003c/b\u003e ￢ﾀﾓ Magnitude : 6.9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "T",
+   "htmlTitle": "T",
+   "link": "http://www.bssaonline.org/content/66/2/631.full.pdf",
+   "displayLink": "www.bssaonline.org",
+   "snippet": "On October 14, 1968 at 0259 UT a magnitude 7 earthquake wrecked the small   town of Meckering about 130 km east of Perth, Western Australia and caused   light ...",
+   "htmlSnippet": "On \u003cb\u003eOctober 14, 1968\u003c/b\u003e at 0259 UT a magnitude 7 \u003cb\u003eearthquake\u003c/b\u003e wrecked the small \u003cbr\u003e  town of Meckering about 130 km east of Perth, Western \u003cb\u003eAustralia\u003c/b\u003e and caused \u003cbr\u003e  light \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.bssaonline.org/content/66/2/631.full.pdf",
+   "htmlFormattedUrl": "www.bssaonline.org/content/66/2/631.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010289015.TIF",
+      "creationdate": "Tue Aug 09 14:12:09 2005",
+      "title": "010289015.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050812082133+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on October 14 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eOctober 14\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/oct14.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "October 14, 1968 Gruener and Watson (US) set scuba depth record (133 m) in   Bahamas; October 14, 1968 In Western Australia a 6.8 earthquake earthquake ...",
+   "htmlSnippet": "\u003cb\u003eOctober 14, 1968\u003c/b\u003e Gruener and Watson (US) set scuba depth record (133 m) in \u003cbr\u003e  Bahamas; \u003cb\u003eOctober 14, 1968\u003c/b\u003e In Western \u003cb\u003eAustralia\u003c/b\u003e a 6.8 \u003cb\u003eearthquake earthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5fBMQJ1pxZ8J",
+   "formattedUrl": "www.datesinhistory.com/oct14.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eoct14\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today in History for 14th October 1968 | HistoryOrb.com",
+   "htmlTitle": "Today in History for \u003cb\u003e14th October 1968\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/date/1968/october/14",
+   "displayLink": "www.historyorb.com",
+   "snippet": "Browse historical events, famous birthdays and deaths from 14 Oct 1968 or   search by ... A 6.8 earthquake wrecked the Australian town of Meckering, and   also ...",
+   "htmlSnippet": "Browse historical events, famous birthdays and deaths from \u003cb\u003e14 Oct 1968\u003c/b\u003e or \u003cbr\u003e  search by \u003cb\u003e...\u003c/b\u003e A 6.8 \u003cb\u003eearthquake\u003c/b\u003e wrecked the \u003cb\u003eAustralian\u003c/b\u003e town of Meckering, and \u003cbr\u003e  also \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dopsmjOZao0J",
+   "formattedUrl": "www.historyorb.com/date/1968/october/14",
+   "htmlFormattedUrl": "www.historyorb.com/date/\u003cb\u003e1968\u003c/b\u003e/\u003cb\u003eoctober\u003c/b\u003e/\u003cb\u003e14\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  }
+ ]
+}

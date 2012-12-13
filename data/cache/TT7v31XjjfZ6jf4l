@@ -1,0 +1,291 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 13 1914 Eurasia Earthquake",
+    "totalResults": "9520",
+    "searchTerms": "Apr 13 1914 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 13 1914 Eurasia Earthquake",
+    "totalResults": "9520",
+    "searchTerms": "Apr 13 1914 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.201427,
+  "formattedSearchTime": "0.20",
+  "totalResults": "9520",
+  "formattedTotalResults": "9,520"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1903 Malazgirt earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1903 Malazgirt \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The country of Turkey is situated on a highly active section of the Eurasian ...   Archived from the original on April 13, 2010. http://www.koeri.boun.edu.tr/sismo/.",
+   "htmlSnippet": "The country of Turkey is situated on a highly active section of the \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Archived from the original on \u003cb\u003eApril 13\u003c/b\u003e, 2010. http://www.koeri.boun.edu.tr/sismo/.",
+   "cacheId": "IyR5zRaIRWAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1903_Malazgirt_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/260px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "130",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1APbrsyOCdPXD5DVrwAx3ljyjMFt3Pszt2hV1HxJ-abZ-bk8AxETmGj0q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   ... Plate and the Eurasian Plate, beyond the eastern extent of the Armenian and   Asia ... and Emergency Situations Directorate of Turkey AFAD announced that 13   million ..... (6.8, Apr 3); Miyagi, Japan (7.1, Apr 7); Fukushima, Japan (6.6, Apr 11) ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the Armenian and \u003cbr\u003e  Asia \u003cb\u003e...\u003c/b\u003e and Emergency Situations Directorate of Turkey AFAD announced that \u003cb\u003e13\u003c/b\u003e \u003cbr\u003e  million \u003cb\u003e.....\u003c/b\u003e (6.8, \u003cb\u003eApr\u003c/b\u003e 3); Miyagi, Japan (7.1, \u003cb\u003eApr\u003c/b\u003e 7); Fukushima, Japan (6.6, \u003cb\u003eApr\u003c/b\u003e 11) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates ... 1900, 13, 1930, 13, 1960, 22 ... 1914, 22, 1944, 31, 1974, 21 ...   The 2 April 1990 Bishop's Castle earthquake in the Welsh Borders, with a   magnitude ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates \u003cb\u003e...\u003c/b\u003e 1900, \u003cb\u003e13\u003c/b\u003e, 1930, \u003cb\u003e13\u003c/b\u003e, 1960, 22 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1914\u003c/b\u003e, 22, 1944, 31, 1974, 21 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The 2 \u003cb\u003eApril\u003c/b\u003e 1990 Bishop&#39;s Castle \u003cb\u003eearthquake\u003c/b\u003e in the Welsh Borders, with a \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Location maps of northern California earthquake, February 13, 2012 ...",
+   "htmlTitle": "Location maps of northern California \u003cb\u003eearthquake\u003c/b\u003e, February \u003cb\u003e13\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://article.wn.com/view/2012/10/19/Location_maps_of_northern_California_earthquake_February_13_/",
+   "displayLink": "article.wn.com",
+   "snippet": "Oct 19, 2012 ... Location map of northern California earthquake, February 13, ... The western   border of the Indian-Eurasian Plate The timing of the event will likely precede the   ..... NEWS: Unreported 7.2 Fukushima quake blacked out by USGS on April 13, ...   of the company at the time of the elder Dorhmann's death in 1914.",
+   "htmlSnippet": "Oct 19, 2012 \u003cb\u003e...\u003c/b\u003e Location map of northern California \u003cb\u003eearthquake\u003c/b\u003e, February \u003cb\u003e13\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e The western \u003cbr\u003e  border of the Indian-\u003cb\u003eEurasian\u003c/b\u003e Plate The timing of the event will likely precede the \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e NEWS: Unreported 7.2 Fukushima \u003cb\u003equake\u003c/b\u003e blacked out by USGS on \u003cb\u003eApril 13\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  of the company at the time of the elder Dorhmann&#39;s death in \u003cb\u003e1914\u003c/b\u003e.",
+   "cacheId": "os-S48MyEBMJ",
+   "formattedUrl": "article.wn.com/.../Location_maps_of_northern_California_earthquake_ February_13_/",
+   "htmlFormattedUrl": "article.wn.com/.../Location_maps_of_northern_California_\u003cb\u003eearthquake\u003c/b\u003e_ February_\u003cb\u003e13\u003c/b\u003e_/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.ytimg.com/vi/VSAgGpKb2Kk/0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRmf9Y3gZYCQonusopdEx3NTXmm4YpWiAznIvpLpJddRlCMr8J6Nq8ieAs"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Location maps of northern California earthquake, February 13, 2012",
+      "og:url": "http://article.wn.com/view/2012/10/19/Location_maps_of_northern_California_earthquake_February_13_/",
+      "og:image": "http://i.ytimg.com/vi/QePDuK3azps/0.jpg",
+      "og:site_name": "World News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes - anonymous (2 mb pdf)",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e - anonymous (2 mb pdf)",
+   "link": "http://www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "displayLink": "www.arvindguptatoys.com",
+   "snippet": "stresses from the collision between the Indian plate and the Eurasian plate. The   most intense earthquakes occur on the boundaries of the lndian plate to the ...",
+   "htmlSnippet": "stresses from the collision between the Indian plate and the \u003cb\u003eEurasian\u003c/b\u003e plate. The \u003cbr\u003e  most intense \u003cb\u003eearthquakes\u003c/b\u003e occur on the boundaries of the lndian plate to the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "noMHUn-Du88J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "htmlFormattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-\u003cb\u003eearthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Thu Feb 16 16:50:09 2006",
+      "moddate": "Thu Jul 13 23:23:24 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic waves and surface waves: past and present",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e waves and surface waves: past and present",
+   "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009",
+   "displayLink": "www.scielo.org.mx",
+   "snippet": "The association of earthquake science with Jena becomes clear when one ...   Rebeur￢ﾀﾓPaschwitz in Potsdam somewhat coincidentally on 17 April, 1889 (  Figure 1). ... K. Uller (1914, 1918, 1928) provided new and unconventional   contributions to ... and trough\" method for Eurasian earthquakes (Figure 9) by D.   Gￃﾼth (1962).",
+   "htmlSnippet": "The association of \u003cb\u003eearthquake\u003c/b\u003e science with Jena becomes clear when one \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Rebeur￢ﾀﾓPaschwitz in Potsdam somewhat coincidentally on 17 \u003cb\u003eApril\u003c/b\u003e, 1889 (\u003cbr\u003e  Figure 1). \u003cb\u003e...\u003c/b\u003e K. Uller (\u003cb\u003e1914\u003c/b\u003e, 1918, 1928) provided new and unconventional \u003cbr\u003e  contributions to \u003cb\u003e...\u003c/b\u003e and trough&quot; method for \u003cb\u003eEurasian earthquakes\u003c/b\u003e (Figure 9) by D. \u003cbr\u003e  Gￃﾼth (1962).",
+   "cacheId": "l1ENIIrcteEJ",
+   "formattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016...",
+   "htmlFormattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0016...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.scielo.org.mx/img/revistas/geoint/v50n4/a9f3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWzENg6uD9O57Xz00pxuqTlyLxv1FuevlMnC6pM25BwqirfLDfFKZB3d-Y"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_journal_title": "Geofￃﾭsica internacional",
+      "citation_journal_title_abbrev": "Geofￃﾭs. Intl",
+      "citation_publisher": "Instituto de Geofￃﾭsica, UNAM",
+      "citation_title": "Seismic waves and surface waves: past and present",
+      "citation_date": "12/2011",
+      "citation_volume": "50",
+      "citation_issue": "4",
+      "citation_issn": "0016-7169",
+      "citation_abstract_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_fulltext_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_pdf_url": "http://www.scielo.org.mx/scielo.php?script=sci_pdf&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_author": "Malischewsky, Peter G.",
+      "citation_author_institution": "Friedrich-Schiller-Universitat Jena, Germany",
+      "citation_firstpage": "485",
+      "citation_lastpage": "493"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Great Thrust Earthquakes of the and Aseismic Slip Along the Plate ...",
+   "htmlTitle": "Great Thrust \u003cb\u003eEarthquakes\u003c/b\u003e of the and Aseismic Slip Along the Plate \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://cires.colorado.edu/~bilham/Makran1945/ByrneSykes&DavisMakran.PDF",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "is a 1000-km section of the Eurasian-Arabian plate boundary. (Figures 1 and 2) ...   New focai solutions are presen!.ed for 13 earthquakes beginning ..... April 28,   1980 .... occurred in 1914 in northern Makran [Gutenberg and Richter,. 19541.",
+   "htmlSnippet": "is a 1000-km section of the \u003cb\u003eEurasian\u003c/b\u003e-Arabian plate boundary. (Figures 1 and 2) \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  New focai solutions are presen!.ed for \u003cb\u003e13 earthquakes\u003c/b\u003e beginning \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eApril\u003c/b\u003e 28, \u003cbr\u003e  1980 \u003cb\u003e....\u003c/b\u003e occurred in \u003cb\u003e1914\u003c/b\u003e in northern Makran [Gutenberg and Richter,. 19541.",
+   "cacheId": "Kyx_zkFZYpQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Makran1945/ByrneSykes&DavisMakran.PDF",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Makran1945/ByrneSykes&amp;DavisMakran.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Canon",
+      "creationdate": "D:20061216070110-07'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 13 September 2002 North Andaman (Diglipur) earthquake: An ...",
+   "htmlTitle": "The \u003cb\u003e13\u003c/b\u003e September 2002 North Andaman (Diglipur) \u003cb\u003eearthquake\u003c/b\u003e: An \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iisc.ernet.in/currsci/apr102003/919.pdf",
+   "displayLink": "www.iisc.ernet.in",
+   "snippet": "7, 10 APRIL 2003. 919. The 13 September ... observations on the 13 September   earthquake, in an effort to obtain an overall ... 1914, 1929, 1949 and 1955, all of   which may have origi- .... convergence of India/Eurasian plates, thus giving rise to ...",
+   "htmlSnippet": "7, 10 \u003cb\u003eAPRIL\u003c/b\u003e 2003. 919. The \u003cb\u003e13\u003c/b\u003e September \u003cb\u003e...\u003c/b\u003e observations on the \u003cb\u003e13\u003c/b\u003e September \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, in an effort to obtain an overall \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1914\u003c/b\u003e, 1929, 1949 and 1955, all of \u003cbr\u003e  which may have origi- \u003cb\u003e....\u003c/b\u003e convergence of India/\u003cb\u003eEurasian\u003c/b\u003e plates, thus giving rise to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RUbkRR23iFQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iisc.ernet.in/currsci/apr102003/919.pdf",
+   "htmlFormattedUrl": "www.iisc.ernet.in/currsci/\u003cb\u003eapr\u003c/b\u003e102003/919.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "Tuesday, April 08, 2003 4:00:04 PM",
+      "title": "RA653.PDF",
+      "author": "Unknown",
+      "producer": "Acrobat PDFWriter 3.02 for Windows"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2010 - 2011 EndTime Timeline with EarthQuakes, Elenin ...",
+   "htmlTitle": "2010 - 2011 EndTime Timeline with \u003cb\u003eEarthQuakes\u003c/b\u003e, Elenin \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://alamongordo.com/apocalypse-armageddon/are-we-in-the-endtime/",
+   "displayLink": "alamongordo.com",
+   "snippet": "Sep 14, 2011 ... Timeline 2010-2011 with Earthquakes, Volcanic Eruptions, Elenin ... years, note   that 42 months is connected with the Antichrist in Revelation 13. .... 1 1914. Note   that Peter had in the Bible's New Testament caught 153 fish in his net. ... 25 years   on April 26 since the Chernobyl nuclear power plant disaster.",
+   "htmlSnippet": "Sep 14, 2011 \u003cb\u003e...\u003c/b\u003e Timeline 2010-2011 with \u003cb\u003eEarthquakes\u003c/b\u003e, Volcanic Eruptions, Elenin \u003cb\u003e...\u003c/b\u003e years, note \u003cbr\u003e  that 42 months is connected with the Antichrist in Revelation \u003cb\u003e13\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e 1 \u003cb\u003e1914\u003c/b\u003e. Note \u003cbr\u003e  that Peter had in the Bible&#39;s New Testament caught 153 fish in his net. \u003cb\u003e...\u003c/b\u003e 25 years \u003cbr\u003e  on \u003cb\u003eApril\u003c/b\u003e 26 since the Chernobyl nuclear power plant disaster.",
+   "cacheId": "1QzIISSr0A8J",
+   "formattedUrl": "alamongordo.com/apocalypse-armageddon/are-we-in-the-endtime/",
+   "htmlFormattedUrl": "alamongordo.com/apocalypse-armageddon/are-we-in-the-endtime/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Bob Andrews",
+      "photo": "http://1.gravatar.com/avatar/57ff4409ce0e89fcb240bcb396c99695?s=48&d=&r=G"
+     }
+    ]
+   }
+  }
+ ]
+}

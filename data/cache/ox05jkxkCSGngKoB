@@ -1,0 +1,198 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 17 1935 Eurasia Earthquake",
+    "totalResults": "23400",
+    "searchTerms": "Jul 17 1935 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 17 1935 Eurasia Earthquake",
+    "totalResults": "23400",
+    "searchTerms": "Jul 17 1935 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.304827,
+  "formattedSearchTime": "0.30",
+  "totalResults": "23400",
+  "formattedTotalResults": "23,400"
+ },
+ "spelling": {
+  "correctedQuery": "July 17 1935 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 17 1935 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "April 21, 1935, 06:02, Hsinchu, Taichung, 24.4, 120.8, 5, 7.1, 3,276, 17,907, 1935   Hsinchu-Taichung earthquake. July 17, 1935, 00:19, Hsinchu, Taichung, 24.6 ...",
+   "htmlSnippet": "April 21, 1935, 06:02, Hsinchu, Taichung, 24.4, 120.8, 5, 7.1, 3,276, 17,907, 1935 \u003cbr\u003e  Hsinchu-Taichung \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003eJuly 17, 1935\u003c/b\u003e, 00:19, Hsinchu, Taichung, 24.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.6 - 43km SE of Qayen, Iran 2012-12-05 17:08:12 UTC",
+   "htmlTitle": "M5.6 - 43km SE of Qayen, Iran 2012-12-05 \u003cb\u003e17\u003c/b\u003e:08:12 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000e4lq",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Dec 5, 2012 ... M5.6 - 43km SE of Qayen, Iran 2012-12-05 17:08:12 UTC .... (INTERIOR/USGS-2  ) published at 74 FR 34033 (July 14, 2009). ... plate moving northwards at a rate   of 40 mm/yr with respect to the Eurasia plate. ... In the same region, the more   recent 30 May 1935, M7.6 Quetta, Pakistan earthquake, occurred ...",
+   "htmlSnippet": "Dec 5, 2012 \u003cb\u003e...\u003c/b\u003e M5.6 - 43km SE of Qayen, Iran 2012-12-05 \u003cb\u003e17\u003c/b\u003e:08:12 UTC \u003cb\u003e....\u003c/b\u003e (INTERIOR/USGS-2\u003cbr\u003e  ) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e plate moving northwards at a rate \u003cbr\u003e  of 40 mm/yr with respect to the \u003cb\u003eEurasia\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e In the same region, the more \u003cbr\u003e  recent 30 May \u003cb\u003e1935\u003c/b\u003e, M7.6 Quetta, Pakistan \u003cb\u003eearthquake\u003c/b\u003e, occurred \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3oYgae72EnQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000e4lq",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000e4lq"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.3 - 3km SW of Turluk, Turkey 2012-11-20 17:56:31 UTC",
+   "htmlTitle": "M4.3 - 3km SW of Turluk, Turkey 2012-11-20 \u003cb\u003e17\u003c/b\u003e:56:31 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dvlv",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 20, 2012 ... M4.3 - 3km SW of Turluk, Turkey 2012-11-20 17:56:31 UTC ... Location and   Magnitude contributed by: USGS National Earthquake Information Center .... (  INTERIOR/USGS-2) published at 74 FR 34033 (July 14, 2009). ... major plates   arabia eurasia india africa one smaller tectonic block anatolia responsible ...",
+   "htmlSnippet": "Nov 20, 2012 \u003cb\u003e...\u003c/b\u003e M4.3 - 3km SW of Turluk, Turkey 2012-11-20 \u003cb\u003e17\u003c/b\u003e:56:31 UTC \u003cb\u003e...\u003c/b\u003e Location and \u003cbr\u003e  Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information Center \u003cb\u003e....\u003c/b\u003e (\u003cbr\u003e  INTERIOR/USGS-2) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e major plates \u003cbr\u003e  arabia \u003cb\u003eeurasia\u003c/b\u003e india africa one smaller tectonic block anatolia responsible \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CzM7XPp6cpwJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dvlv",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dvlv"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.8 - 28km NNW of Yongchang, China 2012-12-01 15:16:47 UTC",
+   "htmlTitle": "M4.8 - 28km NNW of Yongchang, China 2012-12-01 15:16:47 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000e1z9",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Dec 1, 2012 ... Earthquake location 31.893ￂﾰN, 104.294ￂﾰE .... (INTERIOR/USGS-2) published at   74 FR 34033 (July 14, 2009). ... 28km (17mi) NNW of Yongchang, China ...   Eurasia generates numerous earthquakes and consequently makes this ... the   more recent 30 May 1935, M7.6 Quetta earthquake, which occurred in ...",
+   "htmlSnippet": "Dec 1, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e location 31.893ￂﾰN, 104.294ￂﾰE \u003cb\u003e....\u003c/b\u003e (INTERIOR/USGS-2) published at \u003cbr\u003e  74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e 28km (\u003cb\u003e17mi\u003c/b\u003e) NNW of Yongchang, China \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e generates numerous \u003cb\u003eearthquakes\u003c/b\u003e and consequently makes this \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  more recent 30 May \u003cb\u003e1935\u003c/b\u003e, M7.6 Quetta \u003cb\u003eearthquake\u003c/b\u003e, which occurred in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tkP5Pl2p4sQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000e1z9",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000e1z9"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Turkey - All About Turkey",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Turkey - All About Turkey",
+   "link": "http://www.allaboutturkey.com/deprem.htm",
+   "displayLink": "www.allaboutturkey.com",
+   "snippet": "The quake came at 03:27 local time lasting for about 17 seconds with a Richter   scale of 6.4. ... (Termed the 1957 Abant earthquake); 1967 July 22. ... motion of   the Arabian plate against the Eurasian plate, squeezing the small Turkish micro   ... The Richter magnitude scale was developed in 1935 by Charles F. Richter of   the ...",
+   "htmlSnippet": "The \u003cb\u003equake\u003c/b\u003e came at 03:27 local time lasting for about \u003cb\u003e17\u003c/b\u003e seconds with a Richter \u003cbr\u003e  scale of 6.4. \u003cb\u003e...\u003c/b\u003e (Termed the 1957 Abant \u003cb\u003eearthquake\u003c/b\u003e); 1967 \u003cb\u003eJuly\u003c/b\u003e 22. \u003cb\u003e...\u003c/b\u003e motion of \u003cbr\u003e  the Arabian plate against the \u003cb\u003eEurasian\u003c/b\u003e plate, squeezing the small Turkish micro \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e The Richter magnitude scale was developed in \u003cb\u003e1935\u003c/b\u003e by Charles F. Richter of \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CTyIXW07OJwJ",
+   "formattedUrl": "www.allaboutturkey.com/deprem.htm",
+   "htmlFormattedUrl": "www.allaboutturkey.com/deprem.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.3 - 4km SSE of Alik Ghund, Pakistan 2012-11-19 17:54:08 UTC",
+   "htmlTitle": "M5.3 - 4km SSE of Alik Ghund, Pakistan 2012-11-19 \u003cb\u003e17\u003c/b\u003e:54:08 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000duzz",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 19, 2012 ... M5.3 - 4km SSE of Alik Ghund, Pakistan 2012-11-19 17:54:08 UTC ... Location   and Magnitude contributed by: USGS National Earthquake Information Center ....   (INTERIOR/USGS-2) published at 74 FR 34033 (July 14, 2009). ... himalaya   vicinity himalaya dominantly from continental collision india eurasia ...",
+   "htmlSnippet": "Nov 19, 2012 \u003cb\u003e...\u003c/b\u003e M5.3 - 4km SSE of Alik Ghund, Pakistan 2012-11-19 \u003cb\u003e17\u003c/b\u003e:54:08 UTC \u003cb\u003e...\u003c/b\u003e Location \u003cbr\u003e  and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information Center \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  (INTERIOR/USGS-2) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e himalaya \u003cbr\u003e  vicinity himalaya dominantly from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gPMkJJws0RgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000duzz",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000duzz"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.2 - 49km SE of Taitung City, Taiwan 2012-11-20 17:08:59 UTC",
+   "htmlTitle": "M5.2 - 49km SE of Taitung City, Taiwan 2012-11-20 \u003cb\u003e17\u003c/b\u003e:08:59 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dvkl",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 20, 2012 ... M5.2 - 49km SE of Taitung City, Taiwan 2012-11-20 17:08:59 UTC ... Location   and Magnitude contributed by: USGS National Earthquake Information Center ....   (INTERIOR/USGS-2) published at 74 FR 34033 (July 14, 2009). ... philippine sea   plate bordered larger pacific eurasia plates smaller sunda plate ...",
+   "htmlSnippet": "Nov 20, 2012 \u003cb\u003e...\u003c/b\u003e M5.2 - 49km SE of Taitung City, Taiwan 2012-11-20 \u003cb\u003e17\u003c/b\u003e:08:59 UTC \u003cb\u003e...\u003c/b\u003e Location \u003cbr\u003e  and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information Center \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  (INTERIOR/USGS-2) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e philippine sea \u003cbr\u003e  plate bordered larger pacific \u003cb\u003eeurasia\u003c/b\u003e plates smaller sunda plate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vw0rxzD4AE8J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dvkl",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dvkl"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.8 - 4km S of Hualian, Taiwan 2012-12-02 17:45:38 UTC",
+   "htmlTitle": "M4.8 - 4km S of Hualian, Taiwan 2012-12-02 \u003cb\u003e17\u003c/b\u003e:45:38 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000e2hf",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Dec 2, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... (INTERIOR/USGS-2) published at 74 FR 34033 (July 14, 2009). ...   bordered by the larger Pacific and Eurasia plates and the smaller Sunda plate. ...   respectively), the 1935 and the 1999 Chi-Chi (Taiwan) earthquakes ...",
+   "htmlSnippet": "Dec 2, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e (INTERIOR/USGS-2) published at 74 FR 34033 (\u003cb\u003eJuly\u003c/b\u003e 14, 2009). \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  bordered by the larger Pacific and \u003cb\u003eEurasia\u003c/b\u003e plates and the smaller Sunda plate. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  respectively), the \u003cb\u003e1935\u003c/b\u003e and the 1999 Chi-Chi (Taiwan) \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pjJHde6gxzcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000e2hf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000e2hf"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.1 - 39km SW of Ashkasham, Afghanistan 2012-07-17 12:00:29 ...",
+   "htmlTitle": "M4.1 - 39km SW of Ashkasham, Afghanistan 2012-07-\u003cb\u003e17\u003c/b\u003e 12:00:29 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000b8lv",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Jul 17, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center ... Page Last Modified: July 25, 2012 11:51:56 UTC ... himalaya vicinity   himalaya dominantly results from continental collision india eurasia ... recent 30   1935 m7 6 quetta which occurred in the sulaiman range in pakistan ...",
+   "htmlSnippet": "Jul 17, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eJuly\u003c/b\u003e 25, 2012 11:51:56 UTC \u003cb\u003e...\u003c/b\u003e himalaya vicinity \u003cbr\u003e  himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e recent 30 \u003cbr\u003e  \u003cb\u003e1935\u003c/b\u003e m7 6 quetta which occurred in the sulaiman range in pakistan \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "30P5KuKV0eQJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000b8lv",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000b8lv"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Turkey - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of earthquakes in Turkey, including any notable historical ... Turkey is   a seismically active area within the complex zone of collision between the   Eurasian Plate and both the ... July 10, 1688, 11:45, Izmir ... 01935-01-04January   4, 1935, 16:41 local time, Erdek, 40.4, 27.5, 5, 6.4, Ms ... August 17, 1949,   Karlￄﾱova ...",
+   "htmlSnippet": "This is a list of \u003cb\u003eearthquakes\u003c/b\u003e in Turkey, including any notable historical \u003cb\u003e...\u003c/b\u003e Turkey is \u003cbr\u003e  a seismically active area within the complex zone of collision between the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e Plate and both the \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 10, 1688, 11:45, Izmir \u003cb\u003e...\u003c/b\u003e 01935-01-04January \u003cbr\u003e  4, \u003cb\u003e1935\u003c/b\u003e, 16:41 local time, Erdek, 40.4, 27.5, 5, 6.4, Ms \u003cb\u003e...\u003c/b\u003e August \u003cb\u003e17\u003c/b\u003e, 1949, \u003cbr\u003e  Karlￄﾱova \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1wz0xnR0y5EJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Turkey",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/420px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAQsxHunCjk2ETEgUYfv3Vf3E9aP1pcguUcaT4UYMwv8qz8YmCpgSS5e__"
+     }
+    ]
+   }
+  }
+ ]
+}

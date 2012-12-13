@@ -1,0 +1,284 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 14 1996 Australia Earthquake",
+    "totalResults": "515000",
+    "searchTerms": "Aug 14 1996 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 14 1996 Australia Earthquake",
+    "totalResults": "515000",
+    "searchTerms": "Aug 14 1996 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.177352,
+  "formattedSearchTime": "0.18",
+  "totalResults": "515000",
+  "formattedTotalResults": "515,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake in the greater Melbourne area, Australia",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e in the greater Melbourne area, \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/19/strong-earthquake-in-the-greater-melbourne-area-australia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 21, 2012 ... Australia-only earthquake list. This article should be read from bottom to top.   Summary 14:00UTC: This was recorded as the largest quake in ...",
+   "htmlSnippet": "Jun 21, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e-only \u003cb\u003eearthquake\u003c/b\u003e list. This article should be read from bottom to top. \u003cbr\u003e  Summary \u003cb\u003e14\u003c/b\u003e:00UTC: This was recorded as the largest \u003cb\u003equake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HhIXsW-HgNIJ",
+   "formattedUrl": "earthquake-report.com/.../strong-earthquake-in-the-greater-melbourne-area- australia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../strong-\u003cb\u003eearthquake\u003c/b\u003e-in-the-greater-melbourne-area- \u003cb\u003eaustralia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/06/541087.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo19JnftJE4AfP4wr-zBSahET5M8jZRmdBiyuMtd60ixCwoL_CJAS6K2b0"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "dj flexij (dj jordan)"
+     },
+     {
+      "fn": "Ruth Friend"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "is on Facebook. To connect with Earthquake Report, sign up for Facebook today.   ... This Page replaces the former by Facebook blocked \"earthquakes\" page with   11400 Fans. About ...... Will Burke There's no HAARP in Australia... Yesterday at   12: .... Kerryanne Tavener, Mike Ohlinger, Maryam Ardalan and 14 others like this  .",
+   "htmlSnippet": "is on Facebook. To connect with \u003cb\u003eEarthquake\u003c/b\u003e Report, sign up for Facebook today. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e This Page replaces the former by Facebook blocked &quot;\u003cb\u003eearthquakes\u003c/b\u003e&quot; page with \u003cbr\u003e  11400 Fans. About \u003cb\u003e......\u003c/b\u003e Will Burke There&#39;s no HAARP in \u003cb\u003eAustralia\u003c/b\u003e... Yesterday at \u003cbr\u003e  12: \u003cb\u003e....\u003c/b\u003e Kerryanne Tavener, Mike Ohlinger, Maryam Ardalan and \u003cb\u003e14\u003c/b\u003e others like this\u003cbr\u003e  .",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive January and ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive January and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/31/worldwide-earthquake-related-news-archive-january-and-february-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: April 14, 2012 at 1:04 pm by By Armand Vervaeck ... There is even a   precedent: in 1996, an earthquake turned Lijiang in Yunnan province .... deal by   Ansvar Australia, but only until their current policy expires at any time in the next   .... technique and the Virginia earthquake that rattled the East Coast in August.",
+   "htmlSnippet": "Last update: April \u003cb\u003e14\u003c/b\u003e, 2012 at 1:04 pm by By Armand Vervaeck \u003cb\u003e...\u003c/b\u003e There is even a \u003cbr\u003e  precedent: in \u003cb\u003e1996\u003c/b\u003e, an \u003cb\u003eearthquake\u003c/b\u003e turned Lijiang in Yunnan province \u003cb\u003e....\u003c/b\u003e deal by \u003cbr\u003e  Ansvar \u003cb\u003eAustralia\u003c/b\u003e, but only until their current policy expires at any time in the next \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e technique and the Virginia \u003cb\u003eearthquake\u003c/b\u003e that rattled the East Coast in \u003cb\u003eAugust\u003c/b\u003e.",
+   "cacheId": "I5hH1EcNcK0J",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- january-and-february-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- january-and-february-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on August 14 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eAugust 14\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/aug14.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "August 14, 1880 \"Australia's first soccer club, The Wanderers, plays its first match,   ... August 14, 1968 \"In the Northern Celebesa a 7.4 earthquake caused ... August   14, 1996 Ian Macfarlane is appointed new head of Australia's Reserve Bank ...",
+   "htmlSnippet": "August 14, 1880 &quot;\u003cb\u003eAustralia&#39;s\u003c/b\u003e first soccer club, The Wanderers, plays its first match, \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e August 14, 1968 &quot;In the Northern Celebesa a 7.4 \u003cb\u003eearthquake\u003c/b\u003e caused \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e14, 1996\u003c/b\u003e Ian Macfarlane is appointed new head of \u003cb\u003eAustralia&#39;s\u003c/b\u003e Reserve Bank \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "r-j1yKorT0IJ",
+   "formattedUrl": "www.datesinhistory.com/aug14.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eaug14\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jamaica earthquake list",
+   "htmlTitle": "Jamaica \u003cb\u003eearthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 27, 2012 ... The list below shows the last earthquakes in Jamaica ... No listed earthquakes   means that there were NO earthquakes noticed by our data ...",
+   "htmlSnippet": "Apr 27, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in Jamaica \u003cb\u003e...\u003c/b\u003e No listed \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  means that there were NO \u003cb\u003eearthquakes\u003c/b\u003e noticed by our data \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VNjkeO-jsS8J",
+   "formattedUrl": "earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/04/27/jamaica-\u003cb\u003eearthquake\u003c/b\u003e-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1996",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 5.6,   PHILIPPINE ISLANDS REGION, Dec 14 1996, 16:25:55, 10.162, 126.099 .... 4.5,   Thomson Reservoir, Australia, Sep 25 1996, 04:53:56 UTC ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 5.6, \u003cbr\u003e  PHILIPPINE ISLANDS REGION, Dec \u003cb\u003e14 1996\u003c/b\u003e, 16:25:55, 10.162, 126.099 \u003cb\u003e....\u003c/b\u003e 4.5, \u003cbr\u003e  Thomson Reservoir, \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eSep\u003c/b\u003e 25 \u003cb\u003e1996\u003c/b\u003e, 04:53:56 UTC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "e9yuzpCmvNkJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1996",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1996\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes @ GA ??? Earthquake Database ??? Search Results",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e @ GA ??? \u003cb\u003eEarthquake\u003c/b\u003e Database ??? Search Results",
+   "link": "http://www.ga.gov.au/earthquakes/list.do?isRegionSelected=true&region=Nsw",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Earthquakes @ Geoscience Australia ... 5.0, 14 August 1996 @ 09:29:07, 14   August 1996 @ 19:29:07, -30.121, 143.538, 5, \"The Range\" N.S.W., Yes, Yes ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e @ Geoscience \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 5.0, \u003cb\u003e14 August 1996\u003c/b\u003e @ 09:29:07, \u003cb\u003e14\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAugust 1996\u003c/b\u003e @ 19:29:07, -30.121, 143.538, 5, &quot;The Range&quot; N.S.W., Yes, Yes \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A0B4obdd3GkJ",
+   "formattedUrl": "www.ga.gov.au/earthquakes/list.do?isRegionSelected=true...Nsw",
+   "htmlFormattedUrl": "www.ga.gov.au/\u003cb\u003eearthquakes\u003c/b\u003e/list.do?isRegionSelected=true...Nsw"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its ... One   fatality .... Broome, 16 August 1929, magnitude 6.6, offshore earthquake to the ....   \"1996-09-25, Thomson Reservoir, Intensity Map\". seismology research centre.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its \u003cb\u003e...\u003c/b\u003e One \u003cbr\u003e  fatality \u003cb\u003e....\u003c/b\u003e Broome, 16 \u003cb\u003eAugust\u003c/b\u003e 1929, magnitude 6.6, offshore \u003cb\u003eearthquake\u003c/b\u003e to the \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  &quot;\u003cb\u003e1996\u003c/b\u003e-09-25, Thomson Reservoir, Intensity Map&quot;. seismology research centre.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Seismicity in Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Seismicity in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Aug 20, 2011 ... For a listing of recent Australian earthquakes, follow this link .... REMARKS. 06   Aug 1991, 14:11, -18.22, 143.51, 4.8, Georgetown ... 1996/08/13 ...",
+   "htmlSnippet": "Aug 20, 2011 \u003cb\u003e...\u003c/b\u003e For a listing of recent \u003cb\u003eAustralian earthquakes\u003c/b\u003e, follow this link \u003cb\u003e....\u003c/b\u003e REMARKS. 06 \u003cbr\u003e  \u003cb\u003eAug\u003c/b\u003e 1991, \u003cb\u003e14\u003c/b\u003e:11, -18.22, 143.51, 4.8, Georgetown \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1996\u003c/b\u003e/08/13 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w1yMftxdSCkJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity_in_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32684"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0y-_VdOt97EaQcatNSECvkyYtwP5d-jCx_yj8JSWfCuxRjC0WZH2IuGo"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity in Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/43699",
+      "dc.date.modified": "2011-08-20",
+      "dc.date.created": "2004-02-07",
+      "dc.date.valid": "2012-08-20",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/43699",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 1902 Guatemala earthquake, 14, ???91, 2,000, 7.5, ML (USGS 1000+), USGS   ... 01904-08-27August 27, 1904, 21:56, Fairbanks, Alaska, United States, 64.7, ???  148.1, 7.3, MS, USGS ... 01906-11-19November 19, 1906, Off the coast of   Western Australia, Australia, 7.6, Mw ..... 48.89, ???79, 6.2, Mw (Bent, 1996), USGS ...",
+   "htmlSnippet": "see 1902 Guatemala \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e14\u003c/b\u003e, ???91, 2,000, 7.5, ML (USGS 1000+), USGS \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 01904-08-27\u003cb\u003eAugust\u003c/b\u003e 27, 1904, 21:56, Fairbanks, Alaska, United States, 64.7, ???\u003cbr\u003e  148.1, 7.3, MS, USGS \u003cb\u003e...\u003c/b\u003e 01906-11-19November 19, 1906, Off the coast of \u003cbr\u003e  Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e.....\u003c/b\u003e 48.89, ???79, 6.2, Mw (Bent, \u003cb\u003e1996\u003c/b\u003e), USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  }
+ ]
+}

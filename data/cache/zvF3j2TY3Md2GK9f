@@ -1,0 +1,293 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 1 1931 Eurasia Earthquake",
+    "totalResults": "9470",
+    "searchTerms": "May 1 1931 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 1 1931 Eurasia Earthquake",
+    "totalResults": "9470",
+    "searchTerms": "May 1 1931 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.173541,
+  "formattedSearchTime": "0.17",
+  "totalResults": "9470",
+  "formattedTotalResults": "9,470"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1755 Lisbon earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1755 Lisbon \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... the boundary between the African (Nubian) and the Eurasian continental   plates, ... In 1755, the earthquake struck on the morning of 1 November, the   holiday of ... Another 10,000 may have lost their lives in Morocco; however, a   2009 study of .... this one, from 1931, discusses the Lisbon earthquake and   summarizes some ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e the boundary between the African (Nubian) and the \u003cb\u003eEurasian\u003c/b\u003e continental \u003cbr\u003e  plates, \u003cb\u003e...\u003c/b\u003e In 1755, the \u003cb\u003eearthquake\u003c/b\u003e struck on the morning of \u003cb\u003e1\u003c/b\u003e November, the \u003cbr\u003e  holiday of \u003cb\u003e...\u003c/b\u003e Another 10,000 \u003cb\u003emay\u003c/b\u003e have lost their lives in Morocco; however, a \u003cbr\u003e  2009 study of \u003cb\u003e....\u003c/b\u003e this one, from \u003cb\u003e1931\u003c/b\u003e, discusses the Lisbon \u003cb\u003eearthquake\u003c/b\u003e and \u003cbr\u003e  summarizes some \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nCYGiJNDfNQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1755_Lisbon_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1755_Lisbon_Earthquake_Location.gif/240px-1755_Lisbon_Earthquake_Location.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "244",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjIgEQAQuNycIU8UKb4-dpEYE67xFco8cTRdBkFKtTcsX3iB-AU-Uaxcft"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "1755-11",
+      "summary": "1755 Lisbon earthquake"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "1755-11",
+      "summary": "1755 Lisbon earthquake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1.7.1 Aftershocks; 1.7.2 Earthquake swarms; 1.7.3 Earthquake storms ... There   are three main types of fault, all of which may cause an earthquake: normal, ...   oblique convergent plate boundary between the Arabian and Eurasian plates   where .... The number of seismic stations has increased from about 350 in 1931   to many ...",
+   "htmlSnippet": "1.7.\u003cb\u003e1\u003c/b\u003e Aftershocks; 1.7.2 \u003cb\u003eEarthquake\u003c/b\u003e swarms; 1.7.3 \u003cb\u003eEarthquake\u003c/b\u003e storms \u003cb\u003e...\u003c/b\u003e There \u003cbr\u003e  are three main types of fault, all of which \u003cb\u003emay\u003c/b\u003e cause an \u003cb\u003eearthquake\u003c/b\u003e: normal, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  oblique convergent plate boundary between the Arabian and \u003cb\u003eEurasian\u003c/b\u003e plates \u003cbr\u003e  where \u003cb\u003e....\u003c/b\u003e The number of \u003cb\u003eseismic\u003c/b\u003e stations has increased from about 350 in \u003cb\u003e1931\u003c/b\u003e \u003cbr\u003e  to many \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e￬ﾧﾀ￬ﾧﾄ (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "￬ﾧﾀ￬ﾧﾄ￬ﾝﾀ ￬ﾞﾐ￬ﾗﾰ￬ﾠﾁ, ￬ﾝﾸ￪ﾳﾵ￬ﾠﾁ ￬ﾛﾐ￬ﾝﾸ￬ﾜﾼ￫ﾡﾜ ￬ﾝﾸ￭ﾕﾴ ￬ﾧﾀ￪ﾵﾬ￬ﾝﾘ ￭ﾑﾜ￫ﾩﾴ￬ﾝﾴ ￭ﾝﾔ￫ﾓﾤ￫ﾦﾬ￫ﾊﾔ ￭ﾘﾄ￬ﾃﾁ￬ﾝﾴ￫ﾋﾤ. ￭ﾝﾔ￭ﾞﾈ ￬ﾞﾐ￬ﾗﾰ￬ﾠﾁ ￬ﾛﾐ￬ﾝﾸ ￬ﾤﾑ ￫ﾋﾨ￬ﾸﾵ￫ﾩﾴ￬ﾗﾐ￬ﾄﾜ ￬ﾈﾜ￪ﾰﾄ￬ﾠﾁ￬ﾜﾼ￫ﾡﾜ ￫ﾰﾜ￬ﾃﾝ￭ﾕﾘ￫ﾊﾔ ￫ﾳﾀ￬ﾜﾄ ￬ﾞﾐ￬ﾲﾴ￫ﾥﾼ ￬ﾧﾀ￬ﾧﾄ￬ﾝﾴ￫ﾝﾼ￪ﾳﾠ ￭ﾕﾜ￫ﾋﾤ.",
+      "Output::gray1b": "- ￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ (￬ﾘﾁ￫ﾬﾸ)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/￬ﾧﾀ￬ﾧﾄ",
+      "Output::link2c": "￬ﾜﾄ￭ﾂﾤ￫ﾰﾱ￪ﾳﾼ",
+      "result_group_header": "￫ﾰﾱ￪ﾳﾼ￬ﾂﾬ￬ﾠﾄ",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "data suggests that the Arabia's collision rate with Eurasia may have reduced to   22 mm/yr ( ..... The Mach 1931 (Ms=7.3) earthquake absorbed approximately 1 ...",
+   "htmlSnippet": "data suggests that the Arabia&#39;s collision rate with \u003cb\u003eEurasia may\u003c/b\u003e have reduced to \u003cbr\u003e  22 mm/yr ( \u003cb\u003e.....\u003c/b\u003e The Mach \u003cb\u003e1931\u003c/b\u003e (Ms=7.3) \u003cb\u003eearthquake\u003c/b\u003e absorbed approximately \u003cb\u003e1\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Composite Regional Catalogs of Earthquakes in the Former Soviet ...",
+   "htmlTitle": "Composite Regional Catalogs of \u003cb\u003eEarthquakes\u003c/b\u003e in the Former Soviet \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/research/data/russia_seismicity/download/USGS-OFR-02-500.pdf",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "the seismicity of the Eurasian land mass is therefore available, although to date   only in ..... in 1931, the corresponding 1-hour corrections were incorporated.",
+   "htmlSnippet": "the seismicity of the \u003cb\u003eEurasian\u003c/b\u003e land mass is therefore available, although to date \u003cbr\u003e  only in \u003cb\u003e.....\u003c/b\u003e in \u003cb\u003e1931\u003c/b\u003e, the corresponding \u003cb\u003e1\u003c/b\u003e-hour corrections were incorporated.",
+   "cacheId": "iUoX_YvmSk0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake.usgs.gov/research/data/russia_seismicity/.../USGS-OFR-02-500. pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/research/data/russia_\u003cb\u003eseismic\u003c/b\u003eity/.../USGS-OFR-02-500. pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030114181140-05'00'",
+      "moddate": "D:20030114181140-05'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "creator": "AdobePS5.dll Version 5.2",
+      "title": "Microsoft Word - catalogs-final.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are ... One of the largest earthquakes ever was the Chile event of   22 May 1960 with moment magnitude .... 7 Jun 1931, North Sea, 5.6, 1, Hull,   Shock?",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are \u003cb\u003e...\u003c/b\u003e One of the largest \u003cb\u003eearthquakes\u003c/b\u003e ever was the Chile event of \u003cbr\u003e  22 \u003cb\u003eMay\u003c/b\u003e 1960 with moment magnitude \u003cb\u003e....\u003c/b\u003e 7 Jun \u003cb\u003e1931\u003c/b\u003e, North Sea, 5.6, \u003cb\u003e1\u003c/b\u003e, Hull, \u003cbr\u003e  Shock?",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismic activity in the azores region in the context of the western part ...",
+   "htmlTitle": "\u003cb\u003eseismic\u003c/b\u003e activity in the azores region in the context of the western part \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://evunix.uevora.pt/~bafcc/SISMOD_LISMOT/Producao_cientifica/Comunic_Intern/Com_INT_2.pdf",
+   "displayLink": "evunix.uevora.pt",
+   "snippet": "1: Seismicity for the western part of the Eurasia-Nubia plate boundary for the   period .... strong magnitude as the events occurred on the May 20, 1931 (Ms =   7.1), ...",
+   "htmlSnippet": "\u003cb\u003e1\u003c/b\u003e: Seismicity for the western part of the \u003cb\u003eEurasia\u003c/b\u003e-Nubia plate boundary for the \u003cbr\u003e  period \u003cb\u003e....\u003c/b\u003e strong magnitude as the events occurred on the \u003cb\u003eMay\u003c/b\u003e 20, \u003cb\u003e1931\u003c/b\u003e (Ms = \u003cbr\u003e  7.1), \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m7G5V1fq140J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "evunix.uevora.pt/~bafcc/SISMOD_LISMOT/...Intern/Com_INT_2.pdf",
+   "htmlFormattedUrl": "evunix.uevora.pt/~bafcc/SISMOD_LISMOT/...Intern/Com_INT_2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Microsoft Word - Com_INT_2.doc",
+      "author": "Bento Caldeira",
+      "producer": "Mac OS X 10.6.8 Quartz PDFContext",
+      "creator": "Microsoft Word",
+      "creationdate": "D:20110909005439Z00'00'",
+      "moddate": "D:20110909005439Z00'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STATUS OF SEISMICITY IN THE NORTHEAST INDIA AND ...",
+   "htmlTitle": "STATUS OF SEISMICITY IN THE NORTHEAST INDIA AND \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "displayLink": "gbpihedenvis.nic.in",
+   "snippet": "Earthquakes may not at all occur in some regions; only small earthquakes (both   ... It is placed in zone 5, the highest zone, of the seismic zonation map of India (  Figure 1). ... The high seismicity in the region is attributed to the collision tectonics   between the Indian plate and the Eurasian plate in the north ... January 27, 1931 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes may\u003c/b\u003e not at all occur in some regions; only small \u003cb\u003eearthquakes\u003c/b\u003e (both \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e It is placed in zone 5, the highest zone, of the \u003cb\u003eseismic\u003c/b\u003e zonation map of India (\u003cbr\u003e  Figure \u003cb\u003e1\u003c/b\u003e). \u003cb\u003e...\u003c/b\u003e The high seismicity in the region is attributed to the collision tectonics \u003cbr\u003e  between the Indian plate and the \u003cb\u003eEurasian\u003c/b\u003e plate in the north \u003cb\u003e...\u003c/b\u003e January 27, \u003cb\u003e1931\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1na7jotAy7UJ",
+   "formattedUrl": "gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "htmlFormattedUrl": "gbpihedenvis.nic.in/html/vol10_\u003cb\u003e1\u003c/b\u003e/rptiwari.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "ricepapr 001"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "PDF (191 kB)",
+   "htmlTitle": "PDF (191 kB)",
+   "link": "http://www.geophysica.fi/pdf/geophysica_1960_7_2_101_porkka.pdf",
+   "displayLink": "www.geophysica.fi",
+   "snippet": "Rayleigh waves from six earthquakes that occurred in Kam- chatka and Japan ...   Eurasian paths, using records from seismological stations in Finland. ... For the   shock of May, 1959, ... 4 1 1931 Jul 18 11 23 50 54.0 N, 161.0 E (ISS) Hel N   6725i ...",
+   "htmlSnippet": "Rayleigh waves from six \u003cb\u003eearthquakes\u003c/b\u003e that occurred in Kam- chatka and Japan \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e paths, using records from seismological stations in Finland. \u003cb\u003e...\u003c/b\u003e For the \u003cbr\u003e  shock of \u003cb\u003eMay\u003c/b\u003e, 1959, \u003cb\u003e...\u003c/b\u003e 4 \u003cb\u003e1 1931\u003c/b\u003e Jul 18 11 23 50 54.0 N, 161.0 E (ISS) Hel N \u003cbr\u003e  6725i \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6A5XfqPHttwJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geophysica.fi/pdf/geophysica_1960_7_2_101_porkka.pdf",
+   "htmlFormattedUrl": "www.geophysica.fi/pdf/geophysica_1960_7_2_101_porkka.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "Mon Jun 11 18:36:11 2007",
+      "moddate": "Mon Jun 11 18:36:11 2007",
+      "producer": "PDFpenPro",
+      "creator": "PDFpenPro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Probabilistic Seismic Hazard Analysis for Quetta City, Pakistan",
+   "htmlTitle": "Probabilistic \u003cb\u003eSeismic\u003c/b\u003e Hazard Analysis for Quetta City, Pakistan",
+   "link": "http://www.pmd.gov.pk/seismic/1.pdf",
+   "displayLink": "www.pmd.gov.pk",
+   "snippet": "defined by Cornell (1968). There are four basic steps for assessment of PSHA:   Step 1 is the definition of earthquake sources. Sources may range from small ...",
+   "htmlSnippet": "defined by Cornell (1968). There are four basic steps for assessment of PSHA: \u003cbr\u003e  Step \u003cb\u003e1\u003c/b\u003e is the definition of \u003cb\u003eearthquake\u003c/b\u003e sources. Sources \u003cb\u003emay\u003c/b\u003e range from small \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z1D4GnVTwTEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.pmd.gov.pk/seismic/1.pdf",
+   "htmlFormattedUrl": "www.pmd.gov.pk/\u003cb\u003eseismic\u003c/b\u003e/\u003cb\u003e1\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Earthquake study for the cities of",
+      "author": "Conrad Lindholm",
+      "creator": "Microsoftￂﾮ Office Word 2007",
+      "creationdate": "D:20120926104515+05'00'",
+      "moddate": "D:20120926104515+05'00'",
+      "producer": "Microsoftￂﾮ Office Word 2007"
+     }
+    ]
+   }
+  }
+ ]
+}

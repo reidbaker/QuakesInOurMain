@@ -1,0 +1,271 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 30 1996 Africa Earthquake",
+    "totalResults": "517000",
+    "searchTerms": "Oct 30 1996 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 30 1996 Africa Earthquake",
+    "totalResults": "517000",
+    "searchTerms": "Oct 30 1996 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.269174,
+  "formattedSearchTime": "0.27",
+  "totalResults": "517000",
+  "formattedTotalResults": "517,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Read also: links to all 30 prior parts of this eruption report please go to the ....   Earthquakes to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4 ...",
+   "htmlSnippet": "Read also: links to all \u003cb\u003e30\u003c/b\u003e prior parts of this eruption report please go to the \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The October 30, 1994, seismic disturbance in South Africa ...",
+   "htmlTitle": "The \u003cb\u003eOctober 30\u003c/b\u003e, 1994, \u003cb\u003eseismic\u003c/b\u003e disturbance in South \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.agu.org/pubs/crossref/1997/97JB00509.shtml",
+   "displayLink": "www.agu.org",
+   "snippet": "Received 29 July 1996; accepted 13 February 1997; . Citation: Bowers, D. (1997)  , The October 30, 1994, seismic disturbance in South Africa: Earthquake or ...",
+   "htmlSnippet": "Received 29 July \u003cb\u003e1996\u003c/b\u003e; accepted 13 February 1997; . Citation: Bowers, D. (1997)\u003cbr\u003e  , The \u003cb\u003eOctober 30\u003c/b\u003e, 1994, \u003cb\u003eseismic\u003c/b\u003e disturbance in South \u003cb\u003eAfrica\u003c/b\u003e: \u003cb\u003eEarthquake\u003c/b\u003e or \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.agu.org/pubs/crossref/1997/97JB00509.shtml",
+   "htmlFormattedUrl": "www.agu.org/pubs/crossref/1997/97JB00509.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.publisher": "American Geophysical Union",
+      "dc.language": "en",
+      "dc.rights": "?? 2008 American Geophysical Union",
+      "dc.title": "The October 30, 1994, seismic disturbance in South Africa: Earthquake or large rock burst?",
+      "dc.creator": "David Bowers",
+      "dc.identifier": "doi:10.1029/97JB00509",
+      "dc.source": "Citation: Bowers, D. (1997), The October 30, 1994, seismic disturbance in South Africa: Earthquake or large rock burst?, J. Geophys. Res., 102(B5), 9843???9857, doi:10.1029/97JB00509.",
+      "dc.date": "NaN",
+      "prism.copyright": "?? 2008 American Geophysical Union",
+      "prism.rightsagent": "author.help@agu.org",
+      "prism.publicationname": "Journal of Geophysical Research",
+      "prism.issn": "0148-0227",
+      "prism.eissn": "0148-0227",
+      "prism.publicationdate": "NaN",
+      "prism.volume": "102",
+      "prism.number": "B5",
+      "prism.startingpage": "null",
+      "citation_journal_title": "Journal of Geophysical Research",
+      "citation_publisher": "American Geophysical Union",
+      "citation_authors": "David Bowers",
+      "citation_title": "The October 30, 1994, seismic disturbance in South Africa: Earthquake or large rock burst?",
+      "citation_date": "NaN",
+      "citation_year": "1997",
+      "citation_volume": "102",
+      "citation_issue": "B5",
+      "citation_firstpage": "9843",
+      "citation_lastpage": "9857",
+      "citation_issn": "0148-0227",
+      "citation_language": "English",
+      "citation_doi": "doi:10.1029/97JB00509",
+      "citation_abstract": "The relative amplitude method is applied to body waves recorded at teleseismic distances from the October 30, 1994, mb 5.6 seismic disturbance, in South Africa, to determine the source depth and moment tensor. The results indicate that the source is shallow and that moment tensors with a positive volume change component are inconsistent with the observations. Observations of Rg in the frequency range 0.5???2.0 Hz at two regional distance stations also indicate that the source is shallow (less than about 3 km deep). Three-component broadband and long-period seismograms recorded at regional distances show strong Love wave excitation and a lobed Rayleigh radiation pattern, observations that are inconsistent with collapse mechanisms recently proposed for some large rock bursts (mine tremors). Modeling of teleseismic broadband P and regional distance surface waves shows that the source depth is shallow (2???3 km) and that the observed source radiation is consistent with that expected from a 45?? normal dip-slip fa",
+      "citation_pdf_url": "http://www.agu.org/journals/jb/v102/iB05/97JB00509/97JB00509.pdf",
+      "citation_abstract_html_url": "http://www.agu.org/pubs/crossref/1997/97JB00509.shtml",
+      "fulltext_pdf": "http://www.agu.org/journals/jb/v102/iB05/97JB00509/97JB00509.pdf",
+      "citation_author_institution": "AWE Blacknest, Reading, England",
+      "citation_journal_abbrev": "J. Geophys. Res.",
+      "citation_reference": "citation_title=The October 30, 1994, seismic disturbance in South Africa: Earthquake or large rock burst?; citation_author=David Bowers; citation_journal_title=Journal of Geophysical Research; citation_volume=102; citation_number=B5; citation_pages=9843; citation_year=1997",
+      "indexterm": "7200 Seismology"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Active volcanoes in the world: October 24 ??? October 30, 2012 ...",
+   "htmlTitle": "Active volcanoes in the world: \u003cb\u003eOctober\u003c/b\u003e 24 ??? \u003cb\u003eOctober 30\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://beforeitsnews.com/earthquakes/2012/11/active-volcanoes-in-the-world-october-24-october-30-2012-2446056.html",
+   "displayLink": "beforeitsnews.com",
+   "snippet": "Oct 30, 2012 ... 4276 m. INGEOMINAS reported that during 24-30 October cameras around   Galeras ... dike emplacement beneath the volcano was recorded in 1996. ...   KVERT reported moderate seismic activity from Karymsky during 19-26 October,   .... of Africa, satellites are the primary means of monitoring Mawson Peak.",
+   "htmlSnippet": "Oct 30, 2012 \u003cb\u003e...\u003c/b\u003e 4276 m. INGEOMINAS reported that during 24-\u003cb\u003e30 October\u003c/b\u003e cameras around \u003cbr\u003e  Galeras \u003cb\u003e...\u003c/b\u003e dike emplacement beneath the volcano was recorded in \u003cb\u003e1996\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  KVERT reported moderate \u003cb\u003eseismic\u003c/b\u003e activity from Karymsky during 19-26 \u003cb\u003eOctober\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e of \u003cb\u003eAfrica\u003c/b\u003e, satellites are the primary means of monitoring Mawson Peak.",
+   "cacheId": "9tpHWV23olEJ",
+   "formattedUrl": "beforeitsnews.com/earthquakes/.../active-volcanoes-in-the-world-october-24- october-30-2012-2446056.html",
+   "htmlFormattedUrl": "beforeitsnews.com/\u003cb\u003eearthquakes\u003c/b\u003e/.../active-volcanoes-in-the-world-\u003cb\u003eoctober\u003c/b\u003e-24- \u003cb\u003eoctober\u003c/b\u003e-\u003cb\u003e30\u003c/b\u003e-2012-2446056.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NSF - News - News Archive",
+   "htmlTitle": "NSF - News - News Archive",
+   "link": "http://www.nsf.gov/news/archive-releases2.jsp",
+   "displayLink": "www.nsf.gov",
+   "snippet": "NSF PR 99-30 - April 26, 1999 ... NSF TO ESTABLISH \"CYBERSYSTEM\" FOR   EARTHQUAKE ENGINEERING .... BIOGENIC EMISSIONS HIGHER THAN   EXPECTED OVER AFRICAN SAVANNA; NSF PR .... NSF PR 96-67 - October 30,   1996 ...",
+   "htmlSnippet": "NSF PR 99-30 - April 26, 1999 \u003cb\u003e...\u003c/b\u003e NSF TO ESTABLISH &quot;CYBERSYSTEM&quot; FOR \u003cbr\u003e  \u003cb\u003eEARTHQUAKE\u003c/b\u003e ENGINEERING \u003cb\u003e....\u003c/b\u003e BIOGENIC EMISSIONS HIGHER THAN \u003cbr\u003e  EXPECTED OVER \u003cb\u003eAFRICAN\u003c/b\u003e SAVANNA; NSF PR \u003cb\u003e....\u003c/b\u003e NSF PR 96-67 - \u003cb\u003eOctober 30\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e1996\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "F9pp3APZkWAJ",
+   "formattedUrl": "www.nsf.gov/news/archive-releases2.jsp",
+   "htmlFormattedUrl": "www.nsf.gov/news/archive-releases2.jsp",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "eweir",
+      "language": "English",
+      "created": "12-14-2004",
+      "subject": "Archive of NSF News Material"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas",
+   "htmlTitle": "ShakeMap Atlas",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1996",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, and   ... 6.0, BANDA SEA, Dec 30 1996, 19:41:51, -4.027, 128.088, 199612301941 ...   4.7, SOUTH AFRICA, Dec 25 1996, 12:20:46, -26.975, 26.797, 199612251220 ...   5.6, MINDANAO, PHILIPPINES, Oct 31 1996, 18:42:41, 9.880 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 6.0, BANDA SEA, Dec \u003cb\u003e30 1996\u003c/b\u003e, 19:41:51, -4.027, 128.088, 199612301941 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  4.7, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Dec 25 \u003cb\u003e1996\u003c/b\u003e, 12:20:46, -26.975, 26.797, 199612251220 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  5.6, MINDANAO, PHILIPPINES, \u003cb\u003eOct\u003c/b\u003e 31 \u003cb\u003e1996\u003c/b\u003e, 18:42:41, 9.880 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "e9yuzpCmvNkJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1996",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1996\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Historical earthquakes is a list of significant earthquakes from before the 20th   century. .... November 24, 1604, 12:30 local time, Arica, Chile, -18.500, -70.400 ?   ... see 1700 Cascadia earthquake, 9, M (Satake et al., 1996), USGS ... 35.9, 1,000  s, 7.4, Ms Earthquake in same area on October 30 considered to be a foreshock ...",
+   "htmlSnippet": "Historical \u003cb\u003eearthquakes\u003c/b\u003e is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e from before the 20th \u003cbr\u003e  century. \u003cb\u003e....\u003c/b\u003e November 24, 1604, 12:\u003cb\u003e30\u003c/b\u003e local time, \u003cb\u003eArica\u003c/b\u003e, Chile, -18.500, -70.400 ? \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e see 1700 Cascadia \u003cb\u003eearthquake\u003c/b\u003e, 9, M (Satake et al., \u003cb\u003e1996\u003c/b\u003e), USGS \u003cb\u003e...\u003c/b\u003e 35.9, 1,000\u003cbr\u003e  s, 7.4, Ms \u003cb\u003eEarthquake\u003c/b\u003e in same area on \u003cb\u003eOctober 30\u003c/b\u003e considered to be a foreshock \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "These citations are from the QUAKELINE?? database. QUAKELINE ...",
+   "htmlTitle": "These citations are from the QUAKELINE?? database. QUAKELINE \u003cb\u003e...\u003c/b\u003e",
+   "link": "ftp://mceer.buffalo.edu/pub/searches/06/01/060105.txt",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "ID Molise, Italy earthquake, October 31-November 1, 2002. ..... on Earthquake   Resistant Engineering Structures (ERES 96); October 30-November 1, 1996].",
+   "htmlSnippet": "ID Molise, Italy \u003cb\u003eearthquake\u003c/b\u003e, October 31-November 1, 2002. \u003cb\u003e.....\u003c/b\u003e on \u003cb\u003eEarthquake\u003c/b\u003e \u003cbr\u003e  Resistant Engineering Structures (ERES 96); \u003cb\u003eOctober 30\u003c/b\u003e-November 1, 1996].",
+   "cacheId": "xEQvgZJg6x0J",
+   "mime": "text/plain",
+   "formattedUrl": "ftp://mceer.buffalo.edu/pub/searches/06/01/060105.txt",
+   "htmlFormattedUrl": "ftp://mceer.buffalo.edu/pub/searches/06/01/060105.txt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude (misc units) over time for deadly earthquakes since 1900 .... 1903-03-  29 22:30, Judea and Samaria, 32.200, 35.300, 5.7 UK, 20. 1903-04-28, Turkey ...",
+   "htmlSnippet": "Magnitude (misc units) over time for deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 \u003cb\u003e....\u003c/b\u003e 1903-03-\u003cbr\u003e  29 22:\u003cb\u003e30\u003c/b\u003e, Judea and Samaria, 32.200, 35.300, 5.7 UK, 20. 1903-04-28, Turkey \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Status of signature and ratification: CTBTO Preparatory Commission",
+   "htmlTitle": "Status of signature and ratification: CTBTO Preparatory Commission",
+   "link": "http://www.ctbto.org/the-treaty/status-of-signature-and-ratification/",
+   "displayLink": "www.ctbto.org",
+   "snippet": "Africa. Eastern Europe. Latin America and the Carribean ...",
+   "htmlSnippet": "\u003cb\u003eAfrica\u003c/b\u003e. Eastern Europe. Latin America and the Carribean \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x-3E4Bb5lmcJ",
+   "formattedUrl": "www.ctbto.org/the-treaty/status-of-signature-and-ratification/",
+   "htmlFormattedUrl": "www.ctbto.org/the-treaty/status-of-signature-and-ratification/",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "width=640,maximum-scale=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption,   .... 7002154000000000000154, North American blizzard of 1996 ?? United States   ... Cyclone of 1876, present day Bangladesh, 01876-10-30October 30, 1876. 6.   ..... 1,000,000, Horn of Africa famine, Ethiopia, Sudan, Somalia, 01888-01-01  1888 ...",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 7002154000000000000154, North American blizzard of \u003cb\u003e1996\u003c/b\u003e &middot; United States \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Cyclone of 1876, present day Bangladesh, 01876-10-\u003cb\u003e30October 30\u003c/b\u003e, 1876. 6. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e 1,000,000, Horn of \u003cb\u003eAfrica\u003c/b\u003e famine, Ethiopia, Sudan, Somalia, 01888-01-01\u003cbr\u003e  1888 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  }
+ ]
+}

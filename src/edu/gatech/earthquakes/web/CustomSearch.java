@@ -114,7 +114,9 @@ public class CustomSearch {
 	    // get content and write it to a file the return it
 	    BufferedWriter out = new BufferedWriter(new FileWriter(f));
 	    result = getOnlineContent(getUrl(query));
-	    out.write(result);
+	    if(result != null && result.length() > 1){
+	        out.write(result);
+	    }
 	    out.close();
 	}
 	return result;

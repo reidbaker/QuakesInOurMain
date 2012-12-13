@@ -1,0 +1,222 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 19 1965 Australia Earthquake",
+    "totalResults": "245000",
+    "searchTerms": "May 19 1965 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 19 1965 Australia Earthquake",
+    "totalResults": "245000",
+    "searchTerms": "May 19 1965 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.212235,
+  "formattedSearchTime": "0.21",
+  "totalResults": "245000",
+  "formattedTotalResults": "245,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list July 20, 2012 ??? Moderate earthquake in ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list July 20, 2012 ??? Moderate \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/07/19/major-earthquakes-list-july-20-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 21, 2012 ... Moderate 4.5M earthquake 117km from Canberra, Australia. A 4.5M earthquake   struck 13km from Moe, Australia at a depth of 10km (USGS).",
+   "htmlSnippet": "Jul 21, 2012 \u003cb\u003e...\u003c/b\u003e Moderate 4.5M \u003cb\u003eearthquake\u003c/b\u003e 117km from Canberra, \u003cb\u003eAustralia\u003c/b\u003e. A 4.5M \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  struck 13km from Moe, \u003cb\u003eAustralia\u003c/b\u003e at a depth of 10km (USGS).",
+   "cacheId": "0INzYg2wmQoJ",
+   "formattedUrl": "earthquake-report.com/.../19/major-earthquakes-list-july-20-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e19\u003c/b\u003e/major-\u003cb\u003eearthquakes\u003c/b\u003e-list-july-20-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list July 20, 2012",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list July 20, 2012",
+   "link": "http://earthquake-report.com/2012/07/19/complete-earthquakes-list-july-20-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 21, 2012 ... Personalized E-mail earthquake alerts for this area. Click on Subscribe to E-mail   list of this page below and make your choice of ??? delivery ...",
+   "htmlSnippet": "Jul 21, 2012 \u003cb\u003e...\u003c/b\u003e Personalized E-mail \u003cb\u003eearthquake\u003c/b\u003e alerts for this area. Click on Subscribe to E-mail \u003cbr\u003e  list of this page below and make your choice of ??? delivery \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5OykgQcgAWwJ",
+   "formattedUrl": "earthquake-report.com/.../19/complete-earthquakes-list-july-20-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e19\u003c/b\u003e/complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-july-20-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list June 8, 2012 ??? Moderate earthquake rattles ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list June 8, 2012 ??? Moderate \u003cb\u003eearthquake\u003c/b\u003e rattles \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/08/major-earthquakes-list-june-8-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 9, 2012 ... Moderate earthquake rattles New South Wales, Australia Epicenter .... EMSC, Off   Coast Of Ecuador, Jun 08 04:19 AM, 4.9, 19.0, MAP ?? I Felt It ...",
+   "htmlSnippet": "Jun 9, 2012 \u003cb\u003e...\u003c/b\u003e Moderate \u003cb\u003eearthquake\u003c/b\u003e rattles New South Wales, \u003cb\u003eAustralia\u003c/b\u003e Epicenter \u003cb\u003e....\u003c/b\u003e EMSC, Off \u003cbr\u003e  Coast Of Ecuador, Jun 08 04:\u003cb\u003e19\u003c/b\u003e AM, 4.9, 19.0, MAP &middot; I Felt It \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RVK2wpw03h8J",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-june-8-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-june-8-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes list March 20, 2012 ??? Massive earthquake near the ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e list March 20, 2012 ??? Massive \u003cb\u003eearthquake\u003c/b\u003e near the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/19/earthquakes-list-march-20-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 20, 2012 ... 02:56:19 AM at epicenter ??? Epicenter location see below in list 153 km (95 miles)   SSW of Jayapura, Papua, Indonesia Very strong earthquake ...",
+   "htmlSnippet": "Mar 20, 2012 \u003cb\u003e...\u003c/b\u003e 02:56:\u003cb\u003e19\u003c/b\u003e AM at epicenter ??? Epicenter location see below in list 153 km (95 miles) \u003cbr\u003e  SSW of Jayapura, Papua, Indonesia Very strong \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "n1XFsImQY8AJ",
+   "formattedUrl": "earthquake-report.com/2012/03/19/earthquakes-list-march-20-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/03/\u003cb\u003e19\u003c/b\u003e/\u003cb\u003eearthquakes\u003c/b\u003e-list-march-20-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "veronica",
+      "nickname": "veronica"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list August 19, 2012",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list August \u003cb\u003e19\u003c/b\u003e, 2012",
+   "link": "http://earthquake-report.com/2012/08/18/complete-earthquakes-list-august-19-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 20, 2012... world map. Click here for examples of our ???earthquake notifications (button   below)??? ... AUSTRALIA - power poles flexing. everything vibrating.",
+   "htmlSnippet": "Aug 20, 2012\u003cb\u003e...\u003c/b\u003e world map. Click here for examples of our ???\u003cb\u003eearthquake\u003c/b\u003e notifications (button \u003cbr\u003e  below)??? \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAUSTRALIA\u003c/b\u003e - power poles flexing. everything vibrating.",
+   "cacheId": "oZDHhKlIUkYJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-august-19-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-august-\u003cb\u003e19\u003c/b\u003e-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list December 10, 2012 ??? Moderate to strong ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list December 10, 2012 ??? Moderate to strong \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/12/09/major-earthquakes-list-december-10-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "3 days ago ... Update 17:19 UTC : The quake struck in an area were 2 major fault lines ...   Darwin NT, Australia - Its 0228 in Darwin, noticed monitor shaking ...",
+   "htmlSnippet": "3 days ago \u003cb\u003e...\u003c/b\u003e Update 17:\u003cb\u003e19\u003c/b\u003e UTC : The \u003cb\u003equake\u003c/b\u003e struck in an area were 2 major fault lines \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Darwin NT, \u003cb\u003eAustralia\u003c/b\u003e - Its 0228 in Darwin, noticed monitor shaking \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DJXcwRWtMrIJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-december-10-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-december-10-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... Update 23/04 ??? 08:19 UTC Indonesian authorities have reported that finally 10   Indonesians died, all of them indirect (heart attacks, jumping in ...",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e Update 23/04 ??? 08:\u003cb\u003e19\u003c/b\u003e UTC Indonesian authorities have reported that finally 10 \u003cbr\u003e  Indonesians died, all of them indirect (heart attacks, jumping in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list May 27, 2012 ??? Earthquake in South ...",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eMay\u003c/b\u003e 27, 2012 ??? \u003cb\u003eEarthquake\u003c/b\u003e in South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/26/complete-earthquakes-list-may-27-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 30, 2012 ... Earthquake in South Africa during the evening of May 27? Our readers have   reported an earthquake (or at least serious vibrations) in the Piet ...",
+   "htmlSnippet": "May 30, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e in South Africa during the evening of \u003cb\u003eMay\u003c/b\u003e 27? Our readers have \u003cbr\u003e  reported an \u003cb\u003eearthquake\u003c/b\u003e (or at least serious vibrations) in the Piet \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "che-VdXkuYoJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-may-27-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003emay\u003c/b\u003e-27-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Latest earthquakes in the world",
+   "htmlTitle": "Latest \u003cb\u003eearthquakes\u003c/b\u003e in the world",
+   "link": "http://earthquake-report.com/2012/01/01/latest-earthquakes-in-the-world-usgs/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 9, 2012 ... The list below shows the last 100 earthquakes in the world as ... USGS, Virgin   Islands Region, Dec 12 19:11 PM, 3.0, 40.0, MAP ?? I Felt It ...",
+   "htmlSnippet": "Jul 9, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last 100 \u003cb\u003eearthquakes\u003c/b\u003e in the world as \u003cb\u003e...\u003c/b\u003e USGS, Virgin \u003cbr\u003e  Islands Region, Dec 12 \u003cb\u003e19\u003c/b\u003e:11 PM, 3.0, 40.0, MAP &middot; I Felt It \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tKMPkntakhEJ",
+   "formattedUrl": "earthquake-report.com/2012/.../latest-earthquakes-in-the-world-usgs/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../latest-\u003cb\u003eearthquakes\u003c/b\u003e-in-the-world-usgs/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "magdy",
+      "nickname": "magdy"
+     },
+     {
+      "fn": "mariana",
+      "nickname": "mariana"
+     },
+     {
+      "fn": "Ursula",
+      "nickname": "Ursula"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list May 29, 2012",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eMay\u003c/b\u003e 29, 2012",
+   "link": "http://earthquake-report.com/2012/05/28/complete-earthquakes-list-may-29-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 30, 2012 ... Personalized E-mail earthquake alerts for this area. Click on Subscribe to E-mail   list of this page below and make your choice of ??? delivery ...",
+   "htmlSnippet": "May 30, 2012 \u003cb\u003e...\u003c/b\u003e Personalized E-mail \u003cb\u003eearthquake\u003c/b\u003e alerts for this area. Click on Subscribe to E-mail \u003cbr\u003e  list of this page below and make your choice of ??? delivery \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kYvW4klTFRUJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-may-29-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003emay\u003c/b\u003e-29-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "BC",
+      "nickname": "BC"
+     }
+    ]
+   }
+  }
+ ]
+}

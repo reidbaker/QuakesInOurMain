@@ -1,0 +1,312 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 10 1967 Asia Earthquake",
+    "totalResults": "241000",
+    "searchTerms": "Dec 10 1967 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 10 1967 Asia Earthquake",
+    "totalResults": "241000",
+    "searchTerms": "Dec 10 1967 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.220821,
+  "formattedSearchTime": "0.22",
+  "totalResults": "241000",
+  "formattedTotalResults": "241,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in India",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 27, 2011 ... This ￢ﾀﾜIndia deadly earthquake list￢ﾀﾝ has been compiled out of our ... M 6.3ￃﾂ ￃﾂ ￃﾂ 10  -12-1967ￃﾂ ￃﾂ ￃﾂ Depth 10.7 kmￃﾂ ￃﾂ ￃﾂ India ￢ﾀﾜ killing 180 people .... to earthquakes   in European and Asian / Middle East sphere (4 and up) and a lot of ... (Major)   Earthquakes list December 11, 2012 - Moderate aftershock South of ...",
+   "htmlSnippet": "Jan 27, 2011 \u003cb\u003e...\u003c/b\u003e This ￢ﾀﾜIndia deadly \u003cb\u003eearthquake\u003c/b\u003e list￢ﾀﾝ has been compiled out of our \u003cb\u003e...\u003c/b\u003e M 6.3ￃﾂ ￃﾂ ￃﾂ \u003cb\u003e10\u003c/b\u003e\u003cbr\u003e  -12-\u003cb\u003e1967ￃﾂ\u003c/b\u003e ￃﾂ ￃﾂ Depth 10.7 kmￃﾂ ￃﾂ ￃﾂ India ￢ﾀﾜ killing 180 people \u003cb\u003e....\u003c/b\u003e to \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a lot of \u003cb\u003e...\u003c/b\u003e (Major) \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eDecember\u003c/b\u003e 11, 2012 - Moderate aftershock South of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/26/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-india/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Josￃﾃￂﾩ Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Fault interaction and earthquake triggering in the Koyna-Warna ...",
+   "htmlTitle": "Fault interaction and \u003cb\u003eearthquake\u003c/b\u003e triggering in the Koyna-Warna \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.agu.org/journals/gl/gl0411/2004GL019818/body.shtml",
+   "displayLink": "www.agu.org",
+   "snippet": "[1] Earthquakes in the Koyna-Warna region of peninsular India are considered to   be reservoir ... and lithosphere; 9320 Information Related to Geographic Region:   Asia. ... The main Koyna earthquake of December 10, 1967 (M 6.3) the largest ...",
+   "htmlSnippet": "[1] \u003cb\u003eEarthquakes\u003c/b\u003e in the Koyna-Warna region of peninsular India are considered to \u003cbr\u003e  be reservoir \u003cb\u003e...\u003c/b\u003e and lithosphere; 9320 Information Related to Geographic Region: \u003cbr\u003e  \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The main Koyna \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eDecember 10, 1967\u003c/b\u003e (M 6.3) the largest \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.agu.org/journals/gl/gl0411/2004GL019818/body.shtml",
+   "htmlFormattedUrl": "www.agu.org/journals/gl/gl0411/2004GL019818/body.shtml",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.agu.org/journals/gl/gl0411/2004GL019818/2004gl019818-th01.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "90",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6aG2eiXzNFyDlikvN67mJqsl8NOrxEk4EhFLIDm0qjgU55evNB1rA"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Fault interaction and earthquake triggering in the Koyna-Warna region, India",
+      "authors": "V. K. Gahalaut, Kalpna, and S. K. Singh",
+      "first-author": "Gahalaut, V. K.",
+      "journal": "Geophysical Research Letters",
+      "doi": "10.1029/2004GL019818",
+      "paper-number": "2004GL019818",
+      "paper-type": "regular article",
+      "publisher": "American Geophysical Union",
+      "citation": "Gahalaut, V. K., Kalpna, and S. K. Singh (2004), Fault interaction and earthquake triggering in the Koyna-Warna region, India, Geophys. Res. Lett., 31, L11614, doi:10.1029/2004GL019818.",
+      "copyright": "Copyright 2004 by American Geophysical Union",
+      "index-terms": "7209 Seismology: Earthquake dynamics and mechanics; 7230 Seismology: Seismicity and seismotectonics; 8123 Tectonophysics: Dynamics, seismotectonics; 8164 Tectonophysics: Stresses--crust and lithosphere; 9320 Information Related to Geographic Region: Asia",
+      "published-online": "2004-June-12",
+      "abstract": "Earthquakes in the Koyna-Warna region of peninsular India are considered to be reservoir triggered. However, analyses of the available earthquake data indicate that the sustained high seismicity in this region may be influenced also by the geometry of the fault zones and their interactions through stress transfer. These distinct fault zones, inferred from the earthquake distribution and their focal mechanisms, are favourably oriented to each other in such a way that earthquake occurrences in one of the fault zones increase static stress on the other, facilitating frequent and continuing occurrence of earthquakes in the region. Here we show that though the effect of reservoir operations do promote slip on these faults, stress triggering appears to be an important cause for continuing high seismicity as it brings some of the stabilized faults closer to failure in the manner consistent with the inferred sense of motion.",
+      "html-url": "http://www.agu.org/journals/gl/gl0411/2004GL019818/index.html",
+      "abstract-url": "http://www.agu.org/journals/gl/gl0411/2004GL019818/index.html",
+      "pdf-url": "http://www.agu.org/journals/gl/gl0411/2004GL019818/2004GL019818.pdf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Small M4.4 earthquake causes major damage in China",
+   "htmlTitle": "Small M4.4 \u003cb\u003eearthquake\u003c/b\u003e causes major damage in China",
+   "link": "http://earthquake-report.com/2011/02/13/small-m4-4-earthquake-causes-major-damage-in-china/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Feb 14, 2011 ... A seemingly weak earthquake has struck Zhaotong city, Qiaojia county, ... 4   houses collapsed (10 rooms). 1030 houses severely damaged (1967 rooms) ... to   earthquakes in European and Asian / Middle East sphere (4 and up) and a ... (  Major) Earthquakes list December 7, 2012 - Very strong but very deep ...",
+   "htmlSnippet": "Feb 14, 2011 \u003cb\u003e...\u003c/b\u003e A seemingly weak \u003cb\u003eearthquake\u003c/b\u003e has struck Zhaotong city, Qiaojia county, \u003cb\u003e...\u003c/b\u003e 4 \u003cbr\u003e  houses collapsed (\u003cb\u003e10\u003c/b\u003e rooms). 1030 houses severely damaged (\u003cb\u003e1967\u003c/b\u003e rooms) \u003cb\u003e...\u003c/b\u003e to \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a \u003cb\u003e...\u003c/b\u003e (\u003cbr\u003e  Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eDecember\u003c/b\u003e 7, 2012 - Very strong but very deep \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SMZfy97MoQYJ",
+   "formattedUrl": "earthquake-report.com/.../small-m4-4-earthquake-causes-major-damage-in- china/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../small-m4-4-\u003cb\u003eearthquake\u003c/b\u003e-causes-major-damage-in- china/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://mw2.google.com/mw-panoramio/photos/medium/9029232.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_TL5l6xrJPBwqJO7HHWEUNzzN44HAuzYJ-QxdK-7RkBwAcjis-6Jd230"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Prof Harsh Gupta",
+   "htmlTitle": "Prof Harsh Gupta",
+   "link": "http://www.asiaoceania.org/aogs2009/doc/election/Resume_Harsh%20GUPTA.pdf",
+   "displayLink": "www.asiaoceania.org",
+   "snippet": "Prof Gupta is the Founder President of Asian Seismological Commission. Prof   Gupta has ... Koyna earthquake of Dec.10, 1967, Bull. Seism. Soc. America, 59, ...",
+   "htmlSnippet": "Prof Gupta is the Founder President of \u003cb\u003eAsian\u003c/b\u003e Seismological Commission. Prof \u003cbr\u003e  Gupta has \u003cb\u003e...\u003c/b\u003e Koyna \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eDec.10, 1967\u003c/b\u003e, Bull. Seism. Soc. America, 59, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SOitu36yz00J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.asiaoceania.org/aogs2009/doc/.../Resume_Harsh%20GUPTA.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003easia\u003c/b\u003eoceania.org/aogs2009/doc/.../Resume_Harsh%20GUPTA.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Administrator",
+      "creationdate": "D:20090702015739+08'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20090702015739+08'00'",
+      "producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "title": "Microsoft Word - Brief CV"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ICDP: Koyna",
+   "htmlTitle": "ICDP: Koyna",
+   "link": "http://www.icdp-online.org/front_content.php?idcat=1604",
+   "displayLink": "www.icdp-online.org",
+   "snippet": "Scientific Deep Drilling to Study Reservoir Triggered Earthquakes at Koyna, India   ... These include the largest triggered earthquake of M~6.3 on Dec 10 1967, 22   earthquakes of M\u003e5, about 200 earthquakes ... Asia, India, Maharashtra, Koyna ...",
+   "htmlSnippet": "Scientific Deep Drilling to Study Reservoir Triggered \u003cb\u003eEarthquakes\u003c/b\u003e at Koyna, India \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e These include the largest triggered \u003cb\u003eearthquake\u003c/b\u003e of M~6.3 on \u003cb\u003eDec 10 1967\u003c/b\u003e, 22 \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e of M&gt;5, about 200 \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAsia\u003c/b\u003e, India, Maharashtra, Koyna \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0PNLahGemKMJ",
+   "formattedUrl": "www.icdp-online.org/front_content.php?idcat=1604",
+   "htmlFormattedUrl": "www.icdp-online.org/front_content.php?idcat=1604",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.icdp-online.org/upload/projects/koyna/koyna2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "277",
+      "height": "182",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUDSrt3gJuQ78GDHJlHPQTkUsa4EHM_Q3uCEk7hK4zi1xxpeMr_v99aEeh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "References for Notable Earthquakes",
+   "htmlTitle": "References for Notable \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/notable_ref.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... United States Earthquakes (USEQ), published by the U.S. Coast and ... Asia   Association of Seismology and Earthquake Engineering and U.S. .... Mohan, A   Study of the Koyna Earthquake of December 10, 1967, Bulletin of the ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e United States \u003cb\u003eEarthquakes\u003c/b\u003e (USEQ), published by the U.S. Coast and \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAsia\u003c/b\u003e \u003cbr\u003e  Association of Seismology and \u003cb\u003eEarthquake\u003c/b\u003e Engineering and U.S. \u003cb\u003e....\u003c/b\u003e Mohan, A \u003cbr\u003e  Study of the Koyna \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eDecember 10, 1967\u003c/b\u003e, Bulletin of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FB9aU8NDy2IJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/notable_ref.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/notable_ref.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   eastern ... and the Eurasian Plate, beyond the eastern extent of the Armenian and   Asia Minor fault zones. ... An offset of about 2 metres (6 ft 7 in) has been   estimated at 10￢ﾀﾓ15 kilometres (9.3 mi) depth but ..... Guerrero, Mexico (6.5, Dec   10) ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  eastern \u003cb\u003e...\u003c/b\u003e and the Eurasian Plate, beyond the eastern extent of the Armenian and \u003cbr\u003e  \u003cb\u003eAsia\u003c/b\u003e Minor fault zones. \u003cb\u003e...\u003c/b\u003e An offset of about 2 metres (6 ft 7 in) has been \u003cbr\u003e  estimated at \u003cb\u003e10\u003c/b\u003e￢ﾀﾓ15 kilometres (9.3 mi) depth but \u003cb\u003e.....\u003c/b\u003e Guerrero, Mexico (6.5, \u003cb\u003eDec\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e10\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Abstract",
+   "htmlTitle": "Abstract",
+   "link": "http://www.ipublishing.co.in/jarvol1no12010/EIJAER1006.pdf",
+   "displayLink": "www.ipublishing.co.in",
+   "snippet": "The Koyna earthquake M 6.0 of December 10, 1967 .... of the stress and strain   caused by the onward thrust of the Indian Plate against the rigid Asian Plate.",
+   "htmlSnippet": "The Koyna \u003cb\u003eearthquake\u003c/b\u003e M 6.0 of \u003cb\u003eDecember 10, 1967\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e of the stress and strain \u003cbr\u003e  caused by the onward thrust of the Indian Plate against the rigid \u003cb\u003eAsian\u003c/b\u003e Plate.",
+   "cacheId": "d3LEiI97pGoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ipublishing.co.in/jarvol1no12010/EIJAER1006.pdf",
+   "htmlFormattedUrl": "www.ipublishing.co.in/jarvol1no12010/EIJAER1006.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100904221759+05'30'",
+      "producer": "PDFlib 5.0.3 (C++/Win32)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "01906-08-17August 17, 1906, 00:10, Aleutian Islands see 1906 Aleutian Islands   ... see December 1911 Guerrero earthquake, 17.00, ￢ﾈﾒ100.50, 7.6, Mw, USGS ...",
+   "htmlSnippet": "01906-08-17August 17, 1906, 00:\u003cb\u003e10\u003c/b\u003e, Aleutian Islands see 1906 Aleutian Islands \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e see \u003cb\u003eDecember\u003c/b\u003e 1911 Guerrero \u003cb\u003eearthquake\u003c/b\u003e, 17.00, ￢ﾈﾒ100.50, 7.6, Mw, USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Afghanistan ￢ﾀﾢ Albania ￢ﾀﾢ Algeria ￢ﾀﾢ Argentina ￢ﾀﾢ Armenia ￢ﾀﾢ Asia Minor ..... M 8.6   Fatalities 1,526; 1967 12 10 - Koyna, India - M 6.3 Fatalities 177 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Afghanistan ￢ﾀﾢ Albania ￢ﾀﾢ Algeria ￢ﾀﾢ Argentina ￢ﾀﾢ Armenia ￢ﾀﾢ \u003cb\u003eAsia\u003c/b\u003e Minor \u003cb\u003e.....\u003c/b\u003e M 8.6 \u003cbr\u003e  Fatalities 1,526; \u003cb\u003e1967\u003c/b\u003e 12 \u003cb\u003e10\u003c/b\u003e - Koyna, India - M 6.3 Fatalities 177 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  }
+ ]
+}

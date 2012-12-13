@@ -1,0 +1,257 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 28 1953 Eurasia Earthquake",
+    "totalResults": "10900",
+    "searchTerms": "Sep 28 1953 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 28 1953 Eurasia Earthquake",
+    "totalResults": "10900",
+    "searchTerms": "Sep 28 1953 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.362662,
+  "formattedSearchTime": "0.36",
+  "totalResults": "10900",
+  "formattedTotalResults": "10,900"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The northern part of Greece lies on the Eurasian Plate while the southern part   lies on the Aegean Sea Plate. ... 26 September 1932, 19:20, Ierissos ... see 1953   Ionian Earthquake, 38.2, 20.6, 476, 7.2, Ms ... 2F03%2F2001&_rdoc=26&_fmt=  high&_orig=browse&_srch=doc-info%28%23toc%235896%232001%  23999769997 ...",
+   "htmlSnippet": "The northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the southern part \u003cbr\u003e  lies on the Aegean Sea Plate. \u003cb\u003e...\u003c/b\u003e 26 \u003cb\u003eSeptember\u003c/b\u003e 1932, 19:20, Ierissos \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1953\u003c/b\u003e \u003cbr\u003e  Ionian \u003cb\u003eEarthquake\u003c/b\u003e, 38.2, 20.6, 476, 7.2, Ms \u003cb\u003e...\u003c/b\u003e 2F03%2F2001&amp;_rdoc=26&amp;_fmt=\u003cbr\u003e  high&amp;_orig=browse&amp;_srch=doc-info%\u003cb\u003e28\u003c/b\u003e%23toc%235896%232001%\u003cbr\u003e  23999769997 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   ... Plate and the Eurasian Plate, beyond the eastern extent of the Armenian and   Asia .... [28] The government had announced that tents will be delivered to those   ..... Fox Islands, Alaska, United States (6.8, Sep 2); Aceh Singkil, Indonesia (6.7, ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the Armenian and \u003cbr\u003e  Asia \u003cb\u003e....\u003c/b\u003e [\u003cb\u003e28\u003c/b\u003e] The government had announced that tents will be delivered to those \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Fox Islands, Alaska, United States (6.8, \u003cb\u003eSep\u003c/b\u003e 2); Aceh Singkil, Indonesia (6.7, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "We summarize the written history of earthquakes in Afghanistan from 734 AD to   the ... of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. ......   thickness and the strength of the continental lithosphere, Geology, vol.28, pp.495  -498 .... 8- Few locations were taken from BCIS for the period 1953 through 1965 ...",
+   "htmlSnippet": "We summarize the written history of \u003cb\u003eearthquakes\u003c/b\u003e in Afghanistan from 734 AD to \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  thickness and the strength of the continental lithosphere, Geology, vol.\u003cb\u003e28\u003c/b\u003e, pp.495\u003cbr\u003e  -498 \u003cb\u003e....\u003c/b\u003e 8- Few locations were taken from BCIS for the period \u003cb\u003e1953\u003c/b\u003e through 1965 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1953 Yenice-Gￃﾶnen earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1953\u003c/b\u003e Yenice-Gￃﾶnen \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1953_Yenice-G%C3%B6nen_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1953 Yenice-Gￃﾶnen earthquake occurred at 21:06 local time (19:06 UTC on   March ... of the Anatolian Plate relative to the Eurasian Plate and the Arabian   Plate as it is ... browse&_origin=browse&_zone=rslt_list_item&_srch=doc-info%  28%23toc%235830% ... This page was last modified on 4 September 2012 at 03:  25.",
+   "htmlSnippet": "The \u003cb\u003e1953\u003c/b\u003e Yenice-Gￃﾶnen \u003cb\u003eearthquake\u003c/b\u003e occurred at 21:06 local time (19:06 UTC on \u003cbr\u003e  March \u003cb\u003e...\u003c/b\u003e of the Anatolian Plate relative to the \u003cb\u003eEurasian\u003c/b\u003e Plate and the Arabian \u003cbr\u003e  Plate as it is \u003cb\u003e...\u003c/b\u003e browse&amp;_origin=browse&amp;_zone=rslt_list_item&amp;_srch=doc-info%\u003cbr\u003e  \u003cb\u003e28\u003c/b\u003e%23toc%235830% \u003cb\u003e...\u003c/b\u003e This page was last modified on 4 \u003cb\u003eSeptember\u003c/b\u003e 2012 at 03:\u003cbr\u003e  25.",
+   "cacheId": "baFDDsKfI7UJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1953_Yenice-Gￃﾶnen_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1953\u003c/b\u003e_Yenice-Gￃﾶnen_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/260px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "130",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1APbrsyOCdPXD5DVrwAx3ljyjMFt3Pszt2hV1HxJ-abZ-bk8AxETmGj0q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquake investigations in Greece",
+   "htmlTitle": "Historical \u003cb\u003eearthquake\u003c/b\u003e investigations in Greece",
+   "link": "http://www.geophysics.geol.uoa.gr/papers/makro/makro205.pdf",
+   "displayLink": "www.geophysics.geol.uoa.gr",
+   "snippet": "of the Africa-Eurasia convergence. Within this ... life loss (e.g., the 1881 Chios,   1953 Cefallonia, ... In the present paper, a review of historical earthquake studies   in Greece is attempted. The seis- ..... KOUSKOUNA, V. (2001): The (December   28th, 1891) Janu- ary 9th, 1892 ... Geological Society of Greece, September 2001  , ...",
+   "htmlSnippet": "of the Africa-\u003cb\u003eEurasia\u003c/b\u003e convergence. Within this \u003cb\u003e...\u003c/b\u003e life loss (e.g., the 1881 Chios, \u003cbr\u003e  \u003cb\u003e1953\u003c/b\u003e Cefallonia, \u003cb\u003e...\u003c/b\u003e In the present paper, a review of historical \u003cb\u003eearthquake\u003c/b\u003e studies \u003cbr\u003e  in Greece is attempted. The seis- \u003cb\u003e.....\u003c/b\u003e KOUSKOUNA, V. (2001): The (December \u003cbr\u003e  \u003cb\u003e28th\u003c/b\u003e, 1891) Janu- ary 9th, 1892 \u003cb\u003e...\u003c/b\u003e Geological Society of Greece, \u003cb\u003eSeptember\u003c/b\u003e 2001\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Rl8mPwNUpoIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geophysics.geol.uoa.gr/papers/makro/makro205.pdf",
+   "htmlFormattedUrl": "www.geophysics.geol.uoa.gr/papers/makro/makro205.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050322110354+01'00'",
+      "moddate": "D:20050322110354+01'00'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "author": "Utente",
+      "creator": "QuarkXPress Passportￂﾪ 4.04: AdobePS 8.7.2 8.7.2 (104)",
+      "title": "30Kouskouna.qxd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indian Earthquakes : An Overview ABSTRACT 1.0 INTRODUCTION ...",
+   "htmlTitle": "Indian \u003cb\u003eEarthquakes\u003c/b\u003e : An Overview ABSTRACT 1.0 INTRODUCTION \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.nicee.org/readings/paper4.pdf",
+   "displayLink": "www.nicee.org",
+   "snippet": "to the movement of the Indian plate towards the Eurasian plate at the rate of   about 50 mm per year. Besides .... 1939), and the Assam-Tibet earthquake of   1950 (magnitude 8.7) (CBG, 1953). .... On September 30, 1993 a magnitude 6.4   earthquake shook the area near village Killari in .... Newsletter, Vol.28, No.1, pp 1  -8. 10.",
+   "htmlSnippet": "to the movement of the Indian plate towards the \u003cb\u003eEurasian\u003c/b\u003e plate at the rate of \u003cbr\u003e  about 50 mm per year. Besides \u003cb\u003e....\u003c/b\u003e 1939), and the Assam-Tibet \u003cb\u003eearthquake\u003c/b\u003e of \u003cbr\u003e  1950 (magnitude 8.7) (CBG, \u003cb\u003e1953\u003c/b\u003e). \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eSeptember\u003c/b\u003e 30, 1993 a magnitude 6.4 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e shook the area near village Killari in \u003cb\u003e....\u003c/b\u003e Newsletter, Vol.\u003cb\u003e28\u003c/b\u003e, No.1, pp 1\u003cbr\u003e  -8. 10.",
+   "cacheId": "FfyX3idetkoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nicee.org/readings/paper4.pdf",
+   "htmlFormattedUrl": "www.nicee.org/readings/paper4.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20031127115451+05'30'",
+      "moddate": "D:20031127115451+05'30'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "snehal",
+      "creator": "ADOBEPS4.DRV Version 4.50",
+      "title": "Microsoft Word - paper4.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming ... Alaska, 28 March 1964, moment   magnitude 9.2 Mw. Although the magnitude scale is open ended, the strength of   ... 1923, 23, 1953, 22, 1983, 15 .... 7 Sep 1801, Comrie, 4.5, 2, near Edinburgh,   falling masonry ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming \u003cb\u003e...\u003c/b\u003e Alaska, \u003cb\u003e28\u003c/b\u003e March 1964, moment \u003cbr\u003e  magnitude 9.2 Mw. Although the magnitude scale is open ended, the strength of \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 1923, 23, \u003cb\u003e1953\u003c/b\u003e, 22, 1983, 15 \u003cb\u003e....\u003c/b\u003e 7 \u003cb\u003eSep\u003c/b\u003e 1801, Comrie, 4.5, 2, near Edinburgh, \u003cbr\u003e  falling masonry \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 1833 Nepal Earthquake: epicentral proximity to the 1934 Bihar ...",
+   "htmlTitle": "The 1833 Nepal \u003cb\u003eEarthquake\u003c/b\u003e: epicentral proximity to the 1934 Bihar \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://cires.colorado.edu/~bilham/1833_Nepal.htm",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "Bilham, R., Location and magnitude of the 1833 Nepal earthquake and its   relation ..... 28ￂﾡE was conveyed by travelers returning from Tingri to Kathmandu   along this ..... or that the Eurasian/Indian plate boundary requires adjusted   coefficients in equation (1). ..... Ray, 1953, Isoseismals for the great Assam   Earthquake of Aug.",
+   "htmlSnippet": "Bilham, R., Location and magnitude of the 1833 Nepal \u003cb\u003eearthquake\u003c/b\u003e and its \u003cbr\u003e  relation \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e28\u003c/b\u003eￂﾡE was conveyed by travelers returning from Tingri to Kathmandu \u003cbr\u003e  along this \u003cb\u003e.....\u003c/b\u003e or that the \u003cb\u003eEurasian\u003c/b\u003e/Indian plate boundary requires adjusted \u003cbr\u003e  coefficients in equation (1). \u003cb\u003e.....\u003c/b\u003e Ray, \u003cb\u003e1953\u003c/b\u003e, Isoseismals for the great Assam \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eAug\u003c/b\u003e.",
+   "cacheId": "MwC70Qfb4nUJ",
+   "formattedUrl": "cires.colorado.edu/~bilham/1833_Nepal.htm",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/1833_Nepal.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "The 1833 Nepal Earthquake: epicentral proximity to the 1934 Bihar event",
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 10"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The accommodation of Arabia-Eurasia Plate convergence in Iran",
+   "htmlTitle": "The accommodation of Arabia-\u003cb\u003eEurasia\u003c/b\u003e Plate convergence in Iran",
+   "link": "http://www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "displayLink": "www.agu.org",
+   "snippet": "that earthquakes between 1909 and 1992 can account for only a small part (,-￢ﾀﾢ10  -20%) .... The open arrow is the motion of Arabia relative to Eurasia at 28ￅﾳN,   46ￅﾳE ..... Sept. 17, 1923. 38.00. 56.50. 6.3. Sept. 22, 1923. 29.50. 56.60. 6.7. July   22, 1927 ... 12, 1953. 35.40. 54.90. 6.5. Oct. 31, 1956. 27.30. 54.60. 6.3. July 2,   1957 ...",
+   "htmlSnippet": "that \u003cb\u003eearthquakes\u003c/b\u003e between 1909 and 1992 can account for only a small part (,-￢ﾀﾢ10\u003cbr\u003e  -20%) \u003cb\u003e....\u003c/b\u003e The open arrow is the motion of Arabia relative to \u003cb\u003eEurasia\u003c/b\u003e at \u003cb\u003e28ￅﾳN\u003c/b\u003e, \u003cbr\u003e  46ￅﾳE \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eSept\u003c/b\u003e. 17, 1923. 38.00. 56.50. 6.3. \u003cb\u003eSept\u003c/b\u003e. 22, 1923. 29.50. 56.60. 6.7. July \u003cbr\u003e  22, 1927 \u003cb\u003e...\u003c/b\u003e 12, \u003cb\u003e1953\u003c/b\u003e. 35.40. 54.90. 6.5. Oct. 31, 1956. 27.30. 54.60. 6.3. July 2, \u003cbr\u003e  1957 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "htmlFormattedUrl": "www.agu.org/journals/jb/v100/iB08/95JB01294/95JB01294.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "James Jackson, John Haines, William Holt",
+      "creationdate": "D:20070524134205Z",
+      "creator": "www.PrincetonImaging.com",
+      "moddate": "D:20121011152108-04'00'",
+      "producer": "escape 1.1",
+      "subject": "Tectonophysics: Continental neotectonics; Seismology: Seismicity and seismotectonics; Tectonophysics: Dynamics, seismotectonics; Tectonophysics: Continental tectonics&mdash;general",
+      "title": "The accommodation of Arabia-Eurasia Plate convergence in Iran"
+     }
+    ]
+   }
+  }
+ ]
+}
