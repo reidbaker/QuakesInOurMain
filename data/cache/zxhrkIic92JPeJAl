@@ -1,0 +1,297 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 28 2001 North America Earthquake",
+    "totalResults": "643000",
+    "searchTerms": "Feb 28 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 28 2001 North America Earthquake",
+    "totalResults": "643000",
+    "searchTerms": "Feb 28 2001 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.213761,
+  "formattedSearchTime": "0.21",
+  "totalResults": "643000",
+  "formattedTotalResults": "643,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "BSL Earthquake Report: 02/28/2001",
+   "htmlTitle": "BSL \u003cb\u003eEarthquake\u003c/b\u003e Report: \u003cb\u003e02/28/2001\u003c/b\u003e",
+   "link": "http://seismo.berkeley.edu/eqw/eqw_01.02.28.html",
+   "displayLink": "seismo.berkeley.edu",
+   "snippet": "Feb 28, 2001 ... The 02/28/01 earthquake occurred in the Juan de Fuca plate. ... the approximate   location of the Juan de Fuca/North American plate boundary.",
+   "htmlSnippet": "Feb 28, 2001 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003e02/28/01 earthquake\u003c/b\u003e occurred in the Juan de Fuca plate. \u003cb\u003e...\u003c/b\u003e the approximate \u003cbr\u003e  location of the Juan de Fuca/\u003cb\u003eNorth American\u003c/b\u003e plate boundary.",
+   "cacheId": "iaIoPJl5_MwJ",
+   "formattedUrl": "seismo.berkeley.edu/eqw/eqw_01.02.28.html",
+   "htmlFormattedUrl": "seismo.berkeley.edu/eqw/eqw_01.02.\u003cb\u003e28\u003c/b\u003e.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "resource-type": "document",
+      "distribution": "global"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2001 Nisqually earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e2001\u003c/b\u003e Nisqually \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2001_Nisqually_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... earthquake, occurring at 10:54 am PST (18:54 UTC) on February 28, 2001. ...   plate's subduction under the North American Plate at 3.5 to 4.5 cm. a year as ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e, occurring at 10:54 am PST (18:54 UTC) on \u003cb\u003eFebruary 28, 2001\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  plate&#39;s subduction under the \u003cb\u003eNorth American\u003c/b\u003e Plate at 3.5 to 4.5 cm. a year as \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Y7edqqzPs58J",
+   "formattedUrl": "en.wikipedia.org/wiki/2001_Nisqually_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e2001\u003c/b\u003e_Nisqually_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Nisqually_Earthquake_ShakeMAp_Mon_13_2003.jpg/240px-Nisqually_Earthquake_ShakeMAp_Mon_13_2003.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "222",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwDapNR0e49S_P-PNuU2L2erFR2VRx3HoQZhxOBXq-Ff0cQsE84mAG-lM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Seattle Earthquake | PBS NewsHour | Feb. 28, 2001 | PBS",
+   "htmlTitle": "The Seattle \u003cb\u003eEarthquake\u003c/b\u003e | PBS NewsHour | \u003cb\u003eFeb. 28, 2001\u003c/b\u003e | PBS",
+   "link": "http://www.pbs.org/newshour/bb/science/jan-june01/seattle_2-28.html",
+   "displayLink": "www.pbs.org",
+   "snippet": "Feb 28, 2001 ... And what Americans know is California earthquakes like the ... which is out in the   North Pacific Ocean, is converging with North America and is ...",
+   "htmlSnippet": "Feb 28, 2001 \u003cb\u003e...\u003c/b\u003e And what Americans know is California \u003cb\u003eearthquakes\u003c/b\u003e like the \u003cb\u003e...\u003c/b\u003e which is out in the \u003cbr\u003e  North Pacific Ocean, is converging with \u003cb\u003eNorth America\u003c/b\u003e and is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uZUHAMfPJiwJ",
+   "formattedUrl": "www.pbs.org/newshour/bb/science/jan-june01/seattle_2-28.html",
+   "htmlFormattedUrl": "www.pbs.org/newshour/bb/science/jan-june01/seattle_2-\u003cb\u003e28\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pbs.org/newshour/images/science/jan-june01/quab.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "112",
+      "height": "80",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7FZEZjlGEli0u3baQ_bffXQRF8y-8HroIiPL8g07HKIuD25q_3mtB"
+     }
+    ],
+    "mediaobject": [
+     {
+      "name": "The Seattle Earthquake",
+      "description": "A magnitude 6.8 earthquake shook the Pacific Northwest, rattling windows from Vancouver to Salt Lake City."
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Seattle Earthquake | PBS NewsHour | Feb. 28, 2001",
+      "date": "2001-02-28T00:00:00-05:00",
+      "author": "PBS NewsHour",
+      "copyright": "Copyright 2011 PBS NewsHour",
+      "og:title": "The Seattle Earthquake | PBS NewsHour | Feb. 28, 2001",
+      "og:description": "A magnitude 6.8 earthquake shook the Pacific Northwest, rattling windows from Vancouver to Salt Lake City.",
+      "og:image": "http://www.pbs.org/newshour/images/science/jan-june01/quab.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "small dead animals: February 28, 2001: The Nisqually Earthquake",
+   "htmlTitle": "small dead animals: \u003cb\u003eFebruary 28, 2001\u003c/b\u003e: The Nisqually \u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.smalldeadanimals.com/archives/016193.html",
+   "displayLink": "www.smalldeadanimals.com",
+   "snippet": "February 28, 2011. February 28, 2001: The Nisqually Earthquake. When the   recent ... that occurred 10 years ago on the West Coast of North America.",
+   "htmlSnippet": "February 28, 2011. \u003cb\u003eFebruary 28, 2001\u003c/b\u003e: The Nisqually \u003cb\u003eEarthquake\u003c/b\u003e. When the \u003cbr\u003e  recent \u003cb\u003e...\u003c/b\u003e that occurred 10 years ago on the West Coast of \u003cb\u003eNorth America\u003c/b\u003e.",
+   "cacheId": "RQHuXFhTHc8J",
+   "formattedUrl": "www.smalldeadanimals.com/archives/016193.html",
+   "htmlFormattedUrl": "www.smalldeadanimals.com/archives/016193.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cascadia Deep Earthquakes",
+   "htmlTitle": "Cascadia Deep \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.crew.org/sites/default/files/CascDeepEQweb.pdf",
+   "displayLink": "www.crew.org",
+   "snippet": "February 28, 2001, centered under the Nisqually delta. Building walls .... of the   overlying North America plate; ... lying North America plate, generally at depths of ...",
+   "htmlSnippet": "\u003cb\u003eFebruary 28, 2001\u003c/b\u003e, centered under the Nisqually delta. Building walls \u003cb\u003e....\u003c/b\u003e of the \u003cbr\u003e  overlying \u003cb\u003eNorth America\u003c/b\u003e plate; \u003cb\u003e...\u003c/b\u003e lying \u003cb\u003eNorth America\u003c/b\u003e plate, generally at depths of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4s3J6WqFZJUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.crew.org/sites/default/files/CascDeepEQweb.pdf",
+   "htmlFormattedUrl": "www.crew.org/sites/default/files/CascDeepEQweb.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080306114645-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0.5)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20080306115333-08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The February 28, 2001 Nisqually earthquake: GPS Geodesy and ...",
+   "htmlTitle": "The \u003cb\u003eFebruary 28, 2001\u003c/b\u003e Nisqually \u003cb\u003eearthquake\u003c/b\u003e: GPS Geodesy and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.geodesy.cwu.edu/monitor/EQ/testimony.pdf",
+   "displayLink": "www.geodesy.cwu.edu",
+   "snippet": "The February 28, 2001 Nisqually earthquake: ... western edge of North America.   GPS .... plotted relative to North America, as defined by 11 GPS stations in the ...",
+   "htmlSnippet": "The \u003cb\u003eFebruary 28, 2001\u003c/b\u003e Nisqually \u003cb\u003eearthquake\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e western edge of \u003cb\u003eNorth America\u003c/b\u003e. \u003cbr\u003e  GPS \u003cb\u003e....\u003c/b\u003e plotted relative to \u003cb\u003eNorth America\u003c/b\u003e, as defined by 11 GPS stations in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QdxDXC3rHzcJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geodesy.cwu.edu/monitor/EQ/testimony.pdf",
+   "htmlFormattedUrl": "www.geodesy.cwu.edu/monitor/EQ/testimony.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20010318054826",
+      "producer": "Acrobat Distiller 4.05 for Macintosh",
+      "author": "meghan",
+      "creator": "Microsoft Word: LaserWriter 8 8.7",
+      "title": "Microsoft Word - nisqually h of rep",
+      "moddate": "D:20010318060335-08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seattle (Nisqually), Washington Earthquake of February 28, 2001 ...",
+   "htmlTitle": "Seattle (Nisqually), Washington \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eFebruary 28, 2001\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.propertyrisk.com/refcentr/seattleeq.pdf",
+   "displayLink": "www.propertyrisk.com",
+   "snippet": "the North America Plate off the coasts of Northern California,. Oregon ... At 10:55   AM local time, Wednesday February 28, 2001, a magnitude 6.8 (Mw 6.8) ...",
+   "htmlSnippet": "the \u003cb\u003eNorth America\u003c/b\u003e Plate off the coasts of Northern California,. Oregon \u003cb\u003e...\u003c/b\u003e At 10:55 \u003cbr\u003e  AM local time, \u003cb\u003eWednesday February 28, 2001\u003c/b\u003e, a magnitude 6.8 (Mw 6.8) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "X34jVr451F4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.propertyrisk.com/refcentr/seattleeq.pdf",
+   "htmlFormattedUrl": "www.propertyrisk.com/refcentr/seattleeq.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20010320115540",
+      "producer": "Acrobat Distiller 4.0 for Windows",
+      "moddate": "D:20010320135719-08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Washington",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Washington",
+   "link": "http://www.dnr.wa.gov/researchscience/topics/geologichazardsmapping/pages/earthquakes.aspx",
+   "displayLink": "www.dnr.wa.gov",
+   "snippet": "For the February 28, 2001, Nisqually earthquake, the hypocenter, or point ... The   quake was felt as far north as Vancouver, British Columbia, as far south as ...",
+   "htmlSnippet": "For the \u003cb\u003eFebruary 28, 2001\u003c/b\u003e, Nisqually \u003cb\u003eearthquake\u003c/b\u003e, the hypocenter, or point \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  \u003cb\u003equake\u003c/b\u003e was felt as far \u003cb\u003enorth\u003c/b\u003e as Vancouver, British Columbia, as far south as \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.dnr.wa.gov/researchscience/topics/.../pages/earthquakes.aspx",
+   "htmlFormattedUrl": "www.dnr.wa.gov/researchscience/topics/.../pages/\u003cb\u003eearthquakes\u003c/b\u003e.aspx",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.dnr.wa.gov/SiteCollectionImages/Places/ger_hazards_quakeblks.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShgIR3rsN7T0ToZ3kphQngGS4_BTRqUHHbHtBpuTlxhSjMaOfnWN_muXo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seattle Earthquake - Feb. 28, 2001",
+   "htmlTitle": "Seattle \u003cb\u003eEarthquake\u003c/b\u003e - \u003cb\u003eFeb. 28, 2001\u003c/b\u003e",
+   "link": "http://www.greatdreams.com/seattle.htm",
+   "displayLink": "www.greatdreams.com",
+   "snippet": "Feb 28, 2001 ... Posted by DreamGirl in SF at February 28, 2001 at 09:24:20 PM CST ..... Fuca   Plate that underlies the North American Plate beneath our feet.",
+   "htmlSnippet": "Feb 28, 2001 \u003cb\u003e...\u003c/b\u003e Posted by DreamGirl in SF at \u003cb\u003eFebruary 28\u003c/b\u003e, \u003cb\u003e2001\u003c/b\u003e at 09:24:20 PM CST \u003cb\u003e.....\u003c/b\u003e Fuca \u003cbr\u003e  Plate that underlies the \u003cb\u003eNorth American\u003c/b\u003e Plate beneath our feet.",
+   "cacheId": "GymXoqMYnCIJ",
+   "formattedUrl": "www.greatdreams.com/seattle.htm",
+   "htmlFormattedUrl": "www.greatdreams.com/seattle.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.greatdreams.com/plate.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "182",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTJ1_OphfdYM2HOT7Fj3GJeGS1BMT8is4WNlWnsyny8Y0k4QTobNUXUFwVB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake registering 6.8 on Richter Scale jolts Seattle and Puget ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e registering 6.8 on Richter Scale jolts Seattle and Puget \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.historylink.org/essays/output.cfm?file_id=3039",
+   "displayLink": "www.historylink.org",
+   "snippet": "Mar 1, 2001 ... At 10:54 a.m. on February 28, 2001, a deep earthquake centered near the ... de   Fuca tectonic plate is sliding beneath the North American plate.",
+   "htmlSnippet": "Mar 1, 2001 \u003cb\u003e...\u003c/b\u003e At 10:54 a.m. on \u003cb\u003eFebruary 28, 2001\u003c/b\u003e, a deep \u003cb\u003eearthquake\u003c/b\u003e centered near the \u003cb\u003e...\u003c/b\u003e de \u003cbr\u003e  Fuca tectonic plate is sliding beneath the \u003cb\u003eNorth American\u003c/b\u003e plate.",
+   "cacheId": "_pNyl527rvYJ",
+   "formattedUrl": "www.historylink.org/essays/output.cfm?file_id=3039",
+   "htmlFormattedUrl": "www.historylink.org/essays/output.cfm?file_id=3039",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.historylink.org/db_images/2001quake-2.JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "194",
+      "height": "259",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQalOYSgPHaQxxqdU7CS-99hF0abKzhx5BGee78Y5RtB-voZj9mSrPmVI"
+     }
+    ]
+   }
+  }
+ ]
+}

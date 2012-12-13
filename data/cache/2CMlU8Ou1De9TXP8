@@ -1,0 +1,401 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 5 2000 Africa Earthquake",
+    "totalResults": "870000",
+    "searchTerms": "Sep 5 2000 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 5 2000 Africa Earthquake",
+    "totalResults": "870000",
+    "searchTerms": "Sep 5 2000 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.248382,
+  "formattedSearchTime": "0.25",
+  "totalResults": "870000",
+  "formattedTotalResults": "870,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 5 2000 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 5 2000 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "4 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed. The earthquake was   centered in the gold mining area of Welkom about 300 kilometers ...",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed. The \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  centered in the gold mining area of Welkom about 300 kilometers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "02011-03-11March 11, 2011, Pacific Ocean, T??hoku region, Japan, 2011 T??hoku   earthquake, 9.0. 01615-09-16September 16, 1615, Arica, Chile (then part of ...",
+   "htmlSnippet": "02011-03-11March 11, 2011, Pacific Ocean, T??hoku region, Japan, 2011 T??hoku \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, 9.0. 01615-09-16\u003cb\u003eSeptember\u003c/b\u003e 16, 1615, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive \u003cb\u003eSeptember\u003c/b\u003e 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The most recent earthquake related news : Click here ..... 1985 magnitude 8.0   Michoacan, Mexico earthquake 2000 km (1240 .... Saudi Arabia away from the   rest of the African continent, forming the Red ... September 5, 2012 ...",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The most recent \u003cb\u003eearthquake\u003c/b\u003e related news : Click here \u003cb\u003e.....\u003c/b\u003e 1985 magnitude 8.0 \u003cbr\u003e  Michoacan, Mexico \u003cb\u003eearthquake 2000\u003c/b\u003e km (1240 \u003cb\u003e....\u003c/b\u003e Saudi Arabia away from the \u003cbr\u003e  rest of the \u003cb\u003eAfrican\u003c/b\u003e continent, forming the Red \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember 5\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- \u003cb\u003eseptember\u003c/b\u003e-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major earthquake hits Costa Rica - PhotoBlog",
+   "htmlTitle": "Major \u003cb\u003eearthquake\u003c/b\u003e hits Costa Rica - PhotoBlog",
+   "link": "http://photoblog.nbcnews.com/_news/2012/09/05/13684451-major-earthquake-hits-costa-rica?lite",
+   "displayLink": "photoblog.nbcnews.com",
+   "snippet": "Sep 5, 2012 ... 5. briefly knocking out power and communications and triggering ... an   earthquake in San Jose, Costa Rica on Sept. 5.. A 7.9 magnitude ...",
+   "htmlSnippet": "Sep 5, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e5\u003c/b\u003e. briefly knocking out power and communications and triggering \u003cb\u003e...\u003c/b\u003e an \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in San Jose, Costa Rica on \u003cb\u003eSept\u003c/b\u003e. \u003cb\u003e5\u003c/b\u003e.. A 7.9 magnitude \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "laq_JagS35UJ",
+   "formattedUrl": "photoblog.nbcnews.com/_.../13684451-major-earthquake-hits-costa-rica?...",
+   "htmlFormattedUrl": "photoblog.nbcnews.com/_.../13684451-major-\u003cb\u003eearthquake\u003c/b\u003e-hits-costa-rica?...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://msnbcmedia.msn.com/i/MSNBC/Components/Photo/2012/September/120904/pb-120905-costa-rica-earthquake-jm-03.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "282",
+      "height": "179",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiL2L_Ke0tYCl6cc0Nts33l0BMsqQrRoU50SRkyH_ikA4Pd6sH0knMPwyd"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Major earthquake hits Costa Rica - PhotoBlog",
+      "author": "PhotoBlog",
+      "viewport": "width = 1050",
+      "twitter:card": "summary",
+      "twitter:site": "@NBCNewsPictures",
+      "server": "web3",
+      "dc": "CHICAGO",
+      "cip": "204.119.131.236",
+      "date": "December 12, 2012, 4:27 am",
+      "contentid": "13684451",
+      "contenttype": "n",
+      "og:image": "http://msnbcmedia.msn.com/i/MSNBC/Components/Photo/2012/September/120904/pb-120905-costa-rica-earthquake-jm-03.jpg",
+      "og:url": "http://photoblog.nbcnews.com/_news/2012/09/05/13684451-major-earthquake-hits-costa-rica",
+      "og:type": "article",
+      "og:title": "Major earthquake hits Costa Rica",
+      "og:description": "Updated at 4.41 a.m. ET, Thursday NBC News reports ?????At least 20 people were injured Wednesday when a major earthquake hit northwestern Costa Rica, authorities said. The Red Cross said those numbers could rise as damage assessment teams reached more areas. Reports ear?????",
+      "og:site_name": "PhotoBlog",
+      "fb:app_id": "10150138890205613"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Ferrara, Italy : Extremely strong aftershock near ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Ferrara, Italy : Extremely strong aftershock near \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/20/very-strong-shallow-earthquake-kills-at-least-3-people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 29, 2012... 3 large shocks were also recorded, 1 in May and 2 in September with around   1000 killed in total. ... 3 magnitude 5 earthquakes have occurred today. ..... 5   camps have been setup in Emilio Finale (2,000 people). .... A group of North   African laborers and their families were not amused at all when they were ...",
+   "htmlSnippet": "May 29, 2012\u003cb\u003e...\u003c/b\u003e 3 large shocks were also recorded, 1 in May and 2 in \u003cb\u003eSeptember\u003c/b\u003e with around \u003cbr\u003e  1000 killed in total. \u003cb\u003e...\u003c/b\u003e 3 magnitude \u003cb\u003e5 earthquakes\u003c/b\u003e have occurred today. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e5\u003c/b\u003e \u003cbr\u003e  camps have been setup in Emilio Finale (\u003cb\u003e2,000\u003c/b\u003e people). \u003cb\u003e....\u003c/b\u003e A group of North \u003cbr\u003e  \u003cb\u003eAfrican\u003c/b\u003e laborers and their families were not amused at all when they were \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "S2D3vnTpEv8J",
+   "formattedUrl": "earthquake-report.com/.../very-strong-shallow-earthquake-kills-at-least-3- people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-shallow-\u003cb\u003eearthquake\u003c/b\u003e-kills-at-least-3- people-in-the-mantua-ferrara-and-modena-area-italy/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/cavezzo_2952012_280xFree.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "167",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREYfIWEASGQQQUnGpE9naiIQ2xo8MO6e_3z4zlV_Fk1FxK1oYZ3PqxyYmh"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Stoapfalzer",
+      "nickname": "Stoapfalzer"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "gitte zakariasen"
+     },
+     {
+      "fn": "Bryan Bell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Rx Campaign | PBS NewsHour | Sept. 5, 2000 | PBS",
+   "htmlTitle": "The Rx Campaign | PBS NewsHour | \u003cb\u003eSept. 5, 2000\u003c/b\u003e | PBS",
+   "link": "http://www.pbs.org/newshour/bb/health/july-dec00/rx_campaign.html",
+   "displayLink": "www.pbs.org",
+   "snippet": "ANALYSIS AIR DATE: Sept. 5, 2000 .... Dec. 4, 2012. Long After Earthquake,   Haiti Still Feels Devastating Effects of Cholera Epidemic. Dec. 4, 2012 ...",
+   "htmlSnippet": "ANALYSIS AIR DATE: \u003cb\u003eSept. 5, 2000\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Dec. 4, 2012. Long After \u003cb\u003eEarthquake\u003c/b\u003e, \u003cbr\u003e  Haiti Still Feels Devastating Effects of Cholera Epidemic. Dec. 4, 2012 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "clB6oUnWgqgJ",
+   "formattedUrl": "www.pbs.org/newshour/bb/health/july-dec00/rx_campaign.html",
+   "htmlFormattedUrl": "www.pbs.org/newshour/bb/health/july-\u003cb\u003edec\u003c/b\u003e00/rx_campaign.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.pbs.org/newshour/images/election2000/july-dec00/drugbhead.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "128",
+      "height": "93",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrUcXT6UBGiTnVAGxP5AgZOZxvmf4cE6gC9fJG4N2ofJprWVkFw2PDw"
+     }
+    ],
+    "mediaobject": [
+     {
+      "name": "The Rx Campaign",
+      "description": "George Bush and Al Gore spar over their plans to cover prescription drug costs for seniors."
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The Rx Campaign | PBS NewsHour | Sept. 5, 2000",
+      "date": "2000-09-05T18:00:00-04:00",
+      "author": "PBS NewsHour",
+      "copyright": "Copyright 2012 PBS NewsHour",
+      "og:title": "The Rx Campaign | PBS NewsHour | Sept. 5, 2000",
+      "og:description": "George Bush and Al Gore spar over their plans to cover prescription drug costs for seniors.",
+      "og:image": "http://www.pbs.org/newshour/images/election2000/july-dec00/drugbhead.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "htmlTitle": "Worldwide VOLCANO news ??? Now moved to a special category",
+   "link": "http://earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 2, 2012 ... Jon Frimann (Iceland Earthquakes and Volcanoes blog) reports a ..... A new   swarm of earthquakes has started Tuesday (5 June) evening at ...",
+   "htmlSnippet": "Jul 2, 2012 \u003cb\u003e...\u003c/b\u003e Jon Frimann (Iceland \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanoes blog) reports a \u003cb\u003e.....\u003c/b\u003e A new \u003cbr\u003e  swarm of \u003cb\u003eearthquakes\u003c/b\u003e has started Tuesday (\u003cb\u003e5\u003c/b\u003e June) evening at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PQvmkuryRwwJ",
+   "formattedUrl": "earthquake-report.com/2011/12/31/worldwide-volcano-news/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/12/31/worldwide-volcano-news/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/vn-22062012-popo1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRihTwiGBB3P_WdKaXXxllgKtp13Pu34Q4v5BWQBftI0EMZztiCJVUTCfhu"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Joerg Klenert",
+      "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10849038",
+      "url_text": "Joerg Klenert"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Roland SEMEESE",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "Roland SEMEESE"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "SEMEESE Roland",
+      "url": "http://semeese@pandora.be/",
+      "url_text": "SEMEESE Roland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "In terms of fatalities, the 2010 Haiti earthquake was the most destructive event, ...   1 2001; 2 2002; 3 2003; 4 2004; 5 2005; 6 2006; 7 2007; 8 2008; 9 2009 ....   September 8, 2002, 18:44, North coast of New Guinea, Papua New Guinea .....   Tsunami destroyed at least 60 buildings and left at least 2,000 people homeless.",
+   "htmlSnippet": "In terms of fatalities, the 2010 Haiti \u003cb\u003eearthquake\u003c/b\u003e was the most destructive event, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1 2001; 2 2002; 3 2003; 4 2004; \u003cb\u003e5\u003c/b\u003e 2005; 6 2006; 7 2007; 8 2008; 9 2009 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 8, 2002, 18:44, North coast of New Guinea, Papua New Guinea \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Tsunami destroyed at least 60 buildings and left at least \u003cb\u003e2,000\u003c/b\u003e people homeless.",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "the ceres, south africa, earthquake of september 29, 1969 i. report ...",
+   "htmlTitle": "the ceres, south \u003cb\u003eafrica\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eseptember\u003c/b\u003e 29, 1969 i. report \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/61/4/851.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "The location of South African earthquakes has been described by Gane and   Oliver .... After about 5 weeks of operation, the stations were removed as over   2,000 ...",
+   "htmlSnippet": "The location of South \u003cb\u003eAfrican earthquakes\u003c/b\u003e has been described by Gane and \u003cbr\u003e  Oliver \u003cb\u003e....\u003c/b\u003e After about \u003cb\u003e5\u003c/b\u003e weeks of operation, the stations were removed as over \u003cbr\u003e  \u003cb\u003e2,000\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/61/4/851.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/61/4/851.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "0102580002.TIF",
+      "creationdate": "Sat Jul 30 16:52:53 2005",
+      "title": "0102580002.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050812075654+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. Historical ...   Contents. 1 Pre-11th century; 2 11th???18th centuries; 3 19th century; 4 See also; 5   References; 6 External links .... September 20, 1498, 08:00 local time, Honshu ...   November 24, 1604, 12:30 local time, Arica, Chile, -18.500, -70.400 ? 8.5, MI ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after \u003cb\u003e2000\u003c/b\u003e, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. Historical \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Contents. 1 Pre-11th century; 2 11th???18th centuries; 3 19th century; 4 See also; \u003cb\u003e5\u003c/b\u003e \u003cbr\u003e  References; 6 External links \u003cb\u003e....\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 20, 1498, 08:00 local time, Honshu \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  November 24, 1604, 12:30 local time, \u003cb\u003eArica\u003c/b\u003e, Chile, -18.500, -70.400 ? 8.5, MI \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  }
+ ]
+}

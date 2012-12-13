@@ -1,0 +1,310 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 3 2002 India Earthquake",
+    "totalResults": "793000",
+    "searchTerms": "Oct 3 2002 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 3 2002 India Earthquake",
+    "totalResults": "793000",
+    "searchTerms": "Oct 3 2002 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.213822,
+  "formattedSearchTime": "0.21",
+  "totalResults": "793000",
+  "formattedTotalResults": "793,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "4 days ago ... India, 1945 - Magnitude : 8.0 ??? 4000 people killed .... After the quake struck off the   west coast of Haida Gwaii on Oct. 27 at 8:04 p.m. ..... A powerful magnitude 7.9   earthquake struck Alaska on November 3, 2002, rupturing the ...",
+   "htmlSnippet": "4 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eIndia\u003c/b\u003e, 1945 - Magnitude : 8.0 ??? 4000 people killed \u003cb\u003e....\u003c/b\u003e After the \u003cb\u003equake\u003c/b\u003e struck off the \u003cbr\u003e  west coast of Haida Gwaii on \u003cb\u003eOct\u003c/b\u003e. 27 at 8:04 p.m. \u003cb\u003e.....\u003c/b\u003e A powerful magnitude 7.9 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e struck Alaska on November \u003cb\u003e3\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e, rupturing the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Earthquake overview : A massive M7.3 earthquake struck the Honshu, Japan   coast , but luckily far out in the sea. Tsunami alert for 1 prefecture and more ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e overview : A massive M7.\u003cb\u003e3 earthquake\u003c/b\u003e struck the Honshu, Japan \u003cbr\u003e  coast , but luckily far out in the sea. Tsunami alert for 1 prefecture and more \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... 3 Damaging Earthquakes from 2011 in the CATDAT Damaging EQ Database ...   earthquake in October, in the India-Nepal-Tibet region in September, ...... Utsu, T.   [2002] ???A list of deadly earthquakes in the World: 1500-2000???, ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e3\u003c/b\u003e Damaging \u003cb\u003eEarthquakes\u003c/b\u003e from 2011 in the CATDAT Damaging EQ Database \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eOctober\u003c/b\u003e, in the \u003cb\u003eIndia\u003c/b\u003e-Nepal-Tibet region in September, \u003cb\u003e......\u003c/b\u003e Utsu, T. \u003cbr\u003e  [\u003cb\u003e2002\u003c/b\u003e] ???A list of deadly \u003cb\u003eearthquakes\u003c/b\u003e in the World: 1500-2000???, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Archive",
+   "htmlTitle": "Archive",
+   "link": "http://www.ceme.gsras.ru/cgi-bin/info_quakee.pl?mode=-1",
+   "displayLink": "www.ceme.gsras.ru",
+   "snippet": "The strong earthquake with M=7.7 has occurred on October 28, 2012 at 03:04 ....   Information message about destructive earthquake in India on September 18,   2011. ...... On October 3, 2002 destructive earthquake has happened in South   Italy.",
+   "htmlSnippet": "The strong \u003cb\u003eearthquake\u003c/b\u003e with M=7.7 has occurred on October 28, 2012 at 03:04 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Information message about destructive \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e on September 18, \u003cbr\u003e  2011. \u003cb\u003e......\u003c/b\u003e On \u003cb\u003eOctober 3\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e destructive \u003cb\u003eearthquake\u003c/b\u003e has happened in South \u003cbr\u003e  Italy.",
+   "cacheId": "lHix_WTulE4J",
+   "formattedUrl": "www.ceme.gsras.ru/cgi-bin/info_quakee.pl?mode=-1",
+   "htmlFormattedUrl": "www.ceme.gsras.ru/cgi-bin/info_\u003cb\u003equake\u003c/b\u003ee.pl?mode=-1",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ceme.gsras.ru/eng/images/globus.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "121",
+      "height": "60",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTibaXITZ2bpcHIiUj3cgvUDDHctcM1G1Uy8CdZnZgwJH4vMMyyfvTf"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 2001; 2 2002; 3 2003; 4 2004; 5 2005; 6 2006; 7 2007; 8 2008; 9 2009 ...   October 12, 2001, 15:02, South of Mariana Islands, 12.686, 144.980, 0, 7.0 .....   see 2004 Indian Ocean earthquake, 3.30, 95.87, 230,000~300,000, 9.1, Mw (  USGS) ...",
+   "htmlSnippet": "1 2001; 2 \u003cb\u003e2002\u003c/b\u003e; \u003cb\u003e3\u003c/b\u003e 2003; 4 2004; 5 2005; 6 2006; 7 2007; 8 2008; 9 2009 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eOctober\u003c/b\u003e 12, 2001, 15:02, South of Mariana Islands, 12.686, 144.980, 0, 7.0 \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  see 2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003eearthquake\u003c/b\u003e, 3.30, 95.87, 230,000~300,000, 9.1, Mw (\u003cbr\u003e  USGS) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Largest and Deadliest Earthquakes by Year",
+   "htmlTitle": "Largest and Deadliest \u003cb\u003eEarthquakes\u003c/b\u003e by Year",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 30, 2012 ... Largest Earthquakes, Deadliest Earthquakes ... 2002, 11/03, 7.9, 0, Central   Alaska, 2002, 03/25, 6.1, 1000, Hindu Kush Region, Afghanistan. 2001, 06/23,   8.4, 138, Near Coast of Peru, 2001, 01/26, 7.7, 20023, India ... 1995, 07/30, 8.0, 3  , Near Coast of Northern Chile, 1995, 01/16, 6.9, 5530, Kobe, Japan ...",
+   "htmlSnippet": "Oct 30, 2012 \u003cb\u003e...\u003c/b\u003e Largest \u003cb\u003eEarthquakes\u003c/b\u003e, Deadliest \u003cb\u003eEarthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2002\u003c/b\u003e, 11/03, 7.9, 0, Central \u003cbr\u003e  Alaska, \u003cb\u003e2002\u003c/b\u003e, 03/25, 6.1, 1000, Hindu Kush Region, Afghanistan. 2001, 06/23, \u003cbr\u003e  8.4, 138, Near Coast of Peru, 2001, 01/26, 7.7, 20023, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 1995, 07/30, 8.0, \u003cb\u003e3\u003c/b\u003e\u003cbr\u003e  , Near Coast of Northern Chile, 1995, 01/16, 6.9, 5530, Kobe, Japan \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mhiAOqI2nBAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/year/byyear.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/year/byyear.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake hazard zoning of India - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e hazard zoning of \u003cb\u003eIndia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake_hazard_zoning_of_India",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Indian subcontinent has a history of devastating earthquakes. ... the   earthquake resistant design code of India [IS 1893 (Part 1) 2002] assigns four   levels ... In other words, the earthquake zoning map of India divides India into 4   seismic zones (Zone 2, 3, 4 and .... This page was last modified on 31 October   2012 at 07:03.",
+   "htmlSnippet": "The \u003cb\u003eIndian\u003c/b\u003e subcontinent has a history of devastating \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e resistant design code of \u003cb\u003eIndia\u003c/b\u003e [IS 1893 (Part 1) \u003cb\u003e2002\u003c/b\u003e] assigns four \u003cbr\u003e  levels \u003cb\u003e...\u003c/b\u003e In other words, the \u003cb\u003eearthquake\u003c/b\u003e zoning map of \u003cb\u003eIndia\u003c/b\u003e divides \u003cb\u003eIndia\u003c/b\u003e into 4 \u003cbr\u003e  seismic zones (Zone 2, \u003cb\u003e3\u003c/b\u003e, 4 and \u003cb\u003e....\u003c/b\u003e This page was last modified on 31 \u003cb\u003eOctober\u003c/b\u003e \u003cbr\u003e  2012 at 07:03.",
+   "cacheId": "LIB71APUOawJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake_hazard_zoning_of_India",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e_hazard_zoning_of_\u003cb\u003eIndia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/India_earthquake_zone_map_en.svg/300px-India_earthquake_zone_map_en.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "211",
+      "height": "239",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxcKITqZ-VVPaE5lnXzVnuEkF7GVHd2nwyWd7tYRQs7BX5tNg2nuUpkyVI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes!",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e!",
+   "link": "http://www.geology.wisc.edu/courses/g115/quake/newquakeinfo.html",
+   "displayLink": "www.geology.wisc.edu",
+   "snippet": "3, 2002 brought with it a magnitude 7.9 earthquake in south-central Alaska which   resulted ... to the continued northward movement of the Indian subcontinent into   Eurasia. ... At 2:47 AM (PDT) on October 16, 1999, a magnitude 7.1 earthquake ...",
+   "htmlSnippet": "\u003cb\u003e3\u003c/b\u003e, \u003cb\u003e2002\u003c/b\u003e brought with it a magnitude 7.9 \u003cb\u003eearthquake\u003c/b\u003e in south-central Alaska which \u003cbr\u003e  resulted \u003cb\u003e...\u003c/b\u003e to the continued northward movement of the \u003cb\u003eIndian\u003c/b\u003e subcontinent into \u003cbr\u003e  Eurasia. \u003cb\u003e...\u003c/b\u003e At 2:47 AM (PDT) on \u003cb\u003eOctober\u003c/b\u003e 16, 1999, a magnitude 7.1 \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iwamOWkJJ1sJ",
+   "formattedUrl": "www.geology.wisc.edu/courses/g115/quake/newquakeinfo.html",
+   "htmlFormattedUrl": "www.geology.wisc.edu/courses/g115/\u003cb\u003equake\u003c/b\u003e/new\u003cb\u003equake\u003c/b\u003einfo.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.geology.wisc.edu/courses/g115/quake/images/Bam-tectonics.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "208",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcStobFCuKIWKx73c0pDOoy13VeM9bEZDFoEdLVuPRVxx0KnueEWLbYfsgk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in India - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Indian subcontinent has a history of devastating earthquakes. The major   reason for the high frequency and intensity of the earthquakes is that the ... 02005  -10-08October 8, 2005, 03:50:38 UTC, 08:50:38 Local Time October 8, Kashmir   ... http://cires.colorado.edu/science/reviews/noaa/2002/abstracts/18bendick.html.",
+   "htmlSnippet": "The \u003cb\u003eIndian\u003c/b\u003e subcontinent has a history of devastating \u003cb\u003eearthquakes\u003c/b\u003e. The major \u003cbr\u003e  reason for the high frequency and intensity of the \u003cb\u003eearthquakes\u003c/b\u003e is that the \u003cb\u003e...\u003c/b\u003e 02005\u003cbr\u003e  -10-08\u003cb\u003eOctober\u003c/b\u003e 8, 2005, 03:50:38 UTC, 08:50:38 Local Time \u003cb\u003eOctober\u003c/b\u003e 8, Kashmir \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e http://cires.colorado.edu/science/reviews/noaa/\u003cb\u003e2002\u003c/b\u003e/abstracts/18bendick.html.",
+   "cacheId": "EBwHZvfyZioJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eIndia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismology",
+   "htmlTitle": "Seismology",
+   "link": "http://www.imd.gov.in/section/seismo/static/welcome.htm",
+   "displayLink": "www.imd.gov.in",
+   "snippet": "List of some significant Earthquakes in India and its neighbourhood ... 3. National   Seismological Network (NSN). India Meteorological Department is maintaining a   .... Bureau of Indian Standards [IS-1893 ??? part ??? 1: 2002], based on various ...   earthquake of 26th December, 2004 and Pakistan earthquake of 8th October   2005.",
+   "htmlSnippet": "List of some significant \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e and its neighbourhood \u003cb\u003e...\u003c/b\u003e \u003cb\u003e3\u003c/b\u003e. National \u003cbr\u003e  Seismological Network (NSN). \u003cb\u003eIndia\u003c/b\u003e Meteorological Department is maintaining a \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Bureau of \u003cb\u003eIndian\u003c/b\u003e Standards [IS-1893 ??? part ??? 1: \u003cb\u003e2002\u003c/b\u003e], based on various \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e of 26th December, 2004 and Pakistan \u003cb\u003eearthquake\u003c/b\u003e of 8th \u003cb\u003eOctober\u003c/b\u003e \u003cbr\u003e  2005.",
+   "cacheId": "MNEy2KRCg6kJ",
+   "formattedUrl": "www.imd.gov.in/section/seismo/static/welcome.htm",
+   "htmlFormattedUrl": "www.imd.gov.in/section/seismo/static/welcome.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.imd.gov.in/section/seismo/static/welcome_files/image001.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "117",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxx8ahWtvWxG_Tg155Y0cjC_YdLNHwgBh_QviIo7Y0v2aiakWHWSJbZw"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 12",
+      "author": "CMC"
+     }
+    ]
+   }
+  }
+ ]
+}
