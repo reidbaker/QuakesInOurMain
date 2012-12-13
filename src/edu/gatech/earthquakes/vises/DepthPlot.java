@@ -242,14 +242,14 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
 		    highlightedIndex = i;
 		    ArrayList<DataRow> rowList = new ArrayList<>(
 			    displayData.getDatum());
-		    Controller.BRUSH_BUS.post(new DataSet(rowList.get(i)));
+		    Controller.applyBrushing(new DataSet(rowList.get(i)));
 		    found = true;
 		    lastDist = distanceToMouse;
 		}
 
 		if (!found) {
 		    highlightedIndex = -1;
-		    Controller.BRUSH_BUS.post(new DataSet(
+		    Controller.applyBrushing(new DataSet(
 			    new HashSet<DataRow>()));
 		}
 

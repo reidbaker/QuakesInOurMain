@@ -13,7 +13,6 @@ import com.google.common.eventbus.Subscribe;
 
 import edu.gatech.earthquakes.components.Controller;
 import edu.gatech.earthquakes.components.Theme;
-import edu.gatech.earthquakes.interfaces.Drawable;
 import edu.gatech.earthquakes.interfaces.Interactable;
 import edu.gatech.earthquakes.model.DataRow;
 import edu.gatech.earthquakes.model.DataSet;
@@ -253,16 +252,10 @@ public class Workspace extends AbstractVisualization implements Interactable {
 	AbstractVisualization vis = allVises.get(i);
 	if (openVises.contains(vis)) {
 	    openVises.remove(vis);
-	    if (vis instanceof Drawable)
-		Controller.DRAW_BUS.unregister(vis);
-	    if (vis instanceof Interactable)
-		Controller.INTERACT_BUS.unregister(vis);
+	    Controller.unregisterInputAndDraw(vis);
 	} else {
 	    openVises.add(Math.min(i, openVises.size()), vis);
-	    if (vis instanceof Drawable)
-		Controller.DRAW_BUS.register(vis);
-	    if (vis instanceof Interactable)
-		Controller.INTERACT_BUS.register(vis);
+	    Controller.reregisterInputAndDraw(vis);
 	}
 	resizeTo(new Rectangle(x, y, w, h));
     }

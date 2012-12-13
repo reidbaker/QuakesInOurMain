@@ -27,6 +27,31 @@ public class DataSet implements Iterable<DataRow> {
 	return datum;
     }
 
+    @Override
+    public int hashCode() {
+	final int prime = 31;
+	int result = 1;
+	result = prime * result + ((datum == null) ? 0 : datum.hashCode());
+	return result;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+	if (this == obj)
+	    return true;
+	if (obj == null)
+	    return false;
+	if (getClass() != obj.getClass())
+	    return false;
+	DataSet other = (DataSet) obj;
+	if (datum == null) {
+	    if (other.datum != null)
+		return false;
+	} else if (!datum.equals(other.datum))
+	    return false;
+	return true;
+    }
+
     public void setDatum(TreeSet<DataRow> datum) {
 	this.datum = datum;
     }

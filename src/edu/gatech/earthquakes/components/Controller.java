@@ -27,10 +27,10 @@ public class Controller {
 
     private int lastWidth, lastHeight;
 
-    public static final EventBus BRUSH_BUS = new EventBus("Brushing Bus");
-    public static final EventBus DRAW_BUS = new EventBus("Drawing Bus");
-    public static final EventBus FILTER_BUS = new EventBus("Filtering Bus");
-    public static final EventBus INTERACT_BUS = new EventBus("Interacting Bus");
+    private static final EventBus BRUSH_BUS = new EventBus("Brushing Bus");
+    private static final EventBus DRAW_BUS = new EventBus("Drawing Bus");
+    private static final EventBus FILTER_BUS = new EventBus("Filtering Bus");
+    private static final EventBus INTERACT_BUS = new EventBus("Interacting Bus");
 
     public Controller(final PApplet parent) {
 	this.parentApplet = parent;
@@ -120,16 +120,40 @@ public class Controller {
 	INTERACT_BUS.post(interact);
     }
 
+    private static DataSet lastFilterSet = null;
+
     public static void applyFilter(final DataSet curDataSet) {
-	FILTER_BUS.post(curDataSet);
+	if (!curDataSet.equals(lastFilterSet)) {
+	    FILTER_BUS.post(curDataSet);
+	    lastFilterSet = curDataSet;
+	}
     }
 
+    private static DataSet lastBrushSet = null;
+
     public static void applyBrushing(final DataSet curDataSet) {
-	BRUSH_BUS.post(curDataSet);
+	if (!curDataSet.equals(lastBrushSet)) {
+	    BRUSH_BUS.post(curDataSet);
+	    lastBrushSet = curDataSet;
+	}
     }
 
     public void windowResized(int width, int height) {
 	dataslider.resizeTo(new Rectangle(50, height - 100, width - 100, 50));
 	workspace.resizeTo(new Rectangle(10, 10, width - 10, height - 120));
+    }
+    
+    public static void unregisterInputAndDraw(AbstractVisualization vis){
+	    if (vis instanceof Drawable)
+		Controller.DRAW_BUS.unregister(vis);
+	    if (vis instanceof Interactable)
+		Controller.INTERACT_BUS.unregister(vis);
+    }
+    
+    public static void reregisterInputAndDraw(AbstractVisualization vis){
+	    if (vis instanceof Drawable)
+		Controller.DRAW_BUS.register(vis);
+	    if (vis instanceof Interactable)
+		Controller.INTERACT_BUS.register(vis);
     }
 }
