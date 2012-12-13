@@ -1,0 +1,318 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 23 1995 Asia Earthquake",
+    "totalResults": "158000",
+    "searchTerms": "Mar 23 1995 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 23 1995 Asia Earthquake",
+    "totalResults": "158000",
+    "searchTerms": "Mar 23 1995 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.264309,
+  "formattedSearchTime": "0.26",
+  "totalResults": "158000",
+  "formattedTotalResults": "158,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Japan Tohoku tsunami and earthquake : The death toll is climbing ...",
+   "htmlTitle": "Japan Tohoku tsunami and \u003cb\u003eearthquake\u003c/b\u003e : The death toll is climbing \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/08/04/japan-tsunami-following-up-the-aftermath-part-16-june/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 15, 2011 ... UPDATE 23/07 ??? 12:00 UTC - NPA statistics : 15,625 dead and 4,823 ..... after the   1995 Kobe quake as local governments bolster sea defenses. ... local needs, to   compete with European countries and emerging Asian rivals.",
+   "htmlSnippet": "Aug 15, 2011 \u003cb\u003e...\u003c/b\u003e UPDATE \u003cb\u003e23\u003c/b\u003e/07 ??? 12:00 UTC - NPA statistics : 15,625 dead and 4,823 \u003cb\u003e.....\u003c/b\u003e after the \u003cbr\u003e  \u003cb\u003e1995\u003c/b\u003e Kobe \u003cb\u003equake\u003c/b\u003e as local governments bolster sea defenses. \u003cb\u003e...\u003c/b\u003e local needs, to \u003cbr\u003e  compete with European countries and emerging \u003cb\u003eAsian\u003c/b\u003e rivals.",
+   "cacheId": "FVAZcRvK4bcJ",
+   "formattedUrl": "earthquake-report.com/.../japan-tsunami-following-up-the-aftermath-part-16- june/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../japan-tsunami-following-up-the-aftermath-part-16- june/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/07/catdat-04072011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "285",
+      "height": "177",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiF1i4J6Y_nq4i1mAJqZt_zp1utJ_iXAsbgY2MMdscU3ncGfNASEB4vJUZ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Andrew",
+      "nickname": "Andrew"
+     },
+     {
+      "fn": "Lizzy Teagrt"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Articles about Northridge Quake - Los Angeles Times",
+   "htmlTitle": "Articles about Northridge \u003cb\u003eQuake\u003c/b\u003e - Los Angeles Times",
+   "link": "http://articles.latimes.com/keyword/northridge-quake",
+   "displayLink": "articles.latimes.com",
+   "snippet": "MONROVIA : Learn How Teamwork Can Help After Quake. March 23, 1995. The   Fire Department is offering earthquake-response training for residents.",
+   "htmlSnippet": "MONROVIA : Learn How Teamwork Can Help After \u003cb\u003eQuake\u003c/b\u003e. \u003cb\u003eMarch 23, 1995\u003c/b\u003e. The \u003cbr\u003e  Fire Department is offering \u003cb\u003eearthquake\u003c/b\u003e-response training for residents.",
+   "cacheId": "VGSwwPp03boJ",
+   "formattedUrl": "articles.latimes.com/keyword/northridge-quake",
+   "htmlFormattedUrl": "articles.latimes.com/keyword/northridge-\u003cb\u003equake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive 8.9 aftershock / earthquake along the Japanese coast",
+   "htmlTitle": "Massive 8.9 aftershock / \u003cb\u003eearthquake\u003c/b\u003e along the Japanese coast",
+   "link": "http://earthquake-report.com/2011/03/11/massive-earthquake-out-of-the-honshu-coast-japan/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 4, 2011 ... This is part 1 of our ongoing story on the March 9, M 7.3 earthquake who initiated   the .... 17:23 JST 11 Mar 2011, 17:19 JST 11 Mar 2011, Ibaraki-ken Oki, M6.7, 4   .... Kobe 1995 ??? $142 billion USD (in 2011 dollars) ..... or higher with emphasis to   earthquakes in European and Asian / Middle East sphere (4 ...",
+   "htmlSnippet": "Apr 4, 2011 \u003cb\u003e...\u003c/b\u003e This is part 1 of our ongoing story on the March 9, M 7.3 \u003cb\u003eearthquake\u003c/b\u003e who initiated \u003cbr\u003e  the \u003cb\u003e....\u003c/b\u003e 17:\u003cb\u003e23\u003c/b\u003e JST 11 \u003cb\u003eMar\u003c/b\u003e 2011, 17:19 JST 11 \u003cb\u003eMar\u003c/b\u003e 2011, Ibaraki-ken Oki, M6.7, 4 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Kobe \u003cb\u003e1995\u003c/b\u003e ??? $142 billion USD (in 2011 dollars) \u003cb\u003e.....\u003c/b\u003e or higher with emphasis to \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-vLtJUBtx50J",
+   "formattedUrl": "earthquake-report.com/.../massive-earthquake-out-of-the-honshu-coast-japan/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-\u003cb\u003eearthquake\u003c/b\u003e-out-of-the-honshu-coast-japan/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/03/honshu-11-03-2011.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "309",
+      "height": "163",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvLKfPpZRnNdjBVQKCY2PHhJlsrYnVWqP865ULG6Ihk8a1RPsCkaL3-9Q"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "lorena",
+      "nickname": "lorena"
+     },
+     {
+      "fn": "Kristy Schwenk"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Kristy Schwenk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 4.6 temblor rattles plates and nerves - Los Angeles Times",
+   "htmlTitle": "Magnitude 4.6 temblor rattles plates and nerves - Los Angeles Times",
+   "link": "http://articles.latimes.com/2007/aug/10/local/me-earthquake10",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Aug 10, 2007 ... Thursday's earthquake did little more than topple a few household items and   startle people in the Los Angeles area from ... March 23, 1995 ...",
+   "htmlSnippet": "Aug 10, 2007 \u003cb\u003e...\u003c/b\u003e Thursday&#39;s \u003cb\u003eearthquake\u003c/b\u003e did little more than topple a few household items and \u003cbr\u003e  startle people in the Los Angeles area from \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMarch 23, 1995\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "U4cCCNiMCKcJ",
+   "formattedUrl": "articles.latimes.com/2007/aug/10/local/me-earthquake10",
+   "htmlFormattedUrl": "articles.latimes.com/2007/aug/10/local/me-\u003cb\u003eearthquake\u003c/b\u003e10",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:admins": "100001837105818",
+      "fb:app_id": "186620898040944",
+      "og:title": "Magnitude 4.6 temblor rattles plates and nerves",
+      "og:type": "article",
+      "og:url": "http://articles.latimes.com/2007/aug/10/local/me-earthquake10",
+      "og:description": "Thursday's earthquake did little more than topple a few household items and startle people in the Los Angeles area from their slumber.After five years of relative quiet, it was a reminder of life in...",
+      "og:site_name": "Los Angeles Times Articles"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Calendar, March 10, 1995 to March 23, 1995",
+   "htmlTitle": "Calendar, March 10, 1995 to \u003cb\u003eMarch 23, 1995\u003c/b\u003e",
+   "link": "http://www.columbia.edu/cu/record/archives/vol20/vol20_iss20/record2020.12.html",
+   "displayLink": "www.columbia.edu",
+   "snippet": "Mar 10, 1995 ... Calendar, March 10, 1995 to March 23, 1995 ... \"The U.S. Congress and East   Asia,\" by Susumu Awanohara, Woodrow .... Lamont-Doherty Earth Observatory:   Earthquakes, Nuclear Blasts and Everyday Seismic Phenomena.",
+   "htmlSnippet": "Mar 10, 1995 \u003cb\u003e...\u003c/b\u003e Calendar, March 10, 1995 to \u003cb\u003eMarch 23, 1995\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e &quot;The U.S. Congress and East \u003cbr\u003e  \u003cb\u003eAsia\u003c/b\u003e,&quot; by Susumu Awanohara, Woodrow \u003cb\u003e....\u003c/b\u003e Lamont-Doherty Earth Observatory: \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e, Nuclear Blasts and Everyday Seismic Phenomena.",
+   "cacheId": "MG71mOs2F6gJ",
+   "formattedUrl": "www.columbia.edu/cu/record/archives/vol20/.../record2020.12.html",
+   "htmlFormattedUrl": "www.columbia.edu/cu/record/archives/vol20/.../record2020.12.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Northridge Quake: One Year Later : Memories of the Quake ...",
+   "htmlTitle": "The Northridge \u003cb\u003eQuake\u003c/b\u003e: One Year Later : Memories of the \u003cb\u003eQuake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://articles.latimes.com/1995-01-17/local/me-20992_1_northridge-quake",
+   "displayLink": "articles.latimes.com",
+   "snippet": "Jan 17, 1995 ... The earthquake struck Northridge Meadows apartments like an angry ... The   wedding should be held April 1, 1995 (honest!). ... March 23, 1995 ...",
+   "htmlSnippet": "Jan 17, 1995 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e struck Northridge Meadows apartments like an angry \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  wedding should be held April 1, 1995 (honest!). \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMarch 23, 1995\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "F7nfaqyfHDsJ",
+   "formattedUrl": "articles.latimes.com/1995-01-17/.../me-20992_1_northridge-quake",
+   "htmlFormattedUrl": "articles.latimes.com/\u003cb\u003e1995\u003c/b\u003e-01-17/.../me-20992_1_northridge-\u003cb\u003equake\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:admins": "100001837105818",
+      "fb:app_id": "186620898040944",
+      "og:title": "The Northridge Quake: One Year Later :  Memories of the Quake",
+      "og:type": "article",
+      "og:url": "http://articles.latimes.com/1995-01-17/local/me-20992_1_northridge-quake",
+      "og:description": "The shaking, the cuts and bruises, the promises a parent could no longer keep, the contrast between the beauty of the night and the terror inside millions of homes and apartments--these are the...",
+      "og:site_name": "Los Angeles Times Articles"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "htmlTitle": "Patent US4650368 - Flood water containment bag - Google Patents",
+   "link": "http://www.google.com/patents/US4650368",
+   "displayLink": "www.google.com",
+   "snippet": "US5195846, Dec 12, 1991, Mar 23, 1993, GTM Entrepose, Spillway for ...   US5609438, Jul 27, 1995, Mar 11, 1997, Baroid Technology, Inc. Flood barrier   and a ... 1998, Aug 10, 1999, Earthquake resistant building structure employing   sandbags ... Versa-Lok Asia Inc. Retaining wall system with interlocked wall-  building units ...",
+   "htmlSnippet": "US5195846, Dec 12, 1991, \u003cb\u003eMar 23\u003c/b\u003e, 1993, GTM Entrepose, Spillway for \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US5609438, Jul 27, \u003cb\u003e1995\u003c/b\u003e, \u003cb\u003eMar\u003c/b\u003e 11, 1997, Baroid Technology, Inc. Flood barrier \u003cbr\u003e  and a \u003cb\u003e...\u003c/b\u003e 1998, Aug 10, 1999, \u003cb\u003eEarthquake\u003c/b\u003e resistant building structure employing \u003cbr\u003e  sandbags \u003cb\u003e...\u003c/b\u003e Versa-Lok \u003cb\u003eAsia\u003c/b\u003e Inc. Retaining wall system with interlocked wall-\u003cbr\u003e  building units \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US4650368",
+   "htmlFormattedUrl": "www.google.com/patents/US4650368",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR78_gi9yedYhVl783bhQwJ-UKQQWxmI91Xmh0hfc7LqIqLE_Fjr84W0Kc"
+     }
+    ],
+    "book": [
+     {
+      "description": "A flood water containment bag constructed of lightweight, inexpensive porous material with a quantity of water absorbent material therein which increases substantially in volume and weight...",
+      "url": "http://www.google.com/patents/US4650368?utm_source=gb-gplus-share",
+      "name": "Patent US4650368 - Flood water containment bag",
+      "image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US4650368",
+      "title": "Patent US4650368 - Flood water containment bag",
+      "og:title": "Patent US4650368 - Flood water containment bag",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=q9Y6AAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Articles about Emergency Response Team - Los Angeles Times",
+   "htmlTitle": "Articles about Emergency Response Team - Los Angeles Times",
+   "link": "http://articles.latimes.com/keyword/emergency-response-team",
+   "displayLink": "articles.latimes.com",
+   "snippet": "March 23, 1995. The Fire Department is offering earthquake-response training for   residents. The department's Neighborhood Emergency Action Team program ...",
+   "htmlSnippet": "\u003cb\u003eMarch 23, 1995\u003c/b\u003e. The Fire Department is offering \u003cb\u003eearthquake\u003c/b\u003e-response training for \u003cbr\u003e  residents. The department&#39;s Neighborhood Emergency Action Team program \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2vkwgDGlVnUJ",
+   "formattedUrl": "articles.latimes.com/keyword/emergency-response-team",
+   "htmlFormattedUrl": "articles.latimes.com/keyword/emergency-response-team"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 T??hoku earthquake and tsunami - Wikipedia, the free ...",
+   "htmlTitle": "2011 T??hoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For the aftershock that occurred on 7 April, see April 2011 Miyagi earthquake. ...   6,114 injured, and 2,814 people missing across twenty prefectures, as well as   129,225 buildings ..... As of 16 Mar 2012 aftershocks continued, totaling 1887   events over ...... In comparison to the 1995 Great Hanshin earthquake, the East   Japan ...",
+   "htmlSnippet": "For the aftershock that occurred on 7 April, see April 2011 Miyagi \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  6,114 injured, and 2,814 people missing across twenty prefectures, as well as \u003cbr\u003e  129,225 buildings \u003cb\u003e.....\u003c/b\u003e As of 16 \u003cb\u003eMar\u003c/b\u003e 2012 aftershocks continued, totaling 1887 \u003cbr\u003e  events over \u003cb\u003e......\u003c/b\u003e In comparison to the \u003cb\u003e1995\u003c/b\u003e Great Hanshin \u003cb\u003eearthquake\u003c/b\u003e, the East \u003cbr\u003e  Japan \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w6_5DbhKMEUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_T??hoku_earthquake_and_tsunami",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_T??hoku_\u003cb\u003eearthquake\u003c/b\u003e_and_tsunami",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2011_Tohoku_earthquake_observed_tsunami_heights_en.png/240px-2011_Tohoku_earthquake_observed_tsunami_heights_en.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "175",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQn7T6dG2ESn6Xj9T3bxHT-o7dnG_YBeivQ9XoPtMgQ2LnRcp2cRTj7a1"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??10 meters"
+     },
+     {
+      "fn": "location where video was shot, ??200 meters"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,319 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 27 1982 Asia Earthquake",
+    "totalResults": "296000",
+    "searchTerms": "Oct 27 1982 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 27 1982 Asia Earthquake",
+    "totalResults": "296000",
+    "searchTerms": "Oct 27 1982 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.211588,
+  "formattedSearchTime": "0.21",
+  "totalResults": "296000",
+  "formattedTotalResults": "296,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Damaging Earthquakes Database 2010 ??? The Year in Review ...",
+   "htmlTitle": "Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2010 ??? The Year in Review \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/wp-content/uploads/2011/03/CATDAT-EQ-Data-1st-Annual-Review-2010-James-Daniell-03-03-2011.pdf",
+   "displayLink": "earthquake-report.com",
+   "snippet": "that were entered into the CATDAT Damaging Earthquake ..... the form of 3   papers, and the data was also used to form an Asia-Pacific comparison of .... the   database of Ganse and Nelson ??? Kondorskaya and Shebalin (1982); ..... with the   proportion of these coming from the Chilean earthquake of 27th February with   approx.",
+   "htmlSnippet": "that were entered into the CATDAT Damaging \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e the form of 3 \u003cbr\u003e  papers, and the data was also used to form an \u003cb\u003eAsia\u003c/b\u003e-Pacific comparison of \u003cb\u003e....\u003c/b\u003e the \u003cbr\u003e  database of Ganse and Nelson ??? Kondorskaya and Shebalin (\u003cb\u003e1982\u003c/b\u003e); \u003cb\u003e.....\u003c/b\u003e with the \u003cbr\u003e  proportion of these coming from the Chilean \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e27th\u003c/b\u003e February with \u003cbr\u003e  approx.",
+   "cacheId": "cAitKwePwBgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110303154353+01'00'",
+      "author": "admin",
+      "creator": "Acrobat PDFMaker 7.0.7 f??r Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20110303154744+01'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Near The Coast Of Massachusetts",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Near The Coast Of Massachusetts",
+   "link": "http://earthquaketrack.com/r/near-the-coast-of-massachusetts",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Yesterday: 7.1 magnitude earthquake near Tual, Indonesia ?? Today / Big Quakes /   LA / SF / South America / SE Asia / Europe / Asia / Japan / NZ / US / BC ...",
+   "htmlSnippet": "Yesterday: 7.1 magnitude \u003cb\u003eearthquake\u003c/b\u003e near Tual, Indonesia &middot; Today / Big Quakes / \u003cbr\u003e  LA / SF / South America / SE \u003cb\u003eAsia\u003c/b\u003e / Europe / \u003cb\u003eAsia\u003c/b\u003e / Japan / NZ / US / BC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tWxr60UFa3MJ",
+   "formattedUrl": "earthquaketrack.com/r/near-the-coast-of-massachusetts",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/r/near-the-coast-of-massachusetts",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "g/VT3SRHp2JCrVSYuObdOYXYUmUd3UBmXzwEJtxG27w="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? Asia Minor ??? Atlantic   Ocean ??? Australia ... Algeria - M 6.8 Fatalities 2,266; 2003 05 27 - Northern   Algeria - M 5.8 Fatalities 9 ...... 1982 12 13 - Yemen - M 6.0 Fatalities 2,800 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? \u003cb\u003eAsia\u003c/b\u003e Minor ??? Atlantic \u003cbr\u003e  Ocean ??? Australia \u003cb\u003e...\u003c/b\u003e Algeria - M 6.8 Fatalities 2,266; 2003 05 \u003cb\u003e27\u003c/b\u003e - Northern \u003cbr\u003e  Algeria - M 5.8 Fatalities 9 \u003cb\u003e......\u003c/b\u003e \u003cb\u003e1982\u003c/b\u003e 12 13 - Yemen - M 6.0 Fatalities 2,800 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magat Dam - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Magat Dam - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Magat_Dam",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Ferdinand E. Marcos on October 27, 1982 and started operations in 1983. ...   known as NIA's most daring infrastructure project and one of Asia's biggest dams   today. .... The massive 1990 Luzon earthquake also contributed to the increased ...",
+   "htmlSnippet": "Ferdinand E. Marcos on \u003cb\u003eOctober 27, 1982\u003c/b\u003e and started operations in 1983. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  known as NIA&#39;s most daring infrastructure project and one of \u003cb\u003eAsia&#39;s\u003c/b\u003e biggest dams \u003cbr\u003e  today. \u003cb\u003e....\u003c/b\u003e The massive 1990 Luzon \u003cb\u003eearthquake\u003c/b\u003e also contributed to the increased \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VKGlwnXOsfoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Magat_Dam",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Magat_Dam",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Philippines_location_map.svg/235px-Philippines_location_map.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "188",
+      "height": "248",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi6qD7HtnpI3lwleLk1RrWRiIhR_ZWn9YUDg4qlgR1uBK5olbaF3nWwCJQ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Magat Dam"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CBC Digital Archives - Canada's Earthquakes and Tsunamis ...",
+   "htmlTitle": "CBC Digital Archives - Canada&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e and Tsunamis \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cbc.ca/archives/categories/environment/natural-disasters/canadas-earthquakes-and-tsunamis/horror-and-heroism-the-indian-ocean-tsunami.html",
+   "displayLink": "www.cbc.ca",
+   "snippet": "Oct 11, 2012 ... 26, 2004, an earthquake rumbled deep under the Indian Ocean, and the resulting   tsunami walloped south Asia. Three days later, the region is ...",
+   "htmlSnippet": "Oct 11, 2012 \u003cb\u003e...\u003c/b\u003e 26, 2004, an \u003cb\u003eearthquake\u003c/b\u003e rumbled deep under the Indian Ocean, and the resulting \u003cbr\u003e  tsunami walloped south \u003cb\u003eAsia\u003c/b\u003e. Three days later, the region is \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "F1M8n6eWBdYJ",
+   "formattedUrl": "www.cbc.ca/...earthquakes.../horror-and-heroism-the-indian-ocean-tsunami. html",
+   "htmlFormattedUrl": "www.cbc.ca/...\u003cb\u003eearthquakes\u003c/b\u003e.../horror-and-heroism-the-indian-ocean-tsunami. html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cbc.ca/archives/assets_c/2012/02/tsunami_20041229_br-thumb-120x90-175733.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "96",
+      "height": "72",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlO97tRd3eshIeMY7HP6fzXdFIDqSf0MZ3uvcEZHrk388MOinJXrHO"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "www.cbc.ca",
+      "msapplication-tooltip": "CBC.ca is Canada's Online Information Source.",
+      "msapplication-starturl": "/?cmp=pinned-ie9",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=CBC;action-uri=http://www.cbc.ca/?cmp=pinned-ie9;icon-uri=/favicon.ico",
+      "date": "2012/10/11",
+      "og:image": "http://www.cbc.ca/archives/assets_c/2012/02/tsunami_20041229_br-thumb-120x90-175733.jpg",
+      "og:title": "Horror and heroism: the Indian Ocean tsunami",
+      "og:url": "http://www.cbc.ca/archives/categories/environment/natural-disasters/canadas-earthquakes-and-tsunamis/horror-and-heroism-the-indian-ocean-tsunami.html",
+      "og:type": "cause",
+      "og:description": "Death tolls mount, aid pours in and tales of heroism emerge three days after the Indian Ocean tsunami of 2004.",
+      "fb:admins": "cbc",
+      "og:site_name": "CBC Digital Archives"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An earthquake (also known as a quake, tremor or temblor) is the result of a   sudden ... magnitude earthquake in Japan in 2011 (as of October 2012), and it   was the largest ..... inferred for older anomalous clusters of large earthquakes in   the Middle East. ..... Sibson R. H. (1982) \"Fault Zone Models, Heat Flow, and the   Depth ...",
+   "htmlSnippet": "An \u003cb\u003eearthquake\u003c/b\u003e (also known as a \u003cb\u003equake\u003c/b\u003e, tremor or temblor) is the result of a \u003cbr\u003e  sudden \u003cb\u003e...\u003c/b\u003e magnitude \u003cb\u003eearthquake\u003c/b\u003e in Japan in 2011 (as of \u003cb\u003eOctober\u003c/b\u003e 2012), and it \u003cbr\u003e  was the largest \u003cb\u003e.....\u003c/b\u003e inferred for older anomalous clusters of large \u003cb\u003eearthquakes\u003c/b\u003e in \u003cbr\u003e  the Middle East. \u003cb\u003e.....\u003c/b\u003e Sibson R. H. (\u003cb\u003e1982\u003c/b\u003e) &quot;Fault Zone Models, Heat Flow, and the \u003cbr\u003e  Depth \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ?????????, ????????? ???????????? ?????? ????????? ????????? ???????????? ????????????. ?????? ????????? ?????? ??? ??????????????? ??????????????? ???????????? ?????? ????????? ??????????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dr.D.Shanker, Department of Earthquake Engineering, Indian ...",
+   "htmlTitle": "Dr.D.Shanker, Department of \u003cb\u003eEarthquake\u003c/b\u003e Engineering, Indian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "displayLink": "www.iitr.ac.in",
+   "snippet": "Sixth Workshop on ??? Non-Linear Dynamics and Earthquake Prediction at   International Center for Theoretical Physics (ICTP), Trieste, Italy, October 15 ???27,   2001.",
+   "htmlSnippet": "Sixth Workshop on ??? Non-Linear Dynamics and \u003cb\u003eEarthquake\u003c/b\u003e Prediction at \u003cbr\u003e  International Center for Theoretical Physics (ICTP), Trieste, Italy, \u003cb\u003eOctober\u003c/b\u003e 15 ???\u003cb\u003e27\u003c/b\u003e, \u003cbr\u003e  2001.",
+   "cacheId": "hHwFGSSoXkwJ",
+   "formattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "htmlFormattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dayasfeq.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iitr.ac.in/departments/EQ/uploads/Image/faculty/dayasfeq.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTu_bdrlQOpb_1Wbl2uX4msnwe12PH6PLiAfVChL8t2pocU2dbwugf2Wa3-"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee",
+      "dc.title": "Dr.D.Shanker, Department of Earthquake Engineering,Indian Institute of Technology Roorkee Index",
+      "dc.creator": "Information Management Group, IIT Roorkee",
+      "dc.creator.address": "img@iitr.ernet.in",
+      "dc.subject.keyword": "Department of Earthquake Engineering,Earthquake Engineering,Structural Dynamics,Soil Dynamics,Seismology,Seismotectonics,Instrumentation,DEQ,IIT Roorkee,Indian Institute of Technology,technology,roorkee,academics,b.tech,m.tech,PhD,Student Homepages,Research,Alumni,SRTEE,events,School of Research and Training in Earthquake Engineering,Codal Provisions,Disaster Mitigation,seismic zoning map,Strong Motion Instruments,Undergraduate,Shake and Shock tables,quasi static testing lab,Activities,Facilities",
+      "dc.subject.description": "Earthquake Engineering, IIT Roorkee involves b.tech,m.tech.undergraduate students for research activities and training in Seismology,Seismotectonics,Instrumentation,soil dynamics technology etc.",
+      "dc.type": "webpage",
+      "dc.image.like": "/Main/template/IIT_Roorkee_Main_Building.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 01904-08-27  August 27, 1904, 21:56, Fairbanks, Alaska, United States, 64.7 ... 01914-10-04  October 4, 1914, 00:07 local time, Burdur, Turkey, 37.82, 30.27, 300, 6.9, MS ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 01904-08-\u003cb\u003e27\u003c/b\u003e\u003cbr\u003e  August \u003cb\u003e27\u003c/b\u003e, 1904, 21:56, Fairbanks, Alaska, United States, 64.7 \u003cb\u003e...\u003c/b\u003e 01914-10-04\u003cbr\u003e  \u003cb\u003eOctober\u003c/b\u003e 4, 1914, 00:07 local time, Burdur, Turkey, 37.82, 30.27, 300, 6.9, MS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Road to Recovery",
+   "htmlTitle": "Road to Recovery",
+   "link": "http://www.kantei.go.jp/foreign/policy/documents/2012/__icsFiles/afieldfile/2012/03/07/road_to_recovery.pdf",
+   "displayLink": "www.kantei.go.jp",
+   "snippet": "Estimated Economic Damage of the Great East Japan Earthquake ?????????10. ???   Current ... Safety of Fishery Products ?????????27. ??? Safety of .... (As of October 21st   2011) ...",
+   "htmlSnippet": "Estimated Economic Damage of the Great East Japan \u003cb\u003eEarthquake\u003c/b\u003e ?????????10. ??? \u003cbr\u003e  Current \u003cb\u003e...\u003c/b\u003e Safety of Fishery Products ?????????\u003cb\u003e27\u003c/b\u003e. ??? Safety of \u003cb\u003e....\u003c/b\u003e (As of \u003cb\u003eOctober\u003c/b\u003e 21st \u003cbr\u003e  2011) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iUJfiX2hY0YJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.kantei.go.jp/foreign/policy/documents/.../road_to_recovery.pdf",
+   "htmlFormattedUrl": "www.kantei.go.jp/foreign/policy/documents/.../road_to_recovery.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "CS863417",
+      "creationdate": "D:20120307094156+09'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20120307094156+09'00'",
+      "producer": "Acrobat Distiller 9.5.0 (Windows)",
+      "title": "Microsoft PowerPoint - 120301???set???RoadtoRecovery.pptx"
+     }
+    ]
+   }
+  }
+ ]
+}

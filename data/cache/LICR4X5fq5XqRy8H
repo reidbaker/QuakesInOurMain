@@ -1,0 +1,334 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jun 14 1995 Australia Earthquake",
+    "totalResults": "512000",
+    "searchTerms": "Jun 14 1995 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jun 14 1995 Australia Earthquake",
+    "totalResults": "512000",
+    "searchTerms": "Jun 14 1995 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.258934,
+  "formattedSearchTime": "0.26",
+  "totalResults": "512000",
+  "formattedTotalResults": "512,000"
+ },
+ "spelling": {
+  "correctedQuery": "June 14 1995 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJune\u003c/i\u003e\u003c/b\u003e 14 1995 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... Complex earthquake with at least one event occurring about 14 seconds after the   onset. .... Egypt, 1995 - Magnitude : 7.2 ??? 8 people killed ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e Complex \u003cb\u003eearthquake\u003c/b\u003e with at least one event occurring about \u003cb\u003e14\u003c/b\u003e seconds after the \u003cbr\u003e  onset. \u003cb\u003e....\u003c/b\u003e Egypt, \u003cb\u003e1995\u003c/b\u003e - Magnitude : 7.2 ??? 8 people killed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "see 1902 Guatemala earthquake, 14, ???91, 2,000, 7.5, ML (USGS 1000+), USGS   ... 01906-11-19November 19, 1906, Off the coast of Western Australia, Australia,   7.6, Mw ... 01909-06-11June 11, 1909, 20:25 local time, Lambesc, France .... see   1929 Grand Banks earthquake, 44.69, ???56.01, 28, 7.3, Mw (Bent, 1995), USGS ...",
+   "htmlSnippet": "see 1902 Guatemala \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e14\u003c/b\u003e, ???91, 2,000, 7.5, ML (USGS 1000+), USGS \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 01906-11-19November 19, 1906, Off the coast of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, \u003cbr\u003e  7.6, Mw \u003cb\u003e...\u003c/b\u003e 01909-06-11\u003cb\u003eJune\u003c/b\u003e 11, 1909, 20:25 local time, Lambesc, France \u003cb\u003e....\u003c/b\u003e see \u003cbr\u003e  1929 Grand Banks \u003cb\u003eearthquake\u003c/b\u003e, 44.69, ???56.01, 28, 7.3, Mw (Bent, \u003cb\u003e1995\u003c/b\u003e), USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CATDAT Damaging Earthquakes Database 2011 ??? Annual Review",
+   "htmlTitle": "CATDAT Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2011 ??? Annual Review",
+   "link": "http://earthquake-report.com/2012/01/09/catdat-damaging-earthquakes-database-2011-annual-review/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 30, 2012 ... This database has been presented at the Australian Earthquake Engineering   Society .... Central Asia, UZ, KG, TJ, 19.07.2011, 14 (1-HA), (14-14), 35, 66 ....   The Christchurch earthquakes on the 21st February, 13th June and 23rd   December .... 6, Kobe, Japan, 16.01.1995, $6.78bn, Horwich (2000), RMS ...",
+   "htmlSnippet": "Jan 30, 2012 \u003cb\u003e...\u003c/b\u003e This database has been presented at the \u003cb\u003eAustralian Earthquake\u003c/b\u003e Engineering \u003cbr\u003e  Society \u003cb\u003e....\u003c/b\u003e Central Asia, UZ, KG, TJ, 19.07.2011, \u003cb\u003e14\u003c/b\u003e (1-HA), (\u003cb\u003e14\u003c/b\u003e-\u003cb\u003e14\u003c/b\u003e), 35, 66 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The Christchurch \u003cb\u003eearthquakes\u003c/b\u003e on the 21st February, 13th \u003cb\u003eJune\u003c/b\u003e and 23rd \u003cbr\u003e  December \u003cb\u003e....\u003c/b\u003e 6, Kobe, Japan, 16.01.\u003cb\u003e1995\u003c/b\u003e, $6.78bn, Horwich (2000), RMS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BAsMwL0oclAJ",
+   "formattedUrl": "earthquake-report.com/.../catdat-damaging-earthquakes-database-2011- annual-review/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../catdat-damaging-\u003cb\u003eearthquakes\u003c/b\u003e-database-2011- annual-review/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/01/1a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "332",
+      "height": "152",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LwZ6x3Vm0hrCDNvA3r3gae2toAArFKHpBNm4K1MlBPMMJP2Hj4sHhEA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "11 See also; 12 References; 13 General references; 14 External links ..... The   greatest earthquake in Australia's history is also claimed to be induced by   humanity, .... Haruki Murakami's short fiction collection after the quake depicts the   consequences of the Kobe earthquake of 1995. .... Madrigal, Alexis (4 June 2008  ).",
+   "htmlSnippet": "11 See also; 12 References; 13 General references; \u003cb\u003e14\u003c/b\u003e External links \u003cb\u003e.....\u003c/b\u003e The \u003cbr\u003e  greatest \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003eAustralia&#39;s\u003c/b\u003e history is also claimed to be induced by \u003cbr\u003e  humanity, \u003cb\u003e....\u003c/b\u003e Haruki Murakami&#39;s short fiction collection after the \u003cb\u003equake\u003c/b\u003e depicts the \u003cbr\u003e  consequences of the Kobe \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e1995\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e Madrigal, Alexis (4 \u003cb\u003eJune\u003c/b\u003e 2008\u003cbr\u003e  ).",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ?????????, ????????? ???????????? ?????? ????????? ????????? ???????????? ????????????. ?????? ????????? ?????? ??? ??????????????? ??????????????? ???????????? ?????? ????????? ??????????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive 8.9 aftershock / earthquake along the Japanese coast",
+   "htmlTitle": "Massive 8.9 aftershock / \u003cb\u003eearthquake\u003c/b\u003e along the Japanese coast",
+   "link": "http://earthquake-report.com/2011/03/11/massive-earthquake-out-of-the-honshu-coast-japan/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 4, 2011 ... This is part 1 of our ongoing story on the March 9, M 7.3 earthquake who ....   UPDATE 10:14 UTC : The following list of aftershocks has been recorded   including M7.4 and M7 aftershocks ... Taiwan, the Philippines, Indonesia, Papua   New Guinea, Australia, ... Kobe 1995 ??? $142 billion USD (in 2011 dollars) ...",
+   "htmlSnippet": "Apr 4, 2011 \u003cb\u003e...\u003c/b\u003e This is part 1 of our ongoing story on the March 9, M 7.3 \u003cb\u003eearthquake\u003c/b\u003e who \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  UPDATE 10:\u003cb\u003e14\u003c/b\u003e UTC : The following list of aftershocks has been recorded \u003cbr\u003e  including M7.4 and M7 aftershocks \u003cb\u003e...\u003c/b\u003e Taiwan, the Philippines, Indonesia, Papua \u003cbr\u003e  New Guinea, \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e Kobe \u003cb\u003e1995\u003c/b\u003e ??? $142 billion USD (in 2011 dollars) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-vLtJUBtx50J",
+   "formattedUrl": "earthquake-report.com/.../massive-earthquake-out-of-the-honshu-coast-japan/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-\u003cb\u003eearthquake\u003c/b\u003e-out-of-the-honshu-coast-japan/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/03/honshu-11-03-2011.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "309",
+      "height": "163",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvLKfPpZRnNdjBVQKCY2PHhJlsrYnVWqP865ULG6Ihk8a1RPsCkaL3-9Q"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "lorena",
+      "nickname": "lorena"
+     },
+     {
+      "fn": "Kristy Schwenk"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Kristy Schwenk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Banjawarn station - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Banjawarn station - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Banjawarn_station",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 History; 2 The Cult; 3 The seismic event; 4 The metaphor; 5 See also ... When   raided by the Australian government in 1995, it contained computers and   laboratory equipment. ... 14 June 1948. http://nla.gov.au/nla.news-  article83758972.",
+   "htmlSnippet": "1 History; 2 The Cult; 3 The \u003cb\u003eseismic\u003c/b\u003e event; 4 The metaphor; 5 See also \u003cb\u003e...\u003c/b\u003e When \u003cbr\u003e  raided by the \u003cb\u003eAustralian\u003c/b\u003e government in \u003cb\u003e1995\u003c/b\u003e, it contained computers and \u003cbr\u003e  laboratory equipment. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e14 June\u003c/b\u003e 1948. http://nla.gov.au/nla.news-\u003cbr\u003e  article83758972.",
+   "cacheId": "I1RNTTgKjYEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Banjawarn_station",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Banjawarn_station"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Proposal for a Dynamic National Geodetic Datum for New Zealand",
+   "htmlTitle": "Proposal for a Dynamic National Geodetic Datum for New Zealand",
+   "link": "http://www.linz.govt.nz/docs/miscellaneous/dynamic-national-geodeticdatum.pdf",
+   "displayLink": "www.linz.govt.nz",
+   "snippet": "Presented at IUGG XXI General Assembly Boulder Colorado, July 2-14, 1995 ....   A number of major earthquakes occurred during or since observation of the ......   Vision, 1995 New Zealand - Australia Cadastral Conference, Wellington, 14-16 ...",
+   "htmlSnippet": "Presented at IUGG XXI General Assembly Boulder Colorado, July 2-14, 1995 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  A number of major \u003cb\u003eearthquakes\u003c/b\u003e occurred during or since observation of the \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  Vision, 1995 New Zealand - \u003cb\u003eAustralia\u003c/b\u003e Cadastral Conference, Wellington, \u003cb\u003e14\u003c/b\u003e-16 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.linz.govt.nz/docs/miscellaneous/dynamic-national-geodeticdatum.pdf",
+   "htmlFormattedUrl": "www.linz.govt.nz/docs/miscellaneous/dynamic-national-geodeticdatum.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "Microsoft Word",
+      "creationdate": "Monday, 12 July 1999 03:56:47",
+      "title": "Proposal for a Dynamic National Geodetic Datum for New Zealand",
+      "author": "D.B. Grant, M.B. Pearse",
+      "producer": "Acrobat PDFWriter 3.02 for Windows",
+      "moddate": "D:19990719144428"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in New Zealand - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in New Zealand - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_New_Zealand",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquakes in New Zealand are due to the country being part of the Pacific Ring   ... This axis follows the boundary between the Indo-Australian and Pacific plates.   ... 23 Jun 1891, Port Waikato, Auckland, 6.2, 12 km, 37.43??S, 174.43??E, Felt in ....   14 Sep 1959, Raoul Island, Kermadec Islands, 7.8, 35 km, 28.82??S, 177.07??W ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e in New Zealand are due to the country being part of the Pacific Ring \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e This axis follows the boundary between the Indo-\u003cb\u003eAustralian\u003c/b\u003e and Pacific plates. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 23 \u003cb\u003eJun\u003c/b\u003e 1891, Port Waikato, Auckland, 6.2, 12 km, 37.43??S, 174.43??E, Felt in \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e14\u003c/b\u003e Sep 1959, Raoul Island, Kermadec Islands, 7.8, 35 km, 28.82??S, 177.07??W \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZC2sG6228SUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_New_Zealand",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_New_Zealand",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/NZ_faults_.png/300px-NZ_faults_.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "217",
+      "height": "233",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUPjinOCHv_dqe7JhrKh3Wg1fWOQzV8t7NKd49YEYSWk0TczpGUt8P9QI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... 1941 04 29 - Meeberrie, Australia - M 7.2 ?? 1968 10 14 - Meckering, .... 1995 05   13 - Greece - M 6.6; 1995 06 15 - Greece - M 6.5 Fatalities 26 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e 1941 04 29 - Meeberrie, \u003cb\u003eAustralia\u003c/b\u003e - M 7.2 &middot; 1968 10 \u003cb\u003e14\u003c/b\u003e - Meckering, \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1995\u003c/b\u003e 05 \u003cbr\u003e  13 - Greece - M 6.6; \u003cb\u003e1995\u003c/b\u003e 06 15 - Greece - M 6.5 Fatalities 26 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Seismicity in Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Seismicity in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Aug 20, 2011 ... For a listing of recent Australian earthquakes, follow this link .... 06 Jun 1918, 18:  14, -23.5, 152.5, 6.0, Gladstone - felt widely. 06 Jun 1918, 19:20, -23.5, 152.5 ....   05 Dec 1995, 30.36, 137.95, 4.6, Myrtle Springs. 09 Jun 1996 ...",
+   "htmlSnippet": "Aug 20, 2011 \u003cb\u003e...\u003c/b\u003e For a listing of recent \u003cb\u003eAustralian earthquakes\u003c/b\u003e, follow this link \u003cb\u003e....\u003c/b\u003e 06 \u003cb\u003eJun\u003c/b\u003e 1918, 18:\u003cbr\u003e  \u003cb\u003e14\u003c/b\u003e, -23.5, 152.5, 6.0, Gladstone - felt widely. 06 \u003cb\u003eJun\u003c/b\u003e 1918, 19:20, -23.5, 152.5 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  05 Dec \u003cb\u003e1995\u003c/b\u003e, 30.36, 137.95, 4.6, Myrtle Springs. 09 \u003cb\u003eJun\u003c/b\u003e 1996 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w1yMftxdSCkJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity_in_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32684"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0y-_VdOt97EaQcatNSECvkyYtwP5d-jCx_yj8JSWfCuxRjC0WZH2IuGo"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity in Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/43699",
+      "dc.date.modified": "2011-08-20",
+      "dc.date.created": "2004-02-07",
+      "dc.date.valid": "2012-08-20",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/43699",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  }
+ ]
+}

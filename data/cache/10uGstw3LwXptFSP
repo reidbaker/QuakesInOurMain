@@ -1,0 +1,189 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 10 1902 Eurasia Earthquake",
+    "totalResults": "6200",
+    "searchTerms": "Apr 10 1902 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 10 1902 Eurasia Earthquake",
+    "totalResults": "6200",
+    "searchTerms": "Apr 10 1902 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.217051,
+  "formattedSearchTime": "0.22",
+  "totalResults": "6200",
+  "formattedTotalResults": "6,200"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australia's worst earthquakes: top 10 most devastating - Australian ...",
+   "htmlTitle": "Australia&#39;s worst \u003cb\u003eearthquakes\u003c/b\u003e: top \u003cb\u003e10\u003c/b\u003e most devastating - Australian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.australiangeographic.com.au/journal/australias-worst-earthquakes-top-10-most-devastating.htm",
+   "displayLink": "www.australiangeographic.com.au",
+   "snippet": "Jul 10, 2012 ... Australia has few big earthquakes, but some of them have caused great   devastation. Here are ... is colliding with the Pacific plate in the east and the   Eurasian plate to the north. ... Warooka, South Australia, 19 September 1902 (  Magnitude 6.0) ... Meeberrie, Western Australia, 29 April 1941 (Magnitude 7.2) ...",
+   "htmlSnippet": "Jul 10, 2012 \u003cb\u003e...\u003c/b\u003e Australia has few big \u003cb\u003eearthquakes\u003c/b\u003e, but some of them have caused great \u003cbr\u003e  devastation. Here are \u003cb\u003e...\u003c/b\u003e is colliding with the Pacific plate in the east and the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plate to the north. \u003cb\u003e...\u003c/b\u003e Warooka, South Australia, 19 September \u003cb\u003e1902\u003c/b\u003e (\u003cbr\u003e  Magnitude 6.0) \u003cb\u003e...\u003c/b\u003e Meeberrie, Western Australia, 29 \u003cb\u003eApril\u003c/b\u003e 1941 (Magnitude 7.2) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EcyP2GgfKjMJ",
+   "formattedUrl": "www.australiangeographic.com.au/.../australias-worst-earthquakes-top-10- most-devastating.htm",
+   "htmlFormattedUrl": "www.australiangeographic.com.au/.../australias-worst-\u003cb\u003eearthquakes\u003c/b\u003e-top-\u003cb\u003e10\u003c/b\u003e- most-devastating.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "209",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlg8_OIjgcNebdL7N4vyhhGcMAiqTyf4CIY1s3_LkTKzBtigNrzmiSn7lQ"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "distribution": "global",
+      "og:title": "Australia's worst earthquakes",
+      "og:description": "Australia has few big earthquakes, but some of them have caused great devastation. Here are the 10 most significant.",
+      "og:image": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.1 - 13km NNE of Nahrin, Afghanistan 2012-10-14 13:17:28 UTC",
+   "htmlTitle": "M5.1 - 13km NNE of Nahrin, Afghanistan 2012-\u003cb\u003e10\u003c/b\u003e-14 13:17:28 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000d5pu",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... Eurasia generates numerous earthquakes and consequently makes   this ... at the start of the 20th Century, including the 1902 Atushi earthquake, ... the   M7.5 Luhuo earthquake which ruptured on the 22 April 1973.",
+   "htmlSnippet": "Oct 14, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e generates numerous \u003cb\u003eearthquakes\u003c/b\u003e and consequently makes \u003cbr\u003e  this \u003cb\u003e...\u003c/b\u003e at the start of the 20th Century, including the \u003cb\u003e1902\u003c/b\u003e Atushi \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  M7.5 Luhuo \u003cb\u003eearthquake\u003c/b\u003e which ruptured on the 22 \u003cb\u003eApril\u003c/b\u003e 1973.",
+   "cacheId": "X8WgInqIZ40J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000d5pu",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000d5pu"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.7 - 179km SE of Yanqi, China 2012-10-06 09:27:40 UTC",
+   "htmlTitle": "M4.7 - 179km SE of Yanqi, China 2012-\u003cb\u003e10\u003c/b\u003e-06 09:27:40 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000d2vm",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 6, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... himalaya dominantly results from continental collision india eurasia ...   earthquakes m7 6 at the start of the 20th century including the 1902 ... m7 5 luhuo   earthquake which ruptured on the 22 april 1973 some studies ...",
+   "htmlSnippet": "Oct 6, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e m7 6 at the start of the 20th century including the \u003cb\u003e1902\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e m7 5 luhuo \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e which ruptured on the 22 \u003cb\u003eapril\u003c/b\u003e 1973 some studies \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aH__6kRp5vkJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000d2vm",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000d2vm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.3 - 33km E of Shwebo, Burma 2012-11-23 10:24:27 UTC",
+   "htmlTitle": "M4.3 - 33km E of Shwebo, Burma 2012-11-23 \u003cb\u003e10\u003c/b\u003e:24:27 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dxam",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 23, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... himalaya dominantly results from continental collision india eurasia ...   earthquakes m7 6 at the start of the 20th century including the 1902 ... m7 5 luhuo   earthquake which ruptured on the 22 april 1973 some studies ...",
+   "htmlSnippet": "Nov 23, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e m7 6 at the start of the 20th century including the \u003cb\u003e1902\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e m7 5 luhuo \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e which ruptured on the 22 \u003cb\u003eapril\u003c/b\u003e 1973 some studies \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lxsGEish5xcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dxam",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dxam"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.3 - 4km SSE of Alik Ghund, Pakistan 2012-11-19 17:54:08 UTC",
+   "htmlTitle": "M5.3 - 4km SSE of Alik Ghund, Pakistan 2012-11-19 17:54:08 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000duzz",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 19, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... Page Last Modified: November 27, 2012 15:10:04 UTC ... vicinity   himalaya dominantly from continental collision india eurasia plates which ...   earthquakes m7 6 at the start of the 20th century including the 1902 atushi ...",
+   "htmlSnippet": "Nov 19, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e Page Last Modified: November 27, 2012 15:\u003cb\u003e10\u003c/b\u003e:04 UTC \u003cb\u003e...\u003c/b\u003e vicinity \u003cbr\u003e  himalaya dominantly from continental collision india \u003cb\u003eeurasia\u003c/b\u003e plates which \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e m7 6 at the start of the 20th century including the \u003cb\u003e1902\u003c/b\u003e atushi \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gPMkJJws0RgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000duzz",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000duzz"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.5 - 32km NNE of Uttarkashi, India 2012-11-27 12:15:18 UTC",
+   "htmlTitle": "M4.5 - 32km NNE of Uttarkashi, India 2012-11-27 12:15:18 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dyx0",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 27, 2012 ... Earthquake location 31.014??N, 78.530??E .... himalaya vicinity himalaya   dominantly results from continental collision india eurasia ... had three major   earthquakes m7 6 at the start of the 20th century including the 1902 ... the m7 5   luhuo earthquake which ruptured on the 22 april 1973 some studies suggest ...",
+   "htmlSnippet": "Nov 27, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e location 31.014??N, 78.530??E \u003cb\u003e....\u003c/b\u003e himalaya vicinity himalaya \u003cbr\u003e  dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e had three major \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e m7 6 at the start of the 20th century including the \u003cb\u003e1902\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e the m7 5 \u003cbr\u003e  luhuo \u003cb\u003eearthquake\u003c/b\u003e which ruptured on the 22 \u003cb\u003eapril\u003c/b\u003e 1973 some studies suggest \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RlaOukMnC0gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dyx0",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dyx0"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.5 - 62km WNW of Mogok, Burma 2012-11-11 18:19:42 UTC",
+   "htmlTitle": "M5.5 - 62km WNW of Mogok, Burma 2012-11-11 18:19:42 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dqy4",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 11, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... vicinity himalaya dominantly from continental collision india eurasia   plates ... earthquakes m7 6 at the start of the 20th century including the 1902 ...   on the 22 april 1973 some studies suggest that the high slip rate on ...",
+   "htmlSnippet": "Nov 11, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e vicinity himalaya dominantly from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cbr\u003e  plates \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e m7 6 at the start of the 20th century including the \u003cb\u003e1902\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  on the 22 \u003cb\u003eapril\u003c/b\u003e 1973 some studies suggest that the high slip rate on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yjEYKDp7-PMJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dqy4",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dqy4"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M5.5 - 296km SSE of Turpan, China 2012-11-26 05:33:50 UTC",
+   "htmlTitle": "M5.5 - 296km SSE of Turpan, China 2012-11-26 05:33:50 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000dy6h",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 26, 2012 ... M5.5 - 296km SSE of Turpan, China 2012-11-26 05:33:50 UTC. PAGER -   GREEN ShakeMap - IV DYFI? - I. Earthquake location 40.419??N, ...",
+   "htmlSnippet": "Nov 26, 2012 \u003cb\u003e...\u003c/b\u003e M5.5 - 296km SSE of Turpan, China 2012-11-26 05:33:50 UTC. PAGER - \u003cbr\u003e  GREEN ShakeMap - IV DYFI? - I. \u003cb\u003eEarthquake\u003c/b\u003e location 40.419??N, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "j_JGLwBTyKMJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000dy6h",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000dy6h"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates ... 1902, 8, 1932, 13, 1962, 15. 1903, 10, 1933, 14, 1963, 20 .... The   2 April 1990 Bishop's Castle earthquake in the Welsh Borders, with a magnitude   of ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1902\u003c/b\u003e, 8, 1932, 13, 1962, 15. 1903, \u003cb\u003e10\u003c/b\u003e, 1933, 14, 1963, 20 \u003cb\u003e....\u003c/b\u003e The \u003cbr\u003e  2 \u003cb\u003eApril\u003c/b\u003e 1990 Bishop&#39;s Castle \u003cb\u003eearthquake\u003c/b\u003e in the Welsh Borders, with a magnitude \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  }
+ ]
+}

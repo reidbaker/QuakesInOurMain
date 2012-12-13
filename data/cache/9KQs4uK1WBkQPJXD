@@ -1,0 +1,298 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 13 1996 Asia Earthquake",
+    "totalResults": "448000",
+    "searchTerms": "Dec 13 1996 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 13 1996 Asia Earthquake",
+    "totalResults": "448000",
+    "searchTerms": "Dec 13 1996 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.211232,
+  "formattedSearchTime": "0.21",
+  "totalResults": "448000",
+  "formattedTotalResults": "448,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Destroyed 13 cities in Asia (minor), Described by the historians Tacitus and Pliny   the Elder. February 5, 62 ... December 22, 856 (aftershocks for about a year),   Qumis, Iran. .... see 1700 Cascadia earthquake, 9, M (Satake et al., 1996), USGS ...",
+   "htmlSnippet": "Destroyed \u003cb\u003e13\u003c/b\u003e cities in \u003cb\u003eAsia\u003c/b\u003e (minor), Described by the historians Tacitus and Pliny \u003cbr\u003e  the Elder. February 5, 62 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember\u003c/b\u003e 22, 856 (aftershocks for about a year), \u003cbr\u003e  Qumis, Iran. \u003cb\u003e....\u003c/b\u003e see 1700 Cascadia \u003cb\u003eearthquake\u003c/b\u003e, 9, M (Satake et al., \u003cb\u003e1996\u003c/b\u003e), USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "a study of the historical earthquake catalog and gutenberg-richter ...",
+   "htmlTitle": "a study of the historical \u003cb\u003eearthquake\u003c/b\u003e catalog and gutenberg-richter \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.kns.org/jknsfile/v42/JK0420055.pdf",
+   "displayLink": "www.kns.org",
+   "snippet": "historical earthquake catalogs and G-R parameters, which are basic materials in   .... (1978/10/7, M=5.0), Yeongweol Eq. (1996/12/13, M=4.5), and Kyeongju Eq.",
+   "htmlSnippet": "historical \u003cb\u003eearthquake\u003c/b\u003e catalogs and G-R parameters, which are basic materials in \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e (1978/10/7, M=5.0), Yeongweol Eq. (\u003cb\u003e1996/12/13\u003c/b\u003e, M=4.5), and Kyeongju Eq.",
+   "cacheId": "k2lXtHyCb3MJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.kns.org/jknsfile/v42/JK0420055.pdf",
+   "htmlFormattedUrl": "www.kns.org/jknsfile/v42/JK0420055.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100217142553+09'00'",
+      "moddate": "D:20100217142553+09'00'",
+      "producer": "Acrobat Distiller 5.0.2 (Macintosh)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chronology of Earthquakes and Volcanos (1996-2005)",
+   "htmlTitle": "Chronology of \u003cb\u003eEarthquakes\u003c/b\u003e and Volcanos (\u003cb\u003e1996\u003c/b\u003e-2005)",
+   "link": "http://worldtimeline.info/volcano/volc1996.htm",
+   "displayLink": "worldtimeline.info",
+   "snippet": "Jul 25, 2012 ... Timeline of land-based natural disasters including: earthquakes, ... 1996.   January 1. In Minahasa, Sulawesi, Indonesia, a magnitude 7.9 ..... recorded   history hits Southeast Asia when the strongest earthquake ... December 13 ...",
+   "htmlSnippet": "Jul 25, 2012 \u003cb\u003e...\u003c/b\u003e Timeline of land-based natural disasters including: \u003cb\u003eearthquakes\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1996\u003c/b\u003e. \u003cbr\u003e  January 1. In Minahasa, Sulawesi, Indonesia, a magnitude 7.9 \u003cb\u003e.....\u003c/b\u003e recorded \u003cbr\u003e  history hits Southeast \u003cb\u003eAsia\u003c/b\u003e when the strongest \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember 13\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ccDpNHR8WGAJ",
+   "formattedUrl": "worldtimeline.info/volcano/volc1996.htm",
+   "htmlFormattedUrl": "worldtimeline.info/volcano/volc\u003cb\u003e1996\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes, Floods and Landslides",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e, Floods and Landslides",
+   "link": "http://www.icsu.org/icsu-asia/publications/science-planning-reports/science-plan-on-hazards-and-disasters/Earthquake-%20Floods%20-%20Landslides.pdf",
+   "displayLink": "www.icsu.org",
+   "snippet": "ICSU Regional Office for Asia and the Pacific was inaugurated on the 19 ... 13.   Demonstration Studies, Projects and Interdisciplinary Linkages 14 .....   devastating tsunami caused by the 26 December ..... landslides (Cruden and   Varnes 1996) ...",
+   "htmlSnippet": "ICSU Regional Office for \u003cb\u003eAsia\u003c/b\u003e and the Pacific was inaugurated on the 19 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e13\u003c/b\u003e. \u003cbr\u003e  Demonstration Studies, Projects and Interdisciplinary Linkages 14 \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  devastating tsunami caused by the 26 \u003cb\u003eDecember\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e landslides (Cruden and \u003cbr\u003e  Varnes \u003cb\u003e1996\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gkywd6I53kEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.icsu.org/...asia/.../Earthquake-%20Floods%20-%20Landslides.pdf",
+   "htmlFormattedUrl": "www.icsu.org/...\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-%20Floods%20-%20Landslides.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081128230311-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20081129072011+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami fears unfounded after strong earthquake strikes Japan ...",
+   "htmlTitle": "Tsunami fears unfounded after strong \u003cb\u003eearthquake\u003c/b\u003e strikes Japan \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.independent.co.uk/news/world/asia/tsunami-fears-unfounded-after-strong-earthquake-strikes-japan-8392378.html",
+   "displayLink": "www.independent.co.uk",
+   "snippet": "A strong earthquake struck the same Japanese coast that was ... Thursday 13   December 2012 ... Friday 07 December 2012 ... More in Asia ?? .... 1992, 1993,   1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006 ...",
+   "htmlSnippet": "A strong \u003cb\u003eearthquake\u003c/b\u003e struck the same Japanese coast that was \u003cb\u003e...\u003c/b\u003e Thursday \u003cb\u003e13\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e Friday 07 \u003cb\u003eDecember\u003c/b\u003e 2012 \u003cb\u003e...\u003c/b\u003e More in \u003cb\u003eAsia\u003c/b\u003e ?? \u003cb\u003e....\u003c/b\u003e 1992, 1993, \u003cbr\u003e  1994, 1995, \u003cb\u003e1996\u003c/b\u003e, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kIVakHzcN_oJ",
+   "formattedUrl": "www.independent.co.uk/.../asia/tsunami-fears-unfounded-after-strong- earthquake-strikes-japan-8392378.html",
+   "htmlFormattedUrl": "www.independent.co.uk/.../\u003cb\u003easia\u003c/b\u003e/tsunami-fears-unfounded-after-strong- \u003cb\u003eearthquake\u003c/b\u003e-strikes-japan-8392378.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.independent.co.uk/incoming/article8393570.ece/ALTERNATES/w140/tsunami.afp.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "112",
+      "height": "84",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTifXWMV2Y7I0fNpVFn_eoGMLSHUwBrXR76cIld5HODNfvNZGnZAw5nJg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Tsunami fears unfounded after strong earthquake strikes Japan",
+      "og:type": "article",
+      "og:image": "http://www.independent.co.uk/incoming/article8393570.ece/BINARY/original/tsunami.afp.jpg",
+      "og:description": "A strong earthquake struck the same Japanese coast that was devastated by last year's massive quake and tsunami, but despite understandable fears it generated only small waves, with no immediate reports of heavy damage.",
+      "article:tag": "Meteorology",
+      "article:published_time": "2012-12-07",
+      "article:section": "Asia",
+      "og:url": "http://www.independent.co.uk/news/world/asia/tsunami-fears-unfounded-after-strong-earthquake-strikes-japan-8392378.html",
+      "fb:app_id": "235586169789578",
+      "fb:admins": "36903991,100001802971061,500243253",
+      "og:site_name": "The Independent",
+      "og:locale": "en_GB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismic source and path calibration in the korean peninsula, yellow ...",
+   "htmlTitle": "seismic source and path calibration in the korean peninsula, yellow \u003cb\u003e...\u003c/b\u003e",
+   "link": "https://e-reports-ext.llnl.gov/pdf/349884.pdf",
+   "displayLink": "e-reports-ext.llnl.gov",
+   "snippet": "This was the largest earthquake on land since the Mw 4.7 event on December 13  , 1996. Figure 1 shows the distribution of accelerometer and broadband ...",
+   "htmlSnippet": "This was the largest \u003cb\u003eearthquake\u003c/b\u003e on land since the Mw 4.7 event on \u003cb\u003eDecember 13\u003c/b\u003e\u003cbr\u003e  \u003cb\u003e, 1996\u003c/b\u003e. Figure 1 shows the distribution of accelerometer and broadband \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "byPzdBqJwBoJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "https://e-reports-ext.llnl.gov/pdf/349884.pdf",
+   "htmlFormattedUrl": "https://e-reports-ext.llnl.gov/pdf/349884.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070712145638-07'00'",
+      "producer": "iText 1.4.7 (by lowagie.com)",
+      "moddate": "D:20071210134000-08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dr.D.K. Paul, Department of Earthquake Engineering, Indian Institute ...",
+   "htmlTitle": "Dr.D.K. Paul, Department of \u003cb\u003eEarthquake\u003c/b\u003e Engineering, Indian Institute \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iitr.ac.in/departments/EQ/pages/People+Faculty+dpaulfeq.html",
+   "displayLink": "www.iitr.ac.in",
+   "snippet": "13th Symposium on Earthquake Engineering (13SEE), IIT Roorkee, Roorkee,   Elite .... Indian Society of Earthquake Technology, Two terms 1994-96, 1996-98   ...... using Centrifuge Modeling???, 13th Asian Regional Conference (Dec, 2007) at ...",
+   "htmlSnippet": "\u003cb\u003e13\u003c/b\u003eth Symposium on \u003cb\u003eEarthquake\u003c/b\u003e Engineering (\u003cb\u003e13SEE\u003c/b\u003e), IIT Roorkee, Roorkee, \u003cbr\u003e  Elite \u003cb\u003e....\u003c/b\u003e Indian Society of \u003cb\u003eEarthquake\u003c/b\u003e Technology, Two terms 1994-96, \u003cb\u003e1996\u003c/b\u003e-98 \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e using Centrifuge Modeling???, \u003cb\u003e13th Asian\u003c/b\u003e Regional Conference (\u003cb\u003eDec\u003c/b\u003e, 2007) at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Jz4O1oFsqLUJ",
+   "formattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dpaulfeq.html",
+   "htmlFormattedUrl": "www.iitr.ac.in/departments/EQ/pages/People+Faculty+dpaulfeq.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iitr.ac.in/departments/EQ/uploads/Image/faculty/dpaulfeq.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "192",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGkia3msUwzHGV2NCUxRxjrDG4SKjpNBU39KyB4vkSvUu6IAsmfDYysNg"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Dr.D.K. Paul, Department of Earthquake Engineering,Indian Institute of Technology Roorkee",
+      "dc.title": "Dr.D.K. Paul, Department of Earthquake Engineering,Indian Institute of Technology Roorkee Index",
+      "dc.creator": "Information Management Group, IIT Roorkee",
+      "dc.creator.address": "img@iitr.ernet.in",
+      "dc.subject.keyword": "Department of Earthquake Engineering,Earthquake Engineering,Structural Dynamics,Soil Dynamics,Seismology,Seismotectonics,Instrumentation,DEQ,IIT Roorkee,Indian Institute of Technology,technology,roorkee,academics,b.tech,m.tech,PhD,Student Homepages,Research,Alumni,SRTEE,events,School of Research and Training in Earthquake Engineering,Codal Provisions,Disaster Mitigation,seismic zoning map,Strong Motion Instruments,Undergraduate,Shake and Shock tables,quasi static testing lab,Activities,Facilities",
+      "dc.subject.description": "Earthquake Engineering, IIT Roorkee involves b.tech,m.tech.undergraduate students for research activities and training in Seismology,Seismotectonics,Instrumentation,soil dynamics technology etc.",
+      "dc.type": "webpage",
+      "dc.image.like": "/Main/template/IIT_Roorkee_Main_Building.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami alert lifted after major earthquake off north-eastern Japan ...",
+   "htmlTitle": "Tsunami alert lifted after major \u003cb\u003eearthquake\u003c/b\u003e off north-eastern Japan \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.independent.co.uk/news/world/asia/tsunami-alert-lifted-after-major-earthquake-off-northeastern-japan-8392378.html",
+   "displayLink": "www.independent.co.uk",
+   "snippet": "6 days ago ... A strong earthquake struck Friday off the coast of north-eastern Japan in the   same region that ... Friday 07 December 2012 .... More in Asia ?? ...",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e A strong \u003cb\u003eearthquake\u003c/b\u003e struck Friday off the coast of north-eastern Japan in the \u003cbr\u003e  same region that \u003cb\u003e...\u003c/b\u003e Friday 07 \u003cb\u003eDecember\u003c/b\u003e 2012 \u003cb\u003e....\u003c/b\u003e More in \u003cb\u003eAsia\u003c/b\u003e ?? \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qzVufU56OBoJ",
+   "formattedUrl": "www.independent.co.uk/.../asia/tsunami-alert-lifted-after-major-earthquake- off-northeastern-japan-8392378.html",
+   "htmlFormattedUrl": "www.independent.co.uk/.../\u003cb\u003easia\u003c/b\u003e/tsunami-alert-lifted-after-major-\u003cb\u003eearthquake\u003c/b\u003e- off-northeastern-japan-8392378.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.independent.co.uk/incoming/article8392567.ece/BINARY/original/japan1.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Tsunami alert lifted after major earthquake off north-eastern Japan",
+      "og:type": "article",
+      "og:image": "http://www.independent.co.uk/incoming/article8392567.ece/BINARY/original/japan1.jpg",
+      "og:description": "A strong earthquake struck Friday off the coast of north-eastern Japan in the same region that was hit by a massive earthquake and tsunami last year. A city in the region reported that a small tsunami had hit, but there were no immediate reports of injuries or damage.",
+      "article:tag": "Meteorology",
+      "article:published_time": "2012-12-07",
+      "article:section": "Asia",
+      "og:url": "http://www.independent.co.uk/news/world/asia/tsunami-alert-lifted-after-major-earthquake-off-northeastern-japan-8392378.html",
+      "fb:app_id": "235586169789578",
+      "fb:admins": "36903991,100001802971061,500243253",
+      "og:site_name": "The Independent",
+      "og:locale": "en_GB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "13 killed in strong Myanmar quake: NGO | Bangkok Post: news",
+   "htmlTitle": "\u003cb\u003e13\u003c/b\u003e killed in strong Myanmar \u003cb\u003equake\u003c/b\u003e: NGO | Bangkok Post: news",
+   "link": "http://www.bangkokpost.com/news/asia/320775/13-killed-in-strong-myanmar-quake-ngo",
+   "displayLink": "www.bangkokpost.com",
+   "snippet": "Nov 12, 2012 ... A powerful earthquake which hit Myanmar Sunday killed at least 13 people,   injured dozens and ... 1 Dec 2012 | 18:37 GMT+7 ... generally poor in the country   formerly known as Burma, one of Asia's most impoverished nations. ... Copyright   The Post Publishing PCL 1996-2012: Terms of use | Republishing ...",
+   "htmlSnippet": "Nov 12, 2012 \u003cb\u003e...\u003c/b\u003e A powerful \u003cb\u003eearthquake\u003c/b\u003e which hit Myanmar Sunday killed at least \u003cb\u003e13\u003c/b\u003e people, \u003cbr\u003e  injured dozens and \u003cb\u003e...\u003c/b\u003e 1 \u003cb\u003eDec\u003c/b\u003e 2012 | 18:37 GMT+7 \u003cb\u003e...\u003c/b\u003e generally poor in the country \u003cbr\u003e  formerly known as Burma, one of \u003cb\u003eAsia&#39;s\u003c/b\u003e most impoverished nations. \u003cb\u003e...\u003c/b\u003e Copyright \u003cbr\u003e  The Post Publishing PCL \u003cb\u003e1996\u003c/b\u003e-2012: Terms of use | Republishing \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.bangkokpost.com/.../asia/.../13-killed-in-strong-myanmar-quake-ngo",
+   "htmlFormattedUrl": "www.bangkokpost.com/.../\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003e13\u003c/b\u003e-killed-in-strong-myanmar-\u003cb\u003equake\u003c/b\u003e-ngo",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bangkokpost.com/media/content/20121112/442499.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "196",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSI0x8IzOZ2xMKwtXN-eI0k7ZGHZ1Vcd4yplQImI2h3d-DxDUm4RERe4egQ"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Post Publishing PCL.",
+      "rating": "General"
+     }
+    ]
+   }
+  }
+ ]
+}

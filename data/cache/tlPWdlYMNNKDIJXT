@@ -1,0 +1,306 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 25 1972 Australia Earthquake",
+    "totalResults": "131000",
+    "searchTerms": "Feb 25 1972 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 25 1972 Australia Earthquake",
+    "totalResults": "131000",
+    "searchTerms": "Feb 25 1972 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.249621,
+  "formattedSearchTime": "0.25",
+  "totalResults": "131000",
+  "formattedTotalResults": "131,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Massive earthquake hits Philippines with tsunami warning ??? 1 dead ...",
+   "htmlTitle": "Massive \u003cb\u003eearthquake\u003c/b\u003e hits Philippines with tsunami warning ??? 1 dead \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/31/massive-earthquake-hits-philippines-with-tsunami-warning/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Sep 4, 2012 ... Update 04/09: The latest update from this earthquake from the NDRMMC paints a   full picture of the losses which are now seen to be around ...",
+   "htmlSnippet": "Sep 4, 2012 \u003cb\u003e...\u003c/b\u003e Update 04/09: The latest update from this \u003cb\u003eearthquake\u003c/b\u003e from the NDRMMC paints a \u003cbr\u003e  full picture of the losses which are now seen to be around \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eK0_Y-IV4AcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-earthquake-hits-philippines-with-tsunami- warning/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-\u003cb\u003eearthquake\u003c/b\u003e-hits-philippines-with-tsunami- warning/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/08/Screen-Shot-2012-09-01-at-09.31.37.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "251",
+      "height": "200",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeNGiBaNDqjU3WfmQaijd1CZlqxKy2NenMs_DyDXIb96pQoCDe800tFMIJ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Jomari F. Ortaleza"
+     },
+     {
+      "fn": "Jomari F. Ortaleza"
+     },
+     {
+      "fn": "Shirley Hutter"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "To connect with Earthquake Report, sign up for Facebook today. Sign UpLog In ...   This Page replaces the former by Facebook blocked \"earthquakes\" page with   11400 Fans. About ...... (Major) Earthquakes list November 25, 2012 ??? Shallow   earthquake in Rondonia, Brazil. wp.me .... Will Burke There's no HAARP in   Australia.",
+   "htmlSnippet": "To connect with \u003cb\u003eEarthquake\u003c/b\u003e Report, sign up for Facebook today. Sign UpLog In \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  This Page replaces the former by Facebook blocked &quot;\u003cb\u003eearthquakes\u003c/b\u003e&quot; page with \u003cbr\u003e  11400 Fans. About \u003cb\u003e......\u003c/b\u003e (Major) \u003cb\u003eEarthquakes\u003c/b\u003e list November \u003cb\u003e25\u003c/b\u003e, 2012 ??? Shallow \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in Rondonia, Brazil. wp.me \u003cb\u003e....\u003c/b\u003e Will Burke There&#39;s no HAARP in \u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e.",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong damaging earthquake Eastern Turkey (23/10/2011 ...",
+   "htmlTitle": "Very strong damaging \u003cb\u003eearthquake\u003c/b\u003e Eastern Turkey (23/10/2011 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/24/very-strong-damaging-earthquake-eastern-turkey-23102011-part-1/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 3, 2011 ... Earthquake overview : This is part 1 of the cruel damaging earthquake in the Van   province of Eastern Turkey. Part 1 does start moments after it ...",
+   "htmlSnippet": "Nov 3, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : This is part 1 of the cruel damaging \u003cb\u003eearthquake\u003c/b\u003e in the Van \u003cbr\u003e  province of Eastern Turkey. Part 1 does start moments after it \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PQsC5MI2AOEJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-damaging-earthquake-eastern-turkey- 23102011-part-1/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-damaging-\u003cb\u003eearthquake\u003c/b\u003e-eastern-turkey- 23102011-part-1/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/turkey-23102011-3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoALkMWkeN8ZSCA-4UW6Cq2yBtQjP52vGkYnWvMdHbyYuQVtFXBZxI2CI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes @ GA ??? Earthquake Database ??? Search Results",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e @ GA ??? \u003cb\u003eEarthquake\u003c/b\u003e Database ??? Search Results",
+   "link": "http://www.ga.gov.au/earthquakes/list.do?isRegionSelected=true&region=Act",
+   "displayLink": "www.ga.gov.au",
+   "snippet": "Earthquakes @ Geoscience Australia. Prod V:3.1.1 ... 2.4, 25 February 1972 @   20:06:00, 26 February 1972 @ 07:06:00, -35.400, 149.050, 0, No, Yes ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e @ Geoscience \u003cb\u003eAustralia\u003c/b\u003e. Prod V:3.1.1 \u003cb\u003e...\u003c/b\u003e 2.4, \u003cb\u003e25 February 1972\u003c/b\u003e @ \u003cbr\u003e  20:06:00, 26 \u003cb\u003eFebruary 1972\u003c/b\u003e @ 07:06:00, -35.400, 149.050, 0, No, Yes \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_Uabs1zk7vYJ",
+   "formattedUrl": "www.ga.gov.au/earthquakes/list.do?isRegionSelected=true...Act",
+   "htmlFormattedUrl": "www.ga.gov.au/\u003cb\u003eearthquakes\u003c/b\u003e/list.do?isRegionSelected=true...Act"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ..... 1988 03 06 - Gulf of Alaska -   M 7.7; 1988 01 22 - Tennant Creek, Australia - M 6.6 ?? 1987 ... 1972 04 10 -   southern Iran - M 7.1 Fatalities 5,054; 1972 01 25 - Taiwain region ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e.....\u003c/b\u003e 1988 03 06 - Gulf of Alaska - \u003cbr\u003e  M 7.7; 1988 01 22 - Tennant Creek, \u003cb\u003eAustralia\u003c/b\u003e - M 6.6 &middot; 1987 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1972\u003c/b\u003e 04 10 - \u003cbr\u003e  southern Iran - M 7.1 Fatalities 5,054; \u003cb\u003e1972\u003c/b\u003e 01 \u003cb\u003e25\u003c/b\u003e - Taiwain region \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Seismicity in Australia",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Seismicity in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Aug 20, 2011 ... For a listing of recent Australian earthquakes, follow this link .... 1972/02/25, -  34.22, 147.47, 5.1, Eastern Highlands. 1973/03/09, -34.17, 150.32 ...",
+   "htmlSnippet": "Aug 20, 2011 \u003cb\u003e...\u003c/b\u003e For a listing of recent \u003cb\u003eAustralian earthquakes\u003c/b\u003e, follow this link \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1972/02/25\u003c/b\u003e, -\u003cbr\u003e  34.22, 147.47, 5.1, Eastern Highlands. 1973/03/09, -34.17, 150.32 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "w1yMftxdSCkJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity_in_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity_in_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=32684"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0y-_VdOt97EaQcatNSECvkyYtwP5d-jCx_yj8JSWfCuxRjC0WZH2IuGo"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Seismicity in Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/43699",
+      "dc.date.modified": "2011-08-20",
+      "dc.date.created": "2004-02-07",
+      "dc.date.valid": "2012-08-20",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/43699",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. Earthquakes of   magnitude ... 01906-11-19November 19, 1906, Off the coast of Western Australia,   Australia, 7.6, Mw ... 01909-06-11June 11, 1909, 20:25 local time, Lambesc,   France see 1909 ... 01923-09-01February 3, 1923, Kamchatka Peninsula, Russia ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003eEarthquakes\u003c/b\u003e of \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e 01906-11-19November 19, 1906, Off the coast of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e...\u003c/b\u003e 01909-06-11June 11, 1909, 20:\u003cb\u003e25\u003c/b\u003e local time, Lambesc, \u003cbr\u003e  France see 1909 \u003cb\u003e...\u003c/b\u003e 01923-09-01\u003cb\u003eFebruary\u003c/b\u003e 3, 1923, Kamchatka Peninsula, Russia \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake strikes Mediterranean ??? History.com This Day in History ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e strikes Mediterranean ??? History.com This Day in History \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/earthquake-strikes-mediterranean",
+   "displayLink": "www.history.com",
+   "snippet": "On this day in 1887, an earthquake off the Mediterranean coast of southern   France ... in Austria; Feb 25, 1984: Explosion kills hundreds in Brazil; Feb 26,   1972 ...",
+   "htmlSnippet": "On this day in 1887, an \u003cb\u003eearthquake\u003c/b\u003e off the Mediterranean coast of southern \u003cbr\u003e  France \u003cb\u003e...\u003c/b\u003e in \u003cb\u003eAustria\u003c/b\u003e; \u003cb\u003eFeb 25\u003c/b\u003e, 1984: Explosion kills hundreds in Brazil; \u003cb\u003eFeb\u003c/b\u003e 26, \u003cbr\u003e  \u003cb\u003e1972\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TvmmnOXEzdUJ",
+   "formattedUrl": "www.history.com/this-day-in.../earthquake-strikes-mediterranean",
+   "htmlFormattedUrl": "www.history.com/this-day-in.../\u003cb\u003eearthquake\u003c/b\u003e-strikes-mediterranean",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "/imgs/template/tdih.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Earthquake strikes Mediterranean ??? History.com This Day in History ??? 2/23/1887",
+      "asset_type_id": "6",
+      "is_sponsored": "N",
+      "network": "History",
+      "display_description": "On this day in 1887, an earthquake off the Mediterranean coast of southern France and northern Italy destroys villages and kills more than 2,000 people.",
+      "asset_id": "1092872",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Earthquake strikes Mediterranean ??? History.com This Day in History ??? 2/23/1887",
+      "og:description": "On this day in 1887, an earthquake off the Mediterranean coast of southern France and northern Italy destroys villages and kills more than 2,000 people.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/earthquake-strikes-mediterranean"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   .... 25 quakes of magnitude 5.0 or greater in the Canning Basin area of northern   ..... February 2000. http://www.aees.org.au/Newsletters/AEES_2000_2.pdf.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003e25\u003c/b\u003e quakes of magnitude 5.0 or greater in the Canning Basin area of northern \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eFebruary\u003c/b\u003e 2000. http://www.aees.org.au/Newsletters/AEES_2000_2.pdf.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... Australia ??? Azerbaijan ???   Bhutan ??? Bolivia ??? Brazil ??? Bulgaria ??? Canada ??? Caribbean Sea ...... 1959 04 26 -   Taiwan region - M 7.5 Fatalities 2; 1972 01 25 - Taiwain region - M 7.5 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAustralia\u003c/b\u003e ??? Azerbaijan ??? \u003cbr\u003e  Bhutan ??? Bolivia ??? Brazil ??? Bulgaria ??? Canada ??? Caribbean Sea \u003cb\u003e......\u003c/b\u003e 1959 04 26 - \u003cbr\u003e  Taiwan region - M 7.5 Fatalities 2; \u003cb\u003e1972\u003c/b\u003e 01 \u003cb\u003e25\u003c/b\u003e - Taiwain region - M 7.5 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  }
+ ]
+}
