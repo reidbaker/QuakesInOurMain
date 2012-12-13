@@ -1,0 +1,318 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 31 1067 Asia Earthquake",
+    "totalResults": "4740",
+    "searchTerms": "Oct 31 1067 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 31 1067 Asia Earthquake",
+    "totalResults": "4740",
+    "searchTerms": "Oct 31 1067 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.235427,
+  "formattedSearchTime": "0.24",
+  "totalResults": "4740",
+  "formattedTotalResults": "4,740"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "BBC News - Asia",
+   "htmlTitle": "BBC News - \u003cb\u003eAsia\u003c/b\u003e",
+   "link": "http://www.bbc.co.uk/news/world/asia/",
+   "displayLink": "www.bbc.co.uk",
+   "snippet": "Get the latest Asian news from BBC News in Asia: breaking news, features,   analysis and special reports plus audio and video from across the Asian   continent. ... Design 'behind NZ quake collapse' ... Industrial output rises by 8.2%   in October ...",
+   "htmlSnippet": "Get the latest \u003cb\u003eAsian\u003c/b\u003e news from BBC News in \u003cb\u003eAsia\u003c/b\u003e: breaking news, features, \u003cbr\u003e  analysis and special reports plus audio and video from across the \u003cb\u003eAsian\u003c/b\u003e \u003cbr\u003e  continent. \u003cb\u003e...\u003c/b\u003e Design &#39;behind NZ \u003cb\u003equake\u003c/b\u003e collapse&#39; \u003cb\u003e...\u003c/b\u003e Industrial output rises by 8.2% \u003cbr\u003e  in \u003cb\u003eOctober\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZBHED3lbyOoJ",
+   "formattedUrl": "www.bbc.co.uk/news/world/asia/",
+   "htmlFormattedUrl": "www.bbc.co.uk/news/world/\u003cb\u003easia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.bbcimg.co.uk/media/images/56400000/jpg/_56400259_bbcnews.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNB6Mdj0twViZeQ3FGSyRYy10BY4Gr5wjC6VKEgQgbxw4K8UFkxUUfNM"
+     }
+    ],
+    "metatags": [
+     {
+      "originalpublicationdate": "2012/12/13 07:40:43",
+      "ukfs_url": "/news/world/asia/",
+      "headline": "INDEX",
+      "ifs_url": "/news/world/asia/",
+      "section": "Asia",
+      "contentflavor": "INDEX",
+      "cps_id": "15296612",
+      "cps_site_name": "BBC News",
+      "cps_section_path": "World/Asia",
+      "cps_asset_type": "IDX",
+      "cps_platform": "HighWeb",
+      "cps_audience": "US",
+      "bbcsearch_noindex": "atom",
+      "application-name": "BBC News",
+      "msapplication-tileimage": "/img/1_0_2/cream/hi/news/bbc-news-pin.png",
+      "msapplication-tilecolor": "#CC0101",
+      "viewport": "width = 996",
+      "og:title": "BBC News: Asia",
+      "og:description": "Asia news from the BBC",
+      "og:url": "http://www.bbc.co.uk/news/world/asia/",
+      "og:type": "website",
+      "og:image": "http://news.bbcimg.co.uk/media/images/56400000/jpg/_56400259_bbcnews.jpg",
+      "og:site_name": "BBC News",
+      "fb:app_id": "278613835530922",
+      "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more",
+      "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico",
+      "dcterms.created": "2011-10-13T14:43:11+00:00",
+      "dcterms.modified": "2012-12-13T07:40:43+00:00"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "General Debate 31 October 2012 | Kiwiblog",
+   "htmlTitle": "General Debate \u003cb\u003e31 October\u003c/b\u003e 2012 | Kiwiblog",
+   "link": "http://www.kiwiblog.co.nz/2012/10/general_debate_31_october_2012.html",
+   "displayLink": "www.kiwiblog.co.nz",
+   "snippet": "This entry was posted on Wednesday, October 31st, 2012 at 8:00 am and is filed   under ..... No we need another Douglas etc to make us a Asian Tiger and Power   would .... Not sure about that but the earthquake saved him. .... Kea (1,067) Says: ...",
+   "htmlSnippet": "This entry was posted on Wednesday, \u003cb\u003eOctober 31st\u003c/b\u003e, 2012 at 8:00 am and is filed \u003cbr\u003e  under \u003cb\u003e.....\u003c/b\u003e No we need another Douglas etc to make us a \u003cb\u003eAsian\u003c/b\u003e Tiger and Power \u003cbr\u003e  would \u003cb\u003e....\u003c/b\u003e Not sure about that but the \u003cb\u003eearthquake\u003c/b\u003e saved him. \u003cb\u003e....\u003c/b\u003e Kea (\u003cb\u003e1,067\u003c/b\u003e) Says: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ENke6tgvCGQJ",
+   "formattedUrl": "www.kiwiblog.co.nz/2012/.../general_debate_31_october_2012.html",
+   "htmlFormattedUrl": "www.kiwiblog.co.nz/2012/.../general_debate_\u003cb\u003e31\u003c/b\u003e_\u003cb\u003eoctober\u003c/b\u003e_2012.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "featuring countcomments": "1.32",
+      "og:type": "article",
+      "og:title": "General Debate 31 October 2012",
+      "og:url": "http://www.kiwiblog.co.nz/2012/10/general_debate_31_october_2012.html",
+      "og:description": "No TweetBacks yet. (Be the first to Tweet this post) Tags: General Debate",
+      "og:site_name": "Kiwiblog"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Full text of \"A catalogue of destructive earthquakes, AD 7 to AD 1899\"",
+   "htmlTitle": "Full text of &quot;A catalogue of destructive \u003cb\u003eearthquakes\u003c/b\u003e, AD 7 to AD 1899&quot;",
+   "link": "http://archive.org/stream/catalogueofdestr00britrich/catalogueofdestr00britrich_djvu.txt",
+   "displayLink": "archive.org",
+   "snippet": "The present Catalogue is an attempt to give a list of earthquakes which have   announced ... embrace the period A.D. 7, November 10th, to A.D. 1899,   December 31st. ..... 5 or 7 July 30 June Asia Minor, Antioch III Ol. Japan (Totomi,   Mikawa) I Mi. .... 1057 March to April 1058 1063 1064 April 11 1065 June 13   1067 Oct. to Nov.",
+   "htmlSnippet": "The present Catalogue is an attempt to give a list of \u003cb\u003eearthquakes\u003c/b\u003e which have \u003cbr\u003e  announced \u003cb\u003e...\u003c/b\u003e embrace the period A.D. 7, November 10th, to A.D. 1899, \u003cbr\u003e  December \u003cb\u003e31st\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e 5 or 7 July 30 June \u003cb\u003eAsia\u003c/b\u003e Minor, Antioch III Ol. Japan (Totomi, \u003cbr\u003e  Mikawa) I Mi. \u003cb\u003e....\u003c/b\u003e 1057 March to April 1058 1063 1064 April 11 1065 June 13 \u003cbr\u003e  \u003cb\u003e1067 Oct\u003c/b\u003e. to Nov.",
+   "cacheId": "HeQKomJaJrUJ",
+   "formattedUrl": "archive.org/stream/.../catalogueofdestr00britrich_djvu.txt",
+   "htmlFormattedUrl": "archive.org/stream/.../catalogueofdestr00britrich_djvu.txt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Humanitarian Service Medal (HSM) ??? APPROVED OPERATIONS ...",
+   "htmlTitle": "Humanitarian Service Medal (HSM) ??? APPROVED OPERATIONS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://prhome.defense.gov/rfm/mpp/OEPM/docs/HSM%20Approved%20Operations%20V2.pdf",
+   "displayLink": "prhome.defense.gov",
+   "snippet": "FRANCIS HAMMOND (FF 1067). 9-Aug-1978 14-Aug- ... 21-Jul-1979 30-Jun-  1984 Southeast Asia ... Dominican Republic Disaster Relief 1-Sep-1979 26-Oct-  1979 ... Popayan Earthquake Disaster Relief 31-Mar-1983 8-Apr-1983 Colombia ...",
+   "htmlSnippet": "FRANCIS HAMMOND (FF \u003cb\u003e1067\u003c/b\u003e). 9-Aug-1978 14-Aug- \u003cb\u003e...\u003c/b\u003e 21-Jul-1979 30-Jun-\u003cbr\u003e  1984 Southeast \u003cb\u003eAsia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Dominican Republic Disaster Relief 1-Sep-1979 26-\u003cb\u003eOct\u003c/b\u003e-\u003cbr\u003e  1979 \u003cb\u003e...\u003c/b\u003e Popayan \u003cb\u003eEarthquake\u003c/b\u003e Disaster Relief \u003cb\u003e31\u003c/b\u003e-Mar-1983 8-Apr-1983 Colombia \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wyLEVObPCoEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "prhome.defense.gov/rfm/.../HSM%20Approved%20Operations%20V2.pdf",
+   "htmlFormattedUrl": "prhome.defense.gov/rfm/.../HSM%20Approved%20Operations%20V2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090406120447-04'00'",
+      "author": "Nittled",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "moddate": "D:20090406120447-04'00'",
+      "title": "Microsoft Word - HSM Approved Operations V2.DOC"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kashiwazaki???Kariwa Nuclear Power Plant - Wikipedia, the free ...",
+   "htmlTitle": "Kashiwazaki???Kariwa Nuclear Power Plant - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/Kashiwazaki%E2%80%93Kariwa_Nuclear_Power_Plant",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The plant was completely shut down for 21 months following the earthquake. ...   Net Power (MW), 1,067, 1,067, 1,067, 1,067, 1,067, 1,315, 1,315 ..... 31 July 2007  . http://www.iht.com/articles/ap/2007/07/31/asia/AS-GEN-Japan-Quake-Nuclear.",
+   "htmlSnippet": "The plant was completely shut down for 21 months following the \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Net Power (MW), \u003cb\u003e1,067\u003c/b\u003e, \u003cb\u003e1,067\u003c/b\u003e, \u003cb\u003e1,067\u003c/b\u003e, \u003cb\u003e1,067\u003c/b\u003e, \u003cb\u003e1,067\u003c/b\u003e, 1,315, 1,315 \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e31\u003c/b\u003e July 2007\u003cbr\u003e  . http://www.iht.com/articles/ap/2007/07/\u003cb\u003e31\u003c/b\u003e/\u003cb\u003easia\u003c/b\u003e/AS-GEN-Japan-\u003cb\u003eQuake\u003c/b\u003e-Nuclear.",
+   "cacheId": "cdpTMhXnxaMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Kashiwazaki???Kariwa_Nuclear_Power_Plant",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Kashiwazaki???Kariwa_Nuclear_Power_Plant",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kashiwazaki-Kariwa_cropped.jpg/220px-Kashiwazaki-Kariwa_cropped.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "105",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgel5yfcvZn2FnGvDcHs9d780cyNKOdE7f5YhmwZ8Yzlal3ZxzY4Cy-fY"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Kashiwazaki???Kariwa Nuclear Power Plant",
+      "bday": "1980-06-05"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Complete Earthquake list for Wednesday, 19 September 2012 ...",
+   "htmlTitle": "Complete \u003cb\u003eEarthquake\u003c/b\u003e list for Wednesday, 19 September 2012 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/earthquakes/archive/2012-sep-19.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Sep 19, 2012 ... Please wait until the recent earthquake list is loaded. ..... Wed, 19 Sep 11:51 UTC  , M 3.0 / 5 km - [info], (31 km), GREECE .... Wed, 19 Sep 10:46 UTC, M 3.2 / 106.7   km - [info], (51 km), 44 km al E de Pica ..... tanzania uganda drcongo western   africa asia afghanistan azerbaijan burma myanmar china georgia ...",
+   "htmlSnippet": "Sep 19, 2012 \u003cb\u003e...\u003c/b\u003e Please wait until the recent \u003cb\u003eearthquake\u003c/b\u003e list is loaded. \u003cb\u003e.....\u003c/b\u003e Wed, 19 Sep 11:51 UTC\u003cbr\u003e  , M 3.0 / 5 km - [info], (\u003cb\u003e31\u003c/b\u003e km), GREECE \u003cb\u003e....\u003c/b\u003e Wed, 19 Sep 10:46 UTC, M 3.2 / \u003cb\u003e106.7\u003c/b\u003e \u003cbr\u003e  km - [info], (51 km), 44 km al E de Pica \u003cb\u003e.....\u003c/b\u003e tanzania uganda drcongo western \u003cbr\u003e  africa \u003cb\u003easia\u003c/b\u003e afghanistan azerbaijan burma myanmar china georgia \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1gBCcUoHtoMJ",
+   "formattedUrl": "www.volcanodiscovery.com/earthquakes/archive/2012-sep-19.html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/\u003cb\u003eearthquakes\u003c/b\u003e/archive/2012-sep-19.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kent - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Kent - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Kent",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2007 earthquake caused physical damage in Folkestone. ... constituency of   South East England, which elects ten members of the European Parliament.",
+   "htmlSnippet": "The 2007 \u003cb\u003eearthquake\u003c/b\u003e caused physical damage in Folkestone. \u003cb\u003e...\u003c/b\u003e constituency of \u003cbr\u003e  South East England, which elects ten members of the European Parliament.",
+   "cacheId": "Ur9P02o4vVwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Kent",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Kent",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Kent.svg/220px-Flag_of_Kent.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "132",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzjMo9JKLDNMqXy10-Oyf30-zzG1nwc5yrhHVvEIK_fiObauc8c3RhycM"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Kent",
+      "label": "South East England",
+      "category": "Ceremonial and (smaller) non-metropolitan county"
+     },
+     {
+      "fn": "Kent",
+      "category": "Ceremonial county"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Washington's Blog - Business, Investing, Economy, Politics, World ...",
+   "htmlTitle": "Washington&#39;s Blog - Business, Investing, Economy, Politics, World \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.washingtonsblog.com/",
+   "displayLink": "www.washingtonsblog.com",
+   "snippet": "9 hours ago ... In the original incident, which I cited in October, The New York Times .... That is   large earthquake ??? bigger than the 1989 San Francisco ...",
+   "htmlSnippet": "9 hours ago \u003cb\u003e...\u003c/b\u003e In the original incident, which I cited in \u003cb\u003eOctober\u003c/b\u003e, The New York Times \u003cb\u003e....\u003c/b\u003e That is \u003cbr\u003e  large \u003cb\u003eearthquake\u003c/b\u003e ??? bigger than the 1989 San Francisco \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2ux9RquY2K4J",
+   "formattedUrl": "www.washingtonsblog.com/",
+   "htmlFormattedUrl": "www.washingtonsblog.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.washingtonsblog.com/wp-content/uploads/2012/12/pv30r2z6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "197",
+      "height": "255",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRrvNEek7VbsVYpg9oaiJ5Z2INwLkHfoU_YAna62iANjt23DO8cRX1xyHo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "October 14 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eOctober\u003c/b\u003e 14 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/October_14",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "October 14 is the 287th day of the year (288th in leap years) in the Gregorian ....   An earthquake rated at 6.8 on the Richter Scale destroys the Australian town of ...   International University leads to suspensions of 31 players of both teams.",
+   "htmlSnippet": "\u003cb\u003eOctober\u003c/b\u003e 14 is the 287th day of the year (288th in leap years) in the Gregorian \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  An \u003cb\u003eearthquake\u003c/b\u003e rated at 6.8 on the Richter Scale destroys the Australian town of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  International University leads to suspensions of \u003cb\u003e31\u003c/b\u003e players of both teams.",
+   "cacheId": "kymUAit8V1UJ",
+   "formattedUrl": "en.wikipedia.org/wiki/October_14",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eOctober\u003c/b\u003e_14"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Results from Survey-Mode Global Positioning System Measure",
+   "htmlTitle": "Results from Survey-Mode Global Positioning System Measure",
+   "link": "http://igppweb.ucsd.edu/~agnew/Pubs/agnew.a69.pdf",
+   "displayLink": "igppweb.ucsd.edu",
+   "snippet": "Hector Mine earthquake of 16 October 1999. .... ARGOS 1957. 222. 187. USMC/  USC. ASIA. 34.39160. 116.28440. 895. ASIA. 222. 184 ... 2901 31 DOR 1972.   619 ... 184. USMC/SIO. MEAN. 34.40479. 116.54970. 1067. EV4007. MEANS   1935 ...",
+   "htmlSnippet": "Hector Mine \u003cb\u003eearthquake\u003c/b\u003e of 16 \u003cb\u003eOctober\u003c/b\u003e 1999. \u003cb\u003e....\u003c/b\u003e ARGOS 1957. 222. 187. USMC/\u003cbr\u003e  USC. \u003cb\u003eASIA\u003c/b\u003e. 34.39160. 116.28440. 895. \u003cb\u003eASIA\u003c/b\u003e. 222. 184 \u003cb\u003e...\u003c/b\u003e 2901 \u003cb\u003e31\u003c/b\u003e DOR 1972. \u003cbr\u003e  619 \u003cb\u003e...\u003c/b\u003e 184. USMC/SIO. MEAN. 34.40479. 116.54970. \u003cb\u003e1067\u003c/b\u003e. EV4007. MEANS \u003cbr\u003e  1935 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tKerzRcSI_oJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "igppweb.ucsd.edu/~agnew/Pubs/agnew.a69.pdf",
+   "htmlFormattedUrl": "igppweb.ucsd.edu/~agnew/Pubs/agnew.a69.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20020618120538",
+      "producer": "Acrobat Distiller 4.05 for Windows"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,268 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 16 1732 North America Earthquake",
+    "totalResults": "14800",
+    "searchTerms": "Sep 16 1732 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 16 1732 North America Earthquake",
+    "totalResults": "14800",
+    "searchTerms": "Sep 16 1732 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.486237,
+  "formattedSearchTime": "0.49",
+  "totalResults": "14800",
+  "formattedTotalResults": "14,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1732 Montreal earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1732\u003c/b\u003e Montreal \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1732_Montreal_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1732 Montreal earthquake was a 5.8 magnitude earthquake that struck   Quebec, Canada at 11:00 a.m. on September 16, 1732. The shaking associated   with ...",
+   "htmlSnippet": "The 1732 Montreal \u003cb\u003eearthquake\u003c/b\u003e was a 5.8 magnitude \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  Quebec, Canada at 11:00 a.m. on \u003cb\u003eSeptember 16, 1732\u003c/b\u003e. The shaking associated \u003cbr\u003e  with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FcdJZg6wHOwJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1732_Montreal_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1732\u003c/b\u003e_Montreal_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A closer look at the September 16, 1732, Montreal earthquake",
+   "htmlTitle": "A closer look at the \u003cb\u003eSeptember 16, 1732\u003c/b\u003e, Montreal \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://www.nrcresearchpress.com/doi/abs/10.1139/e81-047",
+   "displayLink": "www.nrcresearchpress.com",
+   "snippet": "The September 16, 1732, earthquake ranks among the three largest events in the   western Quebec zone ... frequently in eastern North America; in fact, no severe ...",
+   "htmlSnippet": "The \u003cb\u003eSeptember 16, 1732\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e ranks among the three largest events in the \u003cbr\u003e  western Quebec zone \u003cb\u003e...\u003c/b\u003e frequently in eastern \u003cb\u003eNorth America\u003c/b\u003e; in fact, no severe \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.nrcresearchpress.com/doi/abs/10.1139/e81-047",
+   "htmlFormattedUrl": "www.nrcresearchpress.com/doi/abs/10.1139/e81-047",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20110325095258-08'00'",
+      "creationdate": "D:20070418091457+05'30'",
+      "creator": "PDFplus",
+      "producer": "Atypon Systems, Inc.",
+      "title": "A closer look at the September 16, 1732, Montreal earthquake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Canada - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Canada - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Canada",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 16, 1732, 11:00 (local time), Montreal ... 6.3, Ms This was the first   earthquake in eastern North America confirmed to have produced surface   faulting ...",
+   "htmlSnippet": "\u003cb\u003eSeptember 16, 1732\u003c/b\u003e, 11:00 (local time), Montreal \u003cb\u003e...\u003c/b\u003e 6.3, Ms This was the first \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in eastern \u003cb\u003eNorth America\u003c/b\u003e confirmed to have produced surface \u003cbr\u003e  faulting \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0gxr8h4LpdYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Canada",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Canada"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1732 Montreal earthquake",
+   "htmlTitle": "\u003cb\u003e1732\u003c/b\u003e Montreal \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/17320916-eng.php",
+   "displayLink": "www.earthquakescanada.nrcan.gc.ca",
+   "snippet": "Nov 7, 2011 ... The 16 September, 1732, Montr??al earthquake. ... \"Damage associated with   three early Eastern North American earthquakes\", 6th Canadian ...",
+   "htmlSnippet": "Nov 7, 2011 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003e16 September\u003c/b\u003e, \u003cb\u003e1732\u003c/b\u003e, Montr??al \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e &quot;Damage associated with \u003cbr\u003e  three early Eastern \u003cb\u003eNorth American earthquakes\u003c/b\u003e&quot;, 6th Canadian \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GJOYl0Q_6HUJ",
+   "formattedUrl": "www.earthquakescanada.nrcan.gc.ca/historic.../17320916-eng.php",
+   "htmlFormattedUrl": "www.\u003cb\u003eearthquakes\u003c/b\u003ecanada.nrcan.gc.ca/historic.../\u003cb\u003e1732\u003c/b\u003e0916-eng.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.description": "The 16 September, 1732, Montr??al earthquake",
+      "dc.creator": "Lamontagne Maurice",
+      "dc.title": "The Western Quebec Seismic Zone",
+      "dcterms.issued": "1999-04-01",
+      "dcterms.modified": "2011-11-07",
+      "dc.subject": "The 16 September, 1732, Montr??al earthquake",
+      "dc.language": "eng",
+      "dc.date.modified": "2011-11-07",
+      "dc.date.created": "1999-04-01",
+      "author": "Lamontagne Maurice",
+      "orgid": "42;916;8832;8831;9115"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "New Hampshire: Earthquake History",
+   "htmlTitle": "New Hampshire: \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/new_hampshire/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... A September 16, 1732, earthquake centered in the St. Lawrence Valley ... was   felt in adjacent towns and at Laconia, 50 kilometers to the north.",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e A \u003cb\u003eSeptember 16, 1732\u003c/b\u003e, \u003cb\u003eearthquake\u003c/b\u003e centered in the St. Lawrence Valley \u003cb\u003e...\u003c/b\u003e was \u003cbr\u003e  felt in adjacent towns and at Laconia, 50 kilometers to the \u003cb\u003enorth\u003c/b\u003e.",
+   "cacheId": "1nUds8_JDg4J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/new_hampshire/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/new_hampshire/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "TSUNAMI WARNING! ALL PACIFIC COUNTRIES",
+   "htmlTitle": "TSUNAMI WARNING! ALL PACIFIC COUNTRIES",
+   "link": "http://earthquake-report.com/2011/03/11/tsunami-warning-all-pacific-countries/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 11, 2011 ... WALLIS-FUTUNA / SAMOA / AMERICAN SAMOA / COOK ISLANDS / NIUE / ...   AN EARTHQUAKE HAS OCCURRED WITH THESE PRELIMINARY   PARAMETERS ORIGIN TIME ??? 0546Z 11 MAR 2011. COORDINATES ??? 38.3   NORTH 142.4 EAST ... FRIGATE US 23.9N 166.3W 1224Z 0.38M / 1.2FT 16MIN ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e WALLIS-FUTUNA / SAMOA / \u003cb\u003eAMERICAN\u003c/b\u003e SAMOA / COOK ISLANDS / NIUE / \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  AN \u003cb\u003eEARTHQUAKE\u003c/b\u003e HAS OCCURRED WITH THESE PRELIMINARY \u003cbr\u003e  PARAMETERS ORIGIN TIME ??? 0546Z 11 MAR 2011. COORDINATES ??? 38.3 \u003cbr\u003e  \u003cb\u003eNORTH\u003c/b\u003e 142.4 EAST \u003cb\u003e...\u003c/b\u003e FRIGATE US 23.9N 166.3W 1224Z 0.38M / 1.2FT \u003cb\u003e16MIN\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iPZjaVXz2LsJ",
+   "formattedUrl": "earthquake-report.com/2011/.../tsunami-warning-all-pacific-countries/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/.../tsunami-warning-all-pacific-countries/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History of Vermont",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History of Vermont",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/vermont/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... A violent earthquake, probably centered in the St. Lawrence Valley, was felt ...   1661, February 5, 1663, September 16, 1732, November 29, 1783, and ... 4.5   meters apart were observed in the North End. The earthquake was also felt ...   and Notices ?? In partnership with nehrp ?? Take Pride in America; USA.gov ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e A violent \u003cb\u003eearthquake\u003c/b\u003e, probably centered in the St. Lawrence Valley, was felt \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1661, February 5, 1663, \u003cb\u003eSeptember 16, 1732\u003c/b\u003e, November 29, 1783, and \u003cb\u003e...\u003c/b\u003e 4.5 \u003cbr\u003e  meters apart were observed in the \u003cb\u003eNorth\u003c/b\u003e End. The \u003cb\u003eearthquake\u003c/b\u003e was also felt \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W5Wd_7kbqOEJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/vermont/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/vermont/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Important Canadian Earthquakes",
+   "htmlTitle": "Important Canadian \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.earthquakescanada.nrcan.gc.ca/historic-historique/map-carte-eng.php",
+   "displayLink": "www.earthquakescanada.nrcan.gc.ca",
+   "snippet": "Map and list showing damaging and significant earthquakes in ...",
+   "htmlSnippet": "Map and list showing damaging and significant \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3vKDRFH9ZzUJ",
+   "formattedUrl": "www.earthquakescanada.nrcan.gc.ca/historic.../map-carte-eng.php",
+   "htmlFormattedUrl": "www.\u003cb\u003eearthquakes\u003c/b\u003ecanada.nrcan.gc.ca/historic.../map-carte-eng.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.description": "Map and list showing damaging and significant earthquakes in Canada",
+      "dc.creator": "Christopher Majewski, Stephen Halchuk",
+      "dc.title": "Important Canadian Earthquakes",
+      "dcterms.issued": "2011-05-11",
+      "dcterms.modified": "2012-11-09",
+      "dc.subject": "Important Canadian Earthquakes",
+      "dc.language": "eng",
+      "dc.date.modified": "2012-11-09",
+      "dc.date.created": "2011-05-11",
+      "author": "Christopher Majewski, Stephen Halchuk",
+      "orgid": "42;916;8832;8831;9115"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Montreal shaken up by small earthquake but eastern half of the ...",
+   "htmlTitle": "Montreal shaken up by small \u003cb\u003eearthquake\u003c/b\u003e but eastern half of the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://ca.news.yahoo.com/blogs/geekquinox/montreal-shaken-small-earthquake-eastern-half-continent-much-185307985.html",
+   "displayLink": "ca.news.yahoo.com",
+   "snippet": "Oct 10, 2012... area ??? but not the whole WQSZ ???happened on September 16th, 1732. ... The   most recent significant quake was on September 5th, 1944, when a ... The edges   of the North American tectonic plate run up the west coast of ...",
+   "htmlSnippet": "Oct 10, 2012\u003cb\u003e...\u003c/b\u003e area ??? but not the whole WQSZ ???happened on \u003cb\u003eSeptember 16th, 1732\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  most recent significant \u003cb\u003equake\u003c/b\u003e was on September 5th, 1944, when a \u003cb\u003e...\u003c/b\u003e The edges \u003cbr\u003e  of the \u003cb\u003eNorth American\u003c/b\u003e tectonic plate run up the west coast of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OkvxresbJ4AJ",
+   "formattedUrl": "ca.news.yahoo.com/.../montreal-shaken-small-earthquake-eastern-half- continent-much-185307985.html",
+   "htmlFormattedUrl": "ca.news.yahoo.com/.../montreal-shaken-small-\u003cb\u003eearthquake\u003c/b\u003e-eastern-half- continent-much-185307985.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://l1.yimg.com/bt/api/res/1.2/P9LeQlBH7N2eGEQUZQWgkw--/YXBwaWQ9eW5ld3M7cT04NTt3PTMxMA--/http://media.zenfs.com/en_us/News/afp.com/000_Was58146.jpg"
+     }
+    ],
+    "person": [
+     {
+      "org": "Geekquinox"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "248",
+      "height": "162",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwT3YI9brbWoZsx7t575fL3fMW1feEehJIXuioUfimo4-yrF0wI4a60HA"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "Montreal shaken up by small earthquake but eastern half of the continent much more stable",
+      "og:description": "An earthquake ranked with an initial magnitude of 4.5 shook the Montreal area just after midnight, causing some alarm.??The quake lasted for only about 10 seconds, and was centered east of Montreal, about 9 kms north-northwest of Mont-Saint-Hilaire, along the ??? Continue reading ???",
+      "og:image": "http://l2.yimg.com/bt/api/res/1.2/VBUCqIPZosVzSQYrDeQV8w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtweG9mZj01MDtweW9mZj0w/http%3A//media.zenfs.com/en_us/News/afp.com/000_Was58146.jpg.cf.png",
+      "fb:app_id": "194699337231859",
+      "og:site_name": "Yahoo! News Canada",
+      "og:url": "http://ca.news.yahoo.com/blogs/geekquinox/montreal-shaken-small-earthquake-eastern-half-continent-much-185307985.html",
+      "application-name": "Yahoo! News Canada",
+      "msapplication-tooltip": "Yahoo! News Canada",
+      "msapplication-navbutton-color": "purple",
+      "msapplication-starturl": "/"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Scott Sutherland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Le Tremblement de terre de Montr??al du 16 Septembre 1732",
+   "htmlTitle": "Le Tremblement de terre de Montr??al du \u003cb\u003e16 Septembre 1732\u003c/b\u003e",
+   "link": "http://www.seismescanada.rncan.gc.ca/histor/15-19th-eme/1732-fra.php",
+   "displayLink": "www.seismescanada.rncan.gc.ca",
+   "snippet": "Le Tremblement de terre de Montr??al du 16 Septembre 1732 ... \"Damage   associated with three early Eastern North American earthquakes\", 6e Conf??rence ...",
+   "htmlSnippet": "Le Tremblement de terre de Montr??al du \u003cb\u003e16 Septembre 1732\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e &quot;Damage \u003cbr\u003e  associated with three early Eastern \u003cb\u003eNorth American earthquakes\u003c/b\u003e&quot;, 6e Conf??rence \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sQk-Tfqc43oJ",
+   "formattedUrl": "www.seismescanada.rncan.gc.ca/histor/15-19th-eme/1732-fra.php",
+   "htmlFormattedUrl": "www.seismescanada.rncan.gc.ca/histor/15-19th-eme/\u003cb\u003e1732\u003c/b\u003e-fra.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.description": "seismologie, tremblement de terre, Canada , geophysique, tectonique, seisme, montreal, 1732",
+      "dc.creator": "Maurice Lamontagne, Syliva Lehmann",
+      "dc.title": "Le Tremblement de terre de Montr??al du 16 Septembre 1732",
+      "dcterms.issued": "1999-03-01",
+      "dcterms.modified": "2011-03-17",
+      "dc.subject": "Le Tremblement de terre de Montr??al du 16 Septembre 1732",
+      "dc.language": "fra",
+      "dc.date.modified": "2011-03-17",
+      "dc.date.created": "1999-03-01",
+      "author": "Maurice Lamontagne, Syliva Lehmann",
+      "orgid": "42;916;8832;8831;9115"
+     }
+    ]
+   }
+  }
+ ]
+}

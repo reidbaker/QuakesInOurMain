@@ -1,6 +1,7 @@
 package edu.gatech.earthquakes.vises;
 
 import java.awt.Rectangle;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashSet;
@@ -27,6 +28,7 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
     private int textSize;
 
     private long minTime, maxTime;
+    private DecimalFormat df = new DecimalFormat("0.0");
 
     public DepthPlot(int x, int y, int w, int h, DataSet displayData) {
 	super(x, y, w, h, displayData, "Depth vs Time");
@@ -184,36 +186,46 @@ public class DepthPlot extends Multi implements Filterable, Interactable {
     }
 
     private void drawAxes(PApplet parent) {
-	int verticalOffset = h / 20;
-	int depthOffset = (int) (depthRange[1] - depthRange[0])
-	        / verticalOffset;
+       
+	//the size in pixels of a unit of depth 
+	float depthPixelOffset = (h-buffer*2)/(float)depthRange[1];
+	System.out.println(depthPixelOffset);
+	 //horizontal lines occur every 5 depth units
+        //int verticalOffset = (int)(depthPixelOffset*20);
+	
 	parent.stroke(0xaa);
 	parent.fill(0);
-	parent.textSize(verticalOffset / 3);
+	parent.textSize(depthPixelOffset*2.5f);
 	parent.textAlign(PApplet.CENTER);
-	for (int i = 0; i < h - buffer * 2; i += verticalOffset) {
-	    parent.line(x + buffer - 2, y + buffer + i, x + w - buffer, y
-		    + buffer + i);
-	    parent.pushMatrix();
-	    parent.translate(x + buffer / 2, y + buffer + i);
-	    parent.rotate(-PApplet.PI / 2);
-	    parent.text(i * depthOffset + "", 0, 0);
-	    parent.popMatrix();
+	
+	for(int i= 0;  i< depthRange[1]; i+= 5){
+	    parent.line(x + buffer - 2, y + buffer + i*depthPixelOffset, x + w - buffer, y + buffer + i*depthPixelOffset);
+            parent.pushMatrix();
+            parent.translate(x + 2*buffer / 3, y + buffer + i*depthPixelOffset);
+            parent.rotate(-PApplet.PI / 2);
+            parent.text(i+ "", 0, 0);
+            parent.popMatrix();
 	}
+	/*
+	for (int i = buffer; i < h - buffer; i += 10) {
+	    parent.line(x + buffer - 2, y + i, x + w - buffer, y+ i);
+	    parent.pushMatrix();
+	    parent.translate(x + buffer / 2, y + i);
+	    parent.rotate(-PApplet.PI / 2);
+	    parent.text(df.format(depthPixelOffset*(i-buffer))+ "", 0, 0);
+	    parent.popMatrix();
+	}*/
     }
 
     @Override
     public void filterBy(DataSet filteredData) {
 	this.displayData = filteredData;
-	// calculateRanges();
 	calculateDrawingValues();
 
     }
 
     public void resizeTo(Rectangle bounds) {
-	super.resizeTo(bounds);
-
-	// calculateRanges();
+	super.resizeTo(bounds);;
 	calculateDrawingValues();
     }
 
