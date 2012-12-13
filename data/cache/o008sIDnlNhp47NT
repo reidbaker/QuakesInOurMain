@@ -1,0 +1,332 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 13 1918 Asia Earthquake",
+    "totalResults": "65400",
+    "searchTerms": "Feb 13 1918 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 13 1918 Asia Earthquake",
+    "totalResults": "65400",
+    "searchTerms": "Feb 13 1918 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.281702,
+  "formattedSearchTime": "0.28",
+  "totalResults": "65400",
+  "formattedTotalResults": "65,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "6 days ago ... Severe damage at Talca and Constitucion. The earthquake was felt from   Copiapo to Puerto Montt. Uplift was observed along the coast at Putu.",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e Severe damage at Talca and Constitucion. The \u003cb\u003eearthquake\u003c/b\u003e was felt from \u003cbr\u003e  Copiapo to Puerto Montt. Uplift was observed along the coast at Putu.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../13/template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e13\u003c/b\u003e/template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive January and ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive January and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/31/worldwide-earthquake-related-news-archive-january-and-february-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 14, 2012 ... Philippines / Negros Oriental ??? Cebu M 6.7 earthquake / February 6 ... Dead ??? 34   : 13-Guihulngan; 7-Jimalalud; 3-Tayasan; 1-Bindoy; 2-Manjuyod ... faces a very   real threat from a tsunami though the last one occurred in 1918. ..... earthquakes   in European and Asian / Middle East sphere (4 and up) and a lot ...",
+   "htmlSnippet": "Apr 14, 2012 \u003cb\u003e...\u003c/b\u003e Philippines / Negros Oriental ??? Cebu M 6.7 \u003cb\u003eearthquake\u003c/b\u003e / \u003cb\u003eFebruary\u003c/b\u003e 6 \u003cb\u003e...\u003c/b\u003e Dead ??? 34 \u003cbr\u003e  : \u003cb\u003e13\u003c/b\u003e-Guihulngan; 7-Jimalalud; 3-Tayasan; 1-Bindoy; 2-Manjuyod \u003cb\u003e...\u003c/b\u003e faces a very \u003cbr\u003e  real threat from a tsunami though the last one occurred in \u003cb\u003e1918\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a lot \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "I5hH1EcNcK0J",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- january-and-february-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- january-and-\u003cb\u003efebruary\u003c/b\u003e-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Global Earthquake Trends 1900 - 2010 | ModernFolktales.com",
+   "htmlTitle": "Global \u003cb\u003eEarthquake\u003c/b\u003e Trends 1900 - 2010 | ModernFolktales.com",
+   "link": "http://modernfolktales.com/natural-disasters/global-earthquake-trends-1900-2010/",
+   "displayLink": "modernfolktales.com",
+   "snippet": "Jan 14, 2010 ... 2/13/1918, 2/13/1918, China P Rep, E. Asia, Kwangtung (Guangdong),   Earthquake (seismic activity), Earthquake (ground shaking), 10000 ...",
+   "htmlSnippet": "Jan 14, 2010 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e2/13/1918\u003c/b\u003e, \u003cb\u003e2/13/1918\u003c/b\u003e, China P Rep, E. \u003cb\u003eAsia\u003c/b\u003e, Kwangtung (Guangdong), \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e (seismic activity), \u003cb\u003eEarthquake\u003c/b\u003e (ground shaking), 10000 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "77gyyUJepN4J",
+   "formattedUrl": "modernfolktales.com/natural.../global-earthquake-trends-1900-2010/",
+   "htmlFormattedUrl": "modernfolktales.com/natural.../global-\u003cb\u003eearthquake\u003c/b\u003e-trends-1900-2010/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://modernfolktales.com/wp-content/uploads/2010/01/1900-2010_html_18f6eab7.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "210",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GbyxfFjb_XqtsPV6ipHiBBPHfUXZCssgzR-2jvJl_B5eqG28FPZ8l20"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "Global Earthquake Trends 1900 ??? 2010",
+      "og:url": "http://modernfolktales.com/natural-disasters/global-earthquake-trends-1900-2010/",
+      "og:description": "Killer Earthquakes and Other Problems Beneath the SurfaceDeadliest Earthquakes 1900 to 2009The Haitian ExampleUnstable GroundWorst Earthquakes and Earthquake-Caused Tsunamis 1900 to 2010The Rising ...",
+      "og:site_name": "ModernFolktales.com",
+      "og:image": "http://modernfolktales.com/wp-content/uploads/2010/01/1900-2010_html_18f6eab7.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake near Lorca and Murcia, Spain",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e near Lorca and Murcia, Spain",
+   "link": "http://earthquake-report.com/2011/05/13/moderate-earthquake-near-lorca-and-murcia-spain/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 1, 2011 ... UPDATE 13:11 UTC : After every earthquake, the press is a little overacting about   aftershocks. .... In 1940, 1918, 1909 were also labeled as deadly earthquakes. ...   a magnitude of 5.2 and occurred on February 2, 1999 close to Murcia. .....   earthquakes in European and Asian / Middle East sphere (4 and up) ...",
+   "htmlSnippet": "Jul 1, 2011 \u003cb\u003e...\u003c/b\u003e UPDATE \u003cb\u003e13\u003c/b\u003e:11 UTC : After every \u003cb\u003eearthquake\u003c/b\u003e, the press is a little overacting about \u003cbr\u003e  aftershocks. \u003cb\u003e....\u003c/b\u003e In 1940, \u003cb\u003e1918\u003c/b\u003e, 1909 were also labeled as deadly \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  a magnitude of 5.2 and occurred on \u003cb\u003eFebruary\u003c/b\u003e 2, 1999 close to Murcia. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nbeVsqBqJ6sJ",
+   "formattedUrl": "earthquake-report.com/.../13/moderate-earthquake-near-lorca-and-murcia- spain/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e13\u003c/b\u003e/moderate-\u003cb\u003eearthquake\u003c/b\u003e-near-lorca-and-murcia- spain/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/lorca-filipe.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "325",
+      "height": "155",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8k-AXdy9qHTay7tKzeg-VxsyT1vK3tb7uplg8hl3tLALBIWNtLZpVRMDN"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Fatman",
+      "nickname": "Fatman"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Tracy",
+      "nickname": "Tracy"
+     },
+     {
+      "fn": "Fatman",
+      "nickname": "Fatman"
+     },
+     {
+      "fn": "Eveline Sullivan"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Amanda Akrigg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1 DISASTER RISK ASSESSMENT OF THE CHINA/TAIWAN CROSS ...",
+   "htmlTitle": "1 DISASTER RISK ASSESSMENT OF THE CHINA/TAIWAN CROSS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.tsunamisociety.org/CrossStraits.pdf",
+   "displayLink": "www.tsunamisociety.org",
+   "snippet": "Asia by as much as 1,200 kms, regions north of the Himalayas moved laterally to   the east and .... 3.1.3 The Earthquake and Tsunami of February 13, 1918 ...",
+   "htmlSnippet": "\u003cb\u003eAsia\u003c/b\u003e by as much as 1,200 kms, regions north of the Himalayas moved laterally to \u003cbr\u003e  the east and \u003cb\u003e....\u003c/b\u003e 3.1.3 The \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami of \u003cb\u003eFebruary 13, 1918\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "n5WRQY8VrpQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.tsunamisociety.org/CrossStraits.pdf",
+   "htmlFormattedUrl": "www.tsunamisociety.org/CrossStraits.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "George Carayannis",
+      "creator": "Word",
+      "creationdate": "D:20090625110517-04'00'",
+      "moddate": "D:20090625110517-04'00'",
+      "producer": "Mac OS X 10.4.11 Quartz PDFContext",
+      "title": "Microsoft Word - RISK ASSESSMENT OF TSUNAMI HAZARDS ALONG THE EAST COAST OF CHINA.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chinese Earthquakes Since 1900 with 1,000 or More Deaths",
+   "htmlTitle": "Chinese \u003cb\u003eEarthquakes\u003c/b\u003e Since 1900 with 1,000 or More Deaths",
+   "link": "http://mceer.buffalo.edu/infoservice/reference_services/chinese_earthquake_table.pdf",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Feb 13 1918. City: Nan' ... this earthquake were observed in 2 lakes and 3 fjords   in western Norway. Although ... Silk Road connecting China with Central Asia.",
+   "htmlSnippet": "\u003cb\u003eFeb 13 1918\u003c/b\u003e. City: Nan&#39; \u003cb\u003e...\u003c/b\u003e this \u003cb\u003eearthquake\u003c/b\u003e were observed in 2 lakes and 3 fjords \u003cbr\u003e  in western Norway. Although \u003cb\u003e...\u003c/b\u003e Silk Road connecting China with Central \u003cb\u003eAsia\u003c/b\u003e.",
+   "cacheId": "aC-e7AVsxioJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "mceer.buffalo.edu/infoservice/reference.../chinese_earthquake_table.pdf",
+   "htmlFormattedUrl": "mceer.buffalo.edu/infoservice/reference.../chinese_\u003cb\u003eearthquake\u003c/b\u003e_table.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20090127160445-05'00'",
+      "author": "Dave",
+      "creator": "Acrobat PDFMaker 8.1 for Word",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)",
+      "moddate": "D:20090127160449-05'00'",
+      "company": "University at Buffalo",
+      "sourcemodified": "D:20090127210432"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "INCONSISTENCIES IN HISTORICAL RECORDS OF TSUNAMIS ON ...",
+   "htmlTitle": "INCONSISTENCIES IN HISTORICAL RECORDS OF TSUNAMIS ON \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://math.usm.my/scstw3/downloads/ppt/Annie.pdf",
+   "displayLink": "math.usm.my",
+   "snippet": "Zhou & Adams 1986. 1918-2-13. 4. Yang 1987 (Iida 1984, Zhou & Adams 1986).   1918-2-13. Guangdong, Fujian. Region-wide earthquakes were reported.",
+   "htmlSnippet": "Zhou &amp; Adams 1986. \u003cb\u003e1918-2-13\u003c/b\u003e. 4. Yang 1987 (Iida 1984, Zhou &amp; Adams 1986). \u003cbr\u003e  \u003cb\u003e1918-2-13\u003c/b\u003e. Guangdong, Fujian. Region-wide \u003cb\u003eearthquakes\u003c/b\u003e were reported.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "math.usm.my/scstw3/downloads/ppt/Annie.pdf",
+   "htmlFormattedUrl": "math.usm.my/scstw3/downloads/ppt/Annie.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20091107145221+08'00'",
+      "author": "Annie Lau",
+      "creator": "Acrobat PDFMaker 7.0.5 for PowerPoint",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20091107145236+08'00'",
+      "company": "HKU",
+      "title": "Slide 1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHINA earthquakes | World Earthquakes Live",
+   "htmlTitle": "CHINA \u003cb\u003eearthquakes\u003c/b\u003e | World \u003cb\u003eEarthquakes\u003c/b\u003e Live",
+   "link": "http://www.world-earthquakes.com/index.php?option=hist&zone=CHINA",
+   "displayLink": "www.world-earthquakes.com",
+   "snippet": "The collision zone Asia, earthquakes in Asia The secret of ... Earthquake history   in CHINA for M6.5+ earthquakes: ... 1918-02-13, CHINA, 7.3 (estimative), 1918 ...",
+   "htmlSnippet": "The collision zone \u003cb\u003eAsia\u003c/b\u003e, \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAsia\u003c/b\u003e The secret of \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e history \u003cbr\u003e  in CHINA for M6.5+ \u003cb\u003eearthquakes\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1918-02-13\u003c/b\u003e, CHINA, 7.3 (estimative), 1918 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FiBFv5xYBzEJ",
+   "formattedUrl": "www.world-earthquakes.com/index.php?option=hist&zone...",
+   "htmlFormattedUrl": "www.world-\u003cb\u003eearthquakes\u003c/b\u003e.com/index.php?option=hist&amp;zone...",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "World-Earthquakes.com",
+      "copyright": "Copyright (c)2009 World-Earthquakes.com",
+      "rating": "general"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Hazard Analysis of the Hong Kong Region",
+   "htmlTitle": "Seismic Hazard Analysis of the Hong Kong Region",
+   "link": "http://www.iiees.ac.ir/iiees/English/Publication/jsee/Jsee5_2.pdf",
+   "displayLink": "www.iiees.ac.ir",
+   "snippet": "earthquake were to occur in the region, the socio-economic impact could ... by   infrequent large earthquakes in intraplate areas had occurred in .... M 7.3 event,   Nan'ao, February 13, 1918 ..... ings in Hong Kong???, Asia Engineer, 22(3), 25-28.   16.",
+   "htmlSnippet": "\u003cb\u003eearthquake\u003c/b\u003e were to occur in the region, the socio-economic impact could \u003cb\u003e...\u003c/b\u003e by \u003cbr\u003e  infrequent large \u003cb\u003eearthquakes\u003c/b\u003e in intraplate areas had occurred in \u003cb\u003e....\u003c/b\u003e M 7.3 event, \u003cbr\u003e  Nan&#39;ao, \u003cb\u003eFebruary 13, 1918\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e ings in Hong Kong???, \u003cb\u003eAsia\u003c/b\u003e Engineer, 22(3), 25-28. \u003cbr\u003e  16.",
+   "cacheId": "qONIlK3-YKsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iiees.ac.ir/iiees/English/Publication/jsee/Jsee5_2.pdf",
+   "htmlFormattedUrl": "www.iiees.ac.ir/iiees/English/Publication/jsee/Jsee5_2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:191010414145410",
+      "producer": "Acrobat Distiller 3.01 for Windows",
+      "title": "Lee-1",
+      "creator": "Adobe PageMaker 6.0",
+      "author": "ccn"
+     }
+    ]
+   }
+  }
+ ]
+}

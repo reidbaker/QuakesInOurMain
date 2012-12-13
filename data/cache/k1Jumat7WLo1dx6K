@@ -1,0 +1,319 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 14 1903 Australia Earthquake",
+    "totalResults": "30100",
+    "searchTerms": "Jul 14 1903 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 14 1903 Australia Earthquake",
+    "totalResults": "30100",
+    "searchTerms": "Jul 14 1903 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.405907,
+  "formattedSearchTime": "0.41",
+  "totalResults": "30100",
+  "formattedTotalResults": "30,100"
+ },
+ "spelling": {
+  "correctedQuery": "July 14 1903 Australia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 14 1903 Australia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake in the greater Melbourne area, Australia",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e in the greater Melbourne area, \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/19/strong-earthquake-in-the-greater-melbourne-area-australia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 21, 2012 ... Earthquake overview : Strong earthquake near Melbourne, Australia ... This was   recorded as the largest quake in Victoria since the 1903 ..... like they were bout to   snap :/ I am 14 and that was way to scary and by bloody god ...",
+   "htmlSnippet": "Jun 21, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : Strong \u003cb\u003eearthquake\u003c/b\u003e near Melbourne, \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e This was \u003cbr\u003e  recorded as the largest \u003cb\u003equake\u003c/b\u003e in Victoria since the \u003cb\u003e1903\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e like they were bout to \u003cbr\u003e  snap :/ I am \u003cb\u003e14\u003c/b\u003e and that was way to scary and by bloody god \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HhIXsW-HgNIJ",
+   "formattedUrl": "earthquake-report.com/.../strong-earthquake-in-the-greater-melbourne-area- australia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../strong-\u003cb\u003eearthquake\u003c/b\u003e-in-the-greater-melbourne-area- \u003cb\u003eaustralia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/06/541087.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo19JnftJE4AfP4wr-zBSahET5M8jZRmdBiyuMtd60ixCwoL_CJAS6K2b0"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "dj flexij (dj jordan)"
+     },
+     {
+      "fn": "Ruth Friend"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   Unless otherwise stated, this list uses the Richter magnitude scale, as most ...",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  Unless otherwise stated, this list uses the Richter magnitude scale, as most \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive earthquake Kermadec Islands",
+   "htmlTitle": "Massive \u003cb\u003eearthquake\u003c/b\u003e Kermadec Islands",
+   "link": "http://earthquake-report.com/2011/07/06/massive-earthquake-in-the-open-sea-far-away-from-populated-areas/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 21, 2011 ... Earthquake summary : A massive M 7.6 earthquake struck in the open sea in ....   PARAMETERS ORIGIN TIME - 1903Z 06 JUL 2011 COORDINATES - 29.4 ... of   the Pacific plate westward with respect to the interior of the Australia plate ....   fatalities and 231 people injured - clean-up work has started (Nov. 14) ...",
+   "htmlSnippet": "Oct 21, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e summary : A massive M 7.6 \u003cb\u003eearthquake\u003c/b\u003e struck in the open sea in \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  PARAMETERS ORIGIN TIME - \u003cb\u003e1903Z\u003c/b\u003e 06 \u003cb\u003eJUL\u003c/b\u003e 2011 COORDINATES - 29.4 \u003cb\u003e...\u003c/b\u003e of \u003cbr\u003e  the Pacific plate westward with respect to the interior of the \u003cb\u003eAustralia\u003c/b\u003e plate \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  fatalities and 231 people injured - clean-up work has started (Nov. \u003cb\u003e14\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TiVJEpcS2dgJ",
+   "formattedUrl": "earthquake-report.com/.../massive-earthquake-in-the-open-sea-far-away-from -populated-areas/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-\u003cb\u003eearthquake\u003c/b\u003e-in-the-open-sea-far-away-from -populated-areas/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://tsunami.jrc.it/model/swan/Reports/2466/outres1.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbeUOkFLxA8osUbo3zVvqG5gtsZm1FIHnNEuxJNbTSTAE_-sFs-aR4NXQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e",
+   "link": "http://www.ayton.id.au/gary/Science/Geol_earthquakes.htm",
+   "displayLink": "www.ayton.id.au",
+   "snippet": "junction of the Indo-Australian Plate & the Pacific Plate - Alpine Fault NZ; junction   .... April 7 & July 14, 1903, Bass Strait, extending from Portland to Ballarat and ...",
+   "htmlSnippet": "junction of the Indo-\u003cb\u003eAustralian\u003c/b\u003e Plate &amp; the Pacific Plate - Alpine Fault NZ; junction \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e April 7 &amp; \u003cb\u003eJuly 14, 1903\u003c/b\u003e, Bass Strait, extending from Portland to Ballarat and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wfeMwnAq1vcJ",
+   "formattedUrl": "www.ayton.id.au/gary/Science/Geol_earthquakes.htm",
+   "htmlFormattedUrl": "www.ayton.id.au/gary/Science/Geol_\u003cb\u003eearthquakes\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ayton.id.au/gary/Science/_derived/Geol_volcanoes.htm_cmp_balance-dark-yellow-headings000_hbtn.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "51",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNll55B8pfrpRBy5sHKdczyNI_Uq6PbpoGi6RlCeojLdfrSM5fqzGg"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "balance-dark-yellow-headings 1000, default"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... Earthquake overview : An 8.6 magnitude earthquake occurred 500 km out of the   coast of Sumatra. .... Mw8.0 ??? January 4, 1903 ??? Tonga ... in between the Indian   Plate, the Australian plate and the Burma plate. ..... Chennai, India - Felt again for   the second time; Bangalore - At about 14:20 and 16:30.",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : An 8.6 magnitude \u003cb\u003eearthquake\u003c/b\u003e occurred 500 km out of the \u003cbr\u003e  coast of Sumatra. \u003cb\u003e....\u003c/b\u003e Mw8.0 ??? January 4, \u003cb\u003e1903\u003c/b\u003e ??? Tonga \u003cb\u003e...\u003c/b\u003e in between the Indian \u003cbr\u003e  Plate, the \u003cb\u003eAustralian\u003c/b\u003e plate and the Burma plate. \u003cb\u003e.....\u003c/b\u003e Chennai, India - Felt again for \u003cbr\u003e  the second time; Bangalore - At about \u003cb\u003e14\u003c/b\u003e:20 and 16:30.",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major Australian Earthquakes",
+   "htmlTitle": "Major \u003cb\u003eAustralian Earthquakes\u003c/b\u003e",
+   "link": "http://www.photoshopaustralia.com/major-australian-earthquakes.htm",
+   "displayLink": "www.photoshopaustralia.com",
+   "snippet": "A timeline of major Australian earthquakes. ... Warrnambool, Victoria, 14/07/1903,   5.3, Extensive minor damage in Warrnambool. Indian Ocean, Western ...",
+   "htmlSnippet": "A timeline of major \u003cb\u003eAustralian earthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Warrnambool, Victoria, \u003cb\u003e14/07/1903\u003c/b\u003e, \u003cbr\u003e  5.3, Extensive minor damage in Warrnambool. Indian Ocean, Western \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sEa4634BxBwJ",
+   "formattedUrl": "www.photoshopaustralia.com/major-australian-earthquakes.htm",
+   "htmlFormattedUrl": "www.photoshop\u003cb\u003eaustralia\u003c/b\u003e.com/major-\u003cb\u003eaustralian\u003c/b\u003e-\u003cb\u003eearthquakes\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Victoria.pdf",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Victoria.pdf",
+   "link": "http://www.ses.vic.gov.au/prepare/prepare-resources/earthquakes-in-victoria",
+   "displayLink": "www.ses.vic.gov.au",
+   "snippet": "Earthquakes can and do happen in Victoria. Earthquakes in Victoria occur due to   the build up of stress in rocks along ... 14 July 1903, Warrnambool. 5.0. 10 April   1904 ... For the latest version of this publication visit w w w .ses.vic.go v.au. V ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e can and do happen in Victoria. \u003cb\u003eEarthquakes\u003c/b\u003e in Victoria occur due to \u003cbr\u003e  the build up of stress in rocks along \u003cb\u003e...\u003c/b\u003e \u003cb\u003e14 July 1903\u003c/b\u003e, Warrnambool. 5.0. 10 April \u003cbr\u003e  1904 \u003cb\u003e...\u003c/b\u003e For the latest version of this publication visit w w w .ses.vic.go v.\u003cb\u003eau\u003c/b\u003e. V \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NXQ1GPZxz1AJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ses.vic.gov.au/prepare/prepare-resources/earthquakes-in-victoria",
+   "htmlFormattedUrl": "www.ses.vic.gov.au/prepare/prepare-resources/\u003cb\u003eearthquakes\u003c/b\u003e-in-victoria",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20121023174450+11'00'",
+      "creator": "Adobe InDesign CS4 (6.0)",
+      "moddate": "D:20121023174451+11'00'",
+      "producer": "Adobe PDF Library 9.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Australian Earthquake News",
+   "htmlTitle": "\u003cb\u003eAustralian Earthquake\u003c/b\u003e News",
+   "link": "http://www.esands.com/Earthquakes.html",
+   "displayLink": "www.esands.com",
+   "snippet": "Have you felt an earthquake in eastern Australia? If so, it was ... 2012 July 31,   South of Yarram, VIC ML 2.9 (Map) .... (Saturday, January 14, 07:46am AEDT) ...",
+   "htmlSnippet": "Have you felt an \u003cb\u003eearthquake\u003c/b\u003e in eastern \u003cb\u003eAustralia\u003c/b\u003e? If so, it was \u003cb\u003e...\u003c/b\u003e 2012 \u003cb\u003eJuly\u003c/b\u003e 31, \u003cbr\u003e  South of Yarram, VIC ML 2.9 (Map) \u003cb\u003e....\u003c/b\u003e (Saturday, January \u003cb\u003e14\u003c/b\u003e, 07:46am AEDT) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HfqMWvlx4QwJ",
+   "formattedUrl": "www.esands.com/Earthquakes.html",
+   "htmlFormattedUrl": "www.esands.com/\u003cb\u003eEarthquakes\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.esands.com/images/EQ_NEWS_700x250.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "376",
+      "height": "134",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQstT98CdH6GVq4e_ntv_YwV8IAmgo1c2oc1enG_s9W4yR5NI1uCLW5_8G-"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes in Victoria",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e in Victoria",
+   "link": "http://www.aees.org.au/Articles/McCue_Vic_Earthquakes.pdf",
+   "displayLink": "www.aees.org.au",
+   "snippet": "Abstract Several hundred earthquakes felt in Australia have been ... (  Warrnambool Portland Guardian, 20 July 1903) is: that the earthquake originated   a short distance ... newspaper of Wednesday 14 March 1900 page 8, reports: On   Monday ...",
+   "htmlSnippet": "Abstract Several hundred \u003cb\u003eearthquakes\u003c/b\u003e felt in \u003cb\u003eAustralia\u003c/b\u003e have been \u003cb\u003e...\u003c/b\u003e (\u003cbr\u003e  Warrnambool Portland Guardian, 20 \u003cb\u003eJuly 1903\u003c/b\u003e) is: that the \u003cb\u003eearthquake\u003c/b\u003e originated \u003cbr\u003e  a short distance \u003cb\u003e...\u003c/b\u003e newspaper of Wednesday \u003cb\u003e14\u003c/b\u003e March 1900 page 8, reports: On \u003cbr\u003e  Monday \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2OEy-r8HztsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.aees.org.au/Articles/McCue_Vic_Earthquakes.pdf",
+   "htmlFormattedUrl": "www.aees.org.au/Articles/McCue_Vic_\u003cb\u003eEarthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "K F McCue",
+      "creationdate": "D:20120527105352Z",
+      "creator": "Microsoft Word",
+      "moddate": "D:20120528092854+10'00'",
+      "producer": "Mac OS X 10.6.8 Quartz PDFContext",
+      "title": "Historical earthquakes in Victoria"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Volcanoes & Earthquakes in south-eastern Australia",
+   "htmlTitle": "Volcanoes &amp; \u003cb\u003eEarthquakes\u003c/b\u003e in south-eastern \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.seismicity.see.uwa.edu.au/welcome/seismicity_in_australia/volcanoes_and_earthquakes_in_southeastern_australia",
+   "displayLink": "www.seismicity.see.uwa.edu.au",
+   "snippet": "Dec 2, 2004 ... The Meckering Western Australia earthquake of October 1968 ... Volcanoes &   Earthquakes in SE Australia ... 14 Jul 1903, -38.43, 142.53. 5.3 ...",
+   "htmlSnippet": "Dec 2, 2004 \u003cb\u003e...\u003c/b\u003e The Meckering Western \u003cb\u003eAustralia earthquake\u003c/b\u003e of October 1968 \u003cb\u003e...\u003c/b\u003e Volcanoes &amp; \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e in SE \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003e14 Jul 1903\u003c/b\u003e, -38.43, 142.53. 5.3 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FU7cDL52HdYJ",
+   "formattedUrl": "www.seismicity.see.uwa.edu.au/.../seismicity...australia/volcanoes_and_ earthquakes_in_southeastern_australia",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.see.uwa.edu.au/.../\u003cb\u003eseismic\u003c/b\u003eity...\u003cb\u003eaustralia\u003c/b\u003e/volcanoes_and_ \u003cb\u003eearthquakes\u003c/b\u003e_in_southeastern_\u003cb\u003eaustralia\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=54752"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "264",
+      "height": "191",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROq2jEZ0lsfZGHEtmHsJ4BmqEwV7-B-pzBNOCeYSYYPUTAe6X_-eZTvfhS"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Volcanoes & Earthquakes in south-eastern Australia",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/58763",
+      "dc.date.modified": "2004-12-02",
+      "dc.date.created": "2004-10-09",
+      "dc.date.valid": "2005-12-02",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/58763",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  }
+ ]
+}

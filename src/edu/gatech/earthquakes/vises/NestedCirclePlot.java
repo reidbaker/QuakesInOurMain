@@ -25,9 +25,8 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
     private int offset = 15;
     private TreeSet<TypeCount> totals;
     private int numTotalQuakes;
-    
-    //for keeping track of how to lay out the country squares
-    private int numRows, numCols;
+
+    // for keeping track of how to lay out the country squares
     private int maxCountryWidth;
 
     public NestedCirclePlot(int x, int y, int w, int h, DataSet displayData,
@@ -54,73 +53,74 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
     }
 
     public void drawComponent(PApplet parent) {
-        super.drawComponent(parent);
+	super.drawComponent(parent);
 
-        
-        float maxCircleRadius = getCircleRadius(maxVal);
-        float drawY = y + h - buffer-maxCountryWidth;
-        float drawX = x+buffer;
-        
-        boolean right = false;
-        parent.noStroke();
+	float maxCircleRadius = getCircleRadius(maxVal);
+	float drawY = y + h - buffer - maxCountryWidth;
+	float drawX = x + buffer;
 
-        parent.textSize(offset * 3 / 4);
-        parent.textAlign(PApplet.CENTER);
+	parent.noStroke();
 
-        for (String country : computedValues.keySet()) {            
-            drawCountry(parent, country, drawX, drawY);
-            
-            drawX += maxCountryWidth+offset;
-            
-            if(drawX > x+w-buffer-maxCountryWidth){
-                drawX = x+buffer;
-                drawY -= maxCountryWidth+offset;
-            }
-          
-        }
-        //draw the outline of the percentage square
-        parent.noFill();
-        parent.noStroke();
-        parent.rect(drawX, drawY - maxCircleRadius * 2, maxCircleRadius * 2, maxCircleRadius * 2);
-        drawY += maxCountryWidth;
-        //draw the total percentages (upper right corner square)
-        for (TypeCount t : totals) {
-            int color = Theme.changeSaturation(
-                    DataRow.getColorFor(t.getType()), .5f, true);
-            parent.fill(color);
-            float heightPercent = t.getCount() / (float) numTotalQuakes;
-            parent.rect(drawX, drawY - heightPercent
-                    * maxCircleRadius * 2, maxCircleRadius * 2, heightPercent
-                    * maxCircleRadius * 2);
-            drawY -= heightPercent * maxCircleRadius * 2;
-        }
-      
+	parent.textSize(offset * 3 / 4);
+	parent.textAlign(PApplet.CENTER);
+
+	for (String country : computedValues.keySet()) {
+	    drawCountry(parent, country, drawX, drawY);
+
+	    drawX += maxCountryWidth + offset;
+
+	    if (drawX > x + w - buffer - maxCountryWidth) {
+		drawX = x + buffer;
+		drawY -= maxCountryWidth + offset;
+	    }
+
+	}
+	// draw the outline of the percentage square
+	parent.noFill();
+	parent.noStroke();
+	parent.rect(drawX, drawY - maxCircleRadius * 2, maxCircleRadius * 2,
+	        maxCircleRadius * 2);
+	drawY += maxCountryWidth;
+	// draw the total percentages (upper right corner square)
+	for (TypeCount t : totals) {
+	    int color = Theme.changeSaturation(
+		    DataRow.getColorFor(t.getType()), .5f, true);
+	    parent.fill(color);
+	    float heightPercent = t.getCount() / (float) numTotalQuakes;
+	    parent.rect(drawX, drawY - heightPercent * maxCircleRadius * 2,
+		    maxCircleRadius * 2, heightPercent * maxCircleRadius * 2);
+	    drawY -= heightPercent * maxCircleRadius * 2;
+	}
 
     }
-    
-    private void drawCountry(PApplet parent, String country, float xPos, float yPos){
-        float maxCircleRadius = getCircleRadius(maxVal);
-        
-        //draw the colored square for the country and write the country name
-        parent.noStroke();
-        parent.fill(DataRow.getColorFor(country));
-        parent.rect(xPos,yPos, maxCircleRadius * 2,maxCircleRadius * 2);
-        parent.fill(0);
-        parent.text(country,xPos + maxCircleRadius, yPos+maxCircleRadius*2 + offset*3/4);
-        
-        parent.strokeWeight(1);
-        //draw the circles for the country
-        for (TypeCount t : computedValues.get(country)) {
 
-            parent.fill(Theme.changeSaturation(
-                    DataRow.getColorFor(t.getType()), .5f, true));
+    private void drawCountry(PApplet parent, String country, float xPos,
+	    float yPos) {
+	float maxCircleRadius = getCircleRadius(maxVal);
 
-            parent.stroke(0xff555555);
+	// draw the colored square for the country and write the country name
+	parent.noStroke();
+	parent.fill(DataRow.getColorFor(country));
+	parent.rect(xPos, yPos, maxCircleRadius * 2, maxCircleRadius * 2);
+	parent.fill(0);
+	parent.text(country, xPos + maxCircleRadius, yPos + maxCircleRadius * 2
+	        + offset * 3 / 4);
 
-            float radius = getCircleRadius(t.getCount());
-            parent.ellipse(xPos + maxCircleRadius, yPos+maxCircleRadius*2 - radius, radius * 2, radius * 2);
-        }
+	parent.strokeWeight(1);
+	// draw the circles for the country
+	for (TypeCount t : computedValues.get(country)) {
+
+	    parent.fill(Theme.changeSaturation(
+		    DataRow.getColorFor(t.getType()), .5f, true));
+
+	    parent.stroke(0xff555555);
+
+	    float radius = getCircleRadius(t.getCount());
+	    parent.ellipse(xPos + maxCircleRadius, yPos + maxCircleRadius * 2
+		    - radius, radius * 2, radius * 2);
+	}
     }
+
     /**
      * Calculates the radius of the circle based on the number of earthquakes
      * that circle represents
@@ -129,9 +129,7 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
      * @return
      */
     private float getCircleRadius(double count) {
-
-        double maxArea = Math.PI * Math.pow(maxCountryWidth / 2, 2);
-
+	double maxArea = Math.PI * Math.pow(maxCountryWidth / 2, 2);
 
 	float area = (float) (maxArea * count / maxVal);
 	return (float) (Math.sqrt(area / Math.PI));
@@ -147,24 +145,24 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
     }
 
     private void calculateTotals() {
-        HashMap<String, Integer> counts = new HashMap<String, Integer>();
+	HashMap<String, Integer> counts = new HashMap<String, Integer>();
 
-        for (Set<TypeCount> countryData : computedValues.values()) {
-            for (TypeCount t : countryData) {
-                if (counts.containsKey(t.getType())) {
+	for (Set<TypeCount> countryData : computedValues.values()) {
+	    for (TypeCount t : countryData) {
+		if (counts.containsKey(t.getType())) {
 
-                    int count = counts.get(t.getType());
-                    counts.put(t.getType(), t.getCount() + count);
-                } else
-                    counts.put(t.getType(), t.getCount());
-            }
-        }
+		    int count = counts.get(t.getType());
+		    counts.put(t.getType(), t.getCount() + count);
+		} else
+		    counts.put(t.getType(), t.getCount());
+	    }
+	}
 
-        totals = new TreeSet<TypeCount>();
-        
-        for (String type : counts.keySet()) {
-            totals.add(new TypeCount(type, counts.get(type)));
-        }
+	totals = new TreeSet<TypeCount>();
+
+	for (String type : counts.keySet()) {
+	    totals.add(new TypeCount(type, counts.get(type)));
+	}
     }
 
     private void computeNominalData() {
@@ -220,18 +218,22 @@ public class NestedCirclePlot extends Aggregate implements Filterable {
 	this.displayData = filteredData;
 	computeNominalData();
     }
-    
-    public void resizeTo(Rectangle bounds){
-        super.resizeTo(bounds);
-        
-        //this is an absolutely terrible way to do this, but for the purposes of the demo tomorrow, this is 
-        //how we are doing it for now.
-        maxCountryWidth = Math.max(Math.max(Math.min((w-buffer*2)/4 - offset, (h-buffer*2)/2 - offset),
-                Math.min((h-buffer*2)/4 - offset, (w-buffer*2)/2 - offset) ),
-                Math.min((w-buffer*2)/3 - offset, (h-buffer*2)/3 - offset));
-        
-        System.out.println((float)w/h);
-        
+
+    public void resizeTo(Rectangle bounds) {
+	super.resizeTo(bounds);
+
+	// this is an absolutely terrible way to do this, but for the purposes
+	// of the demo tomorrow, this is
+	// how we are doing it for now.
+	maxCountryWidth = Math.max(Math.max(
+	        Math.min((w - buffer * 2) / 4 - offset, (h - buffer * 2) / 2
+	                - offset),
+	        Math.min((h - buffer * 2) / 4 - offset, (w - buffer * 2) / 2
+	                - offset)), Math.min((w - buffer * 2) / 3 - offset,
+	        (h - buffer * 2) / 3 - offset));
+
+	System.out.println((float) w / h);
+
     }
 
     private class TypeCount implements Comparable<TypeCount> {

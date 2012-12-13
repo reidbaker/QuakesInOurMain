@@ -1,0 +1,289 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 2 1980 India Earthquake",
+    "totalResults": "594000",
+    "searchTerms": "Sep 2 1980 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 2 1980 India Earthquake",
+    "totalResults": "594000",
+    "searchTerms": "Sep 2 1980 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.366595,
+  "formattedSearchTime": "0.37",
+  "totalResults": "594000",
+  "formattedTotalResults": "594,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 2 1980 India Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 2 1980 India Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list September 18, 2012 ??? Minor ...",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eSeptember\u003c/b\u003e 18, 2012 ??? Minor \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/09/17/complete-earthquakes-list-september-18-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Sep 19, 2012 ... (Complete) Earthquakes list September 18, 2012 ??? Minor earthquake in Sikkim,   India, one year after devastating earthquake. Last update: ...",
+   "htmlSnippet": "Sep 19, 2012 \u003cb\u003e...\u003c/b\u003e (Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eSeptember\u003c/b\u003e 18, 2012 ??? Minor \u003cb\u003eearthquake\u003c/b\u003e in Sikkim, \u003cbr\u003e  \u003cb\u003eIndia\u003c/b\u003e, one year after devastating \u003cb\u003eearthquake\u003c/b\u003e. Last update: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eyqKpGqy0ggJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-september-18-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eseptember\u003c/b\u003e-18-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Koynanagar - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Koynanagar - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Koynanagar",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Koynanagar is a town near the Koyna Hydroelectric Project in the Indian state of   ... 1 Pre 1967; 2 1967; 3 1980s; 4 1990s; 5 2000s; 6 2010s; 7 References ... On   September 13, a strong 6.0 earthquake was felt throughout Maharashtra, with ...",
+   "htmlSnippet": "Koynanagar is a town near the Koyna Hydroelectric Project in the \u003cb\u003eIndian\u003c/b\u003e state of \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 1 Pre 1967; \u003cb\u003e2\u003c/b\u003e 1967; 3 \u003cb\u003e1980s\u003c/b\u003e; 4 1990s; 5 2000s; 6 2010s; 7 References \u003cb\u003e...\u003c/b\u003e On \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 13, a strong 6.0 \u003cb\u003eearthquake\u003c/b\u003e was felt throughout Maharashtra, with \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b1ijNjKba2gJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Koynanagar",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Koynanagar"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list October 2, 2012 ??? Earthquakes in the ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list October \u003cb\u003e2\u003c/b\u003e, 2012 ??? \u003cb\u003eEarthquakes\u003c/b\u003e in the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/10/01/major-earthquakes-list-october-2-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "(Major) Earthquakes list October 2, 2012 ??? Earthquakes in the Philippines,   Southern California and India. Last update: October 3, 2012 at 8:02 am by By   Ashish ...",
+   "htmlSnippet": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list October \u003cb\u003e2\u003c/b\u003e, 2012 ??? \u003cb\u003eEarthquakes\u003c/b\u003e in the Philippines, \u003cbr\u003e  Southern California and \u003cb\u003eIndia\u003c/b\u003e. Last update: October 3, 2012 at 8:02 am by By \u003cbr\u003e  Ashish \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4_m88Lp-dNcJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-october-2-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-october-\u003cb\u003e2\u003c/b\u003e-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/10/Screen-Shot-2012-10-02-at-09.00.17.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4p5fpVPZQ5YWRL8OetF3oymUzwR_EIUDM1WTxmST2lcsf2SASw4Zk4PYY"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "koochi",
+      "nickname": "koochi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A natural disaster might be caused by earthquakes, flooding, volcanic eruption, ...   2 Lists of natural disasters by cause ... September, October, 1887 .... Declared   eradicated May 8, 1980. 2. ..... 1,500, 2003 Southern India heat wave, India, 2003 ...",
+   "htmlSnippet": "A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, volcanic eruption, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e2\u003c/b\u003e Lists of natural disasters by cause \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e, October, 1887 \u003cb\u003e....\u003c/b\u003e Declared \u003cbr\u003e  eradicated May 8, \u003cb\u003e1980\u003c/b\u003e. \u003cb\u003e2\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e 1,500, 2003 Southern \u003cb\u003eIndia\u003c/b\u003e heat wave, \u003cb\u003eIndia\u003c/b\u003e, 2003 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "\u003cb\u003e2\u003c/b\u003e Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... The epicenter of the earthquake is located about 100 km to the west of the   subduction fault line in the Oceanic part of the Indian plate and not in ...",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e The epicenter of the \u003cb\u003eearthquake\u003c/b\u003e is located about 100 km to the west of the \u003cbr\u003e  subduction fault line in the Oceanic part of the \u003cb\u003eIndian\u003c/b\u003e plate and not in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 2 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember 2\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_2",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 2 is the 245th day of the year (246th in leap years) in the Gregorian   calendar. ... 1946 ??? The Interim Government of India is formed with Jawaharlal   Nehru as Vice ... 1992 ??? An earthquake in Nicaragua kills at least 116 people. ....   1980 ??? Hiroki Yoshimoto, Japanese race car driver; 1981 ??? Fariborz Kamkari, ...",
+   "htmlSnippet": "\u003cb\u003eSeptember 2\u003c/b\u003e is the 245th day of the year (246th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e 1946 ??? The Interim Government of \u003cb\u003eIndia\u003c/b\u003e is formed with Jawaharlal \u003cbr\u003e  Nehru as Vice \u003cb\u003e...\u003c/b\u003e 1992 ??? An \u003cb\u003eearthquake\u003c/b\u003e in Nicaragua kills at least 116 people. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1980\u003c/b\u003e ??? Hiroki Yoshimoto, Japanese race car driver; 1981 ??? Fariborz Kamkari, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Jnn8_HtOR5kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_2",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e2\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : Chile ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : Chile \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "6 days ago ... India, 1945 - Magnitude : 8.0 ??? 4000 people killed 4,000 persons reported killed.   One of the world's deadliest earthquakes. Severe damage at ...",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e \u003cb\u003eIndia\u003c/b\u003e, 1945 - Magnitude : 8.0 ??? 4000 people killed 4,000 persons reported killed. \u003cbr\u003e  One of the world&#39;s deadliest \u003cb\u003eearthquakes\u003c/b\u003e. Severe damage at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A NEW ZONE OF SEISMIC ACTIVITY AT KOYNA, INDIA",
+   "htmlTitle": "A NEW ZONE OF \u003cb\u003eSEISMIC\u003c/b\u003e ACTIVITY AT KOYNA, \u003cb\u003eINDIA\u003c/b\u003e",
+   "link": "http://www.researchgate.net/publication/216562844_A_NEW_ZONE_OF_SEISMIC_ACTIVITY_AT_KOYNA_INDIA/file/d960886c13991bb6baad96ad87acbe14.pdf",
+   "displayLink": "www.researchgate.net",
+   "snippet": "M???5 earthquakes are chronologically arranged: 1 (13th Sep ... 10 (29th Oct   1968), 11 (17th Oct 1973), 12 (2nd Sep 1980), 13 (20th Sep 1980), 14 (8th Dec ...",
+   "htmlSnippet": "M???5 \u003cb\u003eearthquakes\u003c/b\u003e are chronologically arranged: 1 (13th Sep \u003cb\u003e...\u003c/b\u003e 10 (29th Oct \u003cbr\u003e  1968), 11 (17th Oct 1973), 12 (\u003cb\u003e2nd Sep 1980\u003c/b\u003e), 13 (20th Sep 1980), 14 (8th Dec \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_xd4UvEOd4sJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.researchgate.net/...INDIA/.../d960886c13991bb6baad96ad87acbe14. pdf",
+   "htmlFormattedUrl": "www.researchgate.net/...\u003cb\u003eINDIA\u003c/b\u003e/.../d960886c13991bb6baad96ad87acbe14. pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 8.50",
+      "creationdate": "D:4-14-2007, 7:38:02+05'30'",
+      "moddate": "D:4-14-2007, 7:38:02+05'30'",
+      "title": "nmay2k7.p65",
+      "creator": "PDFCreator Version 0.9.0",
+      "author": "Krishan"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "India Quake Likely the Fault of 2 Seismic Events ...",
+   "htmlTitle": "\u003cb\u003eIndia Quake\u003c/b\u003e Likely the Fault of \u003cb\u003e2\u003c/b\u003e Seismic Events \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ouramazingplanet.com/1836-india-earthquake-explained.html",
+   "displayLink": "www.ouramazingplanet.com",
+   "snippet": "Quake struck near where the Eurasia and India plates butt heads. ...   OurAmazingPlanet Staff - Sep 19, 2011 01:40 PM ET ... The largest of these was   a magnitude 6.1 earthquake in November 1980, 47 miles (75 km) to the   southeast of the ...",
+   "htmlSnippet": "\u003cb\u003eQuake\u003c/b\u003e struck near where the Eurasia and \u003cb\u003eIndia\u003c/b\u003e plates butt heads. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  OurAmazingPlanet Staff - \u003cb\u003eSep\u003c/b\u003e 19, 2011 01:40 PM ET \u003cb\u003e...\u003c/b\u003e The largest of these was \u003cbr\u003e  a magnitude 6.1 \u003cb\u003eearthquake\u003c/b\u003e in November \u003cb\u003e1980\u003c/b\u003e, 47 miles (75 km) to the \u003cbr\u003e  southeast of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "E4gGF1wBYxMJ",
+   "formattedUrl": "www.ouramazingplanet.com/1836-india-earthquake-explained.html",
+   "htmlFormattedUrl": "www.ouramazingplanet.com/1836-\u003cb\u003eindia\u003c/b\u003e-\u003cb\u003eearthquake\u003c/b\u003e-explained.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ouramazingplanet.com/images/i/3165/i01/india-quake-110919.jpg?1320172433"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "130",
+      "height": "92",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMxsd5MCP4gvAkb5y7ht3LcIfaW-JtGK3Dqhdc4O71REiLbxzDZ3UZmw"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "India Quake Likely the Fault of 2 Seismic Events",
+      "og:url": "http://www.ouramazingplanet.com/1836-india-earthquake-explained.html",
+      "og:type": "article",
+      "og:site_name": "OurAmazingPlanet.com",
+      "og:description": "Quake struck near where the Eurasia and India plates butt heads.",
+      "og:image": "http://www.ouramazingplanet.com/images/i/3165/i01/india-quake-110919.jpg?1320172433"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": ":: ASC :: Seismicity of Maharashtra, India",
+   "htmlTitle": ":: ASC :: Seismicity of Maharashtra, \u003cb\u003eIndia\u003c/b\u003e",
+   "link": "http://asc-india.org/seismi/seis-maharashtra.htm",
+   "displayLink": "asc-india.org",
+   "snippet": "Sep 18, 2008 ... All the earthquakes here, as in all of peninsula India, are intraplate events. .... 02   September 1980 - Koyna area, Maharashtra, Mw 5.0 (13).",
+   "htmlSnippet": "Sep 18, 2008 \u003cb\u003e...\u003c/b\u003e All the \u003cb\u003eearthquakes\u003c/b\u003e here, as in all of peninsula \u003cb\u003eIndia\u003c/b\u003e, are intraplate events. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e02\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eSeptember 1980\u003c/b\u003e - Koyna area, Maharashtra, Mw 5.0 (13).",
+   "cacheId": "PXg09fzH4LkJ",
+   "formattedUrl": "asc-india.org/seismi/seis-maharashtra.htm",
+   "htmlFormattedUrl": "asc-\u003cb\u003eindia\u003c/b\u003e.org/seismi/seis-maharashtra.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://asc-india.org/maps/seismi/seis-maharashtra.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "184",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQt8caT6MeTYUCUhS1bAgxrYMyXtg-eBa-r2p6XDnyMBGYp2pwfjDWGAEU"
+     }
+    ]
+   }
+  }
+ ]
+}
