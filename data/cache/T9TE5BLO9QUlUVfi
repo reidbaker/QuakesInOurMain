@@ -1,0 +1,295 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 15 1965 Eurasia Earthquake",
+    "totalResults": "25500",
+    "searchTerms": "Feb 15 1965 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 15 1965 Eurasia Earthquake",
+    "totalResults": "25500",
+    "searchTerms": "Feb 15 1965 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.445672,
+  "formattedSearchTime": "0.45",
+  "totalResults": "25500",
+  "formattedTotalResults": "25,500"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Very strong dangerous earthquake along the coast of Honshu ...",
+   "htmlTitle": "Very strong dangerous \u003cb\u003eearthquake\u003c/b\u003e along the coast of Honshu \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/23/very-strong-dangerous-earthquake-along-the-coast-of-hokkaido-and-honshu-japan/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 24, 2012 ... Earthquake overview : A few minutes after midnight, a very strong earthquake hit   the channel zone in between Hokkaido and Honshu, Japan.",
+   "htmlSnippet": "May 24, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A few minutes after midnight, a very strong \u003cb\u003eearthquake\u003c/b\u003e hit \u003cbr\u003e  the channel zone in between Hokkaido and Honshu, Japan.",
+   "cacheId": "W0vBvEZjR4wJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-dangerous-earthquake-along-the-coast -of-hokkaido-and-honshu-japan/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-along-the-coast -of-hokkaido-and-honshu-japan/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/jp-23052012-4.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "138",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRVKRNH76ViAtUgzOpEghBOAmccuNN-Sf_bI44rKgLf1O8SNc1Zy6FTHKYi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes in china, including the tangshan earthquake",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e in china, including the tangshan \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://factsanddetails.com/china.php?itemid=396",
+   "displayLink": "factsanddetails.com",
+   "snippet": "Tangshan Earthquake in 1976 On average, China experiences 18 earthquake ...   the older heavier Indian crust wedges under Eurasia and thrust up the high ...   Alaska on February 4 1965 (8.7); 7) off Nias Island, Indonesia on March 28, 2005   ... 15, 1950 (8.6); 10) Kamchatka Peninsula in eastern Russia on February 3,   1923 ...",
+   "htmlSnippet": "Tangshan \u003cb\u003eEarthquake\u003c/b\u003e in 1976 On average, China experiences 18 \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  the older heavier Indian crust wedges under \u003cb\u003eEurasia\u003c/b\u003e and thrust up the high \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Alaska on \u003cb\u003eFebruary\u003c/b\u003e 4 \u003cb\u003e1965\u003c/b\u003e (8.7); 7) off Nias Island, Indonesia on March 28, 2005 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003e15\u003c/b\u003e, 1950 (8.6); 10) Kamchatka Peninsula in eastern Russia on \u003cb\u003eFebruary\u003c/b\u003e 3, \u003cbr\u003e  1923 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qsHmUIfuvOkJ",
+   "formattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "htmlFormattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20080317-tanshan1976%2032.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScOoH604SVx1lIDpfHg0Q0qhqY8sAjC9a4IM7umgB4cMHH8cygGk30fo9o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Moderate earthquake near Tangshan, China reminds the 1976 ...",
+   "htmlTitle": "Moderate \u003cb\u003eearthquake\u003c/b\u003e near Tangshan, China reminds the 1976 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/05/28/moderate-earthquake-near-tangshan-china-reminds-the-1976-disaster-also-felt-in-beijing-today/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 31, 2012 ... Update 15:35 UTC : The image to the right shows the earthquakes which have   been felt by people in the greater earthquake area during the ...",
+   "htmlSnippet": "May 31, 2012 \u003cb\u003e...\u003c/b\u003e Update \u003cb\u003e15\u003c/b\u003e:35 UTC : The image to the right shows the \u003cb\u003eearthquakes\u003c/b\u003e which have \u003cbr\u003e  been felt by people in the greater \u003cb\u003eearthquake\u003c/b\u003e area during the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P7WIm5zAJ-EJ",
+   "formattedUrl": "earthquake-report.com/.../moderate-earthquake-near-tangshan-china-reminds -the-1976-disaster-also-felt-in-beijing-today/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../moderate-\u003cb\u003eearthquake\u003c/b\u003e-near-tangshan-china-reminds -the-1976-disaster-also-felt-in-beijing-today/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/05/cn-28052012-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "198",
+      "height": "255",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSudtnFaHh2iFzDoAMutICniQYadV1TH-iL-XbqKxM-qFwzRU6pe1aQEYvA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The 10 Biggest Earthquakes in History",
+   "htmlTitle": "The 10 Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in History",
+   "link": "http://www.ouramazingplanet.com/1185-worlds-biggest-earthquakes-110412.html",
+   "displayLink": "www.ouramazingplanet.com",
+   "snippet": "Apr 12, 2011 ... Reply ￂﾷ 1 ￂﾷ Like ￂﾷ August 12 at 3:15pm. susan stevens (signed in using Hotmail).   Meg Francoeur : I was in the 1964 Good Friday quake in ...",
+   "htmlSnippet": "Apr 12, 2011 \u003cb\u003e...\u003c/b\u003e Reply ￂﾷ 1 ￂﾷ Like ￂﾷ August 12 at 3:\u003cb\u003e15pm\u003c/b\u003e. susan stevens (signed in using Hotmail). \u003cbr\u003e  Meg Francoeur : I was in the 1964 Good Friday \u003cb\u003equake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rrL8FZRMkI8J",
+   "formattedUrl": "www.ouramazingplanet.com/1185-worlds-biggest-earthquakes-110412.html",
+   "htmlFormattedUrl": "www.ouramazingplanet.com/1185-worlds-biggest-\u003cb\u003eearthquakes\u003c/b\u003e-110412.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ouramazingplanet.com/images/i/2195/i01/earthquakes-world-map-110412-02.jpg?1320170765"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "130",
+      "height": "92",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDtngf4-12cUFkmXcmjISC0dX7c31un_JCx8i7wu6I8jwZRaZgdBmKnA"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "The 10 Biggest Earthquakes in History",
+      "og:url": "http://www.ouramazingplanet.com/1185-worlds-biggest-earthquakes-110412.html",
+      "og:type": "article",
+      "og:site_name": "OurAmazingPlanet.com",
+      "og:description": "See where Japan's recent quake ranks.",
+      "og:image": "http://www.ouramazingplanet.com/images/i/2195/i01/earthquakes-world-map-110412-02.jpg?1320170765"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "What is the biggest earthquake that has ever happened? ... Around 15% of the   total seismic energy is released where the Eurasian and African ... 1905, 26,   1935, 24, 1965, 22 .... 1 Feb 1915, Conisbrough, \u003c 3, 1, Conisbrough, Falling   rock ...",
+   "htmlSnippet": "What is the biggest \u003cb\u003eearthquake\u003c/b\u003e that has ever happened? \u003cb\u003e...\u003c/b\u003e Around \u003cb\u003e15\u003c/b\u003e% of the \u003cbr\u003e  total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and African \u003cb\u003e...\u003c/b\u003e 1905, 26, \u003cbr\u003e  1935, 24, \u003cb\u003e1965\u003c/b\u003e, 22 \u003cb\u003e....\u003c/b\u003e 1 \u003cb\u003eFeb\u003c/b\u003e 1915, Conisbrough, &lt; 3, 1, Conisbrough, Falling \u003cbr\u003e  rock \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "NOTES AND CORRESPONDENCE The 15 April 1909 Taipei ...",
+   "htmlTitle": "NOTES AND CORRESPONDENCE The \u003cb\u003e15\u003c/b\u003e April 1909 Taipei \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.earth.sinica.edu.tw/papers/1490.pdf",
+   "displayLink": "www.earth.sinica.edu.tw",
+   "snippet": "the earthquakes determined by others will also be described. Key words: ...   tween the Philippine Sea plate and the Eurasian plate (Tsai et al. 1977 ... 22, No.   1, 91-96, February 2011 ..... Duda, S. J., 1965: Secular seismic energy release in   the ...",
+   "htmlSnippet": "the \u003cb\u003eearthquakes\u003c/b\u003e determined by others will also be described. Key words: \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  tween the Philippine Sea plate and the \u003cb\u003eEurasian\u003c/b\u003e plate (Tsai et al. 1977 \u003cb\u003e...\u003c/b\u003e 22, No. \u003cbr\u003e  1, 91-96, \u003cb\u003eFebruary\u003c/b\u003e 2011 \u003cb\u003e.....\u003c/b\u003e Duda, S. J., \u003cb\u003e1965\u003c/b\u003e: Secular \u003cb\u003eseismic\u003c/b\u003e energy release in \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fYZQbaqKD6kJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.sinica.edu.tw/papers/1490.pdf",
+   "htmlFormattedUrl": "www.earth.sinica.edu.tw/papers/1490.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110125111224+08'00'",
+      "creator": "Adobe InDesign CS3 (5.0.4)",
+      "producer": "Adobe PDF Library 8.0",
+      "moddate": "D:20110125111225+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CHARACTERIZATION OF SEISMIC SOURCE AND PATH IN ...",
+   "htmlTitle": "CHARACTERIZATION OF \u003cb\u003eSEISMIC\u003c/b\u003e SOURCE AND PATH IN \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA305476",
+   "displayLink": "www.dtic.mil",
+   "snippet": "Eurasia Using Digital Seismograms from Borovoye .... 312 15,16,17. KSVM ..... is   around 5 (February 4, 1965, obscured at many teleseismic stations by a ...",
+   "htmlSnippet": "\u003cb\u003eEurasia\u003c/b\u003e Using Digital Seismograms from Borovoye \u003cb\u003e....\u003c/b\u003e 312 \u003cb\u003e15\u003c/b\u003e,16,17. KSVM \u003cb\u003e.....\u003c/b\u003e is \u003cbr\u003e  around 5 (\u003cb\u003eFebruary\u003c/b\u003e 4, \u003cb\u003e1965\u003c/b\u003e, obscured at many teleseismic stations by a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KOK0j1kpR-4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA305476",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA305476",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:191030116154542",
+      "title": "/tardir/mig/a305476.tiff",
+      "creator": "LuraDocument PDF Compressor Server 5.7.66.46 (original: tif_convert_2_ps())",
+      "producer": "Recoded by LuraDocument PDF v2.46",
+      "moddate": "D:20111001121727-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "About 90% of the world's earthquakes and 81% of the world's largest   earthquakes ... More recently, an 8.8-magnitude earthquake struck central Chile   on February 27, 2010 .... [15] There are hot springs at some volcanoes while 10   volcanoes in British .... The most recent period of activity lasted from 1965 to 1977  , and was ...",
+   "htmlSnippet": "About 90% of the world&#39;s \u003cb\u003eearthquakes\u003c/b\u003e and 81% of the world&#39;s largest \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e More recently, an 8.8-magnitude \u003cb\u003eearthquake\u003c/b\u003e struck central Chile \u003cbr\u003e  on \u003cb\u003eFebruary\u003c/b\u003e 27, 2010 \u003cb\u003e....\u003c/b\u003e [\u003cb\u003e15\u003c/b\u003e] There are hot springs at some volcanoes while 10 \u003cbr\u003e  volcanoes in British \u003cb\u003e....\u003c/b\u003e The most recent period of activity lasted from \u003cb\u003e1965\u003c/b\u003e to 1977\u003cbr\u003e  , and was \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tsTbckV5UlMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/350px-Plates_tect2_en.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNHFOl-Bk26-FaTF7pkl5JMdpOL7ZVVfIpGgqYQLH5fLGCa5kI2fQG4vBn"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity, Earthquakes and Structure Along the Alaska-Aleutian ...",
+   "htmlTitle": "Seismicity, \u003cb\u003eEarthquakes\u003c/b\u003e and Structure Along the Alaska-Aleutian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.unc.edu/~leesj/FETCH/GRAB/SEKS_Papers/GM01015CH12.pdf",
+   "displayLink": "www.unc.edu",
+   "snippet": "the Pacific plate as it collides with North America and Eurasia. Seismicity along   .... [2000] deployed a 15-station broadband seismic array in .... on November 15,   2006 in the central arc. ... (M8.7) occurred on February 4, 1965 in the Rat Islands ...",
+   "htmlSnippet": "the Pacific plate as it collides with North America and \u003cb\u003eEurasia\u003c/b\u003e. Seismicity along \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e [2000] deployed a \u003cb\u003e15\u003c/b\u003e-station broadband \u003cb\u003eseismic\u003c/b\u003e array in \u003cb\u003e....\u003c/b\u003e on November \u003cb\u003e15\u003c/b\u003e, \u003cbr\u003e  2006 in the central arc. \u003cb\u003e...\u003c/b\u003e (M8.7) occurred on \u003cb\u003eFebruary\u003c/b\u003e 4, \u003cb\u003e1965\u003c/b\u003e in the Rat Islands \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "x2NlYMKELY8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.unc.edu/~leesj/FETCH/GRAB/SEKS_Papers/GM01015CH12.pdf",
+   "htmlFormattedUrl": "www.unc.edu/~leesj/FETCH/GRAB/SEKS_Papers/GM01015CH12.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080123112801-05'00'",
+      "creator": "Adobe InDesign CS3 (5.0.1)",
+      "producer": "Adobe PDF Library 8.0",
+      "moddate": "D:20080123112818-05'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Regional stresses along the Eurasia-Africa plate boundary derived ...",
+   "htmlTitle": "Regional stresses along the \u003cb\u003eEurasia\u003c/b\u003e-Africa plate boundary derived \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/u0h166q721025040.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "Abstract--The focal mechanism solutions of 83 European earthquakes with M \u003e 6,   ... boundary between Eurasia and Africa from the Azores islands to the ..... 1965-  03-09 ..... (Received November 15, 1990, revised/accepted February 25, 1991)",
+   "htmlSnippet": "Abstract--The focal mechanism solutions of 83 European \u003cb\u003eearthquakes\u003c/b\u003e with M &gt; 6, \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e boundary between \u003cb\u003eEurasia\u003c/b\u003e and Africa from the Azores islands to the \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1965\u003c/b\u003e-\u003cbr\u003e  03-09 \u003cb\u003e.....\u003c/b\u003e (Received November \u003cb\u003e15\u003c/b\u003e, 1990, revised/accepted \u003cb\u003eFebruary\u003c/b\u003e 25, 1991)",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "915141007.TIF",
+      "creationdate": "Mon Nov 29 11:50:47 2004",
+      "title": "Regional stresses along the Eurasia-Africa plate boundary derived from focal mechanisms of large earthquakes",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20041209041100+08'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

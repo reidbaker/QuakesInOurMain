@@ -1,0 +1,305 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 20 1997 Africa Earthquake",
+    "totalResults": "168000",
+    "searchTerms": "Mar 20 1997 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 20 1997 Africa Earthquake",
+    "totalResults": "168000",
+    "searchTerms": "Mar 20 1997 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.252229,
+  "formattedSearchTime": "0.25",
+  "totalResults": "168000",
+  "formattedTotalResults": "168,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1997",
+   "htmlTitle": "\u003cb\u003e1997\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, and   ... 4.5, SOUTH AFRICA, Oct 20 1997, 19:20:41, -26.337, 27.416, 199710201920   .... 4.6, SOUTH AFRICA, Mar 20 1997, 07:44:59, -26.807, 26.358 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 4.5, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Oct 20 1997, 19:20:41, -26.337, 27.416, 199710201920 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 4.6, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eMar 20 1997\u003c/b\u003e, 07:44:59, -26.807, 26.358 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HMUJ7bMGrqcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1997\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Earthquakes to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4   .... Strong extremely shallow earthquake in Iran kills at least 6 people, 20 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 - 4 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Strong extremely shallow \u003cb\u003eearthquake\u003c/b\u003e in Iran kills at least 6 people, \u003cb\u003e20\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "March 20 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "March \u003cb\u003e20\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/March_20",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "March 20 is the 79th day of the year (80th in leap years) in the Gregorian   calendar. ... 1861 ￢ﾀﾓ An earthquake completely destroys Mendoza, Argentina. ....   1997); 1915 ￢ﾀﾓ Sister Rosetta Tharpe, American singer (d. .... 1985 ￢ﾀﾓ Matt Taven,   American professional wrestler; 1986 ￢ﾀﾓ Dean Geyer, South African singer and   actor; 1986 ...",
+   "htmlSnippet": "March \u003cb\u003e20\u003c/b\u003e is the 79th day of the year (80th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e 1861 ￢ﾀﾓ An \u003cb\u003eearthquake\u003c/b\u003e completely destroys Mendoza, Argentina. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1997\u003c/b\u003e); 1915 ￢ﾀﾓ Sister Rosetta Tharpe, American singer (d. \u003cb\u003e....\u003c/b\u003e 1985 ￢ﾀﾓ Matt Taven, \u003cbr\u003e  American professional wrestler; 1986 ￢ﾀﾓ Dean Geyer, South \u003cb\u003eAfrican\u003c/b\u003e singer and \u003cbr\u003e  actor; 1986 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_MMLUE9UZ5sJ",
+   "formattedUrl": "en.wikipedia.org/wiki/March_20",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eMar\u003c/b\u003ech_\u003cb\u003e20\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on March 20 - What happened on my birthday ...",
+   "htmlTitle": "What happened on March \u003cb\u003e20\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/mar20.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "March 20, 1861 \"An earthquake completely destroys Mendoza, a city in western   ... March 20, 1920 The first flight from London to South Africa lands (1ￂﾽ months)   .... March 20, 1997 Tobacco company Liggett admits cigarettes are addictive ...",
+   "htmlSnippet": "March \u003cb\u003e20\u003c/b\u003e, 1861 &quot;An \u003cb\u003eearthquake\u003c/b\u003e completely destroys Mendoza, a city in western \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e March \u003cb\u003e20\u003c/b\u003e, 1920 The first flight from London to South \u003cb\u003eAfrica\u003c/b\u003e lands (1ￂﾽ months) \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e March \u003cb\u003e20\u003c/b\u003e, \u003cb\u003e1997\u003c/b\u003e Tobacco company Liggett admits cigarettes are addictive \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "K8pztkM9kWQJ",
+   "formattedUrl": "www.datesinhistory.com/mar20.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003emar20\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ground Truth Locations Using Synergy Between Remote Sensing",
+   "htmlTitle": "Ground Truth Locations Using Synergy Between Remote Sensing",
+   "link": "http://www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2005/PAPERS/02-18.pdf",
+   "displayLink": "www.ldeo.columbia.edu",
+   "snippet": "Feb 12, 2001 ... earthquakes (4.5\u003cMw\u003c8) occurring in China and North Africa using synergy .....   Two geo-coded interferograms for the March 20, 1997, Tunisia ...",
+   "htmlSnippet": "Feb 12, 2001 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e (4.5&lt;Mw&lt;8) occurring in China and North \u003cb\u003eAfrica\u003c/b\u003e using synergy \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Two geo-coded interferograms for the \u003cb\u003eMarch 20, 1997\u003c/b\u003e, Tunisia \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PEa03b49dAsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2005/.../02-18.pdf",
+   "htmlFormattedUrl": "www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2005/.../02-18.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050824165958-06'00'",
+      "author": "marvw",
+      "creator": "FrameMaker 7.0",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20050824170028-06'00'",
+      "title": "Ammon_ir37mf27o0s7-P.fm"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Kinematics of the East African Rift from GPS and Earthquake Slip ...",
+   "htmlTitle": "Kinematics of the East \u003cb\u003eAfrican\u003c/b\u003e Rift from GPS and \u003cb\u003eEarthquake\u003c/b\u003e Slip \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "displayLink": "web.ics.purdue.edu",
+   "snippet": "Although the East African rift system (EAR) is often cited as the archetype for .....   We use a 20ￂﾰ standard deviation for earthquake slip vector .... along the Western   rift and less than 5 Ma for the Eastern rift; Ebinger et al., 1997; Ebinger,. 1989 .....   Mar. Petrol. Geol., 17, 1131-1150. Kaz'min, V.G., Zonenshayn L.P., Savostin, L.A. ...",
+   "htmlSnippet": "Although the East \u003cb\u003eAfrican\u003c/b\u003e rift system (EAR) is often cited as the archetype for \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  We use a \u003cb\u003e20\u003c/b\u003eￂﾰ standard deviation for \u003cb\u003eearthquake\u003c/b\u003e slip vector \u003cb\u003e....\u003c/b\u003e along the Western \u003cbr\u003e  rift and less than 5 Ma for the Eastern rift; Ebinger et al., \u003cb\u003e1997\u003c/b\u003e; Ebinger,. 1989 \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eMar\u003c/b\u003e. Petrol. Geol., 17, 1131-1150. Kaz&#39;min, V.G., Zonenshayn L.P., Savostin, L.A. \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "l9mnsFHY0nAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "htmlFormattedUrl": "web.ics.purdue.edu/~ecalais/projects/ear/ear_revised.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060606100131-04'00'",
+      "creator": "Word",
+      "moddate": "D:20060606100131-04'00'",
+      "producer": "Mac OS X 10.3.9 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Ground Truth Locations Using Synergy Between Remote Sensing ...",
+   "htmlTitle": "Ground Truth Locations Using Synergy Between Remote Sensing \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2006/PAPERS/02-08.PDF",
+   "displayLink": "www.ldeo.columbia.edu",
+   "snippet": "small to moderate sized and shallow earthquakes in North Africa, Middle ... 1997/  11/08 (Mw 7.6) Manyi, Tibet earthquake. 5. ... 1997/03/20 Tunisian earthquake ...",
+   "htmlSnippet": "small to moderate sized and shallow \u003cb\u003eearthquakes\u003c/b\u003e in North \u003cb\u003eAfrica\u003c/b\u003e, Middle \u003cb\u003e...\u003c/b\u003e 1997/\u003cbr\u003e  11/08 (Mw 7.6) Manyi, Tibet \u003cb\u003eearthquake\u003c/b\u003e. 5. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1997/03/20\u003c/b\u003e Tunisian \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "rk4V6bwDHjQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2006/.../02-08.PDF",
+   "htmlFormattedUrl": "www.ldeo.columbia.edu/res/pi/Monitoring/Doc/Srr_2006/.../02-08.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060825151149-06'00'",
+      "author": "Ichinose",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20060825151302-06'00'",
+      "title": "Ground Truth Locations Using Synergy Between Remote Sensing and Seismic Methods: SSSC at IMS"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Democracy Now! | Shows featuring Jeremy Scahill",
+   "htmlTitle": "Democracy Now! | Shows featuring Jeremy Scahill",
+   "link": "http://www.democracynow.org/appearances/jeremy_scahill/3",
+   "displayLink": "www.democracynow.org",
+   "snippet": "March 20, 1997 | Story ... Seko of the Central African country of Zaire faces a   powerful insurgent army. ... Meter-High Tsunami Hits Japan After 7.3 Earthquake ...",
+   "htmlSnippet": "\u003cb\u003eMarch 20, 1997\u003c/b\u003e | Story \u003cb\u003e...\u003c/b\u003e Seko of the Central \u003cb\u003eAfrican\u003c/b\u003e country of Zaire faces a \u003cbr\u003e  powerful insurgent army. \u003cb\u003e...\u003c/b\u003e Meter-High Tsunami Hits Japan After 7.3 \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8g1ziZX-qM0J",
+   "formattedUrl": "www.democracynow.org/appearances/jeremy_scahill/3",
+   "htmlFormattedUrl": "www.democracynow.org/appearances/jeremy_scahill/3",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.democracynow.org/images/dn-logo-for-podcast.png"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://www.democracynow.org/images/dn-logo-for-podcast.png",
+      "og:site_name": "Democracy Now!"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Tsunamis",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Tsunamis",
+   "link": "http://na.unep.net/atlas/onePlanetManyPeople/images/chapters/Atlas_Chapter4_Screen.pdf",
+   "displayLink": "na.unep.net",
+   "snippet": "Northern Sumatra earthquake of December 26, 2004. Eastern .... 1997). The   resulting veil of pol- lution in the upper atmosphere can have long-term and ...   peaks. For most of the 20th century, the snow- covered ... 9 Mar 2005. 4 Oct 2004   ...... What makes drought in the Horn of Africa an issue of global interest is its   perennial ...",
+   "htmlSnippet": "Northern Sumatra \u003cb\u003eearthquake\u003c/b\u003e of December 26, 2004. Eastern \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1997\u003c/b\u003e). The \u003cbr\u003e  resulting veil of pol- lution in the upper atmosphere can have long-term and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  peaks. For most of the \u003cb\u003e20th\u003c/b\u003e century, the snow- covered \u003cb\u003e...\u003c/b\u003e 9 \u003cb\u003eMar\u003c/b\u003e 2005. 4 Oct 2004 \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e What makes drought in the Horn of \u003cb\u003eAfrica\u003c/b\u003e an issue of global interest is its \u003cbr\u003e  perennial \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "7kqCtp7ciUEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "na.unep.net/atlas/onePlanetManyPeople/images/.../Atlas_Chapter4_Screen.pdf",
+   "htmlFormattedUrl": "na.unep.net/atlas/onePlanetManyPeople/images/.../Atlas_Chapter4_Screen.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20051110115322-06'00'",
+      "creationdate": "D:20051108194159-06'00'",
+      "title": "untitled",
+      "producer": "Acrobat Distiller 6.0 for Macintosh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan News",
+   "htmlTitle": "Japan News",
+   "link": "http://topics.nytimes.com/top/news/international/countriesandterritories/japan/index.html",
+   "displayLink": "topics.nytimes.com",
+   "snippet": "Nov 26, 2012 ... In many ways, Japan is still reeling from the devastating earthquake and tsunami   of March 11, 2011, and the nuclear crisis and huge leaks of ...",
+   "htmlSnippet": "Nov 26, 2012 \u003cb\u003e...\u003c/b\u003e In many ways, Japan is still reeling from the devastating \u003cb\u003eearthquake\u003c/b\u003e and tsunami \u003cbr\u003e  of March 11, 2011, and the nuclear crisis and huge leaks of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AmbEferUf_IJ",
+   "formattedUrl": "topics.nytimes.com/top/news/international/.../japan/index.html",
+   "htmlFormattedUrl": "topics.nytimes.com/top/news/international/.../japan/index.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/03/12/timestopics/japan-topics/japan-topics-sfSpan.jpg",
+      "type": "1",
+      "width": "277",
+      "height": "182"
+     }
+    ],
+    "thumbnail": [
+     {
+      "src": "http://graphics8.nytimes.com/images/2012/03/12/timestopics/japan-topics/japan-topics-sfSpan.jpg",
+      "width": "395",
+      "height": "259"
+     }
+    ],
+    "metatags": [
+     {
+      "name": "Japan",
+      "node": "Top/News/World/Countries and Territories/Japan",
+      "path": "top/news/international/countriesandterritories/japan",
+      "dsk": "World",
+      "summary": "\u003cp\u003e\u003cspan class=timestamp\u003eUpdated: Nov. 26, 2012\u003c/span\u003e\u003c/p\u003e \u003cp\u003eIn many ways, Japan is still reeling from the devastating earthquake and tsunami of March 11, 2011, and the nuclear crisis and huge leaks of radiation it set off.\u003c/p\u003e \u003cp\u003eThe disaster led to soul searching in a nation already worn down by two lost decades of economic growth, a rapidly aging and shrinking population, and the rapid rise of its longtime rival, China.\u003c/p\u003e \u003cp\u003eYears of political paralysis continued after the disaster, with \u003ca href=http://topics.nytimes.com/top/reference/timestopics/people/k/naoto_kan/index.html?scp=1-spot&amp",
+      "k2id": "1124987358886",
+      "thumbnail": "http://graphics8.nytimes.com/images/2012/03/12/timestopics/japan-topics/japan-topics-sfSpan.jpg",
+      "thumbnail_height": "259",
+      "thumbnail_width": "395",
+      "pt": "Topic",
+      "cg": "World",
+      "gtn": "Japan",
+      "scg": "Destinations",
+      "pst": "Location"
+     }
+    ]
+   }
+  }
+ ]
+}

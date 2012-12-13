@@ -1,0 +1,331 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 5 1997 Australia Earthquake",
+    "totalResults": "156000",
+    "searchTerms": "Mar 5 1997 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 5 1997 Australia Earthquake",
+    "totalResults": "156000",
+    "searchTerms": "Mar 5 1997 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.344245,
+  "formattedSearchTime": "0.34",
+  "totalResults": "156000",
+  "formattedTotalResults": "156,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Quake Tracker 5+ This twitter account is tweeting all the earthquakes of   Magnitude 5 or more. The tweet includes a link to the earthquake-report.com   page ...",
+   "htmlSnippet": "\u003cb\u003eQuake\u003c/b\u003e Tracker \u003cb\u003e5\u003c/b\u003e+ This twitter account is tweeting all the \u003cb\u003eearthquakes\u003c/b\u003e of \u003cbr\u003e  Magnitude \u003cb\u003e5\u003c/b\u003e or more. The tweet includes a link to the \u003cb\u003eearthquake\u003c/b\u003e-report.com \u003cbr\u003e  page \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its ... 1 List of   earthquakes; 2 Other significant earthquakes; 3 See also; 4 References; 5 ...",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its \u003cb\u003e...\u003c/b\u003e 1 List of \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e; 2 Other significant \u003cb\u003eearthquakes\u003c/b\u003e; 3 See also; 4 References; \u003cb\u003e5\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "htmlTitle": "Patent US8016268 - Wind tower service lift - Google Patents",
+   "link": "http://www.google.com/patents/US8016268",
+   "displayLink": "www.google.com",
+   "snippet": "An apparatus used for maintaining a wind tower structure ...",
+   "htmlSnippet": "An apparatus used for maintaining a wind tower structure \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US8016268",
+   "htmlFormattedUrl": "www.google.com/patents/US8016268",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFuxQsQ8i2B1YU75xuiP_PYTHE9vkw3TLwxXXp_9pl8YefxoScrWbzOfY"
+     }
+    ],
+    "book": [
+     {
+      "description": "An apparatus used for maintaining a wind tower structure wherein the wind tower structure may have a plurality of legs and may be configured to support a wind turbine above the ground in a...",
+      "url": "http://www.google.com/patents/US8016268?utm_source=gb-gplus-share",
+      "name": "Patent US8016268 - Wind tower service lift",
+      "image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8016268",
+      "title": "Patent US8016268 - Wind tower service lift",
+      "og:title": "Patent US8016268 - Wind tower service lift",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=Eq7vAQAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Wednesday, March 5, 1997 (138)",
+   "htmlTitle": "\u003cb\u003eWednesday, March 5, 1997\u003c/b\u003e (138)",
+   "link": "http://www.parl.gc.ca/HousePublications/Publication.aspx?DocId=2332678&Language=E&Mode=1",
+   "displayLink": "www.parl.gc.ca",
+   "snippet": "Publications - March 5, 1997 (Previous - Next) ..... government to take the   necessary measures to help the victims of this earthquake. ... events are still   being held there; we see the same in Australia, where a race will be held on the   weekend.",
+   "htmlSnippet": "Publications - \u003cb\u003eMarch 5, 1997\u003c/b\u003e (Previous - Next) \u003cb\u003e.....\u003c/b\u003e government to take the \u003cbr\u003e  necessary measures to help the victims of this \u003cb\u003eearthquake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e events are still \u003cbr\u003e  being held there; we see the same in \u003cb\u003eAustralia\u003c/b\u003e, where a race will be held on the \u003cbr\u003e  weekend.",
+   "cacheId": "MFwdYqJZMzwJ",
+   "formattedUrl": "www.parl.gc.ca/HousePublications/Publication.aspx?DocId...",
+   "htmlFormattedUrl": "www.parl.gc.ca/HousePublications/Publication.aspx?DocId...",
+   "pagemap": {
+    "metatags": [
+     {
+      "documentcategory": "Debates",
+      "documentid": "2332678",
+      "institution": "House of Commons",
+      "language": "en",
+      "parliament": "35",
+      "session": "2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major Australian Earthquakes",
+   "htmlTitle": "Major \u003cb\u003eAustralian Earthquakes\u003c/b\u003e",
+   "link": "http://www.photoshopaustralia.com/major-australian-earthquakes.htm",
+   "displayLink": "www.photoshopaustralia.com",
+   "snippet": "A timeline of major Australian earthquakes. ... Burra, South Australia, 5/03/1997,   5, No major damage, Felt over a wide area. Collier Bay, Western Australia ...",
+   "htmlSnippet": "A timeline of major \u003cb\u003eAustralian earthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Burra, South \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003e5/03/1997\u003c/b\u003e, \u003cbr\u003e  5, No major damage, Felt over a wide area. Collier Bay, Western \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sEa4634BxBwJ",
+   "formattedUrl": "www.photoshopaustralia.com/major-australian-earthquakes.htm",
+   "htmlFormattedUrl": "www.photoshop\u003cb\u003eaustralia\u003c/b\u003e.com/major-\u003cb\u003eaustralian\u003c/b\u003e-\u003cb\u003eearthquakes\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "International Projects News",
+   "htmlTitle": "International Projects News",
+   "link": "http://www.uq.edu.au/news/index.html?search=&freetext=&category=22&year=&start=711",
+   "displayLink": "www.uq.edu.au",
+   "snippet": "28-Mar-1997 ... 10-Mar-1997 ... 05-Mar-1997 ... Solar Car update: University of   Queensland solar vehicle SunShark was the first Australian car across the line ...",
+   "htmlSnippet": "28-Mar-1997 \u003cb\u003e...\u003c/b\u003e 10-Mar-1997 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e05-Mar-1997\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Solar Car update: University of \u003cbr\u003e  Queensland solar vehicle SunShark was the first \u003cb\u003eAustralian\u003c/b\u003e car across the line \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wp99bfPKXxMJ",
+   "formattedUrl": "www.uq.edu.au/news/index.html?search=&freetext...22...",
+   "htmlFormattedUrl": "www.uq.edu.au/news/index.html?search=&amp;freetext...22...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.uq.edu.au/news/images/uqnews-logo.png"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "The University of Queensland News Online",
+      "copyright": "Copyright (c) The University of Queensland",
+      "og:image": "http://www.uq.edu.au/news/images/uqnews-logo.png"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "The University of Queensland"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - Recent West Australian earthquakes",
+   "htmlTitle": "Seismicity of Western \u003cb\u003eAustralia\u003c/b\u003e - Recent West \u003cb\u003eAustralian earthquakes\u003c/b\u003e",
+   "link": "http://www.seismicity.segs.uwa.edu.au/seismicity_of_western_australia/last_years_eqs",
+   "displayLink": "www.seismicity.segs.uwa.edu.au",
+   "snippet": "Mar 11, 2011 ... 03/5/2008, 22:14, -31.168, 117.365, 3.7. Wyalkatchem - Felt .... MAP OF WEST   AUSTRALIAN EARTHQUAKES, 1997 - mar 2004. BLUE - 1997 ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e 03/\u003cb\u003e5\u003c/b\u003e/2008, 22:14, -31.168, 117.365, 3.7. Wyalkatchem - Felt \u003cb\u003e....\u003c/b\u003e MAP OF WEST \u003cbr\u003e  \u003cb\u003eAUSTRALIAN EARTHQUAKES\u003c/b\u003e, \u003cb\u003e1997\u003c/b\u003e - \u003cb\u003emar\u003c/b\u003e 2004. BLUE - \u003cb\u003e1997\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "t94WKFk9LscJ",
+   "formattedUrl": "www.seismicity.segs.uwa.edu.au/seismicity...australia/last_years_eqs",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.segs.uwa.edu.au/\u003cb\u003eseismic\u003c/b\u003eity...\u003cb\u003eaustralia\u003c/b\u003e/last_years_eqs",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=118789"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsyYfY0AXMqG09ahqBDxaOKIiym2-1pD96hRdMAz-2HVjzQpbGacoBKDM"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "Recent West Australian earthquakes",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/37822",
+      "dc.date.modified": "2011-03-11",
+      "dc.date.created": "2003-12-16",
+      "dc.date.valid": "2012-03-11",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/37822",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "geopolitical corner",
+   "htmlTitle": "geopolitical corner",
+   "link": "http://www.ncgt.org/newsletter.php?action=download&id=10",
+   "displayLink": "www.ncgt.org",
+   "snippet": "Australia's fiscal year cycle (July to June of the following year), the next ....   anomalies appeared (June 1997) just north of earthquake positions possibly due   to prevailing long shore currents, about 7 months after the .... 23, March 5-6, 1997  .",
+   "htmlSnippet": "\u003cb\u003eAustralia&#39;s\u003c/b\u003e fiscal year cycle (July to June of the following year), the next \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  anomalies appeared (June 1997) just north of \u003cb\u003eearthquake\u003c/b\u003e positions possibly due \u003cbr\u003e  to prevailing long shore currents, about 7 months after the \u003cb\u003e....\u003c/b\u003e 23, \u003cb\u003eMarch 5\u003c/b\u003e-6, 1997\u003cbr\u003e  .",
+   "cacheId": "p5dHfQc5B_oJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ncgt.org/newsletter.php?action=download&id=10",
+   "htmlFormattedUrl": "www.ncgt.org/newsletter.php?action=download&amp;id=10",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060425104456+10'00'",
+      "author": "TAD JAMES CHOI",
+      "creator": "Acrobat PDFMaker 7.0.7 for Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20060724100627+10'00'",
+      "company": "Raax Australia Pty Ltd",
+      "sourcemodified": "D:20060425004352",
+      "title": "DEEP TECTONIC ZONES AND STRUCTURE OF THE EARTH￢ﾀﾙS INTERIOR REVEALED BY SEISMIC TOMOGRAPHY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Latest Earthquakes",
+   "htmlTitle": "Latest \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Get real-time earthquake notifications sent to you using a number of popular ...   East Coast earthquakes are felt over a much larger area than earthquakes ...",
+   "htmlSnippet": "Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of popular \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  East Coast \u003cb\u003eearthquakes\u003c/b\u003e are felt over a much larger area than \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B66hI8WgyEYJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jolts across desert as earthquake strikes central Australia",
+   "htmlTitle": "Jolts across desert as \u003cb\u003eearthquake\u003c/b\u003e strikes central \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.smh.com.au/national/jolts-across-desert-as-earthquake-strikes-central-australia-20120324-1vqfr.html",
+   "displayLink": "www.smh.com.au",
+   "snippet": "Mar 24, 2012 ... People living near the epicentre of Australia's biggest earthquake in 15 years   have reported being shaken, ... 6.3 was recorded off Collier Bay on Western   Australia's far north coast in 1997. ... Want $1 million in 5 or 10 years?",
+   "htmlSnippet": "Mar 24, 2012 \u003cb\u003e...\u003c/b\u003e People living near the epicentre of \u003cb\u003eAustralia&#39;s\u003c/b\u003e biggest \u003cb\u003eearthquake\u003c/b\u003e in 15 years \u003cbr\u003e  have reported being shaken, \u003cb\u003e...\u003c/b\u003e 6.3 was recorded off Collier Bay on Western \u003cbr\u003e  \u003cb\u003eAustralia&#39;s\u003c/b\u003e far north coast in \u003cb\u003e1997\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Want $1 million in \u003cb\u003e5\u003c/b\u003e or 10 years?",
+   "formattedUrl": "www.smh.com.au/.../jolts-across-desert-as-earthquake-strikes-central-australia -20120324-1vqfr.html",
+   "htmlFormattedUrl": "www.smh.com.au/.../jolts-across-desert-as-\u003cb\u003eearthquake\u003c/b\u003e-strikes-central-\u003cb\u003eaustralia\u003c/b\u003e -20120324-1vqfr.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.smh.com.au/2012/03/24/3160216/uluruthumb3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqGuKSGfqHvFJc8SSLdnffgKPp99offRio_Zb32OUmp8LbTfzKjZbaVsk"
+     }
+    ],
+    "metatags": [
+     {
+      "application-name": "The Sydney Morning Herald",
+      "msapplication-tooltip": "Open The Sydney Morning Herald",
+      "msapplication-starturl": "http://www.smh.com.au",
+      "msapplication-task": "name=National;action-uri=http://www.smh.com.au/national;icon-uri=http://www.smh.com.au/favicon.ico;",
+      "og:title": "Jolts across desert as earthquake strikes central Australia",
+      "og:description": "People living near the epicentre of Australia's biggest earthquake in 15 years have reported being shaken, but otherwise escaping unscathed.",
+      "og:site_name": "The Sydney Morning Herald",
+      "og:type": "article",
+      "og:url": "http://www.smh.com.au/national/jolts-across-desert-as-earthquake-strikes-central-australia-20120324-1vqfr.html",
+      "og:image": "http://images.smh.com.au/2012/03/24/3160216/uluruthumb3.jpg",
+      "fb:app_id": "263567390324418"
+     }
+    ]
+   }
+  }
+ ]
+}

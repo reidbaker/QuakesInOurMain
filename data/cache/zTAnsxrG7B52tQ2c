@@ -1,0 +1,281 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 23 1997 Eurasia Earthquake",
+    "totalResults": "32700",
+    "searchTerms": "May 23 1997 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 23 1997 Eurasia Earthquake",
+    "totalResults": "32700",
+    "searchTerms": "May 23 1997 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.227769,
+  "formattedSearchTime": "0.23",
+  "totalResults": "32700",
+  "formattedTotalResults": "32,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the August 11 2012, East Azerbaijan ￢ﾀﾓ Iran earthquake",
+   "htmlTitle": "Understanding the August 11 2012, East Azerbaijan ￢ﾀﾓ Iran \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/08/14/understanding-the-august-11-2012-east-azerbaijan-iran-earthquake/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 14, 2012 ... Earthquake overview : 2 consecutive M6+ earthquakes in a matter of 10 minutes   ... faulting in the shallow crust of the Eurasia plate, approximately 300 km east of   the ... their offset suggest they may be associated with an east-west striking   structure. ... The closest was a M 6.1 earthquake in February of 1997, ...",
+   "htmlSnippet": "Aug 14, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : 2 consecutive M6+ \u003cb\u003eearthquakes\u003c/b\u003e in a matter of 10 minutes \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e faulting in the shallow crust of the \u003cb\u003eEurasia\u003c/b\u003e plate, approximately 300 km east of \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e their offset suggest they \u003cb\u003emay\u003c/b\u003e be associated with an east-west striking \u003cbr\u003e  structure. \u003cb\u003e...\u003c/b\u003e The closest was a M 6.1 \u003cb\u003eearthquake\u003c/b\u003e in February of \u003cb\u003e1997\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1ty0Sc2oFYEJ",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-august-11-2012-east-azerbaijan- iran-earthquake/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-august-11-2012-east-azerbaijan- iran-\u003cb\u003eearthquake\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/08/irp-14082012-3.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "204",
+      "height": "165",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnP4SwDyZgJvTwSajL9IxY3ibLISlaVKmUrG65A-dE3jki3Tbm00UZ4uU"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Latest Earthquakes",
+   "htmlTitle": "Latest \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Get real-time earthquake notifications sent to you using a number of popular   mediums: ... and Eurasian Plates, as North America moves westward relative to   Eurasia. ... 2012 00:54:23 UTC; M 6.5, 163km SSW of Severo-Kuril'sk, Russia   Friday, ...",
+   "htmlSnippet": "Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of popular \u003cbr\u003e  mediums: \u003cb\u003e...\u003c/b\u003e and \u003cb\u003eEurasian\u003c/b\u003e Plates, as North America moves westward relative to \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 2012 00:54:\u003cb\u003e23\u003c/b\u003e UTC; M 6.5, 163km SSW of Severo-Kuril&#39;sk, Russia \u003cbr\u003e  Friday, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "B66hI8WgyEYJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ Archive September 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The most recent earthquake related news : Click here .... Italy, 1997 ￢ﾀﾓ Magnitude :   5.7 and 6.4 ... The North American and Eurasian plates are spreading apart   along the mid-Atlantic ridge. ... September 23, 2012 ... Further more, relieving   stress along one part of the fault may increase stress in another part.",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The most recent \u003cb\u003eearthquake\u003c/b\u003e related news : Click here \u003cb\u003e....\u003c/b\u003e Italy, \u003cb\u003e1997\u003c/b\u003e ￢ﾀﾓ Magnitude : \u003cbr\u003e  5.7 and 6.4 \u003cb\u003e...\u003c/b\u003e The North American and \u003cb\u003eEurasian\u003c/b\u003e plates are spreading apart \u003cbr\u003e  along the mid-Atlantic ridge. \u003cb\u003e...\u003c/b\u003e September \u003cb\u003e23\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e Further more, relieving \u003cbr\u003e  stress along one part of the fault \u003cb\u003emay\u003c/b\u003e increase stress in another part.",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- september-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M6.4 - 26km WSW of Ahar, Iran 2012-08-11 12:23:18 UTC",
+   "htmlTitle": "M6.4 - 26km WSW of Ahar, Iran 2012-08-11 12:\u003cb\u003e23\u003c/b\u003e:18 UTC",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000bupa",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Aug 11, 2012 ... M6.4 - 26km WSW of Ahar, Iran 2012-08-11 12:23:18 UTC ... Location and   Magnitude contributed by: USGS National Earthquake Information Center ....   However, if you do not provide contact information, we may be unable to ... as a   result of oblique strike-slip faulting in the shallow crust of the Eurasia plate, ...",
+   "htmlSnippet": "Aug 11, 2012 \u003cb\u003e...\u003c/b\u003e M6.4 - 26km WSW of Ahar, Iran 2012-08-11 12:\u003cb\u003e23\u003c/b\u003e:18 UTC \u003cb\u003e...\u003c/b\u003e Location and \u003cbr\u003e  Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information Center \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  However, if you do not provide contact information, we \u003cb\u003emay\u003c/b\u003e be unable to \u003cb\u003e...\u003c/b\u003e as a \u003cbr\u003e  result of oblique strike-slip faulting in the shallow crust of the \u003cb\u003eEurasia\u003c/b\u003e plate, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "dO2lzRnPh3UJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000bupa",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000bupa",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://comcat.cr.usgs.gov/template/images/usgs.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "142",
+      "height": "57",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT28HZHV9LVRjaZJSkpA0WNOzs3yNyxvJCBQ7EXr2dSHFCEVCJqgVgwHjs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The northern part of Greece lies on the Eurasian Plate while the southern part   lies .... Armijo, R., Lyon-Caen, H., and Papanastassiou, D., R.; Lyon-Caen, H.;   Papanastassiou, D. (May 9, 1991). ... \"Catalogue of Strong Earthquakes in Italy   461 B.C. - 1997and Mediterranean ... Journal of Structural Geology 23 (2￢ﾀﾓ3): 545  ￢ﾀﾓ562.",
+   "htmlSnippet": "The northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the southern part \u003cbr\u003e  lies \u003cb\u003e....\u003c/b\u003e Armijo, R., Lyon-Caen, H., and Papanastassiou, D., R.; Lyon-Caen, H.; \u003cbr\u003e  Papanastassiou, D. (\u003cb\u003eMay\u003c/b\u003e 9, 1991). \u003cb\u003e...\u003c/b\u003e &quot;Catalogue of Strong \u003cb\u003eEarthquakes\u003c/b\u003e in Italy \u003cbr\u003e  461 B.C. - \u003cb\u003e1997and\u003c/b\u003e Mediterranean \u003cb\u003e...\u003c/b\u003e Journal of Structural Geology \u003cb\u003e23\u003c/b\u003e (2￢ﾀﾓ3): 545\u003cbr\u003e  ￢ﾀﾓ562.",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic hazard of Northern Eurasia",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e hazard of Northern \u003cb\u003eEurasia\u003c/b\u003e",
+   "link": "http://www.earth-prints.org/bitstream/2122/1404/1/05%20ulomov.pdf",
+   "displayLink": "www.earth-prints.org",
+   "snippet": "a new General Seismic Zoning (GSZ) map of. Northern Eurasia (Ulomov. 1992).   The new map for the territory of former U.S.S.R. was com- pleted in 1997 ...",
+   "htmlSnippet": "a new General \u003cb\u003eSeismic\u003c/b\u003e Zoning (GSZ) map of. Northern \u003cb\u003eEurasia\u003c/b\u003e (Ulomov. 1992). \u003cbr\u003e  The new map for the territory of former U.S.S.R. was com- pleted in \u003cb\u003e1997\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RDQOv5uyLQgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth-prints.org/bitstream/2122/1404/1/05%20ulomov.pdf",
+   "htmlFormattedUrl": "www.earth-prints.org/bitstream/2122/1404/1/05%20ulomov.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Mon Jul 24 18:03:44 2006",
+      "creationdate": "Mon Jul 24 18:03:33 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 East Azerbaijan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2012 East Azerbaijan earthquakes occurred near the cities of Ahar and ... in   the shallow crust about 300 km east of the Eurasia-Arabian Plate boundary. ... 5.3   tremor occurred on August 15, approximately 34 km southwest of Ahar. ..... the   Creative Commons Attribution-ShareAlike License; additional terms may apply.",
+   "htmlSnippet": "The 2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e occurred near the cities of Ahar and \u003cb\u003e...\u003c/b\u003e in \u003cbr\u003e  the shallow crust about 300 km east of the \u003cb\u003eEurasia\u003c/b\u003e-Arabian Plate boundary. \u003cb\u003e...\u003c/b\u003e 5.3 \u003cbr\u003e  tremor occurred on August 15, approximately 34 km southwest of Ahar. \u003cb\u003e.....\u003c/b\u003e the \u003cbr\u003e  Creative Commons Attribution-ShareAlike License; additional terms \u003cb\u003emay\u003c/b\u003e apply.",
+   "cacheId": "z3LJZUSFL8IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/250px-Iran_relief_location_map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlK7xfIu2EE120ax5sst5KSWyd5SxHE-3pbK-lYso7uZkfMn3WOONAqcQQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mw 7.2 EASTERN TURKEY on October 23rd 2011 at 10:41 UTC",
+   "htmlTitle": "Mw 7.2 EASTERN TURKEY on October \u003cb\u003e23rd\u003c/b\u003e 2011 at 10:41 UTC",
+   "link": "http://www.emsc-csem.org/Earthquake/202/Earthquake-M7-2-Eastern-Turkey",
+   "displayLink": "www.emsc-csem.org",
+   "snippet": "Oct 23, 2011 ... On November 9 at 19:23 UTC, a strong 5.7-magnitude earthquake rocked ... The   Arabian plate moves northward relative to Eurasia leads to lateral motion of the ...   In 2003, an earthquake of magnitude 6.6 occurred on May 1st in Bingol 250km   west of Van. ... (1964-1997) and EMSC catalogues (1998-today) ...",
+   "htmlSnippet": "Oct 23, 2011 \u003cb\u003e...\u003c/b\u003e On November 9 at 19:\u003cb\u003e23\u003c/b\u003e UTC, a strong 5.7-magnitude \u003cb\u003eearthquake\u003c/b\u003e rocked \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  Arabian plate moves northward relative to \u003cb\u003eEurasia\u003c/b\u003e leads to lateral motion of the \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  In 2003, an \u003cb\u003eearthquake\u003c/b\u003e of magnitude 6.6 occurred on \u003cb\u003eMay\u003c/b\u003e 1st in Bingol 250km \u003cbr\u003e  west of Van. \u003cb\u003e...\u003c/b\u003e (1964-\u003cb\u003e1997\u003c/b\u003e) and EMSC catalogues (1998-today) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "IOjAqbkG7AkJ",
+   "formattedUrl": "www.emsc-csem.org/Earthquake/.../Earthquake-M7-2-Eastern-Turkey",
+   "htmlFormattedUrl": "www.emsc-csem.org/\u003cb\u003eEarthquake\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-M7-2-Eastern-Turkey",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.emsc-csem.org/Files/event/239856/loc_seisme_Eastern_Turkey_Mw_7_map2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "282",
+      "height": "179",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSi5qpA3PyMxPF8S32bnuYy_HDiJsHrAlM9vMXvoXMgim-rbW__yYf6rvE4"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "BCAA3C04C41AE6E6AFAF117B9469C66F",
+      "y_key": "43b36314ccb77957",
+      "publisher": "EMSC - European-Mediterranean Seismological Centre"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Casualties, 604 killed and 4,152 injured in 23 October earthquake ... Arabian   Plate and the Eurasian Plate, beyond the eastern extent of the Armenian and   Asia ...",
+   "htmlSnippet": "Casualties, 604 killed and 4,152 injured in \u003cb\u003e23\u003c/b\u003e October \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Arabian \u003cbr\u003e  Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the Armenian and \u003cbr\u003e  Asia \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic Tomography of the Arabian-Eurasian Collision Zone and ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e Tomography of the Arabian-\u003cb\u003eEurasian\u003c/b\u003e Collision Zone and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "displayLink": "www.dtic.mil",
+   "snippet": "Qualified requestors may obtain copies of this report from the Defense ....   Appendix II: Pn and Sn velocities in the Mideast and Central Asia ......................23   ..... (Kadinsky-Cade et al., 1981; Rodgers et al., 1987; Mitchell et al., 1997; Cong   and ...",
+   "htmlSnippet": "Qualified requestors \u003cb\u003emay\u003c/b\u003e obtain copies of this report from the Defense \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Appendix II: Pn and Sn velocities in the Mideast and Central Asia ......................\u003cb\u003e23\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e (Kadinsky-Cade et al., 1981; Rodgers et al., 1987; Mitchell et al., \u003cb\u003e1997\u003c/b\u003e; Cong \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "SncVpbfhL5gJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "htmlFormattedUrl": "www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA524474",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ford",
+      "creationdate": "D:20100602103736-04'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20100721112503-04'00'",
+      "producer": "Acrobat Distiller 9.3.2 (Windows)",
+      "title": "Microsoft Word - 07C0001_final_b.doc"
+     }
+    ]
+   }
+  }
+ ]
+}

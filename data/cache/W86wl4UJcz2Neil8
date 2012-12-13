@@ -1,0 +1,302 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 8 1993 India Earthquake",
+    "totalResults": "528000",
+    "searchTerms": "Dec 8 1993 India Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 8 1993 India Earthquake",
+    "totalResults": "528000",
+    "searchTerms": "Dec 8 1993 India Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.231941,
+  "formattedSearchTime": "0.23",
+  "totalResults": "528000",
+  "formattedTotalResults": "528,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 8, 2012 at 8:10 am by By Armand Vervaeck and James   Daniell .... was generated that caused damage at Karachi and damage and   casualties in the Mumbai (Bombay) area, India. .... She died in 1993 at the age of   105.",
+   "htmlSnippet": "Last update: \u003cb\u003eDecember 8\u003c/b\u003e, 2012 at \u003cb\u003e8\u003c/b\u003e:10 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e....\u003c/b\u003e was generated that caused damage at Karachi and damage and \u003cbr\u003e  casualties in the Mumbai (Bombay) area, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e....\u003c/b\u003e She died in \u003cb\u003e1993\u003c/b\u003e at the age of \u003cbr\u003e  105.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Earthquakes to remember : South-Africa - December 8 1976 - Magnitude : 5.2 - 4   ..... Earthquakes to remember : India - November 27 1945 - Magnitude : 8.0 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e to remember : South-Africa - \u003cb\u003eDecember 8\u003c/b\u003e 1976 - Magnitude : 5.2 - 4 \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e to remember : \u003cb\u003eIndia\u003c/b\u003e - November 27 1945 - Magnitude : 8.0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Alice Agogino (agogino) on Twitter",
+   "htmlTitle": "Alice Agogino (agogino) on Twitter",
+   "link": "https://twitter.com/agogino",
+   "displayLink": "twitter.com",
+   "snippet": "#OnThisDay Dec 8 1993: 1st functional GPS developed. Our blog: ... #OnThisDay   Dec 7 1988: 6.9 earthquake destroys Armenia, Spitak and kills over 60,000.",
+   "htmlSnippet": "#OnThisDay \u003cb\u003eDec 8 1993\u003c/b\u003e: 1st functional GPS developed. Our blog: \u003cb\u003e...\u003c/b\u003e #OnThisDay \u003cbr\u003e  Dec 7 1988: 6.9 \u003cb\u003eearthquake\u003c/b\u003e destroys Armenia, Spitak and kills over 60,000.",
+   "cacheId": "LYbcaSjENPoJ",
+   "formattedUrl": "https://twitter.com/agogino",
+   "htmlFormattedUrl": "https://twitter.com/agogino",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://si0.twimg.com/profile_images/1021321525/agogino_Haas_reasonably_small.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "69",
+      "height": "69",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqKewC4nJtQ_yJIjsBO8M2JvXpM5H1lr9_5sqVDSuLv0jJGHD0HOZz"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on December 8 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eDecember 8\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/dec08.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "December 8, 1541 \"Thomas Culpeper and Francis Dereham are executed for ....   December 8, 1991 \"Russia, Byelorussia & Ukraine form Commonwealth of Ind   States\" ... December 8, 1993 \"The North American Free Trade Agreement (  NAFTA) is ... December 8, 2009 A series of earthquakes and aftershocks kill a 1   year old ...",
+   "htmlSnippet": "December 8, 1541 &quot;Thomas Culpeper and Francis Dereham are executed for \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  December 8, 1991 &quot;Russia, Byelorussia &amp; Ukraine form Commonwealth of \u003cb\u003eInd\u003c/b\u003e \u003cbr\u003e  States&quot; \u003cb\u003e...\u003c/b\u003e \u003cb\u003eDecember 8, 1993\u003c/b\u003e &quot;The North American Free Trade Agreement (\u003cbr\u003e  NAFTA) is \u003cb\u003e...\u003c/b\u003e December 8, 2009 A series of \u003cb\u003eearthquakes\u003c/b\u003e and aftershocks kill a 1 \u003cbr\u003e  year old \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OjsYlRu5-5wJ",
+   "formattedUrl": "www.datesinhistory.com/dec08.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003edec\u003c/b\u003e08.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "8, 7005250000000000000250,000￢ﾀﾓ300,000, 526 Antioch earthquake ... 2004   Indian Ocean Tsunami ￂﾷ Indonesia, 02004-12-01December 2004. 5. ...   700159000000000000059, 1993 Bayburt ￃﾜzengili avalanche ￂﾷ Turkey, 01993-01  -011993 ...",
+   "htmlSnippet": "\u003cb\u003e8\u003c/b\u003e, 7005250000000000000250,000￢ﾀﾓ300,000, 526 Antioch \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e 2004 \u003cbr\u003e  \u003cb\u003eIndian\u003c/b\u003e Ocean Tsunami &middot; Indonesia, 02004-12-01\u003cb\u003eDecember\u003c/b\u003e 2004. 5. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  700159000000000000059, \u003cb\u003e1993\u003c/b\u003e Bayburt ￃﾜzengili avalanche &middot; Turkey, 01993-01\u003cbr\u003e  -01\u003cb\u003e1993\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "THE CRISIS AND MODERNITY OF HOUSING DISASTERS IN ...",
+   "htmlTitle": "THE CRISIS AND MODERNITY OF HOUSING DISASTERS IN \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.grif.umontreal.ca/pages/i-rec%20papers/alex.PDF",
+   "displayLink": "www.grif.umontreal.ca",
+   "snippet": "disaster housing projects on rural communities in Marathwada, India. ... In the   early morning of September 30, 1993, an earthquake of 6.4 on the Richter .....   Moore, M. (Dec. 11, 1993). \"Quake Rebuilding Efforts Clash With Lifestyle of   Indian ...",
+   "htmlSnippet": "disaster housing projects on rural communities in Marathwada, \u003cb\u003eIndia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e In the \u003cbr\u003e  early morning of September 30, \u003cb\u003e1993\u003c/b\u003e, an \u003cb\u003eearthquake\u003c/b\u003e of 6.4 on the Richter \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Moore, M. (\u003cb\u003eDec\u003c/b\u003e. 11, \u003cb\u003e1993\u003c/b\u003e). &quot;\u003cb\u003eQuake\u003c/b\u003e Rebuilding Efforts Clash With Lifestyle of \u003cbr\u003e  \u003cb\u003eIndian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PDi3aofLWtQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.grif.umontreal.ca/pages/i-rec%20papers/alex.PDF",
+   "htmlFormattedUrl": "www.grif.umontreal.ca/pages/i-rec%20papers/alex.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20020520092723-04'00'",
+      "moddate": "D:20020520092723-04'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "author": "labo103",
+      "creator": "PScript5.dll Version 5.2",
+      "title": "Microsoft Word - Alex Salazar.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in India - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eIndia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Indian subcontinent has a history of devastating earthquakes. The major ...   02005-10-08October 8, 2005, 03:50:38 UTC, 08:50:38 Local Time October 8,   Kashmir Himachal Pradesh Pakistan India ... see 1993 Latur earthquake, 18.08ￂﾰ  N, 76.52ￂﾰE, 9,748, 6.2 ... This page was last modified on 2 December 2012 at 10:  58.",
+   "htmlSnippet": "The \u003cb\u003eIndian\u003c/b\u003e subcontinent has a history of devastating \u003cb\u003eearthquakes\u003c/b\u003e. The major \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  02005-10-08October \u003cb\u003e8\u003c/b\u003e, 2005, 03:50:38 UTC, 08:50:38 Local Time October \u003cb\u003e8\u003c/b\u003e, \u003cbr\u003e  Kashmir Himachal Pradesh Pakistan \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e see \u003cb\u003e1993\u003c/b\u003e Latur \u003cb\u003eearthquake\u003c/b\u003e, 18.08ￂﾰ\u003cbr\u003e  N, 76.52ￂﾰE, 9,748, 6.2 \u003cb\u003e...\u003c/b\u003e This page was last modified on 2 \u003cb\u003eDecember\u003c/b\u003e 2012 at 10:\u003cbr\u003e  58.",
+   "cacheId": "EBwHZvfyZioJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_India",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eIndia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Enhanced reservoir-induced earthquakes in Koyna region, India ...",
+   "htmlTitle": "Enhanced reservoir-induced \u003cb\u003eearthquakes\u003c/b\u003e in Koyna region, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.csulb.edu/~rodrigue/quake/gupta.pdf",
+   "displayLink": "www.csulb.edu",
+   "snippet": "National Geophysical Research Institute, Hyderabad-500 007, India ... located,   including two earthquakes of M 5.0 and M 5.4 on 8 December, 1993 and 1 ...",
+   "htmlSnippet": "National Geophysical Research Institute, Hyderabad-500 007, \u003cb\u003eIndia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e located, \u003cbr\u003e  including two \u003cb\u003eearthquakes\u003c/b\u003e of M 5.0 and M 5.4 on \u003cb\u003e8 December, 1993\u003c/b\u003e and 1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gi3kXS3n5NAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.csulb.edu/~rodrigue/quake/gupta.pdf",
+   "htmlFormattedUrl": "www.csulb.edu/~rodrigue/\u003cb\u003equake\u003c/b\u003e/gupta.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:19970625120616",
+      "producer": "Acrobat Distiller 2.1 voor Windows",
+      "moddate": "D:19970710094659"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Tsunami - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Tsunami",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "2011 Tￅﾍhoku earthquake and tsunami, An aerial view of damage in the Sendai ...   Thailand, during the 2004 Indian Ocean earthquake and tsunami in Thailand ...   Although the meanings of \"tidal\" include \"resembling\" or \"having the form or ..... to   five minutes of the earthquake on July 12, 1993 created waves as much as 30 ...",
+   "htmlSnippet": "2011 Tￅﾍhoku \u003cb\u003eearthquake\u003c/b\u003e and tsunami, An aerial view of damage in the Sendai \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Thailand, during the 2004 \u003cb\u003eIndian\u003c/b\u003e Ocean \u003cb\u003eearthquake\u003c/b\u003e and tsunami in Thailand \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Although the meanings of &quot;tidal&quot; include &quot;resembling&quot; or &quot;having the form or \u003cb\u003e.....\u003c/b\u003e to \u003cbr\u003e  five minutes of the \u003cb\u003eearthquake\u003c/b\u003e on July 12, \u003cb\u003e1993\u003c/b\u003e created waves as much as 30 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ExNXajALCAIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Tsunami",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Tsunami",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg/300px-SH-60B_helicopter_flies_over_Sendai.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "160",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmBGyhqLzvGczeDCY4Nv6_GTEHGErrSICxREa-Yp3ogHK2n8gY2V4h2Yf2"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A NEW ZONE OF SEISMIC ACTIVITY AT KOYNA, INDIA",
+   "htmlTitle": "A NEW ZONE OF \u003cb\u003eSEISMIC\u003c/b\u003e ACTIVITY AT KOYNA, \u003cb\u003eINDIA\u003c/b\u003e",
+   "link": "http://www.researchgate.net/publication/216562844_A_NEW_ZONE_OF_SEISMIC_ACTIVITY_AT_KOYNA_INDIA/file/d960886c13991bb6baad96ad87acbe14.pdf",
+   "displayLink": "www.researchgate.net",
+   "snippet": "INDIA, VOL.69, MAY 2007 ... earthquake of M 6.3 on 10 December, 1967. ... 13 (  20th Sep 1980), 14 (8th Dec. 1993), 15 (1st Feb 1994), 16 (12th Mar 2000), ...",
+   "htmlSnippet": "\u003cb\u003eINDIA\u003c/b\u003e, VOL.69, MAY 2007 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e of M 6.3 on 10 December, 1967. \u003cb\u003e...\u003c/b\u003e 13 (\u003cbr\u003e  20th Sep 1980), 14 (\u003cb\u003e8th Dec\u003c/b\u003e. \u003cb\u003e1993\u003c/b\u003e), 15 (1st Feb 1994), 16 (12th Mar 2000), \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_xd4UvEOd4sJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.researchgate.net/...INDIA/.../d960886c13991bb6baad96ad87acbe14. pdf",
+   "htmlFormattedUrl": "www.researchgate.net/...\u003cb\u003eINDIA\u003c/b\u003e/.../d960886c13991bb6baad96ad87acbe14. pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 8.50",
+      "creationdate": "D:4-14-2007, 7:38:02+05'30'",
+      "moddate": "D:4-14-2007, 7:38:02+05'30'",
+      "title": "nmay2k7.p65",
+      "creator": "PDFCreator Version 0.9.0",
+      "author": "Krishan"
+     }
+    ]
+   }
+  }
+ ]
+}

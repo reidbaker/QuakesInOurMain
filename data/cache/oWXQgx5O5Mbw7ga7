@@ -1,0 +1,280 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 21 1997 Africa Earthquake",
+    "totalResults": "525000",
+    "searchTerms": "Jul 21 1997 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 21 1997 Africa Earthquake",
+    "totalResults": "525000",
+    "searchTerms": "Jul 21 1997 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.32768,
+  "formattedSearchTime": "0.33",
+  "totalResults": "525000",
+  "formattedTotalResults": "525,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 21 1997 Africa Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 21 1997 Africa Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ￢ﾀﾓ 4 people killed ... Seven people injured   and damage to more than 21 villages in the Mamasani area. Also felt at Shiraz ...   Russia (Kamchatka), 1997 - Magnitude : 7.8 ...... The seismic activity began on   July 24, 1969, when a magnitude 5.9 shock caused severe damage.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ￢ﾀﾓ 4 people killed \u003cb\u003e...\u003c/b\u003e Seven people injured \u003cbr\u003e  and damage to more than \u003cb\u003e21\u003c/b\u003e villages in the Mamasani area. Also felt at Shiraz \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Russia (Kamchatka), \u003cb\u003e1997\u003c/b\u003e - Magnitude : 7.8 \u003cb\u003e......\u003c/b\u003e The \u003cb\u003eseismic\u003c/b\u003e activity began on \u003cbr\u003e  \u003cb\u003eJuly\u003c/b\u003e 24, 1969, when a magnitude 5.9 shock caused severe damage.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-\u003cb\u003ejuly\u003c/b\u003e-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1997",
+   "htmlTitle": "\u003cb\u003e1997\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 4.8, SOUTH AFRICA, Jul 29 1997, 11:25:07, -27.924, 26.613, 199707291125.   6.3, OFFSHORE COQUIMBO, CHILE, Jul 27 1997, 05:21:28 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 4.8, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eJul\u003c/b\u003e 29 \u003cb\u003e1997\u003c/b\u003e, 11:25:07, -27.924, 26.613, 199707291125. \u003cbr\u003e  6.3, OFFSHORE COQUIMBO, CHILE, \u003cb\u003eJul\u003c/b\u003e 27 \u003cb\u003e1997\u003c/b\u003e, 05:\u003cb\u003e21\u003c/b\u003e:28 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HMUJ7bMGrqcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1997",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1997\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SCIENCE OF TSUNAMI HAZARDS",
+   "htmlTitle": "SCIENCE OF TSUNAMI HAZARDS",
+   "link": "http://tsunamisociety.org/304GPC.pdf",
+   "displayLink": "tsunamisociety.org",
+   "snippet": "interaction with the African and Eurasian tectonic plates and examines and   evaluates the historical ... earthquakes on July 21, 365 AD along the western   coast of the Island of Crete generated a ..... 1996; Papazachos and Papazachou,   1997).",
+   "htmlSnippet": "interaction with the \u003cb\u003eAfrican\u003c/b\u003e and Eurasian tectonic plates and examines and \u003cbr\u003e  evaluates the historical \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e on \u003cb\u003eJuly 21\u003c/b\u003e, 365 AD along the western \u003cbr\u003e  coast of the Island of Crete generated a \u003cb\u003e.....\u003c/b\u003e 1996; Papazachos and Papazachou, \u003cbr\u003e  \u003cb\u003e1997\u003c/b\u003e).",
+   "cacheId": "atR5A7Zadi8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "tsunamisociety.org/304GPC.pdf",
+   "htmlFormattedUrl": "tsunamisociety.org/304GPC.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "304GPC",
+      "author": "Admin",
+      "producer": "Mac OS X 10.7.2 Quartz PDFContext",
+      "creator": "Word",
+      "creationdate": "D:20111227151430Z00'00'",
+      "moddate": "D:20111227151430Z00'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "July 21 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eJuly 21\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/July_21",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "July 21 is the 202nd day of the year (203rd in leap years) in the Gregorian   calendar. ... The tsunami was caused by the Crete earthquake estimated to be   8.0 on the ... 1959 ￢ﾀﾓ Elijah Jerry \"Pumpsie\" Green becomes the first African-  American to ...",
+   "htmlSnippet": "\u003cb\u003eJuly 21\u003c/b\u003e is the 202nd day of the year (203rd in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e The tsunami was caused by the Crete \u003cb\u003eearthquake\u003c/b\u003e estimated to be \u003cbr\u003e  8.0 on the \u003cb\u003e...\u003c/b\u003e 1959 ￢ﾀﾓ Elijah Jerry &quot;Pumpsie&quot; Green becomes the first \u003cb\u003eAfrican\u003c/b\u003e-\u003cbr\u003e  American to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TSU5lVl0jRQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/July_21",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eJuly\u003c/b\u003e_\u003cb\u003e21\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Foreign Ministry International Humanitarian Relief Aid",
+   "htmlTitle": "Foreign Ministry International Humanitarian Relief Aid",
+   "link": "http://www.israaid.org.il/member_page.asp?id=88",
+   "displayLink": "www.israaid.org.il",
+   "snippet": "Israel extended aid to victims of the Peruvian earthquake. Peru, August 19 ...   Israeli Embassy in South Africa adopts local orphanage ... Poland, July 21, 1997 ...",
+   "htmlSnippet": "Israel extended aid to victims of the Peruvian \u003cb\u003eearthquake\u003c/b\u003e. Peru, August 19 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Israeli Embassy in South \u003cb\u003eAfrica\u003c/b\u003e adopts local orphanage \u003cb\u003e...\u003c/b\u003e Poland, \u003cb\u003eJuly 21\u003c/b\u003e, \u003cb\u003e1997\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HNAe5hMmV1sJ",
+   "formattedUrl": "www.israaid.org.il/member_page.asp?id=88",
+   "htmlFormattedUrl": "www.israaid.org.il/member_page.asp?id=88",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.israaid.org.il/images/stories/short1138.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "214",
+      "height": "136",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIvb34pcmHVdhGwVoNzGcSQ-N2U5imZ1IKmNp1ciudg7DZQk_lVkIWGwI"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in Southern and Central Africa",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in Southern and Central \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/v/safrica/biggest",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The Largest Earthquakes in Southern and Central Africa. ... Today: 6.2 magnitude   earthquake near Kesennuma, Miyagi, Japan ￂﾷ Today: 7.3 magnitude ...",
+   "htmlSnippet": "The Largest \u003cb\u003eEarthquakes\u003c/b\u003e in Southern and Central \u003cb\u003eAfrica\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Today: 6.2 magnitude \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e near Kesennuma, Miyagi, Japan &middot; Today: 7.3 magnitude \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m62cDSAclQYJ",
+   "formattedUrl": "earthquaketrack.com/v/safrica/biggest",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/s\u003cb\u003eafrica\u003c/b\u003e/biggest",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "NDXASV7TK5B6gR9DrJFeDLvnZI7xgwC/ECeK3ULvUG4="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "July 21 Events in History",
+   "htmlTitle": "\u003cb\u003eJuly 21\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/july_21.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "July 21 in history.",
+   "htmlSnippet": "\u003cb\u003eJuly 21\u003c/b\u003e in history.",
+   "cacheId": "4k3bUVq1fkYJ",
+   "formattedUrl": "www.brainyhistory.com/days/july_21.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003ejuly\u003c/b\u003e_\u003cb\u003e21\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "July 21 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/july_21.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 21st July | HistoryOrb.com",
+   "htmlTitle": "Historical Events on \u003cb\u003e21st July\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/july/21",
+   "displayLink": "www.historyorb.com",
+   "snippet": "Historical events for the 21st of July. See what ... 365 - Alexandria hit by   Earthquake; about 50,000 die 866 - John ... 1960 - Country of Katanga forms in   Africa ...",
+   "htmlSnippet": "Historical events for the 21st of \u003cb\u003eJuly\u003c/b\u003e. See what \u003cb\u003e...\u003c/b\u003e 365 - Alexandria hit by \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e; about 50,000 die 866 - John \u003cb\u003e...\u003c/b\u003e 1960 - Country of Katanga forms in \u003cbr\u003e  \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hPSRE39nlRsJ",
+   "formattedUrl": "www.historyorb.com/events/july/21",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003ejuly\u003c/b\u003e/\u003cb\u003e21\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Upper Mantle Seismic Structure Beneath Southern Africa ...",
+   "htmlTitle": "Upper Mantle \u003cb\u003eSeismic\u003c/b\u003e Structure Beneath Southern \u003cb\u003eAfrica\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.africaarray.psu.edu/publications/pdfs/Brandt_et_al_Pageoph_2011-2.pdf",
+   "displayLink": "www.africaarray.psu.edu",
+   "snippet": "during the 1997￢ﾀﾓ1999 Southern African Seismic Experiment. The velocity in the   .... conducted between April 1997 and July 1999. (CARLSON et al., 1996). ...   Event parameters of the Lake Tanganyika earthquake of 1997/09/21. Time.   Latitude ...",
+   "htmlSnippet": "during the \u003cb\u003e1997\u003c/b\u003e￢ﾀﾓ1999 Southern \u003cb\u003eAfrican Seismic\u003c/b\u003e Experiment. The velocity in the \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e conducted between April \u003cb\u003e1997\u003c/b\u003e and \u003cb\u003eJuly\u003c/b\u003e 1999. (CARLSON et al., 1996). \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Event parameters of the Lake Tanganyika \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e1997\u003c/b\u003e/09/\u003cb\u003e21\u003c/b\u003e. Time. \u003cbr\u003e  Latitude \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tPUXqqCUk5kJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.africaarray.psu.edu/publications/.../Brandt_et_al_Pageoph_2011-2.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003eafrica\u003c/b\u003earray.psu.edu/publications/.../Brandt_et_al_Pageoph_2011-2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110628191516+05'30'",
+      "creator": "Arbortext Advanced Print Publisher 9.0.114/W",
+      "moddate": "D:20111123094508-05'00'",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismotectonics and seismic hazards in Africa",
+   "htmlTitle": "Seismotectonics and \u003cb\u003eseismic\u003c/b\u003e hazards in \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "displayLink": "eost.u-strasbg.fr",
+   "snippet": "Tel & Fax: +213 21 247 914 ... Africa. In this project, the preparation of thematic   maps in earthquake ..... MSc (Seismology) Univ. of Bergen, Norway 1997 .... (4),   Mozambique (3) Botswana (1) and Namibia (1), 8 ￢ﾀﾓ 24 July, 2009, Council for ...",
+   "htmlSnippet": "Tel &amp; Fax: +213 \u003cb\u003e21\u003c/b\u003e 247 914 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAfrica\u003c/b\u003e. In this project, the preparation of thematic \u003cbr\u003e  maps in \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e MSc (Seismology) Univ. of Bergen, Norway \u003cb\u003e1997\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e (4), \u003cbr\u003e  Mozambique (3) Botswana (1) and Namibia (1), 8 ￢ﾀﾓ 24 \u003cb\u003eJuly\u003c/b\u003e, 2009, Council for \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uxGp73DozZUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "htmlFormattedUrl": "eost.u-strasbg.fr/igcp601/Seismotectonic-Map_Project.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110615115411+02'00'",
+      "author": "Mustapha",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 8.0.0 (Windows)",
+      "moddate": "D:20110615115411+02'00'",
+      "title": "Microsoft Word - Seismotectonic-Map_Project.doc"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,329 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Apr 20 1986 North America Earthquake",
+    "totalResults": "522000",
+    "searchTerms": "Apr 20 1986 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Apr 20 1986 North America Earthquake",
+    "totalResults": "522000",
+    "searchTerms": "Apr 20 1986 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.274904,
+  "formattedSearchTime": "0.27",
+  "totalResults": "522000",
+  "formattedTotalResults": "522,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the massive March 20 Mexico earthquake",
+   "htmlTitle": "Understanding the massive March \u003cb\u003e20\u003c/b\u003e Mexico \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/21/understanding-the-massive-march-20-mexico-earthquake/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 21, 2012 ... Earthquake overview : On 3/20/2012 at about 11:30h local time, ... or near the   plate boundary interface between the Cocos and North America plates. ... fourth   occurring seven months later on 30 April 1986 of magnitude 7.0.",
+   "htmlSnippet": "Mar 21, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : On 3/\u003cb\u003e20\u003c/b\u003e/2012 at about 11:30h local time, \u003cb\u003e...\u003c/b\u003e or near the \u003cbr\u003e  plate boundary interface between the Cocos and \u003cb\u003eNorth America\u003c/b\u003e plates. \u003cb\u003e...\u003c/b\u003e fourth \u003cbr\u003e  occurring seven months later on 30 \u003cb\u003eApril 1986\u003c/b\u003e of magnitude 7.0.",
+   "cacheId": "dg9tbNBbSVoJ",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-massive-march-20-mexico- earthquake/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-massive-march-\u003cb\u003e20\u003c/b\u003e-mexico- \u003cb\u003eearthquake\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/03/mx-21032012-3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "230",
+      "height": "219",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzSz8Grp1lft6Cfdwv8Q_VsC3awcAuFNQx7LDm-WZutpyFBl26vM_QfM"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1986",
+   "htmlTitle": "\u003cb\u003e1986\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1986",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, reporting, ... 5.4,   SOUTHERN IRAN, Dec 20 1986, 23:47:08, 29.901, 51.577, 198612202347 ....   6.7, NEAR THE NORTH COAST OF PAPUA, INDONESIA, Apr 20 1986, 07:03:32   .... In partnership with nehrp ￂﾷ Take Pride in America ￂﾷ USA.gov ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, reporting, \u003cb\u003e...\u003c/b\u003e 5.4, \u003cbr\u003e  SOUTHERN IRAN, Dec 20 1986, 23:47:08, 29.901, 51.577, 198612202347 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  6.7, NEAR THE \u003cb\u003eNORTH\u003c/b\u003e COAST OF PAPUA, INDONESIA, \u003cb\u003eApr 20 1986\u003c/b\u003e, 07:03:32 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e &middot; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BABaUxl1aPwJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1986",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1986\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake in Guerrero ￢ﾀﾓ Oaxaca, Mexico ￢ﾀﾓ 2 people died after ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e in Guerrero ￢ﾀﾓ Oaxaca, Mexico ￢ﾀﾓ 2 people died after \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/20/massive-extremely-dangerous-earthquake-in-guerrero-mexico/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 13, 2012 ... Earthquake overview : On 3/20/2012 at about 11:30h local time, .... 7.5 and the   fourth occurring seven months later on 30 April 1986 of magnitude 7.0. .... is   gliging below the North American plate and often hangs for a while.",
+   "htmlSnippet": "Apr 13, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : On 3/\u003cb\u003e20\u003c/b\u003e/2012 at about 11:30h local time, \u003cb\u003e....\u003c/b\u003e 7.5 and the \u003cbr\u003e  fourth occurring seven months later on 30 \u003cb\u003eApril 1986\u003c/b\u003e of magnitude 7.0. \u003cb\u003e....\u003c/b\u003e is \u003cbr\u003e  gliging below the \u003cb\u003eNorth American\u003c/b\u003e plate and often hangs for a while.",
+   "cacheId": "nOagefGyXzsJ",
+   "formattedUrl": "earthquake-report.com/.../20/massive-extremely-dangerous-earthquake-in- guerrero-mexico/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../\u003cb\u003e20\u003c/b\u003e/massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-in- guerrero-mexico/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/03/mx-22032012-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPL4X0RZ9N3lH85W9A6nd6Ezz124OknXCokpJuvApTD4LojT8K4MgbstrQ"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Lesa Bielman",
+      "url": "http://www.youtube.com/watch?v=a6h82PIi_-0&feature=share",
+      "url_text": "Lesa Bielman"
+     },
+     {
+      "fn": "Jennifer",
+      "nickname": "Jennifer"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in California - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in California - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_California",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The San Andreas Fault is the source of most of California's earthquakes. ... and   forms the tectonic boundary between the Pacific and the North American Plate. ...   an earthquake of about magnitude 6 every 20￢ﾀﾓ30 years on average in 1857,   1881, ... 1892, April 21, 17:43, 09:43, Winters, 6.4, 38ￂﾰ18￢ﾀﾲN 121ￂﾰ32￢ﾀﾲW\ufeff / \ufeff38.30ￂﾰ  N ...",
+   "htmlSnippet": "The San Andreas Fault is the source of most of California&#39;s \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e and \u003cbr\u003e  forms the tectonic boundary between the Pacific and the \u003cb\u003eNorth American\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  an \u003cb\u003eearthquake\u003c/b\u003e of about magnitude 6 every \u003cb\u003e20\u003c/b\u003e￢ﾀﾓ30 years on average in 1857, \u003cbr\u003e  1881, \u003cb\u003e...\u003c/b\u003e 1892, \u003cb\u003eApril\u003c/b\u003e 21, 17:43, 09:43, Winters, 6.4, 38ￂﾰ18￢ﾀﾲN 121ￂﾰ32￢ﾀﾲW\ufeff / \ufeff38.30ￂﾰ\u003cbr\u003e  N \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jBJPM64_E_AJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_California",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_California",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kluft-photo-Carrizo-Plain-Nov-2007-Img_0327.jpg/220px-Kluft-photo-Carrizo-Plain-Nov-2007-Img_0327.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "117",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStWukYvdHePPxJwYm_ZhzoruiNtctmghQfAZmOVRsY5ZFfio4snt-DdA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... The earthquake was centered in the gold mining area of Welkom about ...   earthquake to have occurred on land in the 20th Century; the direct .... The Pacific   Plate is moving northwest with respect to the North American Plate at   approximately ..... But Finance Minister Bill English said in April the Government's ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom about \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e to have occurred on land in the \u003cb\u003e20th\u003c/b\u003e Century; the direct \u003cb\u003e....\u003c/b\u003e The Pacific \u003cbr\u003e  Plate is moving northwest with respect to the \u003cb\u003eNorth American\u003c/b\u003e Plate at \u003cbr\u003e  approximately \u003cb\u003e.....\u003c/b\u003e But Finance Minister Bill English said in \u003cb\u003eApril\u003c/b\u003e the Government&#39;s \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on April 20 - What happened on my birthday. Today ...",
+   "htmlTitle": "What happened on \u003cb\u003eApril 20\u003c/b\u003e - What happened on my birthday. Today \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/apr20.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "April 20, 1534 \"Jacques Cartier begins his voyage, in which he will discover ...   April 20, 1934 \"One of America' s most beloved child stars made her debut. ...   April 20, 1935 \"On the island of Formosa a 7.1 quake causes 3,280 deaths. ...   April 20, 1962 New Orleans Citizens Co gives free 1-way ride to blacks to move   North ...",
+   "htmlSnippet": "\u003cb\u003eApril 20\u003c/b\u003e, 1534 &quot;Jacques Cartier begins his voyage, in which he will discover \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApril 20\u003c/b\u003e, 1934 &quot;One of \u003cb\u003eAmerica\u003c/b\u003e&#39; s most beloved child stars made her debut. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApril 20\u003c/b\u003e, 1935 &quot;On the island of Formosa a 7.1 \u003cb\u003equake\u003c/b\u003e causes 3,280 deaths. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApril 20\u003c/b\u003e, 1962 New Orleans Citizens Co gives free 1-way ride to blacks to move \u003cbr\u003e  \u003cb\u003eNorth\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "5scmx2kJYuwJ",
+   "formattedUrl": "www.datesinhistory.com/apr20.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003eapr20\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ Archive September 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The American Red Cross today released its official Earthquake App, ... more than   20 years that major earthquakes can trigger small seismic slips ... The North   American and Eurasian plates are spreading apart along the mid-Atlantic ridge.   .... occurring seven months later on 30 April 1986 of magnitude 7.0.",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The American Red Cross today released its official \u003cb\u003eEarthquake\u003c/b\u003e App, \u003cb\u003e...\u003c/b\u003e more than \u003cbr\u003e  \u003cb\u003e20\u003c/b\u003e years that major \u003cb\u003eearthquakes\u003c/b\u003e can trigger small \u003cb\u003eseismic\u003c/b\u003e slips \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerican\u003c/b\u003e and Eurasian plates are spreading apart along the mid-Atlantic ridge. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e occurring seven months later on 30 \u003cb\u003eApril 1986\u003c/b\u003e of magnitude 7.0.",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- september-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "US4575830, Oct 15, 1982, Mar 11, 1986, Schlumberger Technology ...   US4969129, Sep 20, 1989, Nov 6, 1990, Texaco Inc. Coding seismic sources ....   Apr 19, 2005, PGS Americas, Inc. Method for separating seismic signals from two   or more ... US7725266, May 31, 2007, May 25, 2010, BP Corporation North   America Inc.",
+   "htmlSnippet": "US4575830, Oct 15, 1982, Mar 11, \u003cb\u003e1986\u003c/b\u003e, Schlumberger Technology \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4969129, Sep \u003cb\u003e20\u003c/b\u003e, 1989, Nov 6, 1990, Texaco Inc. Coding \u003cb\u003eseismic\u003c/b\u003e sources \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eApr\u003c/b\u003e 19, 2005, PGS Americas, Inc. Method for separating \u003cb\u003eseismic\u003c/b\u003e signals from two \u003cbr\u003e  or more \u003cb\u003e...\u003c/b\u003e US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e Inc.",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Oceanic Transform Earthquakes With Unusual Mechanisms or ...",
+   "htmlTitle": "Oceanic Transform \u003cb\u003eEarthquakes\u003c/b\u003e With Unusual Mechanisms or \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.higp.hawaii.edu/~cecily/93JB00887.pdf",
+   "displayLink": "www.higp.hawaii.edu",
+   "snippet": "convergence between the Pacific and North American plates, have led to the .....   mechanisms (on September 20, 1986, April 20, 1988, and. December 23, 1988) ...",
+   "htmlSnippet": "convergence between the Pacific and \u003cb\u003eNorth American\u003c/b\u003e plates, have led to the \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  mechanisms (on September \u003cb\u003e20\u003c/b\u003e, \u003cb\u003e1986\u003c/b\u003e, \u003cb\u003eApril 20\u003c/b\u003e, 1988, and. December 23, 1988) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DV9sgkE0bpAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.higp.hawaii.edu/~cecily/93JB00887.pdf",
+   "htmlFormattedUrl": "www.higp.hawaii.edu/~cecily/93JB00887.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "www.PrincetonImaging.com",
+      "creationdate": "20070525130150",
+      "producer": "escape 1.1",
+      "title": "Oceanic Transform Earthquakes With Unusual Mechanisms or Locations: Relation to Fault Geometry and State of Stress in the Adjacent Lithosphere",
+      "author": "Cecily J. Wolfe , Eric A. Bergman , Sean C. Solomon",
+      "moddate": "D:20070525212922"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "CASCADIA'S FAULT: History of Earthquakes in North America",
+   "htmlTitle": "CASCADIA&#39;S FAULT: History of \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eNorth America\u003c/b\u003e",
+   "link": "http://www.cascadiasfault.com/p/history.html",
+   "displayLink": "www.cascadiasfault.com",
+   "snippet": "This photo was taken on April 20, 1906, two days after the quake. ... of a tectonic   plate being shoved beneath North America along the Cascadia Subduction Zone  . ... this ghost forest on the Copalis River in Washington State in March 1986.",
+   "htmlSnippet": "This photo was taken on \u003cb\u003eApril 20\u003c/b\u003e, 1906, two days after the \u003cb\u003equake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e of a tectonic \u003cbr\u003e  plate being shoved beneath \u003cb\u003eNorth America\u003c/b\u003e along the Cascadia Subduction Zone\u003cbr\u003e  . \u003cb\u003e...\u003c/b\u003e this ghost forest on the Copalis River in Washington State in March \u003cb\u003e1986\u003c/b\u003e.",
+   "cacheId": "rO2egXR78J4J",
+   "formattedUrl": "www.cascadiasfault.com/p/history.html",
+   "htmlFormattedUrl": "www.cascadiasfault.com/p/history.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://2.bp.blogspot.com/-cqEvsLeSOto/TbInkLiGZ5I/AAAAAAAAAEM/US85zFnFI-g/s320/Cascadia_Insert1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "187",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRae6GBxEqHx1eKjZya1QVaVOoGKcKjvAKztP6tJdv8l81Ebb5_JiGtoTSf"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1100"
+     }
+    ]
+   }
+  }
+ ]
+}

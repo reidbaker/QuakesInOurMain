@@ -1,0 +1,292 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 16 1975 Asia Earthquake",
+    "totalResults": "317000",
+    "searchTerms": "May 16 1975 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 16 1975 Asia Earthquake",
+    "totalResults": "317000",
+    "searchTerms": "May 16 1975 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.5667,
+  "formattedSearchTime": "0.57",
+  "totalResults": "317000",
+  "formattedTotalResults": "317,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 8, 2012 - Earthquake Report",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list August 8, 2012 - \u003cb\u003eEarthquake\u003c/b\u003e Report",
+   "link": "http://earthquake-report.com/2012/08/07/major-earthquakes-list-august-8-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 8, 2012 ... Update : 112000 people may have felt a moderate shaking (MMI V) and ... USGS,   Greater Los Angeles Area, California, Aug 08 16:33 PM, 4.5, 9.7 ...... earthquakes   in European and Asian / Middle East sphere (4 and up) and a ...",
+   "htmlSnippet": "Aug 8, 2012 \u003cb\u003e...\u003c/b\u003e Update : 112000 people \u003cb\u003emay\u003c/b\u003e have felt a moderate shaking (MMI V) and \u003cb\u003e...\u003c/b\u003e USGS, \u003cbr\u003e  Greater Los Angeles Area, California, Aug 08 \u003cb\u003e16\u003c/b\u003e:33 PM, 4.5, 9.7 \u003cb\u003e......\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "hYaxttWA4UMJ",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-august-8-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-august-8-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "JERRY",
+      "nickname": "JERRY"
+     },
+     {
+      "fn": "Veronica Leighton"
+     },
+     {
+      "fn": "Shabina",
+      "nickname": "Shabina"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "History of Sikkim - Wikipedia, the free encyclopedia",
+   "htmlTitle": "History of Sikkim - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/History_of_Sikkim",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This article may require cleanup to meet Wikipedia's quality standards. .... On   May 16, 1975, Sikkim officially became a state of the Indian Union and Lhendup   ... On 18 September 2011, a magnitude 6.9Mw earthquake struck Sikkim, killing   at ...",
+   "htmlSnippet": "This article may require cleanup to meet Wikipedia&#39;s quality standards. \u003cb\u003e....\u003c/b\u003e On \u003cbr\u003e  \u003cb\u003eMay 16, 1975\u003c/b\u003e, Sikkim officially became a state of the Indian Union and Lhendup \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e On 18 September 2011, a magnitude 6.9Mw \u003cb\u003eearthquake\u003c/b\u003e struck Sikkim, killing \u003cbr\u003e  at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "k8ANNm5a1kAJ",
+   "formattedUrl": "en.wikipedia.org/wiki/History_of_Sikkim",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/History_of_Sikkim",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gururinpochen.jpg/240px-Gururinpochen.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWOuLXfGHX3SYggLAuSS-tEsYqIJ0ZhY53HQCbNgwT6XO70IqS-wjaLEgs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : Ecuador ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : Ecuador \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "2 days ago ... If you search for the latest real time earthquakes lists : click here .... Movie about   Asian tsunami shuns 'disaster' label ... November 16 2012 ..... From 1975-1995   there were only four states that did not have any earthquakes. ... This earthquake   may be the largest ￢ﾀﾜon land￢ﾀﾝ earthquake in the modern history of ...",
+   "htmlSnippet": "2 days ago \u003cb\u003e...\u003c/b\u003e If you search for the latest real time \u003cb\u003eearthquakes\u003c/b\u003e lists : click here \u003cb\u003e....\u003c/b\u003e Movie about \u003cbr\u003e  \u003cb\u003eAsian\u003c/b\u003e tsunami shuns &#39;disaster&#39; label \u003cb\u003e...\u003c/b\u003e November \u003cb\u003e16\u003c/b\u003e 2012 \u003cb\u003e.....\u003c/b\u003e From \u003cb\u003e1975\u003c/b\u003e-1995 \u003cbr\u003e  there were only four states that did not have any \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e This \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  \u003cb\u003emay\u003c/b\u003e be the largest ￢ﾀﾜon land￢ﾀﾝ \u003cb\u003eearthquake\u003c/b\u003e in the modern history of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Events on 16th May | HistoryOrb.com",
+   "htmlTitle": "Historical Events on \u003cb\u003e16th May\u003c/b\u003e | HistoryOrb.com",
+   "link": "http://www.historyorb.com/events/may/16",
+   "displayLink": "www.historyorb.com",
+   "snippet": "1875 - Quake in Venezuela & Colombia kills 16,000 1877 - May 16, 1877   political crisis in France. 1879 - Antonin .... 1975 - India annexes Principality of   Sikkim ...",
+   "htmlSnippet": "1875 - \u003cb\u003eQuake\u003c/b\u003e in Venezuela &amp; Colombia kills 16,000 1877 - \u003cb\u003eMay 16\u003c/b\u003e, 1877 \u003cbr\u003e  political crisis in France. 1879 - Antonin \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1975\u003c/b\u003e - India annexes Principality of \u003cbr\u003e  Sikkim \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zba7JZsqR8sJ",
+   "formattedUrl": "www.historyorb.com/events/may/16",
+   "htmlFormattedUrl": "www.historyorb.com/events/\u003cb\u003emay\u003c/b\u003e/\u003cb\u003e16\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "fb:page_id": "120915757945658"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in Near The West Coast Of Yemen",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in Near The West Coast Of Yemen",
+   "link": "http://earthquaketrack.com/r/near-the-west-coast-of-yemen",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Near The West Coast Of Yemen has had: 0 earthquakes today; 1 earthquake in   the past month; 1 earthquake in the past year ...",
+   "htmlSnippet": "Near The West Coast Of Yemen has had: 0 \u003cb\u003eearthquakes\u003c/b\u003e today; 1 \u003cb\u003eearthquake\u003c/b\u003e in \u003cbr\u003e  the past month; 1 \u003cb\u003eearthquake\u003c/b\u003e in the past year \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P_-FC0c_5PMJ",
+   "formattedUrl": "earthquaketrack.com/r/near-the-west-coast-of-yemen",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/r/near-the-west-coast-of-yemen",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "+pbYI8gkWA/Nnbzsa+5yjsf0gQ9E3CRxlMThWURRP3s="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "JAPAN - Major Earthquakes in Japan and the Southern Kuril Islands ...",
+   "htmlTitle": "JAPAN - Major \u003cb\u003eEarthquakes\u003c/b\u003e in Japan and the Southern Kuril Islands \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.drgeorgepc.com/EarthquakesJapan.html",
+   "displayLink": "www.drgeorgepc.com",
+   "snippet": "The overall tectonics of northeast Asia are very complicated. Whether the Sea of   .... 1968 - MAY 16 : Tokachi, Eastern Hokkaido, Magnitude 7.9, 52 dead.",
+   "htmlSnippet": "The overall tectonics of northeast \u003cb\u003eAsia\u003c/b\u003e are very complicated. Whether the Sea of \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 1968 - \u003cb\u003eMAY 16\u003c/b\u003e : Tokachi, Eastern Hokkaido, Magnitude 7.9, 52 dead.",
+   "cacheId": "aO-RtDOnJfMJ",
+   "formattedUrl": "www.drgeorgepc.com/EarthquakesJapan.html",
+   "htmlFormattedUrl": "www.drgeorgepc.com/\u003cb\u003eEarthquakes\u003c/b\u003eJapan.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.drgeorgepc.com/tsu94RussiaTectMap.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "296",
+      "height": "170",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKgutdjHnswa0AZxiA4RqvJuf38o6jdgrPyfE5helen8UBDp4lPopkw8zJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in Asia",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eAsia\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/v/asia/biggest",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "The Largest Earthquakes in Asia. ... Today: 7.1 magnitude earthquake near Tual,   Indonesia ￂﾷ Today / Big .... B. almost 12 years ago, 7.7 magnitude, 16 km depth ...",
+   "htmlSnippet": "The Largest \u003cb\u003eEarthquakes\u003c/b\u003e in \u003cb\u003eAsia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e Today: 7.1 magnitude \u003cb\u003eearthquake\u003c/b\u003e near Tual, \u003cbr\u003e  Indonesia &middot; Today / Big \u003cb\u003e....\u003c/b\u003e B. almost 12 years ago, 7.7 magnitude, \u003cb\u003e16\u003c/b\u003e km depth \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "COYJ8-gQud8J",
+   "formattedUrl": "earthquaketrack.com/v/asia/biggest",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/\u003cb\u003easia\u003c/b\u003e/biggest",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "bHZP2KlsIhPxL9MGpsoGbeKQPgnOdIgmjcfvmAEhXwQ="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Great East Japan Earthquake, tsunami and nuclear meltdown ...",
+   "htmlTitle": "The Great East Japan \u003cb\u003eEarthquake\u003c/b\u003e, tsunami and nuclear meltdown \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.academia.edu/1146814/The_Great_East_Japan_Earthquake_tsunami_and_nuclear_meltdown_towards_the_re_construction_of_a_safe_sustainable_and_compassionate_society_in_Japans_shrinking_regions",
+   "displayLink": "www.academia.edu",
+   "snippet": "This article examines whether the Great East Japan Earthquake and tsunami,   and ... of East Asian Studies, University of Sheffield p.matanle@sheffield.ac.uk   The final ... society in Japan's shrinking regions, Local Environment, 16 (9): 823-  847. ..... More parkland may be created on specially raised areas, and these will   act as ...",
+   "htmlSnippet": "This article examines whether the Great East Japan \u003cb\u003eEarthquake\u003c/b\u003e and tsunami, \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e of East \u003cb\u003eAsian\u003c/b\u003e Studies, University of Sheffield p.matanle@sheffield.ac.uk \u003cbr\u003e  The final \u003cb\u003e...\u003c/b\u003e society in Japan&#39;s shrinking regions, Local Environment, \u003cb\u003e16\u003c/b\u003e (9): 823-\u003cbr\u003e  847. \u003cb\u003e.....\u003c/b\u003e More parkland \u003cb\u003emay\u003c/b\u003e be created on specially raised areas, and these will \u003cbr\u003e  act as \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "XRqm2ACrEXUJ",
+   "formattedUrl": "www.academia.edu/.../The_Great_East_Japan_Earthquake_tsunami_and_ nuclear_meltdown_towards_the_re_construction_of_a_safe_sustain...",
+   "htmlFormattedUrl": "www.academia.edu/.../The_Great_East_Japan_\u003cb\u003eEarthquake\u003c/b\u003e_tsunami_and_ nuclear_meltdown_towards_the_re_construction_of_a_safe_sustain...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://2.academia-assets.com/images/open-graph-icons/fb-paper.gif?a73840d740bdbb95f6ef159ee5afa482"
+     }
+    ],
+    "person": [
+     {
+      "url": "Peter Matanle",
+      "name": "Peter Matanle"
+     }
+    ],
+    "creativework": [
+     {
+      "keywords": "Research Interests: Community Development, Urban Design, Public Space, Community participation and engagement, Urban Regeneration, and 20 moreUrban Cohesion, Urban Planning, Disaster Reconstruction...",
+      "url": "View on tandfonline.com"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "2369844204",
+      "og:type": "article",
+      "og:url": "http://www.academia.edu/1146814/The_Great_East_Japan_Earthquake_tsunami_and_nuclear_meltdown_towards_the_re_construction_of_a_safe_sustainable_and_compassionate_society_in_Japans_shrinking_regions",
+      "og:title": "The Great East Japan Earthquake, tsunami and nuclear meltdown: towards the (re)construction of a safe, sustainable and compassionate society in Japan's shrinking regions",
+      "og:image": "http://2.academia-assets.com/images/open-graph-icons/fb-paper.gif?a73840d740bdbb95f6ef159ee5afa482",
+      "og:description": "Japan's rural regions have been shrinking for the entire post-war period, and successive efforts to revitalise rural society have failed. This article examines whether the Great East Japan Earthquake and tsunami, and the subsequent meltdown at the",
+      "article:author": "http://sheffield.academia.edu/PeterMatanle"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Case Studies - Earthquakes - Forces of Nature",
+   "htmlTitle": "Case Studies - \u003cb\u003eEarthquakes\u003c/b\u003e - Forces of Nature",
+   "link": "http://library.thinkquest.org/C003603/english/earthquakes/casestudies.shtml",
+   "displayLink": "library.thinkquest.org",
+   "snippet": "Click on the links to read about earthquakes which have occurred throughout   history. ... California, USA (1872, March 26); Venezuela and Colombia (1875,   May 16) ... December 28); Pagan, Burma (1975, July 8); Lice, Turkey (1975,   September 6) ..... One of South Asia's worst earthquakes in forty years killed more   than 5,200 ...",
+   "htmlSnippet": "Click on the links to read about \u003cb\u003eearthquakes\u003c/b\u003e which have occurred throughout \u003cbr\u003e  history. \u003cb\u003e...\u003c/b\u003e California, USA (1872, March 26); Venezuela and Colombia (1875, \u003cbr\u003e  \u003cb\u003eMay 16\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e December 28); Pagan, Burma (\u003cb\u003e1975\u003c/b\u003e, July 8); Lice, Turkey (\u003cb\u003e1975\u003c/b\u003e, \u003cbr\u003e  September 6) \u003cb\u003e.....\u003c/b\u003e One of South \u003cb\u003eAsia&#39;s\u003c/b\u003e worst \u003cb\u003eearthquakes\u003c/b\u003e in forty years killed more \u003cbr\u003e  than 5,200 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "lI0uGtuvyB0J",
+   "formattedUrl": "library.thinkquest.org/C003603/.../earthquakes/casestudies.shtml",
+   "htmlFormattedUrl": "library.thinkquest.org/C003603/.../\u003cb\u003eearthquakes\u003c/b\u003e/casestudies.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ThinkQuest Team #C003603"
+     }
+    ]
+   }
+  }
+ ]
+}

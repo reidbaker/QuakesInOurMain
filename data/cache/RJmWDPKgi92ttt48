@@ -1,0 +1,259 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 29 1989 Africa Earthquake",
+    "totalResults": "330000",
+    "searchTerms": "Sep 29 1989 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 29 1989 Africa Earthquake",
+    "totalResults": "330000",
+    "searchTerms": "Sep 29 1989 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.453565,
+  "formattedSearchTime": "0.45",
+  "totalResults": "330000",
+  "formattedTotalResults": "330,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ￢ﾀﾓ 4 people killed. The earthquake was   centered in the gold mining area of Welkom about 300 kilometers ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ￢ﾀﾓ 4 people killed. The \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  centered in the gold mining area of Welkom about 300 kilometers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1989",
+   "htmlTitle": "\u003cb\u003e1989\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1989",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... USGS Earthquake Hazards Program, responsible for monitoring, ... 5.5,   SOLOMON ISLANDS, Nov 01 1989, 11:29:59, -10.992, 162.302, 198911011129   ... 4.9, SOUTH AFRICA, Sep 29 1989, 06:16:32, -30.587, 28.733 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e USGS \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program, responsible for monitoring, \u003cb\u003e...\u003c/b\u003e 5.5, \u003cbr\u003e  SOLOMON ISLANDS, Nov 01 1989, 11:29:59, -10.992, 162.302, 198911011129 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 4.9, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, \u003cb\u003eSep 29 1989\u003c/b\u003e, 06:16:32, -30.587, 28.733 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "amogNa_WR7UJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1989",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1989\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ￢ﾀﾓ Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ Archive \u003cb\u003eSeptember\u003c/b\u003e 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... September 30, 2012 ... September 29, 2012 .... During the 1989 Loma Prieta   earthquake, liquefaction of the soils and debris used to ..... have torn Saudi   Arabia away from the rest of the African continent, forming the Red Sea.",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 30, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember 29\u003c/b\u003e, 2012 \u003cb\u003e....\u003c/b\u003e During the \u003cb\u003e1989\u003c/b\u003e Loma Prieta \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e, liquefaction of the soils and debris used to \u003cb\u003e.....\u003c/b\u003e have torn Saudi \u003cbr\u003e  Arabia away from the rest of the \u003cb\u003eAfrican\u003c/b\u003e continent, forming the Red Sea.",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- \u003cb\u003eseptember\u003c/b\u003e-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Today's Earthquakes in KwaZulu-Natal, South Africa",
+   "htmlTitle": "Today&#39;s \u003cb\u003eEarthquakes\u003c/b\u003e in KwaZulu-Natal, South \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://earthquaketrack.com/p/south-africa/kwazulu-natal/recent",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "KwaZulu-Natal, South Africa has had: 0 earthquakes today; 0 earthquakes in the   past 7 days; 0 earthquakes in the past month; 0 earthquakes in the past year ...",
+   "htmlSnippet": "KwaZulu-Natal, South \u003cb\u003eAfrica\u003c/b\u003e has had: 0 \u003cb\u003eearthquakes\u003c/b\u003e today; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cbr\u003e  past 7 days; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the past month; 0 \u003cb\u003eearthquakes\u003c/b\u003e in the past year \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zsBZ0XEnLYYJ",
+   "formattedUrl": "earthquaketrack.com/p/south-africa/kwazulu-natal/recent",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/p/south-\u003cb\u003eafrica\u003c/b\u003e/kwazulu-natal/recent",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "VvW9o4fa/1rp6qkNI6hsU8jE/kZYqvcCS2jhLywkUbI="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list September 28, 2012 ￢ﾀﾓ Earthquake in Baja ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eSeptember\u003c/b\u003e 28, 2012 ￢ﾀﾓ \u003cb\u003eEarthquake\u003c/b\u003e in Baja \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/09/27/major-earthquakes-list-september-28-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: September 29, 2012 at 8:47 am by By Ashish Khanal .... the   aftermath of the Loma Prieta in 1989 and in the Mexico City Quake aftermath, for   5 months .... Worldwide EARTHQUAKE related news ￢ﾀﾓ To remember : South-  Africa 1976 ...",
+   "htmlSnippet": "Last update: \u003cb\u003eSeptember 29\u003c/b\u003e, 2012 at 8:47 am by By Ashish Khanal \u003cb\u003e....\u003c/b\u003e the \u003cbr\u003e  aftermath of the Loma Prieta in \u003cb\u003e1989\u003c/b\u003e and in the Mexico City \u003cb\u003eQuake\u003c/b\u003e aftermath, for \u003cbr\u003e  5 months \u003cb\u003e....\u003c/b\u003e Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ￢ﾀﾓ To remember : South-\u003cbr\u003e  \u003cb\u003eAfrica\u003c/b\u003e 1976 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qWJ6u1Z_f3YJ",
+   "formattedUrl": "earthquake-report.com/.../major-earthquakes-list-september-28-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003eseptember\u003c/b\u003e-28-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 29 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember 29\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_29",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 29 is the 272nd day of the year (273rd in leap years) in the Gregorian   calendar. ... 1717 ￢ﾀﾓ An earthquake strikes Antigua Guatemala, destroying much   of the city's .... 1936); 1876 ￢ﾀﾓ Charlie Llewellyn, South African cricketer (d. ....   English photographer and director; 1989 ￢ﾀﾓ Aaron Martin, English footballer; 1989 ...",
+   "htmlSnippet": "\u003cb\u003eSeptember 29\u003c/b\u003e is the 272nd day of the year (273rd in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e 1717 ￢ﾀﾓ An \u003cb\u003eearthquake\u003c/b\u003e strikes Antigua Guatemala, destroying much \u003cbr\u003e  of the city&#39;s \u003cb\u003e....\u003c/b\u003e 1936); 1876 ￢ﾀﾓ Charlie Llewellyn, South \u003cb\u003eAfrican\u003c/b\u003e cricketer (d. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  English photographer and director; \u003cb\u003e1989\u003c/b\u003e ￢ﾀﾓ Aaron Martin, English footballer; \u003cb\u003e1989\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mkG2KNiHH5kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_29",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e29\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ￢ﾀﾓ 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ￢ﾀﾓ 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: April 23, 2012 at 8:29 am by By Armand Vervaeck and James   Daniell .... Mw8.1 ￢ﾀﾓ May 23, 1989 ￢ﾀﾓ North of Macquarie Island (Mw8.1 ... Mw8.0 ￢ﾀﾓ   September 20, 1920 ￢ﾀﾓ Loyalty Islands Region ... KENYA / TANZANIA / CROZET   ISLANDS / BANGLADESH / KERGUELEN ISLANDS / SOUTH AFRICA /   SINGAPORE ...",
+   "htmlSnippet": "Last update: April 23, 2012 at 8:\u003cb\u003e29\u003c/b\u003e am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e....\u003c/b\u003e Mw8.1 ￢ﾀﾓ May 23, \u003cb\u003e1989\u003c/b\u003e ￢ﾀﾓ North of Macquarie Island (Mw8.1 \u003cb\u003e...\u003c/b\u003e Mw8.0 ￢ﾀﾓ \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 20, 1920 ￢ﾀﾓ Loyalty Islands Region \u003cb\u003e...\u003c/b\u003e KENYA / TANZANIA / CROZET \u003cbr\u003e  ISLANDS / BANGLADESH / KERGUELEN ISLANDS / SOUTH \u003cb\u003eAFRICA\u003c/b\u003e / \u003cbr\u003e  SINGAPORE \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South African National Seismograph Network (SANSN) FDSN ...",
+   "htmlTitle": "South \u003cb\u003eAfrican\u003c/b\u003e National Seismograph Network (SANSN) FDSN \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.fdsn.org/meetings/2005/South_Africa_FDSN_2005.pdf",
+   "displayLink": "www.fdsn.org",
+   "snippet": "A unique aspect of South African seismicity is that the vast majority of seismic   events are associated with the deep ... the largest earthquake in. South Africa's   history (magnitude 6.3) occurred on September 29, 1969. ... 1989/09/29. Lesotho.   5.0 ...",
+   "htmlSnippet": "A unique aspect of South \u003cb\u003eAfrican\u003c/b\u003e seismicity is that the vast majority of \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  events are associated with the deep \u003cb\u003e...\u003c/b\u003e the largest \u003cb\u003eearthquake\u003c/b\u003e in. South \u003cb\u003eAfrica&#39;s\u003c/b\u003e \u003cbr\u003e  history (magnitude 6.3) occurred on September 29, 1969. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1989/09/29\u003c/b\u003e. Lesotho. \u003cbr\u003e  5.0 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "AIziNAifs-0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.fdsn.org/meetings/2005/South_Africa_FDSN_2005.pdf",
+   "htmlFormattedUrl": "www.fdsn.org/meetings/2005/South_\u003cb\u003eAfrica\u003c/b\u003e_FDSN_2005.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Ian",
+      "creator": "Writer",
+      "producer": "OpenOffice.org 2.0-pre",
+      "creationdate": "D:20050921133210+02'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismotectonic models for south africa: synthesis of geoscientific ...",
+   "htmlTitle": "seismotectonic models for south \u003cb\u003eafrica\u003c/b\u003e: synthesis of geoscientific \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.africaarray.psu.edu/publications/pdfs/Singh.pdf",
+   "displayLink": "www.africaarray.psu.edu",
+   "snippet": "We used earthquake records from the South African National. Seismological ....   the 20th century was the Tulbagh earthquake of 29 September. 1969, with ML ...",
+   "htmlSnippet": "We used \u003cb\u003eearthquake\u003c/b\u003e records from the South \u003cb\u003eAfrican\u003c/b\u003e National. Seismological \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  the 20th century was the Tulbagh \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e29 September\u003c/b\u003e. 1969, with ML \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EIctWD9u0a4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.africaarray.psu.edu/publications/pdfs/Singh.pdf",
+   "htmlFormattedUrl": "www.\u003cb\u003eafrica\u003c/b\u003earray.psu.edu/publications/pdfs/Singh.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20090131153419-05'00'",
+      "creationdate": "D:20081219092934-07'00'",
+      "creator": "Adobe InDesign CS3 (5.0.4)",
+      "producer": "Adobe PDF Library 8.0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Only 80s - 1989",
+   "htmlTitle": "Only 80s - \u003cb\u003e1989\u003c/b\u003e",
+   "link": "http://www.only80s.com/1989.htm",
+   "displayLink": "www.only80s.com",
+   "snippet": "Arsenio Hall becomes first African American to host nightly talk show. Cold War ...   09/29/1989 Zsa Zsa Gabor convicted of slapping a police officer in Beverly Hills   ... 10/17/1989 Earthquake in SF (6.9) cancels 3rd game of World Series, kills 67 ...",
+   "htmlSnippet": "Arsenio Hall becomes first \u003cb\u003eAfrican\u003c/b\u003e American to host nightly talk show. Cold War \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e09/29/1989\u003c/b\u003e Zsa Zsa Gabor convicted of slapping a police officer in Beverly Hills \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 10/17/1989 \u003cb\u003eEarthquake\u003c/b\u003e in SF (6.9) cancels 3rd game of World Series, kills 67 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cgFSDJcXxRkJ",
+   "formattedUrl": "www.only80s.com/1989.htm",
+   "htmlFormattedUrl": "www.only80s.com/\u003cb\u003e1989\u003c/b\u003e.htm"
+  }
+ ]
+}

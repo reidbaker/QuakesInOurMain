@@ -1,0 +1,324 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 14 1967 Eurasia Earthquake",
+    "totalResults": "9230",
+    "searchTerms": "Mar 14 1967 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 14 1967 Eurasia Earthquake",
+    "totalResults": "9230",
+    "searchTerms": "Mar 14 1967 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.370961,
+  "formattedSearchTime": "0.37",
+  "totalResults": "9230",
+  "formattedTotalResults": "9,230"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/index.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Get real-time earthquake notifications sent to you using a number of popular ...   and Eurasian Plates, as North America moves westward relative to Eurasia. ... M   6.2, 75km SW of Vallenar, Chile Wednesday, November 14, 2012 19:02:05 UTC ...",
+   "htmlSnippet": "Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of popular \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  and \u003cb\u003eEurasian\u003c/b\u003e Plates, as North America moves westward relative to \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e M \u003cbr\u003e  6.2, 75km SW of Vallenar, Chile Wednesday, November \u003cb\u003e14\u003c/b\u003e, 2012 19:02:05 UTC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D_0uDpIsu6kJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/index.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ii",
+   "htmlTitle": "ii",
+   "link": "http://www.cmmacs.ernet.in/~parvez/pageoph96.pdf",
+   "displayLink": "www.cmmacs.ernet.in",
+   "snippet": "parameters of three earthquakes which occurred on October 21, 1964 (Mb = 5.9),   September 26, 1966. (M b = 5.8) and March 14, 1967 (M b = 5.8). These events ...",
+   "htmlSnippet": "parameters of three \u003cb\u003eearthquakes\u003c/b\u003e which occurred on October 21, 1964 (Mb = 5.9), \u003cbr\u003e  September 26, 1966. (M b = 5.8) and \u003cb\u003eMarch 14, 1967\u003c/b\u003e (M b = 5.8). These events \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qp-u9g470rUJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.cmmacs.ernet.in/~parvez/pageoph96.pdf",
+   "htmlFormattedUrl": "www.cmmacs.ernet.in/~parvez/pageoph96.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "915175003.TIF",
+      "creationdate": "Tue Nov 30 16:43:41 2004",
+      "title": "Body-wave wave-form modelling and source parameters for the indochina border earthquakes",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050118165648+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake mechanisms in the Himalayan, Burmese, and Andaman ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e mechanisms in the Himalayan, Burmese, and Andaman \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.agu.org/journals/jb/v075/i014/JB075i014p02699/JB075i014p02699.pdf",
+   "displayLink": "www.agu.org",
+   "snippet": "Focal mechanisms are presented for thirteen earthquakes between Hindu Kush   ... Eurasian plates along the Himalayan mountain front. .... MAR 14,1967 284N ...",
+   "htmlSnippet": "Focal mechanisms are presented for thirteen \u003cb\u003eearthquakes\u003c/b\u003e between Hindu Kush \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e plates along the Himalayan mountain front. \u003cb\u003e....\u003c/b\u003e \u003cb\u003eMAR 14,1967\u003c/b\u003e 284N \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.agu.org/journals/jb/v075/i014/.../JB075i014p02699.pdf",
+   "htmlFormattedUrl": "www.agu.org/journals/jb/v075/i014/.../JB075i014p02699.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Thomas J. Fitch",
+      "creationdate": "D:20070622152909Z",
+      "creator": "www.PrincetonImaging.com",
+      "moddate": "D:20121011153025-04'00'",
+      "producer": "escape 1.1",
+      "subject": "Tectonophysics: Structure of the crust; Seismology: Seismic sources (mechanisms, magnitude, frequency spectrum, space and time distribution); Information Related to Geographic Regions: Asia",
+      "title": "Earthquake mechanisms in the Himalayan, Burmese, and Andaman Regions and continental tectonics in central Asia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   ... Plate and the Eurasian Plate, beyond the eastern extent of the Armenian and ...   [14]. There have been 1561 aftershocks above magnitude 2 Mw as of 30 October.   ..... Tￅﾍhoku, Japan (Great East Japan) (9.0, Mar 11)￢ﾀﾠ￢ﾀﾡ; Burma (6.8, Mar 24)￢ﾀﾠ ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the Armenian and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  [\u003cb\u003e14\u003c/b\u003e]. There have been 1561 aftershocks above magnitude 2 Mw as of 30 October. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Tￅﾍhoku, Japan (Great East Japan) (9.0, \u003cb\u003eMar\u003c/b\u003e 11)￢ﾀﾠ￢ﾀﾡ; Burma (6.8, \u003cb\u003eMar\u003c/b\u003e 24)￢ﾀﾠ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tip",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tip",
+   "link": "http://www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "Eurasian Plate (Figure 1) and going under the Eurasian. Plate; this ... 115. 10   Dec. 1967 Koyna. 04:30. 6.5. VIII. 200. 23 Mar. 1970 Bharuch. 20:56. 5.4. VII. 30 ...",
+   "htmlSnippet": "\u003cb\u003eEurasian\u003c/b\u003e Plate (Figure 1) and going under the \u003cb\u003eEurasian\u003c/b\u003e. Plate; this \u003cb\u003e...\u003c/b\u003e 115. 10 \u003cbr\u003e  Dec. \u003cb\u003e1967\u003c/b\u003e Koyna. 04:30. 6.5. VIII. 200. 23 \u003cb\u003eMar\u003c/b\u003e. 1970 Bharuch. 20:56. 5.4. VII. 30 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ChwROW281zgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20091012130112+05'30'",
+      "author": "admin",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20091012130112+05'30'",
+      "title": "Microsoft Word - EQTip04.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tips",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tips",
+   "link": "http://www.ourvmc.org/Files/EQTips_Full.pdf",
+   "displayLink": "www.ourvmc.org",
+   "snippet": "While the subject of earthquake engineering has its own sophistication and a lot   of new .... Tip 14: Why are horizontal bands necessary in masonry buildings? 27   ... North American. Plate. Antarctic Plate. Eurasian. Plate. African. Plate. South .....   115. 10 Dec. 1967 Koyna. 04:30. 6.5. VIII. 200. 23 Mar. 1970 Bharuch. 20:56. 5.4 ...",
+   "htmlSnippet": "While the subject of \u003cb\u003eearthquake\u003c/b\u003e engineering has its own sophistication and a lot \u003cbr\u003e  of new \u003cb\u003e....\u003c/b\u003e Tip \u003cb\u003e14\u003c/b\u003e: Why are horizontal bands necessary in masonry buildings? 27 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e North American. Plate. Antarctic Plate. \u003cb\u003eEurasian\u003c/b\u003e. Plate. African. Plate. South \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  115. 10 Dec. \u003cb\u003e1967\u003c/b\u003e Koyna. 04:30. 6.5. VIII. 200. 23 \u003cb\u003eMar\u003c/b\u003e. 1970 Bharuch. 20:56. 5.4 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eJE3wg7LCwYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "htmlFormattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050816131846+05'30'",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20050816133329+05'30'",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "MAR 14 19Q3",
+   "htmlTitle": "\u003cb\u003eMAR 14\u003c/b\u003e 19Q3",
+   "link": "http://dspace.mit.edu/bitstream/handle/1721.1/58220/11126431.pdf?sequence=1",
+   "displayLink": "dspace.mit.edu",
+   "snippet": "14. Modifications. 18. The Problem of Finite Width. 21. Checks on the Validity of   the .... for many ocean floor earthquakes, Sykes (1967) showed that most ocean   ..... Eurasian plate. N.American plate. Azores. 400. O. 0. -30. K. African plate. 20 ...",
+   "htmlSnippet": "\u003cb\u003e14\u003c/b\u003e. Modifications. 18. The Problem of Finite Width. 21. Checks on the Validity of \u003cbr\u003e  the \u003cb\u003e....\u003c/b\u003e for many ocean floor \u003cb\u003eearthquakes\u003c/b\u003e, Sykes (\u003cb\u003e1967\u003c/b\u003e) showed that most ocean \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e plate. N.American plate. Azores. 400. O. 0. -30. K. African plate. 20 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "dspace.mit.edu/bitstream/handle/1721.1/58220/11126431.pdf?sequence...",
+   "htmlFormattedUrl": "dspace.mit.edu/bitstream/handle/1721.1/58220/11126431.pdf?sequence...",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100429184415-04'00'",
+      "producer": "Adobe Acrobat 8.12 Paper Capture Plug-in",
+      "moddate": "D:20100519174522-04'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Regional stresses along the Eurasia-Africa plate boundary derived ...",
+   "htmlTitle": "Regional stresses along the \u003cb\u003eEurasia\u003c/b\u003e-Africa plate boundary derived \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.springerlink.com/index/u0h166q721025040.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "Abstract--The focal mechanism solutions of 83 European earthquakes with M \u003e 6,   selected from ... boundary between Eurasia and Africa from the Azores islands to   the ..... 14. 1947-06-04. 00 29 55. 40.00. 24.00. 80. 6.00. 15. 1947-10 06. 19 55   37 ..... CANITEZ, N., and UCER S. (1967), Computer Determinations of the Fault ...",
+   "htmlSnippet": "Abstract--The focal mechanism solutions of 83 European \u003cb\u003eearthquakes\u003c/b\u003e with M &gt; 6, \u003cbr\u003e  selected from \u003cb\u003e...\u003c/b\u003e boundary between \u003cb\u003eEurasia\u003c/b\u003e and Africa from the Azores islands to \u003cbr\u003e  the \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e14\u003c/b\u003e. 1947-06-04. 00 29 55. 40.00. 24.00. 80. 6.00. 15. 1947-10 06. 19 55 \u003cbr\u003e  37 \u003cb\u003e.....\u003c/b\u003e CANITEZ, N., and UCER S. (\u003cb\u003e1967\u003c/b\u003e), Computer Determinations of the Fault \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "915141007.TIF",
+      "creationdate": "Mon Nov 29 11:50:47 2004",
+      "title": "Regional stresses along the Eurasia-Africa plate boundary derived from focal mechanisms of large earthquakes",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20041209041100+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Closure of the Africa-Eurasia-North America Plate Motion Circuit and ...",
+   "htmlTitle": "Closure of the Africa-\u003cb\u003eEurasia\u003c/b\u003e-North America Plate Motion Circuit and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.geology.wisc.edu/~chuck/PDF/argus_jgr89.pdf",
+   "displayLink": "www.geology.wisc.edu",
+   "snippet": "We search the long Eurasia-North America boundary for evidence of an .... Map   showing earthquakes shallower than 100-km depth (reported in the .... 23, 1967.   79.81 2.90 134 20 127.1 0.007 Cook et al. [1986] Oct. 18, 1967 ... [1988a] July 14  , 1980 ... 36.23 -7.61 145 25 126.1 0.119 Grimison and Chen [1986] Mar.",
+   "htmlSnippet": "We search the long \u003cb\u003eEurasia\u003c/b\u003e-North America boundary for evidence of an \u003cb\u003e....\u003c/b\u003e Map \u003cbr\u003e  showing \u003cb\u003eearthquakes\u003c/b\u003e shallower than 100-km depth (reported in the \u003cb\u003e....\u003c/b\u003e 23, \u003cb\u003e1967\u003c/b\u003e. \u003cbr\u003e  79.81 2.90 134 20 127.1 0.007 Cook et al. [1986] Oct. 18, \u003cb\u003e1967\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e [1988a] July \u003cb\u003e14\u003c/b\u003e\u003cbr\u003e  , 1980 \u003cb\u003e...\u003c/b\u003e 36.23 -7.61 145 25 126.1 0.119 Grimison and Chen [1986] \u003cb\u003eMar\u003c/b\u003e.",
+   "cacheId": "NjUS0VjX3BYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geology.wisc.edu/~chuck/PDF/argus_jgr89.pdf",
+   "htmlFormattedUrl": "www.geology.wisc.edu/~chuck/PDF/argus_jgr89.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "Adobe Acrobat 6.0",
+      "creator": "Adobe Acrobat 6.0",
+      "creationdate": "Fri Apr 28 07:09:39 2006",
+      "moddate": "Fri Apr 28 07:09:40 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History of India and How Safe Are We? | MapsofIndia Blog",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History of India and How Safe Are We? | MapsofIndia Blog",
+   "link": "http://blog.mapsofindia.com/2010/01/17/earthquake-history-of-india-and-how-safe-are-we/",
+   "displayLink": "blog.mapsofindia.com",
+   "snippet": "Jan 17, 2010 ... Earthquakes have the power to uproot trees and send them ... ... The collision   with the Eurasian Plate along the boundary between India and Nepal formed the   orogenic belt that ... 1999 MAR 29, CHAMOLI DIST, UP, 6.8, NA ... 1967 DEC 10,   KOYNA, MAHARASHTRA, 6.5, NA ... 11, 12, 13, 14, 15, 16, 17 ...",
+   "htmlSnippet": "Jan 17, 2010 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e have the power to uproot trees and send them ... \u003cb\u003e...\u003c/b\u003e The collision \u003cbr\u003e  with the \u003cb\u003eEurasian\u003c/b\u003e Plate along the boundary between India and Nepal formed the \u003cbr\u003e  orogenic belt that \u003cb\u003e...\u003c/b\u003e 1999 \u003cb\u003eMAR\u003c/b\u003e 29, CHAMOLI DIST, UP, 6.8, NA \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1967\u003c/b\u003e DEC 10, \u003cbr\u003e  KOYNA, MAHARASHTRA, 6.5, NA \u003cb\u003e...\u003c/b\u003e 11, 12, 13, \u003cb\u003e14\u003c/b\u003e, 15, 16, 17 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ffcqb1JllZMJ",
+   "formattedUrl": "blog.mapsofindia.com/.../earthquake-history-of-india-and-how-safe-are-we/",
+   "htmlFormattedUrl": "blog.mapsofindia.com/.../\u003cb\u003eearthquake\u003c/b\u003e-history-of-india-and-how-safe-are-we/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://198.65.139.229/~blogmap/wp-content/uploads/2010/01/india-map-seismiczone1.jpg?w=265"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "211",
+      "height": "239",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2leeGzDZT96uooxFP2gfNU4t1W15OAg7MNtlXS15kb4rRPTsY3xDus1hj"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "MapsofIndia Blog -",
+      "fb:admins": "100000703909807",
+      "og:title": "Earthquake History of India and How Safe Are We?",
+      "og:url": "http://blog.mapsofindia.com/2010/01/17/earthquake-history-of-india-and-how-safe-are-we/",
+      "og:type": "article"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "niharhazra",
+      "nickname": "niharhazra",
+      "photo": "http://0.gravatar.com/avatar/e8ae516e386da851f1974aff3c7d13d0?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "lowprice",
+      "nickname": "lowprice",
+      "url": "http://lowpricescan.com/",
+      "url_text": "lowprice",
+      "photo": "http://0.gravatar.com/avatar/e978566cceb0b568f4e55586667b24ce?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "glypeproxy US",
+      "url": "http://glypeproxy.us/",
+      "url_text": "glypeproxy US",
+      "photo": "http://0.gravatar.com/avatar/e1bf143e8e4cb8ce44d982164f721e67?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "mapsofindia1",
+      "photo": "http://1.gravatar.com/avatar/ffade411e9a37924af2b197e4d3c9eb7?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "Parvesh Malhotra",
+      "photo": "http://1.gravatar.com/avatar/7c742f2c045264f3b870508b003cd2fb?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "buy helmets online",
+      "url": "http://www.helmetwale.com/",
+      "url_text": "buy helmets online",
+      "photo": "http://0.gravatar.com/avatar/40b6c63f6b18f35725256c13a41796b4?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     }
+    ]
+   }
+  }
+ ]
+}
