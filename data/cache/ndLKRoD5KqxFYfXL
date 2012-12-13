@@ -1,0 +1,268 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 26 1962 Eurasia Earthquake",
+    "totalResults": "20400",
+    "searchTerms": "Dec 26 1962 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 26 1962 Eurasia Earthquake",
+    "totalResults": "20400",
+    "searchTerms": "Dec 26 1962 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.232752,
+  "formattedSearchTime": "0.23",
+  "totalResults": "20400",
+  "formattedTotalResults": "20,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive September 2012",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive September 2012",
+   "link": "http://earthquake-report.com/2012/11/02/worldwide-earthquake-related-news-archive-september-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Nov 2, 2012 ... The most recent earthquake related news : Click here ... Alaska; 66 cm at   Crescent City and 26 cm at Los Angeles, California; .... The North American and   Eurasian plates are spreading apart along the ..... April 2009 and December   2011 in the northeastern region prompted an .... Iran, 1962 ??? Magnitude : 7.1 ...",
+   "htmlSnippet": "Nov 2, 2012 \u003cb\u003e...\u003c/b\u003e The most recent \u003cb\u003eearthquake\u003c/b\u003e related news : Click here \u003cb\u003e...\u003c/b\u003e Alaska; 66 cm at \u003cbr\u003e  Crescent City and \u003cb\u003e26\u003c/b\u003e cm at Los Angeles, California; \u003cb\u003e....\u003c/b\u003e The North American and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plates are spreading apart along the \u003cb\u003e.....\u003c/b\u003e April 2009 and \u003cb\u003eDecember\u003c/b\u003e \u003cbr\u003e  2011 in the northeastern region prompted an \u003cb\u003e....\u003c/b\u003e Iran, \u003cb\u003e1962\u003c/b\u003e ??? Magnitude : 7.1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4ZkqGEzij2UJ",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- september-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- september-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-07-at-16.03.37.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "265",
+      "height": "190",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRcDXX3lx7tXGGlc1sUdRhAsgdroqpWo2QZc55Nbszz1BM8wcu39cCStVs"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/index.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Get real-time earthquake notifications sent to you using a number of popular   mediums: ... and Eurasian Plates, as North America moves westward relative to   Eurasia. ... M 6.3, 21km ESE of Tokoroa, New Zealand Friday, December 07,   2012 ...",
+   "htmlSnippet": "Get real-time \u003cb\u003eearthquake\u003c/b\u003e notifications sent to you using a number of popular \u003cbr\u003e  mediums: \u003cb\u003e...\u003c/b\u003e and \u003cb\u003eEurasian\u003c/b\u003e Plates, as North America moves westward relative to \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e M 6.3, 21km ESE of Tokoroa, New Zealand Friday, \u003cb\u003eDecember\u003c/b\u003e 07, \u003cbr\u003e  2012 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D_0uDpIsu6kJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/index.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/index.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 East Azerbaijan earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2012 East Azerbaijan earthquakes occurred near the cities of Ahar and   Varzaqan in Iran's ... faulting in the shallow crust about 300 km east of the   Eurasia-Arabian Plate boundary. ..... %2Fbulletin%2Fnews%2F29548.php%  3Findex%3D29548%26lang%3Den ... Zohan, Iran (5.6, Dec 5); Kamaishi, Japan   (7.3, Dec 7) ...",
+   "htmlSnippet": "The 2012 East Azerbaijan \u003cb\u003eearthquakes\u003c/b\u003e occurred near the cities of Ahar and \u003cbr\u003e  Varzaqan in Iran&#39;s \u003cb\u003e...\u003c/b\u003e faulting in the shallow crust about 300 km east of the \u003cbr\u003e  \u003cb\u003eEurasia\u003c/b\u003e-Arabian Plate boundary. \u003cb\u003e.....\u003c/b\u003e %2Fbulletin%2Fnews%2F29548.php%\u003cbr\u003e  3Findex%3D29548%\u003cb\u003e26lang\u003c/b\u003e%3Den \u003cb\u003e...\u003c/b\u003e Zohan, Iran (5.6, \u003cb\u003eDec\u003c/b\u003e 5); Kamaishi, Japan \u003cbr\u003e  (7.3, \u003cb\u003eDec\u003c/b\u003e 7) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "z3LJZUSFL8IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_East_Azerbaijan_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Iran_relief_location_map.jpg/250px-Iran_relief_location_map.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "178",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTlK7xfIu2EE120ax5sst5KSWyd5SxHE-3pbK-lYso7uZkfMn3WOONAqcQQ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major Iranian Earthquakes of the 20th Century | MCEER Information ...",
+   "htmlTitle": "Major Iranian \u003cb\u003eEarthquakes\u003c/b\u003e of the 20th Century | MCEER Information \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://mceer.buffalo.edu/infoservice/reference_services/major-iran-earthquake.asp",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Iranian earthquakes since 1900 with 1000 or more deaths. Table includes ... Date  : 1 Sep 1962, City: Bu'in Zahra, Deaths: 12,225, Magnitude: 7.1. Ninety-one ...   This fault is north of the collision zone between the Arabian and Eurasian plates.   The region of ... Date: 26 Dec 2003, Region: Bam, Deaths: 31,000, Magnitude:   6.6 ...",
+   "htmlSnippet": "Iranian \u003cb\u003eearthquakes\u003c/b\u003e since 1900 with 1000 or more deaths. Table includes \u003cb\u003e...\u003c/b\u003e Date\u003cbr\u003e  : 1 Sep \u003cb\u003e1962\u003c/b\u003e, City: Bu&#39;in Zahra, Deaths: 12,225, Magnitude: 7.1. Ninety-one \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  This fault is north of the collision zone between the Arabian and \u003cb\u003eEurasian\u003c/b\u003e plates. \u003cbr\u003e  The region of \u003cb\u003e...\u003c/b\u003e Date: \u003cb\u003e26 Dec\u003c/b\u003e 2003, Region: Bam, Deaths: 31,000, Magnitude: \u003cbr\u003e  6.6 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "i7a9u0FnjmEJ",
+   "formattedUrl": "mceer.buffalo.edu/infoservice/reference.../major-iran-earthquake.asp",
+   "htmlFormattedUrl": "mceer.buffalo.edu/infoservice/reference.../major-iran-\u003cb\u003eearthquake\u003c/b\u003e.asp"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2003 Bam earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2003 Bam \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2003_Bam_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Preliminary analysis of the pattern of seismic-wave radiation from the December   26 earthquake is consistent with the earthquake having been caused by ...",
+   "htmlSnippet": "Preliminary analysis of the pattern of \u003cb\u003eseismic\u003c/b\u003e-wave radiation from the \u003cb\u003eDecember\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e26 earthquake\u003c/b\u003e is consistent with the \u003cb\u003eearthquake\u003c/b\u003e having been caused by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "m-Vea9B7698J",
+   "formattedUrl": "en.wikipedia.org/wiki/2003_Bam_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2003_Bam_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2003_Bam_earthquake.png/240px-2003_Bam_earthquake.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "176",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzvI2zdnsTvCn7s3yOj71r95_rscvJHK6RBZokBtBP7fyU2s2FKHN22rrY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Bam (SE Iran) earthquake of 26 December 2003, Mw6.5: A ...",
+   "htmlTitle": "Bam (SE Iran) \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e26 December\u003c/b\u003e 2003, Mw6.5: A \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.iiees.ac.ir/iiees/english/bank/bam/bam_report_english_recc.html",
+   "displayLink": "www.iiees.ac.ir",
+   "snippet": "Dec 26, 2003 ... The Bam earthquake of December 26, 2003 (Mw6.5) occurred at 01:56:56 (GMT,   .... 1962 09 29 06 54 00 28.290 57.480 83 5.5 .0 .0 N.US ... generated by the   motion of the Arabian plate northward against the Eurasian plate ...",
+   "htmlSnippet": "Dec 26, 2003 \u003cb\u003e...\u003c/b\u003e The Bam \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eDecember 26\u003c/b\u003e, 2003 (Mw6.5) occurred at 01:56:56 (GMT, \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1962\u003c/b\u003e 09 29 06 54 00 28.290 57.480 83 5.5 .0 .0 N.US \u003cb\u003e...\u003c/b\u003e generated by the \u003cbr\u003e  motion of the Arabian plate northward against the \u003cb\u003eEurasian\u003c/b\u003e plate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GMAkJMFzIoQJ",
+   "formattedUrl": "www.iiees.ac.ir/iiees/english/bank/.../bam_report_english_recc.html",
+   "htmlFormattedUrl": "www.iiees.ac.ir/iiees/english/bank/.../bam_report_english_recc.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.iiees.ac.ir/iiees/bank/Bam/image008.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLJfctfk8lnK-PqNY8PIYZEl2MK-cr5EGpZF4EUMR_1fY9qlqPHke0bck"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "originator": "Microsoft Word 10"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "scenarios of giant tsunamis of tectonic origin in the mediterranean",
+   "htmlTitle": "scenarios of giant tsunamis of tectonic origin in the mediterranean",
+   "link": "http://home.iitk.ac.in/~vinaykg/Iset464.pdf",
+   "displayLink": "home.iitk.ac.in",
+   "snippet": "occurrence of the giant Indian Ocean tsunami on December 26, 2004. ... The   recent catastrophic giant tsunami that was generated by the December 26, 2004   earthquake ... The Eurasia-Africa plate boundary collision assumes different   expressions in different portions of the ... Ambraseys 6-degree scale (Ambraseys,   1962)) ...",
+   "htmlSnippet": "occurrence of the giant Indian Ocean tsunami on \u003cb\u003eDecember 26\u003c/b\u003e, 2004. \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  recent catastrophic giant tsunami that was generated by the \u003cb\u003eDecember 26\u003c/b\u003e, 2004 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eEurasia\u003c/b\u003e-Africa plate boundary collision assumes different \u003cbr\u003e  expressions in different portions of the \u003cb\u003e...\u003c/b\u003e Ambraseys 6-degree scale (Ambraseys, \u003cbr\u003e  \u003cb\u003e1962\u003c/b\u003e)) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9BU5H385VTIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "home.iitk.ac.in/~vinaykg/Iset464.pdf",
+   "htmlFormattedUrl": "home.iitk.ac.in/~vinaykg/Iset464.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20060409150125+05'30'",
+      "author": "Administrator",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20060409150125+05'30'",
+      "title": "Microsoft Word - 464.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tip",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tip",
+   "link": "http://www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "Eurasian Plate (Figure 1) and going under the Eurasian. Plate .... 26 Dec. 2004   Sumatra. 06:28. 9.3. VII. 10,749. The timing of the earthquake during the day and ...",
+   "htmlSnippet": "\u003cb\u003eEurasian\u003c/b\u003e Plate (Figure 1) and going under the \u003cb\u003eEurasian\u003c/b\u003e. Plate \u003cb\u003e....\u003c/b\u003e \u003cb\u003e26 Dec\u003c/b\u003e. 2004 \u003cbr\u003e  Sumatra. 06:28. 9.3. VII. 10,749. The timing of the \u003cb\u003eearthquake\u003c/b\u003e during the day and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ChwROW281zgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20091012130112+05'30'",
+      "author": "admin",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20091012130112+05'30'",
+      "title": "Microsoft Word - EQTip04.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "What is the biggest earthquake that has ever happened? ... Around 15% of the   total seismic energy is released where the Eurasian and African plates are   colliding, forming a band of seismicity which ... 1901, 14, 1931, 26, 1961, 18.   1902, 8, 1932, 13, 1962, 15 .... 12 Dec 1940, Porthmadog, 4.7, 1, Criccieth, Fell   downstairs ...",
+   "htmlSnippet": "What is the biggest \u003cb\u003eearthquake\u003c/b\u003e that has ever happened? \u003cb\u003e...\u003c/b\u003e Around 15% of the \u003cbr\u003e  total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and African plates are \u003cbr\u003e  colliding, forming a band of seismicity which \u003cb\u003e...\u003c/b\u003e 1901, 14, 1931, \u003cb\u003e26\u003c/b\u003e, 1961, 18. \u003cbr\u003e  1902, 8, 1932, 13, \u003cb\u003e1962\u003c/b\u003e, 15 \u003cb\u003e....\u003c/b\u003e 12 \u003cb\u003eDec\u003c/b\u003e 1940, Porthmadog, 4.7, 1, Criccieth, Fell \u003cbr\u003e  downstairs \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SURFACE-WAVE MAGNITUDES OF EURASIAN EARTHQUAKES ...",
+   "htmlTitle": "SURFACE-WAVE MAGNITUDES OF \u003cb\u003eEURASIAN EARTHQUAKES\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "mined for approximately 100 Eurasian events which occurred during the interval.   August through ... (1962), Basham (1971), Evernden et aL. (1971) .... 15.9 ?? from   the eastern Caucasus earthquake of December 20, 1971. The period of the .....   26-08-71. 11.55-51.0. 44.5. 9.6. 25. 28-08-71. 16-34 44.4. 37.6. 55.8. 26. 29-08-  71 ...",
+   "htmlSnippet": "mined for approximately 100 \u003cb\u003eEurasian\u003c/b\u003e events which occurred during the interval. \u003cbr\u003e  August through \u003cb\u003e...\u003c/b\u003e (\u003cb\u003e1962\u003c/b\u003e), Basham (1971), Evernden et aL. (1971) \u003cb\u003e....\u003c/b\u003e 15.9 ?? from \u003cbr\u003e  the eastern Caucasus \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eDecember\u003c/b\u003e 20, 1971. The period of the \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e26\u003c/b\u003e-08-71. 11.55-51.0. 44.5. 9.6. 25. 28-08-71. 16-34 44.4. 37.6. 55.8. \u003cb\u003e26\u003c/b\u003e. 29-08-\u003cbr\u003e  71 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010282008.TIF",
+      "creationdate": "Tue Aug 02 19:47:49 2005",
+      "title": "010282008.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20051010114911+08'00'"
+     }
+    ]
+   }
+  }
+ ]
+}

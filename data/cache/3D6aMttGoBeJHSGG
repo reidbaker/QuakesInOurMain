@@ -1,0 +1,247 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 19 1902 Eurasia Earthquake",
+    "totalResults": "6220",
+    "searchTerms": "Sep 19 1902 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 19 1902 Eurasia Earthquake",
+    "totalResults": "6220",
+    "searchTerms": "Sep 19 1902 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.981942,
+  "formattedSearchTime": "0.98",
+  "totalResults": "6220",
+  "formattedTotalResults": "6,220"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Australia's worst earthquakes - Australian Geographic",
+   "htmlTitle": "Australia&#39;s worst \u003cb\u003eearthquakes\u003c/b\u003e - Australian Geographic",
+   "link": "http://www.australiangeographic.com.au/journal/australias-worst-earthquakes-top-10-most-devastating.htm",
+   "displayLink": "www.australiangeographic.com.au",
+   "snippet": "Jul 10, 2012 ... Australia has few big earthquakes, but some of them have caused great   devastation. ... with the Pacific plate in the east and the Eurasian plate to the   north. ... Warooka, South Australia, 19 September 1902 (Magnitude 6.0) ...",
+   "htmlSnippet": "Jul 10, 2012 \u003cb\u003e...\u003c/b\u003e Australia has few big \u003cb\u003eearthquakes\u003c/b\u003e, but some of them have caused great \u003cbr\u003e  devastation. \u003cb\u003e...\u003c/b\u003e with the Pacific plate in the east and the \u003cb\u003eEurasian\u003c/b\u003e plate to the \u003cbr\u003e  north. \u003cb\u003e...\u003c/b\u003e Warooka, South Australia, \u003cb\u003e19 September 1902\u003c/b\u003e (Magnitude 6.0) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EcyP2GgfKjMJ",
+   "formattedUrl": "www.australiangeographic.com.au/.../australias-worst-earthquakes-top-10- most-devastating.htm",
+   "htmlFormattedUrl": "www.australiangeographic.com.au/.../australias-worst-\u003cb\u003eearthquakes\u003c/b\u003e-top-10- most-devastating.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "209",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTlg8_OIjgcNebdL7N4vyhhGcMAiqTyf4CIY1s3_LkTKzBtigNrzmiSn7lQ"
+     }
+    ],
+    "metatags": [
+     {
+      "rating": "general",
+      "distribution": "global",
+      "og:title": "Australia's worst earthquakes",
+      "og:description": "Australia has few big earthquakes, but some of them have caused great devastation. Here are the 10 most significant.",
+      "og:image": "http://www.australiangeographic.com.au/assets/images/article/journal/11812/australian-earthquakes.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a ... 1902, 8, 1932, 13, 1962, 15 ... The 19   July 1984 Lleyn event of North Wales, with a magnitude of 5.4 ML, was the   largest onshore earthquake .... 7 Sep 1801, Comrie, 4.5, 2, near Edinburgh,   falling masonry ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1902\u003c/b\u003e, 8, 1932, 13, 1962, 15 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003e19\u003c/b\u003e \u003cbr\u003e  July 1984 Lleyn event of North Wales, with a magnitude of 5.4 ML, was the \u003cbr\u003e  largest onshore \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e 7 \u003cb\u003eSep\u003c/b\u003e 1801, Comrie, 4.5, 2, near Edinburgh, \u003cbr\u003e  falling masonry \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ESE of Dianyang, China - Earthquake Hazards Program - USGS",
+   "htmlTitle": "ESE of Dianyang, China - \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program - USGS",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000cl0z",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Sep 11, 2012 ... Page Last Modified: September 19, 2012 12:47:37 UTC ... dominantly results   from the continental collision of the India and Eurasia plates, which ... (\u003eM7.6) at   the start of the 20th Century, including the 1902 Atushi earthquake, ...",
+   "htmlSnippet": "Sep 11, 2012 \u003cb\u003e...\u003c/b\u003e Page Last Modified: \u003cb\u003eSeptember 19\u003c/b\u003e, 2012 12:47:37 UTC \u003cb\u003e...\u003c/b\u003e dominantly results \u003cbr\u003e  from the continental collision of the India and \u003cb\u003eEurasia\u003c/b\u003e plates, which \u003cb\u003e...\u003c/b\u003e (&gt;M7.6) at \u003cbr\u003e  the start of the 20th Century, including the \u003cb\u003e1902\u003c/b\u003e Atushi \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "C2AUTmV2I-gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000cl0z",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000cl0z"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 16 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember\u003c/b\u003e 16 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_16",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 16 is the 259th day of the year (260th in leap years) in the Gregorian   calendar. There are 106 days remaining until the end of the year.",
+   "htmlSnippet": "\u003cb\u003eSeptember\u003c/b\u003e 16 is the 259th day of the year (260th in leap years) in the Gregorian \u003cbr\u003e  calendar. There are 106 days remaining until the end of the year.",
+   "cacheId": "b6sbw9ZLvMIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_16",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_16"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Composite Regional Catalogs of Earthquakes in the Former ... - USGS",
+   "htmlTitle": "Composite Regional Catalogs of \u003cb\u003eEarthquakes\u003c/b\u003e in the Former \u003cb\u003e...\u003c/b\u003e - USGS",
+   "link": "http://earthquake.usgs.gov/research/data/russia_seismicity/download/USGS-OFR-02-500.pdf",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "the seismicity of the Eurasian land mass is therefore available, although to date   only in ... Commission (or PCSK [2]), published from 1902-1908 and from 1911-  1915 under the direction of G.V. .... (45, as of Dec. 2000) belonging to ..... Before   the end of the 19th century, the time in nearby major cities was used as local time  , ...",
+   "htmlSnippet": "the seismicity of the \u003cb\u003eEurasian\u003c/b\u003e land mass is therefore available, although to date \u003cbr\u003e  only in \u003cb\u003e...\u003c/b\u003e Commission (or PCSK [2]), published from \u003cb\u003e1902\u003c/b\u003e-1908 and from 1911-\u003cbr\u003e  1915 under the direction of G.V. \u003cb\u003e....\u003c/b\u003e (45, as of \u003cb\u003eDec\u003c/b\u003e. 2000) belonging to \u003cb\u003e.....\u003c/b\u003e Before \u003cbr\u003e  the end of the \u003cb\u003e19th\u003c/b\u003e century, the time in nearby major cities was used as local time\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iUoX_YvmSk0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake.usgs.gov/research/data/russia_seismicity/.../USGS-OFR-02-500. pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/research/data/russia_\u003cb\u003eseismic\u003c/b\u003eity/.../USGS-OFR-02-500. pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030114181140-05'00'",
+      "moddate": "D:20030114181140-05'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "creator": "AdobePS5.dll Version 5.2",
+      "title": "Microsoft Word - catalogs-final.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Geof??sica internacional - Seismic waves and surface waves: past ...",
+   "htmlTitle": "Geof??sica internacional - \u003cb\u003eSeismic\u003c/b\u003e waves and surface waves: past \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009",
+   "displayLink": "www.scielo.org.mx",
+   "snippet": "Published on line: September 30, 2011. ... Emil Wiechert (1861???1928) formulated   in 1902 the purpose of seismological research as ... Elastic???wave theory began   to stagnate toward the end of the 19th century, after the 1887 .... using the \"peak   and trough\" method for Eurasian earthquakes (Figure 9) by D. G??th (1962). Later ...",
+   "htmlSnippet": "Published on line: \u003cb\u003eSeptember\u003c/b\u003e 30, 2011. \u003cb\u003e...\u003c/b\u003e Emil Wiechert (1861???1928) formulated \u003cbr\u003e  in \u003cb\u003e1902\u003c/b\u003e the purpose of seismological research as \u003cb\u003e...\u003c/b\u003e Elastic???wave theory began \u003cbr\u003e  to stagnate toward the end of the \u003cb\u003e19\u003c/b\u003eth century, after the 1887 \u003cb\u003e....\u003c/b\u003e using the &quot;peak \u003cbr\u003e  and trough&quot; method for \u003cb\u003eEurasian earthquakes\u003c/b\u003e (Figure 9) by D. G??th (1962). Later \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "l1ENIIrcteEJ",
+   "formattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016...",
+   "htmlFormattedUrl": "www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S0016...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.scielo.org.mx/img/revistas/geoint/v50n4/a9f3.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "206",
+      "height": "245",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSWzENg6uD9O57Xz00pxuqTlyLxv1FuevlMnC6pM25BwqirfLDfFKZB3d-Y"
+     }
+    ],
+    "metatags": [
+     {
+      "citation_journal_title": "Geof??sica internacional",
+      "citation_journal_title_abbrev": "Geof??s. Intl",
+      "citation_publisher": "Instituto de Geof??sica, UNAM",
+      "citation_title": "Seismic waves and surface waves: past and present",
+      "citation_date": "12/2011",
+      "citation_volume": "50",
+      "citation_issue": "4",
+      "citation_issn": "0016-7169",
+      "citation_abstract_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_abstract&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_fulltext_html_url": "http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_pdf_url": "http://www.scielo.org.mx/scielo.php?script=sci_pdf&pid=S0016-71692011000400009&lng=es&nrm=iso&tlng=en",
+      "citation_author": "Malischewsky, Peter G.",
+      "citation_author_institution": "Friedrich-Schiller-Universitat Jena, Germany",
+      "citation_firstpage": "485",
+      "citation_lastpage": "493"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes - anonymous (2 mb pdf) - Arvind Gupta",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e - anonymous (2 mb pdf) - Arvind Gupta",
+   "link": "http://www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "displayLink": "www.arvindguptatoys.com",
+   "snippet": "The impacts of earthquakes normally cover large areas causing deaths.   IHJUHGS and .... (which included what are now North America and Eurasia) and.   Gondwanaland ... January 19, 1975 Kinnaur and Lahul Spitl in the Himalayas. (  6.2) ... September 30, 1993. Uttarkashi ..... Rossi (1980s) and Giuseppe Mercalli (  1902) ...",
+   "htmlSnippet": "The impacts of \u003cb\u003eearthquakes\u003c/b\u003e normally cover large areas causing deaths. \u003cbr\u003e  IHJUHGS and \u003cb\u003e....\u003c/b\u003e (which included what are now North America and \u003cb\u003eEurasia\u003c/b\u003e) and. \u003cbr\u003e  Gondwanaland \u003cb\u003e...\u003c/b\u003e January \u003cb\u003e19\u003c/b\u003e, 1975 Kinnaur and Lahul Spitl in the Himalayas. (\u003cbr\u003e  6.2) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 30, 1993. Uttarkashi \u003cb\u003e.....\u003c/b\u003e Rossi (1980s) and Giuseppe Mercalli (\u003cbr\u003e  \u003cb\u003e1902\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "noMHUn-Du88J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "htmlFormattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-\u003cb\u003eearthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Thu Feb 16 16:50:09 2006",
+      "moddate": "Thu Jul 13 23:23:24 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Major Australian Earthquakes",
+   "htmlTitle": "Major Australian \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.photoshopaustralia.com/major-australian-earthquakes.htm",
+   "displayLink": "www.photoshopaustralia.com",
+   "snippet": "Warooka, South Australia, 19/09/1902, 6, 2 deaths by heart-attack have been   attributed to this earthquake. Significant damage to the township of Warooka.",
+   "htmlSnippet": "Warooka, South Australia, \u003cb\u003e19/09/1902\u003c/b\u003e, 6, 2 deaths by heart-attack have been \u003cbr\u003e  attributed to this \u003cb\u003eearthquake\u003c/b\u003e. Significant damage to the township of Warooka.",
+   "cacheId": "sEa4634BxBwJ",
+   "formattedUrl": "www.photoshopaustralia.com/major-australian-earthquakes.htm",
+   "htmlFormattedUrl": "www.photoshopaustralia.com/major-australian-\u003cb\u003eearthquakes\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Iran - MCEER",
+   "htmlTitle": "Seismicity of Iran - MCEER",
+   "link": "ftp://mceer.buffalo.edu/pub/searches/04/01/040103.txt",
+   "displayLink": "mceer.buffalo.edu",
+   "snippet": "Mexico City earthquake, September 19, 1995. ..... This procedure is applied to the   earthquake data of Iran recorded during 1902-1975. .... northward motion of   Arabian plate with respect to the Eurasian plate, and seismicity around the   Caspian ...",
+   "htmlSnippet": "Mexico City \u003cb\u003eearthquake\u003c/b\u003e, \u003cb\u003eSeptember 19\u003c/b\u003e, 1995. \u003cb\u003e.....\u003c/b\u003e This procedure is applied to the \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e data of Iran recorded during \u003cb\u003e1902\u003c/b\u003e-1975. \u003cb\u003e....\u003c/b\u003e northward motion of \u003cbr\u003e  Arabian plate with respect to the \u003cb\u003eEurasian\u003c/b\u003e plate, and seismicity around the \u003cbr\u003e  Caspian \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oaRUyRoF3DoJ",
+   "mime": "text/plain",
+   "formattedUrl": "ftp://mceer.buffalo.edu/pub/searches/04/01/040103.txt",
+   "htmlFormattedUrl": "ftp://mceer.buffalo.edu/pub/searches/04/01/040103.txt"
+  }
+ ]
+}

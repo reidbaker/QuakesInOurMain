@@ -1,0 +1,280 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 3 1972 North America Earthquake",
+    "totalResults": "381000",
+    "searchTerms": "Feb 3 1972 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 3 1972 North America Earthquake",
+    "totalResults": "381000",
+    "searchTerms": "Feb 3 1972 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.229067,
+  "formattedSearchTime": "0.23",
+  "totalResults": "381000",
+  "formattedTotalResults": "381,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Van ??? Ercis, Turkey ??? 604 Dead, Large Aftershock 5.6 ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Van ??? Ercis, Turkey ??? 604 Dead, Large Aftershock 5.6 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/23/very-strong-dangerous-earthquake-in-eastern-turkey/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 19, 2012 ... Earthquake overview : A very strong damaging earthquake occurred in the Van   province in eastern Turkey. The earthquake was felt in all the ...",
+   "htmlSnippet": "May 19, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A very strong damaging \u003cb\u003eearthquake\u003c/b\u003e occurred in the Van \u003cbr\u003e  province in eastern Turkey. The \u003cb\u003eearthquake\u003c/b\u003e was felt in all the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yXv5upt2bRwJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-dangerous-earthquake-in-eastern- turkey/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-in-eastern- turkey/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/turkey-24102011-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01sclPrUIA_jzjfUiXfDqhvJQ94XnQmm8l_CxWHzaRUcFh9VOd1gpCSo"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Tina Kunz-Plapp",
+      "url": "http://www.cedim.de/",
+      "url_text": "Tina Kunz-Plapp"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://www.monashawards.org/",
+      "url_text": "James Daniell"
+     },
+     {
+      "fn": "Richard Lear"
+     },
+     {
+      "fn": "Derek",
+      "nickname": "Derek"
+     },
+     {
+      "fn": "michael juul holm"
+     },
+     {
+      "fn": "Elif Ergoz"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Lara",
+      "nickname": "Lara"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on February 3 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eFebruary 3\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/feb03.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "February 3, 1690 The first paper money in America issued (colony of   Massachusetts) ... February 3, 1834 \"The Baptist State Convention of North   Carolina ... February 3, 1931 \"The Napier earthquake, New Zealand's worst   natural disaster, ... February 3, 1972 11th Winter Olympics games opens in   Sapporo Japan (1st in Asia) ...",
+   "htmlSnippet": "February 3, 1690 The first paper money in \u003cb\u003eAmerica\u003c/b\u003e issued (colony of \u003cbr\u003e  Massachusetts) \u003cb\u003e...\u003c/b\u003e February 3, 1834 &quot;The Baptist State Convention of \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  Carolina \u003cb\u003e...\u003c/b\u003e February 3, 1931 &quot;The Napier \u003cb\u003eearthquake\u003c/b\u003e, New Zealand&#39;s worst \u003cbr\u003e  natural disaster, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFebruary 3\u003c/b\u003e, \u003cb\u003e1972\u003c/b\u003e 11th Winter Olympics games opens in \u003cbr\u003e  Sapporo Japan (1st in Asia) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MDnTC94j7PYJ",
+   "formattedUrl": "www.datesinhistory.com/feb03.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003efeb\u003c/b\u003e03.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2010 Chile earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2010 Chile \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2010_Chile_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "5.1 Chile; 5.2 Oceania; 5.3 North America; 5.4 Tsunami-related aid given; 5.5   Data .... a magnitude 5.0 earthquake occurred in Mendoza on 28 February, a M5.  3 ...",
+   "htmlSnippet": "5.1 Chile; 5.2 Oceania; 5.3 \u003cb\u003eNorth America\u003c/b\u003e; 5.4 Tsunami-related aid given; 5.5 \u003cbr\u003e  Data \u003cb\u003e....\u003c/b\u003e a magnitude 5.0 \u003cb\u003eearthquake\u003c/b\u003e occurred in Mendoza on 28 \u003cb\u003eFebruary\u003c/b\u003e, a M5.\u003cbr\u003e  \u003cb\u003e3\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "_sTD3NYeIEIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2010_Chile_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2010_Chile_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2010_Chile_earthquake_-_Building_destroyed_in_Concepci%C3%B3n.jpg/240px-2010_Chile_earthquake_-_Building_destroyed_in_Concepci%C3%B3n.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "128",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjXtyg3DPDGwj89xvzYcZb5qjRyU3Ky7KkFL1ZpKv4KgXw_W1A0nX_Owo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Hazard in Pennsylvania",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Hazard in Pennsylvania",
+   "link": "http://www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "displayLink": "www.dcnr.state.pa.us",
+   "snippet": "only the eastern half of North America, Pennsylvania has experienced fewer and   ... EARTHQUAKE INTENSITY. 3 frequently leads to the mistaken impression that   there is a kind of ... on February 28, 1925, and had an epicenter in the La Malbaie  - .... 1972. Wyomissing. Unknown. Start of series of small earthquakes lasting ...",
+   "htmlSnippet": "only the eastern half of \u003cb\u003eNorth America\u003c/b\u003e, Pennsylvania has experienced fewer and \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEARTHQUAKE\u003c/b\u003e INTENSITY. \u003cb\u003e3\u003c/b\u003e frequently leads to the mistaken impression that \u003cbr\u003e  there is a kind of \u003cb\u003e...\u003c/b\u003e on \u003cb\u003eFebruary\u003c/b\u003e 28, 1925, and had an epicenter in the La Malbaie\u003cbr\u003e  - \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1972\u003c/b\u003e. Wyomissing. Unknown. Start of series of small \u003cb\u003eearthquakes\u003c/b\u003e lasting \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yLantnncP08J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "htmlFormattedUrl": "www.dcnr.state.pa.us/topogeo/education/ES10.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030630201551Z",
+      "creator": "QuarkXPress(tm) for Windows 5.01",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "moddate": "D:20070716094835-04'00'",
+      "title": "front.qxd (Page 3)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "About 90% of the world's earthquakes and 81% of the world's largest   earthquakes ... A portion of the Pacific Plate along with the small Juan de Fuca   Plate are being subducted beneath the North American Plate. ... More recently,   an 8.8-magnitude earthquake struck central Chile on February 27, 2010 .....   Mount Erebus, 1972 ...",
+   "htmlSnippet": "About 90% of the world&#39;s \u003cb\u003eearthquakes\u003c/b\u003e and 81% of the world&#39;s largest \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e A portion of the Pacific Plate along with the small Juan de Fuca \u003cbr\u003e  Plate are being subducted beneath the \u003cb\u003eNorth American\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e More recently, \u003cbr\u003e  an 8.8-magnitude \u003cb\u003eearthquake\u003c/b\u003e struck central Chile on \u003cb\u003eFebruary\u003c/b\u003e 27, 2010 \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Mount Erebus, \u003cb\u003e1972\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tsTbckV5UlMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/350px-Plates_tect2_en.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNHFOl-Bk26-FaTF7pkl5JMdpOL7ZVVfIpGgqYQLH5fLGCa5kI2fQG4vBn"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1",
+   "htmlTitle": "1",
+   "link": "http://smartech.gatech.edu/jspui/bitstream/1853/40386/1/g-35-606_91495.pdf",
+   "displayLink": "smartech.gatech.edu",
+   "snippet": "The South Carolina earthquake of February 3, 1972, was located at .... February   3, 1972, Earthquake Notes, Vol. 43, No. .... of the North American Plate.",
+   "htmlSnippet": "The South Carolina \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003eFebruary 3, 1972\u003c/b\u003e, was located at \u003cb\u003e....\u003c/b\u003e \u003cb\u003eFebruary\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e3, 1972\u003c/b\u003e, \u003cb\u003eEarthquake\u003c/b\u003e Notes, Vol. 43, No. \u003cb\u003e....\u003c/b\u003e of the \u003cb\u003eNorth American\u003c/b\u003e Plate.",
+   "cacheId": "YiNdzMTwqZkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "smartech.gatech.edu/jspui/bitstream/1853/40386/1/g-35-606_91495.pdf",
+   "htmlFormattedUrl": "smartech.gatech.edu/jspui/bitstream/1853/40386/1/g-35-606_91495.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110726113038-05'00'",
+      "creator": "OmniPage CSDK 16",
+      "producer": "OmniPage 17"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic Earthquakes in the United States and Its Territories",
+   "htmlTitle": "Historic \u003cb\u003eEarthquakes\u003c/b\u003e in the United States and Its Territories",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/historical_state.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... Jersey ??? New Madrid ??? New   Mexico ??? New York ??? North Carolina ??? North Dakota ... 1966 08 07 - Rat Islands,   Alaska - M 7.0 ?? 1972 07 30 - Sitka, Alaska - M 7.6 ?? 1975 02 02 .... Landers,   California - M 7.3 Fatalities 3 ?? 1992 06 28 - Big Bear, California - M 6.5 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e Jersey ??? New Madrid ??? New \u003cbr\u003e  Mexico ??? New York ??? \u003cb\u003eNorth\u003c/b\u003e Carolina ??? \u003cb\u003eNorth\u003c/b\u003e Dakota \u003cb\u003e...\u003c/b\u003e 1966 08 07 - Rat Islands, \u003cbr\u003e  Alaska - M 7.0 &middot; \u003cb\u003e1972\u003c/b\u003e 07 30 - Sitka, Alaska - M 7.6 &middot; 1975 02 02 \u003cb\u003e....\u003c/b\u003e Landers, \u003cbr\u003e  California - M 7.3 Fatalities \u003cb\u003e3\u003c/b\u003e &middot; 1992 06 28 - Big Bear, California - M 6.5 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wtOd-mlZMXgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/historical_state.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/historical_state.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "David M. Boore pubs online",
+   "htmlTitle": "David M. Boore pubs online",
+   "link": "http://www.daveboore.com/pubs_online.php",
+   "displayLink": "www.daveboore.com",
+   "snippet": "Earthquake ground-motion prediction equations for eastern North America, Bull.   ... Erratum 3 and Files for Evaluating GMPEs.[Added 27 September 2011, a   slightly updated version of the 26 February 2010 posting] ..... Boore, D. M. (1972).",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e ground-motion prediction equations for eastern \u003cb\u003eNorth America\u003c/b\u003e, Bull. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Erratum \u003cb\u003e3\u003c/b\u003e and Files for Evaluating GMPEs.[Added 27 September 2011, a \u003cbr\u003e  slightly updated version of the 26 \u003cb\u003eFebruary\u003c/b\u003e 2010 posting] \u003cb\u003e.....\u003c/b\u003e Boore, D. M. (\u003cb\u003e1972\u003c/b\u003e).",
+   "cacheId": "RaE5TqxKYpQJ",
+   "formattedUrl": "www.daveboore.com/pubs_online.php",
+   "htmlFormattedUrl": "www.daveboore.com/pubs_online.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. .... 2009 01 03 - Near the North   Coast of Papua, Indonesia - M 7.4 ?? 2009 01 03 - Near .... 2004 04 05 - Hindu   Kush Region, Afghanistan - M 6.6 Fatalities 3; 2004 02 24 ..... Taiwain region - M   7.2 Fatalities 4; 1972 04 10 - southern Iran - M 7.1 Fatalities 5,054 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e....\u003c/b\u003e 2009 01 03 - Near the \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  Coast of Papua, Indonesia - M 7.4 &middot; 2009 01 03 - Near \u003cb\u003e....\u003c/b\u003e 2004 04 05 - Hindu \u003cbr\u003e  Kush Region, Afghanistan - M 6.6 Fatalities \u003cb\u003e3\u003c/b\u003e; 2004 02 24 \u003cb\u003e.....\u003c/b\u003e Taiwain region - M \u003cbr\u003e  7.2 Fatalities 4; \u003cb\u003e1972\u003c/b\u003e 04 10 - southern Iran - M 7.1 Fatalities 5,054 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "3U1cO6HXs8AJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical.php/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical.php/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What Happened on February 3rd This Day in History",
+   "htmlTitle": "What Happened on \u003cb\u003eFebruary\u003c/b\u003e 3rd This Day in History",
+   "link": "http://www.thepeoplehistory.com/february3rd.html",
+   "displayLink": "www.thepeoplehistory.com",
+   "snippet": "3rd February, 1931 : A major earthquake and fire devastated the area of Hawke's   Bay region ... 1947 Canada Coldest Recorded Temperature In North America ...",
+   "htmlSnippet": "3rd \u003cb\u003eFebruary\u003c/b\u003e, 1931 : A major \u003cb\u003eearthquake\u003c/b\u003e and fire devastated the area of Hawke&#39;s \u003cbr\u003e  Bay region \u003cb\u003e...\u003c/b\u003e 1947 Canada Coldest Recorded Temperature In \u003cb\u003eNorth America\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "RIq5bIUoFCcJ",
+   "formattedUrl": "www.thepeoplehistory.com/february3rd.html",
+   "htmlFormattedUrl": "www.thepeoplehistory.com/\u003cb\u003efebruary3\u003c/b\u003erd.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "The People History -- Steve Pearson"
+     }
+    ]
+   }
+  }
+ ]
+}

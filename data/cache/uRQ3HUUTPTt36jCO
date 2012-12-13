@@ -1,0 +1,291 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 21 1931 Eurasia Earthquake",
+    "totalResults": "8560",
+    "searchTerms": "Sep 21 1931 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 21 1931 Eurasia Earthquake",
+    "totalResults": "8560",
+    "searchTerms": "Sep 21 1931 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.509377,
+  "formattedSearchTime": "0.51",
+  "totalResults": "8560",
+  "formattedTotalResults": "8,560"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "1755 Lisbon earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1755 Lisbon \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1755 Lisbon earthquake, also known as the Great Lisbon Earthquake, ... the   boundary between the African (Nubian) and the Eurasian continental plates, .....   this one, from 1931, discusses the Lisbon earthquake and summarizes some of   its ... of the Second International Conference, Lisbon, Portugal, 21???25 June, 1999  .",
+   "htmlSnippet": "The 1755 Lisbon \u003cb\u003eearthquake\u003c/b\u003e, also known as the Great Lisbon \u003cb\u003eEarthquake\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e the \u003cbr\u003e  boundary between the African (Nubian) and the \u003cb\u003eEurasian\u003c/b\u003e continental plates, \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  this one, from \u003cb\u003e1931\u003c/b\u003e, discusses the Lisbon \u003cb\u003eearthquake\u003c/b\u003e and summarizes some of \u003cbr\u003e  its \u003cb\u003e...\u003c/b\u003e of the Second International Conference, Lisbon, Portugal, \u003cb\u003e21\u003c/b\u003e???25 June, 1999\u003cbr\u003e  .",
+   "cacheId": "nCYGiJNDfNQJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1755_Lisbon_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1755_Lisbon_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1755_Lisbon_Earthquake_Location.gif/240px-1755_Lisbon_Earthquake_Location.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "244",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjIgEQAQuNycIU8UKb4-dpEYE67xFco8cTRdBkFKtTcsX3iB-AU-Uaxcft"
+     }
+    ],
+    "hcalendar": [
+     {
+      "dtstart": "1755-11",
+      "summary": "1755 Lisbon earthquake"
+     }
+    ],
+    "event": [
+     {
+      "dtstart": "1755-11",
+      "summary": "1755 Lisbon earthquake"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "An earthquake (also known as a quake, tremor or temblor) is the result of a   sudden .... oblique convergent plate boundary between the Arabian and   Eurasian plates where it ... between small tidally induced forces and non-volcanic   tremor activity. ... The number of seismic stations has increased from about 350 in   1931 to ...",
+   "htmlSnippet": "An \u003cb\u003eearthquake\u003c/b\u003e (also known as a \u003cb\u003equake\u003c/b\u003e, tremor or temblor) is the result of a \u003cbr\u003e  sudden \u003cb\u003e....\u003c/b\u003e oblique convergent plate boundary between the Arabian and \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plates where it \u003cb\u003e...\u003c/b\u003e between small tidally induced forces and non-volcanic \u003cbr\u003e  tremor activity. \u003cb\u003e...\u003c/b\u003e The number of \u003cb\u003eseismic\u003c/b\u003e stations has increased from about 350 in \u003cbr\u003e  \u003cb\u003e1931\u003c/b\u003e to \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "PcxsmKF5FLsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquake\u003c/b\u003e",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? (Earthquake)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "????????? ?????????, ????????? ???????????? ?????? ????????? ????????? ???????????? ????????????. ?????? ????????? ?????? ??? ??????????????? ??????????????? ???????????? ?????? ????????? ??????????????? ??????.",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Earthquake",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://ko.wikipedia.org/wiki/??????",
+      "Output::link2c": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/c9de656f10f4137c.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Composite Regional Catalogs of Earthquakes in the Former ... - USGS",
+   "htmlTitle": "Composite Regional Catalogs of \u003cb\u003eEarthquakes\u003c/b\u003e in the Former \u003cb\u003e...\u003c/b\u003e - USGS",
+   "link": "http://earthquake.usgs.gov/research/data/russia_seismicity/download/USGS-OFR-02-500.pdf",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "21. 3.3 The regionalization.......................................... 23. SUMMARY . .... the   seismicity of the Eurasian land mass is therefore available, although to date only   .... (45, as of Dec. ..... in 1931, the corresponding 1-hour corrections were   incorporated.",
+   "htmlSnippet": "\u003cb\u003e21\u003c/b\u003e. 3.3 The regionalization.......................................... 23. SUMMARY . \u003cb\u003e....\u003c/b\u003e the \u003cbr\u003e  seismicity of the \u003cb\u003eEurasian\u003c/b\u003e land mass is therefore available, although to date only \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e (45, as of \u003cb\u003eDec\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e in \u003cb\u003e1931\u003c/b\u003e, the corresponding 1-hour corrections were \u003cbr\u003e  incorporated.",
+   "cacheId": "iUoX_YvmSk0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake.usgs.gov/research/data/russia_seismicity/.../USGS-OFR-02-500. pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/research/data/russia_\u003cb\u003eseismic\u003c/b\u003eity/.../USGS-OFR-02-500. pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030114181140-05'00'",
+      "moddate": "D:20030114181140-05'00'",
+      "producer": "Acrobat Distiller 5.0 (Windows)",
+      "creator": "AdobePS5.dll Version 5.2",
+      "title": "Microsoft Word - catalogs-final.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude and Location of Historical Earthquakes in Japan and ...",
+   "htmlTitle": "Magnitude and Location of Historical \u003cb\u003eEarthquakes\u003c/b\u003e in Japan and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "displayLink": "usgsprojects.org",
+   "snippet": "Earthquakes felt in Tokyo occur as shallow crustal events, as PHS- Eurasian ...   Modified Mercalli (MM) intensity scale (Wood and Neumann, 1931) used in the   USA and ..... IJMA for the 21 Sept 1968 MJMA6.9 (#T37) and for the 17 Dec 1987 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e felt in Tokyo occur as shallow crustal events, as PHS- \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Modified Mercalli (MM) intensity scale (Wood and Neumann, \u003cb\u003e1931\u003c/b\u003e) used in the \u003cbr\u003e  USA and \u003cb\u003e.....\u003c/b\u003e IJMA for the \u003cb\u003e21 Sept\u003c/b\u003e 1968 MJMA6.9 (#T37) and for the 17 \u003cb\u003eDec\u003c/b\u003e 1987 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MqYLfainWs0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "htmlFormattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20041108141107-08'00'",
+      "creationdate": "D:20041108162556-05'00'",
+      "title": "151522_1_art_file_2_1099949021.pdf",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 6.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and   African plates are colliding, forming a ... 1921, 11, 1951, 21, 1981, 14 ... The   North Sea earthquake of 7 June 1931, with a magnitude of 6.1ML and with an   epicentre offshore in the .... 7 Sep 1801, Comrie, 4.5, 2, near Edinburgh, falling   masonry ...",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cbr\u003e  African plates are colliding, forming a \u003cb\u003e...\u003c/b\u003e 1921, 11, 1951, \u003cb\u003e21\u003c/b\u003e, 1981, 14 \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  North Sea \u003cb\u003eearthquake\u003c/b\u003e of 7 June \u003cb\u003e1931\u003c/b\u003e, with a magnitude of 6.1ML and with an \u003cbr\u003e  epicentre offshore in the \u003cb\u003e....\u003c/b\u003e 7 \u003cb\u003eSep\u003c/b\u003e 1801, Comrie, 4.5, 2, near Edinburgh, falling \u003cbr\u003e  masonry \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M6.8 earthquake - 56km NNE of Shwebo, Myanmar, Sunday, 11 ...",
+   "htmlTitle": "M6.8 \u003cb\u003eearthquake\u003c/b\u003e - 56km NNE of Shwebo, Myanmar, Sunday, 11 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.volcanodiscovery.com/de/earthquakes/2012/11/11/01/12/magnitude6-Myanmar-quake.html",
+   "displayLink": "www.volcanodiscovery.com",
+   "snippet": "Nov 11, 2012 ... An extremely dangerous shallow (10 km) 6.8 magnitude earthquake occurred ...   east of the tectonic plate boundary between the Indian and Eurasian plate. ...   caused the 1912 quake) and the Sagaing fault (1931 and 1956 quakes). .... M5.7   on 21 Oct 2012 - Iceland ?? M6.6 on 20 Oct 2012 - Vanuatu ?? M6.0 on ...",
+   "htmlSnippet": "Nov 11, 2012 \u003cb\u003e...\u003c/b\u003e An extremely dangerous shallow (10 km) 6.8 magnitude \u003cb\u003eearthquake\u003c/b\u003e occurred \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  east of the tectonic plate boundary between the Indian and \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  caused the 1912 \u003cb\u003equake\u003c/b\u003e) and the Sagaing fault (\u003cb\u003e1931\u003c/b\u003e and 1956 quakes). \u003cb\u003e....\u003c/b\u003e M5.7 \u003cbr\u003e  on \u003cb\u003e21\u003c/b\u003e Oct 2012 - Iceland &middot; M6.6 on 20 Oct 2012 - Vanuatu &middot; M6.0 on \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WywFqFnvotsJ",
+   "formattedUrl": "www.volcanodiscovery.com/.../earthquakes/.../magnitude6-Myanmar-quake. html",
+   "htmlFormattedUrl": "www.volcanodiscovery.com/.../\u003cb\u003eearthquakes\u003c/b\u003e/.../magnitude6-Myanmar-\u003cb\u003equake\u003c/b\u003e. html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://images.volcanodiscovery.com/uploads/tx_volcanoes/shakemap-110524.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "207",
+      "height": "243",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwFJnVPNKPujOnLVxnkkyRqVmJmI9OW39xah-BFHsh1LBZzesCuxbW5nA"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0, user-scalable=no",
+      "fb:admins": "{717908831,1013545298}",
+      "fb:app_id": "{288869164457271}"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Curriculum Vitae Roger Bilham",
+   "htmlTitle": "Curriculum Vitae Roger Bilham",
+   "link": "http://cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "Bilham, The 1737 Calcutta Earthquake and Cyclone Evaluated, Bull. ... across   the Nepal Himalaya, Geophysical Research Letters, 21(12), 1169-1172, 1994. ...   Freymueller, Kinematics of the India-Eurasia Collision Zone from GPS   measurements. ... Ortiz, M., and R. Bilham, source area and rupture parameters   of the 31 Dec.",
+   "htmlSnippet": "Bilham, The 1737 Calcutta \u003cb\u003eEarthquake\u003c/b\u003e and Cyclone Evaluated, Bull. \u003cb\u003e...\u003c/b\u003e across \u003cbr\u003e  the Nepal Himalaya, Geophysical Research Letters, \u003cb\u003e21\u003c/b\u003e(12), 1169-1172, 1994. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Freymueller, Kinematics of the India-\u003cb\u003eEurasia\u003c/b\u003e Collision Zone from GPS \u003cbr\u003e  measurements. \u003cb\u003e...\u003c/b\u003e Ortiz, M., and R. Bilham, source area and rupture parameters \u003cbr\u003e  of the 31 \u003cb\u003eDec\u003c/b\u003e.",
+   "cacheId": "zPj_TcY3wqsJ",
+   "formattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Curriculum Vitae  Roger Bilham",
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 14"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "365 Jul 21, An earthquake, whose epicenter was in Crete, leveled the Egyptian   .... 1850 Sep 22, An earthquake in Sichuan, China, killed some 300,000 people.   .... 1931 Apr 1, An Earthquake devastated Managua, Nicaragua, killing 2,000. ......   miles south of the boundary between the Indo-Australian and Eurasian Plates.",
+   "htmlSnippet": "365 Jul \u003cb\u003e21\u003c/b\u003e, An \u003cb\u003eearthquake\u003c/b\u003e, whose epicenter was in Crete, leveled the Egyptian \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 1850 \u003cb\u003eSep\u003c/b\u003e 22, An \u003cb\u003eearthquake\u003c/b\u003e in Sichuan, China, killed some 300,000 people. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1931\u003c/b\u003e Apr 1, An \u003cb\u003eEarthquake\u003c/b\u003e devastated Managua, Nicaragua, killing 2,000. \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  miles south of the boundary between the Indo-Australian and \u003cb\u003eEurasian\u003c/b\u003e Plates.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "STATUS OF SEISMICITY IN THE NORTHEAST INDIA AND ...",
+   "htmlTitle": "STATUS OF SEISMICITY IN THE NORTHEAST INDIA AND \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "displayLink": "gbpihedenvis.nic.in",
+   "snippet": "The death during an earthquake mostly occurs due to the collapse of the   buildings. ... attributed to the collision tectonics between the Indian plate and the   Eurasian plate in the north ... March 21, 1869 ... September 9, 1923 ... January 27  , 1931 ...",
+   "htmlSnippet": "The death during an \u003cb\u003eearthquake\u003c/b\u003e mostly occurs due to the collapse of the \u003cbr\u003e  buildings. \u003cb\u003e...\u003c/b\u003e attributed to the collision tectonics between the Indian plate and the \u003cbr\u003e  \u003cb\u003eEurasian\u003c/b\u003e plate in the north \u003cb\u003e...\u003c/b\u003e March \u003cb\u003e21\u003c/b\u003e, 1869 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 9, 1923 \u003cb\u003e...\u003c/b\u003e January 27\u003cbr\u003e  , \u003cb\u003e1931\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "1na7jotAy7UJ",
+   "formattedUrl": "gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "htmlFormattedUrl": "gbpihedenvis.nic.in/html/vol10_1/rptiwari.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document",
+      "microsoft theme": "ricepapr 001"
+     }
+    ]
+   }
+  }
+ ]
+}

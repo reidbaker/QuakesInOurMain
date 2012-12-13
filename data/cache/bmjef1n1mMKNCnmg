@@ -1,0 +1,374 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 14 1987 North America Earthquake",
+    "totalResults": "421000",
+    "searchTerms": "Dec 14 1987 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 14 1987 North America Earthquake",
+    "totalResults": "421000",
+    "searchTerms": "Dec 14 1987 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.505358,
+  "formattedSearchTime": "0.51",
+  "totalResults": "421000",
+  "formattedTotalResults": "421,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: December 8, 2012 at 8:10 am by By Armand Vervaeck and James   Daniell ... Complex earthquake with at least one event occurring about 14   seconds after the onset. ... Alaska, 1987 - Magnitude : 7.8 ... The Pacific Plate is   moving northwest with respect to the North American Plate at approximately 56   millimeters ...",
+   "htmlSnippet": "Last update: \u003cb\u003eDecember\u003c/b\u003e 8, 2012 at 8:10 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e...\u003c/b\u003e Complex \u003cb\u003eearthquake\u003c/b\u003e with at least one event occurring about \u003cb\u003e14\u003c/b\u003e \u003cbr\u003e  seconds after the onset. \u003cb\u003e...\u003c/b\u003e Alaska, \u003cb\u003e1987\u003c/b\u003e - Magnitude : 7.8 \u003cb\u003e...\u003c/b\u003e The Pacific Plate is \u003cbr\u003e  moving northwest with respect to the \u003cb\u003eNorth American\u003c/b\u003e Plate at approximately 56 \u003cbr\u003e  millimeters \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "US4707812, Dec 9, 1985, Nov 17, 1987, Atlantic Richfield Company ...   US4953657, Feb 14, 1989, Sep 4, 1990, Halliburton Geophysical Services, Inc.   Time .... Apr 19, 2005, PGS Americas, Inc. Method for separating seismic signals   from two or ... US7725266, May 31, 2007, May 25, 2010, BP Corporation North   America Inc.",
+   "htmlSnippet": "US4707812, \u003cb\u003eDec\u003c/b\u003e 9, 1985, Nov 17, \u003cb\u003e1987\u003c/b\u003e, Atlantic Richfield Company \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4953657, Feb \u003cb\u003e14\u003c/b\u003e, 1989, Sep 4, 1990, Halliburton Geophysical Services, Inc. \u003cbr\u003e  Time \u003cb\u003e....\u003c/b\u003e Apr 19, 2005, PGS Americas, Inc. Method for separating \u003cb\u003eseismic\u003c/b\u003e signals \u003cbr\u003e  from two or \u003cb\u003e...\u003c/b\u003e US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e Inc.",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Van ??? Ercis, Turkey ??? 604 Dead, Large Aftershock 5.6 ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Van ??? Ercis, Turkey ??? 604 Dead, Large Aftershock 5.6 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/23/very-strong-dangerous-earthquake-in-eastern-turkey/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 19, 2012 ... Earthquake overview : A very strong damaging earthquake occurred in the Van ...   This aftershock has been 14+ days after the mainshock of Mw7.2 and .... 13   million TL (around $7 million US) has been sent so far in terms of emergency   relief efforts. ..... Tripoli, North Lebanon: It lasted for a few minutes.",
+   "htmlSnippet": "May 19, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A very strong damaging \u003cb\u003eearthquake\u003c/b\u003e occurred in the Van \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  This aftershock has been \u003cb\u003e14\u003c/b\u003e+ days after the mainshock of Mw7.2 and \u003cb\u003e....\u003c/b\u003e 13 \u003cbr\u003e  million TL (around $7 million \u003cb\u003eUS\u003c/b\u003e) has been sent so far in terms of emergency \u003cbr\u003e  relief efforts. \u003cb\u003e.....\u003c/b\u003e Tripoli, \u003cb\u003eNorth\u003c/b\u003e Lebanon: It lasted for a few minutes.",
+   "cacheId": "yXv5upt2bRwJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-dangerous-earthquake-in-eastern- turkey/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-in-eastern- turkey/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/turkey-24102011-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01sclPrUIA_jzjfUiXfDqhvJQ94XnQmm8l_CxWHzaRUcFh9VOd1gpCSo"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Tina Kunz-Plapp",
+      "url": "http://www.cedim.de/",
+      "url_text": "Tina Kunz-Plapp"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://www.monashawards.org/",
+      "url_text": "James Daniell"
+     },
+     {
+      "fn": "Richard Lear"
+     },
+     {
+      "fn": "Derek",
+      "nickname": "Derek"
+     },
+     {
+      "fn": "michael juul holm"
+     },
+     {
+      "fn": "Elif Ergoz"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Lara",
+      "nickname": "Lara"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Breaking News (BreakingNews) on Twitter",
+   "htmlTitle": "Breaking News (BreakingNews) on Twitter",
+   "link": "https://twitter.com/BreakingNews",
+   "displayLink": "twitter.com",
+   "snippet": "Report: North Korea moving new rocket component to missile test site to replace   faulty stage; likely to still launch in December - @Reuters ?? Expand Collapse ...",
+   "htmlSnippet": "Report: \u003cb\u003eNorth\u003c/b\u003e Korea moving new rocket component to missile test site to replace \u003cbr\u003e  faulty stage; likely to still launch in \u003cb\u003eDecember\u003c/b\u003e - @Reuters &middot; Expand Collapse \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-08AXk7EnhkJ",
+   "formattedUrl": "https://twitter.com/BreakingNews",
+   "htmlFormattedUrl": "https://twitter.com/BreakingNews",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://twimg0-a.akamaihd.net/profile_images/2620258409/fhyuov6w63lmoklljorg_bigger.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "70",
+      "height": "70",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4m4xW5YvpvYFPI7wHKv7cEuWiFzEVi5F2yx1t5bXJHqb3K5vtM-tA5w"
+     }
+    ],
+    "metatags": [
+     {
+      "msapplication-tileimage": "//si0.twimg.com/favicons/win8-tile-144.png",
+      "msapplication-tilecolor": "#00aced",
+      "swift-page-name": "profile"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes and tsunamis in the United States - Wikipedia ...",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e and tsunamis in the United States - Wikipedia \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The following is a list of notable earthquakes and/or tsunamis which had their   epicenter ... 14, 1872, Washington, 6.5 - 7.0, 0, 1872 North Cascades earthquake ...",
+   "htmlSnippet": "The following is a list of notable \u003cb\u003eearthquakes\u003c/b\u003e and/or tsunamis which had their \u003cbr\u003e  epicenter \u003cb\u003e...\u003c/b\u003e \u003cb\u003e14\u003c/b\u003e, 1872, Washington, 6.5 - 7.0, 0, 1872 \u003cb\u003eNorth\u003c/b\u003e Cascades \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "nwZ6NjulnOwJ",
+   "formattedUrl": "en.wikipedia.org/.../List_of_earthquakes_and_tsunamis_in_the_United_States",
+   "htmlFormattedUrl": "en.wikipedia.org/.../List_of_\u003cb\u003eearthquakes\u003c/b\u003e_and_tsunamis_in_the_United_States"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "David M. Boore pubs online",
+   "htmlTitle": "David M. Boore pubs online",
+   "link": "http://www.daveboore.com/pubs_online.php",
+   "displayLink": "www.daveboore.com",
+   "snippet": "Strong-motion data from the Pingtung earthquake doublet of December 26, 2006,   Taiwan, TAO 19, 595-639. (14 Mb). Boore, D. M. (2007). Predicting earthquake   ground motion in North America, ... Earthquake ground-motion prediction   equations for eastern North America, Bull. ..... Boore, D. M. and G. M. Atkinson (  1987).",
+   "htmlSnippet": "Strong-motion data from the Pingtung \u003cb\u003eearthquake\u003c/b\u003e doublet of \u003cb\u003eDecember\u003c/b\u003e 26, 2006, \u003cbr\u003e  Taiwan, TAO 19, 595-639. (\u003cb\u003e14\u003c/b\u003e Mb). Boore, D. M. (2007). Predicting \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  ground motion in \u003cb\u003eNorth America\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e ground-motion prediction \u003cbr\u003e  equations for eastern \u003cb\u003eNorth America\u003c/b\u003e, Bull. \u003cb\u003e.....\u003c/b\u003e Boore, D. M. and G. M. Atkinson (\u003cbr\u003e  \u003cb\u003e1987\u003c/b\u003e).",
+   "cacheId": "RaE5TqxKYpQJ",
+   "formattedUrl": "www.daveboore.com/pubs_online.php",
+   "htmlFormattedUrl": "www.daveboore.com/pubs_online.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in California - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in California - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_California",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The San Andreas Fault is the source of most of California's earthquakes. ... forms   the tectonic boundary between the Pacific and the North American Plate. ... 1812,   December 21, 19:00, 11:00, Santa Barbara, 7.1, 1? ... 20:46, 12:46, Santa Cruz   Mountains, 6.5, 1865 San Francisco earthquake .... 1987, November 23 (Local) ...",
+   "htmlSnippet": "The San Andreas Fault is the source of most of California&#39;s \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e forms \u003cbr\u003e  the tectonic boundary between the Pacific and the \u003cb\u003eNorth American\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e 1812, \u003cbr\u003e  \u003cb\u003eDecember\u003c/b\u003e 21, 19:00, 11:00, Santa Barbara, 7.1, 1? \u003cb\u003e...\u003c/b\u003e 20:46, 12:46, Santa Cruz \u003cbr\u003e  Mountains, 6.5, 1865 San Francisco \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1987\u003c/b\u003e, November 23 (Local) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jBJPM64_E_AJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_California",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_California",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kluft-photo-Carrizo-Plain-Nov-2007-Img_0327.jpg/220px-Kluft-photo-Carrizo-Plain-Nov-2007-Img_0327.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "117",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStWukYvdHePPxJwYm_ZhzoruiNtctmghQfAZmOVRsY5ZFfio4snt-DdA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado - Earthquake Hazards Program - USGS",
+   "htmlTitle": "Colorado - \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program - USGS",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "By the end of December 1962, 190 earthquakes had occurred. .... The north-  central part of Colorado experienced a small earthquake on September 16 ... A   small earthquake occurred in the western part of Colorado on September 14,   1987, ... Policies and Notices ?? In partnership with nehrp ?? Take Pride in America ??   USA.gov ...",
+   "htmlSnippet": "By the end of \u003cb\u003eDecember\u003c/b\u003e 1962, 190 \u003cb\u003eearthquakes\u003c/b\u003e had occurred. \u003cb\u003e....\u003c/b\u003e The \u003cb\u003enorth\u003c/b\u003e-\u003cbr\u003e  central part of Colorado experienced a small \u003cb\u003eearthquake\u003c/b\u003e on September 16 \u003cb\u003e...\u003c/b\u003e A \u003cbr\u003e  small \u003cb\u003eearthquake\u003c/b\u003e occurred in the western part of Colorado on September \u003cb\u003e14\u003c/b\u003e, \u003cbr\u003e  \u003cb\u003e1987\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e Policies and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e &middot; \u003cbr\u003e  USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "30ABL9k2McIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/colorado/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 14 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDecember 14\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/December_14",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "December 14 is the 348th day of the year (349th in leap years) in the Gregorian   calendar. ... 557 ??? Constantinople is severely damaged by an earthquake.",
+   "htmlSnippet": "\u003cb\u003eDecember 14\u003c/b\u003e is the 348th day of the year (349th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e 557 ??? Constantinople is severely damaged by an \u003cb\u003eearthquake\u003c/b\u003e.",
+   "cacheId": "Fuicx1yzlF0J",
+   "formattedUrl": "en.wikipedia.org/wiki/December_14",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDecember\u003c/b\u003e_\u003cb\u003e14\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Largest Earthquakes in the US",
+   "htmlTitle": "Largest \u003cb\u003eEarthquakes\u003c/b\u003e in the US",
+   "link": "http://livingsta.hubpages.com/hub/Largest-Earthquakes-in-the-US",
+   "displayLink": "livingsta.hubpages.com",
+   "snippet": "On March 9, 1957, at 14:22 UTC, an earthquake occurred south of the Andreanof   .... 30, 1987. Time: 19:23:19.5 UTC. Fatalities: unknown. Property loss: unknown   ... This earthquake is the largest to occur in North America since the magnitude   7.9 Denali ..... scarp formed by the 16 December 1954 Dixie Valley earthquake ...",
+   "htmlSnippet": "On March 9, 1957, at \u003cb\u003e14\u003c/b\u003e:22 UTC, an \u003cb\u003eearthquake\u003c/b\u003e occurred south of the Andreanof \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 30, \u003cb\u003e1987\u003c/b\u003e. Time: 19:23:19.5 UTC. Fatalities: unknown. Property loss: unknown \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e This \u003cb\u003eearthquake\u003c/b\u003e is the largest to occur in \u003cb\u003eNorth America\u003c/b\u003e since the magnitude \u003cbr\u003e  7.9 Denali \u003cb\u003e.....\u003c/b\u003e scarp formed by the 16 \u003cb\u003eDecember\u003c/b\u003e 1954 Dixie Valley \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6yR0l7cg3awJ",
+   "formattedUrl": "livingsta.hubpages.com/hub/Largest-Earthquakes-in-the-US",
+   "htmlFormattedUrl": "livingsta.hubpages.com/hub/Largest-\u003cb\u003eEarthquakes\u003c/b\u003e-in-the-US",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://s4.hubimg.com/u/1949039_f260.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "156",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwU1O6ERcGCPk-SHa5qNe1jkZmXKl30-GFX39O03RWbSAh6EIUric7IBiw"
+     }
+    ],
+    "metatags": [
+     {
+      "format-detection": "telephone=no",
+      "og:site_name": "HubPages",
+      "fb:app_id": "86382555399",
+      "og:description": "In the US, Alaska is the most earthquake-prone state and one of the most seismically active regions in the world. Alaska experiences a magnitude 7 earthquake almost every year, and a magnitude 8 or greater earthquake on an average of every 14 years. The largest recorded earthquake in the United Stateswas a magnitude 9.2 quake that struck Prince William Sound, Alaska on Good Friday, March 28, 1964 UTC. Each year the southern California area has about 10,000 earthquakes. Most of them are so small",
+      "og:title": "Largest Earthquakes in the US",
+      "og:image": "http://s4.hubimg.com/u/1949039_100.jpg",
+      "og:url": "http://livingsta.hubpages.com/hub/Largest-Earthquakes-in-the-US",
+      "og:type": "article"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Explore",
+      "title": "Explore"
+     },
+     {
+      "url": "Education and Science",
+      "title": "Education and Science"
+     },
+     {
+      "url": "Geography, Nature, and Weather",
+      "title": "Geography, Nature, and Weather"
+     },
+     {
+      "url": "Earthquakes and Volcanoes",
+      "title": "Earthquakes and Volcanoes"
+     }
+    ]
+   }
+  }
+ ]
+}
+ average of every 14 years. The largest recorded earthquake in the United Stateswas a magnitude 9.2 quake that struck Prince William Sound, Alaska on Good Friday, March 28, 1964 UTC. Each year the southern California area has about 10,000 earthquakes. Most of them are so small",
+      "og:title": "Largest Earthquakes in the US",
+      "og:image": "http://s4.hubimg.com/u/1949039_100.jpg",
+      "og:url": "http://livingsta.hubpages.com/hub/Largest-Earthquakes-in-the-US",
+      "og:type": "article"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Explore",
+      "title": "Explore"
+     },
+     {
+      "url": "Education and Science",
+      "title": "Education and Science"
+     },
+     {
+      "url": "Geography, Nature, and Weather",
+      "title": "Geography, Nature, and Weather"
+     },
+     {
+      "url": "Earthquakes and Volcanoes",
+      "title": "Earthquakes and Volcanoes"
+     }
+    ]
+   }
+  }
+ ]
+}

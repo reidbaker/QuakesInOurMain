@@ -1,0 +1,327 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 19 1952 Eurasia Earthquake",
+    "totalResults": "7140",
+    "searchTerms": "Mar 19 1952 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 19 1952 Eurasia Earthquake",
+    "totalResults": "7140",
+    "searchTerms": "Mar 19 1952 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.173923,
+  "formattedSearchTime": "0.17",
+  "totalResults": "7140",
+  "formattedTotalResults": "7,140"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   ... Arabian Plate and the Eurasian Plate, beyond the eastern extent of the   Armenian and .... of 4.8 kilometres (3.0 mi) on 9 November at 21:23 local time (19  :23 UTC). ..... T??hoku, Japan (Great East Japan) (9.0, Mar 11)??????; Burma (6.8, Mar   24)??? ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Arabian Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the \u003cbr\u003e  Armenian and \u003cb\u003e....\u003c/b\u003e of 4.8 kilometres (3.0 mi) on 9 November at 21:23 local time (\u003cb\u003e19\u003c/b\u003e\u003cbr\u003e  :23 UTC). \u003cb\u003e.....\u003c/b\u003e T??hoku, Japan (Great East Japan) (9.0, \u003cb\u003eMar\u003c/b\u003e 11)??????; Burma (6.8, \u003cb\u003eMar\u003c/b\u003e \u003cbr\u003e  24)??? \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Estimation of Regional Seismic Hazard in the Korean Peninsula ...",
+   "htmlTitle": "Estimation of Regional \u003cb\u003eSeismic\u003c/b\u003e Hazard in the Korean Peninsula \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.ceri.memphis.edu/people/jerchiu/papers/korea_hazard.pdf",
+   "displayLink": "www.ceri.memphis.edu",
+   "snippet": "stable Eurasia continent and is very quiet in seismic and tectonic activity.   Although ...... in the region occurred on 19 March 1952 with a magnitude of 6.3.   Thus ...",
+   "htmlSnippet": "stable \u003cb\u003eEurasia\u003c/b\u003e continent and is very quiet in \u003cb\u003eseismic\u003c/b\u003e and tectonic activity. \u003cbr\u003e  Although \u003cb\u003e......\u003c/b\u003e in the region occurred on \u003cb\u003e19 March 1952\u003c/b\u003e with a magnitude of 6.3. \u003cbr\u003e  Thus \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-VOHRxx5mNAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ceri.memphis.edu/people/jerchiu/papers/korea_hazard.pdf",
+   "htmlFormattedUrl": "www.ceri.memphis.edu/people/jerchiu/papers/korea_hazard.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040126091501",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "moddate": "D:20040126091501-06'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1953 Yenice-G??nen earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1953 Yenice-G??nen \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1953_Yenice-G%C3%B6nen_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1953 Yenice-G??nen earthquake occurred at 21:06 local time (19:06 UTC on   ... of the Anatolian Plate relative to the Eurasian Plate and the Arabian Plate as it   is ... :FT&date=MAR+19%2C+1953&author=&pub=The+Washington+Post&desc  = ... 1949 Karl??ova ?? 1951 Kur??unlu ?? 1952 Hasankale; 1953 Yenice-G??nen; 1957 ...",
+   "htmlSnippet": "The 1953 Yenice-G??nen \u003cb\u003eearthquake\u003c/b\u003e occurred at 21:06 local time (\u003cb\u003e19\u003c/b\u003e:06 UTC on \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e of the Anatolian Plate relative to the \u003cb\u003eEurasian\u003c/b\u003e Plate and the Arabian Plate as it \u003cbr\u003e  is \u003cb\u003e...\u003c/b\u003e :FT&amp;date=\u003cb\u003eMAR\u003c/b\u003e+\u003cb\u003e19\u003c/b\u003e%2C+1953&amp;author=&amp;pub=The+Washington+Post&amp;desc\u003cbr\u003e  = \u003cb\u003e...\u003c/b\u003e 1949 Karl??ova &middot; 1951 Kur??unlu &middot; \u003cb\u003e1952\u003c/b\u003e Hasankale; 1953 Yenice-G??nen; 1957 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "baFDDsKfI7UJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1953_Yenice-G??nen_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1953_Yenice-G??nen_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anatolian_Plate.png/260px-Anatolian_Plate.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "208",
+      "height": "130",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1APbrsyOCdPXD5DVrwAx3ljyjMFt3Pszt2hV1HxJ-abZ-bk8AxETmGj0q"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2004 Significant Earthquakes of the World",
+   "htmlTitle": "2004 Significant \u003cb\u003eEarthquakes\u003c/b\u003e of the World",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/significant/sig_2004.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 6, 2005 ... MAR 01 23 55 19.0& 38.058 N 38.277 E 5 G 3.8 6 EASTERN TURKEY. ... MAR   25 19 30 49.0 39.930 N 40.812 E 10 G 5.6 1.1 237 EASTERN TURKEY. ......   respect to the interior of the Eurasia plate with velocities of about 60 mm/y ... been   the magnitude 9.0 1952 Kamchatka earthquake, the magnitude 9.1 ...",
+   "htmlSnippet": "Oct 6, 2005 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMAR\u003c/b\u003e 01 23 55 19.0&amp; 38.058 N 38.277 E 5 G 3.8 6 EASTERN TURKEY. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMAR\u003c/b\u003e \u003cbr\u003e  25 \u003cb\u003e19\u003c/b\u003e 30 49.0 39.930 N 40.812 E 10 G 5.6 1.1 237 EASTERN TURKEY. \u003cb\u003e......\u003c/b\u003e \u003cbr\u003e  respect to the interior of the \u003cb\u003eEurasia\u003c/b\u003e plate with velocities of about 60 mm/y \u003cb\u003e...\u003c/b\u003e been \u003cbr\u003e  the magnitude 9.0 \u003cb\u003e1952\u003c/b\u003e Kamchatka \u003cb\u003eearthquake\u003c/b\u003e, the magnitude 9.1 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ak7FnZdcvqEJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eqarchives/.../sig_2004.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eqarchives/.../sig_2004.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes: Causes, Effects, Largest Earthquakes in History | The ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e: Causes, Effects, Largest \u003cb\u003eEarthquakes\u003c/b\u003e in History | The \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.thefreeresource.com/earthquakes-causes-effects-largest-earthquakes-in-history-and-lesson-plans-about-earthquakes",
+   "displayLink": "www.thefreeresource.com",
+   "snippet": "In order to understand what earthquakes are, it is important to first understand ...   the Eurasian Plate (at 68 million square kilometers), the Antarctic Plate (at 61 ...   When was the Kamchatka Earthquake: November 4, 1952 ... Richter Magnitude 4  -Mar ... This Day In History: List of May 19 Historical Events and Facts ?? This Day   In ...",
+   "htmlSnippet": "In order to understand what \u003cb\u003eearthquakes\u003c/b\u003e are, it is important to first understand \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  the \u003cb\u003eEurasian\u003c/b\u003e Plate (at 68 million square kilometers), the Antarctic Plate (at 61 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  When was the Kamchatka \u003cb\u003eEarthquake\u003c/b\u003e: November 4, \u003cb\u003e1952\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Richter Magnitude 4\u003cbr\u003e  -\u003cb\u003eMar\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e This Day In History: List of May \u003cb\u003e19\u003c/b\u003e Historical Events and Facts &middot; This Day \u003cbr\u003e  In \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "9Gh-ZChmE7oJ",
+   "formattedUrl": "www.thefreeresource.com/earthquakes-causes-effects-largest-earthquakes-in- history-and-lesson-plans-about-earthquakes",
+   "htmlFormattedUrl": "www.thefreeresource.com/\u003cb\u003eearthquakes\u003c/b\u003e-causes-effects-largest-\u003cb\u003eearthquakes\u003c/b\u003e-in- history-and-lesson-plans-about-\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "metatags": [
+     {
+      "msvalidate.01": "91199E1256B80A39DB45B8EBE4DCC2B5"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismic hazard and risk assessment for southern caucasus - eastern ...",
+   "htmlTitle": "\u003cb\u003eseismic\u003c/b\u003e hazard and risk assessment for southern caucasus - eastern \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.koeri.boun.edu.tr/depremmuh/eski/nato/project/pdf/Proposal.pdf",
+   "displayLink": "www.koeri.boun.edu.tr",
+   "snippet": "Erdal Safak, NPD, Kandili Observatory and Earthquake Research Institute,   Istanbul, Turkey. Prof. Tamaz .... +90-216-308-0163 erdal.safak@boun.edu.tr. 8.   Feb.1952. BAYRAKTUTAN/ ... +99532- 770472 / 335513. +99532- 332867   otarivar@yahoo.com. 3 Mar. 1950 .... Eurasia Foundation Award - Consolidation   ..... Page 19 ...",
+   "htmlSnippet": "Erdal Safak, NPD, Kandili Observatory and \u003cb\u003eEarthquake\u003c/b\u003e Research Institute, \u003cbr\u003e  Istanbul, Turkey. Prof. Tamaz \u003cb\u003e....\u003c/b\u003e +90-216-308-0163 erdal.safak@boun.edu.tr. 8. \u003cbr\u003e  Feb.\u003cb\u003e1952\u003c/b\u003e. BAYRAKTUTAN/ \u003cb\u003e...\u003c/b\u003e +99532- 770472 / 335513. +99532- 332867 \u003cbr\u003e  otarivar@yahoo.com. 3 \u003cb\u003eMar\u003c/b\u003e. 1950 \u003cb\u003e....\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e Foundation Award - Consolidation \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e Page \u003cb\u003e19\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tqcXlpYQg0EJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.koeri.boun.edu.tr/depremmuh/eski/nato/project/pdf/Proposal.pdf",
+   "htmlFormattedUrl": "www.koeri.boun.edu.tr/depremmuh/eski/nato/project/pdf/Proposal.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Mexican",
+      "author": "Office 2004 Test Drive User",
+      "creator": "Microsoft?? Office Word 2007",
+      "creationdate": "D:20100520143806",
+      "moddate": "D:20100520143806",
+      "producer": "Microsoft?? Office Word 2007"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes guide from the BGS (pdf)",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e guide from the BGS (pdf)",
+   "link": "http://www.thinkgeography.org.uk/Year%2010%20Geog/Year%2010/Earthquakes/earthquakes%202.pdf",
+   "displayLink": "www.thinkgeography.org.uk",
+   "snippet": "BGS is responsible for maintaining and developing a network of earthquake   recording instrumentation across .... 4 Mar 1333 ... centre of the Eurasian plate   and is consequently an example of a low seismicity area in which ... Russia 4   Ncyember 1952 9.9 9. Ecuadcr ... Ningxia, China 19 December 1929 299.999 9.9  . Qumis ...",
+   "htmlSnippet": "BGS is responsible for maintaining and developing a network of \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  recording instrumentation across \u003cb\u003e....\u003c/b\u003e 4 \u003cb\u003eMar\u003c/b\u003e 1333 \u003cb\u003e...\u003c/b\u003e centre of the \u003cb\u003eEurasian\u003c/b\u003e plate \u003cbr\u003e  and is consequently an example of a low seismicity area in which \u003cb\u003e...\u003c/b\u003e Russia 4 \u003cbr\u003e  Ncyember \u003cb\u003e1952\u003c/b\u003e 9.9 9. Ecuadcr \u003cb\u003e...\u003c/b\u003e Ningxia, China \u003cb\u003e19\u003c/b\u003e December 1929 299.999 9.9\u003cbr\u003e  . Qumis \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wiDDyaJolpcJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.thinkgeography.org.uk/.../Earthquakes/earthquakes%202.pdf",
+   "htmlFormattedUrl": "www.thinkgeography.org.uk/.../\u003cb\u003eEarthquakes\u003c/b\u003e/\u003cb\u003eearthquakes\u003c/b\u003e%202.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "CorelDRAW Version 10.0",
+      "author": "BGS",
+      "producer": "Corel PDF Engine Version 10.427",
+      "moddate": "Mon Aug 19 14:13:56 2002",
+      "creationdate": "Mon Aug 19 12:05:13 2002"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Issues and Lessons Learned from the Great East Japan Earthquake",
+   "htmlTitle": "Issues and Lessons Learned from the Great East Japan \u003cb\u003eEarthquake\u003c/b\u003e",
+   "link": "http://www.road.or.jp/english/news/pdf/111003.pdf",
+   "displayLink": "www.road.or.jp",
+   "snippet": "???First, I will talk about the Overview of the Earthquake and Tsunami. ???Second,   Damages on ... Mar 28, 1964. The Gulf of ... Nov 5, 1952 ... Eurasia Plate .... 19. ???   Recovery of the roads consists of the following 3 steps: Steps to Recovery of   Roads ...",
+   "htmlSnippet": "???First, I will talk about the Overview of the \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami. ???Second, \u003cbr\u003e  Damages on \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMar\u003c/b\u003e 28, 1964. The Gulf of \u003cb\u003e...\u003c/b\u003e Nov 5, \u003cb\u003e1952\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e Plate \u003cb\u003e....\u003c/b\u003e \u003cb\u003e19\u003c/b\u003e. ??? \u003cbr\u003e  Recovery of the roads consists of the following 3 steps: Steps to Recovery of \u003cbr\u003e  Roads \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "OfIgcNnIa40J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.road.or.jp/english/news/pdf/111003.pdf",
+   "htmlFormattedUrl": "www.road.or.jp/english/news/pdf/111003.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20111003151647+09'00'",
+      "creationdate": "D:20111003151647+09'00'",
+      "title": "Microsoft PowerPoint - KEYNOTE_KAWASAKI_Sep29_?????????.ppt",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 6.0 (Windows)",
+      "author": "hkasuya"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Japan earthquake and tsunami: as it happened March 11 - Telegraph",
+   "htmlTitle": "Japan \u003cb\u003eearthquake\u003c/b\u003e and tsunami: as it happened March 11 - Telegraph",
+   "link": "http://www.telegraph.co.uk/news/worldnews/asia/japan/8377742/Japan-earthquake-and-tsunami-as-it-happened-March-11.html",
+   "displayLink": "www.telegraph.co.uk",
+   "snippet": "11:59PM GMT 11 Mar 2011 ... 19:40 The tsunami alert in Indonesia has now   been dropped, according to the BBC's Kate McGeown in Jakarta. ... -November   1952: magnitude 9.0 quake in Kamchatka, Russia, causes damage but no .....   because of its position on the boundary of the Pacific and Eurasian tectonic   plates.",
+   "htmlSnippet": "11:59PM GMT 11 \u003cb\u003eMar\u003c/b\u003e 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e19\u003c/b\u003e:40 The tsunami alert in Indonesia has now \u003cbr\u003e  been dropped, according to the BBC&#39;s Kate McGeown in Jakarta. \u003cb\u003e...\u003c/b\u003e -November \u003cbr\u003e  \u003cb\u003e1952\u003c/b\u003e: magnitude 9.0 \u003cb\u003equake\u003c/b\u003e in Kamchatka, Russia, causes damage but no \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  because of its position on the boundary of the Pacific and \u003cb\u003eEurasian\u003c/b\u003e tectonic \u003cbr\u003e  plates.",
+   "formattedUrl": "www.telegraph.co.uk/.../Japan-earthquake-and-tsunami-as-it-happened- March-11.html",
+   "htmlFormattedUrl": "www.telegraph.co.uk/.../Japan-\u003cb\u003eearthquake\u003c/b\u003e-and-tsunami-as-it-happened- \u003cb\u003eMar\u003c/b\u003ech-11.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.telegraph.co.uk/multimedia/archive/01846/wave_1846129a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "284",
+      "height": "177",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTptFwi6Q9s_IUS1wH7mZW4E8EAlSTI-ooLuWdl0H74ABLVxgtjET4vlr4"
+     }
+    ],
+    "metatags": [
+     {
+      "tmgads.zone": "news.worldnews.asia.japan",
+      "tmgads.channel": "news",
+      "tmgads.section": "news-world_news-asia-japan",
+      "tmgads.articleid": "8377742",
+      "tmgads.pagetype": "story",
+      "tmgads.level": "5",
+      "tmgads.geo": "US",
+      "section-id": "2129",
+      "last-modified": "2011-03-11",
+      "article-id": "8377742",
+      "title": "Japan earthquake and tsunami: as it happened March 11",
+      "author": "By Andrew Hough, Tom Chivers and Andy Bloxham",
+      "gsamlc": "news/worldnews/asia/japan",
+      "gsachannel": "news",
+      "gsachannelname": "News",
+      "gsacategory": "worldnews",
+      "gsagenre": "asia",
+      "gsasectionuniquename": "news-world_news-asia-japan",
+      "gsaarticletype": "Story",
+      "dc.date.issued": "2011-03-11",
+      "fb:app_id": "120118784736295",
+      "fb:admins": "686953094,531239902,100002344351237",
+      "og:description": "Hundreds of bodies found after huge 8.9 earthquake triggers 30ft tsunami and   causes nuclear reactor emergency. This is our coverage of how it happened.",
+      "og:site_name": "Telegraph.co.uk",
+      "og:title": "Japan earthquake and tsunami: as it happened March 11 - Telegraph",
+      "og:url": "http://www.telegraph.co.uk/news/worldnews/asia/japan/8377742/Japan-earthquake-and-tsunami-as-it-happened-March-11.html",
+      "og:image": "http://i.telegraph.co.uk/multimedia/archive/01846/wave_1846129a.jpg",
+      "og:type": "article",
+      "og:video": "http://player.ooyala.com/player.swf?keepEmbedCode=true&autoplay=1&embedCode=45bGRiMjpM0cZwInZh20h55a3ywXiId3",
+      "og:video:secure_url": "https://player.ooyala.com/player.swf?keepEmbedCode=true&autoplay=1&embedCode=45bGRiMjpM0cZwInZh20h55a3ywXiId3",
+      "og:video:type": "application/x-shockwave-flash",
+      "twitter:card": "player",
+      "twitter:site": "@Telegraph",
+      "twitter:creator": "@andrew_hough",
+      "twitter:player": "https://player.ooyala.com/player.swf?keepEmbedCode=true&autoplay=1&embedCode=45bGRiMjpM0cZwInZh20h55a3ywXiId3",
+      "twitter:player:height": "315",
+      "twitter:player:width": "560",
+      "dcsext.mlc": "/news/worldnews/asia/japan/article",
+      "dcsext.genre": "asia",
+      "dcsext.category": "worldnews",
+      "wt.cg_s": "worldnews",
+      "dcsext.channel": "news",
+      "wt.cg_n": "news",
+      "dcsext.content_type": "Story",
+      "dcsext.level": "5",
+      "dcsext.author": "By Andrew Hough, Tom Chivers and Andy Bloxham",
+      "dcsext.articlefirstpublished": "2011-03-12",
+      "dcsext.articleid": "8377742",
+      "dcsext.cf": "1",
+      "dcsext.pd": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1812 Mar 26, Earthquake destroyed 90% of Caracas; about 20,000 died. .... 1952   Jul 21, A 7.7 earthquake destroyed the Kern County town of Tehachapi near ...   1956 Apr 19, In Spain 12 people died and about 70 were injured following .....   300 miles south of the boundary between the Indo-Australian and Eurasian   Plates.",
+   "htmlSnippet": "1812 \u003cb\u003eMar\u003c/b\u003e 26, \u003cb\u003eEarthquake\u003c/b\u003e destroyed 90% of Caracas; about 20,000 died. \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1952\u003c/b\u003e \u003cbr\u003e  Jul 21, A 7.7 \u003cb\u003eearthquake\u003c/b\u003e destroyed the Kern County town of Tehachapi near \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1956 Apr \u003cb\u003e19\u003c/b\u003e, In Spain 12 people died and about 70 were injured following \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  300 miles south of the boundary between the Indo-Australian and \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  Plates.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  }
+ ]
+}

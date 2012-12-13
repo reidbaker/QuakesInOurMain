@@ -1,0 +1,306 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 13 1918 Eurasia Earthquake",
+    "totalResults": "11900",
+    "searchTerms": "Feb 13 1918 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 13 1918 Eurasia Earthquake",
+    "totalResults": "11900",
+    "searchTerms": "Feb 13 1918 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.182939,
+  "formattedSearchTime": "0.18",
+  "totalResults": "11900",
+  "formattedTotalResults": "11,900"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1 DISASTER RISK ASSESSMENT OF THE CHINA/TAIWAN CROSS ...",
+   "htmlTitle": "1 DISASTER RISK ASSESSMENT OF THE CHINA/TAIWAN CROSS \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.tsunamisociety.org/CrossStraits.pdf",
+   "displayLink": "www.tsunamisociety.org",
+   "snippet": "Before the Paleozoic Era, the Eurasian tectonic plate mainly controlled China's   geological activity. .... 3.1.3 The Earthquake and Tsunami of February 13, 1918 ...",
+   "htmlSnippet": "Before the Paleozoic Era, the \u003cb\u003eEurasian\u003c/b\u003e tectonic plate mainly controlled China&#39;s \u003cbr\u003e  geological activity. \u003cb\u003e....\u003c/b\u003e 3.1.3 The \u003cb\u003eEarthquake\u003c/b\u003e and Tsunami of \u003cb\u003eFebruary 13, 1918\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "n5WRQY8VrpQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.tsunamisociety.org/CrossStraits.pdf",
+   "htmlFormattedUrl": "www.tsunamisociety.org/CrossStraits.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "George Carayannis",
+      "creator": "Word",
+      "creationdate": "D:20090625110517-04'00'",
+      "moddate": "D:20090625110517-04'00'",
+      "producer": "Mac OS X 10.4.11 Quartz PDFContext",
+      "title": "Microsoft Word - RISK ASSESSMENT OF TSUNAMI HAZARDS ALONG THE EAST COAST OF CHINA.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes in china, including the tangshan earthquake",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e in china, including the tangshan \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://factsanddetails.com/china.php?itemid=396",
+   "displayLink": "factsanddetails.com",
+   "snippet": "At the Himalayas, the Indian subcontinent rams into the Eurasian plate, . ... Six of   the 13 deadliest earthquakes ever occurred in China. ... in eastern Russia on   February 3, 1923 (8.5); 10) Banda Sea, Indonesia on February 1, 1918 (8.5); 10)   off ...",
+   "htmlSnippet": "At the Himalayas, the Indian subcontinent rams into the \u003cb\u003eEurasian\u003c/b\u003e plate, . \u003cb\u003e...\u003c/b\u003e Six of \u003cbr\u003e  the \u003cb\u003e13\u003c/b\u003e deadliest \u003cb\u003eearthquakes\u003c/b\u003e ever occurred in China. \u003cb\u003e...\u003c/b\u003e in eastern Russia on \u003cbr\u003e  \u003cb\u003eFebruary\u003c/b\u003e 3, 1923 (8.5); 10) Banda Sea, Indonesia on \u003cb\u003eFebruary\u003c/b\u003e 1, \u003cb\u003e1918\u003c/b\u003e (8.5); 10) \u003cbr\u003e  off \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qsHmUIfuvOkJ",
+   "formattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "htmlFormattedUrl": "factsanddetails.com/china.php?itemid=396",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://factsanddetails.com/media/2/20080317-tanshan1976%2032.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "242",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScOoH604SVx1lIDpfHg0Q0qhqY8sAjC9a4IM7umgB4cMHH8cygGk30fo9o"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "On the potential seismic hazard in Hong Kong",
+   "htmlTitle": "On the potential \u003cb\u003eseismic\u003c/b\u003e hazard in Hong Kong",
+   "link": "http://www.episodes.co.in/www/backissues/202/Articles--89.pdf",
+   "displayLink": "www.episodes.co.in",
+   "snippet": "3) 1918 February 13 Nan'ao Earthquake. 4) 1962 March 19 ..... the collision   between the Indian and Eurasian Plates, as well as the westward movement of   the ...",
+   "htmlSnippet": "3) \u003cb\u003e1918 February 13\u003c/b\u003e Nan&#39;ao \u003cb\u003eEarthquake\u003c/b\u003e. 4) 1962 March 19 \u003cb\u003e.....\u003c/b\u003e the collision \u003cbr\u003e  between the Indian and \u003cb\u003eEurasian\u003c/b\u003e Plates, as well as the westward movement of \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "U9vZqQDtQDYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.episodes.co.in/www/backissues/202/Articles--89.pdf",
+   "htmlFormattedUrl": "www.episodes.co.in/www/backissues/202/Articles--89.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Sat Nov 24 21:14:11 2007",
+      "producer": "TH-OCR 2000 (C++/Win32)",
+      "creator": "TH-OCR PDF Writer",
+      "author": "TH-OCR 2000",
+      "creationdate": "Sun Jun 17 20:10:00 2007"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Azerbaijan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Azerbaijan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Azerbaijan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This article is about the country in Eurasia. ... The Azerbaijan Democratic   Republic was established in 1918, but was incorporated into the Soviet Union in   1920. ... [13] It is one of the founding members of GUAM, the Commonwealth of   Independent .... By the Decree of the Supreme Soviet of the USSR in February   1942, the ...",
+   "htmlSnippet": "This article is about the country in \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e The Azerbaijan Democratic \u003cbr\u003e  Republic was established in \u003cb\u003e1918\u003c/b\u003e, but was incorporated into the Soviet Union in \u003cbr\u003e  1920. \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e13\u003c/b\u003e] It is one of the founding members of GUAM, the Commonwealth of \u003cbr\u003e  Independent \u003cb\u003e....\u003c/b\u003e By the Decree of the Supreme Soviet of the USSR in \u003cb\u003eFebruary\u003c/b\u003e \u003cbr\u003e  1942, the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "coFFJLlBtW8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Azerbaijan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Azerbaijan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Azerbaijan_with_Nagorno_Karabakh_region.svg/250px-Azerbaijan_with_Nagorno_Karabakh_region.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "200",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwBylarkMgbp6qVmaa7aldhGT0yJCdoaYXB6PM7EKT90atBdf75tb5vhF"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Republic of Azerbaijan"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "3 G 3",
+   "htmlTitle": "3 G 3",
+   "link": "http://peterbird.name/publications/2003_PB2002/2001GC000252.pdf",
+   "displayLink": "peterbird.name",
+   "snippet": "(Africa, Antarctica, Arabia, Australia, Caribbean, Cocos, Eurasia, India, Juan de   Fuca, Nazca, North. America, Pacific .... plates, because there is so much seismic,   geologic, and geodetic ...... large (mw ffi 7.3) event on 1918.02.13 was located ...",
+   "htmlSnippet": "(Africa, Antarctica, Arabia, Australia, Caribbean, Cocos, \u003cb\u003eEurasia\u003c/b\u003e, India, Juan de \u003cbr\u003e  Fuca, Nazca, North. America, Pacific \u003cb\u003e....\u003c/b\u003e plates, because there is so much \u003cb\u003eseismic\u003c/b\u003e, \u003cbr\u003e  geologic, and geodetic \u003cb\u003e......\u003c/b\u003e large (mw ffi 7.3) event on \u003cb\u003e1918.02.13\u003c/b\u003e was located \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "i2G1NHpmIPsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "peterbird.name/publications/2003_PB2002/2001GC000252.pdf",
+   "htmlFormattedUrl": "peterbird.name/publications/2003_PB2002/2001GC000252.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030306103210",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "title": "gc000252 1..52",
+      "moddate": "D:20030306103213+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nagorno-Karabakh Republic - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Nagorno-Karabakh Republic - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Nagorno-Karabakh_Republic",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "[13] This was held on 10 December of the same year among the citizens of .... In   his case study of Eurasia, Dov Lynch of the Institute for Security Studies of WEU   ... On 10 and 11 February 2006, Kocharyan and Aliyev met in Rambouillet,   France ... to accept the reality??? and that ???in 1918, Yerevan was granted to the   Armenians.",
+   "htmlSnippet": "[\u003cb\u003e13\u003c/b\u003e] This was held on 10 December of the same year among the citizens of \u003cb\u003e....\u003c/b\u003e In \u003cbr\u003e  his case study of \u003cb\u003eEurasia\u003c/b\u003e, Dov Lynch of the Institute for Security Studies of WEU \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e On 10 and 11 \u003cb\u003eFebruary\u003c/b\u003e 2006, Kocharyan and Aliyev met in Rambouillet, \u003cbr\u003e  France \u003cb\u003e...\u003c/b\u003e to accept the reality??? and that ???in \u003cb\u003e1918\u003c/b\u003e, Yerevan was granted to the \u003cbr\u003e  Armenians.",
+   "cacheId": "6wpl9yjKB1IJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Nagorno-Karabakh_Republic",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Nagorno-Karabakh_Republic",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Nagorno-Karabakh_Republic_(orthographic_projection).svg/250px-Nagorno-Karabakh_Republic_(orthographic_projection).svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "200",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4jJF-NgoYKaUoVblUljW_ZBeJtyz7PMwaz28iFk1-NaVcdSw69NSxD4U"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Nagorno-Karabakh Republic"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jiang et al., BSSA, 2010",
+   "htmlTitle": "Jiang et al., BSSA, 2010",
+   "link": "http://shadow.eas.gatech.edu/~zpeng/zpeng_paper/Jiang_etal_BSSA_2010.pdf",
+   "displayLink": "shadow.eas.gatech.edu",
+   "snippet": "Fujian province, the 13 February 1918 M ??? 7:3 Nan'ao earthquake in the   Guangdong (Kanto) province, and the. 13 July 1605 M ??? 7:5 earthquake in the ...",
+   "htmlSnippet": "Fujian province, the \u003cb\u003e13 February 1918\u003c/b\u003e M ??? 7:3 Nan&#39;ao \u003cb\u003eearthquake\u003c/b\u003e in the \u003cbr\u003e  Guangdong (Kanto) province, and the. 13 July 1605 M ??? 7:5 \u003cb\u003eearthquake\u003c/b\u003e in the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "D3il09lCKvEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "shadow.eas.gatech.edu/~zpeng/zpeng_paper/Jiang_etal_BSSA_2010.pdf",
+   "htmlFormattedUrl": "shadow.eas.gatech.edu/~zpeng/zpeng_paper/Jiang_etal_BSSA_2010.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20100930222233-04'",
+      "title": "2009286 2574..2589",
+      "producer": "Acrobat Distiller 6.0.1 (Windows)",
+      "creator": "Arbortext Advanced Print Publisher 9.1.405/W Unicode",
+      "creationdate": "D:20101001074946+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "English",
+   "htmlTitle": "English",
+   "link": "http://www.theeurasia.kz/index.php?lang=eng",
+   "displayLink": "www.theeurasia.kz",
+   "snippet": "1918. 1925. 1930. 1941 ??? 1945. 1958. 1960 ??? 1980. 1986 ??? 1987. 1989. 1992   ... Eurasia became the leader of the Kazakh insurance market on premium   volume; ..... premiums collected by Kazakh insurance companies totaled KZT13.9   billion. ..... \"Japanese quake could reveal risk management breaches, says   KPMG\".",
+   "htmlSnippet": "\u003cb\u003e1918\u003c/b\u003e. 1925. 1930. 1941 ??? 1945. 1958. 1960 ??? 1980. 1986 ??? 1987. 1989. 1992 \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEurasia\u003c/b\u003e became the leader of the Kazakh insurance market on premium \u003cbr\u003e  volume; \u003cb\u003e.....\u003c/b\u003e premiums collected by Kazakh insurance companies totaled \u003cb\u003eKZT13\u003c/b\u003e.9 \u003cbr\u003e  billion. \u003cb\u003e.....\u003c/b\u003e &quot;Japanese \u003cb\u003equake\u003c/b\u003e could reveal risk management breaches, says \u003cbr\u003e  KPMG&quot;.",
+   "cacheId": "4EP671b2ugoJ",
+   "formattedUrl": "www.theeurasia.kz/index.php?lang=eng",
+   "htmlFormattedUrl": "www.the\u003cb\u003eeurasia\u003c/b\u003e.kz/index.php?lang=eng",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.theeurasia.kz/i/banner_1_eng.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "184",
+      "height": "80",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRltbiDL-rUqWCl4k6FrYVUDUYxTk-VhgE6LV_aca6p8fMXAxNtqVJVI2k"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunami Alarm System - Occurrence of Tsunamis - Indian Ocean",
+   "htmlTitle": "Tsunami Alarm System - Occurrence of Tsunamis - Indian Ocean",
+   "link": "http://www.tsunami-alarm-system.com/en/phenomenon-tsunami/occurrences-indian-ocean.html",
+   "displayLink": "www.tsunami-alarm-system.com",
+   "snippet": "The quake off Sumatra on 26 December 2006 caused a disastrous tsunami that   flooded about 10 000 ... 3 000-kilometre-long curve where the Australia Plate   sinks beneath the Eurasia Plate. ... 13.02.1918, China, Shantou, Kwangtung, 7,5,   k.",
+   "htmlSnippet": "The \u003cb\u003equake\u003c/b\u003e off Sumatra on 26 December 2006 caused a disastrous tsunami that \u003cbr\u003e  flooded about 10 000 \u003cb\u003e...\u003c/b\u003e 3 000-kilometre-long curve where the Australia Plate \u003cbr\u003e  sinks beneath the \u003cb\u003eEurasia\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e13.02.1918\u003c/b\u003e, China, Shantou, Kwangtung, 7,5, \u003cbr\u003e  k.",
+   "cacheId": "0raS6fqq1NgJ",
+   "formattedUrl": "www.tsunami-alarm-system.com/en/.../occurrences-indian-ocean.html",
+   "htmlFormattedUrl": "www.tsunami-alarm-system.com/en/.../occurrences-indian-ocean.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.tsunami-alarm-system.com/uploads/pics/occurrence_tsunami_indian.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "238",
+      "height": "212",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMLw-0l57k5E4dhO68O9KO25zPum73XAvfrrHM8g0rp6a01yQYfGTLISrO"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c) Tsunami Alarm Institute",
+      "author": "(c) Tsunami Alarm Institute",
+      "email": "info[at]sunami-alarm-system[dot]com"
+     }
+    ]
+   }
+  }
+ ]
+}

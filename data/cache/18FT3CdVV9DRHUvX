@@ -1,0 +1,358 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 29 1956 Eurasia Earthquake",
+    "totalResults": "14300",
+    "searchTerms": "Jan 29 1956 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 29 1956 Eurasia Earthquake",
+    "totalResults": "14300",
+    "searchTerms": "Jan 29 1956 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.198253,
+  "formattedSearchTime": "0.20",
+  "totalResults": "14300",
+  "formattedTotalResults": "14,300"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Greece - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Greece - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This list of earthquakes in Greece includes notable earthquakes that have   affected ... The northern part of Greece lies on the Eurasian Plate while the   southern part lies ... 9 July 1956, 03:11:39, Dodecanese, 36.9, 26.0, 56, 7.8, Ms   Triggered a ... http://hal-insu.archives-ouvertes.fr/docs/00/29/94/03/PDF/nhess-7-  57-2007.pdf.",
+   "htmlSnippet": "This list of \u003cb\u003eearthquakes\u003c/b\u003e in Greece includes notable \u003cb\u003eearthquakes\u003c/b\u003e that have \u003cbr\u003e  affected \u003cb\u003e...\u003c/b\u003e The northern part of Greece lies on the \u003cb\u003eEurasian\u003c/b\u003e Plate while the \u003cbr\u003e  southern part lies \u003cb\u003e...\u003c/b\u003e 9 July \u003cb\u003e1956\u003c/b\u003e, 03:11:39, Dodecanese, 36.9, 26.0, 56, 7.8, Ms \u003cbr\u003e  Triggered a \u003cb\u003e...\u003c/b\u003e http://hal-insu.archives-ouvertes.fr/docs/00/\u003cb\u003e29\u003c/b\u003e/94/03/PDF/nhess-7-\u003cbr\u003e  57-2007.pdf.",
+   "cacheId": "tDUEF8iQhAcJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Greece",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Greece"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.4 - 39km WSW of Ashkasham, Afghanistan 2012-12-01 17:29:08 ...",
+   "htmlTitle": "M4.4 - 39km WSW of Ashkasham, Afghanistan 2012-12-01 17:\u003cb\u003e29\u003c/b\u003e:08 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usc000e20l",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Dec 1, 2012 ... M4.4 - 39km WSW of Ashkasham, Afghanistan 2012-12-01 17:29:08 UTC. DYFI?   .... Northward underthrusting of India beneath Eurasia generates .... This fault has   produced several earthquakes \u003eM6.0 including the 4 January 1970, M7.5 ...   Between 1930 and 1956, six M7.0+ earthquakes occurred near the ...",
+   "htmlSnippet": "Dec 1, 2012 \u003cb\u003e...\u003c/b\u003e M4.4 - 39km WSW of Ashkasham, Afghanistan 2012-12-01 17:\u003cb\u003e29\u003c/b\u003e:08 UTC. DYFI? \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Northward underthrusting of India beneath \u003cb\u003eEurasia\u003c/b\u003e generates \u003cb\u003e....\u003c/b\u003e This fault has \u003cbr\u003e  produced several \u003cb\u003eearthquakes\u003c/b\u003e &gt;M6.0 including the 4 \u003cb\u003eJanuary\u003c/b\u003e 1970, M7.5 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Between 1930 and \u003cb\u003e1956\u003c/b\u003e, six M7.0+ \u003cb\u003eearthquakes\u003c/b\u003e occurred near the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NM79BJWtwZIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usc000e20l",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usc000e20l"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Watchers - Increasing seismic activities in Aegean Sea, Greece ...",
+   "htmlTitle": "The Watchers - Increasing \u003cb\u003eseismic\u003c/b\u003e activities in Aegean Sea, Greece \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://thewatchers.adorraeli.com/2012/01/28/increasing-seismic-activities-in-aegean-sea-greece-with-tectonic-summary/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Jan 28, 2012 ... The first earthquake had a magnitude 5.3 on Thursday, January 26, 2012 at   depth ... It was involved in the tectonic break-up and then collision of the African   and Eurasian plates. .... Aegean Sea is the one that occurred on 9 July 1956 near   the southwest coast of the .... Posted January 29, 2012 at 12:45 AM ...",
+   "htmlSnippet": "Jan 28, 2012 \u003cb\u003e...\u003c/b\u003e The first \u003cb\u003eearthquake\u003c/b\u003e had a magnitude 5.3 on Thursday, \u003cb\u003eJanuary\u003c/b\u003e 26, 2012 at \u003cbr\u003e  depth \u003cb\u003e...\u003c/b\u003e It was involved in the tectonic break-up and then collision of the African \u003cbr\u003e  and \u003cb\u003eEurasian\u003c/b\u003e plates. \u003cb\u003e....\u003c/b\u003e Aegean Sea is the one that occurred on 9 July \u003cb\u003e1956\u003c/b\u003e near \u003cbr\u003e  the southwest coast of the \u003cb\u003e....\u003c/b\u003e Posted \u003cb\u003eJanuary 29\u003c/b\u003e, 2012 at 12:45 AM \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oRpi1B6yrLEJ",
+   "formattedUrl": "thewatchers.adorraeli.com/.../increasing-seismic-activities-in-aegean-sea- greece-with-tectonic-summary/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/.../increasing-\u003cb\u003eseismic\u003c/b\u003e-activities-in-aegean-sea- greece-with-tectonic-summary/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/01/Aegeansea_small.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "330",
+      "height": "153",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMzE8vTewcdaFbNQXgzSUaWN7t5zPpfHh3dJIzHkALOLE4xP1gEK6TsFTx"
+     }
+    ],
+    "article": [
+     {
+      "name": "Increasing seismic activities in Aegean Sea, Greece (with tectonic summary)",
+      "description": "A moderate earthquake has struck off the northern coast of Greece near Heraklion, Crete for the second time in two days. The first earthquake had a magnitude 5.3 on Thursday, January 26, 2012...",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Increasing seismic activities in Aegean Sea, Greece (with tectonic summary)",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2012/01/28/increasing-seismic-activities-in-aegean-sea-greece-with-tectonic-summary?year=2012&monthnum=01&day=28&name=increasing-seismic-activities-in-aegean-sea-greece-with-tectonic-summary",
+      "og:description": "A moderate earthquake has struck off the northern coast of Greece near Heraklion, Crete for the second time in two days.??The first earthquake had a magnitude 5.3 on Thursday, January 26, 2012 at depth of 14km, and the second earthquake had about the same magnitude ??? 5.4 at depth of 5km.????Last January magnitude 6.2 hit Crete.??Dodecanese archipelago also experienced??strong shaking last few days with strongest earthquake measuring 4.8 yesterday. From the start of the year we can see the increased seismic activities mainly around Aegean Sea region.??Real Time Seismicity in Greece for the last 24 hours (Automatic Alerts) Tectonic summary...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:image": "http://thewatchers.adorraeli.com/wp-content/uploads/2012/01/Aegeansea_small.jpg",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "S.Quade"
+     },
+     {
+      "fn": "Fred",
+      "nickname": "Fred"
+     },
+     {
+      "fn": "Paula Naula on Facebook",
+      "url": "http://www.facebook.com/profile.php?id=100002954759112",
+      "url_text": "Paula Naula on Facebook"
+     },
+     {
+      "fn": "Lianne Smith"
+     },
+     {
+      "fn": "donnie",
+      "nickname": "donnie"
+     },
+     {
+      "fn": "chillymanjaro",
+      "nickname": "chillymanjaro"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "M4.6 - 29km NE of `Alaqahdari-ye Kiran wa Munjan, Afghanistan ...",
+   "htmlTitle": "M4.6 - \u003cb\u003e29km\u003c/b\u003e NE of `Alaqahdari-ye Kiran wa Munjan, Afghanistan \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/eventpage/usb000dkxs",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 5, 2012 ... Location and Magnitude contributed by: USGS National Earthquake Information   Center .... himalaya dominantly results from continental collision india eurasia   plates .... earthquakes m6 0 including the 4 january 1970 m7 5 earthquake in ...   dauki faults between 1930 and 1956 six m7 0 earthquakes occurred ...",
+   "htmlSnippet": "Nov 5, 2012 \u003cb\u003e...\u003c/b\u003e Location and Magnitude contributed by: USGS National \u003cb\u003eEarthquake\u003c/b\u003e Information \u003cbr\u003e  Center \u003cb\u003e....\u003c/b\u003e himalaya dominantly results from continental collision india \u003cb\u003eeurasia\u003c/b\u003e \u003cbr\u003e  plates \u003cb\u003e....\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e m6 0 including the 4 \u003cb\u003ejanuary\u003c/b\u003e 1970 m7 5 \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  dauki faults between 1930 and \u003cb\u003e1956\u003c/b\u003e six m7 0 \u003cb\u003eearthquakes\u003c/b\u003e occurred \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "2AN5sVRbXUcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/eventpage/usb000dkxs",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/eventpage/usb000dkxs"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. ... The study   area is defined by the coordinates 29?? to 38??N latitude and 58?? to 73??E ...... Furrer   K. H.(1956) Annual Geological Report UNESCO Mission to Kabul, (dated Geol.   .... Stein, S., G. Sella, and E. Okal, The January 26, 2001 Bhuj earthquake and the ...",
+   "htmlSnippet": "of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. \u003cb\u003e...\u003c/b\u003e The study \u003cbr\u003e  area is defined by the coordinates \u003cb\u003e29\u003c/b\u003e?? to 38??N latitude and 58?? to 73??E \u003cb\u003e......\u003c/b\u003e Furrer \u003cbr\u003e  K. H.(\u003cb\u003e1956\u003c/b\u003e) Annual Geological Report UNESCO Mission to Kabul, (dated Geol. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e Stein, S., G. Sella, and E. Okal, The \u003cb\u003eJanuary\u003c/b\u003e 26, 2001 Bhuj \u003cb\u003eearthquake\u003c/b\u003e and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History of India and How Safe Are We? | MapsofIndia Blog",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History of India and How Safe Are We? | MapsofIndia Blog",
+   "link": "http://blog.mapsofindia.com/2010/01/17/earthquake-history-of-india-and-how-safe-are-we/",
+   "displayLink": "blog.mapsofindia.com",
+   "snippet": "Earthquakes have the power to uproot trees and send them ... ... January 17th,   2010 mapsofindia1 ... The collision with the Eurasian Plate along the boundary   between India and Nepal formed the orogenic belt that created the Tibetan ...   1956 JUL 21, ANJAR, GUJARAT, 7, NA. 1999 MAR 29, CHAMOLI DIST, UP, 6.8,   NA ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e have the power to uproot trees and send them ... \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary\u003c/b\u003e 17th, \u003cbr\u003e  2010 mapsofindia1 \u003cb\u003e...\u003c/b\u003e The collision with the \u003cb\u003eEurasian\u003c/b\u003e Plate along the boundary \u003cbr\u003e  between India and Nepal formed the orogenic belt that created the Tibetan \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1956\u003c/b\u003e JUL 21, ANJAR, GUJARAT, 7, NA. 1999 MAR \u003cb\u003e29\u003c/b\u003e, CHAMOLI DIST, UP, 6.8, \u003cbr\u003e  NA \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Ffcqb1JllZMJ",
+   "formattedUrl": "blog.mapsofindia.com/.../earthquake-history-of-india-and-how-safe-are-we/",
+   "htmlFormattedUrl": "blog.mapsofindia.com/.../\u003cb\u003eearthquake\u003c/b\u003e-history-of-india-and-how-safe-are-we/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://198.65.139.229/~blogmap/wp-content/uploads/2010/01/india-map-seismiczone1.jpg?w=265"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "211",
+      "height": "239",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2leeGzDZT96uooxFP2gfNU4t1W15OAg7MNtlXS15kb4rRPTsY3xDus1hj"
+     }
+    ],
+    "metatags": [
+     {
+      "og:site_name": "MapsofIndia Blog -",
+      "fb:admins": "100000703909807",
+      "og:title": "Earthquake History of India and How Safe Are We?",
+      "og:url": "http://blog.mapsofindia.com/2010/01/17/earthquake-history-of-india-and-how-safe-are-we/",
+      "og:type": "article"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "niharhazra",
+      "nickname": "niharhazra",
+      "photo": "http://0.gravatar.com/avatar/e8ae516e386da851f1974aff3c7d13d0?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "lowprice",
+      "nickname": "lowprice",
+      "url": "http://lowpricescan.com/",
+      "url_text": "lowprice",
+      "photo": "http://0.gravatar.com/avatar/e978566cceb0b568f4e55586667b24ce?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "glypeproxy US",
+      "url": "http://glypeproxy.us/",
+      "url_text": "glypeproxy US",
+      "photo": "http://0.gravatar.com/avatar/e1bf143e8e4cb8ce44d982164f721e67?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "mapsofindia1",
+      "photo": "http://1.gravatar.com/avatar/ffade411e9a37924af2b197e4d3c9eb7?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "Parvesh Malhotra",
+      "photo": "http://1.gravatar.com/avatar/7c742f2c045264f3b870508b003cd2fb?s=32&d=http%3A%2F%2F1.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     },
+     {
+      "fn": "buy helmets online",
+      "url": "http://www.helmetwale.com/",
+      "url_text": "buy helmets online",
+      "photo": "http://0.gravatar.com/avatar/40b6c63f6b18f35725256c13a41796b4?s=32&d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&r=G"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "earthquakes - anonymous (2 mb pdf)",
+   "htmlTitle": "\u003cb\u003eearthquakes\u003c/b\u003e - anonymous (2 mb pdf)",
+   "link": "http://www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "displayLink": "www.arvindguptatoys.com",
+   "snippet": "(which included what are now North America and Eurasia) and ... earthquake of   26 January 2001 tell, has witnessed major earthquakes in the past. The   earthquake ... Since 1956 eighty- ... May 29, 1999 Chamoh Area in Uttaranchal (  then Uttar ...",
+   "htmlSnippet": "(which included what are now North America and \u003cb\u003eEurasia\u003c/b\u003e) and \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e of \u003cbr\u003e  26 \u003cb\u003eJanuary\u003c/b\u003e 2001 tell, has witnessed major \u003cb\u003eearthquakes\u003c/b\u003e in the past. The \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Since \u003cb\u003e1956\u003c/b\u003e eighty- \u003cb\u003e...\u003c/b\u003e May \u003cb\u003e29\u003c/b\u003e, 1999 Chamoh Area in Uttaranchal (\u003cbr\u003e  then Uttar \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "noMHUn-Du88J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-earthquakes.pdf",
+   "htmlFormattedUrl": "www.arvindguptatoys.com/arvindgupta/vp-\u003cb\u003eearthquakes\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Thu Feb 16 16:50:09 2006",
+      "moddate": "Thu Jul 13 23:23:24 2006"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tip",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tip",
+   "link": "http://www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "Eurasian Plate (Figure 1) and going under the Eurasian. Plate; this .... VIII. 38. 29   Mar. 1999 Chamoli. 12:35. 6.6. VIII. 63. 26 Jan. 2001 Bhuj. 08:46. 7.7. X. 13,805 ...",
+   "htmlSnippet": "\u003cb\u003eEurasian\u003c/b\u003e Plate (Figure 1) and going under the \u003cb\u003eEurasian\u003c/b\u003e. Plate; this \u003cb\u003e....\u003c/b\u003e VIII. 38. \u003cb\u003e29\u003c/b\u003e \u003cbr\u003e  Mar. 1999 Chamoli. 12:35. 6.6. VIII. 63. 26 \u003cb\u003eJan\u003c/b\u003e. 2001 Bhuj. 08:46. 7.7. X. 13,805 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ChwROW281zgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/EQTips/EQTip04.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20091012130112+05'30'",
+      "author": "admin",
+      "creator": "PScript5.dll Version 5.2.2",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20091012130112+05'30'",
+      "title": "Microsoft Word - EQTip04.doc"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Tips",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Tips",
+   "link": "http://www.ourvmc.org/Files/EQTips_Full.pdf",
+   "displayLink": "www.ourvmc.org",
+   "snippet": "The Republic Day earthquake of 26 January 2001 in Gujarat clearly   demonstrated the earthquake vulnerability profile .... 29. Tip 16: How to make   Stone Masonry Buildings Earthquake Resistant? 31 ... North American. Plate.   Antarctic Plate. Eurasian. Plate. African. Plate. South ..... Gutenberg and Richter   in 1956 provided an ...",
+   "htmlSnippet": "The Republic Day \u003cb\u003eearthquake\u003c/b\u003e of 26 \u003cb\u003eJanuary\u003c/b\u003e 2001 in Gujarat clearly \u003cbr\u003e  demonstrated the \u003cb\u003eearthquake\u003c/b\u003e vulnerability profile \u003cb\u003e....\u003c/b\u003e \u003cb\u003e29\u003c/b\u003e. Tip 16: How to make \u003cbr\u003e  Stone Masonry Buildings \u003cb\u003eEarthquake\u003c/b\u003e Resistant? 31 \u003cb\u003e...\u003c/b\u003e North American. Plate. \u003cbr\u003e  Antarctic Plate. \u003cb\u003eEurasian\u003c/b\u003e. Plate. African. Plate. South \u003cb\u003e.....\u003c/b\u003e Gutenberg and Richter \u003cbr\u003e  in \u003cb\u003e1956\u003c/b\u003e provided an \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "eJE3wg7LCwYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "htmlFormattedUrl": "www.ourvmc.org/Files/EQTips_Full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20050816131846+05'30'",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20050816133329+05'30'",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Don't Recreate Haiti's Army - Analysis Eurasia Review",
+   "htmlTitle": "Don&#39;t Recreate Haiti&#39;s Army - Analysis \u003cb\u003eEurasia\u003c/b\u003e Review",
+   "link": "http://www.eurasiareview.com/30062012-dont-recreate-haitis-army-analysis/",
+   "displayLink": "www.eurasiareview.com",
+   "snippet": "Jun 30, 2012 ... The 7.2-magnitude quake struck the island just as Haiti was ... In fact, after the   earthquake struck, the Dominican Republic sent up to 150 troops ...",
+   "htmlSnippet": "Jun 30, 2012 \u003cb\u003e...\u003c/b\u003e The 7.2-magnitude \u003cb\u003equake\u003c/b\u003e struck the island just as Haiti was \u003cb\u003e...\u003c/b\u003e In fact, after the \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e struck, the Dominican Republic sent up to 150 troops \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6bQE01omxnQJ",
+   "formattedUrl": "www.eurasiareview.com/30062012-dont-recreate-haitis-army-analysis/",
+   "htmlFormattedUrl": "www.\u003cb\u003eeurasia\u003c/b\u003ereview.com/30062012-dont-recreate-haitis-army-analysis/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "https://lh3.googleusercontent.com/-xDHrR-Ahh6w/Tmw-596DwFI/AAAAAAAAAaA/MWhnYIJDopY/s250/Haiti_%2528orthographic_projection%2529.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "200",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKxiBWRtFDtKhrpeKqIl_tm1bx_HP5xAKx5bYNLS8fikOZSeJnCGUMvKU"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Mark",
+      "nickname": "Mark",
+      "photo": "http://1.gravatar.com/avatar/ba0d8ea6f9519d24cc3e405310630992?s=48&d=%3Cpath_to_url%3E&r=G"
+     },
+     {
+      "fn": "Grady A Emmons",
+      "url": "http://prmgroup.biz/",
+      "url_text": "Grady A Emmons",
+      "photo": "http://1.gravatar.com/avatar/3413edca4926af96704105551cc4fa45?s=48&d=%3Cpath_to_url%3E&r=G"
+     }
+    ]
+   }
+  }
+ ]
+}

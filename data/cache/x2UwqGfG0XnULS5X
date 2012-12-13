@@ -1,0 +1,290 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 14 1946 Africa Earthquake",
+    "totalResults": "87400",
+    "searchTerms": "Sep 14 1946 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 14 1946 Africa Earthquake",
+    "totalResults": "87400",
+    "searchTerms": "Sep 14 1946 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 1.267724,
+  "formattedSearchTime": "1.27",
+  "totalResults": "87400",
+  "formattedTotalResults": "87,400"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed. The earthquake was   centered in the gold mining area of Welkom about 300 kilometers ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed. The \u003cb\u003eearthquake\u003c/b\u003e was \u003cbr\u003e  centered in the gold mining area of Welkom about 300 kilometers \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 7 and Greater Earthquakes in the United States",
+   "htmlTitle": "Magnitude 7 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "1899 Sep 23 12:50, 59.0N, 143.0W, 7.0, Cape Yakataga. 1900 Oct 09 12:25 ...   Unimak Island. 1946 Nov 01 11:14:24, 51.5N, 174.5W, 7.0, Andreanof Islands ...",
+   "htmlSnippet": "1899 \u003cb\u003eSep\u003c/b\u003e 23 12:50, 59.0N, 143.0W, 7.0, Cape Yakataga. 1900 Oct 09 12:25 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Unimak Island. \u003cb\u003e1946\u003c/b\u003e Nov 01 11:\u003cb\u003e14\u003c/b\u003e:24, 51.5N, 174.5W, 7.0, Andreanof Islands \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mgVxMtBl12gJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/large_usa_7.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/large_usa_7.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vela Incident - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Vela Incident - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Vela_Incident",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The NSC concluded that responsibility for a nuclear explosion, if any, should be   ascribed to the Republic of South Africa. Several U.S. Air Force WC-135B ...",
+   "htmlSnippet": "The NSC concluded that responsibility for a nuclear explosion, if any, should be \u003cbr\u003e  ascribed to the Republic of South \u003cb\u003eAfrica\u003c/b\u003e. Several U.S. Air Force WC-135B \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "o6jzefPitJ8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Vela_Incident",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Vela_Incident",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Orthographic_projection_centered_on_the_Prince_Edward_Island.png/250px-Orthographic_projection_centered_on_the_Prince_Edward_Island.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "199",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXvVXA_hYS5TLuX_naaPpQWmEsTcWOuQ9kLishUbUOms0-mfkfw8DCmF_O"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Listed below are all known earthquakes measured or estimated to have a ...   01615-09-16September 16, 1615, Arica, Chile (then part of the Spanish ... 1946,   Aleutian Islands, Alaska, USA, 1946 Aleutian Islands earthquake, 8.6 .... 14   March 2011. http://www.cbsnews.com/stories/2011/03/14/501364/main20043126  .shtml.",
+   "htmlSnippet": "Listed below are all known \u003cb\u003eearthquakes\u003c/b\u003e measured or estimated to have a \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  01615-09-16\u003cb\u003eSeptember\u003c/b\u003e 16, 1615, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of the Spanish \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1946\u003c/b\u003e, \u003cbr\u003e  Aleutian Islands, Alaska, USA, \u003cb\u003e1946\u003c/b\u003e Aleutian Islands \u003cb\u003eearthquake\u003c/b\u003e, 8.6 \u003cb\u003e....\u003c/b\u003e \u003cb\u003e14\u003c/b\u003e \u003cbr\u003e  March 2011. http://www.cbsnews.com/stories/2011/03/\u003cb\u003e14\u003c/b\u003e/501364/main20043126\u003cbr\u003e  .shtml.",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Urbanization and Earthquake Risk in Africa",
+   "htmlTitle": "Urbanization and \u003cb\u003eEarthquake\u003c/b\u003e Risk in \u003cb\u003eAfrica\u003c/b\u003e",
+   "link": "http://www.dppc.gov.et/downloadable/Urban%20DRM%202012/PRESENTATIONS/SESSION%20II/GEM-AAU%20-%20Urbanization%20and%20Earthquake%20Risk%20in%20Africa.pdf",
+   "displayLink": "www.dppc.gov.et",
+   "snippet": "Background. ??? Vulnerability of sub-Saharan Africa to earthquake risk ... 15:46:14.   -11.00. 35.00. 60? 6.8. 1946/04/11. 01:52:20. -01.00. -14.00. 35? 7.2. 1949/10/ ...",
+   "htmlSnippet": "Background. ??? Vulnerability of sub-Saharan \u003cb\u003eAfrica\u003c/b\u003e to \u003cb\u003eearthquake\u003c/b\u003e risk \u003cb\u003e...\u003c/b\u003e 15:46:\u003cb\u003e14\u003c/b\u003e. \u003cbr\u003e  -11.00. 35.00. 60? 6.8. \u003cb\u003e1946\u003c/b\u003e/04/11. 01:52:20. -01.00. -14.00. 35? 7.2. 1949/10/ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "I4mxkzuG5gYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dppc.gov.et/.../GEM-AAU%20- %20Urbanization%20and%20Earthquake%20Risk%20in%20Africa.pdf",
+   "htmlFormattedUrl": "www.dppc.gov.et/.../GEM-AAU%20- %20Urbanization%20and%20\u003cb\u003eEarthquake\u003c/b\u003e%20Risk%20in%20\u003cb\u003eAfrica\u003c/b\u003e.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "animesh.kumar",
+      "creationdate": "D:20121012114920+03'00'",
+      "creator": "PScript5.dll Version 5.2.2",
+      "moddate": "D:20121012114920+03'00'",
+      "producer": "Acrobat Distiller 9.5.2 (Windows)",
+      "title": "Microsoft PowerPoint - 1. Africa_Urban_Earthquake_Risk_Atalay"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "526 Antioch earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "526 Antioch \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/526_Antioch_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Epicenter, 36??14???N 36??07???E\ufeff / \ufeff36.23??N 36.12??E\ufeff / 36.23; ... The 526 Antioch   earthquake was a major earthquake that hit Syria and ... mainly transform   boundary between the African Plate and the Arabian Plate, ... Retrieved 22   September 2011. ... 1943 Tosya-Ladik ?? 1944 Bolu-Gerede ?? 1946 Varto-H??n??s ??   1949 Karl??ova ...",
+   "htmlSnippet": "Epicenter, 36??\u003cb\u003e14\u003c/b\u003e???N 36??07???E\ufeff / \ufeff36.23??N 36.12??E\ufeff / 36.23; \u003cb\u003e...\u003c/b\u003e The 526 Antioch \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e was a major \u003cb\u003eearthquake\u003c/b\u003e that hit Syria and \u003cb\u003e...\u003c/b\u003e mainly transform \u003cbr\u003e  boundary between the \u003cb\u003eAfrican\u003c/b\u003e Plate and the Arabian Plate, \u003cb\u003e...\u003c/b\u003e Retrieved 22 \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 2011. \u003cb\u003e...\u003c/b\u003e 1943 Tosya-Ladik &middot; 1944 Bolu-Gerede &middot; \u003cb\u003e1946\u003c/b\u003e Varto-H??n??s &middot; \u003cbr\u003e  1949 Karl??ova \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "A0vdoUoYR34J",
+   "formattedUrl": "en.wikipedia.org/wiki/526_Antioch_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/526_Antioch_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Antiochia_su_Oronte.PNG/250px-Antiochia_su_Oronte.PNG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "242",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo73C5wrS-xWL_opdgVvwGYkziao8eZO_DdZBrP1K7fH0C-OzCMAsmg0GJ"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Dates in American Naval History: September - Naval Historical ...",
+   "htmlTitle": "Dates in American Naval History: \u003cb\u003eSeptember\u003c/b\u003e - Naval Historical \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.navy.mil/wars/datessep.htm",
+   "displayLink": "www.history.navy.mil",
+   "snippet": "1918 - Navy ships and crews assist earthquake victims of Yokohama and Tokyo,   Japan ... 1946 - USS Franklin Delano Roosevelt (CVB-42) and 4 escorts visit   Greece to ... These 14\"-50 caliber guns were originally designed for battleships.   .... 1858 - Sloop Niagara departs Charleston, SC, for Liberia with African slaves ...",
+   "htmlSnippet": "1918 - Navy ships and crews assist \u003cb\u003eearthquake\u003c/b\u003e victims of Yokohama and Tokyo, \u003cbr\u003e  Japan \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1946\u003c/b\u003e - USS Franklin Delano Roosevelt (CVB-42) and 4 escorts visit \u003cbr\u003e  Greece to \u003cb\u003e...\u003c/b\u003e These \u003cb\u003e14\u003c/b\u003e&quot;-50 caliber guns were originally designed for battleships. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 1858 - Sloop Niagara departs Charleston, SC, for Liberia with \u003cb\u003eAfrican\u003c/b\u003e slaves \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "deEiqNLOp0gJ",
+   "formattedUrl": "www.history.navy.mil/wars/datessep.htm",
+   "htmlFormattedUrl": "www.history.navy.mil/wars/dates\u003cb\u003esep\u003c/b\u003e.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Nelson Mandela - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Nelson Mandela - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Nelson_Mandela",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "2 September 1998 ??? 14 June 1999 ... Political party, African National Congress ...   In South Africa, Mandela is often known as Madiba, his Xhosa clan name; or as   tata ...... The couple had two sons, Madiba Thembekile (Thembi) (1946???1969)   and ..... After 1989's Loma Prieta earthquake demolished the Cypress Street   Viaduct ...",
+   "htmlSnippet": "2 \u003cb\u003eSeptember\u003c/b\u003e 1998 ??? \u003cb\u003e14\u003c/b\u003e June 1999 \u003cb\u003e...\u003c/b\u003e Political party, \u003cb\u003eAfrican\u003c/b\u003e National Congress \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  In South \u003cb\u003eAfrica\u003c/b\u003e, Mandela is often known as Madiba, his Xhosa clan name; or as \u003cbr\u003e  tata \u003cb\u003e......\u003c/b\u003e The couple had two sons, Madiba Thembekile (Thembi) (\u003cb\u003e1946\u003c/b\u003e???1969) \u003cbr\u003e  and \u003cb\u003e.....\u003c/b\u003e After 1989&#39;s Loma Prieta \u003cb\u003eearthquake\u003c/b\u003e demolished the Cypress Street \u003cbr\u003e  Viaduct \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "etnfr7bcx-8J",
+   "formattedUrl": "en.wikipedia.org/wiki/Nelson_Mandela",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Nelson_Mandela",
+   "pagemap": {
+    "RTO": [
+     {
+      "format": "image",
+      "group_impression_tag": "prbx_kr_rto_term_enc",
+      "Opt::max_rank_top": "0",
+      "Opt::threshold_override": "3",
+      "Opt::disallow_same_domain": "1",
+      "Output::title": "\u003cb\u003e?????? ????????? (Nelson Mandela)\u003c/b\u003e",
+      "Output::want_title_on_right": "true",
+      "Output::num_lines1": "3",
+      "Output::text1": "?????? ???????????? ????????? ??? ??????????????? ????????? ?????? ?????? ?????? ?????? ??? ?????? ????????? ???????????????. ??????????????? ???????????? ?????? ??????, ???????????? ???????????? ??? ??????????????? ???- ????????????????????? ?????? ???, ????????? ??? ??????????????? ???????????? ??? ?????? ????????? ????????????. ???????????? ???????????? ????????? ??? ?????? ????????????, 26??? ?????? 1990??? 2??? 11??? ??? ?????????...",
+      "Output::gray1b": "- ????????????",
+      "Output::no_clip1b": "true",
+      "UrlOutput::url2": "http://en.wikipedia.org/wiki/Nelson_Mandela",
+      "Output::link2": "???????????? (??????)",
+      "Output::text2b": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2c": "http://www.encyber.com/search_w/ctdetail.php?masterno=59574&contentno=59574",
+      "Output::link2c": "????????????",
+      "Output::text2d": "&nbsp;&nbsp;&nbsp;",
+      "UrlOutput::url2e": "http://ko.wikipedia.org/wiki/??????_?????????",
+      "Output::link2e": "????????????",
+      "result_group_header": "????????????",
+      "Output::image_url": "http://www.gstatic.com/richsnippets/b/54dfc8cafe554431.jpg",
+      "image_size": "80x80",
+      "Output::inline_image_width": "80",
+      "Output::inline_image_height": "80",
+      "Output::image_border": "1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South African History Online",
+   "htmlTitle": "South \u003cb\u003eAfrican\u003c/b\u003e History Online",
+   "link": "http://www.sahistory.org.za/",
+   "displayLink": "www.sahistory.org.za",
+   "snippet": "South African History Online (SAHO) is a non-partisan people's history project. ...   Gert Johannes ???Jakes??? Gerwel was born 18 January 1946 in the town of ...",
+   "htmlSnippet": "South \u003cb\u003eAfrican\u003c/b\u003e History Online (SAHO) is a non-partisan people&#39;s history project. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Gert Johannes ???Jakes??? Gerwel was born 18 January \u003cb\u003e1946\u003c/b\u003e in the town of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jawkrcfLYJUJ",
+   "formattedUrl": "www.sahistory.org.za/",
+   "htmlFormattedUrl": "www.sahistory.org.za/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sahistory.org.za/sites/default/files/imagecache/front_slide_350/images/blood-river_big_0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "280",
+      "height": "180",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz_Z-uENe1E7uCi8CwMKNKDnI0oHh8g5fqvbk4mQJo4HdlPRtUZaQcwByD"
+     }
+    ]
+   }
+  }
+ ]
+}

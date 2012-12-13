@@ -1,0 +1,311 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 5 1993 Asia Earthquake",
+    "totalResults": "532000",
+    "searchTerms": "May 5 1993 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 5 1993 Asia Earthquake",
+    "totalResults": "532000",
+    "searchTerms": "May 5 1993 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.553311,
+  "formattedSearchTime": "0.55",
+  "totalResults": "532000",
+  "formattedTotalResults": "532,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... December 5, 2012. Did you know this earthquake happened on the same day in   history ? Russia (Kamchatka), 1997 - Magnitude : 7.8. Felt (VII) ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e December \u003cb\u003e5\u003c/b\u003e, 2012. Did you know this \u003cb\u003eearthquake\u003c/b\u003e happened on the same day in \u003cbr\u003e  history ? Russia (Kamchatka), 1997 - Magnitude : 7.8. Felt (VII) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 Pre-11th century; 2 11th???18th centuries; 3 19th century; 4 See also; 5   References; 6 External ... Destroyed 13 cities in Asia (minor), Described by the   historians Tacitus and Pliny the Elder .... May 11, 1222, 06:15, Cyprus ..... see   1857 Fort Tejon earthquake, 1, 7.9, M (Grant and Sieh, 1993; Stein and Hanks,   1998), USGS ...",
+   "htmlSnippet": "1 Pre-11th century; 2 11th???18th centuries; 3 19th century; 4 See also; \u003cb\u003e5\u003c/b\u003e \u003cbr\u003e  References; 6 External \u003cb\u003e...\u003c/b\u003e Destroyed 13 cities in \u003cb\u003eAsia\u003c/b\u003e (minor), Described by the \u003cbr\u003e  historians Tacitus and Pliny the Elder \u003cb\u003e....\u003c/b\u003e \u003cb\u003eMay\u003c/b\u003e 11, 1222, 06:15, Cyprus \u003cb\u003e.....\u003c/b\u003e see \u003cbr\u003e  1857 Fort Tejon \u003cb\u003eearthquake\u003c/b\u003e, 1, 7.9, M (Grant and Sieh, \u003cb\u003e1993\u003c/b\u003e; Stein and Hanks, \u003cbr\u003e  1998), USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes list March 20, 2012 ??? Massive earthquake near the ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e list March 20, 2012 ??? Massive \u003cb\u003eearthquake\u003c/b\u003e near the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/19/earthquakes-list-march-20-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Mar 20, 2012 ... Personalized E-mail earthquake alerts for this area. Click on Subscribe to E-mail   list of this page below and make your choice of ??? delivery ...",
+   "htmlSnippet": "Mar 20, 2012 \u003cb\u003e...\u003c/b\u003e Personalized E-mail \u003cb\u003eearthquake\u003c/b\u003e alerts for this area. Click on Subscribe to E-mail \u003cbr\u003e  list of this page below and make your choice of ??? delivery \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "n1XFsImQY8AJ",
+   "formattedUrl": "earthquake-report.com/2012/03/.../earthquakes-list-march-20-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/03/.../\u003cb\u003eearthquakes\u003c/b\u003e-list-march-20-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "veronica",
+      "nickname": "veronica"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of natural disasters by death toll - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This article may be in need of reorganization to comply with Wikipedia's layout   guidelines. ... A natural disaster might be caused by earthquakes, flooding,   volcanic .... 5. 7002318000000000000318, 1993 North American Storm Complex   ... 70064000000000000004,000,000, Asian Flu, Worldwide, 01956-01-011956???  1958 ...",
+   "htmlSnippet": "This article \u003cb\u003emay\u003c/b\u003e be in need of reorganization to comply with Wikipedia&#39;s layout \u003cbr\u003e  guidelines. \u003cb\u003e...\u003c/b\u003e A natural disaster might be caused by \u003cb\u003eearthquakes\u003c/b\u003e, flooding, \u003cbr\u003e  volcanic \u003cb\u003e....\u003c/b\u003e \u003cb\u003e5\u003c/b\u003e. 7002318000000000000318, \u003cb\u003e1993\u003c/b\u003e North American Storm Complex \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 70064000000000000004,000,000, \u003cb\u003eAsian\u003c/b\u003e Flu, Worldwide, 01956-01-011956???\u003cbr\u003e  1958 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "TuohnLvcS2cJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_natural_disasters_by_death_toll"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Indian collision with Asian underbelly led to quake: Dam and ...",
+   "htmlTitle": "Indian collision with \u003cb\u003eAsian\u003c/b\u003e underbelly led to \u003cb\u003equake\u003c/b\u003e: Dam and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.independent.co.uk/news/world/indian-collision-with-asian-underbelly-led-to-quake-dam-and-massive-reservoir-near-epicentre-may-have-contributed-to-geological-changes-that-weakened-fault-zones-1507940.html",
+   "displayLink": "www.independent.co.uk",
+   "snippet": "INDIA is bashing into the soft underbelly of Asia at the rate of about 5cm (2in) a   year. ... quake: Dam and massive reservoir near epicentre may have contributed   to geological ... Friday 01 October 1993 .... Scientists warn of sperm count crisis; 5 ...",
+   "htmlSnippet": "INDIA is bashing into the soft underbelly of \u003cb\u003eAsia\u003c/b\u003e at the rate of about 5cm (2in) a \u003cbr\u003e  year. \u003cb\u003e...\u003c/b\u003e \u003cb\u003equake\u003c/b\u003e: Dam and massive reservoir near epicentre \u003cb\u003emay\u003c/b\u003e have contributed \u003cbr\u003e  to geological \u003cb\u003e...\u003c/b\u003e Friday 01 October \u003cb\u003e1993\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e Scientists warn of sperm count crisis; \u003cb\u003e5\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uHihyvC7t-sJ",
+   "formattedUrl": "www.independent.co.uk/.../indian-collision-with-asian-underbelly-led-to- quake-dam-and-massive-reservoir-near-epicentre-may-have-contrib...",
+   "htmlFormattedUrl": "www.independent.co.uk/.../indian-collision-with-\u003cb\u003easian\u003c/b\u003e-underbelly-led-to- \u003cb\u003equake\u003c/b\u003e-dam-and-massive-reservoir-near-epicentre-\u003cb\u003emay\u003c/b\u003e-have-contrib...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.independent.co.uk/skins/ind/images/eagle_logo.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "Indian collision with Asian underbelly led to quake: Dam and massive reservoir near epicentre may have contributed to geological changes that weakened fault zones",
+      "og:type": "article",
+      "og:image": "http://www.independent.co.uk/skins/ind/images/eagle_logo.jpg",
+      "og:description": "INDIA is bashing into the soft underbelly of Asia at the rate of about 5cm (2in) a year. The most obvious results of this activity are Mount Everest, the Himalayas, and massive earthquakes north of the Ganges marking the boundary between the two colliding geological structures.",
+      "article:tag": "Mumbai",
+      "article:published_time": "1993-10-01",
+      "article:section": "World",
+      "og:url": "http://www.independent.co.uk/news/world/indian-collision-with-asian-underbelly-led-to-quake-dam-and-massive-reservoir-near-epicentre-may-have-contributed-to-geological-changes-that-weakened-fault-zones-1507940.html",
+      "fb:app_id": "235586169789578",
+      "fb:admins": "36903991,100001802971061,500243253",
+      "og:site_name": "The Independent",
+      "og:locale": "en_GB"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes, Floods and Landslides - International Council for ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e, Floods and Landslides - International Council for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.icsu.org/icsu-asia/publications/science-planning-reports/science-plan-on-hazards-and-disasters/Earthquake-%20Floods%20-%20Landslides.pdf",
+   "displayLink": "www.icsu.org",
+   "snippet": "ICSU Regional Office for Asia and the Pacific was inaugurated on the 19   September by .... massive earthquake on May 12, 2008 claiming about 70,000   lives. .... a possible future earthquake of M7.5 in the vicinity of Tokyo would cost   about ... earthquake in Latur, western India, on 29 September 1993 claimed an   estimated ...",
+   "htmlSnippet": "ICSU Regional Office for \u003cb\u003eAsia\u003c/b\u003e and the Pacific was inaugurated on the 19 \u003cbr\u003e  September by \u003cb\u003e....\u003c/b\u003e massive \u003cb\u003eearthquake\u003c/b\u003e on \u003cb\u003eMay\u003c/b\u003e 12, 2008 claiming about 70,000 \u003cbr\u003e  lives. \u003cb\u003e....\u003c/b\u003e a possible future \u003cb\u003eearthquake\u003c/b\u003e of M7.\u003cb\u003e5\u003c/b\u003e in the vicinity of Tokyo would cost \u003cbr\u003e  about \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e in Latur, western India, on 29 September \u003cb\u003e1993\u003c/b\u003e claimed an \u003cbr\u003e  estimated \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Gkywd6I53kEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.icsu.org/...asia/.../Earthquake-%20Floods%20-%20Landslides.pdf",
+   "htmlFormattedUrl": "www.icsu.org/...\u003cb\u003easia\u003c/b\u003e/.../\u003cb\u003eEarthquake\u003c/b\u003e-%20Floods%20-%20Landslides.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20081128230311-08'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20081129072011+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Keith Porter, University of Colorado at Boulder",
+   "htmlTitle": "Keith Porter, University of Colorado at Boulder",
+   "link": "http://spot.colorado.edu/~porterka/",
+   "displayLink": "spot.colorado.edu",
+   "snippet": "Dr Porter specializes in seismic vulnerability and earthquake loss modeling. .....   1st International Conference on Asian Catastrophe Insurance (ICACI), Kyoto ....   States: A Time for Examination and Action; Memphis, Tennessee, May 2-5, 1993.",
+   "htmlSnippet": "Dr Porter specializes in seismic vulnerability and \u003cb\u003eearthquake\u003c/b\u003e loss modeling. \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  1st International Conference on \u003cb\u003eAsian\u003c/b\u003e Catastrophe Insurance (ICACI), Kyoto \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  States: A Time for Examination and Action; Memphis, Tennessee, \u003cb\u003eMay\u003c/b\u003e 2-\u003cb\u003e5\u003c/b\u003e, \u003cb\u003e1993\u003c/b\u003e.",
+   "cacheId": "5aiUssaz0J4J",
+   "formattedUrl": "spot.colorado.edu/~porterka/",
+   "htmlFormattedUrl": "spot.colorado.edu/~porterka/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://spot.colorado.edu/~porterka/index_files/image005.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "100",
+      "height": "100",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmVZScZ5fdSszz-Whxi3aTIBiWVp9NA_yjSdOuTYQGvIv7-po-jrn0"
+     }
+    ],
+    "metatags": [
+     {
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 11"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Characteristics of seismicity patterns prior to the M ~ 5 earthquakes ...",
+   "htmlTitle": "Characteristics of seismicity patterns prior to the M ~ \u003cb\u003e5 earthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.episodes.co.in/contents/2010/june/shashi_83.pdf",
+   "displayLink": "www.episodes.co.in",
+   "snippet": "and it was filled to a depth of 60 m, in 1993 (Rastogi et al., 1997b). This further   increased the ... earthquakes of magnitude exceeding 5 and several thousand   smaller earthquakes have ... seismicity changes inferred in this study may   provide ..... with the Nemuro Peninsula earthquake January 28, 2000: Jour. Asian  . Earth Sci.",
+   "htmlSnippet": "and it was filled to a depth of 60 m, in \u003cb\u003e1993\u003c/b\u003e (Rastogi et al., 1997b). This further \u003cbr\u003e  increased the \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e of magnitude exceeding \u003cb\u003e5\u003c/b\u003e and several thousand \u003cbr\u003e  smaller \u003cb\u003eearthquakes\u003c/b\u003e have \u003cb\u003e...\u003c/b\u003e seismicity changes inferred in this study \u003cb\u003emay\u003c/b\u003e \u003cbr\u003e  provide \u003cb\u003e.....\u003c/b\u003e with the Nemuro Peninsula \u003cb\u003eearthquake\u003c/b\u003e January 28, 2000: Jour. \u003cb\u003eAsian\u003c/b\u003e\u003cbr\u003e  . Earth Sci.",
+   "cacheId": "yLpbn78u6CAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.episodes.co.in/contents/2010/june/shashi_83.pdf",
+   "htmlFormattedUrl": "www.episodes.co.in/contents/2010/june/shashi_83.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20120222061303+05'30'",
+      "author": "Rakshith",
+      "creator": "PageMaker 7.0",
+      "producer": "Acrobat Distiller 7.0 (Windows)",
+      "moddate": "D:20120222061319+05'30'",
+      "title": "epicontents33-2.pmd"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BBC News - History of deadly earthquakes",
+   "htmlTitle": "BBC News - History of deadly \u003cb\u003eearthquakes\u003c/b\u003e",
+   "link": "http://www.bbc.co.uk/news/world-12717980",
+   "displayLink": "www.bbc.co.uk",
+   "snippet": "Aug 12, 2012 ... Earthquakes have claimed hundreds of thousands of lives in the last 100 ... 12   May 2008 ... Hundreds of thousands are killed across Asia when an earthquake   ... 30 September 1993 .... 5: Landlord missing with savings fund ...",
+   "htmlSnippet": "Aug 12, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquakes\u003c/b\u003e have claimed hundreds of thousands of lives in the last 100 \u003cb\u003e...\u003c/b\u003e 12 \u003cbr\u003e  \u003cb\u003eMay\u003c/b\u003e 2008 \u003cb\u003e...\u003c/b\u003e Hundreds of thousands are killed across \u003cb\u003eAsia\u003c/b\u003e when an \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 30 September \u003cb\u003e1993\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e \u003cb\u003e5\u003c/b\u003e: Landlord missing with savings fund \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W-F3PJvJQ9MJ",
+   "formattedUrl": "www.bbc.co.uk/news/world-12717980",
+   "htmlFormattedUrl": "www.bbc.co.uk/news/world-12717980",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.bbcimg.co.uk/media/images/51636000/jpg/_51636099_38868107.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "115",
+      "height": "64",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToREmdmYjBBZNKyEVQVcPzA1IJq4xLC6fF4AuI81wl_7LeGQN4GMWyew"
+     }
+    ],
+    "metatags": [
+     {
+      "originalpublicationdate": "2012/08/12 07:34:06",
+      "ukfs_url": "/news/world-12717980",
+      "thumbnail_url": "http://news.bbcimg.co.uk/media/images/51642000/jpg/_51642631_011403924-1.jpg",
+      "headline": "History of deadly earthquakes",
+      "ifs_url": "/news/world-12717980",
+      "section": "World",
+      "contentflavor": "STORY",
+      "cps_id": "12717980",
+      "cps_site_name": "BBC News",
+      "cps_section_path": "World",
+      "cps_asset_type": "STY",
+      "cps_platform": "HighWeb",
+      "cps_audience": "US",
+      "og:title": "History of deadly earthquakes",
+      "og:type": "article",
+      "og:url": "http://www.bbc.co.uk/news/world-12717980",
+      "og:site_name": "BBC News",
+      "og:image": "http://news.bbcimg.co.uk/media/images/51636000/jpg/_51636099_38868107.jpg",
+      "bbcsearch_noindex": "atom",
+      "application-name": "BBC News",
+      "msapplication-tileimage": "/img/1_0_2/cream/hi/news/bbc-news-pin.png",
+      "msapplication-tilecolor": "#CC0101",
+      "viewport": "width = 996",
+      "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more",
+      "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico"
+     }
+    ]
+   }
+  }
+ ]
+}

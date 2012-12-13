@@ -1,0 +1,313 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 30 1917 Eurasia Earthquake",
+    "totalResults": "9980",
+    "searchTerms": "Jul 30 1917 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 30 1917 Eurasia Earthquake",
+    "totalResults": "9980",
+    "searchTerms": "Jul 30 1917 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.253054,
+  "formattedSearchTime": "0.25",
+  "totalResults": "9980",
+  "formattedTotalResults": "9,980"
+ },
+ "spelling": {
+  "correctedQuery": "July 30 1917 Eurasia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 30 1917 Eurasia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Watchers - Seismic risk high for Indian-Australian plate and is ...",
+   "htmlTitle": "The Watchers - \u003cb\u003eSeismic\u003c/b\u003e risk high for Indian-Australian plate and is \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://thewatchers.adorraeli.com/2012/07/30/seismic-risk-high-for-indian-australian-plate-and-is-now-under-major-stress/",
+   "displayLink": "thewatchers.adorraeli.com",
+   "snippet": "Posted on July 30, 2012 Posted in: Editors' picks, Seismic activity ... and oceans   all lie on these plates, the major ones referred to as the African, Eurasian, Indo-  Australian, ... northwest of the capital San Salvador City and last erupted in 1917.",
+   "htmlSnippet": "Posted on \u003cb\u003eJuly 30\u003c/b\u003e, 2012 Posted in: Editors&#39; picks, \u003cb\u003eSeismic\u003c/b\u003e activity \u003cb\u003e...\u003c/b\u003e and oceans \u003cbr\u003e  all lie on these plates, the major ones referred to as the African, \u003cb\u003eEurasian\u003c/b\u003e, Indo-\u003cbr\u003e  Australian, \u003cb\u003e...\u003c/b\u003e northwest of the capital San Salvador City and last erupted in \u003cb\u003e1917\u003c/b\u003e.",
+   "cacheId": "JpWDc231MooJ",
+   "formattedUrl": "thewatchers.adorraeli.com/.../30/seismic-risk-high-for-indian-australian-plate- and-is-now-under-major-stress/",
+   "htmlFormattedUrl": "thewatchers.adorraeli.com/.../\u003cb\u003e30\u003c/b\u003e/\u003cb\u003eseismic\u003c/b\u003e-risk-high-for-indian-australian-plate- and-is-now-under-major-stress/",
+   "pagemap": {
+    "article": [
+     {
+      "name": "Seismic risk high for Indian-Australian plate and is now under major stress",
+      "description": "On July 29, 2012, a magnitude 6.0 earthquake struck off Mexico's Pacific coast close to the Guatemalan border, but there were no immediate reports of damage or casualties. The quake occurred...",
+      "type": "Article"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=1000",
+      "og:title": "Seismic risk high for Indian-Australian plate and is now under major stress",
+      "og:type": "article",
+      "og:url": "http://thewatchers.adorraeli.com/2012/07/30/seismic-risk-high-for-indian-australian-plate-and-is-now-under-major-stress?year=2012&monthnum=07&day=30&name=seismic-risk-high-for-indian-australian-plate-and-is-now-under-major-stress",
+      "og:description": "On July??29,??2012, a magnitude 6.0 earthquake struck off??Mexico???s Pacific coast close to the Guatemalan border, but there were no immediate reports of damage or casualties. The quake occurred at 6:22 am (12:22 GMT) at a depth of 35 kilometers (21 miles), and was located 28 kilometers (17 miles) south-southwest of Suchiate, Mexico, the USGS said. We have seen a number of earthquakes around the indian-Australian plate recently with strong patterns of Mag 6??earthquakes. Australian and American researchers investigating forces exerted on the Indo-Australian tectonic plate have discovered that the considerable stresses being exerted on the plate could be leading to...",
+      "og:site_name": "The Watchers",
+      "og:locale": "en_us",
+      "og:video:type": "application/x-shockwave-flash"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "joerg",
+      "nickname": "joerg"
+     },
+     {
+      "fn": "terry",
+      "nickname": "terry"
+     },
+     {
+      "fn": "Joe",
+      "nickname": "Joe"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Taiwan - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in Taiwan - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... the convergence of the Philippine Sea plate and the Eurasian Plate to the east   of the island. Most of the earthquakes registered in Taiwan actually occur off the   east coast ... January 5, 1917, 00:55, Central Taiwan, 24.0, 121.0, shallow, 6.2,   54, 130 ... July 17, 1935, 00:19, Hsinchu, Taichung, 24.6, 120.7, 30, 6.2, 44,   1,734 ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e the convergence of the Philippine Sea plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate to the east \u003cbr\u003e  of the island. Most of the \u003cb\u003eearthquakes\u003c/b\u003e registered in Taiwan actually occur off the \u003cbr\u003e  east coast \u003cb\u003e...\u003c/b\u003e January 5, \u003cb\u003e1917\u003c/b\u003e, 00:55, Central Taiwan, 24.0, 121.0, shallow, 6.2, \u003cbr\u003e  54, 130 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly\u003c/b\u003e 17, 1935, 00:19, Hsinchu, Taichung, 24.6, 120.7, \u003cb\u003e30\u003c/b\u003e, 6.2, 44, \u003cbr\u003e  1,734 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZH6fEfxO9r8J",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Taiwan",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_Taiwan",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Taiwan_seismicity.jpg/200px-Taiwan_seismicity.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "236",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd5Kw8rpuYyKZXek0bz0ODeN-urNs_5D7SQPE810KW1AGnkI8RmMs2qQyh"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Afghanistan Nicholas Ambraseys",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Afghanistan Nicholas Ambraseys",
+   "link": "http://cires.colorado.edu/~bilham/Afghan.pdf",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "of the Eurasian plate driving towards the Arabian plate at 3-4 cm/yr. ..... N. (1983a  ) Determination of magnitude for large shallow earthquakes 1898 to 1917, ...",
+   "htmlSnippet": "of the \u003cb\u003eEurasian\u003c/b\u003e plate driving towards the Arabian plate at 3-4 cm/yr. \u003cb\u003e.....\u003c/b\u003e N. (1983a\u003cbr\u003e  ) Determination of magnitude for large shallow \u003cb\u003eearthquakes\u003c/b\u003e 1898 to \u003cb\u003e1917\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pXiey-oODvsJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/Afghan.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040224075649-07'00'",
+      "creator": "Word",
+      "moddate": "D:20040224075649-07'00'",
+      "producer": "Mac OS X 10.3.2 Quartz PDFContext"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismicity of Western Australia - China Seismicity",
+   "htmlTitle": "Seismicity of Western Australia - China Seismicity",
+   "link": "http://www.seismicity.see.uwa.edu.au/welcome/world_seismicity/china_seismicity",
+   "displayLink": "www.seismicity.see.uwa.edu.au",
+   "snippet": "Apr 15, 2010 ... SIGNIFICANT RECENT EARTHQUAKES IN CHINA ... 30 July 1917, 28.0, 104.0,   6.5, 1,800. 13 Feb 1918, 23.5, 117.0, 7.3 ... D - Eurasian Plate ...",
+   "htmlSnippet": "Apr 15, 2010 \u003cb\u003e...\u003c/b\u003e SIGNIFICANT RECENT \u003cb\u003eEARTHQUAKES\u003c/b\u003e IN CHINA \u003cb\u003e...\u003c/b\u003e \u003cb\u003e30 July 1917\u003c/b\u003e, 28.0, 104.0, \u003cbr\u003e  6.5, 1,800. 13 Feb 1918, 23.5, 117.0, 7.3 \u003cb\u003e...\u003c/b\u003e D - \u003cb\u003eEurasian\u003c/b\u003e Plate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "NIs8uAbC_tQJ",
+   "formattedUrl": "www.seismicity.see.uwa.edu.au/welcome/...seismicity/china_seismicity",
+   "htmlFormattedUrl": "www.\u003cb\u003eseismic\u003c/b\u003eity.see.uwa.edu.au/welcome/...\u003cb\u003eseismic\u003c/b\u003eity/china_\u003cb\u003eseismic\u003c/b\u003eity",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.seismicity.see.uwa.edu.au/seismicity/?f=103043"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "253",
+      "height": "199",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtPxAiSBpZpD0niGLXaUsBwC4fQf1_9VPDkv6LmtC-pFH_pxBq_UVmtJW"
+     }
+    ],
+    "metatags": [
+     {
+      "dc.title": "China Seismicity",
+      "dc.creator": "The University of Western Australia",
+      "dc.publisher": "The University of Western Australia",
+      "dc.source": "http://www.seismicity.segs.uwa.edu.au/page/76581",
+      "dc.date.modified": "2010-04-15",
+      "dc.date.created": "2005-08-07",
+      "dc.date.valid": "2011-04-15",
+      "dc.format": "text/html",
+      "dc.identifier": "http://www.seismicity.see.uwa.edu.au/page/76581",
+      "dc.language": "EN",
+      "dc.rights": "Copyright 2012, Legal Services, The University of Western Australia"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "Around 15% of the total seismic energy is released where the Eurasian and ...   1917, 21, 1947, 26, 1977, 16 ... The 19 July 1984 Lleyn event of North Wales,   with a magnitude of 5.4 ML, .... of the large range of earthquake energies (for   example a magnitude 6 ML is 30 times larger, in terms of energy than a   magnitude 5 ML).",
+   "htmlSnippet": "Around 15% of the total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e1917\u003c/b\u003e, 21, 1947, 26, 1977, 16 \u003cb\u003e...\u003c/b\u003e The 19 \u003cb\u003eJuly\u003c/b\u003e 1984 Lleyn event of North Wales, \u003cbr\u003e  with a magnitude of 5.4 ML, \u003cb\u003e....\u003c/b\u003e of the large range of \u003cb\u003eearthquake\u003c/b\u003e energies (for \u003cbr\u003e  example a magnitude 6 ML is \u003cb\u003e30\u003c/b\u003e times larger, in terms of energy than a \u003cbr\u003e  magnitude 5 ML).",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Probability map of the next M !???? 5.5 earthquakes in Italy",
+   "htmlTitle": "Probability map of the next M !???? 5.5 \u003cb\u003eearthquakes\u003c/b\u003e in Italy",
+   "link": "http://earthquake.bo.ingv.it/downloads/cinti.pdf",
+   "displayLink": "earthquake.bo.ingv.it",
+   "snippet": "Besides the magnitude and the time of the earthquakes, the model ... Received 4   March 2004; Revised 15 July 2004; Accepted 24 August 2004; Published 2   November 2004. ..... 1917/04/26 ... Zone 30. Y/M/D. M. Y/M/D. M. Y/M/D. M. Y/M/D  . M. Y/M/D. M. 1626/04/04. 6.1 ... to the Eurasian plate; north???south compression   in ...",
+   "htmlSnippet": "Besides the magnitude and the time of the \u003cb\u003eearthquakes\u003c/b\u003e, the model \u003cb\u003e...\u003c/b\u003e Received 4 \u003cbr\u003e  March 2004; Revised 15 \u003cb\u003eJuly\u003c/b\u003e 2004; Accepted 24 August 2004; Published 2 \u003cbr\u003e  November 2004. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1917\u003c/b\u003e/04/26 \u003cb\u003e...\u003c/b\u003e Zone \u003cb\u003e30\u003c/b\u003e. Y/M/D. M. Y/M/D. M. Y/M/D. M. Y/M/D\u003cbr\u003e  . M. Y/M/D. M. 1626/04/04. 6.1 \u003cb\u003e...\u003c/b\u003e to the \u003cb\u003eEurasian\u003c/b\u003e plate; north???south compression \u003cbr\u003e  in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pZj2mmYM1rEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake.bo.ingv.it/downloads/cinti.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.bo.ingv.it/downloads/cinti.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20041022155908Z",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "title": "gc000724 1..15",
+      "moddate": "D:20041028161559-04'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Chapter 2. Earthquake Damage Scenario",
+   "htmlTitle": "Chapter 2. \u003cb\u003eEarthquake\u003c/b\u003e Damage Scenario",
+   "link": "http://www.ndrrmc.gov.ph/attachments/020_E_SUMMARY_02.PDF",
+   "displayLink": "www.ndrrmc.gov.ph",
+   "snippet": "Many earthquake generators are distributed all over the country as shown in ...   The Eurasian Plate (or South China Plate) subducts eastward beneath Luzon   Island along the ... 30. 7.9. 116.3. 81.0. 1880. 7. 18. 7.6. 67.8. 139.8. 1658. 8. 19.   5.7. 12.5 ...... -1.05 3,813 1,917 50.3 12 0.3 377 0.10 303 7.9 926 24.3 1,255 32.9 ...",
+   "htmlSnippet": "Many \u003cb\u003eearthquake\u003c/b\u003e generators are distributed all over the country as shown in \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The \u003cb\u003eEurasian\u003c/b\u003e Plate (or South China Plate) subducts eastward beneath Luzon \u003cbr\u003e  Island along the \u003cb\u003e...\u003c/b\u003e \u003cb\u003e30\u003c/b\u003e. 7.9. 116.3. 81.0. 1880. 7. 18. 7.6. 67.8. 139.8. 1658. 8. 19. \u003cbr\u003e  5.7. 12.5 \u003cb\u003e......\u003c/b\u003e -1.05 3,813 \u003cb\u003e1,917\u003c/b\u003e 50.3 12 0.3 377 0.10 303 7.9 926 24.3 1,255 32.9 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ogFLNz3NQE0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.ndrrmc.gov.ph/attachments/020_E_SUMMARY_02.PDF",
+   "htmlFormattedUrl": "www.ndrrmc.gov.ph/attachments/020_E_SUMMARY_02.PDF",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "CovTOC_summary - Microsoft Word",
+      "creationdate": "D:20040614135911Z",
+      "title": "CovTOC_summary.doc",
+      "author": "Owner01",
+      "producer": "Acrobat PDFWriter 5.0 Windows NT",
+      "moddate": "D:20040623101423+09'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The M9.0 Great Tohoku Earthquake (northeast Honshu, Japan) of ...",
+   "htmlTitle": "The M9.0 Great Tohoku \u003cb\u003eEarthquake\u003c/b\u003e (northeast Honshu, Japan) of \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://aki.bc.edu/significant_events/global/2011/2011_Honshu_Japan_Summary.pdf",
+   "displayLink": "aki.bc.edu",
+   "snippet": "Mar 11, 2011 ... National Earthquake Information Center ... 1917. 1917. 1919. 1921. 1923. 1923.   1923. 1923. 1923. 1923. 1923 ... 30??. 30??. DATA SOURCES. EARTHQUAKES   AND SEISMIC ... and Eurasia plates; these include the Okhotsk and Amur ...   occurred on July 13, 869, when the Sendai area was swept by a large ...",
+   "htmlSnippet": "Mar 11, 2011 \u003cb\u003e...\u003c/b\u003e National \u003cb\u003eEarthquake\u003c/b\u003e Information Center \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1917\u003c/b\u003e. \u003cb\u003e1917\u003c/b\u003e. 1919. 1921. 1923. 1923. \u003cbr\u003e  1923. 1923. 1923. 1923. 1923 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e30\u003c/b\u003e??. \u003cb\u003e30\u003c/b\u003e??. DATA SOURCES. \u003cb\u003eEARTHQUAKES\u003c/b\u003e \u003cbr\u003e  AND \u003cb\u003eSEISMIC\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e and \u003cb\u003eEurasia\u003c/b\u003e plates; these include the Okhotsk and Amur \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  occurred on \u003cb\u003eJuly\u003c/b\u003e 13, 869, when the Sendai area was swept by a large \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WcAXQcGMMNEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "aki.bc.edu/significant_events/global/.../2011_Honshu_Japan_Summary.pdf",
+   "htmlFormattedUrl": "aki.bc.edu/significant_events/global/.../2011_Honshu_Japan_Summary.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110316144707-06'00'",
+      "creator": "Adobe Illustrator CS5",
+      "moddate": "D:20110316144707-06'00'",
+      "producer": "Adobe PDF library 9.90",
+      "title": "20110311newest4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Three-dimensional S velocity of the mantle in the Africa-Eurasia ...",
+   "htmlTitle": "Three-dimensional S velocity of the mantle in the Africa-\u003cb\u003eEurasia\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://lunar.earth.northwestern.edu/research/suzan/publications/46_Schmid_et_al_JGR_2008.pdf",
+   "displayLink": "lunar.earth.northwestern.edu",
+   "snippet": "Received 29 November 2005; revised 24 March 2007; accepted 6 July 2007;   published 15 March 2008. [1] A new ... seismic stations, capable of monitoring   seismicity, tectonics, and deep ... extension in various smaller-scale domains   around 30 Ma ...... in the Mediterranean-Carpathian region, Science, 290, 1910???  1917.",
+   "htmlSnippet": "Received 29 November 2005; revised 24 March 2007; accepted 6 \u003cb\u003eJuly\u003c/b\u003e 2007; \u003cbr\u003e  published 15 March 2008. [1] A new \u003cb\u003e...\u003c/b\u003e \u003cb\u003eseismic\u003c/b\u003e stations, capable of monitoring \u003cbr\u003e  seismicity, tectonics, and deep \u003cb\u003e...\u003c/b\u003e extension in various smaller-scale domains \u003cbr\u003e  around \u003cb\u003e30\u003c/b\u003e Ma \u003cb\u003e......\u003c/b\u003e in the Mediterranean-Carpathian region, Science, 290, 1910???\u003cbr\u003e  \u003cb\u003e1917\u003c/b\u003e.",
+   "cacheId": "F9S2rSmd10wJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "lunar.earth.northwestern.edu/research/.../46_Schmid_et_al_JGR_2008.pdf",
+   "htmlFormattedUrl": "lunar.earth.northwestern.edu/research/.../46_Schmid_et_al_JGR_2008.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20080312100940-03'00'",
+      "title": "jb004193 1..16",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "creationdate": "D:20080309105114Z"
+     }
+    ]
+   }
+  }
+ ]
+}

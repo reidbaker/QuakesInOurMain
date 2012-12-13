@@ -1,0 +1,317 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 14 1938 Eurasia Earthquake",
+    "totalResults": "4170",
+    "searchTerms": "Mar 14 1938 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 14 1938 Eurasia Earthquake",
+    "totalResults": "4170",
+    "searchTerms": "Mar 14 1938 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.605026,
+  "formattedSearchTime": "0.61",
+  "totalResults": "4170",
+  "formattedTotalResults": "4,170"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKE HAZARDS AND MITIGATION IN INDIA WITH ...",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e HAZARDS AND MITIGATION IN INDIA WITH \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://gbpihedenvis.nic.in/HTML/vol82/vol82-tewari.htm",
+   "displayLink": "gbpihedenvis.nic.in",
+   "snippet": "It eventually collided with the Eurasian plate in Middle Eocene after NNE drifting   along counter clockwise path. The NNE ... Indore, March 14, 1938, 6.3, ------ ...",
+   "htmlSnippet": "It eventually collided with the \u003cb\u003eEurasian\u003c/b\u003e plate in Middle Eocene after NNE drifting \u003cbr\u003e  along counter clockwise path. The NNE \u003cb\u003e...\u003c/b\u003e Indore, \u003cb\u003eMarch 14, 1938\u003c/b\u003e, 6.3, ------ \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DxQe3gT-2qMJ",
+   "formattedUrl": "gbpihedenvis.nic.in/HTML/vol82/vol82-tewari.htm",
+   "htmlFormattedUrl": "gbpihedenvis.nic.in/HTML/vol82/vol82-tewari.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://gbpihedenvis.nic.in/HTML/vol82/Image11.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "261",
+      "height": "193",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKg9FllL9aVCn04rGJ2ica0p-spZlFsR4fxtU9Zk9_RPQODqKCTc01UL-V"
+     }
+    ],
+    "metatags": [
+     {
+      "template": "C:\\PROGRAM FILES\\MICROSOFT OFFICE\\OFFICE\\html.dot"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "seismic hazards in india 3 chapter - New Age International",
+   "htmlTitle": "\u003cb\u003eseismic\u003c/b\u003e hazards in india 3 chapter - New Age International",
+   "link": "http://www.newagepublishers.com/samplechapter/001449.pdf",
+   "displayLink": "www.newagepublishers.com",
+   "snippet": "It eventually collided with the Eurasian plate. This led to ... this is due to continued   collision between the Indian and the Eurasian plates. ... March 14, 1938. 6.3 ...",
+   "htmlSnippet": "It eventually collided with the \u003cb\u003eEurasian\u003c/b\u003e plate. This led to \u003cb\u003e...\u003c/b\u003e this is due to continued \u003cbr\u003e  collision between the Indian and the \u003cb\u003eEurasian\u003c/b\u003e plates. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMarch 14, 1938\u003c/b\u003e. 6.3 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W8BCoykXZaIJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.newagepublishers.com/samplechapter/001449.pdf",
+   "htmlFormattedUrl": "www.newagepublishers.com/samplechapter/001449.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070620112229",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "author": "sunilji",
+      "creator": "PageMaker 7.0",
+      "title": "Chap-3.pmd",
+      "moddate": "D:20070620112229+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Van earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Van \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Van_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Van earthquake was a destructive magnitude 7.1 Mw earthquake that struck   ... Plate and the Eurasian Plate, beyond the eastern extent of the Armenian and ...   [14]. There have been 1561 aftershocks above magnitude 2 Mw as of 30 October.   ..... T??hoku, Japan (Great East Japan) (9.0, Mar 11)??????; Burma (6.8, Mar 24)??? ...",
+   "htmlSnippet": "The Van \u003cb\u003eearthquake\u003c/b\u003e was a destructive magnitude 7.1 Mw \u003cb\u003eearthquake\u003c/b\u003e that struck \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, beyond the eastern extent of the Armenian and \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  [\u003cb\u003e14\u003c/b\u003e]. There have been 1561 aftershocks above magnitude 2 Mw as of 30 October. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e T??hoku, Japan (Great East Japan) (9.0, \u003cb\u003eMar\u003c/b\u003e 11)??????; Burma (6.8, \u003cb\u003eMar\u003c/b\u003e 24)??? \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "4dpS7vk3XY4J",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Van_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Van_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Van_EQ_intensity_USGS.jpg/240px-Van_EQ_intensity_USGS.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpjNlS-uBjwGhCdkQyUlHm1nsBR_uYQ7aOjEwjsZNxCDYnjxwcB2YohuA"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Basic Geotechnical Earthquake Engineering - More from yimg.com...",
+   "htmlTitle": "Basic Geotechnical \u003cb\u003eEarthquake\u003c/b\u003e Engineering - More from yimg.com...",
+   "link": "http://xa.yimg.com/kq/groups/21948400/869086171/name/Kamalesh_Kumar__Basic_Geotechnical_Earthquake_Engineering.pdf",
+   "displayLink": "xa.yimg.com",
+   "snippet": "Earthquake resistant geotechnical construction has become an important design   aspect ...... It eventually collided with the Eurasian plate. ... March 14, 1938. 6.3 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquake\u003c/b\u003e resistant geotechnical construction has become an important design \u003cbr\u003e  aspect \u003cb\u003e......\u003c/b\u003e It eventually collided with the \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMarch 14, 1938\u003c/b\u003e. 6.3 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HB7Y0pjavIkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "xa.yimg.com/.../Kamalesh_Kumar__Basic_Geotechnical_Earthquake_ Engineering.pdf",
+   "htmlFormattedUrl": "xa.yimg.com/.../Kamalesh_Ku\u003cb\u003emar\u003c/b\u003e__Basic_Geotechnical_\u003cb\u003eEarthquake\u003c/b\u003e_ Engineering.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Basic Geotechnical Earthquake Engineering",
+      "author": "Kamalesh Kumar",
+      "creator": "Adobe Acrobat 8.0 Combine Files",
+      "moddate": "D:20091103094404+02'00'",
+      "subject": "Civil Engineering; Geology and Geography",
+      "producer": "PDF-XChange Viewer [Version: 2.0 (Build 42.4) (Sep  8 2009; 19:37:33)]",
+      "creationdate": "D:20080620162950+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Deep lower crustal earthquakes in central India: inferences from ...",
+   "htmlTitle": "Deep lower crustal \u003cb\u003eearthquakes\u003c/b\u003e in central India: inferences from \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://adsabs.harvard.edu/full/2002GeoJI.148..132R",
+   "displayLink": "adsabs.harvard.edu",
+   "snippet": "The occurrence of earthquakes at lower crustal depths, quite unusual for the ....   trend of the ambient stress field due to the India-Eurasia plate collision forces. ....   Seismological features of the Satpura earthquake of the 14th March 1938, Proc.",
+   "htmlSnippet": "The occurrence of \u003cb\u003eearthquakes\u003c/b\u003e at lower crustal depths, quite unusual for the \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  trend of the ambient stress field due to the India-\u003cb\u003eEurasia\u003c/b\u003e plate collision forces. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Seismological features of the Satpura \u003cb\u003eearthquake\u003c/b\u003e of the \u003cb\u003e14th March 1938\u003c/b\u003e, Proc.",
+   "formattedUrl": "adsabs.harvard.edu/full/2002GeoJI.148..132R",
+   "htmlFormattedUrl": "adsabs.harvard.edu/full/2002GeoJI.148..132R",
+   "pagemap": {
+    "metatags": [
+     {
+      "citation_language": "en",
+      "citation_doi": "10.1046/j.1365-246X.2001.01584.x",
+      "citation_abstract_html_url": "http://adsabs.harvard.edu/abs/2002GeoJI.148..132R",
+      "citation_title": "Deep lower crustal earthquakes in central India: inferences from analysis of regional broadband data of the 1997 May 21, Jabalpur earthquake",
+      "citation_authors": "Rao, N. Purnachandra; Tsukuda, T.; Kosuga, M.; Bhatia, S. C.; Suresh, G.",
+      "citation_keywords": "DEEP CRUSTAL EARTHQUAKES, INDIAN SHIELD, MOMENT TENSOR, WAVEFORM MODELLING",
+      "citation_issn": "0956-540X",
+      "citation_date": "01/2002",
+      "citation_journal_title": "Geophysical Journal International",
+      "citation_volume": "148",
+      "citation_firstpage": "132",
+      "citation_lastpage": "138",
+      "prism.publicationname": "Geophysical Journal International",
+      "prism.issn": "0956-540X",
+      "prism.volume": "148",
+      "prism.startingpage": "132",
+      "prism.endingpage": "138",
+      "dc.language": "en",
+      "dc.identifier": "doi:10.1046/j.1365-246X.2001.01584.x",
+      "dc.date": "2002-01",
+      "dc.source": "Geophysical Journal International, Volume 148, Issue 1, pp. 132-138.",
+      "dc.title": "Deep lower crustal earthquakes in central India: inferences from analysis of regional broadband data of the 1997 May 21, Jabalpur earthquake",
+      "dc.creator": "Rao, N. Purnachandra"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Regional stresses along the Eurasia-Africa plate ... - SpringerLink",
+   "htmlTitle": "Regional stresses along the \u003cb\u003eEurasia\u003c/b\u003e-Africa plate \u003cb\u003e...\u003c/b\u003e - SpringerLink",
+   "link": "http://www.springerlink.com/index/u0h166q721025040.pdf",
+   "displayLink": "www.springerlink.com",
+   "snippet": "Abstract--The focal mechanism solutions of 83 European earthquakes with M \u003e 6,   ... boundary between Eurasia and Africa from the Azores islands to the .... 1938-  04-13 ... 14. 1947-06-04. 00 29 55. 40.00. 24.00. 80. 6.00. 15. 1947-10 06. 19 55   37 ..... PAYO, G. (1975), Estructura, sismicidad y tect6nica del mar Mediterrdneo, ...",
+   "htmlSnippet": "Abstract--The focal mechanism solutions of 83 European \u003cb\u003eearthquakes\u003c/b\u003e with M &gt; 6, \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e boundary between \u003cb\u003eEurasia\u003c/b\u003e and Africa from the Azores islands to the \u003cb\u003e....\u003c/b\u003e \u003cb\u003e1938\u003c/b\u003e-\u003cbr\u003e  04-13 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e14\u003c/b\u003e. 1947-06-04. 00 29 55. 40.00. 24.00. 80. 6.00. 15. 1947-10 06. 19 55 \u003cbr\u003e  37 \u003cb\u003e.....\u003c/b\u003e PAYO, G. (1975), Estructura, sismicidad y tect6nica del \u003cb\u003emar\u003c/b\u003e Mediterrdneo, \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "htmlFormattedUrl": "www.springerlink.com/index/u0h166q721025040.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "915141007.TIF",
+      "creationdate": "Mon Nov 29 11:50:47 2004",
+      "title": "Regional stresses along the Eurasia-Africa plate boundary derived from focal mechanisms of large earthquakes",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20041209041100+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Curriculum Vitae Roger Bilham",
+   "htmlTitle": "Curriculum Vitae Roger Bilham",
+   "link": "http://cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "Bilham, The 1737 Calcutta Earthquake and Cyclone Evaluated, Bull. Seism. ... 14  . Bilham, R., K. Larson, J. Freymueller and Project Idylhim members, GPS   measurements of ... J. Freymueller, Kinematics of the India-Eurasia Collision   Zone from GPS measurements. ..... Khan, M. A. R. Bendick, I.M. Bhat, R. Bilham,   D.M. Kakar.",
+   "htmlSnippet": "Bilham, The 1737 Calcutta \u003cb\u003eEarthquake\u003c/b\u003e and Cyclone Evaluated, Bull. Seism. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e14\u003c/b\u003e\u003cbr\u003e  . Bilham, R., K. Larson, J. Freymueller and Project Idylhim members, GPS \u003cbr\u003e  measurements of \u003cb\u003e...\u003c/b\u003e J. Freymueller, Kinematics of the India-\u003cb\u003eEurasia\u003c/b\u003e Collision \u003cbr\u003e  Zone from GPS measurements. \u003cb\u003e.....\u003c/b\u003e Khan, \u003cb\u003eM. A. R.\u003c/b\u003e Bendick, I.M. Bhat, R. Bilham, \u003cbr\u003e  D.M. Kakar.",
+   "cacheId": "zPj_TcY3wqsJ",
+   "formattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Curriculum Vitae  Roger Bilham",
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 14"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "UNCORRECTED PROOF - EOST",
+   "htmlTitle": "UNCORRECTED PROOF - EOST",
+   "link": "http://eost.u-strasbg.fr/semipgs/VitaFinzi_INDIA_qsr.pdf",
+   "displayLink": "eost.u-strasbg.fr",
+   "snippet": "As intraplate earthquakes are often not associated with major known faults their   location ... broad deforming zones from the Eurasian plate to the .... 14 Mar 1938 ...",
+   "htmlSnippet": "As intraplate \u003cb\u003eearthquakes\u003c/b\u003e are often not associated with major known faults their \u003cbr\u003e  location \u003cb\u003e...\u003c/b\u003e broad deforming zones from the \u003cb\u003eEurasian\u003c/b\u003e plate to the \u003cb\u003e....\u003c/b\u003e \u003cb\u003e14 Mar 1938\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "FFoYV8wMYYYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "eost.u-strasbg.fr/semipgs/VitaFinzi_INDIA_qsr.pdf",
+   "htmlFormattedUrl": "eost.u-strasbg.fr/semipgs/VitaFinzi_INDIA_qsr.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20040225142729+05'30'",
+      "moddate": "D:20040225142729+05'30'",
+      "producer": "Acrobat Distiller 5.0.5 (Windows)",
+      "title": "doi:10.1016/j.quascirev.2004.01.008",
+      "creator": "Elsevier"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Active faulting and block movement associated with large",
+   "htmlTitle": "Active faulting and block movement associated with large",
+   "link": "http://www.geologie.ens.fr/~longmenshan/bibliography/LongmenShan/chen_etal_94.pdf",
+   "displayLink": "www.geologie.ens.fr",
+   "snippet": "form the middle segment of the north trending earthquake zone at the eastern   edge of the Tibetan ... gence between India and Eurasia is absorbed by normal   and strike-slip .... 13 March 14, 1938 6 32.3\"N l03.6??E South of Songpan (1) l4   Oct. 8 ...",
+   "htmlSnippet": "form the middle segment of the north trending \u003cb\u003eearthquake\u003c/b\u003e zone at the eastern \u003cbr\u003e  edge of the Tibetan \u003cb\u003e...\u003c/b\u003e gence between India and \u003cb\u003eEurasia\u003c/b\u003e is absorbed by normal \u003cbr\u003e  and strike-slip \u003cb\u003e....\u003c/b\u003e 13 \u003cb\u003eMarch 14, 1938\u003c/b\u003e 6 32.3&quot;N l03.6??E South of Songpan (1) l4 \u003cbr\u003e  Oct. 8 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yTRYyE8GwL4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geologie.ens.fr/~longmenshan/bibliography/.../chen_etal_94.pdf",
+   "htmlFormattedUrl": "www.geologie.ens.fr/~longmenshan/bibliography/.../chen_etal_94.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Wed Jan 19 11:12:22 2000",
+      "producer": "Acrobat PDFWriter 4.0 for Windows NT",
+      "author": "admin",
+      "creationdate": "Wed Jan 19 11:11:52 2000",
+      "creator": "Acrobat Capture Server 2.01"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes - Weather Explained",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e - Weather Explained",
+   "link": "http://www.weatherexplained.com/Vol-1/Earthquakes.html",
+   "displayLink": "www.weatherexplained.com",
+   "snippet": "The province of earthquakes recorded thus far is from the crust to a .....   earthquake is due to the Indian plate pushing northward into the Eurasian plate.   .... east of Shumagin Islands, AK (8.3; November 10, 1938) ..... Mar 14, 2011 @ 9:  21 pm ...",
+   "htmlSnippet": "The province of \u003cb\u003eearthquakes\u003c/b\u003e recorded thus far is from the crust to a \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e is due to the Indian plate pushing northward into the \u003cb\u003eEurasian\u003c/b\u003e plate. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e east of Shumagin Islands, AK (8.3; November 10, \u003cb\u003e1938\u003c/b\u003e) \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eMar 14\u003c/b\u003e, 2011 @ 9:\u003cbr\u003e  21 pm \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "0Os8C_VRGGIJ",
+   "formattedUrl": "www.weatherexplained.com/Vol-1/Earthquakes.html",
+   "htmlFormattedUrl": "www.weatherexplained.com/Vol-1/\u003cb\u003eEarthquakes\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.weatherexplained.com/images/walm_01_img0171.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "271",
+      "height": "186",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfNZrnFsv9YmfHRMAjRRvi8PaSaRgD9Ir8ro153eViaOpEWbTPPHNrGc1u"
+     }
+    ]
+   }
+  }
+ ]
+}

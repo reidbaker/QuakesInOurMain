@@ -1,0 +1,260 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Dec 7 1971 North America Earthquake",
+    "totalResults": "355000",
+    "searchTerms": "Dec 7 1971 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Dec 7 1971 North America Earthquake",
+    "totalResults": "355000",
+    "searchTerms": "Dec 7 1971 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.211909,
+  "formattedSearchTime": "0.21",
+  "totalResults": "355000",
+  "formattedTotalResults": "355,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... 7 people have been reported injured (1 child is critically injured when she   jumped in panic out of a tree). ... Mw8.1 ??? December 23, 2004 ??? North of   Macquarie Island ... (Mw8.1 ??? January 10, 1971 ??? Very Minor damage to a church   etc. ..... 4.0 or higher with emphasis to earthquakes in the America's and the ...",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e7\u003c/b\u003e people have been reported injured (1 child is critically injured when she \u003cbr\u003e  jumped in panic out of a tree). \u003cb\u003e...\u003c/b\u003e Mw8.1 ??? \u003cb\u003eDecember\u003c/b\u003e 23, 2004 ??? \u003cb\u003eNorth\u003c/b\u003e of \u003cbr\u003e  Macquarie Island \u003cb\u003e...\u003c/b\u003e (Mw8.1 ??? January 10, \u003cb\u003e1971\u003c/b\u003e ??? Very Minor damage to a church \u003cbr\u003e  etc. \u003cb\u003e.....\u003c/b\u003e 4.0 or higher with emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on December 7 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eDecember 7\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/dec07.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "December 7, 1776 Marquis de Lafayette attempts to enter the American ...   December 7, 1971 Pakistan President Yahya Khan announces formation of a ...   December 7, 1988 \"Armenian SSR rocked by earthquake, 8 on Richter scale (  55,000 die)\" ... December 7, 2006 \"A tornado struck Kensal Green, North West   London, ...",
+   "htmlSnippet": "December 7, 1776 Marquis de Lafayette attempts to enter the \u003cb\u003eAmerican\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eDecember 7, 1971\u003c/b\u003e Pakistan President Yahya Khan announces formation of a \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  December 7, 1988 &quot;Armenian SSR rocked by \u003cb\u003eearthquake\u003c/b\u003e, 8 on Richter scale (\u003cbr\u003e  55,000 die)&quot; \u003cb\u003e...\u003c/b\u003e December 7, 2006 &quot;A tornado struck Kensal Green, \u003cb\u003eNorth\u003c/b\u003e West \u003cbr\u003e  London, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wNEWBepOv90J",
+   "formattedUrl": "www.datesinhistory.com/dec07.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003edec\u003c/b\u003e07.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes list August 17, 2011",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e list August 17, 2011",
+   "link": "http://earthquake-report.com/2011/08/16/earthquakes-list-august-17-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: August 18, 2011 at 7:30 am by By Armand Vervaeck ... earthquake   well felt by the people living above it ... earthquakes of M 4.0 or higher with   emphasis to earthquakes in the America's and the Pacific ... 2012 ?? (Major)   Earthquakes list December 7, 2012 - Very strong but very deep earthquake in   New Zealand ...",
+   "htmlSnippet": "Last update: August 18, 2011 at \u003cb\u003e7\u003c/b\u003e:30 am by By Armand Vervaeck \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  well felt by the people living above it \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e of M 4.0 or higher with \u003cbr\u003e  emphasis to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the Pacific \u003cb\u003e...\u003c/b\u003e 2012 &middot; (Major) \u003cbr\u003e  \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eDecember 7\u003c/b\u003e, 2012 - Very strong but very deep \u003cb\u003eearthquake\u003c/b\u003e in \u003cbr\u003e  New Zealand \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oZdx5_j-iXAJ",
+   "formattedUrl": "earthquake-report.com/2011/08/.../earthquakes-list-august-17-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/08/.../\u003cb\u003eearthquakes\u003c/b\u003e-list-august-17-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/08/japan-17082011-1.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "188",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRz4ITmAcQasrtNb2Izr7WQh42iUj_psWtvQaHgfQrq2sOh0whkayVSaZtB"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Bruce",
+      "nickname": "Bruce"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "\\/UL. 6, No. 7",
+   "htmlTitle": "\\/UL. 6, No. \u003cb\u003e7\u003c/b\u003e",
+   "link": "http://www.earth.northwestern.edu/people/seth/Texts/ecaneq.pdf",
+   "displayLink": "www.earth.northwestern.edu",
+   "snippet": "a major fraction of the largest earthquakes of eastern North America. in this paper   we ..... December 7, 1971 12:04:19 55.0N S4.3\\V 16 km 5.4 5.3. January 21 ...",
+   "htmlSnippet": "a major fraction of the largest \u003cb\u003eearthquakes\u003c/b\u003e of eastern \u003cb\u003eNorth America\u003c/b\u003e. in this paper \u003cbr\u003e  we \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eDecember 7\u003c/b\u003e, \u003cb\u003e1971\u003c/b\u003e 12:04:19 55.0N S4.3\\V 16 km 5.4 5.3. January 21 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mTaK7wFC5I8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.northwestern.edu/people/seth/Texts/ecaneq.pdf",
+   "htmlFormattedUrl": "www.earth.\u003cb\u003enorth\u003c/b\u003ewestern.edu/people/seth/Texts/ecaneq.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "Tue May  3 13:00:37 2005"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 7 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eDecember 7\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/December_7",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "December 7 is the 341st day of the year (342nd in leap years) in the Gregorian ...   1776 ??? Marquis de Lafayette arranges to enter the American military as a major   general. ... 1971 ??? Pakistan President Yahya Khan announces the formation of a   ... 1988 ??? Spitak Earthquake: In Armenia an earthquake measuring 6.9 on the ...",
+   "htmlSnippet": "\u003cb\u003eDecember 7\u003c/b\u003e is the 341st day of the year (342nd in leap years) in the Gregorian \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1776 ??? Marquis de Lafayette arranges to enter the \u003cb\u003eAmerican\u003c/b\u003e military as a major \u003cbr\u003e  general. \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1971\u003c/b\u003e ??? Pakistan President Yahya Khan announces the formation of a \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 1988 ??? Spitak \u003cb\u003eEarthquake\u003c/b\u003e: In Armenia an \u003cb\u003eearthquake\u003c/b\u003e measuring 6.9 on the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "j59RHaRS_E4J",
+   "formattedUrl": "en.wikipedia.org/wiki/December_7",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eDecember\u003c/b\u003e_\u003cb\u003e7\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Colorado Earthquake History USGS.",
+   "htmlTitle": "Colorado \u003cb\u003eEarthquake\u003c/b\u003e History USGS.",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "The earthquake of November 7, 1882, the first ever to cause damage at Denver,   ... By the end of December 1962, 190 earthquakes had occurred. ... On January 7  , 1971, a minor 3.8 earthquake shook the Glenwood Springs area. ... The north-  central part of Colorado experienced a small earthquake on September 16, 1981 ...",
+   "htmlSnippet": "The \u003cb\u003eearthquake\u003c/b\u003e of November \u003cb\u003e7\u003c/b\u003e, 1882, the first ever to cause damage at Denver, \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e By the end of \u003cb\u003eDecember\u003c/b\u003e 1962, 190 \u003cb\u003eearthquakes\u003c/b\u003e had occurred. \u003cb\u003e...\u003c/b\u003e On January \u003cb\u003e7\u003c/b\u003e\u003cbr\u003e  , \u003cb\u003e1971\u003c/b\u003e, a minor 3.8 \u003cb\u003eearthquake\u003c/b\u003e shook the Glenwood Springs area. \u003cb\u003e...\u003c/b\u003e The \u003cb\u003enorth\u003c/b\u003e-\u003cbr\u003e  central part of Colorado experienced a small \u003cb\u003eearthquake\u003c/b\u003e on September 16, 1981 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "30ABL9k2McIJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/colorado/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/colorado/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes - Simple English Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e - Simple English Wikipedia, the free encyclopedia",
+   "link": "http://simple.wikipedia.org/wiki/List_of_earthquakes",
+   "displayLink": "simple.wikipedia.org",
+   "snippet": "List of earthquakes. From Wikipedia, the free encyclopedia. Jump to: navigation,   search. The following is a list of major earthquakes: ...",
+   "htmlSnippet": "List of \u003cb\u003eearthquakes\u003c/b\u003e. From Wikipedia, the free encyclopedia. Jump to: navigation, \u003cbr\u003e  search. The following is a list of major \u003cb\u003eearthquakes\u003c/b\u003e: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gpzcSuj1SusJ",
+   "formattedUrl": "simple.wikipedia.org/wiki/List_of_earthquakes",
+   "htmlFormattedUrl": "simple.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1857 Fort Tejon earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1857 Fort Tejon \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1857_Fort_Tejon_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The earthquake was felt throughout much of California, as far north as the city of   ... the transform boundary between the North American Plate and the Pacific   Plate. ..... Carr (December 7, 2006), Reports of the Great California Earthquake of   1857, ... 1940 El Centro (6.9); 1971 San Fernando (6.6); 1979 Imperial Valley (  6.4) ...",
+   "htmlSnippet": "The \u003cb\u003eearthquake\u003c/b\u003e was felt throughout much of California, as far north as the city of \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e the transform boundary between the \u003cb\u003eNorth American\u003c/b\u003e Plate and the Pacific \u003cbr\u003e  Plate. \u003cb\u003e.....\u003c/b\u003e Carr (\u003cb\u003eDecember 7\u003c/b\u003e, 2006), Reports of the Great California \u003cb\u003eEarthquake\u003c/b\u003e of \u003cbr\u003e  1857, \u003cb\u003e...\u003c/b\u003e 1940 El Centro (6.9); \u003cb\u003e1971\u003c/b\u003e San Fernando (6.6); 1979 Imperial Valley (\u003cbr\u003e  6.4) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CRJriUpvOUsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1857_Fort_Tejon_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1857_Fort_Tejon_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "December 7 Events in History",
+   "htmlTitle": "\u003cb\u003eDecember 7\u003c/b\u003e Events in History",
+   "link": "http://www.brainyhistory.com/days/december_7.html",
+   "displayLink": "www.brainyhistory.com",
+   "snippet": "December 7 in history.",
+   "htmlSnippet": "\u003cb\u003eDecember 7\u003c/b\u003e in history.",
+   "cacheId": "ps3_W9674NUJ",
+   "formattedUrl": "www.brainyhistory.com/days/december_7.html",
+   "htmlFormattedUrl": "www.brainyhistory.com/days/\u003cb\u003edecember\u003c/b\u003e_\u003cb\u003e7\u003c/b\u003e.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=720,maximum-scale=1.0",
+      "og:site_name": "BrainyHistory",
+      "og:title": "December 7 Events in History at BrainyHistory.com",
+      "og:type": "article",
+      "og:description": "Today in History and Famous Birthdays. Find out what happened and who was born on this day in history. Events and birthdays for each day of the year.",
+      "og:image": "http://www.brainyhistory.com/images/fb_link_icon_brainyhistory.jpg",
+      "og:url": "http://www.brainyhistory.com/days/december_7.html"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1964 Alaska earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1964 Alaska \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1964_Alaska_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 1964 Alaskan earthquake, also known as the Great Alaskan Earthquake, the   ... the most powerful recorded earthquake in U.S. and North American history, ....   but after three years, the town relocated to higher ground 7 km (4 mi) west of its ...   National Research Council, Committee On The Alaska Earthquake (1971-73).",
+   "htmlSnippet": "The 1964 Alaskan \u003cb\u003eearthquake\u003c/b\u003e, also known as the Great Alaskan \u003cb\u003eEarthquake\u003c/b\u003e, the \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e the most powerful recorded \u003cb\u003eearthquake\u003c/b\u003e in U.S. and \u003cb\u003eNorth American\u003c/b\u003e history, \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  but after three years, the town relocated to higher ground \u003cb\u003e7\u003c/b\u003e km (4 mi) west of its \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  National Research Council, Committee On The Alaska \u003cb\u003eEarthquake\u003c/b\u003e (\u003cb\u003e1971\u003c/b\u003e-73).",
+   "cacheId": "_2bLsuD_30wJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1964_Alaska_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1964_Alaska_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Good_Friday_Earthquake_1964_03_28_loc.jpg/240px-Good_Friday_Earthquake_1964_03_28_loc.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "183",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKq4MQLbd2s1Zj1L-Hb5h5bLiEVCzrn6pPH1Xbi761prTBGC4qRN0YOQU"
+     }
+    ]
+   }
+  }
+ ]
+}

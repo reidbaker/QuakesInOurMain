@@ -1,0 +1,291 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 1 1886 Eurasia Earthquake",
+    "totalResults": "3940",
+    "searchTerms": "Sep 1 1886 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 1 1886 Eurasia Earthquake",
+    "totalResults": "3940",
+    "searchTerms": "Sep 1 1886 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.21981,
+  "formattedSearchTime": "0.22",
+  "totalResults": "3940",
+  "formattedTotalResults": "3,940"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Germany - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Earthquakes in Germany are relatively weak but occur several times a year,   some ... [1]. Most of the quakes occur in a seismically active zone associated with   the ... as the African Plate continues to push northwards into the Eurasian Plate.   .... 18 September 1640, D??ren, unknown, Damage to houses in D??ren and   Cologne.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e in Germany are relatively weak but occur several times a year, \u003cbr\u003e  some \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e1\u003c/b\u003e]. Most of the quakes occur in a seismically active zone associated with \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e as the African Plate continues to push northwards into the \u003cb\u003eEurasian\u003c/b\u003e Plate. \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e 18 \u003cb\u003eSeptember\u003c/b\u003e 1640, D??ren, unknown, Damage to houses in D??ren and \u003cbr\u003e  Cologne.",
+   "cacheId": "XTlVcvsJVSkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Earthquakes_in_Germany",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eEarthquakes\u003c/b\u003e_in_Germany",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Erdbebenzonen.png/220px-Erdbebenzonen.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "208",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpk0EwCPvlFrTiB4_TIslKbkSeS3RNzmVbJrb79SLHT8vDUVjddzq94Np3"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude and Location of Historical Earthquakes in Japan and ...",
+   "htmlTitle": "Magnitude and Location of Historical \u003cb\u003eEarthquakes\u003c/b\u003e in Japan and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "displayLink": "usgsprojects.org",
+   "snippet": "Earthquakes felt in Tokyo occur as shallow crustal events, as PHS- Eurasian .....   depth) of the 1 September 1923 MJMA7.9 Kanto earthquake (JMA, 2004) lies .....   Madrid, Missouri, and the 1886 Charleston, South Carolina, earthquakes, Bull.",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e felt in Tokyo occur as shallow crustal events, as PHS- \u003cb\u003eEurasian\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  depth) of the \u003cb\u003e1 September\u003c/b\u003e 1923 MJMA7.9 Kanto \u003cb\u003eearthquake\u003c/b\u003e (JMA, 2004) lies \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Madrid, Missouri, and the \u003cb\u003e1886\u003c/b\u003e Charleston, South Carolina, \u003cb\u003eearthquakes\u003c/b\u003e, Bull.",
+   "cacheId": "MqYLfainWs0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "htmlFormattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20041108141107-08'00'",
+      "creationdate": "D:20041108162556-05'00'",
+      "title": "151522_1_art_file_2_1099949021.pdf",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 6.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 16 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember\u003c/b\u003e 16 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_16",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "1 Events; 2 Births; 3 Deaths; 4 Holidays and observances; 5 External links ...   1978 ??? An earthquake measuring 7.5 to 7.9 on the Richter scale hits the city of   Tabas, Iran killing ... complete at Dostyk, adding a sizable link to the concept of   the Eurasian Land Bridge. ... 1917); 1886 ??? Jean Arp, Alsatian sculptor and   painter (d.",
+   "htmlSnippet": "\u003cb\u003e1\u003c/b\u003e Events; 2 Births; 3 Deaths; 4 Holidays and observances; 5 External links \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1978 ??? An \u003cb\u003eearthquake\u003c/b\u003e measuring 7.5 to 7.9 on the Richter scale hits the city of \u003cbr\u003e  Tabas, Iran killing \u003cb\u003e...\u003c/b\u003e complete at Dostyk, adding a sizable link to the concept of \u003cbr\u003e  the \u003cb\u003eEurasian\u003c/b\u003e Land Bridge. \u003cb\u003e...\u003c/b\u003e 1917); \u003cb\u003e1886\u003c/b\u003e ??? Jean Arp, Alsatian sculptor and \u003cbr\u003e  painter (d.",
+   "cacheId": "b6sbw9ZLvMIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_16",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_16"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mediterranean",
+   "htmlTitle": "Mediterranean",
+   "link": "http://www.tsunami-alarm-system.com/en/phenomenon-tsunami/occurrences-mediterranean.html",
+   "displayLink": "www.tsunami-alarm-system.com",
+   "snippet": "Tsunamis can occur in European waters due to earthquakes caused by the   African Plate drifting northwards underneath the Eurasian Plate. ... 27.08.1886,   Greece, Peloponnesus, Greece, 7,5, 1,00 m, k. ... 26 September 1650: A   destructive earthquake was accompanied by a submarine explosion from the   Colombo Volcano, ...",
+   "htmlSnippet": "Tsunamis can occur in European waters due to \u003cb\u003eearthquakes\u003c/b\u003e caused by the \u003cbr\u003e  African Plate drifting northwards underneath the \u003cb\u003eEurasian\u003c/b\u003e Plate. \u003cb\u003e...\u003c/b\u003e 27.08.\u003cb\u003e1886\u003c/b\u003e, \u003cbr\u003e  Greece, Peloponnesus, Greece, 7,5, \u003cb\u003e1\u003c/b\u003e,00 m, k. \u003cb\u003e...\u003c/b\u003e 26 \u003cb\u003eSeptember\u003c/b\u003e 1650: A \u003cbr\u003e  destructive \u003cb\u003eearthquake\u003c/b\u003e was accompanied by a submarine explosion from the \u003cbr\u003e  Colombo Volcano, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fRSOxdRVUZ0J",
+   "formattedUrl": "www.tsunami-alarm-system.com/.../occurrences-mediterranean.html",
+   "htmlFormattedUrl": "www.tsunami-alarm-system.com/.../occurrences-mediterranean.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.tsunami-alarm-system.com/uploads/pics/tsunami_mediterranean.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "264",
+      "height": "191",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpnzYOIevHxl9vVWuFm8vWQ5BKSbOl6wZdJT09HLSNpdowMPcqBYZDR-0"
+     }
+    ],
+    "metatags": [
+     {
+      "copyright": "(c) Tsunami Alarm Institute",
+      "author": "(c) Tsunami Alarm Institute",
+      "email": "info[at]sunami-alarm-system[dot]com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "[1] It is sometimes called the circum-Pacific belt or the circum-Pacific seismic belt.   ... The Mid-Atlantic Ridge is the third most prominent earthquake belt. ..... five   months before the volcano's violent eruption in September 1984. ... Island in   1826, followed in 1886, by the country's largest historical eruption at Mount   Tarawera.",
+   "htmlSnippet": "[\u003cb\u003e1\u003c/b\u003e] It is sometimes called the circum-Pacific belt or the circum-Pacific \u003cb\u003eseismic\u003c/b\u003e belt. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e The Mid-Atlantic Ridge is the third most prominent \u003cb\u003eearthquake\u003c/b\u003e belt. \u003cb\u003e.....\u003c/b\u003e five \u003cbr\u003e  months before the volcano&#39;s violent eruption in \u003cb\u003eSeptember\u003c/b\u003e 1984. \u003cb\u003e...\u003c/b\u003e Island in \u003cbr\u003e  1826, followed in \u003cb\u003e1886\u003c/b\u003e, by the country&#39;s largest historical eruption at Mount \u003cbr\u003e  Tarawera.",
+   "cacheId": "tsTbckV5UlMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/350px-Plates_tect2_en.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNHFOl-Bk26-FaTF7pkl5JMdpOL7ZVVfIpGgqYQLH5fLGCa5kI2fQG4vBn"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Timeline of Earthquakes",
+   "htmlTitle": "Timeline of \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://timelines.ws/subjects/Earthquakes.HTML",
+   "displayLink": "timelines.ws",
+   "snippet": "1886 Aug 31, An earthquake rocked Charleston, S.C., killing 60 people,   according to .... 1962 Sep 1, Some 10,000 died in an earthquake in western Iran.   ..... 300 miles south of the boundary between the Indo-Australian and Eurasian   Plates.",
+   "htmlSnippet": "\u003cb\u003e1886\u003c/b\u003e Aug 31, An \u003cb\u003eearthquake\u003c/b\u003e rocked Charleston, S.C., killing 60 people, \u003cbr\u003e  according to \u003cb\u003e....\u003c/b\u003e 1962 \u003cb\u003eSep 1\u003c/b\u003e, Some 10,000 died in an \u003cb\u003eearthquake\u003c/b\u003e in western Iran. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e 300 miles south of the boundary between the Indo-Australian and \u003cb\u003eEurasian\u003c/b\u003e \u003cbr\u003e  Plates.",
+   "cacheId": "tlSyXDrehpAJ",
+   "formattedUrl": "timelines.ws/subjects/Earthquakes.HTML",
+   "htmlFormattedUrl": "timelines.ws/subjects/\u003cb\u003eEarthquakes\u003c/b\u003e.HTML",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "Algirdas Ratnikas"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Curriculum Vitae Roger Bilham",
+   "htmlTitle": "Curriculum Vitae Roger Bilham",
+   "link": "http://cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "displayLink": "cires.colorado.edu",
+   "snippet": "1. Bilham, R. and D. Simpson, Indo-Asian convergence and the 1913 survey line   ... Kinematics of the India-Eurasia Collision Zone from GPS measurements. ....   from the 26 Dec 2004 Mw=9.0 earthquake on India's eastern plate margin, Geol.   Surv. .... Indian geologists: Kurz 1886, Burnes 1828, Griesbach 1845-1907,   Oldham ...",
+   "htmlSnippet": "\u003cb\u003e1\u003c/b\u003e. Bilham, R. and D. Simpson, Indo-Asian convergence and the 1913 survey line \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Kinematics of the India-\u003cb\u003eEurasia\u003c/b\u003e Collision Zone from GPS measurements. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  from the 26 \u003cb\u003eDec\u003c/b\u003e 2004 Mw=9.0 \u003cb\u003eearthquake\u003c/b\u003e on India&#39;s eastern plate margin, Geol. \u003cbr\u003e  Surv. \u003cb\u003e....\u003c/b\u003e Indian geologists: Kurz \u003cb\u003e1886\u003c/b\u003e, Burnes 1828, Griesbach 1845-1907, \u003cbr\u003e  Oldham \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zPj_TcY3wqsJ",
+   "formattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "htmlFormattedUrl": "cires.colorado.edu/~bilham/JaitapurFolder/India%20publications.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Curriculum Vitae  Roger Bilham",
+      "progid": "Word.Document",
+      "originator": "Microsoft Word 14"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Significant seismic activity on 7 and 13 December? - Predict ...",
+   "htmlTitle": "Significant \u003cb\u003eseismic\u003c/b\u003e activity on 7 and 13 December? - Predict \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.predictweather.co.nz/ArticleShow.aspx?ID=435&type=home",
+   "displayLink": "www.predictweather.co.nz",
+   "snippet": "Nov 28, 2012 ... \"Shortly after midnight on the morning of 10 June 1886, a series of more ... At   around 2:00 am[1] a larger earthquake was felt and followed by the sound of an   explosion. ... On 4 Sept at 4.30am, at the exact time of the event, this was the ... It   is the reason that Japan, sitting on the boundary of Eurasia and the ...",
+   "htmlSnippet": "Nov 28, 2012 \u003cb\u003e...\u003c/b\u003e &quot;Shortly after midnight on the morning of 10 June \u003cb\u003e1886\u003c/b\u003e, a series of more \u003cb\u003e...\u003c/b\u003e At \u003cbr\u003e  around 2:00 am[\u003cb\u003e1\u003c/b\u003e] a larger \u003cb\u003eearthquake\u003c/b\u003e was felt and followed by the sound of an \u003cbr\u003e  explosion. \u003cb\u003e...\u003c/b\u003e On 4 \u003cb\u003eSept\u003c/b\u003e at 4.30am, at the exact time of the event, this was the \u003cb\u003e...\u003c/b\u003e It \u003cbr\u003e  is the reason that Japan, sitting on the boundary of \u003cb\u003eEurasia\u003c/b\u003e and the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UYYAhXg_5pYJ",
+   "formattedUrl": "www.predictweather.co.nz/ArticleShow.aspx?ID=435&type...",
+   "htmlFormattedUrl": "www.predictweather.co.nz/ArticleShow.aspx?ID=435&amp;type...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.predictweather.co.nz/Images/Articles/moon%20over%20-20121128-121210.JPG"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9CUdKE7IwKMlleydvvalxU8zK_hs9UNJ7lMBncyFm0zNTDw7s4_vIUm4"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "AD 1886 December 2 earthquake 752. Ag. Yorgis, AD 1899 .... 15 earthquake   671. AD 1870 September 1 earthquake 728 ... Anadolu Hisari, AD 1509   September 10 earthquake 422???433. Anatolia ...... Eurasian Plate 815???816.   Euripos castle ...",
+   "htmlSnippet": "AD \u003cb\u003e1886\u003c/b\u003e December 2 \u003cb\u003eearthquake\u003c/b\u003e 752. Ag. Yorgis, AD 1899 \u003cb\u003e....\u003c/b\u003e 15 \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  671. AD 1870 \u003cb\u003eSeptember 1 earthquake\u003c/b\u003e 728 \u003cb\u003e...\u003c/b\u003e Anadolu Hisari, AD 1509 \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 10 \u003cb\u003eearthquake\u003c/b\u003e 422???433. Anatolia \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816. \u003cbr\u003e  Euripos castle \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.ussartf.org/earthquakes.htm",
+   "displayLink": "www.ussartf.org",
+   "snippet": "The New Madrid earthquakes of 1811-1812 and the 1886 Charleston .... After   about 1 minute the amplitude or strength of the shock waves increased in   intensity ...",
+   "htmlSnippet": "The New Madrid \u003cb\u003eearthquakes\u003c/b\u003e of 1811-1812 and the \u003cb\u003e1886\u003c/b\u003e Charleston \u003cb\u003e....\u003c/b\u003e After \u003cbr\u003e  about \u003cb\u003e1\u003c/b\u003e minute the amplitude or strength of the shock waves increased in \u003cbr\u003e  intensity \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fx-COO7fpo0J",
+   "formattedUrl": "www.ussartf.org/earthquakes.htm",
+   "htmlFormattedUrl": "www.ussartf.org/\u003cb\u003eearthquakes\u003c/b\u003e.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.ussartf.org/images/Earthquake_anim.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "120",
+      "height": "73",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJnK4eGnqKkIHluz2tKrnpUTx7ZD5lf-IteruWQ1FruRXSOE97q0DKQw"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Sgt Matthew H. Tartaglia"
+     }
+    ]
+   }
+  }
+ ]
+}

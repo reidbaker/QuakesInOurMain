@@ -1,0 +1,283 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jul 27 1980 North America Earthquake",
+    "totalResults": "538000",
+    "searchTerms": "Jul 27 1980 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jul 27 1980 North America Earthquake",
+    "totalResults": "538000",
+    "searchTerms": "Jul 27 1980 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.216776,
+  "formattedSearchTime": "0.22",
+  "totalResults": "538000",
+  "formattedTotalResults": "538,000"
+ },
+ "spelling": {
+  "correctedQuery": "July 27 1980 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eJuly\u003c/i\u003e\u003c/b\u003e 27 1980 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... The earthquake was centered in the gold mining area of Welkom about 300 ....   The Pacific Plate is moving northwest with respect to the North American Plate at   approximately 56 ... Italy, 1980 - Magnitude : 6.5 ??? 3000 people killed. One of ...   damage and the loss of 27 lives at Placentia Bay, Newfoundland.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquake\u003c/b\u003e was centered in the gold mining area of Welkom about 300 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The Pacific Plate is moving northwest with respect to the \u003cb\u003eNorth American\u003c/b\u003e Plate at \u003cbr\u003e  approximately 56 \u003cb\u003e...\u003c/b\u003e Italy, \u003cb\u003e1980\u003c/b\u003e - Magnitude : 6.5 ??? 3000 people killed. One of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  damage and the loss of \u003cb\u003e27\u003c/b\u003e lives at Placentia Bay, Newfoundland.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-\u003cb\u003ejuly\u003c/b\u003e-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BSSA, 101:6, Electronic Supplement to Herrmann et al.",
+   "htmlTitle": "BSSA, 101:6, Electronic Supplement to Herrmann et al.",
+   "link": "http://www.seismosoc.org/publications/BSSA_html/bssa_101-6/2011095-esupp/index.html",
+   "displayLink": "www.seismosoc.org",
+   "snippet": "Monitoring the Earthquake Source Process in North America ...",
+   "htmlSnippet": "Monitoring the \u003cb\u003eEarthquake\u003c/b\u003e Source Process in \u003cb\u003eNorth America\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jR5J5hZbQMgJ",
+   "formattedUrl": "www.seismosoc.org/publications/BSSA_html/bssa.../index.html",
+   "htmlFormattedUrl": "www.seismosoc.org/publications/BSSA_html/bssa.../index.html"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list July 25, 2012 ??? M3.8 earthquake in the ...",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eJuly\u003c/b\u003e 25, 2012 ??? M3.8 \u003cb\u003eearthquake\u003c/b\u003e in the \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/07/24/complete-earthquakes-list-july-25-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: July 26, 2012 at 9:58 pm by By Ashish Khanal ... Earthquake-Report.  com does not expect any damage based on the current .... EMSC, Mindanao,   Philippines, Jul 25 13:27 PM, 4.9, 141.0, MAP ?? I Felt It .... North hollywood -   lasted about 2 seconds tops sped right thru the valley; burbank - I live on the 2nd   story of ...",
+   "htmlSnippet": "Last update: \u003cb\u003eJuly\u003c/b\u003e 26, 2012 at 9:58 pm by By Ashish Khanal \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e-Report.\u003cbr\u003e  com does not expect any damage based on the current \u003cb\u003e....\u003c/b\u003e EMSC, Mindanao, \u003cbr\u003e  Philippines, \u003cb\u003eJul\u003c/b\u003e 25 13:\u003cb\u003e27\u003c/b\u003e PM, 4.9, 141.0, MAP &middot; I Felt It \u003cb\u003e....\u003c/b\u003e \u003cb\u003eNorth\u003c/b\u003e hollywood - \u003cbr\u003e  lasted about 2 seconds tops sped right thru the valley; burbank - I live on the 2nd \u003cbr\u003e  story of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CoISlJ5ejH4J",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-july-25-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003ejuly\u003c/b\u003e-25-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Jennifer",
+      "nickname": "Jennifer"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake measuring 4.3 rattles Kentucky",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e measuring 4.3 rattles Kentucky",
+   "link": "http://www.dailymail.co.uk/news/article-2231080/Kentucky-Earthquake-Epicenter-4-3-magnitude-10-miles-west-Whitesburg.html",
+   "displayLink": "www.dailymail.co.uk",
+   "snippet": "Nov 10, 2012 ... The strongest earthquake in Kentucky occured July 27, 1980 in the northeast ...   are confirming that a small plane carrying Mexican-American ...",
+   "htmlSnippet": "Nov 10, 2012 \u003cb\u003e...\u003c/b\u003e The strongest \u003cb\u003eearthquake\u003c/b\u003e in Kentucky occured \u003cb\u003eJuly 27, 1980\u003c/b\u003e in the northeast \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  are confirming that a small plane carrying Mexican-\u003cb\u003eAmerican\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.dailymail.co.uk/.../Kentucky-Earthquake-Epicenter-4-3-magnitude-10- miles-west-Whitesburg.html",
+   "htmlFormattedUrl": "www.dailymail.co.uk/.../Kentucky-\u003cb\u003eEarthquake\u003c/b\u003e-Epicenter-4-3-magnitude-10- miles-west-Whitesburg.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i.dailymail.co.uk/i/pix/2012/11/10/article-0-15F5B073000005DC-242_634x694.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "215",
+      "height": "235",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbYL6Ek-P8KZ5GCA-tSDUs1hxS_xNLIGwMOAZdvOD73vL7lkpkEQUkVVk"
+     }
+    ],
+    "metatags": [
+     {
+      "channel": "News",
+      "msvalidate.01": "12E6B4B813EB44C9BFC8F6A21F1D01F5",
+      "y_key": "1a7e912afbfcab2f",
+      "rating": "General",
+      "doc-class": "Living Document",
+      "original-source": "http://www.dailymail.co.uk/news/article-2231080/Kentucky-Earthquake-Epicenter-4-3-magnitude-10-miles-west-Whitesburg.html",
+      "articleid": "2231080",
+      "divclasspage": "articlePage",
+      "dartpagetype": "art",
+      "og:title": "Earthquake measuring 4.3 rattles Kentucky",
+      "og:type": "article",
+      "og:url": "http://www.dailymail.co.uk/news/article-2231080/Kentucky-Earthquake-Epicenter-4-3-magnitude-10-miles-west-Whitesburg.html",
+      "og:image": "http://i.dailymail.co.uk/i/pix/2012/11/10/article-0-15F5B073000005DC-471_308x185.jpg",
+      "og:site_name": "Mail Online",
+      "fb:app_id": "146202712090395",
+      "og:description": "The U.S. Geological Survey is reporting an mid-day earthquake that rattled central Kentucky could be felt in other states nearby, and as far away as Atlanta, Georgia.",
+      "article:published_time": "2012-11-10 20:08:33 UTC",
+      "article:modified_time": "2012-11-11 13:42:06 UTC",
+      "article:tag": "Kentucky Earthquake Epicenter 4 3 magnitude 10 miles west Whitesburg",
+      "article:section": "News"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list July 26, 2012 ??? Very strong earthquake in ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eJuly\u003c/b\u003e 26, 2012 ??? Very strong \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/07/25/major-earthquakes-list-july-26-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "(Major) Earthquakes list July 26, 2012 ??? Very strong earthquake in the Indian   Ocean (greater Mauritius area). Last update: July 27, 2012 at 8:48 am by By   Ashish ...",
+   "htmlSnippet": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eJuly\u003c/b\u003e 26, 2012 ??? Very strong \u003cb\u003eearthquake\u003c/b\u003e in the Indian \u003cbr\u003e  Ocean (greater Mauritius area). Last update: \u003cb\u003eJuly 27\u003c/b\u003e, 2012 at 8:48 am by By \u003cbr\u003e  Ashish \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uN-UIiEo43sJ",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-july-26-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003ejuly\u003c/b\u003e-26-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/07/en-26072012-IndianOcean.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "283",
+      "height": "178",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzlMcvyMSWdMlcWZzmQiFcDH9nQi1g4yJsjSArd0ILOdUptqdKkQjPP4U"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Role of Local Soil-Induced Amplification in the 27 July 1980 ...",
+   "htmlTitle": "The Role of Local Soil-Induced Amplification in the \u003cb\u003e27 July 1980\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.uky.edu/krcee/presentations/EW_ZW_Linn_Shi_Maysville_Seismic_EEG_08.pdf",
+   "displayLink": "www.uky.edu",
+   "snippet": "27 July 1980 Northeastern Kentucky Earthquake ... approximately 52 km north of   the Sharpsburg epicen- ..... Bulletin Seismological Society America, Vol. 82, pp.",
+   "htmlSnippet": "\u003cb\u003e27 July 1980\u003c/b\u003e Northeastern Kentucky \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e approximately 52 km \u003cb\u003enorth\u003c/b\u003e of \u003cbr\u003e  the Sharpsburg epicen- \u003cb\u003e.....\u003c/b\u003e Bulletin Seismological Society \u003cb\u003eAmerica\u003c/b\u003e, Vol. 82, pp.",
+   "cacheId": "OznvBbFlyKQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.uky.edu/krcee/.../EW_ZW_Linn_Shi_Maysville_Seismic_EEG_08.pdf",
+   "htmlFormattedUrl": "www.uky.edu/krcee/.../EW_ZW_Linn_Shi_Maysville_\u003cb\u003eSeismic\u003c/b\u003e_EEG_08.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "3B2 Total Publishing System 7.51n/W",
+      "creationdate": "D:20081112122714",
+      "producer": "Apogee Create Series3 v1.0",
+      "moddate": "D:20081112154801+08'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list July 30, 2012 ??? Another earthquake in ...",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list \u003cb\u003eJuly\u003c/b\u003e 30, 2012 ??? Another \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/07/29/major-earthquakes-list-july-30-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jul 31, 2012 ... This aftershock (earthquake), has the same Magnitude than the earthquake on   July 27/28. During that earthquake minor damage was reported.",
+   "htmlSnippet": "Jul 31, 2012 \u003cb\u003e...\u003c/b\u003e This aftershock (\u003cb\u003eearthquake\u003c/b\u003e), has the same Magnitude than the \u003cb\u003eearthquake\u003c/b\u003e on \u003cbr\u003e  \u003cb\u003eJuly 27\u003c/b\u003e/28. During that \u003cb\u003eearthquake\u003c/b\u003e minor damage was reported.",
+   "cacheId": "bQsDDMtssSUJ",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-july-30-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-\u003cb\u003ejuly\u003c/b\u003e-30-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What would happen if quake struck here? ?? The Richmond Register",
+   "htmlTitle": "What would happen if \u003cb\u003equake\u003c/b\u003e struck here? ?? The Richmond Register",
+   "link": "http://richmondregister.com/localnews/x977547757/What-would-happen-if-quake-struck-here/print",
+   "displayLink": "richmondregister.com",
+   "snippet": "Mar 12, 2011... 200th anniversary of the worst earthquake to occur in North American east of ...   occurred on a Sunday afternoon 30 years ago, July 27, 1980.",
+   "htmlSnippet": "Mar 12, 2011\u003cb\u003e...\u003c/b\u003e 200th anniversary of the worst \u003cb\u003eearthquake\u003c/b\u003e to occur in \u003cb\u003eNorth American\u003c/b\u003e east of \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  occurred on a Sunday afternoon 30 years ago, \u003cb\u003eJuly 27, 1980\u003c/b\u003e.",
+   "cacheId": "gL5bHm1KS20J",
+   "formattedUrl": "richmondregister.com/localnews/x977547757/What...quake.../print",
+   "htmlFormattedUrl": "richmondregister.com/localnews/x977547757/What...\u003cb\u003equake\u003c/b\u003e.../print"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "THE SHARPSBURG, KENTUCKY, EARTHQUAKE 27 JULY 1980 ...",
+   "htmlTitle": "THE SHARPSBURG, KENTUCKY, \u003cb\u003eEARTHQUAKE 27 JULY 1980\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/72/1/221.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "Bulletin of the Seismological Society of America, Vol. 72, No. ... located on the   eastern flank of the Cincinnati arch, a broad north-south-trending anticlinal ...   Prior to the Sharpsburg earthquake of 27 July 1980 and the associated   aftershocks, ...",
+   "htmlSnippet": "Bulletin of the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e, Vol. 72, No. \u003cb\u003e...\u003c/b\u003e located on the \u003cbr\u003e  eastern flank of the Cincinnati arch, a broad \u003cb\u003enorth\u003c/b\u003e-south-trending anticlinal \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Prior to the Sharpsburg \u003cb\u003eearthquake\u003c/b\u003e of \u003cb\u003e27 July 1980\u003c/b\u003e and the associated \u003cbr\u003e  aftershocks, \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/72/1/221.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/72/1/221.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010324014.TIF",
+      "creationdate": "Wed Aug 17 13:02:20 2005",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050921142851+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Ironton, Ohio, United States - Most Recent",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Ironton, Ohio, United States - Most Recent",
+   "link": "http://earthquaketrack.com/us-oh-ironton/recent",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Today: 6.4 magnitude earthquake near Vila, Efate, Vanuatu ?? Today / Big ... The   largest earthquake in Ironton: ... Virginia N Carolina Border ... July 27, 1980 UTC ...",
+   "htmlSnippet": "Today: 6.4 magnitude \u003cb\u003eearthquake\u003c/b\u003e near Vila, Efate, Vanuatu &middot; Today / Big \u003cb\u003e...\u003c/b\u003e The \u003cbr\u003e  largest \u003cb\u003eearthquake\u003c/b\u003e in Ironton: \u003cb\u003e...\u003c/b\u003e Virginia \u003cb\u003eN\u003c/b\u003e Carolina Border \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJuly 27, 1980\u003c/b\u003e UTC \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "QIQ4Q2AJXhsJ",
+   "formattedUrl": "earthquaketrack.com/us-oh-ironton/recent",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/us-oh-ironton/recent",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "/7jyBVX+oDQ4Hi1sXKEzkSlNNVOdhcbJEYxUOzlGDf4="
+     }
+    ]
+   }
+  }
+ ]
+}

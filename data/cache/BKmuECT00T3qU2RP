@@ -1,0 +1,269 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Mar 2 1937 North America Earthquake",
+    "totalResults": "86700",
+    "searchTerms": "Mar 2 1937 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Mar 2 1937 North America Earthquake",
+    "totalResults": "86700",
+    "searchTerms": "Mar 2 1937 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.371854,
+  "formattedSearchTime": "0.37",
+  "totalResults": "86700",
+  "formattedTotalResults": "86,700"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Wisconsin: Earthquake History",
+   "htmlTitle": "Wisconsin: \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/wisconsin/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... An earthquake on May 6, 1947, apparently centered just south of Milwaukee ... of   the northeastern and north-central United States on November 1, 1935. ... Two   strong earthquakes near Anna, Ohio, on March 2 and 8, 1937, caused ... and   Notices ?? In partnership with nehrp ?? Take Pride in America; USA.gov ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e An \u003cb\u003eearthquake\u003c/b\u003e on May 6, 1947, apparently centered just south of Milwaukee \u003cb\u003e...\u003c/b\u003e of \u003cbr\u003e  the northeastern and \u003cb\u003enorth\u003c/b\u003e-central United States on November 1, 1935. \u003cb\u003e...\u003c/b\u003e Two \u003cbr\u003e  strong \u003cb\u003eearthquakes\u003c/b\u003e near Anna, Ohio, on \u003cb\u003eMarch 2\u003c/b\u003e and 8, 1937, caused \u003cb\u003e...\u003c/b\u003e and \u003cbr\u003e  Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "P-QAoRfj9gwJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/wisconsin/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/wisconsin/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2.9 EARTHQUAKE",
+   "htmlTitle": "2.9 \u003cb\u003eEARTHQUAKE\u003c/b\u003e",
+   "link": "http://ohiosharpp.ema.state.oh.us/OhioSHARPP/Documents/SHMP/2-HIRA/SOHMP_Sec_2_9.pdf",
+   "displayLink": "ohiosharpp.ema.state.oh.us",
+   "snippet": "Missouri is one of the largest in North America. Although many .... March 2 and 9,   1937: These two earthquakes are the most damaging to have struck. Ohio.",
+   "htmlSnippet": "Missouri is one of the largest in \u003cb\u003eNorth America\u003c/b\u003e. Although many \u003cb\u003e....\u003c/b\u003e \u003cb\u003eMarch 2\u003c/b\u003e and 9, \u003cbr\u003e  1937: These two \u003cb\u003eearthquakes\u003c/b\u003e are the most damaging to have struck. Ohio.",
+   "cacheId": "3q7f2Wa9kPEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ohiosharpp.ema.state.oh.us/OhioSHARPP/.../2-HIRA/SOHMP_Sec_2_9.pdf",
+   "htmlFormattedUrl": "ohiosharpp.ema.state.oh.us/OhioSHARPP/.../\u003cb\u003e2\u003c/b\u003e-HIRA/SOHMP_Sec_\u003cb\u003e2\u003c/b\u003e_9.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "producer": "GPL Ghostscript 8.15",
+      "creationdate": "D:20080923120909",
+      "moddate": "D:20080923120909",
+      "title": "Microsoft Word - Section 2_Part 2_Ohio HIRA.doc",
+      "creator": "PScript5.dll Version 5.2",
+      "author": "test"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake History of Ohio",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e History of Ohio",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/ohio/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... An earthquake on June 18, 1875, caused damage in western Ohio, and ... On   March 2, 1937, much additional damage occurred at Anna.",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e An \u003cb\u003eearthquake\u003c/b\u003e on June 18, 1875, caused damage in western Ohio, and \u003cb\u003e...\u003c/b\u003e On \u003cbr\u003e  \u003cb\u003eMarch 2, 1937\u003c/b\u003e, much additional damage occurred at Anna.",
+   "cacheId": "S1ZjLnJ_YqoJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/ohio/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/ohio/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Ohio",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Ohio",
+   "link": "http://www.dnr.state.oh.us/Portals/10/pdf/EL/el09.pdf",
+   "displayLink": "www.dnr.state.oh.us",
+   "snippet": "ary be tween the Pacific and North Amer i can plates. Earthquakes occur ..... from   the March 2 and March 9, 1937, earthquakes. ..... for seismogenesis in stable   continental regions: Bulletin of the Seismological Society of America, v. 94, no. 1,   p.",
+   "htmlSnippet": "ary be tween the Pacific and \u003cb\u003eNorth\u003c/b\u003e Amer i can plates. \u003cb\u003eEarthquakes\u003c/b\u003e occur \u003cb\u003e.....\u003c/b\u003e from \u003cbr\u003e  the \u003cb\u003eMarch 2\u003c/b\u003e and March 9, 1937, \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e for seismogenesis in stable \u003cbr\u003e  continental regions: Bulletin of the Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e, v. 94, no. 1, \u003cbr\u003e  p.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.dnr.state.oh.us/Portals/10/pdf/EL/el09.pdf",
+   "htmlFormattedUrl": "www.dnr.state.oh.us/Portals/10/pdf/EL/el09.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20120907103647-04'00'",
+      "subject": "Earthquakes in Ohio",
+      "author": "Michael C. Hansen, Ohio Geological Survey",
+      "creator": "Adobe InDesign CS4 (6.0.6)",
+      "producer": "Acrobat Distiller 9.4.2 (Macintosh)",
+      "moddate": "D:20120907104950-04'00'",
+      "title": "Earthquakes in Ohio"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "West Virginia Earthquake History",
+   "htmlTitle": "West Virginia \u003cb\u003eEarthquake\u003c/b\u003e History",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/west_virginia/history.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Two damaging earthquakes in the Anna, Ohio, area on March 2 and 8, ... Virginia  , Georgia, Kentucky, Maryland (one place), North Carolina, ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Two damaging \u003cb\u003eearthquakes\u003c/b\u003e in the Anna, Ohio, area on \u003cb\u003eMarch 2\u003c/b\u003e and 8, \u003cb\u003e...\u003c/b\u003e Virginia\u003cbr\u003e  , Georgia, Kentucky, Maryland (one place), \u003cb\u003eNorth\u003c/b\u003e Carolina, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kt_DrH7sKlsJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/west_virginia/history.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/west_virginia/history.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Two Ohio earthquakes occur near nuclear stations - Toledo ...",
+   "htmlTitle": "Two Ohio \u003cb\u003eearthquakes\u003c/b\u003e occur near nuclear stations - Toledo \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.examiner.com/article/two-ohio-earthquakes-occur-near-nuclear-stations",
+   "displayLink": "www.examiner.com",
+   "snippet": "Ohio's most severe earthquakes happened March 2 and March 9, 1937 near the   ... Boundary, formed when North America attempted to split a billion years ago.",
+   "htmlSnippet": "Ohio&#39;s most severe \u003cb\u003eearthquakes\u003c/b\u003e happened \u003cb\u003eMarch 2\u003c/b\u003e and March 9, 1937 near the \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Boundary, formed when \u003cb\u003eNorth America\u003c/b\u003e attempted to split a billion years ago.",
+   "cacheId": "pqjviCM7cA4J",
+   "formattedUrl": "www.examiner.com/.../two-ohio-earthquakes-occur-near-nuclear-stations",
+   "htmlFormattedUrl": "www.examiner.com/.../two-ohio-\u003cb\u003eearthquakes\u003c/b\u003e-occur-near-nuclear-stations",
+   "pagemap": {
+    "metatags": [
+     {
+      "schema:name dc:title": "Two Ohio earthquakes occur near nuclear stations",
+      "sioc:num_replies": "0",
+      "og:url": "http://www.examiner.com/article/two-ohio-earthquakes-occur-near-nuclear-stations",
+      "fb:app_id": "113003962065478",
+      "og:title": "Two Ohio earthquakes occur near nuclear stations",
+      "og:type": "article",
+      "og:site_name": "Examiner.com"
+     }
+    ],
+    "NewsArticle": [
+     {
+      "name": "Two Ohio earthquakes occur near nuclear stations",
+      "title": "Two Ohio earthquakes occur near nuclear stations",
+      "date": "2011-03-13T20:07:17-06:00",
+      "created": "2011-03-13T20:07:17-06:00",
+      "articleBody": "Related topicsnuclear energy Advertisement The explosion at Japan???s Fukushima Nuclear Station last Friday has many people re-examining nuclear energy. Already shock waves of political arguments...",
+      "encoded": "Related topicsnuclear energy Advertisement The explosion at Japan???s Fukushima Nuclear Station last Friday has many people re-examining nuclear energy. Already shock waves of political arguments...",
+      "link-type-author": "Lisa Hossler",
+      "label": "nuclear energy"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "A MACROSEISMIC STUDY OF THE OHIO EARTHQUAKES OF ...",
+   "htmlTitle": "A MACROSEISMIC STUDY OF THE OHIO \u003cb\u003eEARTHQUAKES\u003c/b\u003e OF \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/30/3/251.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "Mar 9, 2007 ... ON MARCH 2 and March 9, 1937, earthquakes of destructive intensity ... tained   for the two shocks with an epicenter at 84?2 west longitude, 40?4 north latitude.   ... BULLETIN OF THE SEISMOLOGICAL SOCIETY OF AMERICA ...",
+   "htmlSnippet": "Mar 9, 2007 \u003cb\u003e...\u003c/b\u003e ON \u003cb\u003eMARCH 2\u003c/b\u003e and March 9, 1937, \u003cb\u003eearthquakes\u003c/b\u003e of destructive intensity \u003cb\u003e...\u003c/b\u003e tained \u003cbr\u003e  for the two shocks with an epicenter at 84?2 west longitude, 40?4 \u003cb\u003enorth\u003c/b\u003e latitude. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e BULLETIN OF THE SEISMOLOGICAL SOCIETY OF \u003cb\u003eAMERICA\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/30/3/251.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/30/3/251.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "0101150005.TIF",
+      "creationdate": "Sun Jul 10 12:05:10 2005",
+      "title": "0101150005.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20050913163550+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Regional Seismic Hazard Earthquake Locations",
+   "htmlTitle": "Regional \u003cb\u003eSeismic\u003c/b\u003e Hazard \u003cb\u003eEarthquake\u003c/b\u003e Locations",
+   "link": "http://pubs.usgs.gov/of/2008/1221/downloads/OF08-1221_map.pdf",
+   "displayLink": "pubs.usgs.gov",
+   "snippet": "Engdahl, E.R., Seismicity Map of North America: The Decade of North American   Geology (DNAG) ..... The two largest earthquakes (March 2 and 9, 1937) located ...",
+   "htmlSnippet": "Engdahl, E.R., Seismicity Map of \u003cb\u003eNorth America\u003c/b\u003e: The Decade of \u003cb\u003eNorth American\u003c/b\u003e \u003cbr\u003e  Geology (DNAG) \u003cb\u003e.....\u003c/b\u003e The two largest \u003cb\u003eearthquakes\u003c/b\u003e (\u003cb\u003eMarch 2\u003c/b\u003e and 9, 1937) located \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "R2OGQPfM2dEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "pubs.usgs.gov/of/2008/1221/downloads/OF08-1221_map.pdf",
+   "htmlFormattedUrl": "pubs.usgs.gov/of/2008/1221/downloads/OF08-1221_map.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080723154430Z",
+      "creator": "ESRI ArcMap 9.2.4.1420",
+      "moddate": "D:20080821084750-06'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2012 Guerrero???Oaxaca earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2012 Guerrero???Oaxaca \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2012_Guerrero%E2%80%93Oaxaca_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Map of southern Mexico showing the areas affected by the earthquake of 20 ... [2]   The depth was reported as 15 km by NSS and 20 km by the USGS. ... subducted   below the North American Plate at a rate of 6.4 cm/yr (2.5 in/yr). .... Chiba, Japan (  5.7, Mar 14); Guerrero???Oaxaca, Mexico (7.4, Mar 20); Talca, Chile (7.1, Mar 25) ...",
+   "htmlSnippet": "Map of southern Mexico showing the areas affected by the \u003cb\u003eearthquake\u003c/b\u003e of 20 \u003cb\u003e...\u003c/b\u003e [\u003cb\u003e2\u003c/b\u003e] \u003cbr\u003e  The depth was reported as 15 km by NSS and 20 km by the USGS. \u003cb\u003e...\u003c/b\u003e subducted \u003cbr\u003e  below the \u003cb\u003eNorth American\u003c/b\u003e Plate at a rate of 6.4 cm/yr (2.5 in/yr). \u003cb\u003e....\u003c/b\u003e Chiba, Japan (\u003cbr\u003e  5.7, \u003cb\u003eMar\u003c/b\u003e 14); Guerrero???Oaxaca, Mexico (7.4, \u003cb\u003eMar\u003c/b\u003e 20); Talca, Chile (7.1, \u003cb\u003eMar\u003c/b\u003e 25) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "95xbbIfirO0J",
+   "formattedUrl": "en.wikipedia.org/wiki/2012_Guerrero???Oaxaca_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2012_Guerrero???Oaxaca_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Intensity_Oaxaca_2012.jpg/240px-Intensity_Oaxaca_2012.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "225",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVkotZ9luDV0noo7aRUW8oatgnuA830lvoQAJd_ZYLqMNbuCCUJIJ_xpE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Geophysical Investigations of the Western Ohio-Indiana Region",
+   "htmlTitle": "Geophysical Investigations of the Western Ohio-Indiana Region",
+   "link": "http://www.osti.gov/bridge/servlets/purl/10125214-2jNY2R/nativ..",
+   "displayLink": "www.osti.gov",
+   "snippet": "Investigations of the Anna, Ohio, Earthquake Zone: Annual Progress Report for   ..... of North America, between the Appalachian ... zone in the 1930's: 20 Sept   1931, 2 Mar 1937, and 9 Mar 1937. .... which is exposed to the north (Stead, 1975  ).",
+   "htmlSnippet": "Investigations of the Anna, Ohio, \u003cb\u003eEarthquake\u003c/b\u003e Zone: Annual Progress Report for \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e of \u003cb\u003eNorth America\u003c/b\u003e, between the Appalachian \u003cb\u003e...\u003c/b\u003e zone in the 1930&#39;s: 20 Sept \u003cbr\u003e  1931, \u003cb\u003e2 Mar 1937\u003c/b\u003e, and 9 Mar 1937. \u003cb\u003e....\u003c/b\u003e which is exposed to the north (Stead, 1975\u003cbr\u003e  ).",
+   "cacheId": "mpTFdtfStdkJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.osti.gov/bridge/servlets/purl/10125214-2jNY2R/nativ..",
+   "htmlFormattedUrl": "www.osti.gov/bridge/servlets/purl/10125214-2jNY2R/nativ..",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20040826141433-04'00'",
+      "creationdate": "Mon Aug 23 18:01:36 2004",
+      "producer": "IP Studio version 1.0010",
+      "ocrpages": "N",
+      "creationdate__text": "Mon Aug 23 18:01:36 2004"
+     }
+    ]
+   }
+  }
+ ]
+}

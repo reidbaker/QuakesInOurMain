@@ -1,0 +1,254 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 23 1974 Eurasia Earthquake",
+    "totalResults": "18800",
+    "searchTerms": "Sep 23 1974 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 23 1974 Eurasia Earthquake",
+    "totalResults": "18800",
+    "searchTerms": "Sep 23 1974 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.475056,
+  "formattedSearchTime": "0.48",
+  "totalResults": "18800",
+  "formattedTotalResults": "18,800"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Understanding the Lorca, Spain May 11 2011 earthquake",
+   "htmlTitle": "Understanding the Lorca, Spain May 11 2011 \u003cb\u003eearthquake\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/05/12/understanding-the-lorca-spain-may-11-2011-earthquake/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 12, 2011 ... The southeastern Spain earthquake of 11 May, 2011, occurred within the plate   boundary region that separates the Eurasia and Africa (Nubia) ...",
+   "htmlSnippet": "May 12, 2011 \u003cb\u003e...\u003c/b\u003e The southeastern Spain \u003cb\u003eearthquake\u003c/b\u003e of 11 May, 2011, occurred within the plate \u003cbr\u003e  boundary region that separates the \u003cb\u003eEurasia\u003c/b\u003e and Africa (Nubia) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zWWHwSVsn3QJ",
+   "formattedUrl": "earthquake-report.com/.../understanding-the-lorca-spain-may-11-2011- earthquake/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../understanding-the-lorca-spain-may-11-2011- \u003cb\u003eearthquake\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://neic.usgs.gov/neis/eq_depot/2011/eq_110511_c0003c5s/neic_c0003c5s_w.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "212",
+      "height": "237",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMr5_9zov2Km8io-c7V-fBR_Pm1kh4lRtyNkDV0-89wtBejZr56JQiCR5d"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Murcia Property",
+      "url": "http://www.platinumholidayrentals.com/",
+      "url_text": "Murcia Property"
+     },
+     {
+      "fn": "elena sarri??n"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2011 Burma earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2011 Burma \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2011_Burma_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The 2011 Burma earthquake (Burmese: ???????????? ?????????????????????????????????) was a ...   between the northward moving Indo-Australian Plate and the Eurasian Plate,   which .... Colorado (United States) (5.3, Aug 22); Virginia (United States) (5.8,   Aug 23) ... 1974 Zhaotong ?? 1975 Haicheng ?? 1976 Tangshan ?? 1976 Songpan-  Pingwu ...",
+   "htmlSnippet": "The 2011 Burma \u003cb\u003eearthquake\u003c/b\u003e (Burmese: ???????????? ?????????????????????????????????) was a \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  between the northward moving Indo-Australian Plate and the \u003cb\u003eEurasian\u003c/b\u003e Plate, \u003cbr\u003e  which \u003cb\u003e....\u003c/b\u003e Colorado (United States) (5.3, \u003cb\u003eAug\u003c/b\u003e 22); Virginia (United States) (5.8, \u003cbr\u003e  \u003cb\u003eAug 23\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1974\u003c/b\u003e Zhaotong &middot; 1975 Haicheng &middot; 1976 Tangshan &middot; 1976 Songpan-\u003cbr\u003e  Pingwu \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "BtCnQXMlecEJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2011_Burma_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2011_Burma_\u003cb\u003eearthquake\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in Turkey - All About Turkey",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in Turkey - All About Turkey",
+   "link": "http://www.allaboutturkey.com/deprem.htm",
+   "displayLink": "www.allaboutturkey.com",
+   "snippet": "Recently on 23rd of October 2011, a 7,2 magnitude earthquake hit the province   of ... motion of the Arabian plate against the Eurasian plate, squeezing the small   Turkish micro plate westwards. .... ITU,NG(51,73), 1509 Sep 14, 40.7, 29.3, 7.0(  ISK), 13,000, Istanbul ... 2: Lomnitz, Global Tectonics and Earthquake Risk, 1974.",
+   "htmlSnippet": "Recently on \u003cb\u003e23rd\u003c/b\u003e of October 2011, a 7,2 magnitude \u003cb\u003eearthquake\u003c/b\u003e hit the province \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e motion of the Arabian plate against the \u003cb\u003eEurasian\u003c/b\u003e plate, squeezing the small \u003cbr\u003e  Turkish micro plate westwards. \u003cb\u003e....\u003c/b\u003e ITU,NG(51,73), 1509 \u003cb\u003eSep\u003c/b\u003e 14, 40.7, 29.3, 7.0(\u003cbr\u003e  ISK), 13,000, Istanbul \u003cb\u003e...\u003c/b\u003e 2: Lomnitz, Global Tectonics and \u003cb\u003eEarthquake\u003c/b\u003e Risk, \u003cb\u003e1974\u003c/b\u003e.",
+   "cacheId": "CTyIXW07OJwJ",
+   "formattedUrl": "www.allaboutturkey.com/deprem.htm",
+   "htmlFormattedUrl": "www.allaboutturkey.com/deprem.htm"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude and Location of Historical Earthquakes in Japan and ...",
+   "htmlTitle": "Magnitude and Location of Historical \u003cb\u003eEarthquakes\u003c/b\u003e in Japan and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "displayLink": "usgsprojects.org",
+   "snippet": "September 1998 event (#T30) in northern Japan. The 23 January 1975 event   was the largest in an earthquake swarm on the northern rim of Mt. Aso caldera ...",
+   "htmlSnippet": "\u003cb\u003eSeptember\u003c/b\u003e 1998 event (#T30) in northern Japan. The \u003cb\u003e23\u003c/b\u003e January 1975 event \u003cbr\u003e  was the largest in an \u003cb\u003eearthquake\u003c/b\u003e swarm on the northern rim of Mt. Aso caldera \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "MqYLfainWs0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "htmlFormattedUrl": "usgsprojects.org/tokyo/submitted/Bakun_JGR_revised8Nov2004.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20041108141107-08'00'",
+      "creationdate": "D:20041108162556-05'00'",
+      "title": "151522_1_art_file_2_1099949021.pdf",
+      "creator": "PScript5.dll Version 5.2",
+      "producer": "Acrobat Distiller 6.0 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Eurasia spreading basin to Laptev Shelf transition: structural pattern ...",
+   "htmlTitle": "\u003cb\u003eEurasia\u003c/b\u003e spreading basin to Laptev Shelf transition: structural pattern \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.geo.uni-bremen.de/sensorik/publikationen/Drachev_Kaul_GJI_152.pdf",
+   "displayLink": "www.geo.uni-bremen.de",
+   "snippet": "Received 2002 September 6; in original form 2001 September 7. SUMMARY ...   The high heat flow and the distribution of earthquake epicentres allow us to   assume that .... lies (Karasik 1974). According to ...... 23???31 (in Russian). Karasik,   A.M. ...",
+   "htmlSnippet": "Received 2002 \u003cb\u003eSeptember\u003c/b\u003e 6; in original form 2001 \u003cb\u003eSeptember\u003c/b\u003e 7. SUMMARY \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The high heat flow and the distribution of \u003cb\u003eearthquake\u003c/b\u003e epicentres allow us to \u003cbr\u003e  assume that \u003cb\u003e....\u003c/b\u003e lies (Karasik \u003cb\u003e1974\u003c/b\u003e). According to \u003cb\u003e......\u003c/b\u003e \u003cb\u003e23\u003c/b\u003e???31 (in Russian). Karasik, \u003cbr\u003e  A.M. \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "CLETSNkWpSAJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.geo.uni-bremen.de/sensorik/.../Drachev_Kaul_GJI_152.pdf",
+   "htmlFormattedUrl": "www.geo.uni-bremen.de/sensorik/.../Drachev_Kaul_GJI_152.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030208100752",
+      "producer": "Acrobat Distiller 4.05 for Macintosh",
+      "author": "pinnacle",
+      "creator": "Textures??: PSPrinter 8.3.1",
+      "title": "gji1882.tex",
+      "moddate": "D:20020210045726+05'30'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Stress imparted by the great 2004 Sumatra earthquake shut down ...",
+   "htmlTitle": "Stress imparted by the great 2004 Sumatra \u003cb\u003eearthquake\u003c/b\u003e shut down \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.pnas.org/content/early/2012/08/27/1208799109.full.pdf",
+   "displayLink": "www.pnas.org",
+   "snippet": "Aug 27, 2012 ... The 2004 M = 9.2 Sumatra earthquake altered seismicity .... 23 mm???y (40), and   the Andaman rift-transform backarc system has opened ... Plate motion is relative   to Eurasia. ..... this clearer than when a M = 6.3 aftershock of the 4 September ...   Gardner KK, Knopoff L (1974) Is the sequence of earthquakes in ...",
+   "htmlSnippet": "Aug 27, 2012 \u003cb\u003e...\u003c/b\u003e The 2004 M = 9.2 Sumatra \u003cb\u003eearthquake\u003c/b\u003e altered seismicity \u003cb\u003e....\u003c/b\u003e \u003cb\u003e23\u003c/b\u003e mm???y (40), and \u003cbr\u003e  the Andaman rift-transform backarc system has opened \u003cb\u003e...\u003c/b\u003e Plate motion is relative \u003cbr\u003e  to \u003cb\u003eEurasia\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e this clearer than when a M = 6.3 aftershock of the 4 \u003cb\u003eSeptember\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Gardner KK, Knopoff L (\u003cb\u003e1974\u003c/b\u003e) Is the sequence of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.pnas.org/content/early/2012/08/27/1208799109.full.pdf",
+   "htmlFormattedUrl": "www.pnas.org/content/early/2012/08/27/1208799109.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "D:20120830121220-04'00'",
+      "creationdate": "D:20120830121220-04'00'",
+      "title": "201208799 1..5",
+      "creator": "Arbortext Advanced Print Publisher 9.1.405/W Unicode",
+      "producer": "Acrobat Distiller 6.0.1 (Windows)"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Neotectonic modelling of the western part of the Africa^Eurasia plate ...",
+   "htmlTitle": "Neotectonic modelling of the western part of the Africa^\u003cb\u003eEurasia\u003c/b\u003e plate \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.topomod.eu/wp-content/uploads/2012/02/Jimenez-MuntNegredo_EPSL2003_MAR-Algeria.pdf",
+   "displayLink": "www.topomod.eu",
+   "snippet": "Eurasia plate boundary, extending from the Mid-Atlantic ridge to Tell Atlas (  northern Algeria) ... to data on seismic strain rate computed from earthquake   magnitude, most ...... Solid Earth 1 (1974) 23^44. ... nando, Spain, 18^22   September 2000.",
+   "htmlSnippet": "\u003cb\u003eEurasia\u003c/b\u003e plate boundary, extending from the Mid-Atlantic ridge to Tell Atlas (\u003cbr\u003e  northern Algeria) \u003cb\u003e...\u003c/b\u003e to data on \u003cb\u003eseismic\u003c/b\u003e strain rate computed from \u003cb\u003eearthquake\u003c/b\u003e \u003cbr\u003e  magnitude, most \u003cb\u003e......\u003c/b\u003e Solid Earth 1 (\u003cb\u003e1974\u003c/b\u003e) \u003cb\u003e23\u003c/b\u003e^44. \u003cb\u003e...\u003c/b\u003e nando, Spain, 18^22 \u003cbr\u003e  \u003cb\u003eSeptember\u003c/b\u003e 2000.",
+   "cacheId": "dCs2uSp2P-8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.topomod.eu/.../Jimenez-MuntNegredo_EPSL2003_MAR-Algeria.pdf",
+   "htmlFormattedUrl": "www.topomod.eu/.../Jimenez-MuntNegredo_EPSL2003_MAR-Algeria.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20030106133705",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing System 7.51f/W",
+      "title": "PII: S0012-821X(02)01045-2",
+      "moddate": "D:20030106134040+01'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SURFACE-WAVE MAGNITUDES OF EURASIAN EARTHQUAKES ...",
+   "htmlTitle": "SURFACE-WAVE MAGNITUDES OF \u003cb\u003eEURASIAN EARTHQUAKES\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "displayLink": "bssa.geoscienceworld.org",
+   "snippet": "component Rayleigh waves in the period range 17 to 23 sec. For distances of 25   ?? to 140 ?? .... vertical-component EIL seismogram for the September 8, 1971   earthquake in the western. Caucasus at a ...... Manuscript received September 3,   1974.",
+   "htmlSnippet": "component Rayleigh waves in the period range 17 to \u003cb\u003e23\u003c/b\u003e sec. For distances of 25 \u003cbr\u003e  ?? to 140 ?? \u003cb\u003e....\u003c/b\u003e vertical-component EIL seismogram for the \u003cb\u003eSeptember\u003c/b\u003e 8, 1971 \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in the western. Caucasus at a \u003cb\u003e......\u003c/b\u003e Manuscript received \u003cb\u003eSeptember\u003c/b\u003e 3, \u003cbr\u003e  \u003cb\u003e1974\u003c/b\u003e.",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "htmlFormattedUrl": "bssa.geoscienceworld.org/content/65/3/693.full.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "010282008.TIF",
+      "creationdate": "Tue Aug 02 19:47:49 2005",
+      "title": "010282008.TIF",
+      "producer": "PageGenie PDFGenerator",
+      "moddate": "D:20051010114911+08'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BGS Earthquake Frequently Asked Questions",
+   "htmlTitle": "BGS \u003cb\u003eEarthquake\u003c/b\u003e Frequently Asked Questions",
+   "link": "http://www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "displayLink": "www.moorlandschool.co.uk",
+   "snippet": "What is the biggest earthquake that has ever happened? ... Around 15% of the   total seismic energy is released where the Eurasian and African plates are   colliding, forming a band of seismicity ... 1910, 36, 1940, 23, 1970, 29 ... 1914, 22,   1944, 31, 1974, 21 .... 7 Sep 1801, Comrie, 4.5, 2, near Edinburgh, falling   masonry ...",
+   "htmlSnippet": "What is the biggest \u003cb\u003eearthquake\u003c/b\u003e that has ever happened? \u003cb\u003e...\u003c/b\u003e Around 15% of the \u003cbr\u003e  total \u003cb\u003eseismic\u003c/b\u003e energy is released where the \u003cb\u003eEurasian\u003c/b\u003e and African plates are \u003cbr\u003e  colliding, forming a band of seismicity \u003cb\u003e...\u003c/b\u003e 1910, 36, 1940, \u003cb\u003e23\u003c/b\u003e, 1970, 29 \u003cb\u003e...\u003c/b\u003e 1914, 22, \u003cbr\u003e  1944, 31, \u003cb\u003e1974\u003c/b\u003e, 21 \u003cb\u003e....\u003c/b\u003e 7 \u003cb\u003eSep\u003c/b\u003e 1801, Comrie, 4.5, 2, near Edinburgh, falling \u003cbr\u003e  masonry \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "8dHoZVcZYJ8J",
+   "formattedUrl": "www.moorlandschool.co.uk/earth/images/Earthquakefaq.htm",
+   "htmlFormattedUrl": "www.moorlandschool.co.uk/earth/images/\u003cb\u003eEarthquake\u003c/b\u003efaq.htm"
+  }
+ ]
+}

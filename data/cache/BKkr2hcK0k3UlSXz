@@ -1,0 +1,287 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Feb 28 1996 Australia Earthquake",
+    "totalResults": "445000",
+    "searchTerms": "Feb 28 1996 Australia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Feb 28 1996 Australia Earthquake",
+    "totalResults": "445000",
+    "searchTerms": "Feb 28 1996 Australia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.256517,
+  "formattedSearchTime": "0.26",
+  "totalResults": "445000",
+  "formattedTotalResults": "445,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Strong earthquake in the greater Melbourne area, Australia",
+   "htmlTitle": "Strong \u003cb\u003eearthquake\u003c/b\u003e in the greater Melbourne area, \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/06/19/strong-earthquake-in-the-greater-melbourne-area-australia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jun 21, 2012 ... Earthquake overview : Strong earthquake near Melbourne, Australia .... recently   near Mt. Baw Baw of the same magnitude in 1996, Ml5.0.",
+   "htmlSnippet": "Jun 21, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : Strong \u003cb\u003eearthquake\u003c/b\u003e near Melbourne, \u003cb\u003eAustralia\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e recently \u003cbr\u003e  near Mt. Baw Baw of the same magnitude in \u003cb\u003e1996\u003c/b\u003e, Ml5.0.",
+   "cacheId": "HhIXsW-HgNIJ",
+   "formattedUrl": "earthquake-report.com/.../strong-earthquake-in-the-greater-melbourne-area- australia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../strong-\u003cb\u003eearthquake\u003c/b\u003e-in-the-greater-melbourne-area- \u003cb\u003eaustralia\u003c/b\u003e/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/06/541087.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "259",
+      "height": "194",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSo19JnftJE4AfP4wr-zBSahET5M8jZRmdBiyuMtd60ixCwoL_CJAS6K2b0"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "dj flexij (dj jordan)"
+     },
+     {
+      "fn": "Ruth Friend"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Worldwide earthquakes M 4.4 or higher. Earthquakes of M 2.5 or more, click here  .Keep this page open (in a browser tab) ??? NEW POSTINGS WILL APPEAR ...",
+   "htmlSnippet": "Worldwide \u003cb\u003eearthquakes\u003c/b\u003e M 4.4 or higher. \u003cb\u003eEarthquakes\u003c/b\u003e of M 2.5 or more, click here\u003cbr\u003e  .Keep this page open (in a browser tab) ??? NEW POSTINGS WILL APPEAR \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? Archive January and ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? Archive January and \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/03/31/worldwide-earthquake-related-news-archive-january-and-february-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 14, 2012 ... February 28, 2012 ... There is even a precedent: in 1996, an earthquake turned   Lijiang in .... The people who went through a broker have been offered that deal   by Ansvar Australia, but only until their current policy expires at ...",
+   "htmlSnippet": "Apr 14, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFebruary 28\u003c/b\u003e, 2012 \u003cb\u003e...\u003c/b\u003e There is even a precedent: in \u003cb\u003e1996\u003c/b\u003e, an \u003cb\u003eearthquake\u003c/b\u003e turned \u003cbr\u003e  Lijiang in \u003cb\u003e....\u003c/b\u003e The people who went through a broker have been offered that deal \u003cbr\u003e  by Ansvar \u003cb\u003eAustralia\u003c/b\u003e, but only until their current policy expires at \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "I5hH1EcNcK0J",
+   "formattedUrl": "earthquake-report.com/.../worldwide-earthquake-related-news-archive- january-and-february-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../worldwide-\u003cb\u003eearthquake\u003c/b\u003e-related-news-archive- january-and-\u003cb\u003efebruary\u003c/b\u003e-2012/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Noteworthy earthquakes in Australia",
+   "htmlTitle": "Noteworthy \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e",
+   "link": "http://www.quakes.uq.edu.au/html/quake_info/list_aust.html",
+   "displayLink": "www.quakes.uq.edu.au",
+   "snippet": "Bent rails caused by the Meckering earthquake ... Among the largest E.   Australian earthquakes, and the largest according to a ... 1954 Feb 28 ... 1996 Jul   18 ...",
+   "htmlSnippet": "Bent rails caused by the Meckering \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Among the largest E. \u003cbr\u003e  \u003cb\u003eAustralian earthquakes\u003c/b\u003e, and the largest according to a \u003cb\u003e...\u003c/b\u003e 1954 \u003cb\u003eFeb 28\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1996\u003c/b\u003e Jul \u003cbr\u003e  18 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ZMCKEoqrTNsJ",
+   "formattedUrl": "www.quakes.uq.edu.au/html/quake_info/list_aust.html",
+   "htmlFormattedUrl": "www.\u003cb\u003equake\u003c/b\u003es.uq.edu.au/html/\u003cb\u003equake\u003c/b\u003e_info/list_aust.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.quakes.uq.edu.au/html/quake_info/images/kent_hotel.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "270",
+      "height": "186",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5RHLtej8Xf6F4gY-5DvkKj27Jjy_OtvWHds9wL4qAxxr6jgDqWdbCzng"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Damaging Earthquakes Database 2010 ??? The Year in Review ...",
+   "htmlTitle": "Damaging \u003cb\u003eEarthquakes\u003c/b\u003e Database 2010 ??? The Year in Review \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/wp-content/uploads/2011/03/CATDAT-EQ-Data-1st-Annual-Review-2010-James-Daniell-03-03-2011.pdf",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Feb 27, 2011 ... I would like to thank the University of Adelaide, Australia, Universit?? Joseph   Fourier, University of ..... As of February 2011 in CATDAT v5.01, over 17000   sources of ... and historical), from earthquake-related books (Stein and   Wysession 2003, Kramer 1996, Gutenberg ..... $0.627m Direct (CNY4.28m) ...",
+   "htmlSnippet": "Feb 27, 2011 \u003cb\u003e...\u003c/b\u003e I would like to thank the University of Adelaide, \u003cb\u003eAustralia\u003c/b\u003e, Universit?? Joseph \u003cbr\u003e  Fourier, University of \u003cb\u003e.....\u003c/b\u003e As of \u003cb\u003eFebruary\u003c/b\u003e 2011 in CATDAT v5.01, over 17000 \u003cbr\u003e  sources of \u003cb\u003e...\u003c/b\u003e and historical), from \u003cb\u003eearthquake\u003c/b\u003e-related books (Stein and \u003cbr\u003e  Wysession 2003, Kramer \u003cb\u003e1996\u003c/b\u003e, Gutenberg \u003cb\u003e.....\u003c/b\u003e $0.627m Direct (CNY4.\u003cb\u003e28m\u003c/b\u003e) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "cAitKwePwBgJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../CATDAT-EQ-Data-1st-Annual-Review-2010- James-Daniell-03-03-2011.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20110303154353+01'00'",
+      "author": "admin",
+      "creator": "Acrobat PDFMaker 7.0.7 f??r Word",
+      "producer": "Acrobat Distiller 7.0.5 (Windows)",
+      "moddate": "D:20110303154744+01'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. ... 1906, Off the   coast of Western Australia, Australia, 7.6, Mw .... 01923-09-01February 3, 1923,   Kamchatka Peninsula, Russia ... see 1929 Grand Banks earthquake, 44.69, ???  56.01, 28, 7.3, Mw (Bent, 1995), USGS .... 48.89, ???79, 6.2, Mw (Bent, 1996),   USGS ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of 21st century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 1906, Off the \u003cbr\u003e  coast of Western \u003cb\u003eAustralia\u003c/b\u003e, \u003cb\u003eAustralia\u003c/b\u003e, 7.6, Mw \u003cb\u003e....\u003c/b\u003e 01923-09-01\u003cb\u003eFebruary\u003c/b\u003e 3, 1923, \u003cbr\u003e  Kamchatka Peninsula, Russia \u003cb\u003e...\u003c/b\u003e see 1929 Grand Banks \u003cb\u003eearthquake\u003c/b\u003e, 44.69, ???\u003cbr\u003e  56.01, \u003cb\u003e28\u003c/b\u003e, 7.3, Mw (Bent, 1995), USGS \u003cb\u003e....\u003c/b\u003e 48.89, ???79, 6.2, Mw (Bent, \u003cb\u003e1996\u003c/b\u003e), \u003cbr\u003e  USGS \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Jamaica earthquake list",
+   "htmlTitle": "Jamaica \u003cb\u003eearthquake\u003c/b\u003e list",
+   "link": "http://earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 27, 2012 ... The list below shows the last earthquakes in Jamaica ... No listed earthquakes   means that there were NO earthquakes noticed by our data ...",
+   "htmlSnippet": "Apr 27, 2012 \u003cb\u003e...\u003c/b\u003e The list below shows the last \u003cb\u003eearthquakes\u003c/b\u003e in Jamaica \u003cb\u003e...\u003c/b\u003e No listed \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  means that there were NO \u003cb\u003eearthquakes\u003c/b\u003e noticed by our data \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "VNjkeO-jsS8J",
+   "formattedUrl": "earthquake-report.com/2012/04/27/jamaica-earthquake-list/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/04/27/jamaica-\u003cb\u003eearthquake\u003c/b\u003e-list/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of earthquakes in Australia - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of \u003cb\u003eearthquakes\u003c/b\u003e in \u003cb\u003eAustralia\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "This is a list of significant earthquakes recorded within Australia and its territories.   Unless ... Strongest earthquake recorded in an Australian territory. ..... 28 March   2004. ... \"1996-09-25, Thomson Reservoir, Intensity Map\". seismology research   centre. ... February 2000. http://www.aees.org.au/Newsletters/AEES_2000_2.pdf.",
+   "htmlSnippet": "This is a list of significant \u003cb\u003eearthquakes\u003c/b\u003e recorded within \u003cb\u003eAustralia\u003c/b\u003e and its territories. \u003cbr\u003e  Unless \u003cb\u003e...\u003c/b\u003e Strongest \u003cb\u003eearthquake\u003c/b\u003e recorded in an \u003cb\u003eAustralian\u003c/b\u003e territory. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e28\u003c/b\u003e March \u003cbr\u003e  2004. \u003cb\u003e...\u003c/b\u003e &quot;\u003cb\u003e1996\u003c/b\u003e-09-25, Thomson Reservoir, Intensity Map&quot;. seismology research \u003cbr\u003e  centre. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eFebruary\u003c/b\u003e 2000. http://www.aees.org.au/Newsletters/AEES_2000_2.pdf.",
+   "cacheId": "QOiZd64XWlUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_earthquakes_in_Australia",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_\u003cb\u003eearthquakes\u003c/b\u003e_in_\u003cb\u003eAustralia\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes in NSW",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e in NSW",
+   "link": "http://www.aees.org.au/Articles/McCue_NSW_EQs.pdf",
+   "displayLink": "www.aees.org.au",
+   "snippet": "1839 (died 1878), he wrote the first paper about Australian earthquakes and   compiled a list of ..... isoseismal map published in McCue (1996) is due for an   update. ..... Australian Town and Country Journal Saturday 6 February 1892,   page 28 ...",
+   "htmlSnippet": "1839 (died 1878), he wrote the first paper about \u003cb\u003eAustralian earthquakes\u003c/b\u003e and \u003cbr\u003e  compiled a list of \u003cb\u003e.....\u003c/b\u003e isoseismal map published in McCue (\u003cb\u003e1996\u003c/b\u003e) is due for an \u003cbr\u003e  update. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eAustralian\u003c/b\u003e Town and Country Journal Saturday 6 \u003cb\u003eFebruary\u003c/b\u003e 1892, \u003cbr\u003e  page \u003cb\u003e28\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kv0RwT56Bd4J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.aees.org.au/Articles/McCue_NSW_EQs.pdf",
+   "htmlFormattedUrl": "www.aees.org.au/Articles/McCue_NSW_EQs.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "K F McCue",
+      "creationdate": "D:20120615040223Z",
+      "creator": "Microsoft Word",
+      "moddate": "D:20120619152818+10'00'",
+      "producer": "Mac OS X 10.6.8 Quartz PDFContext",
+      "title": "Historical earthquakes in NSW"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "February 28 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eFebruary 28\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/February_28",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "February 28 is the 59th day of the year in the Gregorian calendar. ... 1,100 people  ; 1997 ??? An earthquake in northern Iran is responsible for about 3,000 deaths. ....   Cooper, American physicist, Nobel laureate; 1930 ??? Bruce Dawe, Australian poet   ... 1996); 1957 ??? Ainsley Harriott, British celebrity chef; 1957 ??? John Turturro, ...",
+   "htmlSnippet": "\u003cb\u003eFebruary 28\u003c/b\u003e is the 59th day of the year in the Gregorian calendar. \u003cb\u003e...\u003c/b\u003e 1,100 people\u003cbr\u003e  ; 1997 ??? An \u003cb\u003eearthquake\u003c/b\u003e in northern Iran is responsible for about 3,000 deaths. \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Cooper, American physicist, Nobel laureate; 1930 ??? Bruce Dawe, \u003cb\u003eAustralian\u003c/b\u003e poet \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1996\u003c/b\u003e); 1957 ??? Ainsley Harriott, British celebrity chef; 1957 ??? John Turturro, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yudCgHi_YtkJ",
+   "formattedUrl": "en.wikipedia.org/wiki/February_28",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eFebruary\u003c/b\u003e_\u003cb\u003e28\u003c/b\u003e"
+  }
+ ]
+}

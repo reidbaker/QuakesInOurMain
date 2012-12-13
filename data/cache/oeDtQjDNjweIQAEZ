@@ -1,0 +1,271 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Aug 17 1875 Eurasia Earthquake",
+    "totalResults": "2420",
+    "searchTerms": "Aug 17 1875 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Aug 17 1875 Eurasia Earthquake",
+    "totalResults": "2420",
+    "searchTerms": "Aug 17 1875 Eurasia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.588283,
+  "formattedSearchTime": "0.59",
+  "totalResults": "2420",
+  "formattedTotalResults": "2,420"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 5.8 VIRGINIA Tuesday, August 23, 2011 at 17:51:04 UTC",
+   "htmlTitle": "Magnitude 5.8 VIRGINIA Tuesday, \u003cb\u003eAugust\u003c/b\u003e 23, 2011 at \u003cb\u003e17\u003c/b\u003e:51:04 UTC",
+   "link": "http://www.wvgs.wvnet.edu/www/earthquakes/info/23Aug2011virginiaQuake%20IRIS_Teachable%20Moments.ppt",
+   "displayLink": "www.wvgs.wvnet.edu",
+   "snippet": "Aug 23, 2011 ... The largest known damaging earthquake in this area occurred in 1875. The 1875   shock occurred before the invention of modern seismographs ...",
+   "htmlSnippet": "Aug 23, 2011 \u003cb\u003e...\u003c/b\u003e The largest known damaging \u003cb\u003eearthquake\u003c/b\u003e in this area occurred in \u003cb\u003e1875\u003c/b\u003e. The \u003cb\u003e1875\u003c/b\u003e \u003cbr\u003e  shock occurred before the invention of modern seismographs \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "oOTyK2UIBwIJ",
+   "mime": "application/vnd.ms-powerpoint",
+   "fileFormat": "Microsoft Powerpoint",
+   "formattedUrl": "www.wvgs.wvnet.edu/.../earthquakes/.../23Aug2011virginiaQuake%20IRIS_ Teachable%20Moments.ppt",
+   "htmlFormattedUrl": "www.wvgs.wvnet.edu/.../\u003cb\u003eearthquakes\u003c/b\u003e/.../23\u003cb\u003eAug\u003c/b\u003e2011virginia\u003cb\u003eQuake\u003c/b\u003e%20IRIS_ Teachable%20Moments.ppt"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "3 G 3 - PROBABILITY OF LARGE EARTHQUAKES IN ITALY - Ingv",
+   "htmlTitle": "3 G 3 - PROBABILITY OF LARGE \u003cb\u003eEARTHQUAKES\u003c/b\u003e IN ITALY - Ingv",
+   "link": "http://earthquake.bo.ingv.it/downloads/cinti.pdf",
+   "displayLink": "earthquake.bo.ingv.it",
+   "snippet": "Probability map of the next M !???? 5.5 earthquakes in Italy ... Europe. Received 4   March 2004; Revised 15 July 2004; Accepted 24 August 2004; Published 2   November 2004. ..... 1875/03/17 .... to the Eurasian plate; north???south   compression in ...",
+   "htmlSnippet": "Probability map of the next M !???? 5.5 \u003cb\u003eearthquakes\u003c/b\u003e in Italy \u003cb\u003e...\u003c/b\u003e Europe. Received 4 \u003cbr\u003e  March 2004; Revised 15 July 2004; Accepted 24 \u003cb\u003eAugust\u003c/b\u003e 2004; Published 2 \u003cbr\u003e  November 2004. \u003cb\u003e.....\u003c/b\u003e \u003cb\u003e1875\u003c/b\u003e/03/\u003cb\u003e17\u003c/b\u003e \u003cb\u003e....\u003c/b\u003e to the \u003cb\u003eEurasian\u003c/b\u003e plate; north???south \u003cbr\u003e  compression in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "pZj2mmYM1rEJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "earthquake.bo.ingv.it/downloads/cinti.pdf",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.bo.ingv.it/downloads/cinti.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20041022155908Z",
+      "producer": "Acrobat Distiller 4.05 for Windows",
+      "creator": "3B2 Total Publishing 6.06b/W",
+      "title": "gc000724 1..15",
+      "moddate": "D:20041028161559-04'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes in the Mediterranean and Middle East - Cambridge ...",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e in the Mediterranean and Middle East - Cambridge \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cambridge.org/aus/catalogue/catalogue.asp?isbn=9780521872928&ss=ind",
+   "displayLink": "www.cambridge.org",
+   "snippet": "Adad al Arab, AD 1157 August 12 earthquake 305, 307. Adalia, AD 1863 ....   Anatolia, northern, AD 1668 August 17 earthquake 512???515. Anatolia ... AD 1875   August 24 earthquake 740. AD 1884 ...... Eurasian Plate 815???816. Euripos castle ...",
+   "htmlSnippet": "Adad al Arab, AD 1157 \u003cb\u003eAugust\u003c/b\u003e 12 \u003cb\u003eearthquake\u003c/b\u003e 305, 307. Adalia, AD 1863 \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  Anatolia, northern, AD 1668 \u003cb\u003eAugust 17 earthquake\u003c/b\u003e 512???515. Anatolia \u003cb\u003e...\u003c/b\u003e AD \u003cb\u003e1875\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAugust\u003c/b\u003e 24 \u003cb\u003eearthquake\u003c/b\u003e 740. AD 1884 \u003cb\u003e......\u003c/b\u003e \u003cb\u003eEurasian\u003c/b\u003e Plate 815???816. Euripos castle \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HdRj0prZlgwJ",
+   "formattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "htmlFormattedUrl": "www.cambridge.org/aus/catalogue/catalogue.asp?isbn...ss=ind",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://assets.cambridge.org/97805218/72928/cover/9780521872928.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "144",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAtRqJO-E7_kw9vCbS5FJ2Dvhjl7ItgWbjFnhEz1wUXVrL2--HLaVzvWo"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "General Directorate Of Mineral Research And Exploration",
+   "htmlTitle": "General Directorate Of Mineral Research And Exploration",
+   "link": "http://www.mta.gov.tr/v2.0/bolgeler/malatya_eng/index.php?id=depremsellik",
+   "displayLink": "www.mta.gov.tr",
+   "snippet": "Earthquakes in Turkey killed at least 18.000 people and left hundreds of   thousands homeless ... Anatolian plate, which is cought by the major Eurasian,   Arabian and African plates, respectively. ... It was formed in the late Pliocene (~3   Ma) and has achieved a maximum offset 15-17 km. ... August 13, 1822 ... March   27, 1875 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e in Turkey killed at least 18.000 people and left hundreds of \u003cbr\u003e  thousands homeless \u003cb\u003e...\u003c/b\u003e Anatolian plate, which is cought by the major \u003cb\u003eEurasian\u003c/b\u003e, \u003cbr\u003e  Arabian and African plates, respectively. \u003cb\u003e...\u003c/b\u003e It was formed in the late Pliocene (~3 \u003cbr\u003e  Ma) and has achieved a maximum offset 15-\u003cb\u003e17\u003c/b\u003e km. \u003cb\u003e...\u003c/b\u003e \u003cb\u003eAugust\u003c/b\u003e 13, 1822 \u003cb\u003e...\u003c/b\u003e March \u003cbr\u003e  27, \u003cb\u003e1875\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "kw0azOv_HLwJ",
+   "formattedUrl": "www.mta.gov.tr/v2.0/bolgeler/malatya_eng/index.php?id...",
+   "htmlFormattedUrl": "www.mta.gov.tr/v2.0/bolgeler/malatya_eng/index.php?id...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.mta.gov.tr/v2.0/bolgeler/malatya_eng/images/depremsel.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "256",
+      "height": "197",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ1TflMR6vBb2cfXtcvl_gc6zAHOo7cnIUyABMkDHRPESNXFl0CPx0YjYk"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Yes, Virginia, it was an earthquake. : Wiley Geo Hot Topics",
+   "htmlTitle": "Yes, Virginia, it was an \u003cb\u003eearthquake\u003c/b\u003e. : Wiley Geo Hot Topics",
+   "link": "http://wileygeohottopics.com/2011/08/31/yes-virginia-it-was-an-earthquake/",
+   "displayLink": "wileygeohottopics.com",
+   "snippet": "August 31, 2011 Edited by Geo Hot Topics Editorial ... That is where the North   American Plate is moving apart from the Eurasian Plate (and, further to the south,   the ... bit father to the west, in 1875, and was likely a bit less powerful than the   2011 quake. ... September 2010 (11); August 2010 (17); July 2010 (13); June   2010 (3) ...",
+   "htmlSnippet": "\u003cb\u003eAugust\u003c/b\u003e 31, 2011 Edited by Geo Hot Topics Editorial \u003cb\u003e...\u003c/b\u003e That is where the North \u003cbr\u003e  American Plate is moving apart from the \u003cb\u003eEurasian\u003c/b\u003e Plate (and, further to the south, \u003cbr\u003e  the \u003cb\u003e...\u003c/b\u003e bit father to the west, in \u003cb\u003e1875\u003c/b\u003e, and was likely a bit less powerful than the \u003cbr\u003e  2011 \u003cb\u003equake\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e September 2010 (11); \u003cb\u003eAugust\u003c/b\u003e 2010 (\u003cb\u003e17\u003c/b\u003e); July 2010 (13); June \u003cbr\u003e  2010 (3) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "KET-dyrCo7AJ",
+   "formattedUrl": "wileygeohottopics.com/2011/08/.../yes-virginia-it-was-an-earthquake/",
+   "htmlFormattedUrl": "wileygeohottopics.com/2011/08/.../yes-virginia-it-was-an-\u003cb\u003eearthquake\u003c/b\u003e/",
+   "pagemap": {
+    "metatags": [
+     {
+      "distribution": "global",
+      "language": "en"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 16 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "September 16 - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_16",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "... Union invade Iran in late August and force the Shah to abdicate in favor of his   son, ... 1978 ??? An earthquake measuring 7.5 to 7.9 on the Richter scale hits the   city of ... at Dostyk, adding a sizable link to the concept of the Eurasian Land   Bridge. ... for Blackwater Worldwide allegedly shoot and kill 17 Iraqis in Nisour   Square, ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e Union invade Iran in late \u003cb\u003eAugust\u003c/b\u003e and force the Shah to abdicate in favor of his \u003cbr\u003e  son, \u003cb\u003e...\u003c/b\u003e 1978 ??? An \u003cb\u003eearthquake\u003c/b\u003e measuring 7.5 to 7.9 on the Richter scale hits the \u003cbr\u003e  city of \u003cb\u003e...\u003c/b\u003e at Dostyk, adding a sizable link to the concept of the \u003cb\u003eEurasian\u003c/b\u003e Land \u003cbr\u003e  Bridge. \u003cb\u003e...\u003c/b\u003e for Blackwater Worldwide allegedly shoot and kill \u003cb\u003e17\u003c/b\u003e Iraqis in Nisour \u003cbr\u003e  Square, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "b6sbw9ZLvMIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_16",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSep\u003c/b\u003etember_16"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Tsunamis in Indonesia -Indonesian Tsunami Disaster-",
+   "htmlTitle": "Tsunamis in Indonesia -Indonesian Tsunami Disaster-",
+   "link": "http://www.drs.dpri.kyoto-u.ac.jp/eqtap/report/indonesia/tsunamis_in_indonesia/tsunamis_in_indonesia.htm",
+   "displayLink": "www.drs.dpri.kyoto-u.ac.jp",
+   "snippet": "Indonesian have numerous and severe occurrences of earthquake and tsunami   ... Relative to Eurasian plate, the Indian-Australian plate is moving ... Utsu (1992)   have been tabulated destructive earthquakes in the world during the period from   1500 to August 1992 in ... 1674 02 17 ..... 1812, 1856, 1875, 1885, ?, 1892, 1893, ...",
+   "htmlSnippet": "Indonesian have numerous and severe occurrences of \u003cb\u003eearthquake\u003c/b\u003e and tsunami \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e Relative to \u003cb\u003eEurasian\u003c/b\u003e plate, the Indian-Australian plate is moving \u003cb\u003e...\u003c/b\u003e Utsu (1992) \u003cbr\u003e  have been tabulated destructive \u003cb\u003eearthquakes\u003c/b\u003e in the world during the period from \u003cbr\u003e  1500 to \u003cb\u003eAugust\u003c/b\u003e 1992 in \u003cb\u003e...\u003c/b\u003e 1674 02 \u003cb\u003e17\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e 1812, 1856, \u003cb\u003e1875\u003c/b\u003e, 1885, ?, 1892, 1893, \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gzQ2Un8h_rMJ",
+   "formattedUrl": "www.drs.dpri.kyoto-u.ac.jp/eqtap/.../tsunamis_in_indonesia.htm",
+   "htmlFormattedUrl": "www.drs.dpri.kyoto-u.ac.jp/eqtap/.../tsunamis_in_indonesia.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.drs.dpri.kyoto-u.ac.jp/eqtap/report/indonesia/tsunamis_in_indonesia/images/fig1.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "288",
+      "height": "175",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs_-2nx-lg4NB2iSBy4gwJ8B_3Ovo39zU9dQJcxKODYlInLP-poc80xbY"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Far-field tsunami hazard from mega-thrust earthquakes in the Indian ...",
+   "htmlTitle": "Far-field tsunami hazard from mega-thrust \u003cb\u003eearthquakes\u003c/b\u003e in the Indian \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.earth.northwestern.edu/people/emile/PDF/EAO195.pdf",
+   "displayLink": "www.earth.northwestern.edu",
+   "snippet": "tions of ten case studies of possible mega earthquakes at the major seismic   zones surrounding the basin. .... partially, the smaller event on 2007 August 15 (  both rupturing southwards). ..... spect to the Burma sliver at 17???N; 95???E, with a rate   of 2.17??? Myr???1. .... no tsunami reports following the 1875 earthquake, which   probably ...",
+   "htmlSnippet": "tions of ten case studies of possible mega \u003cb\u003eearthquakes\u003c/b\u003e at the major \u003cb\u003eseismic\u003c/b\u003e \u003cbr\u003e  zones surrounding the basin. \u003cb\u003e....\u003c/b\u003e partially, the smaller event on 2007 \u003cb\u003eAugust\u003c/b\u003e 15 (\u003cbr\u003e  both rupturing southwards). \u003cb\u003e.....\u003c/b\u003e spect to the Burma sliver at \u003cb\u003e17\u003c/b\u003e???N; 95???E, with a rate \u003cbr\u003e  of 2.17??? Myr???1. \u003cb\u003e....\u003c/b\u003e no tsunami reports following the \u003cb\u003e1875 earthquake\u003c/b\u003e, which \u003cbr\u003e  probably \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "DTDT-wr0KDQJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.northwestern.edu/people/emile/PDF/EAO195.pdf",
+   "htmlFormattedUrl": "www.earth.northwestern.edu/people/emile/PDF/EAO195.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20080123115456+05'30'",
+      "producer": "Acrobat Distiller 7.0.5 for Macintosh",
+      "moddate": "D:20050204164627+05'30'",
+      "title": "untitled"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Full Text (PDF)",
+   "htmlTitle": "Full Text (PDF)",
+   "link": "http://www.agu.org/journals/tc/v007/i003/TC007i003p00663/TC007i003p00663.pdf",
+   "displayLink": "www.agu.org",
+   "snippet": "ITS INFLUENCE ON EARTHQUAKE ACTIVITY. A_ A. Barka .... to Eurasia causes   lateral escape of the. Anatolian .... The August 17, 1949 Ms = 6.7-7.0 .... basin. It   is separated from FS 17 by a 14 ?? ..... surrounding this segment (1789 and 1875; ...",
+   "htmlSnippet": "ITS INFLUENCE ON \u003cb\u003eEARTHQUAKE\u003c/b\u003e ACTIVITY. A_ A. Barka \u003cb\u003e....\u003c/b\u003e to \u003cb\u003eEurasia\u003c/b\u003e causes \u003cbr\u003e  lateral escape of the. Anatolian \u003cb\u003e....\u003c/b\u003e The \u003cb\u003eAugust 17\u003c/b\u003e, 1949 Ms = 6.7-7.0 \u003cb\u003e....\u003c/b\u003e basin. It \u003cbr\u003e  is separated from FS \u003cb\u003e17\u003c/b\u003e by a 14 ?? \u003cb\u003e.....\u003c/b\u003e surrounding this segment (1789 and \u003cb\u003e1875\u003c/b\u003e; \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.agu.org/journals/tc/v007/i003/.../TC007i003p00663.pdf",
+   "htmlFormattedUrl": "www.agu.org/journals/tc/v007/i003/.../TC007i003p00663.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creator": "www.PrincetonImaging.com",
+      "creationdate": "20070622154147",
+      "producer": "escape 1.1",
+      "title": "STRIKE&hyphen;SLIP FAULT GEOMETRY IN TURKEY AND ITS INFLUENCE ON EARTHQUAKE ACTIVITY",
+      "author": "A. A. Barka , K. Kadinsky&hyphen;Cade",
+      "moddate": "D:20070622225553"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Seismic signature of the collision between the east Tibetan escape ...",
+   "htmlTitle": "\u003cb\u003eSeismic\u003c/b\u003e signature of the collision between the east Tibetan escape \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.cas.cn/ky/kyjz/201005/W020100520586932944646.pdf",
+   "displayLink": "www.cas.cn",
+   "snippet": "Eurasian tectonic plates that has been taking place over approximately the last   45 million ... plateau between August 2006 and July 2007. This data set has .....   Nature 307, 17???22. Armijo, R. ... (1875). doi:10.1029/2001GL014429. Chen, S.F. ...",
+   "htmlSnippet": "\u003cb\u003eEurasian\u003c/b\u003e tectonic plates that has been taking place over approximately the last \u003cbr\u003e  45 million \u003cb\u003e...\u003c/b\u003e plateau between \u003cb\u003eAugust\u003c/b\u003e 2006 and July 2007. This data set has \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  Nature 307, \u003cb\u003e17\u003c/b\u003e???22. Armijo, R. \u003cb\u003e...\u003c/b\u003e (\u003cb\u003e1875\u003c/b\u003e). doi:10.1029/2001GL014429. Chen, S.F. \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "ayt33Hzue3YJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.cas.cn/ky/kyjz/201005/W020100520586932944646.pdf",
+   "htmlFormattedUrl": "www.cas.cn/ky/kyjz/201005/W020100520586932944646.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20100312041236+08'00'",
+      "author": "Zhongjie Zhang; Xiaohui Yuan; Yun Chen; Xiaobo Tian; Rainer Kind; Xueqing Li; Jiwen Teng",
+      "creator": "Elsevier",
+      "authoritativedomain_1_": "elsevier.com",
+      "authoritativedomain_2_": "sciencedirect.com",
+      "moddate": "D:20100312052149+08'00'",
+      "title": "Seismic signature of the collision between the east Tibetan escape flow and the Sichuan Basin"
+     }
+    ]
+   }
+  }
+ ]
+}

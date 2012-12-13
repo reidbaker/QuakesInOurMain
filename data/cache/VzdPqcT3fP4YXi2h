@@ -1,0 +1,326 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 6 1963 Asia Earthquake",
+    "totalResults": "120000",
+    "searchTerms": "Sep 6 1963 Asia Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 6 1963 Asia Earthquake",
+    "totalResults": "120000",
+    "searchTerms": "Sep 6 1963 Asia Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.230993,
+  "formattedSearchTime": "0.23",
+  "totalResults": "120000",
+  "formattedTotalResults": "120,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 6 1963 Asia Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 6 1963 Asia Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "2 Massive earthquakes out of the Sumatra coast, Indonesia ??? 10 ...",
+   "htmlTitle": "2 Massive \u003cb\u003eearthquakes\u003c/b\u003e out of the Sumatra coast, Indonesia ??? 10 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/04/11/massive-extremely-dangerous-earthquake-500-km-from-the-sumatra-coast-indonesia/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Apr 23, 2012 ... Today's 2 earthquakes of Mw8.6 and Mw8.2 are among the Top 13 ... Mw8.5 ???   October 13, 1963 ??? Kuril Islands (v. minor damage) Mw8.2 ??? November 10, 1938   ??? Alaska Mw8.0 ??? September 20, 1920 ??? Loyalty Islands Region ..... earthquakes   in European and Asian / Middle East sphere (4 and up) and a lot ...",
+   "htmlSnippet": "Apr 23, 2012 \u003cb\u003e...\u003c/b\u003e Today&#39;s 2 \u003cb\u003eearthquakes\u003c/b\u003e of Mw8.\u003cb\u003e6\u003c/b\u003e and Mw8.2 are among the Top 13 \u003cb\u003e...\u003c/b\u003e Mw8.5 ??? \u003cbr\u003e  October 13, \u003cb\u003e1963\u003c/b\u003e ??? Kuril Islands (v. minor damage) Mw8.2 ??? November 10, 1938 \u003cbr\u003e  ??? Alaska Mw8.0 ??? \u003cb\u003eSeptember\u003c/b\u003e 20, 1920 ??? Loyalty Islands Region \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e \u003cbr\u003e  in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a lot \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "EMZqZE5S2YcJ",
+   "formattedUrl": "earthquake-report.com/.../massive-extremely-dangerous-earthquake-500-km- from-the-sumatra-coast-indonesia/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-extremely-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-500-km- from-the-sumatra-coast-indonesia/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/04/id-11042012-6.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "278",
+      "height": "181",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXTY_kP2906LRB7dQKkPAvsGaM1DkMXasixRiZre2NFiiO_i4kqiyYsTSy"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Alex",
+      "nickname": "Alex"
+     },
+     {
+      "fn": "Choco",
+      "nickname": "Choco"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1963 Skopje earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003e1963\u003c/b\u003e Skopje \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1963_Skopje_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "3,000???4,000 injured; 200,000 left homeless; 75???80% of city destroyed. The 1963   Skopje earthquake (Macedonian: ?????????????? ?????????????????? 1963, transliterated ...",
+   "htmlSnippet": "3,000???4,000 injured; 200,000 left homeless; 75???80% of city destroyed. The \u003cb\u003e1963\u003c/b\u003e \u003cbr\u003e  Skopje \u003cb\u003eearthquake\u003c/b\u003e (Macedonian: ?????????????? ?????????????????? \u003cb\u003e1963\u003c/b\u003e, transliterated \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uRoB--Mr_FIJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1963_Skopje_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003e1963\u003c/b\u003e_Skopje_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/1963_Skopje_earthquake.png/240px-1963_Skopje_earthquake.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "192",
+      "height": "207",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCznhYb0MU1JmcGtfKcC9slDuCL20d6M0XRrpbQvHHx_NkF0Z7G2tQKLig"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive but deep earthquake below Eastern Papua New Guinea ...",
+   "htmlTitle": "Massive but deep \u003cb\u003eearthquake\u003c/b\u003e below Eastern Papua New Guinea \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/12/14/massive-but-deep-earthquake-below-eastern-papua-new-guinea/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Dec 15, 2011 ... Earthquake overview :A strong but very deep earthquake happened at 03:04 ...   On 26th, February 1963, a M7.3 earthquake, 171km depth struck at -7.5, .... to   earthquakes in European and Asian / Middle East sphere (4 and up) and a lot of   the rest of the world (5 and up). ... Magnitude 6 or more earthquakes ...",
+   "htmlSnippet": "Dec 15, 2011 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview :A strong but very deep \u003cb\u003eearthquake\u003c/b\u003e happened at 03:04 \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  On 26th, February \u003cb\u003e1963\u003c/b\u003e, a M7.3 \u003cb\u003eearthquake\u003c/b\u003e, 171km depth struck at -7.5, \u003cb\u003e....\u003c/b\u003e to \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a lot of \u003cbr\u003e  the rest of the world (5 and up). \u003cb\u003e...\u003c/b\u003e Magnitude \u003cb\u003e6\u003c/b\u003e or more \u003cb\u003eearthquakes\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "WtLLwJjACMMJ",
+   "formattedUrl": "earthquake-report.com/.../massive-but-deep-earthquake-below-eastern-papua -new-guinea/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../massive-but-deep-\u003cb\u003eearthquake\u003c/b\u003e-below-eastern-papua -new-guinea/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/12/png-14122011-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "267",
+      "height": "189",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSM9-3VUrYgBcQyWdqlN9fQB310kiutS1AcAhno-Eln7DUt0y0b9OhKHyf9"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Listed below are all known earthquakes measured or estimated to have a   moment ... 01615-09-16September 16, 1615, Arica, Chile (then part of the   Spanish Empire) ... 01963-10-13October 13, 1963, Kuril Islands, Russia (USSR),   1963 Kuril Islands earthquake, 8.5 .... 1, 2011 T??hoku earthquake, Japan, 9.0,   $122 billion ...",
+   "htmlSnippet": "Listed below are all known \u003cb\u003eearthquakes\u003c/b\u003e measured or estimated to have a \u003cbr\u003e  moment \u003cb\u003e...\u003c/b\u003e 01615-09-16\u003cb\u003eSeptember\u003c/b\u003e 16, 1615, Arica, Chile (then part of the \u003cbr\u003e  Spanish Empire) \u003cb\u003e...\u003c/b\u003e 01963-10-13October 13, \u003cb\u003e1963\u003c/b\u003e, Kuril Islands, Russia (USSR), \u003cbr\u003e  \u003cb\u003e1963\u003c/b\u003e Kuril Islands \u003cb\u003eearthquake\u003c/b\u003e, 8.5 \u003cb\u003e....\u003c/b\u003e 1, 2011 T??hoku \u003cb\u003eearthquake\u003c/b\u003e, Japan, 9.0, \u003cbr\u003e  $122 billion \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Killer earthquakes in India",
+   "htmlTitle": "Killer \u003cb\u003eearthquakes\u003c/b\u003e in India",
+   "link": "http://earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Jan 27, 2011 ... This ???India deadly earthquake list??? has been compiled out of our ... This is the   largest in a series of earthquakes that began in 1963, .... to earthquakes in   European and Asian / Middle East sphere (4 and up) and a ... Seismologists in   Italy receive 6-year sentences ??? Outrageous, Disappointing and Immoral!",
+   "htmlSnippet": "Jan 27, 2011 \u003cb\u003e...\u003c/b\u003e This ???India deadly \u003cb\u003eearthquake\u003c/b\u003e list??? has been compiled out of our \u003cb\u003e...\u003c/b\u003e This is the \u003cbr\u003e  largest in a series of \u003cb\u003eearthquakes\u003c/b\u003e that began in \u003cb\u003e1963\u003c/b\u003e, \u003cb\u003e....\u003c/b\u003e to \u003cb\u003eearthquakes\u003c/b\u003e in \u003cbr\u003e  European and \u003cb\u003eAsian\u003c/b\u003e / Middle East sphere (4 and up) and a \u003cb\u003e...\u003c/b\u003e Seismologists in \u003cbr\u003e  Italy receive \u003cb\u003e6\u003c/b\u003e-year sentences ??? Outrageous, Disappointing and Immoral!",
+   "cacheId": "KM93j4LtZmAJ",
+   "formattedUrl": "earthquake-report.com/2011/01/26/killer-earthquakes-in-india/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2011/01/26/killer-\u003cb\u003eearthquakes\u003c/b\u003e-in-india/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i220.photobucket.com/albums/dd17/Karnamrita/india_flag.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "171",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ8fGJrc2rhS5GcDz6uHB_xMNqSfMLZn7eooXzjN8D3p1hLKbtXjcHdhkz"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "nikhil",
+      "nickname": "nikhil",
+      "url": "http://google/",
+      "url_text": "nikhil"
+     },
+     {
+      "fn": "Ana Paula Correia and Jos???? Ribeiro (Portugal)"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://earthquake-report.com/",
+      "url_text": "James Daniell"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Historical \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Historical_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Destroyed 13 cities in Asia (minor), Described by the historians Tacitus and Pliny   the Elder ... 5???6, Brought down a large part of Pompeii, caused severe damage in   .... September 20, 1498, 08:00 local time, Honshu ...... 1845 1947-1963.",
+   "htmlSnippet": "Destroyed 13 cities in \u003cb\u003eAsia\u003c/b\u003e (minor), Described by the historians Tacitus and Pliny \u003cbr\u003e  the Elder \u003cb\u003e...\u003c/b\u003e 5???\u003cb\u003e6\u003c/b\u003e, Brought down a large part of Pompeii, caused severe damage in \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e 20, 1498, 08:00 local time, Honshu \u003cb\u003e......\u003c/b\u003e 1845 1947-\u003cb\u003e1963\u003c/b\u003e.",
+   "cacheId": "JPIist7Pm4kJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Historical_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Historical_\u003cb\u003eearthquakes\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "BBC News - History of deadly earthquakes",
+   "htmlTitle": "BBC News - History of deadly \u003cb\u003eearthquakes\u003c/b\u003e",
+   "link": "http://www.bbc.co.uk/news/world-12717980",
+   "displayLink": "www.bbc.co.uk",
+   "snippet": "Aug 12, 2012 ... 30 September 2009 ... 6 April 2009 ... Hundreds of thousands are killed across   Asia when an earthquake measuring 9.2 triggers ... 26 July 1963 ...",
+   "htmlSnippet": "Aug 12, 2012 \u003cb\u003e...\u003c/b\u003e 30 \u003cb\u003eSeptember\u003c/b\u003e 2009 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e6\u003c/b\u003e April 2009 \u003cb\u003e...\u003c/b\u003e Hundreds of thousands are killed across \u003cbr\u003e  \u003cb\u003eAsia\u003c/b\u003e when an \u003cb\u003eearthquake\u003c/b\u003e measuring 9.2 triggers \u003cb\u003e...\u003c/b\u003e 26 July \u003cb\u003e1963\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "W-F3PJvJQ9MJ",
+   "formattedUrl": "www.bbc.co.uk/news/world-12717980",
+   "htmlFormattedUrl": "www.bbc.co.uk/news/world-12717980",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://news.bbcimg.co.uk/media/images/51636000/jpg/_51636099_38868107.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "115",
+      "height": "64",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcToREmdmYjBBZNKyEVQVcPzA1IJq4xLC6fF4AuI81wl_7LeGQN4GMWyew"
+     }
+    ],
+    "metatags": [
+     {
+      "originalpublicationdate": "2012/08/12 07:34:06",
+      "ukfs_url": "/news/world-12717980",
+      "thumbnail_url": "http://news.bbcimg.co.uk/media/images/51642000/jpg/_51642631_011403924-1.jpg",
+      "headline": "History of deadly earthquakes",
+      "ifs_url": "/news/world-12717980",
+      "section": "World",
+      "contentflavor": "STORY",
+      "cps_id": "12717980",
+      "cps_site_name": "BBC News",
+      "cps_section_path": "World",
+      "cps_asset_type": "STY",
+      "cps_platform": "HighWeb",
+      "cps_audience": "US",
+      "og:title": "History of deadly earthquakes",
+      "og:type": "article",
+      "og:url": "http://www.bbc.co.uk/news/world-12717980",
+      "og:site_name": "BBC News",
+      "og:image": "http://news.bbcimg.co.uk/media/images/51636000/jpg/_51636099_38868107.jpg",
+      "bbcsearch_noindex": "atom",
+      "application-name": "BBC News",
+      "msapplication-tileimage": "/img/1_0_2/cream/hi/news/bbc-news-pin.png",
+      "msapplication-tilecolor": "#CC0101",
+      "viewport": "width = 996",
+      "msapplication-tooltip": "Explore the BBC, for latest news, sport and weather, TV & radio schedules and highlights, with nature, food, comedy, children's programmes and much more",
+      "msapplication-starturl": "http://www.bbc.com/news/?ocid=global-news-pinned-ie9",
+      "msapplication-window": "width=1024;height=768",
+      "msapplication-task": "name=BBC Home;action-uri=http://www.bbc.com/?ocid=global-homepage-pinned-ie9;icon-uri=http://news.bbcimg.co.uk/shared/img/bbccom/favicon_16.ico"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic World Earthquakes",
+   "htmlTitle": "Historic World \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? Asia Minor ??? Atlantic ....   2005 12 05 - Lake Tanganyika Region, Congo-Tanzania - M 6.8 Fatalities 6 .....   1958 11 06 - Kuril Islands - M 8.3; 1963 10 13 - Kuril Islands - M 8.5 ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Afghanistan ??? Albania ??? Algeria ??? Argentina ??? Armenia ??? \u003cb\u003eAsia\u003c/b\u003e Minor ??? Atlantic \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  2005 12 05 - Lake Tanganyika Region, Congo-Tanzania - M 6.8 Fatalities \u003cb\u003e6\u003c/b\u003e \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  1958 11 06 - Kuril Islands - M 8.3; \u003cb\u003e1963\u003c/b\u003e 10 13 - Kuril Islands - M 8.5 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "qVFAFG9fS7oJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/historical_country.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/historical_country.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKES: WHAT NEEDS TO BE DONE IN ASIA",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKES\u003c/b\u003e: WHAT NEEDS TO BE DONE IN \u003cb\u003eASIA\u003c/b\u003e",
+   "link": "http://www.scj.go.jp/en/sca/activities/conferences/conf_8_projects/pdf/n2.pdf",
+   "displayLink": "www.scj.go.jp",
+   "snippet": "Asia is seismically one of the most. Earthquake prone regions in the world. The   recent earthquake of 12th May 2008 in China, ... 6. TOTALLY OPERATIONAL &   TESTED IN SEPTEMBER. 2007 ... KARIBA (ZAMBIA-ZIMBABWE 1963,6.2 ...",
+   "htmlSnippet": "\u003cb\u003eAsia\u003c/b\u003e is seismically one of the most. \u003cb\u003eEarthquake\u003c/b\u003e prone regions in the world. The \u003cbr\u003e  recent \u003cb\u003eearthquake\u003c/b\u003e of 12th May 2008 in China, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e6\u003c/b\u003e. TOTALLY OPERATIONAL &amp; \u003cbr\u003e  TESTED IN \u003cb\u003eSEPTEMBER\u003c/b\u003e. 2007 \u003cb\u003e...\u003c/b\u003e KARIBA (ZAMBIA-ZIMBABWE \u003cb\u003e1963\u003c/b\u003e,6.2 \u003cb\u003e...\u003c/b\u003e",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.scj.go.jp/en/sca/activities/conferences/conf_8_projects/pdf/n2.pdf",
+   "htmlFormattedUrl": "www.scj.go.jp/en/sca/activities/conferences/conf_8_projects/pdf/n2.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "company": "NGRI",
+      "creationdate": "D:20080603091232+09'00'",
+      "creator": "PowerPoint ??? Acrobat PDFMaker 8.1",
+      "moddate": "D:20110421204712+09'00'",
+      "producer": "Acrobat Distiller 8.1.0 (Windows)"
+     }
+    ]
+   }
+  }
+ ]
+}

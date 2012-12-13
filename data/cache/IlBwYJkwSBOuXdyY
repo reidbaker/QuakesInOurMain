@@ -1,0 +1,413 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Sep 4 1974 North America Earthquake",
+    "totalResults": "380000",
+    "searchTerms": "Sep 4 1974 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Sep 4 1974 North America Earthquake",
+    "totalResults": "380000",
+    "searchTerms": "Sep 4 1974 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.24735,
+  "formattedSearchTime": "0.25",
+  "totalResults": "380000",
+  "formattedTotalResults": "380,000"
+ },
+ "spelling": {
+  "correctedQuery": "Sept 4 1974 North America Earthquake",
+  "htmlCorrectedQuery": "\u003cb\u003e\u003ci\u003eSept\u003c/i\u003e\u003c/b\u003e 4 1974 North America Earthquake"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed .... The Pacific Plate is   moving northwest with respect to the North American Plate at approximately 56   ...... at 10,000, but a news release on 9 Dec 1988 advised that the correct death   toll was 110,000. ... Peru, 1974 ??? Magnitude : 7.6 ??? 78 people killed ...",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-Africa, 1976 - Magnitude : 5.2 ??? \u003cb\u003e4\u003c/b\u003e people killed \u003cb\u003e....\u003c/b\u003e The Pacific Plate is \u003cbr\u003e  moving northwest with respect to the \u003cb\u003eNorth American\u003c/b\u003e Plate at approximately 56 \u003cbr\u003e  \u003cb\u003e......\u003c/b\u003e at 10,000, but a news release on 9 \u003cb\u003eDec\u003c/b\u003e 1988 advised that the correct death \u003cbr\u003e  toll was 110,000. \u003cb\u003e...\u003c/b\u003e Peru, \u003cb\u003e1974\u003c/b\u003e ??? Magnitude : 7.6 ??? 78 people killed \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Tripoli, Libya, Earthquake of September 4, 1974: Implications for ...",
+   "htmlTitle": "The Tripoli, Libya, \u003cb\u003eEarthquake\u003c/b\u003e of \u003cb\u003eSeptember 4, 1974\u003c/b\u003e: Implications for \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.agu.org/pubs/crossref/1990/TC009i002p00231.shtml",
+   "displayLink": "www.agu.org",
+   "snippet": "... Information Related to Geographic Region: Large bodies of water (e.g., lakes   and inland seas); Seismology: Earthquake parameters; Tectonophysics: Plate ...",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e Information Related to Geographic Region: Large bodies of water (e.g., lakes \u003cbr\u003e  and inland seas); Seismology: \u003cb\u003eEarthquake\u003c/b\u003e parameters; Tectonophysics: Plate \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.agu.org/pubs/crossref/1990/TC009i002p00231.shtml",
+   "htmlFormattedUrl": "www.agu.org/pubs/crossref/1990/TC009i002p00231.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "dc.publisher": "American Geophysical Union",
+      "dc.language": "en",
+      "dc.rights": "?? 2008 American Geophysical Union",
+      "dc.title": "The Tripoli, Libya, Earthquake of September 4, 1974: Implications for the active tectonics of the central Mediterranean",
+      "dc.creator": "Rob Westaway",
+      "dc.identifier": "doi:10.1029/TC009i002p00231",
+      "dc.source": "Citation: Westaway, R. (1990), The Tripoli, Libya, Earthquake of September 4, 1974: Implications for the active tectonics of the central Mediterranean, Tectonics, 9(2), 231???248, doi:10.1029/TC009i002p00231.",
+      "dc.date": "NaN",
+      "prism.copyright": "?? 2008 American Geophysical Union",
+      "prism.rightsagent": "author.help@agu.org",
+      "prism.publicationname": "Tectonics",
+      "prism.issn": "0278-7407",
+      "prism.eissn": "0278-7407",
+      "prism.publicationdate": "NaN",
+      "prism.volume": "9",
+      "prism.number": "2",
+      "prism.startingpage": "null",
+      "citation_journal_title": "Tectonics",
+      "citation_publisher": "American Geophysical Union",
+      "citation_authors": "Rob Westaway",
+      "citation_title": "The Tripoli, Libya, Earthquake of September 4, 1974: Implications for the active tectonics of the central Mediterranean",
+      "citation_date": "NaN",
+      "citation_year": "1990",
+      "citation_volume": "9",
+      "citation_issue": "2",
+      "citation_firstpage": "231",
+      "citation_lastpage": "248",
+      "citation_issn": "0278-7407",
+      "citation_language": "English",
+      "citation_doi": "doi:10.1029/TC009i002p00231",
+      "citation_abstract": "Source parameters have been determined for the earthquake (Ms 5.6) that occurred offshore of Tripoli, Libya, on September 4, 1974. One nodal plane of its focal mechanism has dip 37??, strike 297??, and rake ???141??, indicating oblique normal faulting. This nodal plane is subparallel to many west-northwest striking normal faults in the epicentral area and is most likely the fault plane, indicating a component of right-lateral strike-slip with slip vector azimuth N84??E. Inversion of long-period teleseismic body waves indicates 12-km centroid depth and 0.4 ?? 1018 N m seismic moment. A much larger earthquake (Ms 7.0) on April 19, 1935, that occurred in the same zone of active oblique normal faults ???400 km farther southeast near Sirte probably involved similar slip sense. This zone, for which the name ???Tunisia-Libya seismic zone??? appears appropriate, has overall northwest-southeast extent ???1000 km from northern Libya to between Tunisia and Sicily. It takes up a change in motion direction relative to sta",
+      "citation_pdf_url": "http://www.agu.org/journals/tc/v009/i002/TC009i002p00231/TC009i002p00231.pdf",
+      "citation_abstract_html_url": "http://www.agu.org/pubs/crossref/1990/TC009i002p00231.shtml",
+      "fulltext_pdf": "http://www.agu.org/journals/tc/v009/i002/TC009i002p00231/TC009i002p00231.pdf",
+      "indexterm": "7230 Seismology: Seismicity"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Massive damaging earthquake Costa Rica ??? overview update + ...",
+   "htmlTitle": "Massive damaging \u003cb\u003eearthquake\u003c/b\u003e Costa Rica ??? overview update + \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/09/05/massive-quake-hits-costa-rica/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: September 10, 2012 at 10:22 pm by By Armand Vervaeck and   James Daniell ... The second is clocked by the collapsed steel bridge n Alajuela.   ... in Costa Rica, which must meet strict seismic code since 1974. ..... emphasis to   earthquakes in the America's and the Pacific Ocean sphere (4 and up) and a lot   of the ...",
+   "htmlSnippet": "Last update: \u003cb\u003eSeptember\u003c/b\u003e 10, 2012 at 10:22 pm by By Armand Vervaeck and \u003cbr\u003e  James Daniell \u003cb\u003e...\u003c/b\u003e The second is clocked by the collapsed steel bridge \u003cb\u003en\u003c/b\u003e Alajuela. \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e in Costa Rica, which must meet strict \u003cb\u003eseismic\u003c/b\u003e code since \u003cb\u003e1974\u003c/b\u003e. \u003cb\u003e.....\u003c/b\u003e emphasis to \u003cbr\u003e  \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the Pacific Ocean sphere (\u003cb\u003e4\u003c/b\u003e and up) and a lot \u003cbr\u003e  of the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "vfryILIRABAJ",
+   "formattedUrl": "earthquake-report.com/2012/09/05/massive-quake-hits-costa-rica/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/09/05/massive-\u003cb\u003equake\u003c/b\u003e-hits-costa-rica/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-10-at-18.49.43.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSa44Wd4uXzGQoeyj5N3E0XjXzrePQ7u06jgFSB3g6vDiWfSeYxa0B0LOrq"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Damnstorm",
+      "nickname": "Damnstorm"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Carlos",
+      "nickname": "Carlos"
+     },
+     {
+      "fn": "inge",
+      "nickname": "inge"
+     },
+     {
+      "fn": "inge",
+      "nickname": "inge"
+     },
+     {
+      "fn": "joan",
+      "nickname": "joan"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US8223587 - Full wavefield inversion using time varying ...",
+   "htmlTitle": "Patent US8223587 - Full wavefield inversion using time varying \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.google.com/patents/US8223587",
+   "displayLink": "www.google.com",
+   "snippet": "US3812457, Nov 17, 1969, 1974, SEISMIC EXPLORATION METHOD ...   US4953657, Feb 14, 1989, Sep 4, 1990, Halliburton Geophysical Services, Inc.   Time .... US7725266, May 31, 2007, May 25, 2010, BP Corporation North   America Inc.",
+   "htmlSnippet": "US3812457, Nov 17, 1969, \u003cb\u003e1974\u003c/b\u003e, \u003cb\u003eSEISMIC\u003c/b\u003e EXPLORATION METHOD \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  US4953657, Feb 14, 1989, \u003cb\u003eSep 4\u003c/b\u003e, 1990, Halliburton Geophysical Services, Inc. \u003cbr\u003e  Time \u003cb\u003e....\u003c/b\u003e US7725266, May 31, 2007, May 25, 2010, BP Corporation \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e Inc.",
+   "formattedUrl": "www.google.com/patents/US8223587",
+   "htmlFormattedUrl": "www.google.com/patents/US8223587",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "132",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkjdi8izpZkEBLaHQKIPHGjQBQr6RhqZxYV0Nax9YpHsS1tkE-h-WAIw"
+     }
+    ],
+    "book": [
+     {
+      "description": "An improved method for reducing the accuracy requirements on the starting model when performing multi-scale inversion of seismic data (65) by local objective function optimization (64). The...",
+      "url": "http://www.google.com/patents/US8223587?utm_source=gb-gplus-share",
+      "name": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US8223587",
+      "title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:title": "Patent US8223587 - Full wavefield inversion using time varying filters",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=MOsfAgAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Deadly earthquake(s) Yunnan, China ??? Heaviest rains in recent ...",
+   "htmlTitle": "Deadly \u003cb\u003eearthquake\u003c/b\u003e(s) Yunnan, China ??? Heaviest rains in recent \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2012/09/07/deaths-and-destruction-in-m5-6-shallow-quake-in-china/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Last update: October 4, 2012 at 9:10 am by By Armand Vervaeck and James   Daniell ..... to earthquakes in the America's and the Pacific Ocean sphere (4 and   .... to the north of the September 7th events in May 1974, caused over 1500   fatalities.",
+   "htmlSnippet": "Last update: October \u003cb\u003e4\u003c/b\u003e, 2012 at 9:10 am by By Armand Vervaeck and James \u003cbr\u003e  Daniell \u003cb\u003e.....\u003c/b\u003e to \u003cb\u003eearthquakes\u003c/b\u003e in the \u003cb\u003eAmerica&#39;s\u003c/b\u003e and the Pacific Ocean sphere (\u003cb\u003e4\u003c/b\u003e and \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e to the \u003cb\u003enorth\u003c/b\u003e of the \u003cb\u003eSeptember\u003c/b\u003e 7th events in May \u003cb\u003e1974\u003c/b\u003e, caused over 1500 \u003cbr\u003e  fatalities.",
+   "cacheId": "XNeIPyrMB6QJ",
+   "formattedUrl": "earthquake-report.com/.../deaths-and-destruction-in-m5-6-shallow-quake-in- china/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../deaths-and-destruction-in-m5-6-shallow-\u003cb\u003equake\u003c/b\u003e-in- china/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-11-at-11.22.07.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "276",
+      "height": "182",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIRdudr_HKwd85kMRwZXK8ySwyoV-MucMcj4WOxuo2yvlCeoukBqYgoyI"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Engr.Sikandar Hayat Siddiqi"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Patent US5992094 - Access control vestibule - Google Patents",
+   "htmlTitle": "Patent US5992094 - Access control vestibule - Google Patents",
+   "link": "http://www.google.com/patents/US5992094",
+   "displayLink": "www.google.com",
+   "snippet": "US3938282, Feb 1, 1974, Feb 17, 1976, Kawneer Company, Inc. Sliding door   operator ... US4011686, Aug 4, 1975, Mar 15, 1977, Carmine Foods, Inc. Door   interlock ... US5644236, Mar 31, 1995, Jul 1, 1997, New Holland North America,   Inc. ... US7042365, Dec 17, 2004, May 9, 2006, Seismic detection system and a ...",
+   "htmlSnippet": "US3938282, Feb 1, \u003cb\u003e1974\u003c/b\u003e, Feb 17, 1976, Kawneer Company, Inc. Sliding door \u003cbr\u003e  operator \u003cb\u003e...\u003c/b\u003e US4011686, \u003cb\u003eAug 4\u003c/b\u003e, 1975, Mar 15, 1977, Carmine Foods, Inc. Door \u003cbr\u003e  interlock \u003cb\u003e...\u003c/b\u003e US5644236, Mar 31, 1995, Jul 1, 1997, New Holland \u003cb\u003eNorth America\u003c/b\u003e, \u003cbr\u003e  Inc. \u003cb\u003e...\u003c/b\u003e US7042365, \u003cb\u003eDec\u003c/b\u003e 17, 2004, May 9, 2006, \u003cb\u003eSeismic\u003c/b\u003e detection system and a \u003cb\u003e...\u003c/b\u003e",
+   "formattedUrl": "www.google.com/patents/US5992094",
+   "htmlFormattedUrl": "www.google.com/patents/US5992094",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "102",
+      "height": "150",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSg6fhB5aDCQzLpvMx_AVG57c8belf9X2C-yP7uIpJPD4wNA8FCx7JJgQ"
+     }
+    ],
+    "book": [
+     {
+      "description": "An access control chamber security system with a security chamber having an aluminum frame and an entrance door and an exit door, a metal detector located within the access control chamber...",
+      "url": "http://www.google.com/patents/US5992094?utm_source=gb-gplus-share",
+      "name": "Patent US5992094 - Access control vestibule",
+      "image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ],
+    "metatags": [
+     {
+      "og:url": "http://www.google.com/patents/US5992094",
+      "title": "Patent US5992094 - Access control vestibule",
+      "og:title": "Patent US5992094 - Access control vestibule",
+      "og:type": "book",
+      "og:site_name": "Google Books",
+      "og:image": "http://www.google.com/patents?id=mAgHAAAAEBAJ&printsec=frontcover&img=1&zoom=1"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on September 4 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eSeptember 4\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/sep04.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "September 4, 1862 North Beach & Mission Railway Company organized in SF ...   September 4, 1950 The first helicopter rescue of American pilot behind enemy ...   September 4, 1967 \"6.5 earthquake of Kolya Dam India, kills 200\" ... September   04, 1974 Visitor posting - september 4th 1974 - ronald donovan harper is born ...",
+   "htmlSnippet": "September 4, 1862 \u003cb\u003eNorth\u003c/b\u003e Beach &amp; Mission Railway Company organized in SF \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  September 4, 1950 The first helicopter rescue of \u003cb\u003eAmerican\u003c/b\u003e pilot behind enemy \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  September 4, 1967 &quot;6.5 \u003cb\u003eearthquake\u003c/b\u003e of Kolya Dam India, kills 200&quot; \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember\u003c/b\u003e \u003cbr\u003e  \u003cb\u003e04, 1974\u003c/b\u003e Visitor posting - \u003cb\u003eseptember 4th 1974\u003c/b\u003e - ronald donovan harper is born \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Mim0ZCl7DFYJ",
+   "formattedUrl": "www.datesinhistory.com/sep04.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003esep\u003c/b\u003e04.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "September 4 - Wikipedia, the free encyclopedia",
+   "htmlTitle": "\u003cb\u003eSeptember 4\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/September_4",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "September 4 is the 247th day of the year (248th in leap years) in the Gregorian   calendar. ... Robert E. Lee takes the Army of Northern Virginia, and the war, into   the North. ... 1886 ??? American Indian Wars: after almost 30 years of fighting,   Apache ... magnitude earthquake which struck the South Island of New Zealand   at 4:35 ...",
+   "htmlSnippet": "\u003cb\u003eSeptember 4\u003c/b\u003e is the 247th day of the year (248th in leap years) in the Gregorian \u003cbr\u003e  calendar. \u003cb\u003e...\u003c/b\u003e Robert E. Lee takes the Army of Northern Virginia, and the war, into \u003cbr\u003e  the \u003cb\u003eNorth\u003c/b\u003e. \u003cb\u003e...\u003c/b\u003e 1886 ??? \u003cb\u003eAmerican\u003c/b\u003e Indian Wars: after almost 30 years of fighting, \u003cbr\u003e  Apache \u003cb\u003e...\u003c/b\u003e magnitude \u003cb\u003eearthquake\u003c/b\u003e which struck the South Island of New Zealand \u003cbr\u003e  at \u003cb\u003e4\u003c/b\u003e:35 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "uY5WWSWtfqsJ",
+   "formattedUrl": "en.wikipedia.org/wiki/September_4",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/\u003cb\u003eSeptember\u003c/b\u003e_\u003cb\u003e4\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on Sept 4 in history",
+   "htmlTitle": "What happened on \u003cb\u003eSept 4\u003c/b\u003e in history",
+   "link": "http://wiki.answers.com/Q/What_happened_on_Sept_4_in_history",
+   "displayLink": "wiki.answers.com",
+   "snippet": "September 4, 1983 Greg LeMond becomes only American to win cycling's Road   Championship ... September 4, 1974 Emmy News and Documentaries Award   presentation ... September 4, 1967 6.5 earthquake of Kolya Dam India, kills 200   .... September 4, 1862 Gen Lee invades North with 50,000 Confederate troops ...",
+   "htmlSnippet": "September 4, 1983 Greg LeMond becomes only \u003cb\u003eAmerican\u003c/b\u003e to win cycling&#39;s Road \u003cbr\u003e  Championship \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeptember 4, 1974\u003c/b\u003e Emmy News and Documentaries Award \u003cbr\u003e  presentation \u003cb\u003e...\u003c/b\u003e September 4, 1967 6.5 \u003cb\u003eearthquake\u003c/b\u003e of Kolya Dam India, kills 200 \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e September 4, 1862 Gen Lee invades \u003cb\u003eNorth\u003c/b\u003e with 50,000 Confederate troops \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "gtQZvQdtMdQJ",
+   "formattedUrl": "wiki.answers.com/Q/What_happened_on_Sept_4_in_history",
+   "htmlFormattedUrl": "wiki.answers.com/Q/What_happened_on_\u003cb\u003eSept\u003c/b\u003e_\u003cb\u003e4\u003c/b\u003e_in_history",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "//rxf.answcdn.com/includes/images/icons/a-icon.png"
+     }
+    ],
+    "Breadcrumb": [
+     {
+      "title": "Answers.com",
+      "url": "Answers.com"
+     },
+     {
+      "title": "Wiki Answers",
+      "url": "Wiki Answers"
+     },
+     {
+      "title": "Categories",
+      "url": "Categories"
+     },
+     {
+      "title": "Shopping",
+      "url": "Shopping"
+     }
+    ],
+    "metatags": [
+     {
+      "abtest": "mode_id=-1",
+      "fb:app_id": "168416999909992",
+      "og:image": "//rxf.answcdn.com/includes/images/icons/a-icon.png",
+      "og:site_name": "Answers.com",
+      "og:title": "Answer to: What happened on Sept 4 in history?",
+      "og:description": "September 4, 2004 Hurricane Frances hits Florida, causing $40 billion in damage. September 4, 1997 14th MTV Awards September 4, 1997 Howard Stern.",
+      "og:type": "answers-com:answer",
+      "og:url": "http://wiki.answers.com/Q/What_happened_on_Sept_4_in_history"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1812 New Madrid earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1812 New Madrid \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1812_New_Madrid_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The Great Earthquake at New Madrid, a 19th-century woodcut from Devens' Our   ... February 7, 1812, 0945 UTC (4:45 a.m.); (M ~7.4???8.0) epicenter near New ....   up of reactivated faults that formed when what is now North America began to   split ... earthquakes can be identified from seismic measurements taken since   1974.",
+   "htmlSnippet": "The Great \u003cb\u003eEarthquake\u003c/b\u003e at New Madrid, a 19th-century woodcut from Devens&#39; Our \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e February 7, 1812, 0945 UTC (\u003cb\u003e4\u003c/b\u003e:45 a.m.); (M ~7.4???8.0) epicenter near New \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  up of reactivated faults that formed when what is now \u003cb\u003eNorth America\u003c/b\u003e began to \u003cbr\u003e  split \u003cb\u003e...\u003c/b\u003e \u003cb\u003eearthquakes\u003c/b\u003e can be identified from \u003cb\u003eseismic\u003c/b\u003e measurements taken since \u003cbr\u003e  \u003cb\u003e1974\u003c/b\u003e.",
+   "cacheId": "pzhIplJx4uoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1812_New_Madrid_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1812_New_Madrid_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/New_Madrid_Erdbeben.jpg/300px-New_Madrid_Erdbeben.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "172",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmVUQfYKri8WnOoE5ovYwNKJ-BemlVa42yfaiechbkjE8z0uvOxWlE2Qd4"
+     }
+    ]
+   }
+  }
+ ]
+}

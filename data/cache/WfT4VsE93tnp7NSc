@@ -1,0 +1,275 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Oct 28 1950 Africa Earthquake",
+    "totalResults": "404000",
+    "searchTerms": "Oct 28 1950 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Oct 28 1950 Africa Earthquake",
+    "totalResults": "404000",
+    "searchTerms": "Oct 28 1950 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.243183,
+  "formattedSearchTime": "0.24",
+  "totalResults": "404000",
+  "formattedTotalResults": "404,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Report | Facebook",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Report | Facebook",
+   "link": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "displayLink": "www.facebook.com",
+   "snippet": "Earthquakes to remember : South-Africa - December 8 1976 - Magnitude : 5.2 .....   (Major) Earthquakes list November 28, 2012 ??? Moderate shallow earthquake in ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e to remember : South-\u003cb\u003eAfrica\u003c/b\u003e - December 8 1976 - Magnitude : 5.2 \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  (Major) \u003cb\u003eEarthquakes\u003c/b\u003e list November \u003cb\u003e28\u003c/b\u003e, 2012 ??? Moderate shallow \u003cb\u003eearthquake\u003c/b\u003e in \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "bcSkaB7RLTkJ",
+   "formattedUrl": "www.facebook.com/pages/Earthquake-Report/145927268753491",
+   "htmlFormattedUrl": "www.facebook.com/pages/\u003cb\u003eEarthquake\u003c/b\u003e-Report/145927268753491",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg"
+     }
+    ],
+    "organization": [
+     {
+      "name": "Earthquake Report"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "112",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdH2TzTtXhmW7V1LAnPYArFeF45uAF-1LMGOJ5fV1ayBxEp2tckOjelXY"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "default",
+      "og:title": "Earthquake Report",
+      "og:type": "other",
+      "og:url": "http://www.facebook.com/pages/Earthquake-Report/145927268753491",
+      "og:site_name": "Facebook",
+      "og:image": "http://profile.ak.fbcdn.net/hprofile-ak-prn1/27551_145927268753491_3772_n.jpg",
+      "og:description": "WE WILL TRY TO BE THE BEST INFORMATIVE NEWS SITE ON EARTHQUAKES WORLDWIDE. Check it out and make up..."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Lists of earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Lists of \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "01707-10-28October 28, 1707, Pacific Ocean, Shikoku region, Japan, 1707 H??ei   ... 1604, Arica, Chile (then part of the Spanish Empire), 1604 Arica earthquake ...",
+   "htmlSnippet": "01707-10-\u003cb\u003e28October 28\u003c/b\u003e, 1707, Pacific Ocean, Shikoku region, Japan, 1707 H??ei \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e 1604, \u003cb\u003eArica\u003c/b\u003e, Chile (then part of the Spanish Empire), 1604 Arica \u003cb\u003eearthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Yq8sYAxYw8YJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Lists_of_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Lists_of_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/400px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNMBni71Km--lVgdpy3WmTmyRm0pE7_3vV2Cb11a66x_23bM4TkY8__-8"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Earthquakes",
+   "htmlTitle": "Historical \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/index.php?option=com_content&view=article&id=1612:historical-earthquakes&catid=138:seismology-unit-activities&Itemid=615",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "The knowledge of early earthquakes in South Africa, as in other parts of the world  , is based on ... The current network comprises 28 seismological stations of which   two are three-component .... Finsen, 1950; Gutenberg and Richter, 1965 ... 4,2,   The Argus. 6 Oct 1969, 12:28, Slight tremor felt at Sea Point and vicinity, III? 4,2 ...",
+   "htmlSnippet": "The knowledge of early \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAfrica\u003c/b\u003e, as in other parts of the world\u003cbr\u003e  , is based on \u003cb\u003e...\u003c/b\u003e The current network comprises \u003cb\u003e28\u003c/b\u003e seismological stations of which \u003cbr\u003e  two are three-component \u003cb\u003e....\u003c/b\u003e Finsen, \u003cb\u003e1950\u003c/b\u003e; Gutenberg and Richter, 1965 \u003cb\u003e...\u003c/b\u003e 4,2, \u003cbr\u003e  The Argus. 6 \u003cb\u003eOct\u003c/b\u003e 1969, 12:\u003cb\u003e28\u003c/b\u003e, Slight tremor felt at Sea Point and vicinity, III? 4,2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HzRAmQ_5o1MJ",
+   "formattedUrl": "www.geoscience.org.za/index.php?...earthquakes...",
+   "htmlFormattedUrl": "www.geoscience.org.za/index.php?...\u003cb\u003eearthquakes\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Historical Earthquakes",
+      "author": "Malcolm Simpson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of deadly earthquakes since 1900 - Wikipedia, the free ...",
+   "htmlTitle": "List of deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 - Wikipedia, the free \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Magnitude (misc units) over time for deadly earthquakes since 1900 .... 1903-05-  28 03:58, Turkey, 40.900, 42.700, 5.8 UK, 1000. 1903-08-11 04:32 ...... 1950-06-  19 12:36, Indonesia, -6.250, 112.000, 0, 6.8 UK, 16. 1950-08-03 22:18 ..... 1969-  09-29 20:03, South Africa, -33.190, 19.336, 15, 6.3 MS, 12, 12, 12, 9. 1969-10-01 ...",
+   "htmlSnippet": "Magnitude (misc units) over time for deadly \u003cb\u003eearthquakes\u003c/b\u003e since 1900 \u003cb\u003e....\u003c/b\u003e 1903-05-\u003cbr\u003e  \u003cb\u003e28\u003c/b\u003e 03:58, Turkey, 40.900, 42.700, 5.8 UK, 1000. 1903-08-11 04:32 \u003cb\u003e......\u003c/b\u003e \u003cb\u003e1950\u003c/b\u003e-06-\u003cbr\u003e  19 12:36, Indonesia, -6.250, 112.000, 0, 6.8 UK, 16. \u003cb\u003e1950\u003c/b\u003e-08-03 22:18 \u003cb\u003e.....\u003c/b\u003e 1969-\u003cbr\u003e  09-29 20:03, South \u003cb\u003eAfrica\u003c/b\u003e, -33.190, 19.336, 15, 6.3 MS, 12, 12, 12, 9. 1969-10-01 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "GkpcDPyoHJoJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_deadly_earthquakes_since_1900",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_deadly_\u003cb\u003eearthquakes\u003c/b\u003e_since_1900",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Earthquakes-deadly-1900-magnitude.png/220px-Earthquakes-deadly-1900-magnitude.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "124",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8CXZ3CKKDw9Yp-DUAktzwCJLxv8gTxrnyRp-JlYSafKNLjfe-EtWTRg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900. Sorted by ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900. Sorted by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Wp53QF265fgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths_sort.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes and Volcanic Eruptions ??? Infoplease.com",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e and Volcanic Eruptions ??? Infoplease.com",
+   "link": "http://www.infoplease.com/ipa/A0001439.html",
+   "displayLink": "www.infoplease.com",
+   "snippet": "1707: Oct. 28, Japan: tsunami caused by an earthquake drowned 30,000. ...   Lisbon and was felt as far away as southern France and North Africa; 70,000   killed.",
+   "htmlSnippet": "1707: \u003cb\u003eOct\u003c/b\u003e. \u003cb\u003e28\u003c/b\u003e, Japan: tsunami caused by an \u003cb\u003eearthquake\u003c/b\u003e drowned 30,000. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Lisbon and was felt as far away as southern France and North \u003cb\u003eAfrica\u003c/b\u003e; 70,000 \u003cbr\u003e  killed.",
+   "cacheId": "eiPTxuWU3LMJ",
+   "formattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "htmlFormattedUrl": "www.infoplease.com/ipa/A0001439.html",
+   "pagemap": {
+    "metatags": [
+     {
+      "chunk": "ART",
+      "idx": "Disasters",
+      "isub": "earthquake in (1755)",
+      "title": "Earthquakes and Volcanic Eruptions",
+      "waif": "Earthquakes",
+      "uniqid": "A0001439",
+      "parent": "A0001437",
+      "subchannel": "world",
+      "channel": "world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Case Studies - Earthquakes - Forces of Nature",
+   "htmlTitle": "Case Studies - \u003cb\u003eEarthquakes\u003c/b\u003e - Forces of Nature",
+   "link": "http://library.thinkquest.org/C003603/english/earthquakes/casestudies.shtml",
+   "displayLink": "library.thinkquest.org",
+   "snippet": "Click on the links to read about earthquakes which have occurred throughout   history. Helice ... Japan (1891, October 28); Assam, India (1897, June 12);   Displacement Bay, ... Assam, India (1950, August 15); Orl??ansville, Algeria (1954  , September 10) .... miles, including one-third of Europe and a large portion of   North Africa.",
+   "htmlSnippet": "Click on the links to read about \u003cb\u003eearthquakes\u003c/b\u003e which have occurred throughout \u003cbr\u003e  history. Helice \u003cb\u003e...\u003c/b\u003e Japan (1891, \u003cb\u003eOctober 28\u003c/b\u003e); Assam, India (1897, June 12); \u003cbr\u003e  Displacement Bay, \u003cb\u003e...\u003c/b\u003e Assam, India (\u003cb\u003e1950\u003c/b\u003e, August 15); Orl??ansville, Algeria (1954\u003cbr\u003e  , September 10) \u003cb\u003e....\u003c/b\u003e miles, including one-third of Europe and a large portion of \u003cbr\u003e  North \u003cb\u003eAfrica\u003c/b\u003e.",
+   "cacheId": "lI0uGtuvyB0J",
+   "formattedUrl": "library.thinkquest.org/C003603/.../earthquakes/casestudies.shtml",
+   "htmlFormattedUrl": "library.thinkquest.org/C003603/.../\u003cb\u003eearthquakes\u003c/b\u003e/casestudies.shtml",
+   "pagemap": {
+    "metatags": [
+     {
+      "author": "ThinkQuest Team #C003603"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South African History Online",
+   "htmlTitle": "South \u003cb\u003eAfrican\u003c/b\u003e History Online",
+   "link": "http://www.sahistory.org.za/",
+   "displayLink": "www.sahistory.org.za",
+   "snippet": "South African History Online (SAHO) is a non-partisan people's history project. ...   Resistance and Banishment in Witzieshoek Witzieshoek in the 1950s was a ...",
+   "htmlSnippet": "South \u003cb\u003eAfrican\u003c/b\u003e History Online (SAHO) is a non-partisan people&#39;s history project. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Resistance and Banishment in Witzieshoek Witzieshoek in the \u003cb\u003e1950s\u003c/b\u003e was a \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "jawkrcfLYJUJ",
+   "formattedUrl": "www.sahistory.org.za/",
+   "htmlFormattedUrl": "www.sahistory.org.za/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.sahistory.org.za/sites/default/files/imagecache/front_slide_350/images/blood-river_big_0.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "280",
+      "height": "180",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSz_Z-uENe1E7uCi8CwMKNKDnI0oHh8g5fqvbk4mQJo4HdlPRtUZaQcwByD"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "9/56 YEAR CYCLE: SOUTH AFRICAN EARTHQUAKES",
+   "htmlTitle": "9/56 YEAR CYCLE: SOUTH \u003cb\u003eAFRICAN EARTHQUAKES\u003c/b\u003e",
+   "link": "http://www.davidmcminn.com/eqpages/appendza.htm",
+   "displayLink": "www.davidmcminn.com",
+   "snippet": "Appendix for the paper 9/56 year Cycles: Earthquakes & Volcanoes. ... clearly   involved several notable earthquakes (eg: 4-12 December 1809; June 2 1811;   October 7, ... 28 May 1902, Not given, IV-V, 4.8 ... 19 Nov 1950, Cape Town, III,   4.2 ...",
+   "htmlSnippet": "Appendix for the paper 9/56 year Cycles: \u003cb\u003eEarthquakes\u003c/b\u003e &amp; Volcanoes. \u003cb\u003e...\u003c/b\u003e clearly \u003cbr\u003e  involved several notable \u003cb\u003eearthquakes\u003c/b\u003e (eg: 4-12 December 1809; June 2 1811; \u003cbr\u003e  \u003cb\u003eOctober\u003c/b\u003e 7, \u003cb\u003e...\u003c/b\u003e \u003cb\u003e28\u003c/b\u003e May 1902, Not given, IV-V, 4.8 \u003cb\u003e...\u003c/b\u003e 19 Nov \u003cb\u003e1950\u003c/b\u003e, Cape Town, III, \u003cbr\u003e  4.2 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "iMbVclYAUTQJ",
+   "formattedUrl": "www.davidmcminn.com/eqpages/appendza.htm",
+   "htmlFormattedUrl": "www.davidmcminn.com/eqpages/appendza.htm",
+   "pagemap": {
+    "metatags": [
+     {
+      "progid": "FrontPage.Editor.Document"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "IRIS - Recent Earthquake Teachable Moments",
+   "htmlTitle": "IRIS - Recent \u003cb\u003eEarthquake\u003c/b\u003e Teachable Moments",
+   "link": "http://www.iris.edu/hq/retm",
+   "displayLink": "www.iris.edu",
+   "snippet": "A 7.1-magnitude earthquake struck offshore Tuesday morning (1:53 am local   time) with the epicenter 236 km (147 miles) ... October 28, 2012 (03:04:10 UTC) ...",
+   "htmlSnippet": "A 7.1-magnitude \u003cb\u003eearthquake\u003c/b\u003e struck offshore Tuesday morning (1:53 am local \u003cbr\u003e  time) with the epicenter 236 km (147 miles) \u003cb\u003e...\u003c/b\u003e \u003cb\u003eOctober 28\u003c/b\u003e, 2012 (03:04:10 UTC) \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "-nIeK0K8gWkJ",
+   "formattedUrl": "www.iris.edu/hq/retm",
+   "htmlFormattedUrl": "www.iris.edu/hq/retm"
+  }
+ ]
+}

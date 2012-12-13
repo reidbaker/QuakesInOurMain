@@ -1,0 +1,283 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 21 1972 North America Earthquake",
+    "totalResults": "374000",
+    "searchTerms": "Jan 21 1972 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 21 1972 North America Earthquake",
+    "totalResults": "374000",
+    "searchTerms": "Jan 21 1972 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.341667,
+  "formattedSearchTime": "0.34",
+  "totalResults": "374000",
+  "formattedTotalResults": "374,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake Van ??? Ercis, Turkey ??? 604 Dead, Large Aftershock 5.6 ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e Van ??? Ercis, Turkey ??? 604 Dead, Large Aftershock 5.6 \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/10/23/very-strong-dangerous-earthquake-in-eastern-turkey/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 19, 2012 ... Earthquake overview : A very strong damaging earthquake occurred in the Van   province in eastern Turkey. The earthquake was felt in all the ...",
+   "htmlSnippet": "May 19, 2012 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eEarthquake\u003c/b\u003e overview : A very strong damaging \u003cb\u003eearthquake\u003c/b\u003e occurred in the Van \u003cbr\u003e  province in eastern Turkey. The \u003cb\u003eearthquake\u003c/b\u003e was felt in all the \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "yXv5upt2bRwJ",
+   "formattedUrl": "earthquake-report.com/.../very-strong-dangerous-earthquake-in-eastern- turkey/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../very-strong-dangerous-\u003cb\u003eearthquake\u003c/b\u003e-in-eastern- turkey/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/10/turkey-24102011-2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "260",
+      "height": "194",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01sclPrUIA_jzjfUiXfDqhvJQ94XnQmm8l_CxWHzaRUcFh9VOd1gpCSo"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "Tina Kunz-Plapp",
+      "url": "http://www.cedim.de/",
+      "url_text": "Tina Kunz-Plapp"
+     },
+     {
+      "fn": "James Daniell",
+      "url": "http://www.monashawards.org/",
+      "url_text": "James Daniell"
+     },
+     {
+      "fn": "Richard Lear"
+     },
+     {
+      "fn": "Derek",
+      "nickname": "Derek"
+     },
+     {
+      "fn": "michael juul holm"
+     },
+     {
+      "fn": "Elif Ergoz"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     },
+     {
+      "fn": "Lara",
+      "nickname": "Lara"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "What happened on January 21 - What happened on my birthday ...",
+   "htmlTitle": "What happened on \u003cb\u003eJanuary 21\u003c/b\u003e - What happened on my birthday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.datesinhistory.com/jan21.php",
+   "displayLink": "www.datesinhistory.com",
+   "snippet": "January 21, 1677 \"The first medical publication in America (pamphlet on   smallpox) .... January 21, 1972 Assam's North East Frontier Agency becomes   Arunachal ... are reported dead after a pair of earthquakes in China's   westernmost province.",
+   "htmlSnippet": "January 21, 1677 &quot;The first medical publication in \u003cb\u003eAmerica\u003c/b\u003e (pamphlet on \u003cbr\u003e  smallpox) \u003cb\u003e....\u003c/b\u003e \u003cb\u003eJanuary 21\u003c/b\u003e, \u003cb\u003e1972\u003c/b\u003e Assam&#39;s \u003cb\u003eNorth\u003c/b\u003e East Frontier Agency becomes \u003cbr\u003e  Arunachal \u003cb\u003e...\u003c/b\u003e are reported dead after a pair of \u003cb\u003eearthquakes\u003c/b\u003e in China&#39;s \u003cbr\u003e  westernmost province.",
+   "cacheId": "_gMb-r0kLjcJ",
+   "formattedUrl": "www.datesinhistory.com/jan21.php",
+   "htmlFormattedUrl": "www.datesinhistory.com/\u003cb\u003ejan21\u003c/b\u003e.php",
+   "pagemap": {
+    "metatags": [
+     {
+      "page-topic": "Dates In history - Today in History - What happened on my birthday - Important Historical events.",
+      "distribution": "Global",
+      "rating": "General"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Largest Earthquakes in the United States",
+   "htmlTitle": "Largest \u003cb\u003eEarthquakes\u003c/b\u003e in the United States",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/10_largest_us.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Largest Earthquakes in the United States. This webpage is updated in January of   each year to incorporate any relevant data from the previous year.",
+   "htmlSnippet": "Largest \u003cb\u003eEarthquakes\u003c/b\u003e in the United States. This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of \u003cbr\u003e  each year to incorporate any relevant data from the previous year.",
+   "cacheId": "DNP_bg2ErG8J",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/10_largest_us.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/10_largest_us.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "htmlTitle": "Pacific Ring of Fire - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "About 90% of the world's earthquakes and 81% of the world's largest ... with the   small Juan de Fuca Plate are being subducted beneath the North American Plate  . ... the first one from Llaima Volcano (January 1) and Chait??n Volcano (May 1).   .... is one of the most various and active volcanic areas in the world, with an area   of ...",
+   "htmlSnippet": "About 90% of the world&#39;s \u003cb\u003eearthquakes\u003c/b\u003e and 81% of the world&#39;s largest \u003cb\u003e...\u003c/b\u003e with the \u003cbr\u003e  small Juan de Fuca Plate are being subducted beneath the \u003cb\u003eNorth American\u003c/b\u003e Plate\u003cbr\u003e  . \u003cb\u003e...\u003c/b\u003e the first one from Llaima Volcano (\u003cb\u003eJanuary\u003c/b\u003e 1) and Chait??n Volcano (May 1). \u003cbr\u003e  \u003cb\u003e....\u003c/b\u003e is one of the most various and active volcanic areas in the world, with an area \u003cbr\u003e  of \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "tsTbckV5UlMJ",
+   "formattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/Pacific_Ring_of_Fire",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plates_tect2_en.svg/350px-Plates_tect2_en.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "272",
+      "height": "185",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNHFOl-Bk26-FaTF7pkl5JMdpOL7ZVVfIpGgqYQLH5fLGCa5kI2fQG4vBn"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historic Earthquakes in the United States and Its Territories",
+   "htmlTitle": "Historic \u003cb\u003eEarthquakes\u003c/b\u003e in the United States and Its Territories",
+   "link": "http://earthquake.usgs.gov/earthquakes/states/historical_state.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Nov 1, 2012 ... Selected earthquakes of general historic interest. ... 1966 08 07 - Rat Islands,   Alaska - M 7.0 ?? 1972 07 30 - Sitka, Alaska - M 7.6 ?? 1975 02 ... 1959 07 21 -   Arizona - Utah Border - M 5.6 ..... 1909 05 16 - North Dakota - M 5.5 ... Policies   and Notices ?? In partnership with nehrp ?? Take Pride in America; USA.gov ...",
+   "htmlSnippet": "Nov 1, 2012 \u003cb\u003e...\u003c/b\u003e Selected \u003cb\u003eearthquakes\u003c/b\u003e of general historic interest. \u003cb\u003e...\u003c/b\u003e 1966 08 07 - Rat Islands, \u003cbr\u003e  Alaska - M 7.0 &middot; \u003cb\u003e1972\u003c/b\u003e 07 30 - Sitka, Alaska - M 7.6 &middot; 1975 02 \u003cb\u003e...\u003c/b\u003e 1959 07 \u003cb\u003e21\u003c/b\u003e - \u003cbr\u003e  Arizona - Utah Border - M 5.6 \u003cb\u003e.....\u003c/b\u003e 1909 05 16 - \u003cb\u003eNorth\u003c/b\u003e Dakota - M 5.5 \u003cb\u003e...\u003c/b\u003e Policies \u003cbr\u003e  and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e; USA.gov \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "wtOd-mlZMXgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/states/historical_state.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/states/historical_state.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "David M. Boore pubs online",
+   "htmlTitle": "David M. Boore pubs online",
+   "link": "http://www.daveboore.com/pubs_online.php",
+   "displayLink": "www.daveboore.com",
+   "snippet": "(3.1 Mb) [published version of 21 March 2008 revision added 07 July 2008. ...   Earthquake ground-motion prediction equations for eastern North America, Bull.   ..... 128--153, January/February 1997, Equations for Estimating Horizontal   Response Spectra and Peak Acceleration from Western North .... Boore, D. M. (  1972).",
+   "htmlSnippet": "(3.1 Mb) [published version of \u003cb\u003e21\u003c/b\u003e March 2008 revision added 07 July 2008. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e ground-motion prediction equations for eastern \u003cb\u003eNorth America\u003c/b\u003e, Bull. \u003cbr\u003e  \u003cb\u003e.....\u003c/b\u003e 128--153, \u003cb\u003eJanuary\u003c/b\u003e/February 1997, Equations for Estimating Horizontal \u003cbr\u003e  Response Spectra and Peak Acceleration from Western North \u003cb\u003e....\u003c/b\u003e Boore, D. M. (\u003cbr\u003e  \u003cb\u003e1972\u003c/b\u003e).",
+   "cacheId": "RaE5TqxKYpQJ",
+   "formattedUrl": "www.daveboore.com/pubs_online.php",
+   "htmlFormattedUrl": "www.daveboore.com/pubs_online.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "List of 20th-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 20th-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For Earthquakes after 2000, see List of 21st century earthquakes. Earthquakes of   magnitude ... 01906-01-31January 31, 1906, 15:36, Colombia???Ecuador see   1906 .... 19:02 UTC, Japan see 1930 North Izu earthquake, 35.00, 139.00, 7.3, M  s ...",
+   "htmlSnippet": "For \u003cb\u003eEarthquakes\u003c/b\u003e after 2000, see List of \u003cb\u003e21st\u003c/b\u003e century \u003cb\u003eearthquakes\u003c/b\u003e. \u003cb\u003eEarthquakes\u003c/b\u003e of \u003cbr\u003e  magnitude \u003cb\u003e...\u003c/b\u003e 01906-01-31\u003cb\u003eJanuary\u003c/b\u003e 31, 1906, 15:36, Colombia???Ecuador see \u003cbr\u003e  1906 \u003cb\u003e....\u003c/b\u003e 19:02 UTC, Japan see 1930 \u003cb\u003eNorth\u003c/b\u003e Izu \u003cb\u003eearthquake\u003c/b\u003e, 35.00, 139.00, 7.3, M\u003cbr\u003e  s \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Zzv4G5pp2soJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_20th-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "EARTHQUAKE REGIONALIZATION or IRAN",
+   "htmlTitle": "\u003cb\u003eEARTHQUAKE\u003c/b\u003e REGIONALIZATION or IRAN",
+   "link": "http://www.iitk.ac.in/nicee/wcee/article/6_vol1_859.pdf",
+   "displayLink": "www.iitk.ac.in",
+   "snippet": "A comprehensive earthquake microzonation analysis of Iran is carried out. ...   rcates north of Bandar Abbas; one branch goes east toward Pakistan, and the .....   235, January 21, 1972, pp. ... East,\" Bulletin Seismological Society of America,   Vol.",
+   "htmlSnippet": "A comprehensive \u003cb\u003eearthquake\u003c/b\u003e microzonation analysis of Iran is carried out. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  rcates \u003cb\u003enorth\u003c/b\u003e of Bandar Abbas; one branch goes east toward Pakistan, and the \u003cb\u003e.....\u003c/b\u003e \u003cbr\u003e  235, \u003cb\u003eJanuary 21, 1972\u003c/b\u003e, pp. \u003cb\u003e...\u003c/b\u003e East,&quot; Bulletin Seismological Society of \u003cb\u003eAmerica\u003c/b\u003e, \u003cbr\u003e  Vol.",
+   "cacheId": "OKr5lzTT0YYJ",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.iitk.ac.in/nicee/wcee/article/6_vol1_859.pdf",
+   "htmlFormattedUrl": "www.iitk.ac.in/nicee/wcee/article/6_vol1_859.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "moddate": "Fri Jul  3 21:37:31 2009",
+      "producer": "ABBYY FineReader 8.0 Professional Edition",
+      "creationdate": "Fri Jul  3 21:36:18 2009"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "2010 Haiti earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "2010 Haiti \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/2010_Haiti_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "The earthquake occurred at 16:53 local time (21:53 UTC) on Tuesday, 12   January 2010. By 24 January, at least 52 aftershocks measuring 4.5 or greater   had been .... by about 20 mm (0.79 inches) per year in relation to the North   American plate. ...... de l'Ile Saint Domingue. and J. M. Jan, bishop of Cap-Ha??tien   (1972).",
+   "htmlSnippet": "The \u003cb\u003eearthquake\u003c/b\u003e occurred at 16:53 local time (\u003cb\u003e21\u003c/b\u003e:53 UTC) on Tuesday, 12 \u003cbr\u003e  \u003cb\u003eJanuary\u003c/b\u003e 2010. By 24 \u003cb\u003eJanuary\u003c/b\u003e, at least 52 aftershocks measuring 4.5 or greater \u003cbr\u003e  had been \u003cb\u003e....\u003c/b\u003e by about 20 mm (0.79 inches) per year in relation to the \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerican\u003c/b\u003e plate. \u003cb\u003e......\u003c/b\u003e de l&#39;Ile Saint Domingue. and J. M. \u003cb\u003eJan\u003c/b\u003e, bishop of Cap-Ha??tien \u003cbr\u003e  (\u003cb\u003e1972\u003c/b\u003e).",
+   "cacheId": "b2fVZGluHeUJ",
+   "formattedUrl": "en.wikipedia.org/wiki/2010_Haiti_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/2010_Haiti_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/en/0/0c/Haiti_earthquake_map.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "200",
+      "height": "154",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSre46dIlk3VlXTMJoyGK6ftOJZZDDjz6h5YNoUbUgIBruLjcEHOc7F4gTE"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "For pdf click here",
+   "htmlTitle": "For pdf click here",
+   "link": "http://www.earth.northwestern.edu/people/seth/Texts/ecaneq.pdf",
+   "displayLink": "www.earth.northwestern.edu",
+   "snippet": "a major fraction of the largest earthquakes of eastern North America. in this paper   we ..... January 21,1972 14:43:42 71 .9N 74.7\\V 6 km 4.5 '~. November 12 ...",
+   "htmlSnippet": "a major fraction of the largest \u003cb\u003eearthquakes\u003c/b\u003e of eastern \u003cb\u003eNorth America\u003c/b\u003e. in this paper \u003cbr\u003e  we \u003cb\u003e.....\u003c/b\u003e \u003cb\u003eJanuary 21\u003c/b\u003e,\u003cb\u003e1972\u003c/b\u003e 14:43:42 71 .9N 74.7\\V 6 km 4.5 &#39;~. November 12 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "mTaK7wFC5I8J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "www.earth.northwestern.edu/people/seth/Texts/ecaneq.pdf",
+   "htmlFormattedUrl": "www.earth.\u003cb\u003enorth\u003c/b\u003ewestern.edu/people/seth/Texts/ecaneq.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "Tue May  3 13:00:37 2005"
+     }
+    ]
+   }
+  }
+ ]
+}

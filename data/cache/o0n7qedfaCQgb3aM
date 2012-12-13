@@ -1,0 +1,366 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - May 24 1914 North America Earthquake",
+    "totalResults": "111000",
+    "searchTerms": "May 24 1914 North America Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - May 24 1914 North America Earthquake",
+    "totalResults": "111000",
+    "searchTerms": "May 24 1914 North America Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.291543,
+  "formattedSearchTime": "0.29",
+  "totalResults": "111000",
+  "formattedTotalResults": "111,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "List of 21st-century earthquakes - Wikipedia, the free encyclopedia",
+   "htmlTitle": "List of 21st-century \u003cb\u003eearthquakes\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "For lists of earthquakes by country, which may include smaller and less ...   February 24, 2001, 07:23, Northern Molucca Sea, 1.271, 126.249, 0, 7.1, Mw (  HRV, USGS) ... August 21, 2001, 06:52, East of North Island, New Zealand, ???  36.813 ...... flattened villages in Samoa and American Samoa which killed 100+   civilians.",
+   "htmlSnippet": "For lists of \u003cb\u003eearthquakes\u003c/b\u003e by country, which \u003cb\u003emay\u003c/b\u003e include smaller and less \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  February \u003cb\u003e24\u003c/b\u003e, 2001, 07:23, Northern Molucca Sea, 1.271, 126.249, 0, 7.1, Mw (\u003cbr\u003e  HRV, USGS) \u003cb\u003e...\u003c/b\u003e August 21, 2001, 06:52, East of \u003cb\u003eNorth\u003c/b\u003e Island, New Zealand, ???\u003cbr\u003e  36.813 \u003cb\u003e......\u003c/b\u003e flattened villages in Samoa and \u003cb\u003eAmerican\u003c/b\u003e Samoa which killed 100+ \u003cbr\u003e  civilians.",
+   "cacheId": "qbMJoEJaGhYJ",
+   "formattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_earthquakes",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/List_of_21st-century_\u003cb\u003eearthquakes\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/USGS_magnitude_8_earthquakes_since_1900.svg/300px-USGS_magnitude_8_earthquakes_since_1900.svg.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7pAcQMXw6eutY450UUHkArqr6qVJYMpQ7iIhM8qJW0h8QIp28rkw4-3c"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Magnitude 8 and Greater Earthquakes Since 1900",
+   "htmlTitle": "Magnitude 8 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e Since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/mag8/magnitude8_1900_date.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Magnitude 8 and Greater Earthquakes Since 1900 ... 1914/05/26 14:22, -2. ...   1940/05/24 16:33, -10.5, -77.0, 8.2, near the Coast of central Peru ... 2004/12/23   14:59, -49.312, 161.345, 8.1, north of Macquarie Island ... Accessibility ?? FOIA ??   Privacy ?? Policies and Notices ?? In partnership with nehrp ?? Take Pride in America ??   USA.",
+   "htmlSnippet": "Magnitude 8 and Greater \u003cb\u003eEarthquakes\u003c/b\u003e Since 1900 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e1914\u003c/b\u003e/05/26 14:22, -2. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  1940/05/\u003cb\u003e24\u003c/b\u003e 16:33, -10.5, -77.0, 8.2, near the Coast of central Peru \u003cb\u003e...\u003c/b\u003e 2004/12/23 \u003cbr\u003e  14:59, -49.312, 161.345, 8.1, \u003cb\u003enorth\u003c/b\u003e of Macquarie Island \u003cb\u003e...\u003c/b\u003e Accessibility &middot; FOIA &middot; \u003cbr\u003e  Privacy &middot; Policies and Notices &middot; In partnership with nehrp &middot; Take Pride in \u003cb\u003eAmerica\u003c/b\u003e &middot; \u003cbr\u003e  USA.",
+   "cacheId": "-_taVO3onUwJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/.../magnitude8_1900_date.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/.../magnitude8_1900_date.php",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://earthquake.usgs.gov/earthquakes/eqarchives/year/mag8/images/mag8_1900.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "273",
+      "height": "184",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM096zGDz8ARm3ME-WMUo4oT_MrHV9SZI69Lm6O-tm7XIkyyUOe-9cIb0"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Notable Earthquakes Shake Texas on Occasion | Texas Almanac",
+   "htmlTitle": "Notable \u003cb\u003eEarthquakes\u003c/b\u003e Shake Texas on Occasion | Texas Almanac",
+   "link": "http://www.texasalmanac.com/topics/environment/notable-earthquakes-shake-texas-occasion",
+   "displayLink": "www.texasalmanac.com",
+   "snippet": "Seismic activity in this area of Texas may be related to known faults that have ...   The 1887 Wellborn, 1910 Hempstead and 1914 Anderson shocks may have ....   The shock was strongly recorded on all seismographs in North America and at   stations all over the world. ... Epicenters were determined on April 23, 24, 27 and   28.",
+   "htmlSnippet": "\u003cb\u003eSeismic\u003c/b\u003e activity in this area of Texas \u003cb\u003emay\u003c/b\u003e be related to known faults that have \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  The 1887 Wellborn, 1910 Hempstead and \u003cb\u003e1914\u003c/b\u003e Anderson shocks \u003cb\u003emay\u003c/b\u003e have \u003cb\u003e....\u003c/b\u003e \u003cbr\u003e  The shock was strongly recorded on all seismographs in \u003cb\u003eNorth America\u003c/b\u003e and at \u003cbr\u003e  stations all over the world. \u003cb\u003e...\u003c/b\u003e Epicenters were determined on April 23, \u003cb\u003e24\u003c/b\u003e, 27 and \u003cbr\u003e  28.",
+   "cacheId": "xxQi0qeIcKgJ",
+   "formattedUrl": "www.texasalmanac.com/.../notable-earthquakes-shake-texas-occasion",
+   "htmlFormattedUrl": "www.texasalmanac.com/.../notable-\u003cb\u003eearthquakes\u003c/b\u003e-shake-texas-occasion",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.texasalmanac.com/sites/default/files/images/maps/quakemap2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "150",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRGWTxdQSuGZx2pz6OFlpfvbBAig_uVCccZCFxzkjVg9ZYA6bVAjVdXVU-L"
+     }
+    ],
+    "metatags": [
+     {
+      "og:description": "The Texas Almanac is a biennially published reference work providing information for the general public on the history of the state and its people, government and politics, economics, natural resources, holidays, culture, education, recreation, the arts, and other topics."
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "South Carolina Earthquake Hazards: Preparing for the Next Big One",
+   "htmlTitle": "South Carolina \u003cb\u003eEarthquake\u003c/b\u003e Hazards: Preparing for the Next Big One",
+   "link": "http://www.scearthquakes.com/",
+   "displayLink": "www.scearthquakes.com",
+   "snippet": "Jul 28, 2012 ... When Americans think of earthquakes, California comes first to mind; ... The state   is home to one of the most active earthquake-producing regions in North America  , ... the week of August 24 - 31 as South Carolina Earthquake Safety Week. ...   Temporary or permanent changes may occur in springs and wells.",
+   "htmlSnippet": "Jul 28, 2012 \u003cb\u003e...\u003c/b\u003e When Americans think of \u003cb\u003eearthquakes\u003c/b\u003e, California comes first to mind; \u003cb\u003e...\u003c/b\u003e The state \u003cbr\u003e  is home to one of the most active \u003cb\u003eearthquake\u003c/b\u003e-producing regions in \u003cb\u003eNorth America\u003c/b\u003e\u003cbr\u003e  , \u003cb\u003e...\u003c/b\u003e the week of August \u003cb\u003e24\u003c/b\u003e - 31 as South Carolina \u003cb\u003eEarthquake\u003c/b\u003e Safety Week. \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  Temporary or permanent changes \u003cb\u003emay\u003c/b\u003e occur in springs and wells.",
+   "cacheId": "9dnMYrIdJUcJ",
+   "formattedUrl": "www.scearthquakes.com/",
+   "htmlFormattedUrl": "www.sc\u003cb\u003eearthquakes\u003c/b\u003e.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bookdoctor.com/southcarolinaearthquakes/earthquake-intensities-450x336.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "249",
+      "height": "202",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS38HXPnPhlfuWgrvca1XV6OcvVGgcq_QJMZFl_ARJaMHld2O3nMWlzBH8"
+     }
+    ],
+    "metatags": [
+     {
+      "resource-type": "document",
+      "distribution": "global, world",
+      "rating": "general",
+      "vw96.objecttype": "document",
+      "dc.title": "Corinthian Books",
+      "dc.creator": "Richard N. C??t?? /  dickcote@earthlink.net",
+      "dc.subject": "South Carolina Earthquake Hazards: Preparing the the Next Big One",
+      "dc.publisher": "The South Carolina Earthquake Memorial Association",
+      "dc.language": "en",
+      "dc.coverage.placename": "global, world"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900 ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "53-Dd9l6UfcJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "SeismoLinks",
+   "htmlTitle": "SeismoLinks",
+   "link": "http://www.cco.caltech.edu/~meltzner/seismolinks.html",
+   "displayLink": "www.cco.caltech.edu",
+   "snippet": "This site contains a form to tell us what you felt during recent earthquakes, as well   ... Seismic Data Display -- warning: this page is Javascript-intensive and may   cause ... Map of Western North America ?? Worldwide Earthquake Map - Past 24   Hours .... San Francisco Earthquake History 1880-1914 ?? San Francisco   Earthquake ...",
+   "htmlSnippet": "This site contains a form to tell us what you felt during recent \u003cb\u003eearthquakes\u003c/b\u003e, as well \u003cbr\u003e  \u003cb\u003e...\u003c/b\u003e \u003cb\u003eSeismic\u003c/b\u003e Data Display -- warning: this page is Javascript-intensive and \u003cb\u003emay\u003c/b\u003e \u003cbr\u003e  cause \u003cb\u003e...\u003c/b\u003e Map of Western \u003cb\u003eNorth America\u003c/b\u003e &middot; Worldwide \u003cb\u003eEarthquake\u003c/b\u003e Map - Past \u003cb\u003e24\u003c/b\u003e \u003cbr\u003e  Hours \u003cb\u003e....\u003c/b\u003e San Francisco \u003cb\u003eEarthquake\u003c/b\u003e History 1880-\u003cb\u003e1914\u003c/b\u003e &middot; San Francisco \u003cbr\u003e  \u003cb\u003eEarthquake\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "fYX7NiEDgokJ",
+   "formattedUrl": "www.cco.caltech.edu/~meltzner/seismolinks.html",
+   "htmlFormattedUrl": "www.cco.caltech.edu/~meltzner/seismolinks.html",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.cco.caltech.edu/~meltzner/logo/usgs_inv.gif"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "149",
+      "height": "57",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLRhoGZ-fWWmwqshVSPMQ6IYubAi86L1Okrsw1mY7oiSuB70SMde0TqW8"
+     }
+    ],
+    "metatags": [
+     {
+      "author": "Aron Meltzner"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "pre-earthquakes-history-data",
+   "htmlTitle": "pre-\u003cb\u003eearthquakes\u003c/b\u003e-history-data",
+   "link": "http://www.bible.ca/pre-earthquakes-history-data.htm",
+   "displayLink": "www.bible.ca",
+   "snippet": "Similarly an earthquake may be large but not destructive of life. ..... Thus the   earthquake in Alaska in 1964 - \"the largest earthquake ever recorded in North   America\" .... The writer of the Awake! article takes those 24 pre-1914 earthquakes   and ...",
+   "htmlSnippet": "Similarly an \u003cb\u003eearthquake may\u003c/b\u003e be large but not destructive of life. \u003cb\u003e.....\u003c/b\u003e Thus the \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e in Alaska in 1964 - &quot;the largest \u003cb\u003eearthquake\u003c/b\u003e ever recorded in \u003cb\u003eNorth\u003c/b\u003e \u003cbr\u003e  \u003cb\u003eAmerica\u003c/b\u003e&quot; \u003cb\u003e....\u003c/b\u003e The writer of the Awake! article takes those \u003cb\u003e24\u003c/b\u003e pre-\u003cb\u003e1914 earthquakes\u003c/b\u003e \u003cbr\u003e  and \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HJ5aleVi2AUJ",
+   "formattedUrl": "www.bible.ca/pre-earthquakes-history-data.htm",
+   "htmlFormattedUrl": "www.bible.ca/pre-\u003cb\u003eearthquakes\u003c/b\u003e-history-data.htm",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.bible.ca/premillennialism-destruction-jerusalem-70ad-titus-arch.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "301",
+      "height": "168",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhCl9wdRmJkkLmtjM3Ry5on-9sCsmUSlYSRpB4RKK2CQSyzEZ1YQstlic"
+     }
+    ],
+    "metatags": [
+     {
+      "version": "8.0.3410",
+      "date": "01/01/01",
+      "template": "C:\\DAN\\Templates\\bible.DOT"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquake rocks the American wilderness ??? History.com This Day ...",
+   "htmlTitle": "\u003cb\u003eEarthquake\u003c/b\u003e rocks the \u003cb\u003eAmerican\u003c/b\u003e wilderness ??? History.com This Day \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.history.com/this-day-in-history/earthquake-rocks-the-american-wilderness",
+   "displayLink": "www.history.com",
+   "snippet": "... World War I: Germans bombard English ports of Hartlepool and Scarborough,   1914 ... Although the earthquake greatly altered the topography of the region, the   area ... leader of North Korea, dies; Dec 18, 1865: Slavery abolished in America;   Dec ... gold,\" here are eight things you may not know about the history of money.",
+   "htmlSnippet": "\u003cb\u003e...\u003c/b\u003e World War I: Germans bombard English ports of Hartlepool and Scarborough, \u003cbr\u003e  \u003cb\u003e1914\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e Although the \u003cb\u003eearthquake\u003c/b\u003e greatly altered the topography of the region, the \u003cbr\u003e  area \u003cb\u003e...\u003c/b\u003e leader of \u003cb\u003eNorth\u003c/b\u003e Korea, dies; Dec 18, 1865: Slavery abolished in \u003cb\u003eAmerica\u003c/b\u003e; \u003cbr\u003e  Dec \u003cb\u003e...\u003c/b\u003e gold,&quot; here are eight things you \u003cb\u003emay\u003c/b\u003e not know about the history of money.",
+   "cacheId": "lWUCVa9gl_kJ",
+   "formattedUrl": "www.history.com/this.../earthquake-rocks-the-american-wilderness",
+   "htmlFormattedUrl": "www.history.com/this.../\u003cb\u003eearthquake\u003c/b\u003e-rocks-the-\u003cb\u003eamerican\u003c/b\u003e-wilderness",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://shop.history.com/img/product/resized/00084008-278998_100.jpg?k=3c627966&pid=84008&s=catl"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "80",
+      "height": "80",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlX7ig0dDO2NouXyp7ds6Y5H5dicypHx_zSFTQfF0YCDdB50A-A_Ul"
+     }
+    ],
+    "metatags": [
+     {
+      "search_title": "Earthquake rocks the American wilderness ??? History.com This Day in History ??? 12/16/1811",
+      "asset_type_id": "6",
+      "network": "History",
+      "display_description": "In the Mississippi River Valley near New Madrid, Missouri, the greatest series of earthquakes in U.S. history begins when a quake of an estimated 8.",
+      "asset_id": "1092868",
+      "viewport": "width=device-width",
+      "og:image": "/imgs/template/tdih.jpg",
+      "og:title": "Earthquake rocks the American wilderness ??? History.com This Day in History ??? 12/16/1811",
+      "og:description": "In the Mississippi River Valley near New Madrid, Missouri, the greatest series of earthquakes in U.S. history begins when a quake of an estimated 8.",
+      "og:site_name": "History.com",
+      "fb:app_id": "125536057474924",
+      "fb:admins": "100001148659782",
+      "og:url": "http://www.history.com/this-day-in-history/earthquake-rocks-the-american-wilderness"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Miracles Of World War 1: Thursday December 24, 1914, Sunday ...",
+   "htmlTitle": "Miracles Of World War 1: Thursday December \u003cb\u003e24\u003c/b\u003e, \u003cb\u003e1914\u003c/b\u003e, Sunday \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://politicalvelcraft.org/2012/11/30/miracles-of-world-war-1-thursday-december-24-1914-sunday-november-14-1915-sunday-may-13-1917/",
+   "displayLink": "politicalvelcraft.org",
+   "snippet": "Nov 30, 2012 ... Miracle Of Fatima 1917 Weekend Reflections: America's New Hero ... On   December 24, 1914, in the middle of a freezing battlefield in France, .... On May   13th, 1917 three children were playing games in the field while tending their   sheep. .... were Afghanistan, Iraq, Sudan, Libya, Cuba, North Korea and Iran.",
+   "htmlSnippet": "Nov 30, 2012 \u003cb\u003e...\u003c/b\u003e Miracle Of Fatima 1917 Weekend Reflections: \u003cb\u003eAmerica&#39;s\u003c/b\u003e New Hero \u003cb\u003e...\u003c/b\u003e On \u003cbr\u003e  December \u003cb\u003e24\u003c/b\u003e, \u003cb\u003e1914\u003c/b\u003e, in the middle of a freezing battlefield in France, \u003cb\u003e....\u003c/b\u003e On \u003cb\u003eMay\u003c/b\u003e \u003cbr\u003e  13th, 1917 three children were playing games in the field while tending their \u003cbr\u003e  sheep. \u003cb\u003e....\u003c/b\u003e were Afghanistan, Iraq, Sudan, Libya, Cuba, \u003cb\u003eNorth\u003c/b\u003e Korea and Iran.",
+   "cacheId": "DYrzFoXqAvoJ",
+   "formattedUrl": "politicalvelcraft.org/.../miracles-of-world-war-1-thursday-december-24-1914 -sunday-november-14-1915-sunday-may-13-1917/",
+   "htmlFormattedUrl": "politicalvelcraft.org/.../miracles-of-world-war-1-thursday-december-\u003cb\u003e24\u003c/b\u003e-\u003cb\u003e1914\u003c/b\u003e -sunday-november-14-1915-sunday-\u003cb\u003emay\u003c/b\u003e-13-1917/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://i0.wp.com/rasica.files.wordpress.com/2012/11/hand-bomb.gif?fit=400%2C400"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "187",
+      "height": "209",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IIXYGVDhWRI5XOqR8u7s38aHYLxCoM-zzjndsjW6wtQwfZ61LGKue5rK"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "AA3836B0B05D0BE2E52880CC2E02F2CB",
+      "og:type": "article",
+      "og:title": "Miracles Of World War 1: Thursday December 24, 1914, Sunday November 14, 1915, & Sunday May 13,??1917",
+      "og:url": "http://politicalvelcraft.org/2012/11/30/miracles-of-world-war-1-thursday-december-24-1914-sunday-november-14-1915-sunday-may-13-1917/",
+      "og:description": "World War I FIRST SOME BACKGROUND The military conflict that lasted between August 1914 to November 1918, which involved many of the countries of Europe as well the United States and other nations ...",
+      "og:site_name": "Political Vel Craft",
+      "og:image": "http://i0.wp.com/rasica.files.wordpress.com/2012/11/hand-bomb.gif?fit=400%2C400",
+      "twitter:site": "@wordpressdotcom",
+      "twitter:image": "http://i0.wp.com/rasica.files.wordpress.com/2012/11/hand-bomb.gif",
+      "twitter:card": "photo",
+      "twitter:creator": "@Volubrjotr",
+      "application-name": "Political Vel Craft",
+      "msapplication-window": "width=device-width;height=device-height",
+      "msapplication-tooltip": "Veil Of Politics",
+      "msapplication-task": "name=Subscribe;action-uri=http://politicalvelcraft.org/feed/;icon-uri=http://0.gravatar.com/blavatar/a314e578bbc1d14ea7e3ab0a77b555b1?s=16",
+      "title": "Miracles Of World War 1: Thursday December 24, 1914, Sunday November 14, 1915, & Sunday May 13,??1917 | Political Vel Craft on WordPress.com"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cascadia's Fault: The Deadly Earthquake That Will Devastate North ...",
+   "htmlTitle": "Cascadia&#39;s Fault: The Deadly \u003cb\u003eEarthquake\u003c/b\u003e That Will Devastate \u003cb\u003eNorth\u003c/b\u003e \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://www.harpercollins.ca/books/Cascadias-Fault-Jerry-Thompson/?isbn=9781554684663",
+   "displayLink": "www.harpercollins.ca",
+   "snippet": "Nov 4, 2011 ... The Deadly Earthquake That Will Devastate North America. By Jerry ... About   every 500 years this fault generates a monster earthquake. There is ... May. June.   July. August. September. October. November. December. Day. 1. 2. 3. 4 ... 24. 25.   26. 27. 28. 29. 30. 31. Year. 2008. 2007. 2006. 2005. 2004. 2003 ...",
+   "htmlSnippet": "Nov 4, 2011 \u003cb\u003e...\u003c/b\u003e The Deadly \u003cb\u003eEarthquake\u003c/b\u003e That Will Devastate \u003cb\u003eNorth America\u003c/b\u003e. By Jerry \u003cb\u003e...\u003c/b\u003e About \u003cbr\u003e  every 500 years this fault generates a monster \u003cb\u003eearthquake\u003c/b\u003e. There is \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMay\u003c/b\u003e. June. \u003cbr\u003e  July. August. September. October. November. December. Day. 1. 2. 3. 4 \u003cb\u003e...\u003c/b\u003e \u003cb\u003e24\u003c/b\u003e. 25. \u003cbr\u003e  26. 27. 28. 29. 30. 31. Year. 2008. 2007. 2006. 2005. 2004. 2003 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Vq5YqY_VnTcJ",
+   "formattedUrl": "www.harpercollins.ca/books/Cascadias-Fault-Jerry-Thompson/?isbn...",
+   "htmlFormattedUrl": "www.harpercollins.ca/books/Cascadias-Fault-Jerry-Thompson/?isbn...",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.harpercollins.com/harperimages/isbn/medium/3/9781554684663.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "77",
+      "height": "120",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQaQ0f5BLaimRzigHBKvthjE-whcvsLoN9XzMyMeYVtePgtUsUNTJR"
+     }
+    ],
+    "metatags": [
+     {
+      "og:image": "http://www.harpercollins.com/harperimages/isbn/medium/3/9781554684663.jpg",
+      "og:url": "http://www.harpercollins.ca/404_redirect.aspx?404;http://www.harpercollins.ca:80/books/Cascadias-Fault-Jerry-Thompson/?isbn=9781554684663"
+     }
+    ]
+   }
+  }
+ ]
+}

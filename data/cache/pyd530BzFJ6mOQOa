@@ -1,0 +1,259 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Jan 28 1988 Africa Earthquake",
+    "totalResults": "318000",
+    "searchTerms": "Jan 28 1988 Africa Earthquake",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - Jan 28 1988 Africa Earthquake",
+    "totalResults": "318000",
+    "searchTerms": "Jan 28 1988 Africa Earthquake",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007529424118287269452:etvjxaid02w"
+   }
+  ]
+ },
+ "context": {
+  "title": "Quakes-in-our-main"
+ },
+ "searchInformation": {
+  "searchTime": 0.546349,
+  "formattedSearchTime": "0.55",
+  "totalResults": "318000",
+  "formattedTotalResults": "318,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Worldwide EARTHQUAKE related news ??? To remember : South ...",
+   "htmlTitle": "Worldwide \u003cb\u003eEARTHQUAKE\u003c/b\u003e related news ??? To remember : South \u003cb\u003e...\u003c/b\u003e",
+   "link": "http://earthquake-report.com/2011/07/13/template-earthquake-related-news-july-2011/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "5 days ago ... South-Africa, 1976 - Magnitude : 5.2 ??? 4 people killed .... Quebec (Canada), 1988   - Magnitude : 5.9 .... Two people killed and 28 houses damaged in Choco   Department. ..... Hundreds of staff (including myself) of the INGV in Italy are   risking to find themselves without a new contract from 1 January 2013 on.",
+   "htmlSnippet": "5 days ago \u003cb\u003e...\u003c/b\u003e South-\u003cb\u003eAfrica\u003c/b\u003e, 1976 - Magnitude : 5.2 ??? 4 people killed \u003cb\u003e....\u003c/b\u003e Quebec (Canada), \u003cb\u003e1988\u003c/b\u003e \u003cbr\u003e  - Magnitude : 5.9 \u003cb\u003e....\u003c/b\u003e Two people killed and \u003cb\u003e28\u003c/b\u003e houses damaged in Choco \u003cbr\u003e  Department. \u003cb\u003e.....\u003c/b\u003e Hundreds of staff (including myself) of the INGV in Italy are \u003cbr\u003e  risking to find themselves without a new contract from 1 \u003cb\u003eJanuary\u003c/b\u003e 2013 on.",
+   "cacheId": "zQPqPKLLRvEJ",
+   "formattedUrl": "earthquake-report.com/.../template-earthquake-related-news-july-2011/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../template-\u003cb\u003eearthquake\u003c/b\u003e-related-news-july-2011/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://quakesos.sosearthquakesvz.netdna-cdn.com/wp-content/uploads/2011/05/earthquake-newso.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "120",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1xFFXFdYO3qjkCqEsruVk3AYQYwU2LJfvFWVR5BGEa8IGAR8ww4Aviw"
+     }
+    ],
+    "hcard": [
+     {
+      "fn": "logbill",
+      "nickname": "logbill"
+     },
+     {
+      "fn": "Armand Vervaeck"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "ShakeMap Atlas - Earthquake Hazards Program - USGS",
+   "htmlTitle": "ShakeMap Atlas - \u003cb\u003eEarthquake\u003c/b\u003e Hazards Program - USGS",
+   "link": "http://earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1988",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Oct 14, 2009 ... 5.0, SOUTH AFRICA, Dec 31 1988, 12:49:59, -26.829, 26.709 .... 5.2, NEAR THE   COAST OF LIBYA, Jan 28 1988, 15:48:11, 32.266, 21.059 ...",
+   "htmlSnippet": "Oct 14, 2009 \u003cb\u003e...\u003c/b\u003e 5.0, SOUTH \u003cb\u003eAFRICA\u003c/b\u003e, Dec 31 1988, 12:49:59, -26.829, 26.709 \u003cb\u003e....\u003c/b\u003e 5.2, NEAR THE \u003cbr\u003e  COAST OF LIBYA, \u003cb\u003eJan 28 1988\u003c/b\u003e, 15:48:11, 32.266, 21.059 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "aM-o3itKSogJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/shakemap/atlas.php?y=1988",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/shakemap/atlas.php?y=\u003cb\u003e1988\u003c/b\u003e"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list May 27, 2012 - Earthquake Report",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list May 27, 2012 - \u003cb\u003eEarthquake\u003c/b\u003e Report",
+   "link": "http://earthquake-report.com/2012/05/26/complete-earthquakes-list-may-27-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "May 30, 2012 ... Our readers have reported an earthquake (or at least serious vibrations) in the   Piet Relief region. Geoscience South Africa does not make any ...",
+   "htmlSnippet": "May 30, 2012 \u003cb\u003e...\u003c/b\u003e Our readers have reported an \u003cb\u003eearthquake\u003c/b\u003e (or at least serious vibrations) in the \u003cbr\u003e  Piet Relief region. Geoscience South \u003cb\u003eAfrica\u003c/b\u003e does not make any \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "che-VdXkuYoJ",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-may-27-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-may-27-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Historical Earthquakes",
+   "htmlTitle": "Historical \u003cb\u003eEarthquakes\u003c/b\u003e",
+   "link": "http://www.geoscience.org.za/index.php?option=com_content&view=article&id=1612:historical-earthquakes&catid=138:seismology-unit-activities&Itemid=615",
+   "displayLink": "www.geoscience.org.za",
+   "snippet": "The knowledge of early earthquakes in South Africa, as in other parts of the world  , is based on macroseismic ... Since 1988 several seismological stations have   been upgraded to digital stations. The current network comprises 28   seismological stations of which two are three-component broad-band stations, ...   11 Jan 1696 ...",
+   "htmlSnippet": "The knowledge of early \u003cb\u003eearthquakes\u003c/b\u003e in South \u003cb\u003eAfrica\u003c/b\u003e, as in other parts of the world\u003cbr\u003e  , is based on macroseismic \u003cb\u003e...\u003c/b\u003e Since \u003cb\u003e1988\u003c/b\u003e several seismological stations have \u003cbr\u003e  been upgraded to digital stations. The current network comprises \u003cb\u003e28\u003c/b\u003e \u003cbr\u003e  seismological stations of which two are three-component broad-band stations, \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  11 \u003cb\u003eJan\u003c/b\u003e 1696 \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "HzRAmQ_5o1MJ",
+   "formattedUrl": "www.geoscience.org.za/index.php?...earthquakes...",
+   "htmlFormattedUrl": "www.geoscience.org.za/index.php?...\u003cb\u003eearthquakes\u003c/b\u003e...",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Historical Earthquakes",
+      "author": "Malcolm Simpson"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Complete) Earthquakes list October 10, 2012 - Earthquake Report",
+   "htmlTitle": "(Complete) \u003cb\u003eEarthquakes\u003c/b\u003e list October 10, 2012 - \u003cb\u003eEarthquake\u003c/b\u003e Report",
+   "link": "http://earthquake-report.com/2012/10/09/complete-earthquakes-list-october-10-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Oct 11, 2012 ... The shallow depth of this earthquake, 9.9km, and the soil of this area made this   earthquake felt a little stronger than usual and felt in a wider ...",
+   "htmlSnippet": "Oct 11, 2012 \u003cb\u003e...\u003c/b\u003e The shallow depth of this \u003cb\u003eearthquake\u003c/b\u003e, 9.9km, and the soil of this area made this \u003cbr\u003e  \u003cb\u003eearthquake\u003c/b\u003e felt a little stronger than usual and felt in a wider \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "UCqlNl1gZx0J",
+   "formattedUrl": "earthquake-report.com/.../complete-earthquakes-list-october-10-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/.../complete-\u003cb\u003eearthquakes\u003c/b\u003e-list-october-10-2012/",
+   "pagemap": {
+    "hcard": [
+     {
+      "fn": "Alain jack",
+      "url": "http://nonw/",
+      "url_text": "Alain jack"
+     },
+     {
+      "fn": "Angela",
+      "nickname": "Angela",
+      "url": "http://www.survivingearthchanges.ning.com/",
+      "url_text": "Angela"
+     },
+     {
+      "fn": "Sharon",
+      "nickname": "Sharon"
+     },
+     {
+      "fn": "vasken der boghossian"
+     },
+     {
+      "fn": "Ronnie Lavigne"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 1,000 or More Deaths since 1900",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "Earthquakes with 1,000 or More Deaths since 1900. Sorted by ...",
+   "htmlSnippet": "\u003cb\u003eEarthquakes\u003c/b\u003e with 1,000 or More Deaths since 1900. Sorted by \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Wp53QF265fgJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/world_deaths_sort.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/world_deaths_sort.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "(Major) Earthquakes list August 1, 2012 - Earthquake Report",
+   "htmlTitle": "(Major) \u003cb\u003eEarthquakes\u003c/b\u003e list August 1, 2012 - \u003cb\u003eEarthquake\u003c/b\u003e Report",
+   "link": "http://earthquake-report.com/2012/07/31/major-earthquakes-list-august-1-2012/",
+   "displayLink": "earthquake-report.com",
+   "snippet": "Aug 1, 2012 ... REAL TIME EARTHQUAKE LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ???   STATES ... Moderate shallow earthquake in Xinjiang, China ...",
+   "htmlSnippet": "Aug 1, 2012 \u003cb\u003e...\u003c/b\u003e REAL TIME \u003cb\u003eEARTHQUAKE\u003c/b\u003e LIST S ??? WORLD ??? REGIONS ??? COUNTRIES ??? \u003cbr\u003e  STATES \u003cb\u003e...\u003c/b\u003e Moderate shallow \u003cb\u003eearthquake\u003c/b\u003e in Xinjiang, China \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "sAkFRzVb_nIJ",
+   "formattedUrl": "earthquake-report.com/2012/.../major-earthquakes-list-august-1-2012/",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e-report.com/2012/.../major-\u003cb\u003eearthquakes\u003c/b\u003e-list-august-1-2012/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Earthquakes with 50,000 or More Deaths",
+   "htmlTitle": "\u003cb\u003eEarthquakes\u003c/b\u003e with 50,000 or More Deaths",
+   "link": "http://earthquake.usgs.gov/earthquakes/world/most_destructive.php",
+   "displayLink": "earthquake.usgs.gov",
+   "snippet": "This webpage is updated in January of each year to incorporate ...",
+   "htmlSnippet": "This webpage is updated in \u003cb\u003eJanuary\u003c/b\u003e of each year to incorporate \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "Lqtp1s1LRLAJ",
+   "formattedUrl": "earthquake.usgs.gov/earthquakes/world/most_destructive.php",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003e.usgs.gov/\u003cb\u003eearthquakes\u003c/b\u003e/world/most_destructive.php"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Biggest Earthquakes in Southern and Central Africa - Page 9",
+   "htmlTitle": "The Biggest \u003cb\u003eEarthquakes\u003c/b\u003e in Southern and Central \u003cb\u003eAfrica\u003c/b\u003e - Page 9",
+   "link": "http://earthquaketrack.com/v/safrica/biggest?page=9",
+   "displayLink": "earthquaketrack.com",
+   "snippet": "Biggest Earthquakes Near Southern and Central Africa. Recent Quakes ...   December 31, 1988 UTC. Location: Epicenter at ... January 28, 1984 UTC.   Location: ...",
+   "htmlSnippet": "Biggest \u003cb\u003eEarthquakes\u003c/b\u003e Near Southern and Central \u003cb\u003eAfrica\u003c/b\u003e. Recent Quakes \u003cb\u003e...\u003c/b\u003e \u003cbr\u003e  December 31, \u003cb\u003e1988\u003c/b\u003e UTC. Location: Epicenter at \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary 28\u003c/b\u003e, 1984 UTC. \u003cbr\u003e  Location: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6D_xP7va9TAJ",
+   "formattedUrl": "earthquaketrack.com/v/safrica/biggest?page=9",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/s\u003cb\u003eafrica\u003c/b\u003e/biggest?page=9",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "3GYVS0zdy+MHeuRfeXHSdik0J2CSWSUo8FWj9dE4+gs="
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "1968 Belice earthquake - Wikipedia, the free encyclopedia",
+   "htmlTitle": "1968 Belice \u003cb\u003eearthquake\u003c/b\u003e - Wikipedia, the free encyclopedia",
+   "link": "http://en.wikipedia.org/wiki/1968_Belice_earthquake",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "Sicily lies on the complex convergent plate boundary between the African Plate   and the Eurasian Plate. ... historical seismic event, beginning with a M 5.2 shock   at 12:28 on the 14 January, ... The earthquakes on 14 January did little damage,   but many of the ... A History of Contemporary Italy: Society and Politics, 1943-  1988.",
+   "htmlSnippet": "Sicily lies on the complex convergent plate boundary between the \u003cb\u003eAfrican\u003c/b\u003e Plate \u003cbr\u003e  and the Eurasian Plate. \u003cb\u003e...\u003c/b\u003e historical \u003cb\u003eseismic\u003c/b\u003e event, beginning with a M 5.2 shock \u003cbr\u003e  at 12:\u003cb\u003e28\u003c/b\u003e on the 14 \u003cb\u003eJanuary\u003c/b\u003e, \u003cb\u003e...\u003c/b\u003e The \u003cb\u003eearthquakes\u003c/b\u003e on 14 \u003cb\u003eJanuary\u003c/b\u003e did little damage, \u003cbr\u003e  but many of the \u003cb\u003e...\u003c/b\u003e A History of Contemporary Italy: Society and Politics, 1943-\u003cbr\u003e  \u003cb\u003e1988\u003c/b\u003e.",
+   "cacheId": "HlivwB2kT_wJ",
+   "formattedUrl": "en.wikipedia.org/wiki/1968_Belice_earthquake",
+   "htmlFormattedUrl": "en.wikipedia.org/wiki/1968_Belice_\u003cb\u003eearthquake\u003c/b\u003e",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Poggioreale_ruderi2.jpg/220px-Poggioreale_ruderi2.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "176",
+      "height": "264",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTivtGO7mo-EPzonMI5a6sjxRsW9CnSQQbqQRvG4mgyzn_TiC7fc7DVbpnX"
+     }
+    ]
+   }
+  }
+ ]
+}
+picenter at \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJanuary 28\u003c/b\u003e, 1984 UTC. \u003cbr\u003e  Location: \u003cb\u003e...\u003c/b\u003e",
+   "cacheId": "6D_xP7va9TAJ",
+   "formattedUrl": "earthquaketrack.com/v/safrica/biggest?page=9",
+   "htmlFormattedUrl": "\u003cb\u003eearthquake\u003c/b\u003etrack.com/v/s\u003cb\u003eafrica\u003c/b\u003e/biggest?page=9",
+   "pagemap": {
+    "metatags": [
+     {
+      "csrf-param": "authenticity_token",
+      "csrf-token": "3GYVS0zdy+MHeuRfeXHSdik0J2CSWSUo8FWj9dE4+gs="
+     }
+    ]
+   }
+  }
+ ]
+}
