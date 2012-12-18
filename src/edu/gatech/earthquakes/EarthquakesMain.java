@@ -18,33 +18,33 @@ public class EarthquakesMain extends PApplet {
     private Controller cont;
 
     public static void main(String[] args) {
-	PApplet.main(new String[] { "edu.gatech.earthquakes.EarthquakesMain" });
+        PApplet.main(new String[] { "edu.gatech.earthquakes.EarthquakesMain" });
     }
 
     public void setup() {
-	smooth();
+        smooth();
 
-	PFont font = null;
-	String fileName = ".." + File.separator + "data" + File.separator
-	        + "fonts" + File.separator + "Quicksand-Regular.ttf";
-	createInput(fileName);
-	font = createFont(fileName, 24);
+        PFont font = null;
+        String fileName = ".." + File.separator + "data" + File.separator
+                + "fonts" + File.separator + "Quicksand-Regular.ttf";
+        createInput(fileName);
+        font = createFont(fileName, 24);
 
-	textFont(font);
-	Rectangle bounds = GraphicsEnvironment.getLocalGraphicsEnvironment()
-	        .getMaximumWindowBounds();
-	JFrame sample = new JFrame();
-	sample.pack();
-	Insets insets = sample.getInsets();
-	int wwidth = (bounds.width - insets.left - insets.right);
-	int wheight = (bounds.height - insets.top - insets.bottom);
-	sample.dispose();
-	size(wwidth, wheight - 48); // Offset applet bottom and top
-	cont = new Controller(this);
+        textFont(font);
+        Rectangle bounds = GraphicsEnvironment.getLocalGraphicsEnvironment()
+                .getMaximumWindowBounds();
+        JFrame sample = new JFrame();
+        sample.pack();
+        Insets insets = sample.getInsets();
+        int wwidth = (bounds.width - insets.left - insets.right);
+        int wheight = (bounds.height - insets.top - insets.bottom);
+        sample.dispose();
+        size(wwidth, wheight - 48); // Offset applet bottom and top
+        cont = new Controller(this);
     }
 
     public void draw() {
-	background(Theme.getBackgroundColor());
-	cont.refresh();
+        background(Theme.getBackgroundColor());
+        cont.refresh();
     }
 }

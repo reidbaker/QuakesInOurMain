@@ -30,7 +30,7 @@ public class DetailedInfo extends Individual implements Brushable {
     private volatile String title;
 
     // To keep from spamming custom search
-//    private volatile boolean searching;
+    // private volatile boolean searching;
 
     // Formatting
     private int xPadding;
@@ -41,7 +41,7 @@ public class DetailedInfo extends Individual implements Brushable {
         super(x, y, w, h, displayData, "Detailed Information");
         setFormatting(w, h);
         recalculateNumResults();
-//        searching = false;
+        // searching = false;
     }
 
     private void setFormatting(int width, int height) {
@@ -51,35 +51,35 @@ public class DetailedInfo extends Individual implements Brushable {
     }
 
     private void recalculateNumResults() {
-//        if (!searching) {
-            new Thread(new Runnable() {
+        // if (!searching) {
+        new Thread(new Runnable() {
 
-                @Override
-                public void run() {
-//                    searching = true;
-                    try {
-                        numResults = CustomSearch.getTotalCount(CustomSearch
-                                .getInstance().getQuery(getWebQuery()));
-                        title = CustomSearch.getTitles(0, CustomSearch
-                                .getInstance().getQuery(getWebQuery()));
-//                        searching = false;
-                    } catch (UnknownHostException uhe) {
-                        numResults = -1;
-                        title = "";
-                        System.err.println("Unknown Host: " + uhe.getMessage());
-                    } catch (NoSuchAlgorithmException | IOException e) {
-                        numResults = -1;
-                        title = "";
-                        e.printStackTrace();
-                    } catch (Exception e) {
-                        numResults = -1;
-                        title = "";
-                    } finally {
-//                        searching = false;
-                    }
+            @Override
+            public void run() {
+                // searching = true;
+                try {
+                    numResults = CustomSearch.getTotalCount(CustomSearch
+                            .getInstance().getQuery(getWebQuery()));
+                    title = CustomSearch.getTitles(0, CustomSearch
+                            .getInstance().getQuery(getWebQuery()));
+                    // searching = false;
+                } catch (UnknownHostException uhe) {
+                    numResults = -1;
+                    title = "";
+                    System.err.println("Unknown Host: " + uhe.getMessage());
+                } catch (NoSuchAlgorithmException | IOException e) {
+                    numResults = -1;
+                    title = "";
+                    e.printStackTrace();
+                } catch (Exception e) {
+                    numResults = -1;
+                    title = "";
+                } finally {
+                    // searching = false;
                 }
-            }).start();
-//        }
+            }
+        }).start();
+        // }
     }
 
     public void drawComponent(PApplet parent) {

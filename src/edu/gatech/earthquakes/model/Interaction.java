@@ -8,28 +8,28 @@ public class Interaction {
     final private PApplet parentApplet;
 
     public Interaction(final boolean firstPress, final boolean dragged,
-	    final boolean released, final PApplet parentApplet) {
-	super();
-	this.firstPress = firstPress;
-	this.dragged = dragged;
-	this.released = released;
-	this.parentApplet = parentApplet;
+            final boolean released, final PApplet parentApplet) {
+        super();
+        this.firstPress = firstPress;
+        this.dragged = dragged;
+        this.released = released;
+        this.parentApplet = parentApplet;
     }
 
     public boolean isFirstPress() {
-	return firstPress;
+        return firstPress;
     }
 
     public boolean isDragged() {
-	return dragged;
+        return dragged;
     }
 
     public boolean isReleased() {
-	return released;
+        return released;
     }
 
     public PApplet getParentApplet() {
-	return parentApplet;
+        return parentApplet;
     }
 
 }

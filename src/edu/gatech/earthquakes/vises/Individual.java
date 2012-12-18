@@ -8,12 +8,12 @@ public abstract class Individual extends AbstractVisualization {
     protected DataRow displayData;
 
     public Individual(int x, int y, int w, int h, DataRow displayData) {
-	this(x, y, w, h, displayData, "Individual - FIX ME");
+        this(x, y, w, h, displayData, "Individual - FIX ME");
     }
 
     public Individual(int x, int y, int w, int h, DataRow displayData,
-	    String title) {
-	super(x, y, w, h, title);
-	this.displayData = displayData;
+            String title) {
+        super(x, y, w, h, title);
+        this.displayData = displayData;
     }
 }
